@@ -20,7 +20,7 @@ def scrape(fetch, period='daily', lang=None):
         data = func(since=period)
 
     with open(filename, 'w') as of:
-        json.dump(data, of)
+        json.dump(data, of, indent=4, sort_keys=True)
 
     if fetch == 'repos':
         update_readme(period, data)

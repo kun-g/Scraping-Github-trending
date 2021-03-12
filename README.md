@@ -39,4 +39,16 @@
 
 ## 本月TOP10
 <!-- START OF MONTHLY_TOP10_REPOS -->
+| 名字 | 简介 |
+| :----: | :----: |
+| [binance-trade-bot](https://github.com/edeng23/binance-trade-bot) | Automated cryptocurrency trading bot |
+| [avatarify-python](https://github.com/alievk/avatarify-python) | Avatars for Zoom, Skype and other video-conferencing apps. |
+| [github1s](https://github.com/conwnet/github1s) | One second to read GitHub code with VS Code. |
+| [dapr](https://github.com/dapr/dapr) | Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge. |
+| [tauri](https://github.com/tauri-apps/tauri) | Build smaller, faster, and more secure desktop applications with a web frontend. |
+| [dolt](https://github.com/dolthub/dolt) | Dolt – It's Git for Data |
+| [cosmopolitan](https://github.com/jart/cosmopolitan) | fast portable static native textmode containers |
+| [social-analyzer](https://github.com/qeeqbox/social-analyzer) | API, CLI & Web App for analyzing & finding a person's profile across 350+ social media \ websites (Detections are updated regularly) |
+| [compose-samples](https://github.com/android/compose-samples) | Official Jetpack Compose samples. |
+| [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) | Sourcetrail - free and open-source interactive source explorer |
 <!-- END OF MONTHLY_TOP10_REPOS -->
