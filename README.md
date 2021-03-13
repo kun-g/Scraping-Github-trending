@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [coreutils](https://github.com/uutils/coreutils) | Cross-platform Rust rewrite of the GNU coreutils |
-| [CSS-Exchange](https://github.com/microsoft/CSS-Exchange) | Exchange Server support tools and scripts |
-| [jellyfin](https://github.com/jellyfin/jellyfin) | The Free Software Media System |
-| [nvm](https://github.com/nvm-sh/nvm) | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
-| [tuist](https://github.com/tuist/tuist) | 🚀 Create, maintain, and interact with Xcode projects at scale |
-| [onnxruntime](https://github.com/microsoft/onnxruntime) | ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator |
-| [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) | 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file. |
-| [YesPlayMusic](https://github.com/qier222/YesPlayMusic) | 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux |
+| [mobilecoin](https://github.com/mobilecoinfoundation/mobilecoin) | Private payments for mobile devices. |
+| [strapi](https://github.com/strapi/strapi) | 🚀 Open source Node.js Headless CMS to easily build customisable APIs |
+| [authelia](https://github.com/authelia/authelia) | The Single Sign-On Multi-Factor portal for web apps |
+| [awesome-compose](https://github.com/docker/awesome-compose) | Awesome Docker Compose samples |
 | [Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) | 70+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars. |
-| [sherlock](https://github.com/sherlock-project/sherlock) | 🔎 Hunt down social media accounts by username across social networks |
+| [amphtml](https://github.com/ampproject/amphtml) | The AMP web component framework. |
+| [UnicomTask](https://github.com/srcrs/UnicomTask) | 联通手机营业厅自动做任务、签到、领流量、领积分等。 |
+| [d2l-zh](https://github.com/d2l-ai/d2l-zh) | 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被全球175所大学采用教学。 |
+| [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) | 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file. |
+| [Files](https://github.com/files-community/Files) | A modern file explorer that pushes the boundaries of the platform. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
