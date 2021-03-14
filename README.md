@@ -25,16 +25,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [flutter-folio](https://github.com/gskinnerTeam/flutter-folio) | A platform adaptive Flutter app for desktop, mobile and web. |
+| [dolt](https://github.com/dolthub/dolt) | Dolt – It's Git for Data |
 | [sherlock](https://github.com/sherlock-project/sherlock) | 🔎 Hunt down social media accounts by username across social networks |
-| [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond. |
-| [jd_maotai_seckill](https://github.com/muguruzawang/jd_maotai_seckill) | 优化版本的京东茅台抢购神器 |
-| [nushell](https://github.com/nushell/nushell) | A new type of shell |
-| [JavaGuide](https://github.com/Snailclimb/JavaGuide) | 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！ |
-| [flowchart-fun](https://github.com/tone-row/flowchart-fun) | A small app for making quick flowcharts from text ⿻ |
-| [CLIP](https://github.com/openai/CLIP) | Contrastive Language-Image Pretraining |
-| [zig](https://github.com/ziglang/zig) | General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. |
-| [ytfzf](https://github.com/pystardust/ytfzf) | A posix script to find and watch youtube videos from the terminal. (With out API) |
+| [awesome-compose](https://github.com/docker/awesome-compose) | Awesome Docker Compose samples |
+| [Docker-OSX](https://github.com/sickcodes/Docker-OSX) | Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X! |
+| [authelia](https://github.com/authelia/authelia) | The Single Sign-On Multi-Factor portal for web apps |
+| [apkleaks](https://github.com/dwisiswant0/apkleaks) | Scanning APK file for URIs, endpoints & secrets. |
+| [UnicomTask](https://github.com/srcrs/UnicomTask) | 联通手机营业厅自动做任务、签到、领流量、领积分等。 |
+| [flutter-folio](https://github.com/gskinnerTeam/flutter-folio) | A platform adaptive Flutter app for desktop, mobile and web. |
+| [edex-ui](https://github.com/GitSquared/edex-ui) | A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support. |
+| [vissl](https://github.com/facebookresearch/vissl) | VISSL is FAIR's library of extensible, modular and scalable components for SOTA Self-Supervised Learning with images. |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
