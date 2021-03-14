@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [mobilecoin](https://github.com/mobilecoinfoundation/mobilecoin) | Private payments for mobile devices. |
-| [strapi](https://github.com/strapi/strapi) | 🚀 Open source Node.js Headless CMS to easily build customisable APIs |
-| [authelia](https://github.com/authelia/authelia) | The Single Sign-On Multi-Factor portal for web apps |
+| [dogehouse](https://github.com/benawad/dogehouse) | Taking voice conversations to the moon 🚀 |
+| [Docker-OSX](https://github.com/sickcodes/Docker-OSX) | Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X! |
 | [awesome-compose](https://github.com/docker/awesome-compose) | Awesome Docker Compose samples |
-| [Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) | 70+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars. |
-| [amphtml](https://github.com/ampproject/amphtml) | The AMP web component framework. |
+| [spring-native](https://github.com/spring-projects-experimental/spring-native) | Spring Native provides beta support for compiling Spring applications to native executables using GraalVM native-image compiler. |
+| [osx-serial-generator](https://github.com/sickcodes/osx-serial-generator) | Mac Serial Generator - Generate complete sets of Serial Numbers for OSX-KVM, Docker-OSX and of course, OpenCore. |
 | [UnicomTask](https://github.com/srcrs/UnicomTask) | 联通手机营业厅自动做任务、签到、领流量、领积分等。 |
-| [d2l-zh](https://github.com/d2l-ai/d2l-zh) | 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被全球175所大学采用教学。 |
-| [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) | 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file. |
-| [Files](https://github.com/files-community/Files) | A modern file explorer that pushes the boundaries of the platform. |
+| [mobilecoin](https://github.com/mobilecoinfoundation/mobilecoin) | Private payments for mobile devices. |
+| [PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! |
+| [components](https://github.com/angular/components) | Component infrastructure and Material Design components for Angular |
+| [authelia](https://github.com/authelia/authelia) | The Single Sign-On Multi-Factor portal for web apps |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
