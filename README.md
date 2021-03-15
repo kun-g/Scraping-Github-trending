@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [dogehouse](https://github.com/benawad/dogehouse) | Taking voice conversations to the moon 🚀 |
-| [Docker-OSX](https://github.com/sickcodes/Docker-OSX) | Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X! |
 | [awesome-compose](https://github.com/docker/awesome-compose) | Awesome Docker Compose samples |
-| [spring-native](https://github.com/spring-projects-experimental/spring-native) | Spring Native provides beta support for compiling Spring applications to native executables using GraalVM native-image compiler. |
-| [osx-serial-generator](https://github.com/sickcodes/osx-serial-generator) | Mac Serial Generator - Generate complete sets of Serial Numbers for OSX-KVM, Docker-OSX and of course, OpenCore. |
-| [UnicomTask](https://github.com/srcrs/UnicomTask) | 联通手机营业厅自动做任务、签到、领流量、领积分等。 |
+| [kit](https://github.com/sveltejs/kit) | A monorepo for SvelteKit and friends |
 | [mobilecoin](https://github.com/mobilecoinfoundation/mobilecoin) | Private payments for mobile devices. |
+| [spring-native](https://github.com/spring-projects-experimental/spring-native) | Spring Native provides beta support for compiling Spring applications to native executables using GraalVM native-image compiler. |
 | [PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! |
-| [components](https://github.com/angular/components) | Component infrastructure and Material Design components for Angular |
-| [authelia](https://github.com/authelia/authelia) | The Single Sign-On Multi-Factor portal for web apps |
+| [oppia](https://github.com/oppia/oppia) | A free, online learning platform to make quality education accessible for all. |
+| [flameshot](https://github.com/flameshot-org/flameshot) | Powerful yet simple to use screenshot software 🖥️ 📸 |
+| [Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) | 70+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars. |
+| [Ryujinx](https://github.com/Ryujinx/Ryujinx) | Experimental Nintendo Switch Emulator written in C# |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
