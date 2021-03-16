@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [dogehouse](https://github.com/benawad/dogehouse) | Taking voice conversations to the moon 🚀 |
-| [awesome-compose](https://github.com/docker/awesome-compose) | Awesome Docker Compose samples |
-| [kit](https://github.com/sveltejs/kit) | A monorepo for SvelteKit and friends |
-| [mobilecoin](https://github.com/mobilecoinfoundation/mobilecoin) | Private payments for mobile devices. |
-| [spring-native](https://github.com/spring-projects-experimental/spring-native) | Spring Native provides beta support for compiling Spring applications to native executables using GraalVM native-image compiler. |
-| [PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! |
-| [oppia](https://github.com/oppia/oppia) | A free, online learning platform to make quality education accessible for all. |
-| [flameshot](https://github.com/flameshot-org/flameshot) | Powerful yet simple to use screenshot software 🖥️ 📸 |
-| [Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) | 70+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars. |
 | [Ryujinx](https://github.com/Ryujinx/Ryujinx) | Experimental Nintendo Switch Emulator written in C# |
+| [GamestonkTerminal](https://github.com/DidierRLopes/GamestonkTerminal) | The next best thing after Bloomberg Terminal |
+| [discord.js](https://github.com/discordjs/discord.js) | A powerful JavaScript library for interacting with the Discord API |
+| [oppia](https://github.com/oppia/oppia) | A free, online learning platform to make quality education accessible for all. |
+| [dogehouse](https://github.com/benawad/dogehouse) | Taking voice conversations to the moon 🚀 |
+| [bettercap](https://github.com/bettercap/bettercap) | The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks. |
+| [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) | Unofficial Bitwarden compatible server written in Rust |
+| [maui](https://github.com/dotnet/maui) | .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop. |
+| [valheim-server-docker](https://github.com/lloesche/valheim-server-docker) | Valheim dedicated gameserver with automatic update, World backup and ValheimPlus mod support |
+| [neovim-dots](https://github.com/siduck76/neovim-dots) | my neovim configs |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
