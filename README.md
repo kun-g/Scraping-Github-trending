@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [Ryujinx](https://github.com/Ryujinx/Ryujinx) | Experimental Nintendo Switch Emulator written in C# |
 | [GamestonkTerminal](https://github.com/DidierRLopes/GamestonkTerminal) | The next best thing after Bloomberg Terminal |
+| [ganspace](https://github.com/harskish/ganspace) | Discovering Interpretable GAN Controls [NeurIPS 2020] |
+| [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) | Advanced information gathering & OSINT framework for phone numbers |
 | [discord.js](https://github.com/discordjs/discord.js) | A powerful JavaScript library for interacting with the Discord API |
-| [oppia](https://github.com/oppia/oppia) | A free, online learning platform to make quality education accessible for all. |
-| [dogehouse](https://github.com/benawad/dogehouse) | Taking voice conversations to the moon 🚀 |
-| [bettercap](https://github.com/bettercap/bettercap) | The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks. |
-| [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) | Unofficial Bitwarden compatible server written in Rust |
-| [maui](https://github.com/dotnet/maui) | .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop. |
-| [valheim-server-docker](https://github.com/lloesche/valheim-server-docker) | Valheim dedicated gameserver with automatic update, World backup and ValheimPlus mod support |
-| [neovim-dots](https://github.com/siduck76/neovim-dots) | my neovim configs |
+| [flameshot](https://github.com/flameshot-org/flameshot) | Powerful yet simple to use screenshot software 🖥️ 📸 |
+| [Ryujinx](https://github.com/Ryujinx/Ryujinx) | Experimental Nintendo Switch Emulator written in C# |
+| [security-research-pocs](https://github.com/google/security-research-pocs) | Proof-of-concept codes created as part of security research done by Google Security Team. |
+| [osx-serial-generator](https://github.com/sickcodes/osx-serial-generator) | Mac Serial Generator - Generate complete sets of Serial Numbers for OSX-KVM, Docker-OSX and of course, OpenCore. |
+| [retoolkit](https://github.com/mentebinaria/retoolkit) | Reverse Engineer's Toolkit |
+| [machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) | Code and resources for Machine Learning for Algorithmic Trading, 2nd edition. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
