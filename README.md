@@ -18,7 +18,7 @@
 | [security-research-pocs](https://github.com/google/security-research-pocs) | Proof-of-concept codes created as part of security research done by Google Security Team. |
 | [osx-serial-generator](https://github.com/sickcodes/osx-serial-generator) | Mac Serial Generator - Generate complete sets of Serial Numbers for OSX-KVM, Docker-OSX and of course, OpenCore. |
 | [retoolkit](https://github.com/mentebinaria/retoolkit) | Reverse Engineer's Toolkit |
-| [machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) | Code and resources for Machine Learning for Algorithmic Trading, 2nd edition. |
+| [machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) | Code for Machine Learning for Algorithmic Trading, 2nd edition. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
