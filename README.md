@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [GamestonkTerminal](https://github.com/DidierRLopes/GamestonkTerminal) | The next best thing after Bloomberg Terminal |
-| [ganspace](https://github.com/harskish/ganspace) | Discovering Interpretable GAN Controls [NeurIPS 2020] |
-| [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) | Advanced information gathering & OSINT framework for phone numbers |
-| [discord.js](https://github.com/discordjs/discord.js) | A powerful JavaScript library for interacting with the Discord API |
-| [flameshot](https://github.com/flameshot-org/flameshot) | Powerful yet simple to use screenshot software 🖥️ 📸 |
-| [Ryujinx](https://github.com/Ryujinx/Ryujinx) | Experimental Nintendo Switch Emulator written in C# |
-| [security-research-pocs](https://github.com/google/security-research-pocs) | Proof-of-concept codes created as part of security research done by Google Security Team. |
-| [osx-serial-generator](https://github.com/sickcodes/osx-serial-generator) | Mac Serial Generator - Generate complete sets of Serial Numbers for OSX-KVM, Docker-OSX and of course, OpenCore. |
-| [retoolkit](https://github.com/mentebinaria/retoolkit) | Reverse Engineer's Toolkit |
-| [machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) | Code for Machine Learning for Algorithmic Trading, 2nd edition. |
+| [isowords](https://github.com/pointfreeco/isowords) | Open source game built in SwiftUI and the Composable Architecture. |
+| [DALL-E](https://github.com/openai/DALL-E) | PyTorch package for the discrete VAE used for DALL·E. |
+| [tweetable-polyglot-png](https://github.com/DavidBuchanan314/tweetable-polyglot-png) | Pack up to 3MB of data into a tweetable PNG polyglot file. |
+| [swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) | A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind. |
+| [manim](https://github.com/3b1b/manim) | Animation engine for explanatory math videos |
+| [charts.css](https://github.com/ChartsCSS/charts.css) | Open source CSS framework for data visualization. |
+| [chatwoot](https://github.com/chatwoot/chatwoot) | Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 |
+| [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
+| [applied-methods-phd](https://github.com/paulgp/applied-methods-phd) | Repo for Yale Applied Empirical Methods PHD Course |
+| [project-based-learning](https://github.com/tuvtran/project-based-learning) | Curated list of project-based tutorials |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
