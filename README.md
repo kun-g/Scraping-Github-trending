@@ -25,16 +25,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [dolt](https://github.com/dolthub/dolt) | Dolt – It's Git for Data |
-| [sherlock](https://github.com/sherlock-project/sherlock) | 🔎 Hunt down social media accounts by username across social networks |
 | [awesome-compose](https://github.com/docker/awesome-compose) | Awesome Docker Compose samples |
 | [Docker-OSX](https://github.com/sickcodes/Docker-OSX) | Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X! |
-| [authelia](https://github.com/authelia/authelia) | The Single Sign-On Multi-Factor portal for web apps |
-| [apkleaks](https://github.com/dwisiswant0/apkleaks) | Scanning APK file for URIs, endpoints & secrets. |
 | [UnicomTask](https://github.com/srcrs/UnicomTask) | 联通手机营业厅自动做任务、签到、领流量、领积分等。 |
-| [flutter-folio](https://github.com/gskinnerTeam/flutter-folio) | A platform adaptive Flutter app for desktop, mobile and web. |
-| [edex-ui](https://github.com/GitSquared/edex-ui) | A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support. |
-| [vissl](https://github.com/facebookresearch/vissl) | VISSL is FAIR's library of extensible, modular and scalable components for SOTA Self-Supervised Learning with images. |
+| [dogehouse](https://github.com/benawad/dogehouse) | Taking voice conversations to the moon 🚀 |
+| [kit](https://github.com/sveltejs/kit) | A monorepo for SvelteKit and friends |
+| [osx-serial-generator](https://github.com/sickcodes/osx-serial-generator) | Mac Serial Generator - Generate complete sets of Serial Numbers for OSX-KVM, Docker-OSX and of course, OpenCore. |
+| [bettercap](https://github.com/bettercap/bettercap) | The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks. |
+| [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) | Advanced information gathering & OSINT framework for phone numbers |
+| [Ryujinx](https://github.com/Ryujinx/Ryujinx) | Experimental Nintendo Switch Emulator written in C# |
+| [discord.js](https://github.com/discordjs/discord.js) | A powerful JavaScript library for interacting with the Discord API |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
