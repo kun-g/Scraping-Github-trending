@@ -41,14 +41,14 @@
 <!-- START OF MONTHLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [binance-trade-bot](https://github.com/edeng23/binance-trade-bot) | Automated cryptocurrency trading bot |
-| [avatarify-python](https://github.com/alievk/avatarify-python) | Avatars for Zoom, Skype and other video-conferencing apps. |
-| [dapr](https://github.com/dapr/dapr) | Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge. |
-| [cosmopolitan](https://github.com/jart/cosmopolitan) | fast portable static native textmode containers |
 | [awesome-compose](https://github.com/docker/awesome-compose) | Awesome Docker Compose samples |
+| [avatarify-python](https://github.com/alievk/avatarify-python) | Avatars for Zoom, Skype and other video-conferencing apps. |
+| [dogehouse](https://github.com/benawad/dogehouse) | Taking voice conversations to the moon 🚀 |
+| [fprime](https://github.com/nasa/fprime) | F' - A flight software and embedded systems framework |
+| [Docker-OSX](https://github.com/sickcodes/Docker-OSX) | Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X! |
+| [clubhouse-py](https://github.com/stypr/clubhouse-py) | Clubhouse API written in Python. Standalone client included. For reference and education purposes only. |
 | [social-analyzer](https://github.com/qeeqbox/social-analyzer) | API, CLI & Web App for analyzing & finding a person's profile across 350+ social media \ websites (Detections are updated regularly) |
 | [compose-samples](https://github.com/android/compose-samples) | Official Jetpack Compose samples. |
-| [flameshot](https://github.com/flameshot-org/flameshot) | Powerful yet simple to use screenshot software 🖥️ 📸 |
-| [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) | Sourcetrail - free and open-source interactive source explorer |
 | [first-order-model](https://github.com/AliaksandrSiarohin/first-order-model) | This repository contains the source code for the paper First Order Motion Model for Image Animation |
+| [cosmopolitan](https://github.com/jart/cosmopolitan) | fast portable static native textmode containers |
 <!-- END OF MONTHLY_TOP10_REPOS -->
