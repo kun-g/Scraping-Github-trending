@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [tweetable-polyglot-png](https://github.com/DavidBuchanan314/tweetable-polyglot-png) | Pack up to 3MB of data into a tweetable PNG polyglot file. |
-| [chatwoot](https://github.com/chatwoot/chatwoot) | Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 |
+| [mangadex](https://github.com/holo-gfx/mangadex) | None |
+| [dotfiles](https://github.com/mathiasbynens/dotfiles) | 🔧 .files, including ~/.macos — sensible hacker defaults for macOS |
+| [Telegram](https://github.com/DrKLO/Telegram) | Telegram for Android source |
+| [GitHub520](https://github.com/521xueweihan/GitHub520) | 😘 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装软件） |
 | [CHIRP](https://github.com/cisagov/CHIRP) | A forensic collection tool written in Python. |
-| [outrun](https://github.com/Overv/outrun) | Execute a local command using the processing power of another Linux machine. |
-| [isowords](https://github.com/pointfreeco/isowords) | Open source game built in SwiftUI and the Composable Architecture. |
-| [applied-methods-phd](https://github.com/paulgp/applied-methods-phd) | Repo for Yale Applied Empirical Methods PHD Course |
 | [swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) | A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind. |
-| [app-ideas](https://github.com/florinpop17/app-ideas) | A Collection of application ideas which can be used to improve your coding skills. |
-| [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
-| [GitHub520](https://github.com/521xueweihan/GitHub520) | 😘 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。 |
+| [chatwoot](https://github.com/chatwoot/chatwoot) | Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 |
+| [binance-trade-bot](https://github.com/edeng23/binance-trade-bot) | Automated cryptocurrency trading bot |
+| [ARK-Invest-Tesla-Valuation-Model](https://github.com/ARKInvest/ARK-Invest-Tesla-Valuation-Model) | An excerpt from our financial valuation model of Tesla |
+| [based.cooking](https://github.com/LukeSmithxyz/based.cooking) | A simple culinary website. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
