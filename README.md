@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [mangadex](https://github.com/holo-gfx/mangadex) | None |
-| [dotfiles](https://github.com/mathiasbynens/dotfiles) | 🔧 .files, including ~/.macos — sensible hacker defaults for macOS |
-| [Telegram](https://github.com/DrKLO/Telegram) | Telegram for Android source |
-| [GitHub520](https://github.com/521xueweihan/GitHub520) | 😘 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装软件） |
-| [CHIRP](https://github.com/cisagov/CHIRP) | A forensic collection tool written in Python. |
-| [swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) | A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind. |
-| [chatwoot](https://github.com/chatwoot/chatwoot) | Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 |
-| [binance-trade-bot](https://github.com/edeng23/binance-trade-bot) | Automated cryptocurrency trading bot |
-| [ARK-Invest-Tesla-Valuation-Model](https://github.com/ARKInvest/ARK-Invest-Tesla-Valuation-Model) | An excerpt from our financial valuation model of Tesla |
 | [based.cooking](https://github.com/LukeSmithxyz/based.cooking) | A simple culinary website. |
+| [mangadex](https://github.com/holo-gfx/mangadex) | None |
+| [papercups](https://github.com/papercups-io/papercups) | Open-source live customer chat |
+| [Python](https://github.com/geekcomputers/Python) | My Python Examples |
+| [binance-trade-bot](https://github.com/edeng23/binance-trade-bot) | Automated cryptocurrency trading bot |
+| [tweetable-polyglot-png](https://github.com/DavidBuchanan314/tweetable-polyglot-png) | Pack up to 3MB of data into a tweetable PNG polyglot file. |
+| [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
+| [CleanArchitecture](https://github.com/blazorhero/CleanArchitecture) | Clean Architecture Template for Blazor WebAssembly Built with MudBlazor Components. |
+| [Xray-core](https://github.com/XTLS/Xray-core) | Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration. |
+| [GitHub520](https://github.com/521xueweihan/GitHub520) | 😘 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装） |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
