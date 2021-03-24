@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [based.cooking](https://github.com/LukeSmithxyz/based.cooking) | A simple culinary website. |
-| [mangadex](https://github.com/holo-gfx/mangadex) | None |
-| [papercups](https://github.com/papercups-io/papercups) | Open-source live customer chat |
-| [Python](https://github.com/geekcomputers/Python) | My Python Examples |
+| [gpt-neo](https://github.com/EleutherAI/gpt-neo) | An implementation of model parallel GPT2& GPT3-like models, with the ability to scale up to full GPT3 sizes (and possibly more!), using the mesh-tensorflow library. |
+| [ARK-Invest-Tesla-Valuation-Model](https://github.com/ARKInvest/ARK-Invest-Tesla-Valuation-Model) | An excerpt from our financial valuation model of Tesla |
 | [binance-trade-bot](https://github.com/edeng23/binance-trade-bot) | Automated cryptocurrency trading bot |
-| [tweetable-polyglot-png](https://github.com/DavidBuchanan314/tweetable-polyglot-png) | Pack up to 3MB of data into a tweetable PNG polyglot file. |
+| [Python](https://github.com/geekcomputers/Python) | My Python Examples |
+| [xeuledoc](https://github.com/Malfrats/xeuledoc) | Fetch information about a public Google document. |
+| [lux](https://github.com/lux-org/lux) | Python API for Intelligent Visual Data Discovery |
 | [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
-| [CleanArchitecture](https://github.com/blazorhero/CleanArchitecture) | Clean Architecture Template for Blazor WebAssembly Built with MudBlazor Components. |
-| [Xray-core](https://github.com/XTLS/Xray-core) | Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration. |
-| [GitHub520](https://github.com/521xueweihan/GitHub520) | 😘 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装） |
+| [papercups](https://github.com/papercups-io/papercups) | Open-source live customer chat |
+| [PYTHON-AND-DATA-ANALYTICS-7-DAYS](https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS-7-DAYS) | None |
+| [dev-sidecar](https://github.com/docmirror/dev-sidecar) | 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
