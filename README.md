@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [gpt-neo](https://github.com/EleutherAI/gpt-neo) | An implementation of model parallel GPT2& GPT3-like models, with the ability to scale up to full GPT3 sizes (and possibly more!), using the mesh-tensorflow library. |
-| [ARK-Invest-Tesla-Valuation-Model](https://github.com/ARKInvest/ARK-Invest-Tesla-Valuation-Model) | An excerpt from our financial valuation model of Tesla |
-| [binance-trade-bot](https://github.com/edeng23/binance-trade-bot) | Automated cryptocurrency trading bot |
-| [Python](https://github.com/geekcomputers/Python) | My Python Examples |
-| [xeuledoc](https://github.com/Malfrats/xeuledoc) | Fetch information about a public Google document. |
-| [lux](https://github.com/lux-org/lux) | Python API for Intelligent Visual Data Discovery |
 | [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
+| [Python](https://github.com/geekcomputers/Python) | My Python Examples |
+| [From-0-to-Research-Scientist-resources-guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide) | Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation. |
+| [malware_training_vol1](https://github.com/hasherezade/malware_training_vol1) | Materials for Windows Malware Analysis training (volume 1) |
 | [papercups](https://github.com/papercups-io/papercups) | Open-source live customer chat |
-| [PYTHON-AND-DATA-ANALYTICS-7-DAYS](https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS-7-DAYS) | None |
+| [iPERCore](https://github.com/iPERDance/iPERCore) | Liquid Warping GAN with Attention: A Unified Framework for Human Image Synthesis |
+| [introduction-to-machine-learning](https://github.com/globalaihub/introduction-to-machine-learning) | None |
+| [algobot](https://github.com/ZENALC/algobot) | Cryptocurrency trading bot with a graphical user interface. |
 | [dev-sidecar](https://github.com/docmirror/dev-sidecar) | 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速 |
+| [gpt-neo](https://github.com/EleutherAI/gpt-neo) | An implementation of model parallel GPT2& GPT3-like models, with the ability to scale up to full GPT3 sizes (and possibly more!), using the mesh-tensorflow library. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
