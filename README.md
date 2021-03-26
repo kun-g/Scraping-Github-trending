@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [rms-open-letter.github.io](https://github.com/rms-open-letter/rms-open-letter.github.io) | None |
+| [uniswap-v3-core](https://github.com/Uniswap/uniswap-v3-core) | 🦄 🦄 🦄 Core smart contracts of Uniswap v3 |
 | [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
+| [lux](https://github.com/lux-org/lux) | Python API for Intelligent Visual Data Discovery |
+| [rails](https://github.com/rails/rails) | Ruby on Rails |
 | [Python](https://github.com/geekcomputers/Python) | My Python Examples |
-| [From-0-to-Research-Scientist-resources-guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide) | Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation. |
-| [malware_training_vol1](https://github.com/hasherezade/malware_training_vol1) | Materials for Windows Malware Analysis training (volume 1) |
-| [papercups](https://github.com/papercups-io/papercups) | Open-source live customer chat |
-| [iPERCore](https://github.com/iPERDance/iPERCore) | Liquid Warping GAN with Attention: A Unified Framework for Human Image Synthesis |
-| [introduction-to-machine-learning](https://github.com/globalaihub/introduction-to-machine-learning) | None |
 | [algobot](https://github.com/ZENALC/algobot) | Cryptocurrency trading bot with a graphical user interface. |
-| [dev-sidecar](https://github.com/docmirror/dev-sidecar) | 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速 |
-| [gpt-neo](https://github.com/EleutherAI/gpt-neo) | An implementation of model parallel GPT2& GPT3-like models, with the ability to scale up to full GPT3 sizes (and possibly more!), using the mesh-tensorflow library. |
+| [livewire](https://github.com/livewire/livewire) | A full-stack framework for Laravel that takes the pain out of building dynamic UIs. |
+| [awx](https://github.com/ansible/awx) | AWX Project |
+| [semana-js-expert30](https://github.com/ErickWendel/semana-js-expert30) | Aulas da Semana JS Expert 3.0 - Construindo um chat multiplataforma usando linha de comando e JavaScript Avançado |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
