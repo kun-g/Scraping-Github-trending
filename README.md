@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [rms-open-letter.github.io](https://github.com/rms-open-letter/rms-open-letter.github.io) | None |
-| [uniswap-v3-core](https://github.com/Uniswap/uniswap-v3-core) | 🦄 🦄 🦄 Core smart contracts of Uniswap v3 |
-| [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
-| [lux](https://github.com/lux-org/lux) | Python API for Intelligent Visual Data Discovery |
+| [rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) | An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation |
 | [rails](https://github.com/rails/rails) | Ruby on Rails |
-| [Python](https://github.com/geekcomputers/Python) | My Python Examples |
+| [Addon](https://github.com/ClearURLs/Addon) | ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy. |
+| [react-coding-challenges](https://github.com/alexgurr/react-coding-challenges) | A series of ReactJS coding challenges with a variety of difficulties. |
+| [kit](https://github.com/sveltejs/kit) | A monorepo for SvelteKit and friends |
 | [algobot](https://github.com/ZENALC/algobot) | Cryptocurrency trading bot with a graphical user interface. |
-| [livewire](https://github.com/livewire/livewire) | A full-stack framework for Laravel that takes the pain out of building dynamic UIs. |
-| [awx](https://github.com/ansible/awx) | AWX Project |
-| [semana-js-expert30](https://github.com/ErickWendel/semana-js-expert30) | Aulas da Semana JS Expert 3.0 - Construindo um chat multiplataforma usando linha de comando e JavaScript Avançado |
+| [marcel](https://github.com/rails/marcel) | Find the mime type of files, examining file, filename and declared type |
+| [uniswap-v3-core](https://github.com/Uniswap/uniswap-v3-core) | 🦄 🦄 🦄 Core smart contracts of Uniswap v3 |
+| [playwright](https://github.com/microsoft/playwright) | Node.js library to automate Chromium, Firefox and WebKit with a single API |
+| [Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273) | RNA vaccines have become a key tool in moving forward through the challenges raised both in the current pandemic and in numerous other public health and medical challenges. With the rollout of vaccines for COVID-19, these synthetic mRNAs have become broadly distributed RNA species in numerous human populations. Despite their ubiquity, sequences … |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
