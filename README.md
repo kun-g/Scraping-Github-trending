@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) | An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation |
-| [rails](https://github.com/rails/rails) | Ruby on Rails |
-| [Addon](https://github.com/ClearURLs/Addon) | ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy. |
+| [physarum](https://github.com/fogleman/physarum) | Physarum polycephalum slime mold simulation |
+| [mimemagic](https://github.com/mimemagicrb/mimemagic) | Mime type detection in ruby via file extension or file content |
+| [Ryujinx](https://github.com/Ryujinx/Ryujinx) | Experimental Nintendo Switch Emulator written in C# |
 | [react-coding-challenges](https://github.com/alexgurr/react-coding-challenges) | A series of ReactJS coding challenges with a variety of difficulties. |
-| [kit](https://github.com/sveltejs/kit) | A monorepo for SvelteKit and friends |
-| [algobot](https://github.com/ZENALC/algobot) | Cryptocurrency trading bot with a graphical user interface. |
-| [marcel](https://github.com/rails/marcel) | Find the mime type of files, examining file, filename and declared type |
-| [uniswap-v3-core](https://github.com/Uniswap/uniswap-v3-core) | 🦄 🦄 🦄 Core smart contracts of Uniswap v3 |
-| [playwright](https://github.com/microsoft/playwright) | Node.js library to automate Chromium, Firefox and WebKit with a single API |
-| [Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273) | RNA vaccines have become a key tool in moving forward through the challenges raised both in the current pandemic and in numerous other public health and medical challenges. With the rollout of vaccines for COVID-19, these synthetic mRNAs have become broadly distributed RNA species in numerous human populations. Despite their ubiquity, sequences … |
+| [rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) | An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation |
+| [calculator](https://github.com/microsoft/calculator) | Windows Calculator: A simple yet powerful calculator that ships with Windows |
+| [javascript-basic-projects](https://github.com/john-smilga/javascript-basic-projects) | None |
+| [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
+| [yocto-gl](https://github.com/xelatihy/yocto-gl) | Yocto/GL: Tiny C++ Libraries for Data-Driven Physically-based Graphics |
+| [windows-terminal-shaders](https://github.com/Hammster/windows-terminal-shaders) | (Hopefully) a small collection of terminal shaders |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
