@@ -42,13 +42,13 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [awesome-compose](https://github.com/docker/awesome-compose) | Awesome Docker Compose samples |
-| [avatarify-python](https://github.com/alievk/avatarify-python) | Avatars for Zoom, Skype and other video-conferencing apps. |
 | [dogehouse](https://github.com/benawad/dogehouse) | Taking voice conversations to the moon 🚀 |
-| [fprime](https://github.com/nasa/fprime) | F' - A flight software and embedded systems framework |
 | [Docker-OSX](https://github.com/sickcodes/Docker-OSX) | Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X! |
-| [clubhouse-py](https://github.com/stypr/clubhouse-py) | Clubhouse API written in Python. Standalone client included. For reference and education purposes only. |
-| [social-analyzer](https://github.com/qeeqbox/social-analyzer) | API, CLI & Web App for analyzing & finding a person's profile across 350+ social media \ websites (Detections are updated regularly) |
-| [compose-samples](https://github.com/android/compose-samples) | Official Jetpack Compose samples. |
+| [avatarify-python](https://github.com/alievk/avatarify-python) | Avatars for Zoom, Skype and other video-conferencing apps. |
+| [Ryujinx](https://github.com/Ryujinx/Ryujinx) | Experimental Nintendo Switch Emulator written in C# |
 | [first-order-model](https://github.com/AliaksandrSiarohin/first-order-model) | This repository contains the source code for the paper First Order Motion Model for Image Animation |
 | [cosmopolitan](https://github.com/jart/cosmopolitan) | fast portable static native textmode containers |
+| [DeepFaceLab](https://github.com/iperov/DeepFaceLab) | DeepFaceLab is the leading software for creating deepfakes. |
+| [spring-native](https://github.com/spring-projects-experimental/spring-native) | Spring Native provides beta support for compiling Spring applications to native executables using GraalVM native-image compiler. |
+| [maui](https://github.com/dotnet/maui) | .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop. |
 <!-- END OF MONTHLY_TOP10_REPOS -->
