@@ -1,0 +1,298 @@
+[
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/11875",
+        "name": "Earle F. Philhower, III",
+        "repo": {
+            "description": "Raspberry Pi Pico Arduino core, for all RP2040 boards",
+            "name": "arduino-pico",
+            "url": "https://github.com/earlephilhower/arduino-pico"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/earlephilhower",
+        "username": "earlephilhower"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2492783",
+        "name": "Jan De Dobbeleer",
+        "repo": {
+            "description": "A prompt theme engine for any shell.",
+            "name": "oh-my-posh",
+            "url": "https://github.com/JanDeDobbeleer/oh-my-posh"
+        },
+        "sponsorUrl": "https://github.com/sponsors/JanDeDobbeleer",
+        "url": "https://github.com/JanDeDobbeleer",
+        "username": "JanDeDobbeleer"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/14984911",
+        "name": "Artem Zakharchenko",
+        "repo": {
+            "description": "Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.",
+            "name": "naming-cheatsheet",
+            "url": "https://github.com/kettanaito/naming-cheatsheet"
+        },
+        "sponsorUrl": "https://github.com/sponsors/kettanaito",
+        "url": "https://github.com/kettanaito",
+        "username": "kettanaito"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1940490",
+        "name": "David Tolnay",
+        "repo": {
+            "description": "Safe interop between Rust and C++",
+            "name": "cxx",
+            "url": "https://github.com/dtolnay/cxx"
+        },
+        "sponsorUrl": "https://github.com/sponsors/dtolnay",
+        "url": "https://github.com/dtolnay",
+        "username": "dtolnay"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/116184",
+        "name": "Fabian Affolter",
+        "repo": {
+            "description": "A web interface for MQTT",
+            "name": "mqtt-panel",
+            "url": "https://github.com/fabaff/mqtt-panel"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/fabaff",
+        "username": "fabaff"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/5855893",
+        "name": "Luke Edwards",
+        "repo": {
+            "description": "The next generation web framework for Cloudflare Workers",
+            "name": "worktop",
+            "url": "https://github.com/lukeed/worktop"
+        },
+        "sponsorUrl": "https://github.com/sponsors/lukeed",
+        "url": "https://github.com/lukeed",
+        "username": "lukeed"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/158471",
+        "name": "Dirkjan Ochtman",
+        "repo": {
+            "description": "Type-safe, compiled Jinja-like templates for Rust",
+            "name": "askama",
+            "url": "https://github.com/djc/askama"
+        },
+        "sponsorUrl": "https://github.com/sponsors/djc",
+        "url": "https://github.com/djc",
+        "username": "djc"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1162160",
+        "name": "Rich Harris",
+        "repo": {
+            "description": "Straightforward project scaffolding",
+            "name": "degit",
+            "url": "https://github.com/Rich-Harris/degit"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/Rich-Harris",
+        "username": "Rich-Harris"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/194984",
+        "name": "Michael[tm] Smith",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/sideshowbarker",
+        "username": "sideshowbarker"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/13316262",
+        "name": "Michael Lingelbach",
+        "repo": {
+            "description": "The answer to the ultimate question is :help 42",
+            "name": "babelfish.nvim",
+            "url": "https://github.com/mjlbach/babelfish.nvim"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/mjlbach",
+        "username": "mjlbach"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1416436",
+        "name": "Claud\u00e9ric Demers",
+        "repo": {
+            "description": "A modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.",
+            "name": "dnd-kit",
+            "url": "https://github.com/clauderic/dnd-kit"
+        },
+        "sponsorUrl": "https://github.com/sponsors/clauderic",
+        "url": "https://github.com/clauderic",
+        "username": "clauderic"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2231765",
+        "name": "Robert Mosolgo",
+        "repo": {
+            "description": "Ruby implementation of GraphQL",
+            "name": "graphql-ruby",
+            "url": "https://github.com/rmosolgo/graphql-ruby"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/rmosolgo",
+        "username": "rmosolgo"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/17786731",
+        "name": "Hans-Kristian Arntzen",
+        "repo": {
+            "description": "Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation.",
+            "name": "vkd3d-proton",
+            "url": "https://github.com/HansKristian-Work/vkd3d-proton"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/HansKristian-Work",
+        "username": "HansKristian-Work"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2472225",
+        "name": "/rootzoll",
+        "repo": {
+            "description": "Get your own Bitcoin & Lightning Node running - on a RaspberryPi with a nice LCD",
+            "name": "raspiblitz",
+            "url": "https://github.com/rootzoll/raspiblitz"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/rootzoll",
+        "username": "rootzoll"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/20165741",
+        "name": "Remi Rousselet",
+        "repo": {
+            "description": "A simple way to access state while robust and testable.",
+            "name": "river_pod",
+            "url": "https://github.com/rrousselGit/river_pod"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/rrousselGit",
+        "username": "rrousselGit"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1136893",
+        "name": "Daniel Wirtz",
+        "repo": {
+            "description": "Optimized bcrypt in plain JavaScript with zero dependencies.",
+            "name": "bcrypt.js",
+            "url": "https://github.com/dcodeIO/bcrypt.js"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/dcodeIO",
+        "username": "dcodeIO"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1460997",
+        "name": "Florian M\u00e4rkl",
+        "repo": {
+            "description": "Moved to https://git.sr.ht/~thestr4ng3r/chiaki - Free and Open Source PS4 Remote Play Client",
+            "name": "chiaki",
+            "url": "https://github.com/thestr4ng3r/chiaki"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/thestr4ng3r",
+        "username": "thestr4ng3r"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/184815",
+        "name": "andig",
+        "repo": {
+            "description": "EV Charge Controller",
+            "name": "evcc",
+            "url": "https://github.com/andig/evcc"
+        },
+        "sponsorUrl": "https://github.com/sponsors/andig",
+        "url": "https://github.com/andig",
+        "username": "andig"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/900302",
+        "name": "Mladen Macanovi\u0107",
+        "repo": {
+            "description": "Blazorise is a component library built on top of Blazor with support for CSS frameworks like Bootstrap, Bulma, AntDesign, and Material.",
+            "name": "Blazorise",
+            "url": "https://github.com/stsrki/Blazorise"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/stsrki",
+        "username": "stsrki"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/5943908",
+        "name": "Razzeee",
+        "repo": {
+            "description": "Rocketbeans TV plugin for Kodi",
+            "name": "plugin.video.rocketbeans",
+            "url": "https://github.com/Razzeee/plugin.video.rocketbeans"
+        },
+        "sponsorUrl": "https://github.com/sponsors/Razzeee",
+        "url": "https://github.com/Razzeee",
+        "username": "Razzeee"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/8647429",
+        "name": "Aimeos",
+        "repo": {
+            "description": "Laravel ecommerce package for professional, ultra fast online shops, complex B2B applications and #gigacommerce",
+            "name": "aimeos-laravel",
+            "url": "https://github.com/aimeos/aimeos-laravel"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/aimeos",
+        "username": "aimeos"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/125676",
+        "name": "Lipis",
+        "repo": {
+            "description": "\ud83c\udf8f A collection of all country flags in SVG \u2014 plus the CSS for easier integration",
+            "name": "flag-icon-css",
+            "url": "https://github.com/lipis/flag-icon-css"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/lipis",
+        "username": "lipis"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/67496",
+        "name": "Josh Bleecher Snyder",
+        "repo": {
+            "description": "impl generates method stubs for implementing an interface.",
+            "name": "impl",
+            "url": "https://github.com/josharian/impl"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/josharian",
+        "username": "josharian"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/12746779",
+        "name": "nukeop",
+        "repo": {
+            "description": "Streaming music player that finds free music for you",
+            "name": "nuclear",
+            "url": "https://github.com/nukeop/nuclear"
+        },
+        "sponsorUrl": "https://github.com/sponsors/nukeop",
+        "url": "https://github.com/nukeop",
+        "username": "nukeop"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/118015",
+        "name": "Ben Johnson",
+        "repo": {
+            "description": "Streaming S3 replication for SQLite.",
+            "name": "litestream",
+            "url": "https://github.com/benbjohnson/litestream"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/benbjohnson",
+        "username": "benbjohnson"
+    }
+]

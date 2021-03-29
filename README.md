@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [physarum](https://github.com/fogleman/physarum) | Physarum polycephalum slime mold simulation |
-| [mimemagic](https://github.com/mimemagicrb/mimemagic) | Mime type detection in ruby via file extension or file content |
-| [Ryujinx](https://github.com/Ryujinx/Ryujinx) | Experimental Nintendo Switch Emulator written in C# |
-| [react-coding-challenges](https://github.com/alexgurr/react-coding-challenges) | A series of ReactJS coding challenges with a variety of difficulties. |
-| [rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io) | An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation |
-| [calculator](https://github.com/microsoft/calculator) | Windows Calculator: A simple yet powerful calculator that ships with Windows |
-| [javascript-basic-projects](https://github.com/john-smilga/javascript-basic-projects) | None |
+| [dogehouse](https://github.com/benawad/dogehouse) | Taking voice conversations to the moon 🚀 |
 | [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
-| [yocto-gl](https://github.com/xelatihy/yocto-gl) | Yocto/GL: Tiny C++ Libraries for Data-Driven Physically-based Graphics |
-| [windows-terminal-shaders](https://github.com/Hammster/windows-terminal-shaders) | (Hopefully) a small collection of terminal shaders |
+| [react-coding-challenges](https://github.com/alexgurr/react-coding-challenges) | A series of ReactJS coding challenges with a variety of difficulties. |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs such as http://ipstack.com, http://fixer.io/, https://numverify.com/, etc. for use in software and web development. |
+| [Marlin](https://github.com/MarlinFirmware/Marlin) | Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine. |
+| [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming) | 💎 A curated list of awesome Competitive Programming, Algorithm and Data Structure resources |
+| [javascript-questions](https://github.com/lydiahallie/javascript-questions) | A long list of (advanced) JavaScript questions, and their explanations ✨ |
+| [Ventoy](https://github.com/ventoy/Ventoy) | A new bootable USB solution. |
+| [red-python-scripts](https://github.com/davidbombal/red-python-scripts) | None |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
