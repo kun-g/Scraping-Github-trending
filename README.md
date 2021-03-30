@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [physarum](https://github.com/fogleman/physarum) | Physarum polycephalum slime mold simulation |
-| [dogehouse](https://github.com/benawad/dogehouse) | Taking voice conversations to the moon 🚀 |
 | [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
-| [react-coding-challenges](https://github.com/alexgurr/react-coding-challenges) | A series of ReactJS coding challenges with a variety of difficulties. |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs such as http://ipstack.com, http://fixer.io/, https://numverify.com/, etc. for use in software and web development. |
+| [vue-masterclass](https://github.com/vueschool/vue-masterclass) | 🗂 Source code for The Vue 3 Masterclass |
 | [Marlin](https://github.com/MarlinFirmware/Marlin) | Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine. |
-| [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming) | 💎 A curated list of awesome Competitive Programming, Algorithm and Data Structure resources |
-| [javascript-questions](https://github.com/lydiahallie/javascript-questions) | A long list of (advanced) JavaScript questions, and their explanations ✨ |
-| [Ventoy](https://github.com/ventoy/Ventoy) | A new bootable USB solution. |
-| [red-python-scripts](https://github.com/davidbombal/red-python-scripts) | None |
+| [physarum](https://github.com/fogleman/physarum) | Physarum polycephalum slime mold simulation |
+| [freqtrade](https://github.com/freqtrade/freqtrade) | Free, open source crypto trading bot |
+| [F1AppleTV](https://github.com/NoahFetz/F1AppleTV) | F1TV Client for AppleTV |
+| [javascript-basic-projects](https://github.com/john-smilga/javascript-basic-projects) | None |
+| [realworld](https://github.com/gothinkster/realworld) | "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 |
+| [serenity](https://github.com/SerenityOS/serenity) | The Serenity Operating System 🐞 |
+| [Signal-iOS](https://github.com/signalapp/Signal-iOS) | A private messenger for iOS. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
