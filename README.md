@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [deep-daze](https://github.com/lucidrains/deep-daze) | Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network) |
+| [php-src](https://github.com/php/php-src) | The PHP Interpreter |
+| [Osintgram](https://github.com/Datalux/Osintgram) | Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname |
+| [Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273) | RNA vaccines have become a key tool in moving forward through the challenges raised both in the current pandemic and in numerous other public health and medical challenges. With the rollout of vaccines for COVID-19, these synthetic mRNAs have become broadly distributed RNA species in numerous human populations. Despite their ubiquity, sequences … |
 | [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
-| [vue-masterclass](https://github.com/vueschool/vue-masterclass) | 🗂 Source code for The Vue 3 Masterclass |
-| [Marlin](https://github.com/MarlinFirmware/Marlin) | Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine. |
-| [physarum](https://github.com/fogleman/physarum) | Physarum polycephalum slime mold simulation |
-| [freqtrade](https://github.com/freqtrade/freqtrade) | Free, open source crypto trading bot |
-| [F1AppleTV](https://github.com/NoahFetz/F1AppleTV) | F1TV Client for AppleTV |
-| [javascript-basic-projects](https://github.com/john-smilga/javascript-basic-projects) | None |
-| [realworld](https://github.com/gothinkster/realworld) | "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 |
-| [serenity](https://github.com/SerenityOS/serenity) | The Serenity Operating System 🐞 |
-| [Signal-iOS](https://github.com/signalapp/Signal-iOS) | A private messenger for iOS. |
+| [nuxt.js](https://github.com/nuxt/nuxt.js) | The Intuitive Vue Framework |
+| [DPT](https://github.com/intel-isl/DPT) | Dense Prediction Transformers |
+| [awesome-job-list](https://github.com/randallkanna/awesome-job-list) | None |
+| [Digital](https://github.com/hneemann/Digital) | A digital logic designer and circuit simulator. |
+| [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) | 🗂 The perfect Front-End Checklist for modern websites and meticulous developers |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10

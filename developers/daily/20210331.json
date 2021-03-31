@@ -1,0 +1,302 @@
+[
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/195327",
+        "name": "Franck Nijhof",
+        "repo": {
+            "description": "A curated list of amazingly awesome Home Assistant resources.",
+            "name": "awesome-home-assistant",
+            "url": "https://github.com/frenck/awesome-home-assistant"
+        },
+        "sponsorUrl": "https://github.com/sponsors/frenck",
+        "url": "https://github.com/frenck",
+        "username": "frenck"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/108653",
+        "name": "Phil Wang",
+        "repo": {
+            "description": "Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network)",
+            "name": "deep-daze",
+            "url": "https://github.com/lucidrains/deep-daze"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/lucidrains",
+        "username": "lucidrains"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/4025227",
+        "name": "Daniel Vaz Gaspar",
+        "repo": {
+            "description": "Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome) - http://flaskappbuilder.pythonanywhere.com/",
+            "name": "Flask-AppBuilder",
+            "url": "https://github.com/dpgaspar/Flask-AppBuilder"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/dpgaspar",
+        "username": "dpgaspar"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/26204457",
+        "name": "Arkadii Ivanov",
+        "repo": {
+            "description": "Kotlin Multiplatform lifecycle-aware business logic components (aka BLoCs) with routing functionality and pluggable UI (Jetpack Compose, SwiftUI, JS React, etc.)",
+            "name": "Decompose",
+            "url": "https://github.com/arkivanov/Decompose"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/arkivanov",
+        "username": "arkivanov"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2492783",
+        "name": "Jan De Dobbeleer",
+        "repo": {
+            "description": "A prompt theme engine for any shell.",
+            "name": "oh-my-posh",
+            "url": "https://github.com/JanDeDobbeleer/oh-my-posh"
+        },
+        "sponsorUrl": "https://github.com/sponsors/JanDeDobbeleer",
+        "url": "https://github.com/JanDeDobbeleer",
+        "username": "JanDeDobbeleer"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1951866",
+        "name": "CrazyMax",
+        "repo": {
+            "description": "Block spying and tracking on Windows",
+            "name": "WindowsSpyBlocker",
+            "url": "https://github.com/crazy-max/WindowsSpyBlocker"
+        },
+        "sponsorUrl": "https://github.com/sponsors/crazy-max",
+        "url": "https://github.com/crazy-max",
+        "username": "crazy-max"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2231765",
+        "name": "Robert Mosolgo",
+        "repo": {
+            "description": "Ruby implementation of GraphQL",
+            "name": "graphql-ruby",
+            "url": "https://github.com/rmosolgo/graphql-ruby"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/rmosolgo",
+        "username": "rmosolgo"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/11875",
+        "name": "Earle F. Philhower, III",
+        "repo": {
+            "description": "Raspberry Pi Pico Arduino core, for all RP2040 boards",
+            "name": "arduino-pico",
+            "url": "https://github.com/earlephilhower/arduino-pico"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/earlephilhower",
+        "username": "earlephilhower"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/658",
+        "name": "Stephen Celis",
+        "repo": {
+            "description": "A type-safe, Swift-language layer over SQLite3.",
+            "name": "SQLite.swift",
+            "url": "https://github.com/stephencelis/SQLite.swift"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/stephencelis",
+        "username": "stephencelis"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/4061838",
+        "name": "Mo Gorhom",
+        "repo": {
+            "description": "A performant interactive bottom sheet with fully configurable options \ud83d\ude80",
+            "name": "react-native-bottom-sheet",
+            "url": "https://github.com/gorhom/react-native-bottom-sheet"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/gorhom",
+        "username": "gorhom"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/140370",
+        "name": "Thibault Duplessis",
+        "repo": {
+            "description": "\u265e lichess.org: the forever free, adless and open source chess server \u265e",
+            "name": "lila",
+            "url": "https://github.com/ornicar/lila"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/ornicar",
+        "username": "ornicar"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/216089",
+        "name": "Olivier Halligon",
+        "repo": {
+            "description": "Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!",
+            "name": "OHHTTPStubs",
+            "url": "https://github.com/AliSoftware/OHHTTPStubs"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/AliSoftware",
+        "username": "AliSoftware"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1326112",
+        "name": "Sebasti\u00e1n Ram\u00edrez",
+        "repo": {
+            "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+            "name": "fastapi",
+            "url": "https://github.com/tiangolo/fastapi"
+        },
+        "sponsorUrl": "https://github.com/sponsors/tiangolo",
+        "url": "https://github.com/tiangolo",
+        "username": "tiangolo"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1037931",
+        "name": "Ma\u00ebl Nison",
+        "repo": {
+            "description": "Type-safe CLI library with no runtime dependencies",
+            "name": "clipanion",
+            "url": "https://github.com/arcanis/clipanion"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/arcanis",
+        "username": "arcanis"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/124872",
+        "name": "Frank Denis",
+        "repo": {
+            "description": "A modern, portable, easy to use crypto library.",
+            "name": "libsodium",
+            "url": "https://github.com/jedisct1/libsodium"
+        },
+        "sponsorUrl": "https://github.com/sponsors/jedisct1",
+        "url": "https://github.com/jedisct1",
+        "username": "jedisct1"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/31996",
+        "name": "Avelino",
+        "repo": {
+            "description": "A curated list of awesome Go frameworks, libraries and software",
+            "name": "awesome-go",
+            "url": "https://github.com/avelino/awesome-go"
+        },
+        "sponsorUrl": "https://github.com/sponsors/avelino",
+        "url": "https://github.com/avelino",
+        "username": "avelino"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/697676",
+        "name": "Vadim Demedes",
+        "repo": {
+            "description": "\ud83c\udf08 React for interactive command-line apps",
+            "name": "ink",
+            "url": "https://github.com/vadimdemedes/ink"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/vadimdemedes",
+        "username": "vadimdemedes"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/93594",
+        "name": "Jake Archibald",
+        "repo": {
+            "description": "IndexedDB, but with promises",
+            "name": "idb",
+            "url": "https://github.com/jakearchibald/idb"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/jakearchibald",
+        "username": "jakearchibald"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/159488",
+        "name": "Niels Lohmann",
+        "repo": {
+            "description": "JSON for Modern C++",
+            "name": "json",
+            "url": "https://github.com/nlohmann/json"
+        },
+        "sponsorUrl": "https://github.com/sponsors/nlohmann",
+        "url": "https://github.com/nlohmann",
+        "username": "nlohmann"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/3004890",
+        "name": "KevinOConnor",
+        "repo": {
+            "description": "Klipper is a 3d-printer firmware",
+            "name": "klipper",
+            "url": "https://github.com/KevinOConnor/klipper"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/KevinOConnor",
+        "username": "KevinOConnor"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/44849",
+        "name": "Peter Pistorius",
+        "repo": {
+            "description": "Tag input component for React Native",
+            "name": "react-native-tags",
+            "url": "https://github.com/peterp/react-native-tags"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/peterp",
+        "username": "peterp"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2018167",
+        "name": "Michael Herman",
+        "repo": {
+            "description": "A curated list of awesome things related to FastAPI",
+            "name": "awesome-fastapi",
+            "url": "https://github.com/mjhea0/awesome-fastapi"
+        },
+        "sponsorUrl": "https://github.com/sponsors/mjhea0",
+        "url": "https://github.com/mjhea0",
+        "username": "mjhea0"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/6045824",
+        "name": "\u95ee\u5d16",
+        "repo": {
+            "description": "\u2702\ufe0f Generates an image from a DOM node using HTML5 canvas and SVG.",
+            "name": "html-to-image",
+            "url": "https://github.com/bubkoo/html-to-image"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/bubkoo",
+        "username": "bubkoo"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/124937",
+        "name": "Julien Bouquillon",
+        "repo": {
+            "description": "React subscribe form for Mailchimp.",
+            "name": "react-mailchimp-subscribe",
+            "url": "https://github.com/revolunet/react-mailchimp-subscribe"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/revolunet",
+        "username": "revolunet"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2911",
+        "name": "Mike Perham",
+        "repo": {
+            "description": "Simple, efficient background processing for Ruby",
+            "name": "sidekiq",
+            "url": "https://github.com/mperham/sidekiq"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/mperham",
+        "username": "mperham"
+    }
+]
