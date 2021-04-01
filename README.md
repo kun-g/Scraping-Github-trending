@@ -42,13 +42,13 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [awesome-compose](https://github.com/docker/awesome-compose) | Awesome Docker Compose samples |
-| [dogehouse](https://github.com/benawad/dogehouse) | Taking voice conversations to the moon 🚀 |
 | [Docker-OSX](https://github.com/sickcodes/Docker-OSX) | Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X! |
-| [avatarify-python](https://github.com/alievk/avatarify-python) | Avatars for Zoom, Skype and other video-conferencing apps. |
+| [dogehouse](https://github.com/benawad/dogehouse) | Taking voice conversations to the moon 🚀 |
 | [Ryujinx](https://github.com/Ryujinx/Ryujinx) | Experimental Nintendo Switch Emulator written in C# |
-| [first-order-model](https://github.com/AliaksandrSiarohin/first-order-model) | This repository contains the source code for the paper First Order Motion Model for Image Animation |
-| [cosmopolitan](https://github.com/jart/cosmopolitan) | fast portable static native textmode containers |
-| [DeepFaceLab](https://github.com/iperov/DeepFaceLab) | DeepFaceLab is the leading software for creating deepfakes. |
+| [sherlock](https://github.com/sherlock-project/sherlock) | 🔎 Hunt down social media accounts by username across social networks |
+| [authelia](https://github.com/authelia/authelia) | The Single Sign-On Multi-Factor portal for web apps |
 | [spring-native](https://github.com/spring-projects-experimental/spring-native) | Spring Native provides beta support for compiling Spring applications to native executables using GraalVM native-image compiler. |
-| [maui](https://github.com/dotnet/maui) | .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop. |
+| [d2l-zh](https://github.com/d2l-ai/d2l-zh) | 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被全球175所大学采用教学。 |
+| [chia-blockchain](https://github.com/Chia-Network/chia-blockchain) | Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet) |
+| [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond. |
 <!-- END OF MONTHLY_TOP10_REPOS -->
