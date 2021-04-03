@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [AntSimulator](https://github.com/johnBuffer/AntSimulator) | Simple Ants simulator |
 | [Catch2](https://github.com/catchorg/Catch2) | A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch) |
-| [innernet](https://github.com/tonarino/innernet) | A private network system that uses WireGuard under the hood. |
-| [frontend-developer-resources](https://github.com/mrcodedev/frontend-developer-resources) | Recursos gratuitos para empezar a ser un Frontend Developer o ampliar conocimientos |
-| [hacking-resources](https://github.com/Lifka/hacking-resources) | Hacking resources and cheat sheets. References, tools, scripts, tutorials, and other resources that help offensive and defensive security professionals. |
-| [madgrad](https://github.com/facebookresearch/madgrad) | MADGRAD Optimization Method |
-| [python-cheatsheet](https://github.com/gto76/python-cheatsheet) | Comprehensive Python Cheatsheet |
+| [AntSimulator](https://github.com/johnBuffer/AntSimulator) | Simple Ants simulator |
+| [btcpayserver](https://github.com/btcpayserver/btcpayserver) | Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor. |
 | [angular-spotify](https://github.com/trungk18/angular-spotify) | Spotify client built with Angular 11, Nx Workspace, ngrx, TailwindCSS and ng-zorro |
-| [Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273) | RNA vaccines have become a key tool in moving forward through the challenges raised both in the current pandemic and in numerous other public health and medical challenges. With the rollout of vaccines for COVID-19, these synthetic mRNAs have become broadly distributed RNA species in numerous human populations. Despite their ubiquity, sequences … |
-| [nuxt.js](https://github.com/nuxt/nuxt.js) | The Intuitive Vue Framework |
+| [vscode](https://github.com/microsoft/vscode) | Visual Studio Code |
+| [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) | 30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take up to 100 day… |
+| [ansible](https://github.com/ansible/ansible) | Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. |
+| [envoy](https://github.com/envoyproxy/envoy) | Cloud-native high-performance edge/middle/service proxy |
+| [wezterm](https://github.com/wez/wezterm) | A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust |
+| [querybook](https://github.com/pinterest/querybook) | Querybook is a Big Data Querying UI, combining collocated table metadata and a simple notebook interface. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
