@@ -1,0 +1,298 @@
+[
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/99944",
+        "name": "Francois Zaninotto",
+        "repo": {
+            "description": "Faker is a PHP library that generates fake data for you",
+            "name": "Faker",
+            "url": "https://github.com/fzaninotto/Faker"
+        },
+        "sponsorUrl": "https://github.com/sponsors/fzaninotto",
+        "url": "https://github.com/fzaninotto",
+        "username": "fzaninotto"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/6933510",
+        "name": "Fons van der Plas",
+        "repo": {
+            "description": "\ud83c\udf88 Simple reactive notebooks for Julia",
+            "name": "Pluto.jl",
+            "url": "https://github.com/fonsp/Pluto.jl"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/fonsp",
+        "username": "fonsp"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1162160",
+        "name": "Rich Harris",
+        "repo": {
+            "description": "Straightforward project scaffolding",
+            "name": "degit",
+            "url": "https://github.com/Rich-Harris/degit"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/Rich-Harris",
+        "username": "Rich-Harris"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/3257156",
+        "name": "Stefano Gottardo",
+        "repo": {
+            "description": "InputStream based Netflix plugin for Kodi",
+            "name": "plugin.video.netflix",
+            "url": "https://github.com/CastagnaIT/plugin.video.netflix"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/CastagnaIT",
+        "username": "CastagnaIT"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/8456633",
+        "name": "Jesse Duffield",
+        "repo": {
+            "description": "simple terminal UI for git commands",
+            "name": "lazygit",
+            "url": "https://github.com/jesseduffield/lazygit"
+        },
+        "sponsorUrl": "https://github.com/sponsors/jesseduffield",
+        "url": "https://github.com/jesseduffield",
+        "username": "jesseduffield"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/249515",
+        "name": "Ha Thach",
+        "repo": {
+            "description": "An open source cross-platform USB stack for embedded system",
+            "name": "tinyusb",
+            "url": "https://github.com/hathach/tinyusb"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/hathach",
+        "username": "hathach"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/108725",
+        "name": "francisco souza",
+        "repo": {
+            "description": "Google Cloud Storage emulator & testing library.",
+            "name": "fake-gcs-server",
+            "url": "https://github.com/fsouza/fake-gcs-server"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/fsouza",
+        "username": "fsouza"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/973269",
+        "name": "Barry vd. Heuvel",
+        "repo": {
+            "description": "Laravel Debugbar (Integrates PHP Debug Bar)",
+            "name": "laravel-debugbar",
+            "url": "https://github.com/barryvdh/laravel-debugbar"
+        },
+        "sponsorUrl": "https://github.com/sponsors/barryvdh",
+        "url": "https://github.com/barryvdh",
+        "username": "barryvdh"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/882133",
+        "name": "Jonathan Reinink",
+        "repo": null,
+        "sponsorUrl": "https://github.com/sponsors/reinink",
+        "url": "https://github.com/reinink",
+        "username": "reinink"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2621",
+        "name": "Brad Fitzpatrick",
+        "repo": {
+            "description": "Go Memcached client library #golang",
+            "name": "gomemcache",
+            "url": "https://github.com/bradfitz/gomemcache"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/bradfitz",
+        "username": "bradfitz"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1326112",
+        "name": "Sebasti\u00e1n Ram\u00edrez",
+        "repo": {
+            "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+            "name": "fastapi",
+            "url": "https://github.com/tiangolo/fastapi"
+        },
+        "sponsorUrl": "https://github.com/sponsors/tiangolo",
+        "url": "https://github.com/tiangolo",
+        "username": "tiangolo"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1940490",
+        "name": "David Tolnay",
+        "repo": {
+            "description": "Safe interop between Rust and C++",
+            "name": "cxx",
+            "url": "https://github.com/dtolnay/cxx"
+        },
+        "sponsorUrl": "https://github.com/sponsors/dtolnay",
+        "url": "https://github.com/dtolnay",
+        "username": "dtolnay"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/900302",
+        "name": "Mladen Macanovi\u0107",
+        "repo": {
+            "description": "Blazorise is a component library built on top of Blazor with support for CSS frameworks like Bootstrap, Bulma, AntDesign, and Material.",
+            "name": "Blazorise",
+            "url": "https://github.com/stsrki/Blazorise"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/stsrki",
+        "username": "stsrki"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2212006",
+        "name": "Gleb Bahmutov",
+        "repo": {
+            "description": "GitHub Action for install npm dependencies with caching without any configuration",
+            "name": "npm-install",
+            "url": "https://github.com/bahmutov/npm-install"
+        },
+        "sponsorUrl": "https://github.com/sponsors/bahmutov",
+        "url": "https://github.com/bahmutov",
+        "username": "bahmutov"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/14984911",
+        "name": "Artem Zakharchenko",
+        "repo": {
+            "description": "Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.",
+            "name": "naming-cheatsheet",
+            "url": "https://github.com/kettanaito/naming-cheatsheet"
+        },
+        "sponsorUrl": "https://github.com/sponsors/kettanaito",
+        "url": "https://github.com/kettanaito",
+        "username": "kettanaito"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/125011",
+        "name": "Mike McQuaid",
+        "repo": {
+            "description": "\ud83d\udc62 Bootstrap your macOS development system.",
+            "name": "strap",
+            "url": "https://github.com/MikeMcQuaid/strap"
+        },
+        "sponsorUrl": "https://github.com/sponsors/MikeMcQuaid",
+        "url": "https://github.com/MikeMcQuaid",
+        "username": "MikeMcQuaid"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/376455",
+        "name": "Omry Yadan",
+        "repo": {
+            "description": "Flexible Python configuration system. The last one you will ever need.",
+            "name": "omegaconf",
+            "url": "https://github.com/omry/omegaconf"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/omry",
+        "username": "omry"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/122434",
+        "name": "Mariusz Nowak",
+        "repo": {
+            "description": "Complete memoize/cache solution for JavaScript",
+            "name": "memoizee",
+            "url": "https://github.com/medikoo/memoizee"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/medikoo",
+        "username": "medikoo"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/10718366",
+        "name": "Eric Liu",
+        "repo": {
+            "description": "Accessible, fuzzy search typeahead component",
+            "name": "svelte-typeahead",
+            "url": "https://github.com/metonym/svelte-typeahead"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/metonym",
+        "username": "metonym"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1476232",
+        "name": "Mike Penz",
+        "repo": {
+            "description": "A GitHub action that builds your release notes / changelog fast, easy and exactly the way you want.",
+            "name": "release-changelog-builder-action",
+            "url": "https://github.com/mikepenz/release-changelog-builder-action"
+        },
+        "sponsorUrl": "https://github.com/sponsors/mikepenz",
+        "url": "https://github.com/mikepenz",
+        "username": "mikepenz"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/782127",
+        "name": "Steve Smith",
+        "repo": {
+            "description": "A starting point for Clean Architecture with ASP.NET Core",
+            "name": "CleanArchitecture",
+            "url": "https://github.com/ardalis/CleanArchitecture"
+        },
+        "sponsorUrl": "https://github.com/sponsors/ardalis",
+        "url": "https://github.com/ardalis",
+        "username": "ardalis"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1478487",
+        "name": "Marten Seemann",
+        "repo": {
+            "description": "ns3-based network simulator for QUIC testing",
+            "name": "quic-network-simulator",
+            "url": "https://github.com/marten-seemann/quic-network-simulator"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/marten-seemann",
+        "username": "marten-seemann"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/67496",
+        "name": "Josh Bleecher Snyder",
+        "repo": {
+            "description": "impl generates method stubs for implementing an interface.",
+            "name": "impl",
+            "url": "https://github.com/josharian/impl"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/josharian",
+        "username": "josharian"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2896623",
+        "name": "Jacob Quinn",
+        "repo": {
+            "description": null,
+            "name": "JSON3.jl",
+            "url": "https://github.com/quinnj/JSON3.jl"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/quinnj",
+        "username": "quinnj"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/4196",
+        "name": "Hadley Wickham",
+        "repo": {
+            "description": "R for data science: a book",
+            "name": "r4ds",
+            "url": "https://github.com/hadley/r4ds"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/hadley",
+        "username": "hadley"
+    }
+]

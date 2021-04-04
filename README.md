@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [Catch2](https://github.com/catchorg/Catch2) | A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch) |
 | [AntSimulator](https://github.com/johnBuffer/AntSimulator) | Simple Ants simulator |
-| [btcpayserver](https://github.com/btcpayserver/btcpayserver) | Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor. |
-| [angular-spotify](https://github.com/trungk18/angular-spotify) | Spotify client built with Angular 11, Nx Workspace, ngrx, TailwindCSS and ng-zorro |
-| [vscode](https://github.com/microsoft/vscode) | Visual Studio Code |
-| [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) | 30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take up to 100 day… |
-| [ansible](https://github.com/ansible/ansible) | Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. |
-| [envoy](https://github.com/envoyproxy/envoy) | Cloud-native high-performance edge/middle/service proxy |
-| [wezterm](https://github.com/wez/wezterm) | A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust |
+| [Catch2](https://github.com/catchorg/Catch2) | A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch) |
+| [klipper](https://github.com/KevinOConnor/klipper) | Klipper is a 3d-printer firmware |
 | [querybook](https://github.com/pinterest/querybook) | Querybook is a Big Data Querying UI, combining collocated table metadata and a simple notebook interface. |
+| [Chart.js](https://github.com/chartjs/Chart.js) | Simple HTML5 Charts using the <canvas> tag |
+| [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics |
+| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
+| [Acala](https://github.com/AcalaNetwork/Acala) | Acala - cross-chain DeFi hub and stablecoin based on Substrate for Polkadot and Kusama. |
+| [NiceHashQuickMiner](https://github.com/nicehash/NiceHashQuickMiner) | Super simple & easy Windows 10 cryptocurrency miner made by NiceHash. |
+| [btcpayserver](https://github.com/btcpayserver/btcpayserver) | Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
