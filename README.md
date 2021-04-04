@@ -43,12 +43,12 @@
 | :----: | :----: |
 | [awesome-compose](https://github.com/docker/awesome-compose) | Awesome Docker Compose samples |
 | [Docker-OSX](https://github.com/sickcodes/Docker-OSX) | Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X! |
-| [dogehouse](https://github.com/benawad/dogehouse) | Taking voice conversations to the moon 🚀 |
-| [Ryujinx](https://github.com/Ryujinx/Ryujinx) | Experimental Nintendo Switch Emulator written in C# |
 | [sherlock](https://github.com/sherlock-project/sherlock) | 🔎 Hunt down social media accounts by username across social networks |
+| [Ryujinx](https://github.com/Ryujinx/Ryujinx) | Experimental Nintendo Switch Emulator written in C# |
+| [dogehouse](https://github.com/benawad/dogehouse) | Taking voice conversations to the moon 🚀 |
 | [authelia](https://github.com/authelia/authelia) | The Single Sign-On Multi-Factor portal for web apps |
 | [spring-native](https://github.com/spring-projects-experimental/spring-native) | Spring Native provides beta support for compiling Spring applications to native executables using GraalVM native-image compiler. |
 | [d2l-zh](https://github.com/d2l-ai/d2l-zh) | 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被全球175所大学采用教学。 |
 | [chia-blockchain](https://github.com/Chia-Network/chia-blockchain) | Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet) |
-| [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond. |
+| [Python](https://github.com/geekcomputers/Python) | My Python Examples |
 <!-- END OF MONTHLY_TOP10_REPOS -->
