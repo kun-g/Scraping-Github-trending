@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [AntSimulator](https://github.com/johnBuffer/AntSimulator) | Simple Ants simulator |
-| [Catch2](https://github.com/catchorg/Catch2) | A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch) |
-| [klipper](https://github.com/KevinOConnor/klipper) | Klipper is a 3d-printer firmware |
-| [querybook](https://github.com/pinterest/querybook) | Querybook is a Big Data Querying UI, combining collocated table metadata and a simple notebook interface. |
-| [Chart.js](https://github.com/chartjs/Chart.js) | Simple HTML5 Charts using the <canvas> tag |
-| [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics |
+| [discord.js](https://github.com/discordjs/discord.js) | A powerful JavaScript library for interacting with the Discord API |
+| [bitcoin](https://github.com/bitcoin/bitcoin) | Bitcoin Core integration/staging tree |
+| [grit](https://github.com/climech/grit) | A multitree-based personal task manager |
+| [iptv](https://github.com/iptv-org/iptv) | Collection of 5000+ publicly available IPTV channels from all over the world |
+| [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) | OpenCore bootloader |
+| [rich](https://github.com/willmcgugan/rich) | Rich is a Python library for rich text and beautiful formatting in the terminal. |
 | [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
-| [Acala](https://github.com/AcalaNetwork/Acala) | Acala - cross-chain DeFi hub and stablecoin based on Substrate for Polkadot and Kusama. |
-| [NiceHashQuickMiner](https://github.com/nicehash/NiceHashQuickMiner) | Super simple & easy Windows 10 cryptocurrency miner made by NiceHash. |
-| [btcpayserver](https://github.com/btcpayserver/btcpayserver) | Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor. |
+| [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics |
+| [appsmith](https://github.com/appsmithorg/appsmith) | Build beautiful admin panels, dashboards, and CRUD apps that connect to any API or database. Try it at: https://app.appsmith.com Open source and self-hosting friendly. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10

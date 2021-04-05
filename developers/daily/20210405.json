@@ -1,0 +1,290 @@
+[
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1810591",
+        "name": "Anthony Sottile",
+        "repo": {
+            "description": "A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.",
+            "name": "pyupgrade",
+            "url": "https://github.com/asottile/pyupgrade"
+        },
+        "sponsorUrl": "https://github.com/sponsors/asottile",
+        "url": "https://github.com/asottile",
+        "username": "asottile"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/6942",
+        "name": "Tom Payne",
+        "repo": {
+            "description": "Manage your dotfiles across multiple diverse machines, securely.",
+            "name": "chezmoi",
+            "url": "https://github.com/twpayne/chezmoi"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/twpayne",
+        "username": "twpayne"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/3257156",
+        "name": "Stefano Gottardo",
+        "repo": {
+            "description": "InputStream based Netflix plugin for Kodi",
+            "name": "plugin.video.netflix",
+            "url": "https://github.com/CastagnaIT/plugin.video.netflix"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/CastagnaIT",
+        "username": "CastagnaIT"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/8456633",
+        "name": "Jesse Duffield",
+        "repo": {
+            "description": "simple terminal UI for git commands",
+            "name": "lazygit",
+            "url": "https://github.com/jesseduffield/lazygit"
+        },
+        "sponsorUrl": "https://github.com/sponsors/jesseduffield",
+        "url": "https://github.com/jesseduffield",
+        "username": "jesseduffield"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/12663778",
+        "name": "Me No Dev",
+        "repo": {
+            "description": "Async Web Server for ESP8266 and ESP32",
+            "name": "ESPAsyncWebServer",
+            "url": "https://github.com/me-no-dev/ESPAsyncWebServer"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/me-no-dev",
+        "username": "me-no-dev"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/63311",
+        "name": "Saleem Abdulrasool",
+        "repo": {
+            "description": "WinRT Bridging for Swift",
+            "name": "SwiftWinRT",
+            "url": "https://github.com/compnerd/SwiftWinRT"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/compnerd",
+        "username": "compnerd"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/6933510",
+        "name": "Fons van der Plas",
+        "repo": {
+            "description": "\ud83c\udf88 Simple reactive notebooks for Julia",
+            "name": "Pluto.jl",
+            "url": "https://github.com/fonsp/Pluto.jl"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/fonsp",
+        "username": "fonsp"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1162160",
+        "name": "Rich Harris",
+        "repo": {
+            "description": "Straightforward project scaffolding",
+            "name": "degit",
+            "url": "https://github.com/Rich-Harris/degit"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/Rich-Harris",
+        "username": "Rich-Harris"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/249515",
+        "name": "Ha Thach",
+        "repo": {
+            "description": "An open source cross-platform USB stack for embedded system",
+            "name": "tinyusb",
+            "url": "https://github.com/hathach/tinyusb"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/hathach",
+        "username": "hathach"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/13562139",
+        "name": "Adam R",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/catenocrypt",
+        "username": "catenocrypt"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/67496",
+        "name": "Josh Bleecher Snyder",
+        "repo": {
+            "description": "impl generates method stubs for implementing an interface.",
+            "name": "impl",
+            "url": "https://github.com/josharian/impl"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/josharian",
+        "username": "josharian"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/102495",
+        "name": "Sorin Sbarnea",
+        "repo": null,
+        "sponsorUrl": "https://github.com/sponsors/ssbarnea",
+        "url": "https://github.com/ssbarnea",
+        "username": "ssbarnea"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1128784",
+        "name": "Mark Erikson",
+        "repo": {
+            "description": "Curated tutorial and resource links I've collected on React, Redux, ES6, and more",
+            "name": "react-redux-links",
+            "url": "https://github.com/markerikson/react-redux-links"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/markerikson",
+        "username": "markerikson"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2621",
+        "name": "Brad Fitzpatrick",
+        "repo": {
+            "description": "Go Memcached client library #golang",
+            "name": "gomemcache",
+            "url": "https://github.com/bradfitz/gomemcache"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/bradfitz",
+        "username": "bradfitz"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/11981631",
+        "name": "Alex Kaszynski",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/akaszynski",
+        "username": "akaszynski"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/66491",
+        "name": "Roger Peppe",
+        "repo": {
+            "description": "A simple command to print dates with Go-style formatting",
+            "name": "godate",
+            "url": "https://github.com/rogpeppe/godate"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/rogpeppe",
+        "username": "rogpeppe"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/3592170",
+        "name": "Dane Mackier",
+        "repo": {
+            "description": "The repo contains the source code for all the tutorials on the FilledStacks Youtube channel.",
+            "name": "flutter-tutorials",
+            "url": "https://github.com/FilledStacks/flutter-tutorials"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/FilledStacks",
+        "username": "FilledStacks"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/122434",
+        "name": "Mariusz Nowak",
+        "repo": {
+            "description": "Complete memoize/cache solution for JavaScript",
+            "name": "memoizee",
+            "url": "https://github.com/medikoo/memoizee"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/medikoo",
+        "username": "medikoo"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/4368928",
+        "name": "Pedro S. Lopez",
+        "repo": {
+            "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+            "name": "whatsapp-web.js",
+            "url": "https://github.com/pedroslopez/whatsapp-web.js"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/pedroslopez",
+        "username": "pedroslopez"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1207679",
+        "name": "Michael (Parker) Parker",
+        "repo": {
+            "description": "Service eggs for the pterodactyl panel",
+            "name": "eggs",
+            "url": "https://github.com/parkervcp/eggs"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/parkervcp",
+        "username": "parkervcp"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/9773803",
+        "name": "Vadim Dalecky",
+        "repo": {
+            "description": "React Hooks \u2014 \ud83d\udc4d",
+            "name": "react-use",
+            "url": "https://github.com/streamich/react-use"
+        },
+        "sponsorUrl": "https://github.com/sponsors/streamich",
+        "url": "https://github.com/streamich",
+        "username": "streamich"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/21002501",
+        "name": "An Tao",
+        "repo": {
+            "description": "Drogon: A C++14/17 based HTTP web application framework running on Linux/macOS/Unix/Windows",
+            "name": "drogon",
+            "url": "https://github.com/an-tao/drogon"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/an-tao",
+        "username": "an-tao"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/635902",
+        "name": "Zihua Li",
+        "repo": {
+            "description": "\ud83d\ude80 A robust, performance-focused and full-featured Redis client for Node.js.",
+            "name": "ioredis",
+            "url": "https://github.com/luin/ioredis"
+        },
+        "sponsorUrl": "https://github.com/sponsors/luin",
+        "url": "https://github.com/luin",
+        "username": "luin"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/882703",
+        "name": "Luan Nico",
+        "repo": {
+            "description": "A Flutter plugin to play multiple audio files simultaneously (Android/iOS)",
+            "name": "audioplayers",
+            "url": "https://github.com/luanpotter/audioplayers"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/luanpotter",
+        "username": "luanpotter"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/7550366",
+        "name": "James Yeung",
+        "repo": {
+            "description": "A vue router storage solution. -If your vue application needs to jump to a third party page, and then jump back, want to restore to the original history and continue to operate, the use of this plug-in is the best solution.\u5982\u679c\u4f60\u7684vue\u5e94\u7528\u9700\u8981\u8df3\u8f6c\u5230\u7b2c\u4e09\u65b9\u9875\u9762\uff0c\u518d\u8df3\u8f6c\u56de\u6765\u65f6\uff0c\u60f3\u6062\u590d\u5230\u539f\u6765\u7684\u5386\u53f2\u8bb0\u5f55\u5e76\u7ee7\u7eed\u64cd\u4f5c\uff0c\u4f7f\u7528\u672c\u63d2\u4ef6\u662f\u6700\u597d\u7684\u89e3\u51b3\u65b9\u6848\u3002",
+            "name": "vue-router-storage",
+            "url": "https://github.com/ElderJames/vue-router-storage"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/ElderJames",
+        "username": "ElderJames"
+    }
+]
