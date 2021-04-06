@@ -9,15 +9,15 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [AntSimulator](https://github.com/johnBuffer/AntSimulator) | Simple Ants simulator |
+| [Primes](https://github.com/davepl/Primes) | Prime Number Projects in C#/C++/Python |
 | [discord.js](https://github.com/discordjs/discord.js) | A powerful JavaScript library for interacting with the Discord API |
-| [bitcoin](https://github.com/bitcoin/bitcoin) | Bitcoin Core integration/staging tree |
 | [grit](https://github.com/climech/grit) | A multitree-based personal task manager |
+| [core](https://github.com/home-assistant/core) | 🏡 Open source home automation that puts local control and privacy first |
+| [node-express-boilerplate](https://github.com/hagopj13/node-express-boilerplate) | A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose |
+| [AntSimulator](https://github.com/johnBuffer/AntSimulator) | Simple Ants simulator |
+| [bitcoin](https://github.com/bitcoin/bitcoin) | Bitcoin Core integration/staging tree |
 | [iptv](https://github.com/iptv-org/iptv) | Collection of 5000+ publicly available IPTV channels from all over the world |
-| [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) | OpenCore bootloader |
-| [rich](https://github.com/willmcgugan/rich) | Rich is a Python library for rich text and beautiful formatting in the terminal. |
-| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
-| [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics |
+| [docs](https://github.com/github/docs) | The open-source repo for docs.github.com |
 | [appsmith](https://github.com/appsmithorg/appsmith) | Build beautiful admin panels, dashboards, and CRUD apps that connect to any API or database. Try it at: https://app.appsmith.com Open source and self-hosting friendly. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
