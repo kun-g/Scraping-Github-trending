@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [Primes](https://github.com/davepl/Primes) | Prime Number Projects in C#/C++/Python |
+| [lipgloss](https://github.com/charmbracelet/lipgloss) | Style definitions for nice terminal layouts 👄 |
 | [discord.js](https://github.com/discordjs/discord.js) | A powerful JavaScript library for interacting with the Discord API |
-| [grit](https://github.com/climech/grit) | A multitree-based personal task manager |
-| [core](https://github.com/home-assistant/core) | 🏡 Open source home automation that puts local control and privacy first |
 | [node-express-boilerplate](https://github.com/hagopj13/node-express-boilerplate) | A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose |
-| [AntSimulator](https://github.com/johnBuffer/AntSimulator) | Simple Ants simulator |
+| [archinstall](https://github.com/archlinux/archinstall) | Arch Linux installer - guided, templates etc. |
+| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
+| [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | The Patterns of Scalable, Reliable, and Performant Large-Scale Systems |
+| [core](https://github.com/home-assistant/core) | 🏡 Open source home automation that puts local control and privacy first |
 | [bitcoin](https://github.com/bitcoin/bitcoin) | Bitcoin Core integration/staging tree |
-| [iptv](https://github.com/iptv-org/iptv) | Collection of 5000+ publicly available IPTV channels from all over the world |
-| [docs](https://github.com/github/docs) | The open-source repo for docs.github.com |
-| [appsmith](https://github.com/appsmithorg/appsmith) | Build beautiful admin panels, dashboards, and CRUD apps that connect to any API or database. Try it at: https://app.appsmith.com Open source and self-hosting friendly. |
+| [databunker](https://github.com/securitybunker/databunker) | Secure storage for personal records built to comply with GDPR |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
