@@ -9,19 +9,34 @@
                 "username": "davepl"
             },
             {
-                "avatar": "https://avatars.githubusercontent.com/u/82750",
-                "href": "https://github.com/mckoss",
-                "username": "mckoss"
+                "avatar": "https://avatars.githubusercontent.com/u/15683927",
+                "href": "https://github.com/DennisdeBest",
+                "username": "DennisdeBest"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7335452",
+                "href": "https://github.com/devblok",
+                "username": "devblok"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/25517624",
+                "href": "https://github.com/j-f1",
+                "username": "j-f1"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2437823",
+                "href": "https://github.com/marghidanu",
+                "username": "marghidanu"
             }
         ],
-        "currentPeriodStars": 76,
+        "currentPeriodStars": 74,
         "description": "Prime Number Projects in C#/C++/Python",
-        "forks": 127,
+        "forks": 128,
         "fullname": "davepl/Primes",
         "language": "C++",
         "languageColor": "#f34b7d",
         "name": "Primes",
-        "stars": 264,
+        "stars": 270,
         "url": "https://github.com/davepl/Primes"
     },
     {
@@ -49,14 +64,14 @@
                 "username": "ahmedkhalf"
             }
         ],
-        "currentPeriodStars": 538,
+        "currentPeriodStars": 494,
         "description": "Style definitions for nice terminal layouts \ud83d\udc44",
-        "forks": 23,
+        "forks": 24,
         "fullname": "charmbracelet/lipgloss",
         "language": "Go",
         "languageColor": "#00ADD8",
         "name": "lipgloss",
-        "stars": 1842,
+        "stars": 1871,
         "url": "https://github.com/charmbracelet/lipgloss"
     },
     {
@@ -89,14 +104,14 @@
                 "username": "iCrawl"
             }
         ],
-        "currentPeriodStars": 137,
+        "currentPeriodStars": 144,
         "description": "A powerful JavaScript library for interacting with the Discord API",
         "forks": 2258,
         "fullname": "discordjs/discord.js",
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "discord.js",
-        "stars": 10931,
+        "stars": 10943,
         "url": "https://github.com/discordjs/discord.js"
     },
     {
@@ -124,14 +139,14 @@
                 "username": "abehnamfard"
             }
         ],
-        "currentPeriodStars": 284,
+        "currentPeriodStars": 273,
         "description": "A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose",
-        "forks": 378,
+        "forks": 382,
         "fullname": "hagopj13/node-express-boilerplate",
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "node-express-boilerplate",
-        "stars": 1496,
+        "stars": 1508,
         "url": "https://github.com/hagopj13/node-express-boilerplate"
     },
     {
@@ -149,6 +164,11 @@
                 "username": "advaithm"
             },
             {
+                "avatar": "https://avatars.githubusercontent.com/u/2781017",
+                "href": "https://github.com/pyfisch",
+                "username": "pyfisch"
+            },
+            {
                 "avatar": "https://avatars.githubusercontent.com/u/40673815",
                 "href": "https://github.com/demostanis",
                 "username": "demostanis"
@@ -157,21 +177,16 @@
                 "avatar": "https://avatars.githubusercontent.com/u/4093184",
                 "href": "https://github.com/grazzolini",
                 "username": "grazzolini"
-            },
-            {
-                "avatar": "https://avatars.githubusercontent.com/u/55739788",
-                "href": "https://github.com/jaybent",
-                "username": "jaybent"
             }
         ],
-        "currentPeriodStars": 223,
+        "currentPeriodStars": 220,
         "description": "Arch Linux installer - guided, templates etc.",
         "forks": 44,
         "fullname": "archlinux/archinstall",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "archinstall",
-        "stars": 947,
+        "stars": 965,
         "url": "https://github.com/archlinux/archinstall"
     },
     {
@@ -204,14 +219,14 @@
                 "username": "Ilyushin"
             }
         ],
-        "currentPeriodStars": 616,
+        "currentPeriodStars": 619,
         "description": "A complete computer science study plan to become a software engineer.",
-        "forks": 44925,
+        "forks": 44930,
         "fullname": "jwasham/coding-interview-university",
         "language": null,
         "languageColor": null,
         "name": "coding-interview-university",
-        "stars": 161240,
+        "stars": 161286,
         "url": "https://github.com/jwasham/coding-interview-university"
     },
     {
@@ -244,14 +259,14 @@
                 "username": "spekulatius"
             }
         ],
-        "currentPeriodStars": 265,
+        "currentPeriodStars": 324,
         "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",
         "forks": 3528,
         "fullname": "binhnguyennus/awesome-scalability",
         "language": null,
         "languageColor": null,
         "name": "awesome-scalability",
-        "stars": 30050,
+        "stars": 30075,
         "url": "https://github.com/binhnguyennus/awesome-scalability"
     },
     {
@@ -284,14 +299,14 @@
                 "username": "frenck"
             }
         ],
-        "currentPeriodStars": 176,
+        "currentPeriodStars": 182,
         "description": "\ud83c\udfe1 Open source home automation that puts local control and privacy first",
-        "forks": 13686,
+        "forks": 13688,
         "fullname": "home-assistant/core",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "core",
-        "stars": 41526,
+        "stars": 41539,
         "url": "https://github.com/home-assistant/core"
     },
     {
@@ -324,14 +339,14 @@
                 "username": "gavinandresen"
             }
         ],
-        "currentPeriodStars": 139,
+        "currentPeriodStars": 143,
         "description": "Bitcoin Core integration/staging tree",
-        "forks": 28296,
+        "forks": 28299,
         "fullname": "bitcoin/bitcoin",
         "language": "C++",
         "languageColor": "#f34b7d",
         "name": "bitcoin",
-        "stars": 51697,
+        "stars": 51708,
         "url": "https://github.com/bitcoin/bitcoin"
     },
     {
@@ -349,14 +364,14 @@
                 "username": "booaazz"
             }
         ],
-        "currentPeriodStars": 62,
+        "currentPeriodStars": 175,
         "description": "Secure storage for personal records built to comply with GDPR",
         "forks": 23,
         "fullname": "securitybunker/databunker",
         "language": "Go",
         "languageColor": "#00ADD8",
         "name": "databunker",
-        "stars": 540,
+        "stars": 554,
         "url": "https://github.com/securitybunker/databunker"
     },
     {
@@ -384,14 +399,14 @@
                 "username": "Link4K"
             }
         ],
-        "currentPeriodStars": 238,
+        "currentPeriodStars": 242,
         "description": "Collection of 5000+ publicly available IPTV channels from all over the world",
-        "forks": 1464,
+        "forks": 1465,
         "fullname": "iptv-org/iptv",
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "iptv",
-        "stars": 30681,
+        "stars": 30696,
         "url": "https://github.com/iptv-org/iptv"
     },
     {
@@ -424,14 +439,14 @@
                 "username": "yoavmmn"
             }
         ],
-        "currentPeriodStars": 484,
+        "currentPeriodStars": 510,
         "description": "A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups",
-        "forks": 446,
+        "forks": 448,
         "fullname": "kuchin/awesome-cto",
         "language": null,
         "languageColor": null,
         "name": "awesome-cto",
-        "stars": 8884,
+        "stars": 8905,
         "url": "https://github.com/kuchin/awesome-cto"
     },
     {
@@ -464,14 +479,14 @@
                 "username": "jamessan"
             }
         ],
-        "currentPeriodStars": 99,
+        "currentPeriodStars": 103,
         "description": "Vim-fork focused on extensibility and usability",
         "forks": 3180,
         "fullname": "neovim/neovim",
         "language": "Vim script",
         "languageColor": "#199f4b",
         "name": "neovim",
-        "stars": 42820,
+        "stars": 42828,
         "url": "https://github.com/neovim/neovim"
     },
     {
@@ -489,14 +504,14 @@
                 "username": "XtraCube"
             }
         ],
-        "currentPeriodStars": 40,
+        "currentPeriodStars": 57,
         "description": "An Among Us mod containing a bunch of roles",
         "forks": 9,
         "fullname": "slushiegoose/Town-Of-Us",
         "language": "C#",
         "languageColor": "#178600",
         "name": "Town-Of-Us",
-        "stars": 271,
+        "stars": 282,
         "url": "https://github.com/slushiegoose/Town-Of-Us"
     },
     {
@@ -529,14 +544,14 @@
                 "username": "AllThingsSmitty"
             }
         ],
-        "currentPeriodStars": 245,
+        "currentPeriodStars": 240,
         "description": "\ud83d\ude0e Awesome lists about all kinds of interesting topics",
-        "forks": 20363,
+        "forks": 20365,
         "fullname": "sindresorhus/awesome",
         "language": null,
         "languageColor": null,
         "name": "awesome",
-        "stars": 157206,
+        "stars": 157227,
         "url": "https://github.com/sindresorhus/awesome"
     },
     {
@@ -569,14 +584,14 @@
                 "username": "Hornwitser"
             }
         ],
-        "currentPeriodStars": 87,
+        "currentPeriodStars": 75,
         "description": "An API wrapper for Discord written in Python.",
-        "forks": 2045,
+        "forks": 2046,
         "fullname": "Rapptz/discord.py",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "discord.py",
-        "stars": 7067,
+        "stars": 7073,
         "url": "https://github.com/Rapptz/discord.py"
     },
     {
@@ -599,14 +614,14 @@
                 "username": "sprutner"
             }
         ],
-        "currentPeriodStars": 54,
+        "currentPeriodStars": 59,
         "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
-        "forks": 53672,
+        "forks": 53678,
         "fullname": "Pierian-Data/Complete-Python-3-Bootcamp",
         "language": "Jupyter Notebook",
         "languageColor": "#DA5B0B",
         "name": "Complete-Python-3-Bootcamp",
-        "stars": 15274,
+        "stars": 15281,
         "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp"
     },
     {
@@ -639,14 +654,14 @@
                 "username": "pocketjoso"
             }
         ],
-        "currentPeriodStars": 115,
+        "currentPeriodStars": 130,
         "description": "Manually curated collection of resources for frontend web developers.",
         "forks": 4580,
         "fullname": "dypsilon/frontend-dev-bookmarks",
         "language": null,
         "languageColor": null,
         "name": "frontend-dev-bookmarks",
-        "stars": 30080,
+        "stars": 30093,
         "url": "https://github.com/dypsilon/frontend-dev-bookmarks"
     },
     {
@@ -679,14 +694,14 @@
                 "username": "overlisted"
             }
         ],
-        "currentPeriodStars": 68,
+        "currentPeriodStars": 70,
         "description": "Taking voice conversations to the moon \ud83d\ude80",
-        "forks": 1003,
+        "forks": 1004,
         "fullname": "benawad/dogehouse",
         "language": "TypeScript",
         "languageColor": "#2b7489",
         "name": "dogehouse",
-        "stars": 6707,
+        "stars": 6714,
         "url": "https://github.com/benawad/dogehouse"
     },
     {
@@ -719,14 +734,14 @@
                 "username": "amirtq"
             }
         ],
-        "currentPeriodStars": 58,
+        "currentPeriodStars": 57,
         "description": "\u0628\u06a9\u0627\u067e \u0627\u0632 \u06af\u0648\u06af\u0644: \u0686\u0647 \u0627\u062a\u0641\u0627\u0642\u06cc \u0627\u0641\u062a\u0627\u062f\u0647 \u0648 \u0686\u0647 \u0628\u0627\u06cc\u062f \u06a9\u0631\u062f\u061f",
         "forks": 18,
         "fullname": "Hameds/GoogleBackup",
         "language": null,
         "languageColor": null,
         "name": "GoogleBackup",
-        "stars": 224,
+        "stars": 227,
         "url": "https://github.com/Hameds/GoogleBackup"
     },
     {
@@ -739,14 +754,14 @@
                 "username": "climech"
             }
         ],
-        "currentPeriodStars": 220,
+        "currentPeriodStars": 211,
         "description": "A multitree-based personal task manager",
         "forks": 27,
         "fullname": "climech/grit",
         "language": "Go",
         "languageColor": "#00ADD8",
         "name": "grit",
-        "stars": 1253,
+        "stars": 1258,
         "url": "https://github.com/climech/grit"
     },
     {
@@ -759,14 +774,14 @@
                 "username": "rebecca-vickery"
             }
         ],
-        "currentPeriodStars": 33,
+        "currentPeriodStars": 82,
         "description": "A comprehensive list of free resources for learning data science",
-        "forks": 18,
+        "forks": 20,
         "fullname": "rebecca-vickery/data-science-learning-resources",
         "language": null,
         "languageColor": null,
         "name": "data-science-learning-resources",
-        "stars": 132,
+        "stars": 145,
         "url": "https://github.com/rebecca-vickery/data-science-learning-resources"
     },
     {
@@ -799,14 +814,14 @@
                 "username": "TatuLaras"
             }
         ],
-        "currentPeriodStars": 136,
+        "currentPeriodStars": 149,
         "description": "A Collection of application ideas which can be used to improve your coding skills.",
-        "forks": 5462,
+        "forks": 5464,
         "fullname": "florinpop17/app-ideas",
         "language": null,
         "languageColor": null,
         "name": "app-ideas",
-        "stars": 39359,
+        "stars": 39375,
         "url": "https://github.com/florinpop17/app-ideas"
     },
     {
@@ -834,14 +849,14 @@
                 "username": "mjkzy"
             }
         ],
-        "currentPeriodStars": 165,
+        "currentPeriodStars": 154,
         "description": "A simple standalone program which automates the installation, removal and maintenance of BetterDiscord.",
         "forks": 22,
         "fullname": "BetterDiscord/Installer",
         "language": "Svelte",
         "languageColor": "#ff3e00",
         "name": "Installer",
-        "stars": 751,
+        "stars": 759,
         "url": "https://github.com/BetterDiscord/Installer"
     },
     {
@@ -874,14 +889,14 @@
                 "username": "vojtechjelinek"
             }
         ],
-        "currentPeriodStars": 99,
+        "currentPeriodStars": 172,
         "description": "A free, online learning platform to make quality education accessible for all.",
-        "forks": 1822,
+        "forks": 1823,
         "fullname": "oppia/oppia",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "oppia",
-        "stars": 3309,
+        "stars": 3329,
         "url": "https://github.com/oppia/oppia"
     }
 ]
