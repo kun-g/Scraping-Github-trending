@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [Primes](https://github.com/davepl/Primes) | Prime Number Projects in C#/C++/Python |
-| [lipgloss](https://github.com/charmbracelet/lipgloss) | Style definitions for nice terminal layouts 👄 |
-| [discord.js](https://github.com/discordjs/discord.js) | A powerful JavaScript library for interacting with the Discord API |
+| [oppia](https://github.com/oppia/oppia) | A free, online learning platform to make quality education accessible for all. |
+| [react-use](https://github.com/streamich/react-use) | React Hooks — 👍 |
 | [node-express-boilerplate](https://github.com/hagopj13/node-express-boilerplate) | A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose |
-| [archinstall](https://github.com/archlinux/archinstall) | Arch Linux installer - guided, templates etc. |
-| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
 | [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | The Patterns of Scalable, Reliable, and Performant Large-Scale Systems |
-| [core](https://github.com/home-assistant/core) | 🏡 Open source home automation that puts local control and privacy first |
-| [bitcoin](https://github.com/bitcoin/bitcoin) | Bitcoin Core integration/staging tree |
-| [databunker](https://github.com/securitybunker/databunker) | Secure storage for personal records built to comply with GDPR |
+| [Signal-Server](https://github.com/signalapp/Signal-Server) | Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS |
+| [awesome-cto](https://github.com/kuchin/awesome-cto) | A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups |
+| [free-for-dev](https://github.com/ripienaar/free-for-dev) | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev |
+| [csharpstandard](https://github.com/dotnet/csharpstandard) | Working space for ECMA-TC49-TG2, the C# standard committee. |
+| [imersao-fsfc2](https://github.com/codeedu/imersao-fsfc2) | None |
+| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
