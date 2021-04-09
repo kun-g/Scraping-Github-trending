@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [oppia](https://github.com/oppia/oppia) | A free, online learning platform to make quality education accessible for all. |
-| [react-use](https://github.com/streamich/react-use) | React Hooks — 👍 |
-| [node-express-boilerplate](https://github.com/hagopj13/node-express-boilerplate) | A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose |
-| [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | The Patterns of Scalable, Reliable, and Performant Large-Scale Systems |
+| [lyra](https://github.com/google/lyra) | A Very Low-Bitrate Codec for Speech Compression |
+| [octane](https://github.com/laravel/octane) | None |
+| [bevy](https://github.com/bevyengine/bevy) | A refreshingly simple data-driven game engine built in Rust |
 | [Signal-Server](https://github.com/signalapp/Signal-Server) | Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS |
-| [awesome-cto](https://github.com/kuchin/awesome-cto) | A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups |
+| [swift-collections](https://github.com/apple/swift-collections) | A package of production grade Swift data structures |
+| [cypress](https://github.com/cypress-io/cypress) | Fast, easy and reliable testing for anything that runs in a browser. |
+| [oppia](https://github.com/oppia/oppia) | A free, online learning platform to make quality education accessible for all. |
+| [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | The Patterns of Scalable, Reliable, and Performant Large-Scale Systems |
 | [free-for-dev](https://github.com/ripienaar/free-for-dev) | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev |
-| [csharpstandard](https://github.com/dotnet/csharpstandard) | Working space for ECMA-TC49-TG2, the C# standard committee. |
-| [imersao-fsfc2](https://github.com/codeedu/imersao-fsfc2) | None |
-| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
+| [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | A list of Free Software network services and web applications which can be hosted on your own servers |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
