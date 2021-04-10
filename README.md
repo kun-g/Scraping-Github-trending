@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [lyra](https://github.com/google/lyra) | A Very Low-Bitrate Codec for Speech Compression |
-| [octane](https://github.com/laravel/octane) | None |
-| [bevy](https://github.com/bevyengine/bevy) | A refreshingly simple data-driven game engine built in Rust |
-| [Signal-Server](https://github.com/signalapp/Signal-Server) | Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS |
-| [swift-collections](https://github.com/apple/swift-collections) | A package of production grade Swift data structures |
-| [cypress](https://github.com/cypress-io/cypress) | Fast, easy and reliable testing for anything that runs in a browser. |
+| [superset](https://github.com/apache/superset) | Apache Superset is a Data Visualization and Data Exploration Platform |
+| [com.unity.multiplayer.samples.coop](https://github.com/Unity-Technologies/com.unity.multiplayer.samples.coop) | A small-scale cooperative game sample built on the new, Unity networking framework to teach developers about creating a similar multiplayer game. |
+| [cpufetch](https://github.com/Dr-Noob/cpufetch) | Simple yet fancy CPU architecture fetching tool |
+| [react-use](https://github.com/streamich/react-use) | React Hooks — 👍 |
 | [oppia](https://github.com/oppia/oppia) | A free, online learning platform to make quality education accessible for all. |
+| [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) | Azure Quickstart Templates |
+| [nested-data-structure-traversal](https://github.com/josevalim/nested-data-structure-traversal) | None |
+| [Signal-Server](https://github.com/signalapp/Signal-Server) | Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS |
+| [plutus](https://github.com/input-output-hk/plutus) | The Plutus language implementation and tools |
 | [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | The Patterns of Scalable, Reliable, and Performant Large-Scale Systems |
-| [free-for-dev](https://github.com/ripienaar/free-for-dev) | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev |
-| [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | A list of Free Software network services and web applications which can be hosted on your own servers |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
