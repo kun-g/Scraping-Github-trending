@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [dogehouse](https://github.com/benawad/dogehouse) | Taking voice conversations to the moon 🚀 |
+| [keto](https://github.com/ory/keto) | Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models. |
 | [superset](https://github.com/apache/superset) | Apache Superset is a Data Visualization and Data Exploration Platform |
+| [plutus-pioneer-program](https://github.com/input-output-hk/plutus-pioneer-program) | None |
 | [com.unity.multiplayer.samples.coop](https://github.com/Unity-Technologies/com.unity.multiplayer.samples.coop) | A small-scale cooperative game sample built on the new, Unity networking framework to teach developers about creating a similar multiplayer game. |
-| [cpufetch](https://github.com/Dr-Noob/cpufetch) | Simple yet fancy CPU architecture fetching tool |
-| [react-use](https://github.com/streamich/react-use) | React Hooks — 👍 |
-| [oppia](https://github.com/oppia/oppia) | A free, online learning platform to make quality education accessible for all. |
-| [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) | Azure Quickstart Templates |
-| [nested-data-structure-traversal](https://github.com/josevalim/nested-data-structure-traversal) | None |
-| [Signal-Server](https://github.com/signalapp/Signal-Server) | Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS |
-| [plutus](https://github.com/input-output-hk/plutus) | The Plutus language implementation and tools |
-| [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | The Patterns of Scalable, Reliable, and Performant Large-Scale Systems |
+| [bevy](https://github.com/bevyengine/bevy) | A refreshingly simple data-driven game engine built in Rust |
+| [incubator-dolphinscheduler](https://github.com/apache/incubator-dolphinscheduler) | Apache DolphinScheduler is a distributed and extensible workflow scheduler platform with powerful DAG visual interfaces, dedicated to solving complex job dependencies in the data pipeline and providing various types of jobs available `out of the box`. |
+| [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond. |
+| [CyberBattleSim](https://github.com/microsoft/CyberBattleSim) | An experimentation and research platform to investigate the interaction of automated agents in an abstract simulated network environments. |
+| [layout-parser](https://github.com/Layout-Parser/layout-parser) | A Python Library for Document Layout Understanding |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
