@@ -25,16 +25,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273) | RNA vaccines have become a key tool in moving forward through the challenges raised both in the current pandemic and in numerous other public health and medical challenges. With the rollout of vaccines for COVID-19, these synthetic mRNAs have become broadly distributed RNA species in numerous human populations. Despite their ubiquity, sequences … |
-| [deep-daze](https://github.com/lucidrains/deep-daze) | Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network) |
-| [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
-| [sa-token](https://github.com/dromara/sa-token) | 这可能是史上功能最全的Java权限认证框架！目前已集成——登录验证、权限验证、Session会话、踢人下线、分布式会话、单点登录、OAuth2.0、记住我模式、模拟他人账号、临时身份切换、集成Redis、多账号认证体系、前后台分离模式、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成... |
-| [php-src](https://github.com/php/php-src) | The PHP Interpreter |
-| [Catch2](https://github.com/catchorg/Catch2) | A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch) |
-| [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | Short JavaScript code snippets for all your development needs |
-| [privilege-escalation-awesome-scripts-suite](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite) | PEASS - Privilege Escalation Awesome Scripts SUITE (with colors) |
-| [javascript-basic-projects](https://github.com/john-smilga/javascript-basic-projects) | None |
-| [serenity](https://github.com/SerenityOS/serenity) | The Serenity Operating System 🐞 |
+| [AntSimulator](https://github.com/johnBuffer/AntSimulator) | Simple Ants simulator |
+| [Primes](https://github.com/davepl/Primes) | Prime Number Projects in C#/C++/Python |
+| [node-express-boilerplate](https://github.com/hagopj13/node-express-boilerplate) | A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose |
+| [Signal-Server](https://github.com/signalapp/Signal-Server) | Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS |
+| [plutus](https://github.com/input-output-hk/plutus) | The Plutus language implementation and tools |
+| [appsmith](https://github.com/appsmithorg/appsmith) | Build custom CRUD UI that talks to any API or database. All without HTML or CSS. |
+| [dev-sidecar](https://github.com/docmirror/dev-sidecar) | 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速 |
+| [querybook](https://github.com/pinterest/querybook) | Querybook is a Big Data Querying UI, combining collocated table metadata and a simple notebook interface. |
+| [bevy](https://github.com/bevyengine/bevy) | A refreshingly simple data-driven game engine built in Rust |
+| [maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) | The open-source fork of Mapbox GL JS: Interactive maps in the browser, powered by vector tiles and WebGL. |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
