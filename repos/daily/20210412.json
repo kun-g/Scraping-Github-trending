@@ -14,14 +14,14 @@
                 "username": "mockersf"
             },
             {
-                "avatar": "https://avatars.githubusercontent.com/u/5838512",
-                "href": "https://github.com/CleanCut",
-                "username": "CleanCut"
-            },
-            {
                 "avatar": "https://avatars.githubusercontent.com/u/22177966",
                 "href": "https://github.com/jakobhellermann",
                 "username": "jakobhellermann"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5838512",
+                "href": "https://github.com/CleanCut",
+                "username": "CleanCut"
             },
             {
                 "avatar": "https://avatars.githubusercontent.com/u/6868531",
@@ -29,14 +29,14 @@
                 "username": "memoryruins"
             }
         ],
-        "currentPeriodStars": 276,
+        "currentPeriodStars": 206,
         "description": "A refreshingly simple data-driven game engine built in Rust",
         "forks": 630,
         "fullname": "bevyengine/bevy",
         "language": "Rust",
         "languageColor": "#dea584",
         "name": "bevy",
-        "stars": 8362,
+        "stars": 8376,
         "url": "https://github.com/bevyengine/bevy"
     },
     {
@@ -49,14 +49,14 @@
                 "username": "DualCoder"
             }
         ],
-        "currentPeriodStars": 475,
+        "currentPeriodStars": 404,
         "description": "Unlock vGPU functionality for consumer grade GPUs.",
-        "forks": 97,
+        "forks": 98,
         "fullname": "DualCoder/vgpu_unlock",
         "language": "C",
         "languageColor": "#555555",
         "name": "vgpu_unlock",
-        "stars": 1205,
+        "stars": 1232,
         "url": "https://github.com/DualCoder/vgpu_unlock"
     },
     {
@@ -69,14 +69,14 @@
                 "username": "blumu"
             }
         ],
-        "currentPeriodStars": 218,
+        "currentPeriodStars": 187,
         "description": "An experimentation and research platform to investigate the interaction of automated agents in an abstract simulated network environments.",
         "forks": 53,
         "fullname": "microsoft/CyberBattleSim",
         "language": "Jupyter Notebook",
         "languageColor": "#DA5B0B",
         "name": "CyberBattleSim",
-        "stars": 616,
+        "stars": 627,
         "url": "https://github.com/microsoft/CyberBattleSim"
     },
     {
@@ -109,14 +109,14 @@
                 "username": "bryanpgc"
             }
         ],
-        "currentPeriodStars": 30,
+        "currentPeriodStars": 101,
         "description": "Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries",
-        "forks": 2194,
+        "forks": 2196,
         "fullname": "bradtraversy/vanillawebprojects",
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "vanillawebprojects",
-        "stars": 9005,
+        "stars": 9024,
         "url": "https://github.com/bradtraversy/vanillawebprojects"
     },
     {
@@ -149,14 +149,14 @@
                 "username": "nbd168"
             }
         ],
-        "currentPeriodStars": 14,
+        "currentPeriodStars": 40,
         "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org",
         "forks": 5576,
         "fullname": "openwrt/openwrt",
         "language": "C",
         "languageColor": "#555555",
         "name": "openwrt",
-        "stars": 8192,
+        "stars": 8202,
         "url": "https://github.com/openwrt/openwrt"
     },
     {
@@ -189,14 +189,14 @@
                 "username": "mininao"
             }
         ],
-        "currentPeriodStars": 24,
+        "currentPeriodStars": 34,
         "description": "0 doses perdues.",
         "forks": 15,
         "fullname": "hostolab/covidliste",
         "language": "Ruby",
         "languageColor": "#701516",
         "name": "covidliste",
-        "stars": 85,
+        "stars": 86,
         "url": "https://github.com/hostolab/covidliste"
     },
     {
@@ -229,28 +229,28 @@
                 "username": "s0undt3ch"
             }
         ],
-        "currentPeriodStars": 114,
+        "currentPeriodStars": 150,
         "description": "Automated cryptocurrency trading bot",
         "forks": 545,
         "fullname": "edeng23/binance-trade-bot",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "binance-trade-bot",
-        "stars": 3313,
+        "stars": 3321,
         "url": "https://github.com/edeng23/binance-trade-bot"
     },
     {
         "author": "google",
         "avatar": "https://github.com/google.png",
         "builtBy": [],
-        "currentPeriodStars": 55,
+        "currentPeriodStars": 52,
         "description": null,
         "forks": 71,
         "fullname": "google/monster-mash",
         "language": "C++",
         "languageColor": "#f34b7d",
         "name": "monster-mash",
-        "stars": 690,
+        "stars": 696,
         "url": "https://github.com/google/monster-mash"
     },
     {
@@ -263,14 +263,14 @@
                 "username": "Yang0615777"
             }
         ],
-        "currentPeriodStars": 45,
+        "currentPeriodStars": 60,
         "description": "Alibaba-Nacos-Unauthorized/ApacheDruid-RCE_CVE-2021-25646/MS-Exchange-SSRF-CVE-2021-26885/Oracle-WebLogic-CVE-2021-2109_RCE/RG-CNVD-2021-14536/RJ-SSL-VPN-UltraVires/Redis-Unauthorized-RCE/TDOA-V11.7-GetOnlineCookie/VMware-vCenter-GetAnyFile/yongyou-GRP-U8-XXE/Oracle-WebLogic-CVE-2020-14883/Oracle-WebLogic-CVE-2020-14882/Apache-Solr-GetAnyFile/F5\u2026",
         "forks": 121,
         "fullname": "Yang0615777/PocList",
         "language": "Java",
         "languageColor": "#b07219",
         "name": "PocList",
-        "stars": 491,
+        "stars": 493,
         "url": "https://github.com/Yang0615777/PocList"
     },
     {
@@ -283,14 +283,14 @@
                 "username": "urbanadventurer"
             }
         ],
-        "currentPeriodStars": 84,
+        "currentPeriodStars": 219,
         "description": "Unlock an Android phone (or device) by bruteforcing the lockscreen PIN. Turn your Kali Nethunter phone into a bruteforce PIN cracker for Android devices! (no root, no adb)",
         "forks": 90,
         "fullname": "urbanadventurer/Android-PIN-Bruteforce",
         "language": "Shell",
         "languageColor": "#89e051",
         "name": "Android-PIN-Bruteforce",
-        "stars": 629,
+        "stars": 641,
         "url": "https://github.com/urbanadventurer/Android-PIN-Bruteforce"
     },
     {
@@ -323,14 +323,14 @@
                 "username": "lenboo"
             }
         ],
-        "currentPeriodStars": 91,
+        "currentPeriodStars": 108,
         "description": "Apache DolphinScheduler is a distributed and extensible workflow scheduler platform with powerful DAG visual interfaces, dedicated to solving complex job dependencies in the data pipeline and providing various types of jobs available `out of the box`.",
         "forks": 1883,
         "fullname": "apache/incubator-dolphinscheduler",
         "language": "Java",
         "languageColor": "#b07219",
         "name": "incubator-dolphinscheduler",
-        "stars": 5509,
+        "stars": 5515,
         "url": "https://github.com/apache/incubator-dolphinscheduler"
     },
     {
@@ -363,14 +363,14 @@
                 "username": "PuceBaboon"
             }
         ],
-        "currentPeriodStars": 44,
+        "currentPeriodStars": 117,
         "description": "A full functional WiFi Repeater (correctly: a WiFi NAT Router)",
         "forks": 636,
         "fullname": "martin-ger/esp_wifi_repeater",
         "language": "C",
         "languageColor": "#555555",
         "name": "esp_wifi_repeater",
-        "stars": 3449,
+        "stars": 3457,
         "url": "https://github.com/martin-ger/esp_wifi_repeater"
     },
     {
@@ -403,14 +403,14 @@
                 "username": "oshliaer"
             }
         ],
-        "currentPeriodStars": 168,
+        "currentPeriodStars": 480,
         "description": "A long list of (advanced) JavaScript questions, and their explanations \u2728",
-        "forks": 4164,
+        "forks": 4166,
         "fullname": "lydiahallie/javascript-questions",
         "language": null,
         "languageColor": null,
         "name": "javascript-questions",
-        "stars": 31453,
+        "stars": 31470,
         "url": "https://github.com/lydiahallie/javascript-questions"
     },
     {
@@ -443,14 +443,14 @@
                 "username": "graceguo-supercat"
             }
         ],
-        "currentPeriodStars": 310,
+        "currentPeriodStars": 304,
         "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
         "forks": 7140,
         "fullname": "apache/superset",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "superset",
-        "stars": 37267,
+        "stars": 37285,
         "url": "https://github.com/apache/superset"
     },
     {
@@ -483,14 +483,14 @@
                 "username": "Tamerlan1993"
             }
         ],
-        "currentPeriodStars": 82,
+        "currentPeriodStars": 139,
         "description": "\ud83d\udcdc 33 concepts every JavaScript developer should know.",
-        "forks": 4700,
+        "forks": 4701,
         "fullname": "leonardomso/33-js-concepts",
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "33-js-concepts",
-        "stars": 38356,
+        "stars": 38377,
         "url": "https://github.com/leonardomso/33-js-concepts"
     },
     {
@@ -518,14 +518,14 @@
                 "username": "arnoschutijzer"
             }
         ],
-        "currentPeriodStars": 71,
+        "currentPeriodStars": 145,
         "description": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.",
         "forks": 162,
         "fullname": "tailwindlabs/headlessui",
         "language": "TypeScript",
         "languageColor": "#2b7489",
         "name": "headlessui",
-        "stars": 6014,
+        "stars": 6031,
         "url": "https://github.com/tailwindlabs/headlessui"
     },
     {
@@ -543,14 +543,14 @@
                 "username": "simeydotme"
             }
         ],
-        "currentPeriodStars": 52,
+        "currentPeriodStars": 99,
         "description": "A series of exquisite and compact web page cool effects",
         "forks": 77,
         "fullname": "lindelof/awesome-web-effect",
         "language": null,
         "languageColor": null,
         "name": "awesome-web-effect",
-        "stars": 889,
+        "stars": 902,
         "url": "https://github.com/lindelof/awesome-web-effect"
     },
     {
@@ -568,19 +568,24 @@
                 "username": "RosenZhang"
             },
             {
+                "avatar": "https://avatars.githubusercontent.com/u/234595",
+                "href": "https://github.com/edisongustavo",
+                "username": "edisongustavo"
+            },
+            {
                 "avatar": "https://avatars.githubusercontent.com/u/34011516",
                 "href": "https://github.com/dumbPy",
                 "username": "dumbPy"
             }
         ],
-        "currentPeriodStars": 209,
+        "currentPeriodStars": 210,
         "description": "A Python Library for Document Layout Understanding",
         "forks": 88,
         "fullname": "Layout-Parser/layout-parser",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "layout-parser",
-        "stars": 1263,
+        "stars": 1270,
         "url": "https://github.com/Layout-Parser/layout-parser"
     },
     {
@@ -613,14 +618,14 @@
                 "username": "Neildagr8"
             }
         ],
-        "currentPeriodStars": 70,
+        "currentPeriodStars": 164,
         "description": "Recovers passwords from pixelized screenshots",
         "forks": 2104,
         "fullname": "beurtschipper/Depix",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "Depix",
-        "stars": 17773,
+        "stars": 17784,
         "url": "https://github.com/beurtschipper/Depix"
     },
     {
@@ -638,14 +643,14 @@
                 "username": "sandoche"
             }
         ],
-        "currentPeriodStars": 46,
+        "currentPeriodStars": 106,
         "description": "A series of beautiful and practical landing page templates",
         "forks": 85,
         "fullname": "nordicgiant2/awesome-landing-page",
         "language": null,
         "languageColor": null,
         "name": "awesome-landing-page",
-        "stars": 785,
+        "stars": 805,
         "url": "https://github.com/nordicgiant2/awesome-landing-page"
     },
     {
@@ -678,14 +683,14 @@
                 "username": "alaycock"
             }
         ],
-        "currentPeriodStars": 117,
+        "currentPeriodStars": 188,
         "description": "\ud83d\udec1 Clean Code concepts adapted for JavaScript",
-        "forks": 6044,
+        "forks": 6045,
         "fullname": "ryanmcdermott/clean-code-javascript",
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "clean-code-javascript",
-        "stars": 49324,
+        "stars": 49332,
         "url": "https://github.com/ryanmcdermott/clean-code-javascript"
     },
     {
@@ -718,14 +723,14 @@
                 "username": "Ehesp"
             }
         ],
-        "currentPeriodStars": 27,
+        "currentPeriodStars": 80,
         "description": "\ud83d\udd25 A collection of Firebase plugins for Flutter apps.",
-        "forks": 2009,
+        "forks": 2010,
         "fullname": "FirebaseExtended/flutterfire",
         "language": "Dart",
         "languageColor": "#00B4AB",
         "name": "flutterfire",
-        "stars": 4581,
+        "stars": 4597,
         "url": "https://github.com/FirebaseExtended/flutterfire"
     },
     {
@@ -758,14 +763,14 @@
                 "username": "septag"
             }
         ],
-        "currentPeriodStars": 26,
+        "currentPeriodStars": 87,
         "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
         "forks": 4822,
         "fullname": "ocornut/imgui",
         "language": "C++",
         "languageColor": "#f34b7d",
         "name": "imgui",
-        "stars": 28787,
+        "stars": 28794,
         "url": "https://github.com/ocornut/imgui"
     },
     {
@@ -798,14 +803,14 @@
                 "username": "mauriciocolli"
             }
         ],
-        "currentPeriodStars": 25,
+        "currentPeriodStars": 56,
         "description": "A libre lightweight streaming front-end for Android.",
         "forks": 1742,
         "fullname": "TeamNewPipe/NewPipe",
         "language": "Java",
         "languageColor": "#b07219",
         "name": "NewPipe",
-        "stars": 13441,
+        "stars": 13447,
         "url": "https://github.com/TeamNewPipe/NewPipe"
     },
     {
@@ -818,14 +823,14 @@
                 "username": "PeiQi0"
             }
         ],
-        "currentPeriodStars": 37,
+        "currentPeriodStars": 58,
         "description": "\u9e7f\u4e0d\u5728\u4fa7\uff0c\u9cb8\u4e0d\u4e88\u6e38\ud83d\udc0b",
-        "forks": 141,
+        "forks": 142,
         "fullname": "PeiQi0/PeiQi-WIKI-POC",
         "language": "HTML",
         "languageColor": "#e34c26",
         "name": "PeiQi-WIKI-POC",
-        "stars": 468,
+        "stars": 470,
         "url": "https://github.com/PeiQi0/PeiQi-WIKI-POC"
     }
 ]
