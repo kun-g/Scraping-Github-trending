@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [bevy](https://github.com/bevyengine/bevy) | A refreshingly simple data-driven game engine built in Rust |
 | [vgpu_unlock](https://github.com/DualCoder/vgpu_unlock) | Unlock vGPU functionality for consumer grade GPUs. |
-| [CyberBattleSim](https://github.com/microsoft/CyberBattleSim) | An experimentation and research platform to investigate the interaction of automated agents in an abstract simulated network environments. |
+| [neovide](https://github.com/Kethku/neovide) | No Nonsense Neovim Client in Rust |
+| [GamestonkTerminal](https://github.com/DidierRLopes/GamestonkTerminal) | The next best thing after Bloomberg Terminal |
 | [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) | Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries |
-| [openwrt](https://github.com/openwrt/openwrt) | This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org |
-| [covidliste](https://github.com/hostolab/covidliste) | 0 doses perdues. |
-| [binance-trade-bot](https://github.com/edeng23/binance-trade-bot) | Automated cryptocurrency trading bot |
-| [monster-mash](https://github.com/google/monster-mash) | None |
-| [PocList](https://github.com/Yang0615777/PocList) | Alibaba-Nacos-Unauthorized/ApacheDruid-RCE_CVE-2021-25646/MS-Exchange-SSRF-CVE-2021-26885/Oracle-WebLogic-CVE-2021-2109_RCE/RG-CNVD-2021-14536/RJ-SSL-VPN-UltraVires/Redis-Unauthorized-RCE/TDOA-V11.7-GetOnlineCookie/VMware-vCenter-GetAnyFile/yongyou-GRP-U8-XXE/Oracle-WebLogic-CVE-2020-14883/Oracle-WebLogic-CVE-2020-14882/Apache-Solr-GetAnyFile/F5… |
-| [Android-PIN-Bruteforce](https://github.com/urbanadventurer/Android-PIN-Bruteforce) | Unlock an Android phone (or device) by bruteforcing the lockscreen PIN. Turn your Kali Nethunter phone into a bruteforce PIN cracker for Android devices! (no root, no adb) |
+| [mmocr](https://github.com/open-mmlab/mmocr) | OpenMMLab Text Detection, Recognition and Understanding Toolbox |
+| [javascript](https://github.com/airbnb/javascript) | JavaScript Style Guide |
+| [imgui](https://github.com/ocornut/imgui) | Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies |
+| [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) | C++那些事 |
+| [scikit-learn](https://github.com/scikit-learn/scikit-learn) | scikit-learn: machine learning in Python |
+| [free-python-books](https://github.com/pamoroso/free-python-books) | Python books free to read online or download |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
