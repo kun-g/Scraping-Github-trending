@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) | Tools to set up a quick macOS VM in QEMU, accelerated by KVM. |
-| [neovide](https://github.com/Kethku/neovide) | No Nonsense Neovim Client in Rust |
-| [leveldb](https://github.com/google/leveldb) | LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. |
-| [layout-parser](https://github.com/Layout-Parser/layout-parser) | A Python Library for Document Layout Understanding |
-| [chia-blockchain](https://github.com/Chia-Network/chia-blockchain) | Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet) |
-| [GamestonkTerminal](https://github.com/DidierRLopes/GamestonkTerminal) | The next best thing after Bloomberg Terminal |
-| [d2l-zh](https://github.com/d2l-ai/d2l-zh) | 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被全球175所大学采用教学。 |
-| [tauri](https://github.com/tauri-apps/tauri) | Build smaller, faster, and more secure desktop applications with a web frontend. |
-| [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) | Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries |
+| [exploits](https://github.com/r4j0x00/exploits) | None |
+| [Swin-Transformer](https://github.com/microsoft/Swin-Transformer) | This is an official implementation for "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows". |
+| [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) | C++那些事 |
+| [OpenSearch](https://github.com/opensearch-project/OpenSearch) | Open source distributed and RESTful search engine. |
 | [headlessui](https://github.com/tailwindlabs/headlessui) | Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS. |
+| [d2l-zh](https://github.com/d2l-ai/d2l-zh) | 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被全球175所大学采用教学。 |
+| [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) | Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries |
+| [tauri](https://github.com/tauri-apps/tauri) | Build smaller, faster, and more secure desktop applications with a web frontend. |
+| [OpenSearch-Dashboards](https://github.com/opensearch-project/OpenSearch-Dashboards) | Open source visualization dashboards for OpenSearch. |
+| [GamestonkTerminal](https://github.com/DidierRLopes/GamestonkTerminal) | The next best thing after Bloomberg Terminal |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
