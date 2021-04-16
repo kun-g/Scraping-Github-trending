@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [exploits](https://github.com/r4j0x00/exploits) | None |
-| [Swin-Transformer](https://github.com/microsoft/Swin-Transformer) | This is an official implementation for "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows". |
-| [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) | C++那些事 |
-| [OpenSearch](https://github.com/opensearch-project/OpenSearch) | Open source distributed and RESTful search engine. |
-| [headlessui](https://github.com/tailwindlabs/headlessui) | Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS. |
-| [d2l-zh](https://github.com/d2l-ai/d2l-zh) | 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被全球175所大学采用教学。 |
-| [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) | Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries |
+| [livebook](https://github.com/elixir-nx/livebook) | Interactive and collaborative code notebooks - made with Phoenix LiveView. |
+| [chia-blockchain](https://github.com/Chia-Network/chia-blockchain) | Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet) |
+| [deno](https://github.com/denoland/deno) | A secure JavaScript and TypeScript runtime |
+| [nx](https://github.com/nrwl/nx) | Powerful, Extensible Dev Tools |
 | [tauri](https://github.com/tauri-apps/tauri) | Build smaller, faster, and more secure desktop applications with a web frontend. |
-| [OpenSearch-Dashboards](https://github.com/opensearch-project/OpenSearch-Dashboards) | Open source visualization dashboards for OpenSearch. |
-| [GamestonkTerminal](https://github.com/DidierRLopes/GamestonkTerminal) | The next best thing after Bloomberg Terminal |
+| [exploits](https://github.com/r4j0x00/exploits) | None |
+| [Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) | 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars. |
+| [logica](https://github.com/EvgSkv/logica) | Logica is a logic programming language that compiles to StandardSQL and runs on Google BigQuery. |
+| [pdf](https://github.com/itdevbooks/pdf) | 编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类 |
+| [PathOfBuilding](https://github.com/PathOfBuildingCommunity/PathOfBuilding) | Offline build planner for Path of Exile. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
