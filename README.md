@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [livebook](https://github.com/elixir-nx/livebook) | Interactive and collaborative code notebooks - made with Phoenix LiveView. |
+| [openethereum](https://github.com/openethereum/openethereum) | The fast, light, and robust client for the Ethereum mainnet. |
 | [chia-blockchain](https://github.com/Chia-Network/chia-blockchain) | Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet) |
-| [deno](https://github.com/denoland/deno) | A secure JavaScript and TypeScript runtime |
-| [nx](https://github.com/nrwl/nx) | Powerful, Extensible Dev Tools |
-| [tauri](https://github.com/tauri-apps/tauri) | Build smaller, faster, and more secure desktop applications with a web frontend. |
-| [exploits](https://github.com/r4j0x00/exploits) | None |
-| [Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) | 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars. |
-| [logica](https://github.com/EvgSkv/logica) | Logica is a logic programming language that compiles to StandardSQL and runs on Google BigQuery. |
-| [pdf](https://github.com/itdevbooks/pdf) | 编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类 |
+| [project-memoria-detector](https://github.com/Forescout/project-memoria-detector) | None |
+| [LunarVim](https://github.com/ChristianChiarulli/LunarVim) | A Neovim config made with sane defaults |
+| [D2R-Offline](https://github.com/ferib/D2R-Offline) | Diablo II: Resurrected, Offline-mode patcher |
 | [PathOfBuilding](https://github.com/PathOfBuildingCommunity/PathOfBuilding) | Offline build planner for Path of Exile. |
+| [1195777-chrome0day](https://github.com/avboy1337/1195777-chrome0day) | None |
+| [500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) | 500 AI Machine learning Deep learning Computer vision NLP Projects with code |
+| [miaosha](https://github.com/qiurunze123/miaosha) | ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓 |
+| [TTS](https://github.com/coqui-ai/TTS) | 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
