@@ -41,14 +41,14 @@
 <!-- START OF MONTHLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [awesome-compose](https://github.com/docker/awesome-compose) | Awesome Docker Compose samples |
-| [Ryujinx](https://github.com/Ryujinx/Ryujinx) | Experimental Nintendo Switch Emulator written in C# |
-| [kit](https://github.com/sveltejs/kit) | A monorepo for SvelteKit and friends |
-| [Docker-OSX](https://github.com/sickcodes/Docker-OSX) | Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X! |
-| [dogehouse](https://github.com/benawad/dogehouse) | Taking voice conversations to the moon 🚀 |
 | [chia-blockchain](https://github.com/Chia-Network/chia-blockchain) | Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet) |
-| [covid-vaccine-spotter](https://github.com/GUI/covid-vaccine-spotter) | None |
-| [UnicomTask](https://github.com/srcrs/UnicomTask) | 联通手机营业厅自动做任务、签到、领流量、领积分等。 |
+| [exploits](https://github.com/r4j0x00/exploits) | None |
+| [Ryujinx](https://github.com/Ryujinx/Ryujinx) | Experimental Nintendo Switch Emulator written in C# |
+| [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) | Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries |
 | [educative.io_courses](https://github.com/merry75/educative.io_courses) | this is downloadings of all educative.io free student subscription courses as pdf from GitHub student pack |
-| [machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) | Code for Machine Learning for Algorithmic Trading, 2nd edition. |
+| [headlessui](https://github.com/tailwindlabs/headlessui) | Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS. |
+| [covid-vaccine-spotter](https://github.com/GUI/covid-vaccine-spotter) | None |
+| [LunarVim](https://github.com/ChristianChiarulli/LunarVim) | A Neovim config made with sane defaults |
+| [Python](https://github.com/geekcomputers/Python) | My Python Examples |
+| [focalboard](https://github.com/mattermost/focalboard) | Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. |
 <!-- END OF MONTHLY_TOP10_REPOS -->
