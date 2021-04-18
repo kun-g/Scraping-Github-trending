@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [openethereum](https://github.com/openethereum/openethereum) | The fast, light, and robust client for the Ethereum mainnet. |
-| [chia-blockchain](https://github.com/Chia-Network/chia-blockchain) | Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet) |
-| [project-memoria-detector](https://github.com/Forescout/project-memoria-detector) | None |
-| [LunarVim](https://github.com/ChristianChiarulli/LunarVim) | A Neovim config made with sane defaults |
-| [D2R-Offline](https://github.com/ferib/D2R-Offline) | Diablo II: Resurrected, Offline-mode patcher |
+| [dogecoin](https://github.com/dogecoin/dogecoin) | very currency |
+| [calendso](https://github.com/calendso/calendso) | The open-source Calendly alternative. |
+| [pytorchvideo](https://github.com/facebookresearch/pytorchvideo) | A deep learning library for video understanding research. |
+| [supabase](https://github.com/supabase/supabase) | The open source Firebase alternative. Follow to stay updated about our public Beta. |
 | [PathOfBuilding](https://github.com/PathOfBuildingCommunity/PathOfBuilding) | Offline build planner for Path of Exile. |
-| [1195777-chrome0day](https://github.com/avboy1337/1195777-chrome0day) | None |
+| [flashlight](https://github.com/flashlight/flashlight) | A C++ standalone library for machine learning |
+| [D2R-Offline](https://github.com/ferib/D2R-Offline) | Diablo II: Resurrected, Offline-mode patcher |
+| [chia-blockchain](https://github.com/Chia-Network/chia-blockchain) | Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet) |
 | [500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) | 500 AI Machine learning Deep learning Computer vision NLP Projects with code |
-| [miaosha](https://github.com/qiurunze123/miaosha) | ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓 |
-| [TTS](https://github.com/coqui-ai/TTS) | 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production |
+| [modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) | Full Modular Monolith application with Domain-Driven Design approach. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
