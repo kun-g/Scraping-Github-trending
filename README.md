@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [dogecoin](https://github.com/dogecoin/dogecoin) | very currency |
-| [calendso](https://github.com/calendso/calendso) | The open-source Calendly alternative. |
-| [pytorchvideo](https://github.com/facebookresearch/pytorchvideo) | A deep learning library for video understanding research. |
-| [supabase](https://github.com/supabase/supabase) | The open source Firebase alternative. Follow to stay updated about our public Beta. |
-| [PathOfBuilding](https://github.com/PathOfBuildingCommunity/PathOfBuilding) | Offline build planner for Path of Exile. |
-| [flashlight](https://github.com/flashlight/flashlight) | A C++ standalone library for machine learning |
-| [D2R-Offline](https://github.com/ferib/D2R-Offline) | Diablo II: Resurrected, Offline-mode patcher |
 | [chia-blockchain](https://github.com/Chia-Network/chia-blockchain) | Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet) |
-| [500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) | 500 AI Machine learning Deep learning Computer vision NLP Projects with code |
-| [modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) | Full Modular Monolith application with Domain-Driven Design approach. |
+| [dogecoin](https://github.com/dogecoin/dogecoin) | very currency |
+| [COVID-19](https://github.com/CSSEGISandData/COVID-19) | Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE |
+| [12306](https://github.com/testerSunshine/12306) | 12306智能刷票，订票 |
+| [D2R-Offline](https://github.com/ferib/D2R-Offline) | Diablo II: Resurrected, Offline-mode patcher |
+| [graphics-workshop](https://github.com/ekzhang/graphics-workshop) | Learn computer graphics by writing GPU shaders! |
+| [lede](https://github.com/coolsnowwolf/lede) | Lean's OpenWrt source |
+| [flashlight](https://github.com/flashlight/flashlight) | A C++ standalone library for machine learning |
+| [explore](https://github.com/developedbyed/explore) | None |
+| [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
