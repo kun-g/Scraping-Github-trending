@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [chia-blockchain](https://github.com/Chia-Network/chia-blockchain) | Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet) |
-| [dogecoin](https://github.com/dogecoin/dogecoin) | very currency |
 | [COVID-19](https://github.com/CSSEGISandData/COVID-19) | Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE |
-| [12306](https://github.com/testerSunshine/12306) | 12306智能刷票，订票 |
-| [D2R-Offline](https://github.com/ferib/D2R-Offline) | Diablo II: Resurrected, Offline-mode patcher |
-| [graphics-workshop](https://github.com/ekzhang/graphics-workshop) | Learn computer graphics by writing GPU shaders! |
-| [lede](https://github.com/coolsnowwolf/lede) | Lean's OpenWrt source |
-| [flashlight](https://github.com/flashlight/flashlight) | A C++ standalone library for machine learning |
-| [explore](https://github.com/developedbyed/explore) | None |
 | [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites |
+| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
+| [chia-blockchain](https://github.com/Chia-Network/chia-blockchain) | Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet) |
+| [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | Short JavaScript code snippets for all your development needs |
+| [Osintgram](https://github.com/Datalux/Osintgram) | Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname |
+| [dogecoin](https://github.com/dogecoin/dogecoin) | very currency |
+| [kit](https://github.com/sveltejs/kit) | A monorepo for SvelteKit and friends |
+| [Binance-News-Sentiment-Bot](https://github.com/CyberPunkMetalHead/Binance-News-Sentiment-Bot) | This is a fully functioning Binance trading bot that takes into account the news sentiment for the top 100 crypto feeds. |
+| [tips](https://github.com/git-tips/tips) | Most commonly used git tips and tricks. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
