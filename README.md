@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [COVID-19](https://github.com/CSSEGISandData/COVID-19) | Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE |
-| [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites |
-| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
-| [chia-blockchain](https://github.com/Chia-Network/chia-blockchain) | Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet) |
-| [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | Short JavaScript code snippets for all your development needs |
-| [Osintgram](https://github.com/Datalux/Osintgram) | Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname |
-| [dogecoin](https://github.com/dogecoin/dogecoin) | very currency |
-| [kit](https://github.com/sveltejs/kit) | A monorepo for SvelteKit and friends |
 | [Binance-News-Sentiment-Bot](https://github.com/CyberPunkMetalHead/Binance-News-Sentiment-Bot) | This is a fully functioning Binance trading bot that takes into account the news sentiment for the top 100 crypto feeds. |
-| [tips](https://github.com/git-tips/tips) | Most commonly used git tips and tricks. |
+| [12306](https://github.com/testerSunshine/12306) | 12306智能刷票，订票 |
+| [dogecoin](https://github.com/dogecoin/dogecoin) | very currency |
+| [bat](https://github.com/sharkdp/bat) | A cat(1) clone with wings. |
+| [splitflap](https://github.com/scottbez1/splitflap) | DIY split-flap display |
+| [algorithm-base](https://github.com/chefyuan/algorithm-base) | 专门为刚开始刷题的同学准备的算法基地，没有最细只有更细，立志用动画将晦涩难懂的算法说的通俗易懂！ |
+| [chia-blockchain](https://github.com/Chia-Network/chia-blockchain) | Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet) |
+| [Profil3r](https://github.com/Rog3rSm1th/Profil3r) | OSINT tool that allows you to find a person's accounts and emails + breached emails 🕵️ |
+| [chia-blockchain-gui](https://github.com/Chia-Network/chia-blockchain-gui) | Chia blockchain GUI in electron/react |
+| [consoleme](https://github.com/Netflix/consoleme) | A Central Control Plane for AWS Permissions and Access |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
