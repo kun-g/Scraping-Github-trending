@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [Binance-News-Sentiment-Bot](https://github.com/CyberPunkMetalHead/Binance-News-Sentiment-Bot) | This is a fully functioning Binance trading bot that takes into account the news sentiment for the top 100 crypto feeds. |
-| [12306](https://github.com/testerSunshine/12306) | 12306智能刷票，订票 |
-| [dogecoin](https://github.com/dogecoin/dogecoin) | very currency |
-| [bat](https://github.com/sharkdp/bat) | A cat(1) clone with wings. |
-| [splitflap](https://github.com/scottbez1/splitflap) | DIY split-flap display |
+| [fprime](https://github.com/nasa/fprime) | F' - A flight software and embedded systems framework |
+| [pua-lang](https://github.com/flaneur2020/pua-lang) | None |
+| [react-flow](https://github.com/wbkd/react-flow) | Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams |
+| [supabase](https://github.com/supabase/supabase) | The open source Firebase alternative. Follow to stay updated about our public Beta. |
+| [maui](https://github.com/dotnet/maui) | .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop. |
 | [algorithm-base](https://github.com/chefyuan/algorithm-base) | 专门为刚开始刷题的同学准备的算法基地，没有最细只有更细，立志用动画将晦涩难懂的算法说的通俗易懂！ |
-| [chia-blockchain](https://github.com/Chia-Network/chia-blockchain) | Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet) |
-| [Profil3r](https://github.com/Rog3rSm1th/Profil3r) | OSINT tool that allows you to find a person's accounts and emails + breached emails 🕵️ |
-| [chia-blockchain-gui](https://github.com/Chia-Network/chia-blockchain-gui) | Chia blockchain GUI in electron/react |
-| [consoleme](https://github.com/Netflix/consoleme) | A Central Control Plane for AWS Permissions and Access |
+| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
+| [docs](https://github.com/github/docs) | The open-source repo for docs.github.com |
+| [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) | 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why. |
+| [storj](https://github.com/storj/storj) | Ongoing Storj v3 development. Decentralized cloud object storage that is affordable, easy to use, private, and secure. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
