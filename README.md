@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [eva.js](https://github.com/eva-engine/eva.js) | Eva.js is a front-end game engine specifically for creating interactive game projects. |
-| [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond. |
-| [--](https://github.com/981011512/--) | 停车场系统源码，停车场小程序【功能介绍】：①兼容市面上主流的多家相机，理论上兼容所有硬件，可灵活扩展，②相机识别后数据自动上传到云端并记录，校验相机唯一id和硬件序列号，防止非法数据录入，③用户手机查询停车记录详情可自主缴费(支持微信，支付宝，银行接口支付，支持每个停车场指定不同的商户进行收款)，支付后出场在免费时间内会自动抬杆。④支持app上查询附近停车场(导航，可用车位数，停车场费用，优惠券，评分，评论等)，可预约车位。⑤断电断网支持岗亭人员使用app可接管硬件进行停车记录的录入。 【技术架构】：后端开发语言java，框架oauth2+springboot2+dubble，数据库mysql/mongodb/redis，即时通讯底层框架netty4，安卓和ios均为原生开发，后台管理… |
-| [tiptap](https://github.com/ueberdosis/tiptap) | The headless editor framework for web artisans. |
-| [googletest](https://github.com/google/googletest) | Googletest - Google Testing and Mocking Framework |
 | [wslg](https://github.com/microsoft/wslg) | Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios |
-| [react-native](https://github.com/facebook/react-native) | A framework for building native apps with React. |
-| [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | Short JavaScript code snippets for all your development needs |
+| [binance-trading-bot](https://github.com/chrisleekr/binance-trading-bot) | Automated Binance trading bot - Buy low/Sell high with stop loss limit/Trade multiple cryptocurrencies |
 | [photoprism](https://github.com/photoprism/photoprism) | Personal Photo Management powered by Go and Google TensorFlow |
-| [LVI-SAM](https://github.com/TixiaoShan/LVI-SAM) | LVI-SAM: Tightly-coupled Lidar-Visual-Inertial Odometry via Smoothing and Mapping |
+| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+| [Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Python - 100天从新手到大师 |
+| [algorithm-base](https://github.com/chefyuan/algorithm-base) | 专门为刚开始刷题的同学准备的算法基地，没有最细只有更细，立志用动画将晦涩难懂的算法说的通俗易懂！ |
+| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
+| [lila](https://github.com/ornicar/lila) | ♞ lichess.org: the forever free, adless and open source chess server ♞ |
+| [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Roadmap to becoming a web developer in 2021 |
+| [v2ray-core](https://github.com/v2fly/v2ray-core) | A platform for building proxies to bypass network restrictions. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
