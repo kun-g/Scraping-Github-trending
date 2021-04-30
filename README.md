@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
+| [scala-open-letter.github.io](https://github.com/scala-open-letter/scala-open-letter.github.io) | None |
+| [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
+| [openssl](https://github.com/openssl/openssl) | TLS/SSL and crypto library |
+| [leetcode](https://github.com/doocs/leetcode) | 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解 |
+| [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | List of Computer Science courses with video lectures. |
+| [winbox](https://github.com/nextapps-de/winbox) | WinBox is a professional HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source! |
+| [project-layout](https://github.com/golang-standards/project-layout) | Standard Go Project Layout |
 | [SagerNet](https://github.com/nekohasekai/SagerNet) | The universal proxy toolchain for Android. |
 | [binance-trading-bot](https://github.com/chrisleekr/binance-trading-bot) | Automated Binance trading bot - Buy low/Sell high with stop loss limit/Trade multiple cryptocurrencies |
-| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
-| [go-gin-api](https://github.com/xinliangnote/go-gin-api) | 基于 Gin 进行模块化设计的 API 框架，封装了常用功能，使用简单，致力于进行快速的业务研发。比如，支持 cors 跨域、jwt 签名验证、zap 日志收集、panic 异常捕获、trace 链路追踪、prometheus 监控指标、swagger 文档生成、viper 配置文件解析、gorm 数据库组件、gormgen 代码生成工具、graphql 查询语言、errno 统一定义错误码、gRPC 的使用 等等。 |
-| [NoCol](https://github.com/johnBuffer/NoCol) | Trajectories finder |
-| [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
-| [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) | OpenCore bootloader |
-| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
-| [open-project-1](https://github.com/UnityTechnologies/open-project-1) | Unity Open Project #1: Chop Chop |
-| [assets](https://github.com/trustwallet/assets) | A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
