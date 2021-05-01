@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
-| [scala-open-letter.github.io](https://github.com/scala-open-letter/scala-open-letter.github.io) | None |
-| [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
-| [openssl](https://github.com/openssl/openssl) | TLS/SSL and crypto library |
-| [leetcode](https://github.com/doocs/leetcode) | 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解 |
+| [supabase](https://github.com/supabase/supabase) | The open source Firebase alternative. Follow to stay updated about our public Beta. |
+| [livewire](https://github.com/livewire/livewire) | A full-stack framework for Laravel that takes the pain out of building dynamic UIs. |
+| [NoCol](https://github.com/johnBuffer/NoCol) | Trajectories finder |
+| [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 分享 GitHub 上有趣、入门级的开源项目 |
 | [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | List of Computer Science courses with video lectures. |
+| [PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection) | Object detection and instance segmentation toolkit based on PaddlePaddle. |
 | [winbox](https://github.com/nextapps-de/winbox) | WinBox is a professional HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source! |
-| [project-layout](https://github.com/golang-standards/project-layout) | Standard Go Project Layout |
-| [SagerNet](https://github.com/nekohasekai/SagerNet) | The universal proxy toolchain for Android. |
-| [binance-trading-bot](https://github.com/chrisleekr/binance-trading-bot) | Automated Binance trading bot - Buy low/Sell high with stop loss limit/Trade multiple cryptocurrencies |
+| [open-project-1](https://github.com/UnityTechnologies/open-project-1) | Unity Open Project #1: Chop Chop |
+| [flashlight](https://github.com/flashlight/flashlight) | A C++ standalone library for machine learning |
+| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
