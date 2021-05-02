@@ -42,13 +42,13 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [chia-blockchain](https://github.com/Chia-Network/chia-blockchain) | Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet) |
-| [AntSimulator](https://github.com/johnBuffer/AntSimulator) | Simple Ants simulator |
 | [binance-trading-bot](https://github.com/chrisleekr/binance-trading-bot) | Automated Binance trading bot - Buy low/Sell high with stop loss limit/Trade multiple cryptocurrencies |
 | [neovide](https://github.com/Kethku/neovide) | No Nonsense Neovim Client in Rust |
+| [AntSimulator](https://github.com/johnBuffer/AntSimulator) | Simple Ants simulator |
 | [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) | Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries |
 | [dogecoin](https://github.com/dogecoin/dogecoin) | very currency |
 | [headlessui](https://github.com/tailwindlabs/headlessui) | Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS. |
+| [photoprism](https://github.com/photoprism/photoprism) | Personal Photo Management powered by Go and Google TensorFlow |
 | [node-express-boilerplate](https://github.com/hagopj13/node-express-boilerplate) | A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose |
 | [covid19india-react](https://github.com/covid19india/covid19india-react) | Tracking the impact of COVID-19 in India |
-| [photoprism](https://github.com/photoprism/photoprism) | Personal Photo Management powered by Go and Google TensorFlow |
 <!-- END OF MONTHLY_TOP10_REPOS -->
