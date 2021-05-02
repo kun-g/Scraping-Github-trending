@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [supabase](https://github.com/supabase/supabase) | The open source Firebase alternative. Follow to stay updated about our public Beta. |
-| [livewire](https://github.com/livewire/livewire) | A full-stack framework for Laravel that takes the pain out of building dynamic UIs. |
-| [NoCol](https://github.com/johnBuffer/NoCol) | Trajectories finder |
-| [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 分享 GitHub 上有趣、入门级的开源项目 |
-| [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | List of Computer Science courses with video lectures. |
-| [PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection) | Object detection and instance segmentation toolkit based on PaddlePaddle. |
-| [winbox](https://github.com/nextapps-de/winbox) | WinBox is a professional HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source! |
-| [open-project-1](https://github.com/UnityTechnologies/open-project-1) | Unity Open Project #1: Chop Chop |
-| [flashlight](https://github.com/flashlight/flashlight) | A C++ standalone library for machine learning |
-| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
+| [kmm-production-sample](https://github.com/Kotlin/kmm-production-sample) | None |
+| [openpilot](https://github.com/commaai/openpilot) | openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models. |
+| [project-layout](https://github.com/golang-standards/project-layout) | Standard Go Project Layout |
+| [raydium-ui](https://github.com/raydium-io/raydium-ui) | None |
+| [twint](https://github.com/twintproject/twint) | An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations. |
+| [jd_docker](https://github.com/wisz2021/jd_docker) | 仅用查看文档 |
+| [JDDJ](https://github.com/passerby-b/JDDJ) | 京东到家果园庄园脚本,电报群:https://t.me/joinchat/wH4Ks3mT6mxiMDg1 |
+| [slides](https://github.com/TritonHo/slides) | it is a repository to store all slides used by Triton Ho's public presentation and course. |
+| [SpringAll](https://github.com/wuyouzhuguli/SpringAll) | 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
