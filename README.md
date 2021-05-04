@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [thefuck](https://github.com/nvbn/thefuck) | Magnificent app which corrects your previous console command. |
-| [raydium-ui](https://github.com/raydium-io/raydium-ui) | None |
+| [dino](https://github.com/facebookresearch/dino) | PyTorch code for Vision Transformers training with the Self-Supervised learning method DINO |
+| [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) | Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts. |
+| [chia-blockchain](https://github.com/Chia-Network/chia-blockchain) | Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet) |
+| [supabase](https://github.com/supabase/supabase) | The open source Firebase alternative. Follow to stay updated about our public Beta. |
+| [frontend](https://github.com/bitclout/frontend) | bitclout.com frontend |
+| [tensorflow-deep-learning](https://github.com/mrdbourke/tensorflow-deep-learning) | All course materials for the Zero to Mastery Deep Learning with TensorFlow course. |
+| [dogecoin](https://github.com/dogecoin/dogecoin) | very currency |
 | [wave](https://github.com/thedevdojo/wave) | Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰 |
-| [binance-trading-bot](https://github.com/chrisleekr/binance-trading-bot) | Automated Binance trading bot - Buy low/Sell high with stop loss limit/Trade multiple cryptocurrencies |
-| [rust](https://github.com/rust-lang/rust) | Empowering everyone to build reliable and efficient software. |
-| [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity |
 | [OnlyFans](https://github.com/DIGITALCRIMINAL/OnlyFans) | Scrape all the media from an OnlyFans account - Updated regularly |
-| [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 分享 GitHub 上有趣、入门级的开源项目 |
-| [tldr](https://github.com/tldr-pages/tldr) | 📚 Collaborative cheatsheets for console commands |
-| [LibAFL](https://github.com/AFLplusplus/LibAFL) | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... |
+| [twint](https://github.com/twintproject/twint) | An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
