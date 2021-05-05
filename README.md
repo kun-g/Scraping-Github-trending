@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [dino](https://github.com/facebookresearch/dino) | PyTorch code for Vision Transformers training with the Self-Supervised learning method DINO |
+| [VaccineAvailabilityNotifier](https://github.com/kartikey54/VaccineAvailabilityNotifier) | None |
 | [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) | Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts. |
-| [chia-blockchain](https://github.com/Chia-Network/chia-blockchain) | Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet) |
-| [supabase](https://github.com/supabase/supabase) | The open source Firebase alternative. Follow to stay updated about our public Beta. |
-| [frontend](https://github.com/bitclout/frontend) | bitclout.com frontend |
-| [tensorflow-deep-learning](https://github.com/mrdbourke/tensorflow-deep-learning) | All course materials for the Zero to Mastery Deep Learning with TensorFlow course. |
-| [dogecoin](https://github.com/dogecoin/dogecoin) | very currency |
-| [wave](https://github.com/thedevdojo/wave) | Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰 |
 | [OnlyFans](https://github.com/DIGITALCRIMINAL/OnlyFans) | Scrape all the media from an OnlyFans account - Updated regularly |
-| [twint](https://github.com/twintproject/twint) | An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations. |
+| [dino](https://github.com/facebookresearch/dino) | PyTorch code for Vision Transformers training with the Self-Supervised learning method DINO |
+| [docs](https://github.com/github/docs) | The open-source repo for docs.github.com |
+| [cowin-vaccination-slot-availability](https://github.com/bhattbhavesh91/cowin-vaccination-slot-availability) | Script to check the available slots for Covid-19 Vaccination Centers from CoWIN API in India |
+| [flashlight](https://github.com/flashlight/flashlight) | A C++ standalone library for machine learning |
+| [wave](https://github.com/thedevdojo/wave) | Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰 |
+| [tldr](https://github.com/tldr-pages/tldr) | 📚 Collaborative cheatsheets for console commands |
+| [whatfreewords](https://github.com/pballett/whatfreewords) | None |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
