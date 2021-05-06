@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [VaccineAvailabilityNotifier](https://github.com/kartikey54/VaccineAvailabilityNotifier) | None |
-| [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) | Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts. |
+| [covid-vaccine-booking](https://github.com/pallupz/covid-vaccine-booking) | This very basic script can be used to automate COVID-19 vaccination slot booking on India's Co-WIN Platform. |
 | [OnlyFans](https://github.com/DIGITALCRIMINAL/OnlyFans) | Scrape all the media from an OnlyFans account - Updated regularly |
-| [dino](https://github.com/facebookresearch/dino) | PyTorch code for Vision Transformers training with the Self-Supervised learning method DINO |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [imersaodados3](https://github.com/alura-cursos/imersaodados3) | Projeto de data science para imersão dados |
 | [docs](https://github.com/github/docs) | The open-source repo for docs.github.com |
-| [cowin-vaccination-slot-availability](https://github.com/bhattbhavesh91/cowin-vaccination-slot-availability) | Script to check the available slots for Covid-19 Vaccination Centers from CoWIN API in India |
-| [flashlight](https://github.com/flashlight/flashlight) | A C++ standalone library for machine learning |
+| [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page |
+| [dogecoin](https://github.com/dogecoin/dogecoin) | very currency |
 | [wave](https://github.com/thedevdojo/wave) | Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰 |
-| [tldr](https://github.com/tldr-pages/tldr) | 📚 Collaborative cheatsheets for console commands |
-| [whatfreewords](https://github.com/pballett/whatfreewords) | None |
+| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
+| [Javascript](https://github.com/TheAlgorithms/Javascript) | A repository for All algorithms implemented in Javascript (for educational purposes only) |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
