@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [Flutter-Responsive-Admin-Panel-or-Dashboard](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard) | Responsive Admin Panel or Dashboard using Flutter |
-| [covid-vaccine-booking](https://github.com/pallupz/covid-vaccine-booking) | This very basic script can be used to automate COVID-19 vaccination slot booking on India's Co-WIN Platform. |
-| [harbor](https://github.com/goharbor/harbor) | An open source trusted cloud native registry project that stores, signs, and scans content. |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
-| [OnlyFans](https://github.com/DIGITALCRIMINAL/OnlyFans) | Scrape all the media from an OnlyFans account - Updated regularly |
-| [cinder](https://github.com/facebookincubator/cinder) | Instagram's performance oriented fork of CPython. |
-| [awesome-python](https://github.com/vinta/awesome-python) | A curated list of awesome Python frameworks, libraries, software and resources |
-| [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page |
+| [covid-vaccine-booking](https://github.com/pallupz/covid-vaccine-booking) | This very basic script can be used to automate some steps on Co-WIN Platform. |
+| [slidev](https://github.com/slidevjs/slidev) | Presentation Slides for Developers (Public Beta 🎉) |
+| [uniswap-v3-core](https://github.com/Uniswap/uniswap-v3-core) | 🦄 🦄 🦄 Core smart contracts of Uniswap v3 |
+| [pixie](https://github.com/pixie-labs/pixie) | Instant Kubernetes-Native Application Observability |
+| [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond. |
+| [axios](https://github.com/axios/axios) | Promise based HTTP client for the browser and node.js |
+| [orbit](https://github.com/andymatuschak/orbit) | None |
 | [dogecoin](https://github.com/dogecoin/dogecoin) | very currency |
+| [Flutter-Responsive-Admin-Panel-or-Dashboard](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard) | Responsive Admin Panel or Dashboard using Flutter |
+| [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
