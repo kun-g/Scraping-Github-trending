@@ -43,12 +43,12 @@
 | :----: | :----: |
 | [chia-blockchain](https://github.com/Chia-Network/chia-blockchain) | Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet) |
 | [binance-trading-bot](https://github.com/chrisleekr/binance-trading-bot) | Automated Binance trading bot - Buy low/Sell high with stop loss limit/Trade multiple cryptocurrencies |
-| [neovide](https://github.com/Kethku/neovide) | No Nonsense Neovim Client in Rust |
-| [AntSimulator](https://github.com/johnBuffer/AntSimulator) | Simple Ants simulator |
-| [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) | Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries |
 | [dogecoin](https://github.com/dogecoin/dogecoin) | very currency |
-| [headlessui](https://github.com/tailwindlabs/headlessui) | Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS. |
+| [vgpu_unlock](https://github.com/DualCoder/vgpu_unlock) | Unlock vGPU functionality for consumer grade GPUs. |
+| [taichi](https://github.com/taichi-dev/taichi) | Productive & portable programming language for high-performance, sparse & differentiable computing on CPUs & GPUs |
+| [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) | Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries |
 | [photoprism](https://github.com/photoprism/photoprism) | Personal Photo Management powered by Go and Google TensorFlow |
-| [node-express-boilerplate](https://github.com/hagopj13/node-express-boilerplate) | A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose |
-| [covid19india-react](https://github.com/covid19india/covid19india-react) | Tracking the impact of COVID-19 in India |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [OnlyFans](https://github.com/DIGITALCRIMINAL/OnlyFans) | Scrape all the media from an OnlyFans account - Updated regularly |
+| [openethereum](https://github.com/openethereum/openethereum) | The fast, light, and robust client for the Ethereum mainnet. |
 <!-- END OF MONTHLY_TOP10_REPOS -->
