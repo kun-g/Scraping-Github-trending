@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [Flutter-Responsive-Admin-Panel-or-Dashboard](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard) | Responsive Admin Panel or Dashboard using Flutter |
-| [pyston](https://github.com/pyston/pyston) | A faster and highly-compatible implementation of the Python programming language. |
 | [slidev](https://github.com/slidevjs/slidev) | Presentation Slides for Developers (Public Beta 🎉) |
-| [covid-vaccine-booking](https://github.com/pallupz/covid-vaccine-booking) | This very basic script can be used to automate some steps on Co-WIN Platform. |
-| [leetcode-master](https://github.com/youngyangyang04/leetcode-master) | LeetCode 刷题攻略：200道题目详细刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀 |
 | [milvus](https://github.com/milvus-io/milvus) | An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy |
-| [one-day-one-npm-lib](https://github.com/Haixiang6123/one-day-one-npm-lib) | 这本小书会带你造 10 个非常实用的 npm 库 📦 |
-| [gomorra-sql](https://github.com/aurasphere/gomorra-sql) | SQL made uagliò. |
-| [audacity](https://github.com/audacity/audacity) | Audio Editor |
-| [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. |
+| [zx](https://github.com/google/zx) | A tool for writing better scripts |
+| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+| [Flutter-Responsive-Admin-Panel-or-Dashboard](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard) | Responsive Admin Panel or Dashboard using Flutter |
+| [CS-Notes](https://github.com/CyC2018/CS-Notes) | 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 |
+| [shenyu](https://github.com/dromara/shenyu) | High-Performance Java API Gateway |
+| [leetcode-master](https://github.com/youngyangyang04/leetcode-master) | LeetCode 刷题攻略：200道题目详细刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀 |
+| [dust](https://github.com/monk-coder/dust) | 繁华 不过一掬细沙 |
+| [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) | C++那些事 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
