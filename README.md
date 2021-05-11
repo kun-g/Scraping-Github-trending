@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [slidev](https://github.com/slidevjs/slidev) | Presentation Slides for Developers (Public Beta 🎉) |
-| [milvus](https://github.com/milvus-io/milvus) | An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy |
-| [zx](https://github.com/google/zx) | A tool for writing better scripts |
-| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+| [playground-macos](https://github.com/Renovamen/playground-macos) | My portfolio website simulating macOS's GUI, developed with React and tailwindcss. |
+| [chia-blockchain](https://github.com/Chia-Network/chia-blockchain) | Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet) |
+| [phoneinfoga](https://github.com/sundowndev/phoneinfoga) | Information gathering & OSINT framework for phone numbers |
+| [dogecoin](https://github.com/dogecoin/dogecoin) | very currency |
+| [leetcode-master](https://github.com/youngyangyang04/leetcode-master) | LeetCode 刷题攻略：200道题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀 |
 | [Flutter-Responsive-Admin-Panel-or-Dashboard](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard) | Responsive Admin Panel or Dashboard using Flutter |
-| [CS-Notes](https://github.com/CyC2018/CS-Notes) | 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 |
-| [shenyu](https://github.com/dromara/shenyu) | High-Performance Java API Gateway |
-| [leetcode-master](https://github.com/youngyangyang04/leetcode-master) | LeetCode 刷题攻略：200道题目详细刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀 |
-| [dust](https://github.com/monk-coder/dust) | 繁华 不过一掬细沙 |
+| [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | Short JavaScript code snippets for all your development needs |
 | [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) | C++那些事 |
+| [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
