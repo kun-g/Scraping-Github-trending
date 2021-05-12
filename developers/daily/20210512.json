@@ -1,0 +1,294 @@
+[
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/19343",
+        "name": "Andrey Sitnik",
+        "repo": {
+            "description": "A tiny (108 bytes), secure, URL-friendly, unique string ID generator for JavaScript",
+            "name": "nanoid",
+            "url": "https://github.com/ai/nanoid"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/ai",
+        "username": "ai"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/776816",
+        "name": "Stephan Dilly",
+        "repo": {
+            "description": "Blazing \ud83d\udca5 fast terminal-ui for git written in rust \ud83e\udd80",
+            "name": "gitui",
+            "url": "https://github.com/extrawurst/gitui"
+        },
+        "sponsorUrl": "https://github.com/sponsors/extrawurst",
+        "url": "https://github.com/extrawurst",
+        "username": "extrawurst"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/35742643",
+        "name": "Jonny Borges",
+        "repo": {
+            "description": "Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get.",
+            "name": "getx",
+            "url": "https://github.com/jonataslaw/getx"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/jonataslaw",
+        "username": "jonataslaw"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/141232",
+        "name": "Anton Medvedev",
+        "repo": {
+            "description": "Command-line tool and terminal JSON viewer \ud83d\udd25",
+            "name": "fx",
+            "url": "https://github.com/antonmedv/fx"
+        },
+        "sponsorUrl": "https://github.com/sponsors/antonmedv",
+        "url": "https://github.com/antonmedv",
+        "username": "antonmedv"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/249515",
+        "name": "Ha Thach",
+        "repo": {
+            "description": "An open source cross-platform USB stack for embedded system",
+            "name": "tinyusb",
+            "url": "https://github.com/hathach/tinyusb"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/hathach",
+        "username": "hathach"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1951866",
+        "name": "CrazyMax",
+        "repo": {
+            "description": "Block spying and tracking on Windows",
+            "name": "WindowsSpyBlocker",
+            "url": "https://github.com/crazy-max/WindowsSpyBlocker"
+        },
+        "sponsorUrl": "https://github.com/sponsors/crazy-max",
+        "url": "https://github.com/crazy-max",
+        "username": "crazy-max"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/114509",
+        "name": "Peter Bourgon",
+        "repo": {
+            "description": "A disk-backed key-value store.",
+            "name": "diskv",
+            "url": "https://github.com/peterbourgon/diskv"
+        },
+        "sponsorUrl": "https://github.com/sponsors/peterbourgon",
+        "url": "https://github.com/peterbourgon",
+        "username": "peterbourgon"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/900302",
+        "name": "Mladen Macanovi\u0107",
+        "repo": {
+            "description": "Blazorise is a component library built on top of Blazor with support for CSS frameworks like Bootstrap, Bulma, AntDesign, and Material.",
+            "name": "Blazorise",
+            "url": "https://github.com/stsrki/Blazorise"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/stsrki",
+        "username": "stsrki"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/18369201",
+        "name": "Bal\u00e1zs Orb\u00e1n",
+        "repo": null,
+        "sponsorUrl": "https://github.com/sponsors/balazsorban44",
+        "url": "https://github.com/balazsorban44",
+        "username": "balazsorban44"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/47554",
+        "name": "Ben Sheldon [he/him]",
+        "repo": {
+            "description": "Multithreaded, Postgres-based, ActiveJob backend for Ruby on Rails.",
+            "name": "good_job",
+            "url": "https://github.com/bensheldon/good_job"
+        },
+        "sponsorUrl": "https://github.com/sponsors/bensheldon",
+        "url": "https://github.com/bensheldon",
+        "username": "bensheldon"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/46163555",
+        "name": "PySimpleGUI",
+        "repo": {
+            "description": "Launched in 2018 Actively developed and supported. Supports tkinter, Qt, WxPython, Remi (in browser). Create custom layout GUI's simply. Python 2.7 & 3 Support. 200+ Demo programs & Cookbook for rapid start. Extensive documentation. Examples using Machine Learning(GUI, OpenCV Integration, Chatterbot), Floating Desktop Widgets, Matplotlib + Pyplo\u2026",
+            "name": "PySimpleGUI",
+            "url": "https://github.com/PySimpleGUI/PySimpleGUI"
+        },
+        "sponsorUrl": "https://github.com/sponsors/PySimpleGUI",
+        "url": "https://github.com/PySimpleGUI",
+        "username": "PySimpleGUI"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/315810",
+        "name": "Michael Waskom",
+        "repo": {
+            "description": "Statistical data visualization using matplotlib",
+            "name": "seaborn",
+            "url": "https://github.com/mwaskom/seaborn"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/mwaskom",
+        "username": "mwaskom"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1929317",
+        "name": "Maciej Brencz",
+        "repo": {
+            "description": "Uses tokenized query returned by python-sqlparse and generates query metadata",
+            "name": "sql-metadata",
+            "url": "https://github.com/macbre/sql-metadata"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/macbre",
+        "username": "macbre"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/3023000",
+        "name": "Ritchie Vink",
+        "repo": {
+            "description": "Various models for handling sequence related data.",
+            "name": "sequence",
+            "url": "https://github.com/ritchie46/sequence"
+        },
+        "sponsorUrl": "https://github.com/sponsors/ritchie46",
+        "url": "https://github.com/ritchie46",
+        "username": "ritchie46"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/12074633",
+        "name": "Jef LeCompte",
+        "repo": {
+            "description": "\ud83e\udd16 The world's easiest, most powerful stock checker",
+            "name": "streetmerchant",
+            "url": "https://github.com/jef/streetmerchant"
+        },
+        "sponsorUrl": "https://github.com/sponsors/jef",
+        "url": "https://github.com/jef",
+        "username": "jef"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/5426427",
+        "name": "Wojciech Maj",
+        "repo": {
+            "description": "Display PDFs in your React app as easily as if they were images.",
+            "name": "react-pdf",
+            "url": "https://github.com/wojtekmaj/react-pdf"
+        },
+        "sponsorUrl": "https://github.com/sponsors/wojtekmaj",
+        "url": "https://github.com/wojtekmaj",
+        "username": "wojtekmaj"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/3856546",
+        "name": "Mike Cohen",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/scudette",
+        "username": "scudette"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/30949385",
+        "name": "Saurabh Daware",
+        "repo": {
+            "description": "So your teacher asked you to upload written assignments? Hate writing assigments? This tool will help you convert your text to handwriting xD",
+            "name": "text-to-handwriting",
+            "url": "https://github.com/saurabhdaware/text-to-handwriting"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/saurabhdaware",
+        "username": "saurabhdaware"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/41945903",
+        "name": "Rafa\u0142 Mikrut",
+        "repo": {
+            "description": "Multi functional app to find duplicates, empty folders, similar images etc.",
+            "name": "czkawka",
+            "url": "https://github.com/qarmin/czkawka"
+        },
+        "sponsorUrl": "https://github.com/sponsors/qarmin",
+        "url": "https://github.com/qarmin",
+        "username": "qarmin"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/35128",
+        "name": "chencheng (\u4e91\u8c26)",
+        "repo": {
+            "description": "\u524d\u7aef\u5468\u520a\uff0c\u6bcf\u5468\u4e00\u53d1\u5e03\u3002",
+            "name": "weekly",
+            "url": "https://github.com/sorrycc/weekly"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/sorrycc",
+        "username": "sorrycc"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/554369",
+        "name": "Will McGugan",
+        "repo": {
+            "description": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+            "name": "rich",
+            "url": "https://github.com/willmcgugan/rich"
+        },
+        "sponsorUrl": "https://github.com/sponsors/willmcgugan",
+        "url": "https://github.com/willmcgugan",
+        "username": "willmcgugan"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1283424",
+        "name": "Manoj Vivek",
+        "repo": {
+            "description": "A browser extension to read medium.com articles for free without membership.",
+            "name": "medium-unlimited",
+            "url": "https://github.com/manojVivek/medium-unlimited"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/manojVivek",
+        "username": "manojVivek"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/29931815",
+        "name": "\uac15\ub3d9\uc724",
+        "repo": {
+            "description": "Fair benchmark for js tools.",
+            "name": "benchmark-done-right",
+            "url": "https://github.com/kdy1/benchmark-done-right"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/kdy1",
+        "username": "kdy1"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1365881",
+        "name": "Tobias Koppers",
+        "repo": {
+            "description": "Just a simple hacky visualisation of SourceMaps",
+            "name": "source-map-visualization",
+            "url": "https://github.com/sokra/source-map-visualization"
+        },
+        "sponsorUrl": "https://github.com/sponsors/sokra",
+        "url": "https://github.com/sokra",
+        "username": "sokra"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1019875",
+        "name": "Wei Wang",
+        "repo": {
+            "description": "A lightweight, pure-Swift library for downloading and caching images from the web.",
+            "name": "Kingfisher",
+            "url": "https://github.com/onevcat/Kingfisher"
+        },
+        "sponsorUrl": "https://github.com/sponsors/onevcat",
+        "url": "https://github.com/onevcat",
+        "username": "onevcat"
+    }
+]
