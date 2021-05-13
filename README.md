@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [dust](https://github.com/monk-coder/dust) | 繁华 不过一掬细沙 |
 | [playground-macos](https://github.com/Renovamen/playground-macos) | My portfolio website simulating macOS's GUI, developed with React and tailwindcss. |
-| [srs](https://github.com/ossrs/srs) | SRS is a simple, high efficiency and realtime video server, supports RTMP/WebRTC/HLS/HTTP-FLV/SRT/GB28181. |
-| [slidev](https://github.com/slidevjs/slidev) | Presentation Slides for Developers (Public Beta 🎉) |
+| [air-conditioner](https://github.com/YunYouJun/air-conditioner) | ❄️ 云空调，便携小空调，为你的夏日带去清凉！ |
 | [Binance-volatility-trading-bot](https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot) | This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though the Brave browser to allow me to continuously improve the script. |
-| [python-cheatsheet](https://github.com/gto76/python-cheatsheet) | Comprehensive Python Cheatsheet |
-| [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
-| [zx](https://github.com/google/zx) | A tool for writing better scripts |
+| [ic](https://github.com/dfinity/ic) | Source project for the Internet Computer software |
+| [srs](https://github.com/ossrs/srs) | SRS is a simple, high efficiency and realtime video server, supports RTMP/WebRTC/HLS/HTTP-FLV/SRT/GB28181. |
 | [CS-Notes](https://github.com/CyC2018/CS-Notes) | 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 |
+| [RandomX](https://github.com/tevador/RandomX) | Proof of work algorithm based on random code execution |
+| [python-cheatsheet](https://github.com/gto76/python-cheatsheet) | Comprehensive Python Cheatsheet |
 | [leetcode-master](https://github.com/youngyangyang04/leetcode-master) | LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀 |
+| [zx](https://github.com/google/zx) | A tool for writing better scripts |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
