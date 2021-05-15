@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [voc-poc](https://github.com/fpv-wtf/voc-poc) | A PoC for USB video out from the DJI FPV Goggles, inspired by The Video Out Club |
-| [Binance-volatility-trading-bot](https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot) | This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though the Brave browser to allow me to continuously improve the script. |
-| [assets](https://github.com/trustwallet/assets) | A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens. |
-| [symfony](https://github.com/symfony/symfony) | The Symfony PHP framework |
-| [dust](https://github.com/monk-coder/dust) | 繁华 不过一掬细沙 |
-| [Project_CodeNet](https://github.com/IBM/Project_CodeNet) | This repository is to support contributions for tools for the Project CodeNet dataset hosted in DAX |
-| [react-native-push-notification](https://github.com/zo0r/react-native-push-notification) | React Native Local and Remote Notifications |
-| [project-based-learning](https://github.com/tuvtran/project-based-learning) | Curated list of project-based tutorials |
-| [leetcode-master](https://github.com/youngyangyang04/leetcode-master) | LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀 |
 | [czkawka](https://github.com/qarmin/czkawka) | Multi functional app to find duplicates, empty folders, similar images etc. |
+| [assets](https://github.com/trustwallet/assets) | A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens. |
+| [fragattacks](https://github.com/vanhoefm/fragattacks) | None |
+| [PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection) | Object detection and instance segmentation toolkit based on PaddlePaddle. |
+| [CS-Notes](https://github.com/CyC2018/CS-Notes) | 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 |
+| [srs](https://github.com/ossrs/srs) | SRS is a simple, high efficiency and realtime video server, supports RTMP/WebRTC/HLS/HTTP-FLV/SRT/GB28181. |
+| [cypress](https://github.com/cypress-io/cypress) | Fast, easy and reliable testing for anything that runs in a browser. |
+| [ptSh](https://github.com/jszczerbinsky/ptSh) | Let your shell commands look prettier |
+| [tauri](https://github.com/tauri-apps/tauri) | Build smaller, faster, and more secure desktop applications with a web frontend. |
+| [GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021) | Join the GitHub Graduation Yearbook and "walk the stage" on June 5. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
