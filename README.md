@@ -42,13 +42,13 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [chia-blockchain](https://github.com/Chia-Network/chia-blockchain) | Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet) |
-| [binance-trading-bot](https://github.com/chrisleekr/binance-trading-bot) | Automated Binance trading bot - Buy low/Sell high with stop loss limit/Trade multiple cryptocurrencies |
 | [dogecoin](https://github.com/dogecoin/dogecoin) | very currency |
-| [vgpu_unlock](https://github.com/DualCoder/vgpu_unlock) | Unlock vGPU functionality for consumer grade GPUs. |
-| [taichi](https://github.com/taichi-dev/taichi) | Productive & portable programming language for high-performance, sparse & differentiable computing on CPUs & GPUs |
-| [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) | Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries |
-| [photoprism](https://github.com/photoprism/photoprism) | Personal Photo Management powered by Go and Google TensorFlow |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [binance-trading-bot](https://github.com/chrisleekr/binance-trading-bot) | Automated Binance trading bot - Buy low/Sell high with stop loss limit/Trade multiple cryptocurrencies |
+| [calendso](https://github.com/calendso/calendso) | The open-source Calendly alternative. |
 | [OnlyFans](https://github.com/DIGITALCRIMINAL/OnlyFans) | Scrape all the media from an OnlyFans account - Updated regularly |
-| [openethereum](https://github.com/openethereum/openethereum) | The fast, light, and robust client for the Ethereum mainnet. |
+| [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | Short JavaScript code snippets for all your development needs |
+| [photoprism](https://github.com/photoprism/photoprism) | Open-Source Photo Management powered by Go and Google TensorFlow |
+| [react-flow](https://github.com/wbkd/react-flow) | Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams |
+| [wave](https://github.com/thedevdojo/wave) | Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰 |
+| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
 <!-- END OF MONTHLY_TOP10_REPOS -->
