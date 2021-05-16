@@ -25,16 +25,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [OnlyFans](https://github.com/DIGITALCRIMINAL/OnlyFans) | Scrape all the media from an OnlyFans account - Updated regularly |
-| [audacity](https://github.com/audacity/audacity) | Audio Editor |
-| [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) | Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts. |
-| [uniswap-v3-periphery](https://github.com/Uniswap/uniswap-v3-periphery) | 🦄 🦄 🦄 Peripheral smart contracts for interacting with Uniswap v3 |
-| [realtime](https://github.com/supabase/realtime) | Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir. |
-| [binance-trading-bot](https://github.com/chrisleekr/binance-trading-bot) | Automated Binance trading bot - Buy low/Sell high with stop loss limit/Trade multiple cryptocurrencies |
-| [uniswap-v3-core](https://github.com/Uniswap/uniswap-v3-core) | 🦄 🦄 🦄 Core smart contracts of Uniswap v3 |
-| [uniswap-interface](https://github.com/Uniswap/uniswap-interface) | 🦄 An open source interface for the Uniswap protocol |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [Javascript](https://github.com/TheAlgorithms/Javascript) | A repository for All algorithms implemented in Javascript (for educational purposes only) |
+| [zx](https://github.com/google/zx) | A tool for writing better scripts |
+| [slidev](https://github.com/slidevjs/slidev) | Presentation Slides for Developers (Public Beta 🎉) |
+| [Swar-Chia-Plot-Manager](https://github.com/swar/Swar-Chia-Plot-Manager) | This is a Cross-Platform Plot Manager for Chia Plotting that is simple, easy-to-use, and reliable. |
+| [Flutter-Responsive-Admin-Panel-or-Dashboard](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard) | Responsive Admin Panel or Dashboard using Flutter |
+| [jd_docker](https://github.com/wisz2021/jd_docker) | 借用的github账号，仅用查看环境变量文档与教程，反馈issue使用 |
+| [covid-vaccine-booking](https://github.com/pallupz/covid-vaccine-booking) | This very basic script can be used to automate some steps on Co-WIN Platform. |
+| [leetcode-master](https://github.com/youngyangyang04/leetcode-master) | LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀 |
+| [RandomX](https://github.com/tevador/RandomX) | Proof of work algorithm based on random code execution |
+| [rustdesk](https://github.com/rustdesk/rustdesk) | The best open source remote desktop client software |
+| [cowin-vaccination-slot-availability](https://github.com/bhattbhavesh91/cowin-vaccination-slot-availability) | Script to check the available slots for Covid-19 Vaccination Centers from CoWIN API in India. |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
