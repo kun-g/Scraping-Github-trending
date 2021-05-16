@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [czkawka](https://github.com/qarmin/czkawka) | Multi functional app to find duplicates, empty folders, similar images etc. |
-| [assets](https://github.com/trustwallet/assets) | A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens. |
-| [fragattacks](https://github.com/vanhoefm/fragattacks) | None |
-| [PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection) | Object detection and instance segmentation toolkit based on PaddlePaddle. |
-| [CS-Notes](https://github.com/CyC2018/CS-Notes) | 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 |
+| [syncthing](https://github.com/syncthing/syncthing) | Open Source Continuous File Synchronization |
 | [srs](https://github.com/ossrs/srs) | SRS is a simple, high efficiency and realtime video server, supports RTMP/WebRTC/HLS/HTTP-FLV/SRT/GB28181. |
-| [cypress](https://github.com/cypress-io/cypress) | Fast, easy and reliable testing for anything that runs in a browser. |
-| [ptSh](https://github.com/jszczerbinsky/ptSh) | Let your shell commands look prettier |
-| [tauri](https://github.com/tauri-apps/tauri) | Build smaller, faster, and more secure desktop applications with a web frontend. |
-| [GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021) | Join the GitHub Graduation Yearbook and "walk the stage" on June 5. |
+| [ExpressLRS](https://github.com/ExpressLRS/ExpressLRS) | STM32/ESP32/ESP8285 based High Performance Radio Link for Quads |
+| [assets](https://github.com/trustwallet/assets) | A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens. |
+| [send-my](https://github.com/positive-security/send-my) | Upload arbitrary data via Apple's Find My network. |
+| [notion-sdk-js](https://github.com/makenotion/notion-sdk-js) | None |
+| [css-protips](https://github.com/AllThingsSmitty/css-protips) | A collection of tips to help take your CSS skills pro |
+| [aws-saas-boost](https://github.com/awslabs/aws-saas-boost) | None |
+| [dogecoin](https://github.com/dogecoin/dogecoin) | very currency |
+| [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) | 🗂 The perfect Front-End Checklist for modern websites and meticulous developers |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
