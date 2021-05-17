@@ -9,15 +9,15 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [privacybot](https://github.com/privacybot-berkeley/privacybot) | None |
+| [Swar-Chia-Plot-Manager](https://github.com/swar/Swar-Chia-Plot-Manager) | This is a Cross-Platform Plot Manager for Chia Plotting that is simple, easy-to-use, and reliable. |
+| [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) | A professional front-end template for building fast, robust, and adaptable web apps or sites. |
 | [syncthing](https://github.com/syncthing/syncthing) | Open Source Continuous File Synchronization |
-| [srs](https://github.com/ossrs/srs) | SRS is a simple, high efficiency and realtime video server, supports RTMP/WebRTC/HLS/HTTP-FLV/SRT/GB28181. |
-| [ExpressLRS](https://github.com/ExpressLRS/ExpressLRS) | STM32/ESP32/ESP8285 based High Performance Radio Link for Quads |
 | [assets](https://github.com/trustwallet/assets) | A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens. |
-| [send-my](https://github.com/positive-security/send-my) | Upload arbitrary data via Apple's Find My network. |
-| [notion-sdk-js](https://github.com/makenotion/notion-sdk-js) | None |
-| [css-protips](https://github.com/AllThingsSmitty/css-protips) | A collection of tips to help take your CSS skills pro |
-| [aws-saas-boost](https://github.com/awslabs/aws-saas-boost) | None |
-| [dogecoin](https://github.com/dogecoin/dogecoin) | very currency |
+| [lima](https://github.com/AkihiroSuda/lima) | Lima: Linux-on-Mac ("macOS subsystem for Linux", "containerd for Mac") |
+| [Quake3e](https://github.com/ec-/Quake3e) | Improved Quake III Arena engine |
+| [simplepy](https://github.com/cnzbpy/simplepy) | These are some simple projects written in Python. |
+| [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) | Awesome online talks and screencasts |
 | [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) | 🗂 The perfect Front-End Checklist for modern websites and meticulous developers |
 <!-- END OF DAILY_TOP10_REPOS -->
 
