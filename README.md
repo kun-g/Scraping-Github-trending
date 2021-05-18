@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [privacybot](https://github.com/privacybot-berkeley/privacybot) | None |
-| [Swar-Chia-Plot-Manager](https://github.com/swar/Swar-Chia-Plot-Manager) | This is a Cross-Platform Plot Manager for Chia Plotting that is simple, easy-to-use, and reliable. |
-| [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) | A professional front-end template for building fast, robust, and adaptable web apps or sites. |
+| [java-design-patterns](https://github.com/iluwatar/java-design-patterns) | Design patterns implemented in Java |
 | [syncthing](https://github.com/syncthing/syncthing) | Open Source Continuous File Synchronization |
-| [assets](https://github.com/trustwallet/assets) | A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens. |
-| [lima](https://github.com/AkihiroSuda/lima) | Lima: Linux-on-Mac ("macOS subsystem for Linux", "containerd for Mac") |
-| [Quake3e](https://github.com/ec-/Quake3e) | Improved Quake III Arena engine |
-| [simplepy](https://github.com/cnzbpy/simplepy) | These are some simple projects written in Python. |
-| [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) | Awesome online talks and screencasts |
+| [sqlfluff](https://github.com/sqlfluff/sqlfluff) | A SQL linter and auto-formatter for Humans |
+| [plutus](https://github.com/input-output-hk/plutus) | The Plutus language implementation and tools |
+| [substrate](https://github.com/paritytech/substrate) | Substrate: The platform for blockchain innovators |
+| [edex-ui](https://github.com/GitSquared/edex-ui) | A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support. |
+| [Swar-Chia-Plot-Manager](https://github.com/swar/Swar-Chia-Plot-Manager) | This is a Cross-Platform Plot Manager for Chia Plotting that is simple, easy-to-use, and reliable. |
+| [graphics-gremlin](https://github.com/schlae/graphics-gremlin) | Open source retro ISA video card |
 | [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) | 🗂 The perfect Front-End Checklist for modern websites and meticulous developers |
+| [awesome-python](https://github.com/vinta/awesome-python) | A curated list of awesome Python frameworks, libraries, software and resources |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
