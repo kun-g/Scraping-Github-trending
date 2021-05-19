@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [java-design-patterns](https://github.com/iluwatar/java-design-patterns) | Design patterns implemented in Java |
-| [syncthing](https://github.com/syncthing/syncthing) | Open Source Continuous File Synchronization |
-| [sqlfluff](https://github.com/sqlfluff/sqlfluff) | A SQL linter and auto-formatter for Humans |
-| [plutus](https://github.com/input-output-hk/plutus) | The Plutus language implementation and tools |
+| [lima](https://github.com/AkihiroSuda/lima) | Lima: Linux-on-Mac ("macOS subsystem for Linux", "containerd for Mac") |
+| [pool-reference](https://github.com/Chia-Network/pool-reference) | None |
+| [pytorch-image-models](https://github.com/rwightman/pytorch-image-models) | PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more |
+| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
+| [bee](https://github.com/ethersphere/bee) | Bee is a Swarm client implemented in Go. It’s the basic building block for the Swarm network: a private; decentralized; censorship-resistant and self-sustaining network for storing your (application) data. |
 | [substrate](https://github.com/paritytech/substrate) | Substrate: The platform for blockchain innovators |
-| [edex-ui](https://github.com/GitSquared/edex-ui) | A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support. |
-| [Swar-Chia-Plot-Manager](https://github.com/swar/Swar-Chia-Plot-Manager) | This is a Cross-Platform Plot Manager for Chia Plotting that is simple, easy-to-use, and reliable. |
-| [graphics-gremlin](https://github.com/schlae/graphics-gremlin) | Open source retro ISA video card |
-| [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) | 🗂 The perfect Front-End Checklist for modern websites and meticulous developers |
+| [Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) | 程序员应该访问的最佳网站中文版 |
 | [awesome-python](https://github.com/vinta/awesome-python) | A curated list of awesome Python frameworks, libraries, software and resources |
+| [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) | 🗂 The perfect Front-End Checklist for modern websites and meticulous developers |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
