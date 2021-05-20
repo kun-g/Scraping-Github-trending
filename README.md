@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [java-design-patterns](https://github.com/iluwatar/java-design-patterns) | Design patterns implemented in Java |
-| [lima](https://github.com/AkihiroSuda/lima) | Lima: Linux-on-Mac ("macOS subsystem for Linux", "containerd for Mac") |
-| [pool-reference](https://github.com/Chia-Network/pool-reference) | None |
-| [pytorch-image-models](https://github.com/rwightman/pytorch-image-models) | PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more |
-| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
-| [bee](https://github.com/ethersphere/bee) | Bee is a Swarm client implemented in Go. It’s the basic building block for the Swarm network: a private; decentralized; censorship-resistant and self-sustaining network for storing your (application) data. |
-| [substrate](https://github.com/paritytech/substrate) | Substrate: The platform for blockchain innovators |
+| [covid19india-react](https://github.com/covid19india/covid19india-react) | Tracking the impact of COVID-19 in India |
+| [googletest](https://github.com/google/googletest) | GoogleTest - Google Testing and Mocking Framework |
+| [edex-ui](https://github.com/GitSquared/edex-ui) | A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support. |
+| [CVE-2021-31166](https://github.com/0vercl0k/CVE-2021-31166) | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. |
+| [semana-javascript-expert04](https://github.com/ErickWendel/semana-javascript-expert04) | Todas as aulas da Semana JS Expert 4.0 - ClubHouse Clone |
 | [Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) | 程序员应该访问的最佳网站中文版 |
-| [awesome-python](https://github.com/vinta/awesome-python) | A curated list of awesome Python frameworks, libraries, software and resources |
-| [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) | 🗂 The perfect Front-End Checklist for modern websites and meticulous developers |
+| [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) | Python Data Science Handbook: full text in Jupyter Notebooks |
+| [substrate](https://github.com/paritytech/substrate) | Substrate: The platform for blockchain innovators |
+| [sqlfluff](https://github.com/sqlfluff/sqlfluff) | A SQL linter and auto-formatter for Humans |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
