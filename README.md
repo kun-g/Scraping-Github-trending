@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [java-design-patterns](https://github.com/iluwatar/java-design-patterns) | Design patterns implemented in Java |
-| [covid19india-react](https://github.com/covid19india/covid19india-react) | Tracking the impact of COVID-19 in India |
+| [dogehouse](https://github.com/benawad/dogehouse) | Taking voice conversations to the moon 🚀 |
 | [googletest](https://github.com/google/googletest) | GoogleTest - Google Testing and Mocking Framework |
-| [edex-ui](https://github.com/GitSquared/edex-ui) | A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support. |
-| [CVE-2021-31166](https://github.com/0vercl0k/CVE-2021-31166) | Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely. |
-| [semana-javascript-expert04](https://github.com/ErickWendel/semana-javascript-expert04) | Todas as aulas da Semana JS Expert 4.0 - ClubHouse Clone |
-| [Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) | 程序员应该访问的最佳网站中文版 |
-| [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) | Python Data Science Handbook: full text in Jupyter Notebooks |
-| [substrate](https://github.com/paritytech/substrate) | Substrate: The platform for blockchain innovators |
-| [sqlfluff](https://github.com/sqlfluff/sqlfluff) | A SQL linter and auto-formatter for Humans |
+| [uCodeDisasm](https://github.com/chip-red-pill/uCodeDisasm) | None |
+| [onnx](https://github.com/onnx/onnx) | Open standard for machine learning interoperability |
+| [fastlane](https://github.com/fastlane/fastlane) | 🚀 The easiest way to automate building and releasing your iOS and Android apps |
+| [java-design-patterns](https://github.com/iluwatar/java-design-patterns) | Design patterns implemented in Java |
+| [doctoshotgun](https://github.com/rbignon/doctoshotgun) | Script to automatically book a vaccine slot on Doctolib for today or tomorrow, following rules from the French Government. |
+| [aspnetcore](https://github.com/dotnet/aspnetcore) | ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux. |
+| [restyle-encoder](https://github.com/yuval-alaluf/restyle-encoder) | Official Implementation for "ReStyle: A Residual-Based StyleGAN Encoder via Iterative Refinement" https://arxiv.org/abs/2104.02699 |
+| [reaqtor](https://github.com/reaqtive/reaqtor) | Reaqtor is a framework for reliable, stateful, distributed, and scalable event processing based on Rx. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
