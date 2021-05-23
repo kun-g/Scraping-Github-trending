@@ -25,16 +25,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [zx](https://github.com/google/zx) | A tool for writing better scripts |
-| [slidev](https://github.com/slidevjs/slidev) | Presentation Slides for Developers (Public Beta 🎉) |
+| [java-design-patterns](https://github.com/iluwatar/java-design-patterns) | Design patterns implemented in Java |
 | [Swar-Chia-Plot-Manager](https://github.com/swar/Swar-Chia-Plot-Manager) | This is a Cross-Platform Plot Manager for Chia Plotting that is simple, easy-to-use, and reliable. |
-| [Flutter-Responsive-Admin-Panel-or-Dashboard](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard) | Responsive Admin Panel or Dashboard using Flutter |
-| [jd_docker](https://github.com/wisz2021/jd_docker) | 借用的github账号，仅用查看环境变量文档与教程，反馈issue使用 |
-| [covid-vaccine-booking](https://github.com/pallupz/covid-vaccine-booking) | This very basic script can be used to automate some steps on Co-WIN Platform. |
-| [leetcode-master](https://github.com/youngyangyang04/leetcode-master) | LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀 |
-| [RandomX](https://github.com/tevador/RandomX) | Proof of work algorithm based on random code execution |
-| [rustdesk](https://github.com/rustdesk/rustdesk) | The best open source remote desktop client software |
-| [cowin-vaccination-slot-availability](https://github.com/bhattbhavesh91/cowin-vaccination-slot-availability) | Script to check the available slots for Covid-19 Vaccination Centers from CoWIN API in India. |
+| [bee](https://github.com/ethersphere/bee) | Bee is a Swarm client implemented in Go. It’s the basic building block for the Swarm network: a private; decentralized; censorship-resistant and self-sustaining network for storing your (application) data. |
+| [googletest](https://github.com/google/googletest) | GoogleTest - Google Testing and Mocking Framework |
+| [edex-ui](https://github.com/GitSquared/edex-ui) | A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support. |
+| [logisim-evolution](https://github.com/reds-heig/logisim-evolution) | Digital logic designer and simulator |
+| [notion-sdk-js](https://github.com/makenotion/notion-sdk-js) | Official Notion JavaScript Client |
+| [Binance-volatility-trading-bot](https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot) | This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though the Brave browser to allow me to continuously improve the script. |
+| [syncthing](https://github.com/syncthing/syncthing) | Open Source Continuous File Synchronization |
+| [connectedhomeip](https://github.com/project-chip/connectedhomeip) | Project Connected Home over IP is a new Working Group within the Zigbee Alliance. This Working Group plans to develop and promote the adoption of a new connectivity standard to increase compatibility among smart home products, with security as a fundamental design tenet. |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
