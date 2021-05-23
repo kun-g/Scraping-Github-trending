@@ -41,14 +41,14 @@
 <!-- START OF MONTHLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [chia-blockchain](https://github.com/Chia-Network/chia-blockchain) | Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet) |
-| [dogecoin](https://github.com/dogecoin/dogecoin) | very currency |
 | [binance-trading-bot](https://github.com/chrisleekr/binance-trading-bot) | Automated Binance trading bot - Buy low/Sell high with stop loss limit/Trade multiple cryptocurrencies |
-| [calendso](https://github.com/calendso/calendso) | The open-source Calendly alternative. |
+| [dogecoin](https://github.com/dogecoin/dogecoin) | very currency |
+| [chia-blockchain](https://github.com/Chia-Network/chia-blockchain) | Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet) |
 | [OnlyFans](https://github.com/DIGITALCRIMINAL/OnlyFans) | Scrape all the media from an OnlyFans account - Updated regularly |
-| [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | Short JavaScript code snippets for all your development needs |
-| [photoprism](https://github.com/photoprism/photoprism) | Open-Source Photo Management powered by Go and Google TensorFlow |
-| [react-flow](https://github.com/wbkd/react-flow) | Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams |
-| [wave](https://github.com/thedevdojo/wave) | Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰 |
-| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
+| [leetcode-master](https://github.com/youngyangyang04/leetcode-master) | LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀 |
+| [assets](https://github.com/trustwallet/assets) | A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens. |
+| [audacity](https://github.com/audacity/audacity) | Audio Editor |
+| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
+| [covid19india-react](https://github.com/covid19india/covid19india-react) | Tracking the impact of COVID-19 in India |
+| [solana](https://github.com/solana-labs/solana) | Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces. |
 <!-- END OF MONTHLY_TOP10_REPOS -->
