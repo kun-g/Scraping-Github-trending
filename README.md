@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world |
-| [fairseq](https://github.com/pytorch/fairseq) | Facebook AI Research Sequence-to-Sequence Toolkit written in Python. |
-| [--](https://github.com/981011512/--) | 停车场系统源码，停车场小程序，智能停车，Parking system，【功能介绍】：①兼容市面上主流的多家相机，理论上兼容所有硬件，可灵活扩展，②相机识别后数据自动上传到云端并记录，校验相机唯一id和硬件序列号，防止非法数据录入，③用户手机查询停车记录详情可自主缴费(支持微信，支付宝，银行接口支付，支持每个停车场指定不同的商户进行收款)，支付后出场在免费时间内会自动抬杆。④支持app上查询附近停车场(导航，可用车位数，停车场费用，优惠券，评分，评论等)，可预约车位。⑤断电断网支持岗亭人员使用app可接管硬件进行停车记录的录入。 【技术架构】：后端开发语言java，框架oauth2+springboot2+dubble，数据库mysql/mongodb/redis，即时通讯底层框架net… |
-| [ninjabot](https://github.com/rodrigo-brito/ninjabot) | A fast cryptocurrency trading bot implemented in Go |
-| [maui](https://github.com/dotnet/maui) | .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop. |
-| [livego](https://github.com/gwuhaolin/livego) | live video streaming server in golang |
 | [rustdesk](https://github.com/rustdesk/rustdesk) | The best open source remote desktop client software |
-| [vaccipy](https://github.com/iamnotturner/vaccipy) | Automatische Terminbuchung für den Corona Impfterminservice. |
-| [threejs-scroll-animation-demo](https://github.com/fireship-io/threejs-scroll-animation-demo) | 3D Scrolling Portfolio Website with Three.js |
+| [youki](https://github.com/utam0k/youki) | An experimental container runtime written in Rust |
+| [code-server](https://github.com/cdr/code-server) | VS Code in the browser |
+| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+| [JUCE](https://github.com/juce-framework/JUCE) | JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, RTAS and AAX audio plug-ins. |
+| [livego](https://github.com/gwuhaolin/livego) | live video streaming server in golang |
+| [maui](https://github.com/dotnet/maui) | .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop. |
 | [awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) | A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles. |
+| [SNKRX](https://github.com/a327ex/SNKRX) | A replayable arcade shooter where you control a snake of heroes. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
