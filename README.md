@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [appwrite](https://github.com/appwrite/appwrite) | Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀 |
-| [SNKRX](https://github.com/a327ex/SNKRX) | A replayable arcade shooter where you control a snake of heroes. |
-| [code-server](https://github.com/cdr/code-server) | VS Code in the browser |
-| [--](https://github.com/981011512/--) | 停车场系统源码，停车场小程序，智能停车，Parking system，【功能介绍】：①兼容市面上主流的多家相机，理论上兼容所有硬件，可灵活扩展，②相机识别后数据自动上传到云端并记录，校验相机唯一id和硬件序列号，防止非法数据录入，③用户手机查询停车记录详情可自主缴费(支持微信，支付宝，银行接口支付，支持每个停车场指定不同的商户进行收款)，支付后出场在免费时间内会自动抬杆。④支持app上查询附近停车场(导航，可用车位数，停车场费用，优惠券，评分，评论等)，可预约车位。⑤断电断网支持岗亭人员使用app可接管硬件进行停车记录的录入。 【技术架构】：后端开发语言java，框架oauth2+springboot2+dubble，数据库mysql/mongodb/redis，即时通讯底层框架net… |
-| [Vulnerability](https://github.com/EdgeSecurityTeam/Vulnerability) | 此项目将不定期从棱角社区对外进行公布一些最新漏洞。 |
+| [dogecoin](https://github.com/dogecoin/dogecoin) | very currency |
+| [SpringAll](https://github.com/wuyouzhuguli/SpringAll) | 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc |
+| [secguide](https://github.com/Tencent/secguide) | 面向开发人员梳理的代码安全指南 |
+| [dl-visuals](https://github.com/dvgodoy/dl-visuals) | Over 200 figures and diagrams of the most popular deep learning architectures and layers FREE TO USE in your blog posts, slides, presentations, or papers. |
+| [leetcode](https://github.com/doocs/leetcode) | 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解 |
+| [rustdesk](https://github.com/rustdesk/rustdesk) | The best open source remote desktop client software |
+| [mkcert](https://github.com/FiloSottile/mkcert) | A simple zero-config tool to make locally trusted development certificates with any names you'd like. |
 | [livego](https://github.com/gwuhaolin/livego) | live video streaming server in golang |
-| [pwn-my](https://github.com/RPwnage/pwn-my) | iOS 14.5 WebKit/Safari based Jailbreak |
-| [greykite](https://github.com/linkedin/greykite) | A flexible, intuitive and fast forecasting library |
-| [typescript-solid-architecture](https://github.com/vtuanjs/typescript-solid-architecture) | None |
-| [teach_yourself_demoscene_in_14_days](https://github.com/psenough/teach_yourself_demoscene_in_14_days) | guidebook idea from http://www.pouet.net/topic.php?which=10882&page=1 |
+| [code-server](https://github.com/cdr/code-server) | VS Code in the browser |
+| [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | 🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！ |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
