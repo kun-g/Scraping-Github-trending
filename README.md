@@ -25,16 +25,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [java-design-patterns](https://github.com/iluwatar/java-design-patterns) | Design patterns implemented in Java |
-| [Swar-Chia-Plot-Manager](https://github.com/swar/Swar-Chia-Plot-Manager) | This is a Cross-Platform Plot Manager for Chia Plotting that is simple, easy-to-use, and reliable. |
+| [livego](https://github.com/gwuhaolin/livego) | live video streaming server in golang |
+| [vaccipy](https://github.com/iamnotturner/vaccipy) | Automatische Terminbuchung für den Corona Impfterminservice. |
+| [autocomplete](https://github.com/withfig/autocomplete) | Fig adds autocomplete to your terminal. |
+| [leetcode](https://github.com/doocs/leetcode) | 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解 |
+| [ninjabot](https://github.com/rodrigo-brito/ninjabot) | A fast cryptocurrency trading bot implemented in Go |
 | [bee](https://github.com/ethersphere/bee) | Bee is a Swarm client implemented in Go. It’s the basic building block for the Swarm network: a private; decentralized; censorship-resistant and self-sustaining network for storing your (application) data. |
-| [googletest](https://github.com/google/googletest) | GoogleTest - Google Testing and Mocking Framework |
-| [edex-ui](https://github.com/GitSquared/edex-ui) | A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support. |
-| [logisim-evolution](https://github.com/reds-heig/logisim-evolution) | Digital logic designer and simulator |
-| [notion-sdk-js](https://github.com/makenotion/notion-sdk-js) | Official Notion JavaScript Client |
-| [Binance-volatility-trading-bot](https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot) | This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though the Brave browser to allow me to continuously improve the script. |
-| [syncthing](https://github.com/syncthing/syncthing) | Open Source Continuous File Synchronization |
-| [connectedhomeip](https://github.com/project-chip/connectedhomeip) | Project Connected Home over IP is a new Working Group within the Zigbee Alliance. This Working Group plans to develop and promote the adoption of a new connectivity standard to increase compatibility among smart home products, with security as a fundamental design tenet. |
+| [iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world |
+| [one-key-hidpi](https://github.com/xzhih/one-key-hidpi) | Enable macOS HiDPI and have a native setting. |
+| [--](https://github.com/981011512/--) | 停车场系统源码，停车场小程序，智能停车，Parking system，【功能介绍】：①兼容市面上主流的多家相机，理论上兼容所有硬件，可灵活扩展，②相机识别后数据自动上传到云端并记录，校验相机唯一id和硬件序列号，防止非法数据录入，③用户手机查询停车记录详情可自主缴费(支持微信，支付宝，银行接口支付，支持每个停车场指定不同的商户进行收款)，支付后出场在免费时间内会自动抬杆。④支持app上查询附近停车场(导航，可用车位数，停车场费用，优惠券，评分，评论等)，可预约车位。⑤断电断网支持岗亭人员使用app可接管硬件进行停车记录的录入。 【技术架构】：后端开发语言java，框架oauth2+springboot2+dubble，数据库mysql/mongodb/redis，即时通讯底层框架net… |
+| [airbyte](https://github.com/airbytehq/airbyte) | Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases. |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
