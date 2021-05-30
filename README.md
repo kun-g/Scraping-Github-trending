@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 The Open Source Airtable alternative |
 | [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
-| [SpringAll](https://github.com/wuyouzhuguli/SpringAll) | 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc |
-| [jd28](https://github.com/inoyna11/jd28) | None |
-| [discord.js](https://github.com/discordjs/discord.js) | A powerful JavaScript library for interacting with the Discord API |
-| [winget-pkgs](https://github.com/microsoft/winget-pkgs) | The Microsoft community Windows Package Manager manifest repository |
+| [secguide](https://github.com/Tencent/secguide) | 面向开发人员梳理的代码安全指南 |
+| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
+| [computer-science](https://github.com/ossu/computer-science) | 🎓 Path to a free self-taught education in Computer Science! |
 | [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | 🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！ |
-| [awesome-privacy](https://github.com/pluja/awesome-privacy) | Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. |
-| [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
 | [BlackDex](https://github.com/CodingGay/BlackDex) | BlackDex is an Android unpack tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phones or emulators, you can unpack APK File in several seconds. |
-| [weekly](https://github.com/ascoders/weekly) | 前端精读周刊。帮你理解最前沿、实用的技术。 |
+| [bunken](https://github.com/laxyapahuja/bunken) | A chrome extension to download ebooks directly from Goodreads. |
+| [leetcode](https://github.com/doocs/leetcode) | 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解 |
+| [WeatherTwentyOne](https://github.com/davidortinau/WeatherTwentyOne) | None |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
