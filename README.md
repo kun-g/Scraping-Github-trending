@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [Binance-volatility-trading-bot](https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot) | This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though the Brave browser to allow me to continuously improve the script. |
-| [pokegb](https://github.com/binji/pokegb) | A gameboy emulator that only plays Pokemon Blue, in ~70 lines of c++. |
-| [educative.io_courses](https://github.com/merry75/educative.io_courses) | this is downloadings of all educative.io free student subscription courses as pdf from GitHub student pack |
-| [CS-Notes](https://github.com/CyC2018/CS-Notes) | 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 |
 | [PolarDB-for-PostgreSQL](https://github.com/alibaba/PolarDB-for-PostgreSQL) | None |
-| [serenity](https://github.com/SerenityOS/serenity) | The Serenity Operating System 🐞 |
-| [BlackDex](https://github.com/CodingGay/BlackDex) | BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phones or emulators, you can unpack APK File in several seconds. |
-| [openwrt](https://github.com/openwrt/openwrt) | This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org |
-| [shortcuts](https://github.com/leecobaby/shortcuts) | 自动养猫|自动淘金币|自动欢乐造|抢购助手|快捷指令 |
-| [winget-pkgs](https://github.com/microsoft/winget-pkgs) | The Microsoft community Windows Package Manager manifest repository |
+| [photoprism](https://github.com/photoprism/photoprism) | Open-Source Photo Management powered by Go and Google TensorFlow |
+| [Binance-volatility-trading-bot](https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot) | This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though the Brave browser to allow me to continuously improve the script. |
+| [jd_scripts](https://github.com/chinnkarahoi/jd_scripts) | lxk0301/jd_scripts备份。不要star。不要fork。谢谢配合。 |
+| [pokegb](https://github.com/binji/pokegb) | A gameboy emulator that only plays Pokemon Blue, in ~70 lines of c++. |
+| [winget-cli](https://github.com/microsoft/winget-cli) | Windows Package Manager CLI (aka winget) |
+| [JD-Script](https://github.com/curtinlv/JD-Script) | None |
+| [prisma](https://github.com/prisma/prisma) | Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server & SQLite |
+| [Files](https://github.com/files-community/Files) | A modern file explorer that pushes the boundaries of the platform. |
+| [100DaysOfAWS](https://github.com/sarthaksavvy/100DaysOfAWS) | None |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
