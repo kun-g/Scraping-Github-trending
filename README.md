@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [PolarDB-for-PostgreSQL](https://github.com/alibaba/PolarDB-for-PostgreSQL) | None |
-| [photoprism](https://github.com/photoprism/photoprism) | Open-Source Photo Management powered by Go and Google TensorFlow |
-| [Binance-volatility-trading-bot](https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot) | This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though the Brave browser to allow me to continuously improve the script. |
+| [Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) | 🦊 I respect proton UI and aim to improve it. |
+| [educative.io_courses](https://github.com/merry75/educative.io_courses) | this is downloadings of all educative.io free student subscription courses as pdf from GitHub student pack |
+| [Java](https://github.com/TheAlgorithms/Java) | All Algorithms implemented in Java |
+| [bicep](https://github.com/Azure/bicep) | Bicep is a declarative language for describing and deploying Azure resources |
+| [koreader](https://github.com/koreader/koreader) | An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices |
+| [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
 | [jd_scripts](https://github.com/chinnkarahoi/jd_scripts) | lxk0301/jd_scripts备份。不要star。不要fork。谢谢配合。 |
-| [pokegb](https://github.com/binji/pokegb) | A gameboy emulator that only plays Pokemon Blue, in ~70 lines of c++. |
-| [winget-cli](https://github.com/microsoft/winget-cli) | Windows Package Manager CLI (aka winget) |
-| [JD-Script](https://github.com/curtinlv/JD-Script) | None |
-| [prisma](https://github.com/prisma/prisma) | Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server & SQLite |
-| [Files](https://github.com/files-community/Files) | A modern file explorer that pushes the boundaries of the platform. |
-| [100DaysOfAWS](https://github.com/sarthaksavvy/100DaysOfAWS) | None |
+| [helix](https://github.com/helix-editor/helix) | A post-modern modal text editor. |
+| [obs-studio](https://github.com/obsproject/obs-studio) | OBS Studio - Free and open source software for live streaming and screen recording |
+| [MoniGoMani](https://github.com/Rikj000/MoniGoMani) | Isn't that what we all want? Our money to go many? Well that's what this strategy hopes to do for you! By giving you/HyperOpt a lot of signals to alter the weight from. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
