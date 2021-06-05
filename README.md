@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) | 🦊 I respect proton UI and aim to improve it. |
-| [educative.io_courses](https://github.com/merry75/educative.io_courses) | this is downloadings of all educative.io free student subscription courses as pdf from GitHub student pack |
+| [lighthouse](https://github.com/GoogleChrome/lighthouse) | Automated auditing, performance metrics, and best practices for the web. |
 | [Java](https://github.com/TheAlgorithms/Java) | All Algorithms implemented in Java |
-| [bicep](https://github.com/Azure/bicep) | Bicep is a declarative language for describing and deploying Azure resources |
-| [koreader](https://github.com/koreader/koreader) | An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices |
-| [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
+| [rustdesk](https://github.com/rustdesk/rustdesk) | An open source remote desktop client software |
 | [jd_scripts](https://github.com/chinnkarahoi/jd_scripts) | lxk0301/jd_scripts备份。不要star。不要fork。谢谢配合。 |
-| [helix](https://github.com/helix-editor/helix) | A post-modern modal text editor. |
-| [obs-studio](https://github.com/obsproject/obs-studio) | OBS Studio - Free and open source software for live streaming and screen recording |
-| [MoniGoMani](https://github.com/Rikj000/MoniGoMani) | Isn't that what we all want? Our money to go many? Well that's what this strategy hopes to do for you! By giving you/HyperOpt a lot of signals to alter the weight from. |
+| [HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) | A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。 |
+| [Files](https://github.com/files-community/Files) | A modern file explorer that pushes the boundaries of the platform. |
+| [photoprism](https://github.com/photoprism/photoprism) | Open-Source Photo Management powered by Go and Google TensorFlow |
+| [decision-transformer](https://github.com/kzl/decision-transformer) | Official codebase for Decision Transformer: Reinforcement Learning via Sequence Modeling. |
+| [racing-game](https://github.com/pmndrs/racing-game) | 🏎 Open source racing game developed by everyone willing |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
