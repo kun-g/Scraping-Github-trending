@@ -41,14 +41,14 @@
 <!-- START OF MONTHLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [Swar-Chia-Plot-Manager](https://github.com/swar/Swar-Chia-Plot-Manager) | This is a Cross-Platform Plot Manager for Chia Plotting that is simple, easy-to-use, and reliable. |
+| [slidev](https://github.com/slidevjs/slidev) | Presentation Slides for Developers (Beta) |
+| [Flutter-Responsive-Admin-Panel-or-Dashboard](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard) | Responsive Admin Panel or Dashboard using Flutter |
 | [dogecoin](https://github.com/dogecoin/dogecoin) | very currency |
-| [dino](https://github.com/facebookresearch/dino) | PyTorch code for Vision Transformers training with the Self-Supervised learning method DINO |
-| [OnlyFans](https://github.com/DIGITALCRIMINAL/OnlyFans) | Scrape all the media from an OnlyFans account - Updated regularly |
-| [plotman](https://github.com/ericaltendorf/plotman) | Chia plotting manager |
-| [VaccineAvailabilityNotifier](https://github.com/kartikey54/VaccineAvailabilityNotifier) | None |
-| [audacity](https://github.com/audacity/audacity) | Audio Editor |
-| [chia-blockchain](https://github.com/Chia-Network/chia-blockchain) | Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet) |
-| [react-complete-guide-code](https://github.com/academind/react-complete-guide-code) | Code snapshots and materials for our "React - The Complete Guide" course (https://acad.link/reactjs) |
+| [covid-vaccine-booking](https://github.com/pallupz/covid-vaccine-booking) | This very basic script can be used to automate some steps on Co-WIN Platform. |
 | [leetcode-master](https://github.com/youngyangyang04/leetcode-master) | LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀 |
+| [rustdesk](https://github.com/rustdesk/rustdesk) | An open source remote desktop client software |
+| [plotman](https://github.com/ericaltendorf/plotman) | Chia plotting manager |
 | [livego](https://github.com/gwuhaolin/livego) | live video streaming server in golang |
+| [python-cheatsheet](https://github.com/gto76/python-cheatsheet) | Comprehensive Python Cheatsheet |
 <!-- END OF MONTHLY_TOP10_REPOS -->
