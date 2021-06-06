@@ -9,15 +9,15 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) | 🦊 I respect proton UI and aim to improve it. |
-| [lighthouse](https://github.com/GoogleChrome/lighthouse) | Automated auditing, performance metrics, and best practices for the web. |
-| [Java](https://github.com/TheAlgorithms/Java) | All Algorithms implemented in Java |
-| [rustdesk](https://github.com/rustdesk/rustdesk) | An open source remote desktop client software |
-| [jd_scripts](https://github.com/chinnkarahoi/jd_scripts) | lxk0301/jd_scripts备份。不要star。不要fork。谢谢配合。 |
+| [AspNetCore.Docs](https://github.com/dotnet/AspNetCore.Docs) | Documentation for ASP.NET Core |
 | [HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) | A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。 |
-| [Files](https://github.com/files-community/Files) | A modern file explorer that pushes the boundaries of the platform. |
-| [photoprism](https://github.com/photoprism/photoprism) | Open-Source Photo Management powered by Go and Google TensorFlow |
-| [decision-transformer](https://github.com/kzl/decision-transformer) | Official codebase for Decision Transformer: Reinforcement Learning via Sequence Modeling. |
+| [prisma](https://github.com/prisma/prisma) | Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server & SQLite |
+| [faceswap](https://github.com/deepfakes/faceswap) | Deepfakes Software For All |
+| [Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) | 🦊 I respect proton UI and aim to improve it. |
+| [zoo](https://github.com/zooPanda/zoo) | 你我本是动物，我不该责怪你动物的本性，但请你给我足够的尊重，谢谢，共勉。 |
+| [Java](https://github.com/TheAlgorithms/Java) | All Algorithms implemented in Java |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [pytudes](https://github.com/norvig/pytudes) | Python programs, usually short, of considerable difficulty, to perfect particular skills. |
 | [racing-game](https://github.com/pmndrs/racing-game) | 🏎 Open source racing game developed by everyone willing |
 <!-- END OF DAILY_TOP10_REPOS -->
 
