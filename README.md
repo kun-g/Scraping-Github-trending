@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [AspNetCore.Docs](https://github.com/dotnet/AspNetCore.Docs) | Documentation for ASP.NET Core |
-| [HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) | A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。 |
-| [prisma](https://github.com/prisma/prisma) | Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server & SQLite |
-| [faceswap](https://github.com/deepfakes/faceswap) | Deepfakes Software For All |
-| [Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) | 🦊 I respect proton UI and aim to improve it. |
-| [zoo](https://github.com/zooPanda/zoo) | 你我本是动物，我不该责怪你动物的本性，但请你给我足够的尊重，谢谢，共勉。 |
-| [Java](https://github.com/TheAlgorithms/Java) | All Algorithms implemented in Java |
+| [slidev](https://github.com/slidevjs/slidev) | Presentation Slides for Developers (Beta) |
+| [Perimeter](https://github.com/KranX/Perimeter) | None |
+| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
 | [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [pytudes](https://github.com/norvig/pytudes) | Python programs, usually short, of considerable difficulty, to perfect particular skills. |
-| [racing-game](https://github.com/pmndrs/racing-game) | 🏎 Open source racing game developed by everyone willing |
+| [animate.css](https://github.com/animate-css/animate.css) | 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. |
+| [faceswap](https://github.com/deepfakes/faceswap) | Deepfakes Software For All |
+| [java-design-patterns](https://github.com/iluwatar/java-design-patterns) | Design patterns implemented in Java |
+| [decision-transformer](https://github.com/kzl/decision-transformer) | Official codebase for Decision Transformer: Reinforcement Learning via Sequence Modeling. |
+| [HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) | A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。 |
+| [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
