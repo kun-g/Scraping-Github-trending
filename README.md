@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [slidev](https://github.com/slidevjs/slidev) | Presentation Slides for Developers (Beta) |
-| [Perimeter](https://github.com/KranX/Perimeter) | None |
-| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [animate.css](https://github.com/animate-css/animate.css) | 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. |
 | [faceswap](https://github.com/deepfakes/faceswap) | Deepfakes Software For All |
+| [first-contributions](https://github.com/firstcontributions/first-contributions) | 🚀✨ Help beginners to contribute to open source projects |
+| [core](https://github.com/home-assistant/core) | 🏡 Open source home automation that puts local control and privacy first |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [cheat.sh](https://github.com/chubin/cheat.sh) | the only cheat sheet you need |
+| [freqtrade](https://github.com/freqtrade/freqtrade) | Free, open source crypto trading bot |
 | [java-design-patterns](https://github.com/iluwatar/java-design-patterns) | Design patterns implemented in Java |
-| [decision-transformer](https://github.com/kzl/decision-transformer) | Official codebase for Decision Transformer: Reinforcement Learning via Sequence Modeling. |
+| [slidev](https://github.com/slidevjs/slidev) | Presentation Slides for Developers (Beta) |
+| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
 | [HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) | A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。 |
-| [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
