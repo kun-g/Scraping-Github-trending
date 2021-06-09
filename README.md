@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [faceswap](https://github.com/deepfakes/faceswap) | Deepfakes Software For All |
-| [first-contributions](https://github.com/firstcontributions/first-contributions) | 🚀✨ Help beginners to contribute to open source projects |
-| [core](https://github.com/home-assistant/core) | 🏡 Open source home automation that puts local control and privacy first |
 | [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [cheat.sh](https://github.com/chubin/cheat.sh) | the only cheat sheet you need |
-| [freqtrade](https://github.com/freqtrade/freqtrade) | Free, open source crypto trading bot |
-| [java-design-patterns](https://github.com/iluwatar/java-design-patterns) | Design patterns implemented in Java |
+| [school2021](https://github.com/escape2020/school2021) | ESCAPE Summer School 2021 |
+| [folly](https://github.com/facebook/folly) | An open-source C++ library developed and used at Facebook. |
+| [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4) | Example code for HTML, CSS, and Javascript for Web Developers Coursera Course |
 | [slidev](https://github.com/slidevjs/slidev) | Presentation Slides for Developers (Beta) |
-| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
-| [HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) | A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。 |
+| [naive-ui](https://github.com/TuSimple/naive-ui) | A Vue 3 Component Library. Fairly Complete. Customizable Themes. Uses Typescript. Not too Slow. |
+| [cyberchef-recipes](https://github.com/mattnotmax/cyberchef-recipes) | A list of cyber-chef recipes and curated links |
+| [TDengine](https://github.com/taosdata/TDengine) | An open-source big data platform designed and optimized for the Internet of Things (IoT). |
+| [computer-vision-in-action](https://github.com/Charmve/computer-vision-in-action) | 《计算机视觉实战演练：算法与应用》中文电子书、源码、读者交流社区（更新中，可以先 star） |
+| [PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) | An NLP library with Awesome pre-trained Transformer models and easy-to-use interface, supporting wide-range of NLP tasks from research to industrial applications. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
