@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [chia-plotter](https://github.com/madMAx43v3r/chia-plotter) | None |
+| [naive-ui](https://github.com/TuSimple/naive-ui) | A Vue 3 Component Library. Fairly Complete. Customizable Themes. Uses TypeScript. Not too Slow. |
+| [ToolJet](https://github.com/ToolJet/ToolJet) | Opensource internal tool builder. An alternative to Retool, JetAdmin, Internal.io, Budibase etc |
+| [slides](https://github.com/maaslalani/slides) | Terminal based presentation tool |
+| [PaddleHub](https://github.com/PaddlePaddle/PaddleHub) | Awesome pre-trained models toolkit based on PaddlePaddle.(300+ models including Image, Text, Audio and Video with Easy Inference & Serving deployment) |
+| [connectedhomeip](https://github.com/project-chip/connectedhomeip) | Matter (formerly Project CHIP) is creating more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance (formerly Zigbee Alliance). |
+| [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) | ✅ The Node.js best practices list (June 2021) |
+| [computer-vision-in-action](https://github.com/Charmve/computer-vision-in-action) | 《计算机视觉实战演练：算法与应用》中文电子书、源码、读者交流社区（更新中，可以先 star） |
 | [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
 | [school2021](https://github.com/escape2020/school2021) | ESCAPE Summer School 2021 |
-| [folly](https://github.com/facebook/folly) | An open-source C++ library developed and used at Facebook. |
-| [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4) | Example code for HTML, CSS, and Javascript for Web Developers Coursera Course |
-| [slidev](https://github.com/slidevjs/slidev) | Presentation Slides for Developers (Beta) |
-| [naive-ui](https://github.com/TuSimple/naive-ui) | A Vue 3 Component Library. Fairly Complete. Customizable Themes. Uses Typescript. Not too Slow. |
-| [cyberchef-recipes](https://github.com/mattnotmax/cyberchef-recipes) | A list of cyber-chef recipes and curated links |
-| [TDengine](https://github.com/taosdata/TDengine) | An open-source big data platform designed and optimized for the Internet of Things (IoT). |
-| [computer-vision-in-action](https://github.com/Charmve/computer-vision-in-action) | 《计算机视觉实战演练：算法与应用》中文电子书、源码、读者交流社区（更新中，可以先 star） |
-| [PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) | An NLP library with Awesome pre-trained Transformer models and easy-to-use interface, supporting wide-range of NLP tasks from research to industrial applications. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
