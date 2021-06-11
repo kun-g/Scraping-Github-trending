@@ -11,14 +11,14 @@
 | :----: | :----: |
 | [chia-plotter](https://github.com/madMAx43v3r/chia-plotter) | None |
 | [naive-ui](https://github.com/TuSimple/naive-ui) | A Vue 3 Component Library. Fairly Complete. Customizable Themes. Uses TypeScript. Not too Slow. |
-| [ToolJet](https://github.com/ToolJet/ToolJet) | Opensource internal tool builder. An alternative to Retool, JetAdmin, Internal.io, Budibase etc |
 | [slides](https://github.com/maaslalani/slides) | Terminal based presentation tool |
-| [PaddleHub](https://github.com/PaddlePaddle/PaddleHub) | Awesome pre-trained models toolkit based on PaddlePaddle.(300+ models including Image, Text, Audio and Video with Easy Inference & Serving deployment) |
-| [connectedhomeip](https://github.com/project-chip/connectedhomeip) | Matter (formerly Project CHIP) is creating more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance (formerly Zigbee Alliance). |
-| [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) | ✅ The Node.js best practices list (June 2021) |
+| [terraform](https://github.com/hashicorp/terraform) | Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. |
 | [computer-vision-in-action](https://github.com/Charmve/computer-vision-in-action) | 《计算机视觉实战演练：算法与应用》中文电子书、源码、读者交流社区（更新中，可以先 star） |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [jd_scripts](https://github.com/chinnkarahoi/jd_scripts) | lxk0301/jd_scripts备份。不要star。不要fork。谢谢配合。 |
+| [swift-algorithms](https://github.com/apple/swift-algorithms) | Commonly used sequence and collection algorithms for Swift |
+| [protobuf](https://github.com/protocolbuffers/protobuf) | Protocol Buffers - Google's data interchange format |
 | [school2021](https://github.com/escape2020/school2021) | ESCAPE Summer School 2021 |
+| [playwright](https://github.com/microsoft/playwright) | Node.js library to automate Chromium, Firefox and WebKit with a single API |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
