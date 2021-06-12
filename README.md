@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [chia-plotter](https://github.com/madMAx43v3r/chia-plotter) | None |
-| [naive-ui](https://github.com/TuSimple/naive-ui) | A Vue 3 Component Library. Fairly Complete. Customizable Themes. Uses TypeScript. Not too Slow. |
-| [slides](https://github.com/maaslalani/slides) | Terminal based presentation tool |
-| [terraform](https://github.com/hashicorp/terraform) | Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. |
-| [computer-vision-in-action](https://github.com/Charmve/computer-vision-in-action) | 《计算机视觉实战演练：算法与应用》中文电子书、源码、读者交流社区（更新中，可以先 star） |
-| [jd_scripts](https://github.com/chinnkarahoi/jd_scripts) | lxk0301/jd_scripts备份。不要star。不要fork。谢谢配合。 |
-| [swift-algorithms](https://github.com/apple/swift-algorithms) | Commonly used sequence and collection algorithms for Swift |
-| [protobuf](https://github.com/protocolbuffers/protobuf) | Protocol Buffers - Google's data interchange format |
-| [school2021](https://github.com/escape2020/school2021) | ESCAPE Summer School 2021 |
+| [XUAN-Bike](https://github.com/peng-zhihui/XUAN-Bike) | None |
+| [mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax) | Model parallel transformers in JAX and Haiku |
+| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
 | [playwright](https://github.com/microsoft/playwright) | Node.js library to automate Chromium, Firefox and WebKit with a single API |
+| [The-OldOS-Project](https://github.com/zzanehip/The-OldOS-Project) | Recreating a fully functional version of iOS 4 in SwiftUI. |
+| [naive-ui](https://github.com/TuSimple/naive-ui) | A Vue 3 Component Library. Fairly Complete. Customizable Themes. Uses TypeScript. Not too Slow. |
+| [tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper) | TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc. |
+| [react-18](https://github.com/reactwg/react-18) | Workgroup for React 18 release. |
+| [jd_scripts](https://github.com/chinnkarahoi/jd_scripts) | lxk0301/jd_scripts备份。不要star。不要fork。谢谢配合。 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
