@@ -41,14 +41,14 @@
 <!-- START OF MONTHLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [Binance-volatility-trading-bot](https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot) | This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though the Brave browser to allow me to continuously improve the script. |
 | [Swar-Chia-Plot-Manager](https://github.com/swar/Swar-Chia-Plot-Manager) | This is a Cross-Platform Plot Manager for Chia Plotting that is simple, easy-to-use, and reliable. |
-| [slidev](https://github.com/slidevjs/slidev) | Presentation Slides for Developers (Beta) |
-| [Flutter-Responsive-Admin-Panel-or-Dashboard](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard) | Responsive Admin Panel or Dashboard using Flutter |
-| [dogecoin](https://github.com/dogecoin/dogecoin) | very currency |
-| [covid-vaccine-booking](https://github.com/pallupz/covid-vaccine-booking) | This very basic script can be used to automate some steps on Co-WIN Platform. |
-| [leetcode-master](https://github.com/youngyangyang04/leetcode-master) | LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀 |
-| [rustdesk](https://github.com/rustdesk/rustdesk) | An open source remote desktop client software |
-| [plotman](https://github.com/ericaltendorf/plotman) | Chia plotting manager |
 | [livego](https://github.com/gwuhaolin/livego) | live video streaming server in golang |
-| [python-cheatsheet](https://github.com/gto76/python-cheatsheet) | Comprehensive Python Cheatsheet |
+| [java-design-patterns](https://github.com/iluwatar/java-design-patterns) | Design patterns implemented in Java |
+| [autocomplete](https://github.com/withfig/autocomplete) | Fig adds autocomplete to your terminal. |
+| [winget-cli](https://github.com/microsoft/winget-cli) | Windows Package Manager CLI (aka winget) |
+| [winget-pkgs](https://github.com/microsoft/winget-pkgs) | The Microsoft community Windows Package Manager manifest repository |
+| [faceswap](https://github.com/deepfakes/faceswap) | Deepfakes Software For All |
+| [react-complete-guide-code](https://github.com/academind/react-complete-guide-code) | Code snapshots and materials for our "React - The Complete Guide" course (https://acad.link/reactjs) |
+| [first-contributions](https://github.com/firstcontributions/first-contributions) | 🚀✨ Help beginners to contribute to open source projects |
 <!-- END OF MONTHLY_TOP10_REPOS -->
