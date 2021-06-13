@@ -29,14 +29,14 @@
                 "username": "roblack"
             }
         ],
-        "currentPeriodStars": 813,
+        "currentPeriodStars": 782,
         "description": "Recreating a fully functional version of iOS 4 in SwiftUI.",
-        "forks": 111,
+        "forks": 112,
         "fullname": "zzanehip/The-OldOS-Project",
         "language": "Swift",
         "languageColor": "#ffac45",
         "name": "The-OldOS-Project",
-        "stars": 1823,
+        "stars": 1848,
         "url": "https://github.com/zzanehip/The-OldOS-Project"
     },
     {
@@ -69,14 +69,14 @@
                 "username": "Spottedleaf"
             }
         ],
-        "currentPeriodStars": 189,
+        "currentPeriodStars": 185,
         "description": "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies",
-        "forks": 1000,
+        "forks": 999,
         "fullname": "PaperMC/Paper",
         "language": "Shell",
         "languageColor": "#89e051",
         "name": "Paper",
-        "stars": 3713,
+        "stars": 3723,
         "url": "https://github.com/PaperMC/Paper"
     },
     {
@@ -104,19 +104,19 @@
                 "username": "fermosan"
             },
             {
-                "avatar": "https://avatars.githubusercontent.com/u/11786425",
-                "href": "https://github.com/AndriiHlukhanyk",
-                "username": "AndriiHlukhanyk"
+                "avatar": "https://avatars.githubusercontent.com/u/4661804",
+                "href": "https://github.com/yrjyrj123",
+                "username": "yrjyrj123"
             }
         ],
-        "currentPeriodStars": 487,
+        "currentPeriodStars": 494,
         "description": null,
-        "forks": 409,
+        "forks": 411,
         "fullname": "madMAx43v3r/chia-plotter",
         "language": "C",
         "languageColor": "#555555",
         "name": "chia-plotter",
-        "stars": 1311,
+        "stars": 1328,
         "url": "https://github.com/madMAx43v3r/chia-plotter"
     },
     {
@@ -144,14 +144,14 @@
                 "username": "alepauly"
             }
         ],
-        "currentPeriodStars": 170,
+        "currentPeriodStars": 180,
         "description": "GitHub Actions virtual environments",
         "forks": 1201,
         "fullname": "actions/virtual-environments",
         "language": "PowerShell",
         "languageColor": "#012456",
         "name": "virtual-environments",
-        "stars": 3312,
+        "stars": 3323,
         "url": "https://github.com/actions/virtual-environments"
     },
     {
@@ -184,14 +184,14 @@
                 "username": "tangyuq"
             }
         ],
-        "currentPeriodStars": 58,
+        "currentPeriodStars": 54,
         "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
-        "forks": 3260,
+        "forks": 3261,
         "fullname": "pytorch/fairseq",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "fairseq",
-        "stars": 12996,
+        "stars": 13006,
         "url": "https://github.com/pytorch/fairseq"
     },
     {
@@ -224,14 +224,14 @@
                 "username": "cschleiden"
             }
         ],
-        "currentPeriodStars": 182,
+        "currentPeriodStars": 185,
         "description": "Accelerating new GitHub Actions workflows",
-        "forks": 3212,
+        "forks": 3213,
         "fullname": "actions/starter-workflows",
         "language": "TypeScript",
         "languageColor": "#2b7489",
         "name": "starter-workflows",
-        "stars": 4502,
+        "stars": 4514,
         "url": "https://github.com/actions/starter-workflows"
     },
     {
@@ -246,12 +246,12 @@
         ],
         "currentPeriodStars": 81,
         "description": "\u505c\u8f66\u573a\u7cfb\u7edf\u6e90\u7801\uff0c\u505c\u8f66\u573a\u5c0f\u7a0b\u5e8f\uff0c\u667a\u80fd\u505c\u8f66\uff0cParking system\uff0c\u3010\u529f\u80fd\u4ecb\u7ecd\u3011\uff1a\u2460\u517c\u5bb9\u5e02\u9762\u4e0a\u4e3b\u6d41\u7684\u591a\u5bb6\u76f8\u673a\uff0c\u7406\u8bba\u4e0a\u517c\u5bb9\u6240\u6709\u786c\u4ef6\uff0c\u53ef\u7075\u6d3b\u6269\u5c55\uff0c\u2461\u76f8\u673a\u8bc6\u522b\u540e\u6570\u636e\u81ea\u52a8\u4e0a\u4f20\u5230\u4e91\u7aef\u5e76\u8bb0\u5f55\uff0c\u6821\u9a8c\u76f8\u673a\u552f\u4e00id\u548c\u786c\u4ef6\u5e8f\u5217\u53f7\uff0c\u9632\u6b62\u975e\u6cd5\u6570\u636e\u5f55\u5165\uff0c\u2462\u7528\u6237\u624b\u673a\u67e5\u8be2\u505c\u8f66\u8bb0\u5f55\u8be6\u60c5\u53ef\u81ea\u4e3b\u7f34\u8d39(\u652f\u6301\u5fae\u4fe1\uff0c\u652f\u4ed8\u5b9d\uff0c\u94f6\u884c\u63a5\u53e3\u652f\u4ed8\uff0c\u652f\u6301\u6bcf\u4e2a\u505c\u8f66\u573a\u6307\u5b9a\u4e0d\u540c\u7684\u5546\u6237\u8fdb\u884c\u6536\u6b3e)\uff0c\u652f\u4ed8\u540e\u51fa\u573a\u5728\u514d\u8d39\u65f6\u95f4\u5185\u4f1a\u81ea\u52a8\u62ac\u6746\u3002\u2463\u652f\u6301app\u4e0a\u67e5\u8be2\u9644\u8fd1\u505c\u8f66\u573a(\u5bfc\u822a\uff0c\u53ef\u7528\u8f66\u4f4d\u6570\uff0c\u505c\u8f66\u573a\u8d39\u7528\uff0c\u4f18\u60e0\u5238\uff0c\u8bc4\u5206\uff0c\u8bc4\u8bba\u7b49)\uff0c\u53ef\u9884\u7ea6\u8f66\u4f4d\u3002\u2464\u65ad\u7535\u65ad\u7f51\u652f\u6301\u5c97\u4ead\u4eba\u5458\u4f7f\u7528app\u53ef\u63a5\u7ba1\u786c\u4ef6\u8fdb\u884c\u505c\u8f66\u8bb0\u5f55\u7684\u5f55\u5165\u3002 \u3010\u6280\u672f\u67b6\u6784\u3011\uff1a\u540e\u7aef\u5f00\u53d1\u8bed\u8a00java\uff0c\u6846\u67b6oauth2+springboot2+dubble\uff0c\u6570\u636e\u5e93mysql/mongodb/redis\uff0c\u5373\u65f6\u901a\u8baf\u5e95\u5c42\u6846\u67b6net\u2026",
-        "forks": 1480,
+        "forks": 1482,
         "fullname": "981011512/--",
         "language": "Java",
         "languageColor": "#b07219",
         "name": "--",
-        "stars": 3650,
+        "stars": 3654,
         "url": "https://github.com/981011512/--"
     },
     {
@@ -264,14 +264,14 @@
                 "username": "chrxh"
             }
         ],
-        "currentPeriodStars": 887,
+        "currentPeriodStars": 934,
         "description": "alien is a GPU-accelerated artificial life simulation program.",
-        "forks": 33,
+        "forks": 34,
         "fullname": "chrxh/alien",
         "language": "C++",
         "languageColor": "#f34b7d",
         "name": "alien",
-        "stars": 1264,
+        "stars": 1320,
         "url": "https://github.com/chrxh/alien"
     },
     {
@@ -284,14 +284,14 @@
                 "username": "maziarraissi"
             }
         ],
-        "currentPeriodStars": 190,
+        "currentPeriodStars": 228,
         "description": "Applied Deep Learning",
-        "forks": 98,
+        "forks": 100,
         "fullname": "maziarraissi/Applied-Deep-Learning",
         "language": null,
         "languageColor": null,
         "name": "Applied-Deep-Learning",
-        "stars": 548,
+        "stars": 571,
         "url": "https://github.com/maziarraissi/Applied-Deep-Learning"
     },
     {
@@ -304,14 +304,14 @@
                 "username": "yangtingxiao"
             }
         ],
-        "currentPeriodStars": 62,
+        "currentPeriodStars": 67,
         "description": "\u811a\u672c\uff0c\u81ea\u7528",
         "forks": 352,
         "fullname": "yangtingxiao/QuantumultX",
         "language": null,
         "languageColor": null,
         "name": "QuantumultX",
-        "stars": 511,
+        "stars": 515,
         "url": "https://github.com/yangtingxiao/QuantumultX"
     },
     {
@@ -344,14 +344,14 @@
                 "username": "Ilyushin"
             }
         ],
-        "currentPeriodStars": 1314,
+        "currentPeriodStars": 1256,
         "description": "A complete computer science study plan to become a software engineer.",
-        "forks": 48298,
+        "forks": 48299,
         "fullname": "jwasham/coding-interview-university",
         "language": null,
         "languageColor": null,
         "name": "coding-interview-university",
-        "stars": 177983,
+        "stars": 178019,
         "url": "https://github.com/jwasham/coding-interview-university"
     },
     {
@@ -364,14 +364,14 @@
                 "username": "peng-zhihui"
             }
         ],
-        "currentPeriodStars": 630,
+        "currentPeriodStars": 637,
         "description": null,
-        "forks": 258,
+        "forks": 261,
         "fullname": "peng-zhihui/XUAN-Bike",
         "language": null,
         "languageColor": null,
         "name": "XUAN-Bike",
-        "stars": 2312,
+        "stars": 2330,
         "url": "https://github.com/peng-zhihui/XUAN-Bike"
     },
     {
@@ -404,14 +404,14 @@
                 "username": "alexdima"
             }
         ],
-        "currentPeriodStars": 205,
+        "currentPeriodStars": 196,
         "description": "Visual Studio Code",
         "forks": 19110,
         "fullname": "microsoft/vscode",
         "language": "TypeScript",
         "languageColor": "#2b7489",
         "name": "vscode",
-        "stars": 117089,
+        "stars": 117112,
         "url": "https://github.com/microsoft/vscode"
     },
     {
@@ -444,14 +444,14 @@
                 "username": "esparta"
             }
         ],
-        "currentPeriodStars": 479,
+        "currentPeriodStars": 517,
         "description": "\ud83d\udcda Freely available programming books",
         "forks": 42709,
         "fullname": "EbookFoundation/free-programming-books",
         "language": null,
         "languageColor": null,
         "name": "free-programming-books",
-        "stars": 192624,
+        "stars": 192657,
         "url": "https://github.com/EbookFoundation/free-programming-books"
     },
     {
@@ -464,14 +464,14 @@
                 "username": "liupan1890"
             }
         ],
-        "currentPeriodStars": 119,
+        "currentPeriodStars": 116,
         "description": "\u963f\u91cc\u4e91\u76d8\u5c0f\u767d\u7f8a\u7248 \u963f\u91cc\u4e91\u76d8PC\u7248",
         "forks": 43,
         "fullname": "liupan1890/aliyunpan",
         "language": "Dart",
         "languageColor": "#00B4AB",
         "name": "aliyunpan",
-        "stars": 443,
+        "stars": 448,
         "url": "https://github.com/liupan1890/aliyunpan"
     },
     {
@@ -504,14 +504,14 @@
                 "username": "TatuLaras"
             }
         ],
-        "currentPeriodStars": 167,
+        "currentPeriodStars": 191,
         "description": "A Collection of application ideas which can be used to improve your coding skills.",
         "forks": 5792,
         "fullname": "florinpop17/app-ideas",
         "language": null,
         "languageColor": null,
         "name": "app-ideas",
-        "stars": 41399,
+        "stars": 41425,
         "url": "https://github.com/florinpop17/app-ideas"
     },
     {
@@ -544,14 +544,14 @@
                 "username": "happz"
             }
         ],
-        "currentPeriodStars": 39,
+        "currentPeriodStars": 40,
         "description": "Python Crypto Bot",
         "forks": 208,
         "fullname": "whittlem/pycryptobot",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "pycryptobot",
-        "stars": 515,
+        "stars": 524,
         "url": "https://github.com/whittlem/pycryptobot"
     },
     {
@@ -584,14 +584,14 @@
                 "username": "mstuttgart"
             }
         ],
-        "currentPeriodStars": 329,
+        "currentPeriodStars": 295,
         "description": "\ud83e\udd13 Build your own (insert technology here)",
         "forks": 9704,
         "fullname": "danistefanovic/build-your-own-x",
         "language": null,
         "languageColor": null,
         "name": "build-your-own-x",
-        "stars": 109471,
+        "stars": 109489,
         "url": "https://github.com/danistefanovic/build-your-own-x"
     },
     {
@@ -624,14 +624,14 @@
                 "username": "krishahn"
             }
         ],
-        "currentPeriodStars": 85,
+        "currentPeriodStars": 108,
         "description": "The OpenAPI Specification Repository",
         "forks": 7490,
         "fullname": "OAI/OpenAPI-Specification",
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "OpenAPI-Specification",
-        "stars": 21012,
+        "stars": 21027,
         "url": "https://github.com/OAI/OpenAPI-Specification"
     },
     {
@@ -644,14 +644,14 @@
                 "username": "Air14"
             }
         ],
-        "currentPeriodStars": 50,
+        "currentPeriodStars": 59,
         "description": "Hypervisor based anti anti debug plugin for x64dbg",
         "forks": 33,
         "fullname": "Air14/HyperHide",
         "language": "C++",
         "languageColor": "#f34b7d",
         "name": "HyperHide",
-        "stars": 162,
+        "stars": 168,
         "url": "https://github.com/Air14/HyperHide"
     },
     {
@@ -664,14 +664,14 @@
                 "username": "Charmve"
             }
         ],
-        "currentPeriodStars": 157,
+        "currentPeriodStars": 163,
         "description": "\u300a\u8ba1\u7b97\u673a\u89c6\u89c9\u5b9e\u6218\u6f14\u7ec3\uff1a\u7b97\u6cd5\u4e0e\u5e94\u7528\u300b\u4e2d\u6587\u7535\u5b50\u4e66\u3001\u6e90\u7801\u3001\u8bfb\u8005\u4ea4\u6d41\u793e\u533a\uff08\u66f4\u65b0\u4e2d\uff0c\u53ef\u4ee5\u5148 star\uff09",
         "forks": 89,
         "fullname": "Charmve/computer-vision-in-action",
         "language": "Jupyter Notebook",
         "languageColor": "#DA5B0B",
         "name": "computer-vision-in-action",
-        "stars": 771,
+        "stars": 773,
         "url": "https://github.com/Charmve/computer-vision-in-action"
     },
     {
@@ -686,12 +686,12 @@
         ],
         "currentPeriodStars": 44,
         "description": null,
-        "forks": 51,
+        "forks": 53,
         "fullname": "wuzhi04/MyActions",
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "MyActions",
-        "stars": 64,
+        "stars": 69,
         "url": "https://github.com/wuzhi04/MyActions"
     },
     {
@@ -724,14 +724,14 @@
                 "username": "mrry"
             }
         ],
-        "currentPeriodStars": 136,
+        "currentPeriodStars": 120,
         "description": "An Open Source Machine Learning Framework for Everyone",
         "forks": 84909,
         "fullname": "tensorflow/tensorflow",
         "language": "C++",
         "languageColor": "#f34b7d",
         "name": "tensorflow",
-        "stars": 156615,
+        "stars": 156620,
         "url": "https://github.com/tensorflow/tensorflow"
     },
     {
@@ -764,14 +764,14 @@
                 "username": "chensun"
             }
         ],
-        "currentPeriodStars": 61,
+        "currentPeriodStars": 81,
         "description": "Machine Learning Pipelines for Kubeflow",
         "forks": 966,
         "fullname": "kubeflow/pipelines",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "pipelines",
-        "stars": 2257,
+        "stars": 2272,
         "url": "https://github.com/kubeflow/pipelines"
     },
     {
@@ -804,14 +804,14 @@
                 "username": "dsyer"
             }
         ],
-        "currentPeriodStars": 172,
+        "currentPeriodStars": 164,
         "description": "Spring Boot",
         "forks": 33846,
         "fullname": "spring-projects/spring-boot",
         "language": "Java",
         "languageColor": "#b07219",
         "name": "spring-boot",
-        "stars": 55720,
+        "stars": 55732,
         "url": "https://github.com/spring-projects/spring-boot"
     }
 ]
