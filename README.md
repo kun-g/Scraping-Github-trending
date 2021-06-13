@@ -25,16 +25,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [serenity](https://github.com/SerenityOS/serenity) | The Serenity Operating System 🐞 |
-| [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 The Open Source Airtable alternative. |
-| [educative.io_courses](https://github.com/merry75/educative.io_courses) | this is downloadings of all educative.io free student subscription courses as pdf from GitHub student pack |
 | [faceswap](https://github.com/deepfakes/faceswap) | Deepfakes Software For All |
-| [CS-Notes](https://github.com/CyC2018/CS-Notes) | 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 |
-| [computer-science](https://github.com/ossu/computer-science) | 🎓 Path to a free self-taught education in Computer Science! |
-| [Java](https://github.com/TheAlgorithms/Java) | All Algorithms implemented in Java |
-| [secguide](https://github.com/Tencent/secguide) | 面向开发人员梳理的代码安全指南 |
-| [winget-cli](https://github.com/microsoft/winget-cli) | Windows Package Manager CLI (aka winget) |
-| [bee](https://github.com/ethersphere/bee) | Bee is a Swarm client implemented in Go. It’s the basic building block for the Swarm network: a private; decentralized; censorship-resistant and self-sustaining network for storing your (application) data. |
+| [first-contributions](https://github.com/firstcontributions/first-contributions) | 🚀✨ Help beginners to contribute to open source projects |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [jynew](https://github.com/jynew/jynew) | 金庸群侠传3D重制版 |
+| [folly](https://github.com/facebook/folly) | An open-source C++ library developed and used at Facebook. |
+| [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4) | Example code for HTML, CSS, and Javascript for Web Developers Coursera Course |
+| [decision-transformer](https://github.com/kzl/decision-transformer) | Official codebase for Decision Transformer: Reinforcement Learning via Sequence Modeling. |
+| [Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) | 🦊 I respect proton UI and aim to improve it. |
+| [TDengine](https://github.com/taosdata/TDengine) | An open-source big data platform designed and optimized for the Internet of Things (IoT). |
+| [HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) | A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。 |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
