@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [chia-plotter](https://github.com/madMAx43v3r/chia-plotter) | None |
-| [XUAN-Bike](https://github.com/peng-zhihui/XUAN-Bike) | None |
-| [mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax) | Model parallel transformers in JAX and Haiku |
-| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
-| [playwright](https://github.com/microsoft/playwright) | Node.js library to automate Chromium, Firefox and WebKit with a single API |
 | [The-OldOS-Project](https://github.com/zzanehip/The-OldOS-Project) | Recreating a fully functional version of iOS 4 in SwiftUI. |
-| [naive-ui](https://github.com/TuSimple/naive-ui) | A Vue 3 Component Library. Fairly Complete. Customizable Themes. Uses TypeScript. Not too Slow. |
-| [tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper) | TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc. |
-| [react-18](https://github.com/reactwg/react-18) | Workgroup for React 18 release. |
-| [jd_scripts](https://github.com/chinnkarahoi/jd_scripts) | lxk0301/jd_scripts备份。不要star。不要fork。谢谢配合。 |
+| [Paper](https://github.com/PaperMC/Paper) | High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies |
+| [chia-plotter](https://github.com/madMAx43v3r/chia-plotter) | None |
+| [virtual-environments](https://github.com/actions/virtual-environments) | GitHub Actions virtual environments |
+| [fairseq](https://github.com/pytorch/fairseq) | Facebook AI Research Sequence-to-Sequence Toolkit written in Python. |
+| [starter-workflows](https://github.com/actions/starter-workflows) | Accelerating new GitHub Actions workflows |
+| [--](https://github.com/981011512/--) | 停车场系统源码，停车场小程序，智能停车，Parking system，【功能介绍】：①兼容市面上主流的多家相机，理论上兼容所有硬件，可灵活扩展，②相机识别后数据自动上传到云端并记录，校验相机唯一id和硬件序列号，防止非法数据录入，③用户手机查询停车记录详情可自主缴费(支持微信，支付宝，银行接口支付，支持每个停车场指定不同的商户进行收款)，支付后出场在免费时间内会自动抬杆。④支持app上查询附近停车场(导航，可用车位数，停车场费用，优惠券，评分，评论等)，可预约车位。⑤断电断网支持岗亭人员使用app可接管硬件进行停车记录的录入。 【技术架构】：后端开发语言java，框架oauth2+springboot2+dubble，数据库mysql/mongodb/redis，即时通讯底层框架net… |
+| [alien](https://github.com/chrxh/alien) | alien is a GPU-accelerated artificial life simulation program. |
+| [Applied-Deep-Learning](https://github.com/maziarraissi/Applied-Deep-Learning) | Applied Deep Learning |
+| [QuantumultX](https://github.com/yangtingxiao/QuantumultX) | 脚本，自用 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
