@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [The-OldOS-Project](https://github.com/zzanehip/The-OldOS-Project) | Recreating a fully functional version of iOS 4 in SwiftUI. |
 | [Paper](https://github.com/PaperMC/Paper) | High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies |
+| [graphql-engine](https://github.com/hasura/graphql-engine) | Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events. |
+| [neovim](https://github.com/neovim/neovim) | Vim-fork focused on extensibility and usability |
+| [nd064_course_1](https://github.com/udacity/nd064_course_1) | None |
+| [alpine](https://github.com/alpinejs/alpine) | A rugged, minimal framework for composing JavaScript behavior in your markup. |
 | [chia-plotter](https://github.com/madMAx43v3r/chia-plotter) | None |
-| [virtual-environments](https://github.com/actions/virtual-environments) | GitHub Actions virtual environments |
-| [fairseq](https://github.com/pytorch/fairseq) | Facebook AI Research Sequence-to-Sequence Toolkit written in Python. |
-| [starter-workflows](https://github.com/actions/starter-workflows) | Accelerating new GitHub Actions workflows |
-| [--](https://github.com/981011512/--) | 停车场系统源码，停车场小程序，智能停车，Parking system，【功能介绍】：①兼容市面上主流的多家相机，理论上兼容所有硬件，可灵活扩展，②相机识别后数据自动上传到云端并记录，校验相机唯一id和硬件序列号，防止非法数据录入，③用户手机查询停车记录详情可自主缴费(支持微信，支付宝，银行接口支付，支持每个停车场指定不同的商户进行收款)，支付后出场在免费时间内会自动抬杆。④支持app上查询附近停车场(导航，可用车位数，停车场费用，优惠券，评分，评论等)，可预约车位。⑤断电断网支持岗亭人员使用app可接管硬件进行停车记录的录入。 【技术架构】：后端开发语言java，框架oauth2+springboot2+dubble，数据库mysql/mongodb/redis，即时通讯底层框架net… |
-| [alien](https://github.com/chrxh/alien) | alien is a GPU-accelerated artificial life simulation program. |
-| [Applied-Deep-Learning](https://github.com/maziarraissi/Applied-Deep-Learning) | Applied Deep Learning |
-| [QuantumultX](https://github.com/yangtingxiao/QuantumultX) | 脚本，自用 |
+| [iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world |
+| [The-OldOS-Project](https://github.com/zzanehip/The-OldOS-Project) | Recreating a fully functional version of iOS 4 in SwiftUI. |
+| [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites |
+| [wtv](https://github.com/biancangming/wtv) | 解决电脑、手机看电视直播的苦恼，收集各种直播源，电视直播网站 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
