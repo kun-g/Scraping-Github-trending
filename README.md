@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
+| [bitcoin](https://github.com/bitcoin/bitcoin) | Bitcoin Core integration/staging tree |
 | [Paper](https://github.com/PaperMC/Paper) | High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies |
-| [graphql-engine](https://github.com/hasura/graphql-engine) | Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events. |
+| [jina](https://github.com/jina-ai/jina) | An easier way to build neural search on the cloud |
 | [neovim](https://github.com/neovim/neovim) | Vim-fork focused on extensibility and usability |
-| [nd064_course_1](https://github.com/udacity/nd064_course_1) | None |
-| [alpine](https://github.com/alpinejs/alpine) | A rugged, minimal framework for composing JavaScript behavior in your markup. |
-| [chia-plotter](https://github.com/madMAx43v3r/chia-plotter) | None |
-| [iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world |
-| [The-OldOS-Project](https://github.com/zzanehip/The-OldOS-Project) | Recreating a fully functional version of iOS 4 in SwiftUI. |
-| [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites |
-| [wtv](https://github.com/biancangming/wtv) | 解决电脑、手机看电视直播的苦恼，收集各种直播源，电视直播网站 |
+| [scrcpy](https://github.com/Genymobile/scrcpy) | Display and control your Android device |
+| [jd_scripts](https://github.com/JDHelloWorld/jd_scripts) | None |
+| [jd](https://github.com/star261/jd) | None |
+| [Applied-Deep-Learning](https://github.com/maziarraissi/Applied-Deep-Learning) | Applied Deep Learning |
+| [docs](https://github.com/github/docs) | The open-source repo for docs.github.com |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
