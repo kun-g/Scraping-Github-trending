@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
-| [bitcoin](https://github.com/bitcoin/bitcoin) | Bitcoin Core integration/staging tree |
-| [Paper](https://github.com/PaperMC/Paper) | High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies |
 | [jina](https://github.com/jina-ai/jina) | An easier way to build neural search on the cloud |
-| [neovim](https://github.com/neovim/neovim) | Vim-fork focused on extensibility and usability |
-| [scrcpy](https://github.com/Genymobile/scrcpy) | Display and control your Android device |
-| [jd_scripts](https://github.com/JDHelloWorld/jd_scripts) | None |
-| [jd](https://github.com/star261/jd) | None |
-| [Applied-Deep-Learning](https://github.com/maziarraissi/Applied-Deep-Learning) | Applied Deep Learning |
-| [docs](https://github.com/github/docs) | The open-source repo for docs.github.com |
+| [rich](https://github.com/willmcgugan/rich) | Rich is a Python library for rich text and beautiful formatting in the terminal. |
+| [monyhar-lite](https://github.com/monyhar/monyhar-lite) | 梦弘浏览器 自主研发版本 - 完全自主研发，打破国外垄断，比 Chrome 快 600%。缺少上网功能。 |
+| [books](https://github.com/programthink/books) | 【编程随想】收藏的电子书清单（多个学科，含下载链接） |
+| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
+| [react-use](https://github.com/streamich/react-use) | React Hooks — 👍 |
+| [graphql-engine](https://github.com/hasura/graphql-engine) | Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events. |
+| [Certified-Kubernetes-Security-Specialist](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist) | Curated resources help you prepare for the CNCF/Linux Foundation CKS 2021 "Kubernetes Certified Security Specialist" Certification exam. Please provide feedback or requests by raising issues, or making a pull request. All feedback for improvements are welcome. thank you. |
+| [NvChad](https://github.com/siduck76/NvChad) | beautiful neovim setup configured in lua |
+| [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
