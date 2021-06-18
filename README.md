@@ -9,15 +9,15 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [nushell](https://github.com/nushell/nushell) | A new type of shell |
+| [thanos](https://github.com/thanos-io/thanos) | Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. |
+| [keras](https://github.com/keras-team/keras) | Deep Learning for humans |
+| [next.js](https://github.com/vercel/next.js) | The React Framework |
+| [chromium](https://github.com/chromium/chromium) | The official GitHub mirror of the Chromium source |
 | [fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption) | Libraries and tools to perform fully homomorphic encryption operations on an encrypted data set. |
-| [jd](https://github.com/star261/jd) | None |
-| [Watchy](https://github.com/sqfmi/Watchy) | Watchy - An Open Source E-Ink Smartwatch |
-| [jina](https://github.com/jina-ai/jina) | An easier way to build neural search on the cloud |
-| [tinygrad](https://github.com/geohot/tinygrad) | You like pytorch? You like micrograd? You love tinygrad! ❤️ |
-| [turbo-rails](https://github.com/hotwired/turbo-rails) | Use Turbo in your Ruby on Rails app |
-| [NvChad](https://github.com/siduck76/NvChad) | beautiful neovim setup configured in lua |
-| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
-| [Gooey](https://github.com/chriskiehl/Gooey) | Turn (almost) any Python command line program into a full GUI application with one line |
+| [The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) | This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview questions, and Miscellaneous Stuff (Programming MCQs, Puzzles, Aptitude, Reasoning). The Programming languages used for demonstration are C++, Pytho… |
+| [books](https://github.com/programthink/books) | 【编程随想】收藏的电子书清单（多个学科，含下载链接） |
+| [MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) | Collection of malware source code for a variety of platforms in an array of different programming languages. |
 | [monyhar-lite](https://github.com/monyhar/monyhar-lite) | 梦弘浏览器 自主研发版本 - 完全自主研发，打破国外垄断，比 Chrome 快 600%。缺少上网功能。 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
