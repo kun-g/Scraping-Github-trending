@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [nushell](https://github.com/nushell/nushell) | A new type of shell |
-| [thanos](https://github.com/thanos-io/thanos) | Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. |
-| [keras](https://github.com/keras-team/keras) | Deep Learning for humans |
-| [next.js](https://github.com/vercel/next.js) | The React Framework |
-| [chromium](https://github.com/chromium/chromium) | The official GitHub mirror of the Chromium source |
-| [fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption) | Libraries and tools to perform fully homomorphic encryption operations on an encrypted data set. |
-| [The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) | This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview questions, and Miscellaneous Stuff (Programming MCQs, Puzzles, Aptitude, Reasoning). The Programming languages used for demonstration are C++, Pytho… |
-| [books](https://github.com/programthink/books) | 【编程随想】收藏的电子书清单（多个学科，含下载链接） |
+| [zhao](https://github.com/programthink/zhao) | 【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵 |
+| [easegress](https://github.com/megaease/easegress) | A Cloud Native traffic orchestration system |
+| [Psyduck](https://github.com/SmartKeyerror/Psyduck) | Record CS knowlegement with XMind, version 2.0. 使用 XMind 记录 Linux 操作系统，网络，C++，Golang 以及数据库的一些设计 |
+| [modern-unix](https://github.com/ibraheemdev/modern-unix) | A collection of modern/faster/saner alternatives to common unix commands. |
 | [MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) | Collection of malware source code for a variety of platforms in an array of different programming languages. |
-| [monyhar-lite](https://github.com/monyhar/monyhar-lite) | 梦弘浏览器 自主研发版本 - 完全自主研发，打破国外垄断，比 Chrome 快 600%。缺少上网功能。 |
+| [tinygrad](https://github.com/geohot/tinygrad) | You like pytorch? You like micrograd? You love tinygrad! ❤️ |
+| [utopia](https://github.com/concrete-utopia/utopia) | Design ❤️ Code |
+| [rustdesk](https://github.com/rustdesk/rustdesk) | Yet another remote desktop software |
+| [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) | 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace. |
+| [The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) | This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview questions, and Miscellaneous Stuff (Programming MCQs, Puzzles, Aptitude, Reasoning). The Programming languages used for demonstration are C++, Pytho… |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
