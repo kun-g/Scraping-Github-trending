@@ -25,16 +25,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [faceswap](https://github.com/deepfakes/faceswap) | Deepfakes Software For All |
-| [first-contributions](https://github.com/firstcontributions/first-contributions) | 🚀✨ Help beginners to contribute to open source projects |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [jynew](https://github.com/jynew/jynew) | 金庸群侠传3D重制版 |
-| [folly](https://github.com/facebook/folly) | An open-source C++ library developed and used at Facebook. |
-| [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4) | Example code for HTML, CSS, and Javascript for Web Developers Coursera Course |
-| [decision-transformer](https://github.com/kzl/decision-transformer) | Official codebase for Decision Transformer: Reinforcement Learning via Sequence Modeling. |
-| [Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) | 🦊 I respect proton UI and aim to improve it. |
-| [TDengine](https://github.com/taosdata/TDengine) | An open-source big data platform designed and optimized for the Internet of Things (IoT). |
-| [HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) | A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。 |
+| [zhao](https://github.com/programthink/zhao) | 【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵 |
+| [Paper](https://github.com/PaperMC/Paper) | High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies |
+| [tinygrad](https://github.com/geohot/tinygrad) | You like pytorch? You like micrograd? You love tinygrad! ❤️ |
+| [pyWhat](https://github.com/bee-san/pyWhat) | 🐸 Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️ |
+| [chia-plotter](https://github.com/madMAx43v3r/chia-plotter) | None |
+| [rich](https://github.com/willmcgugan/rich) | Rich is a Python library for rich text and beautiful formatting in the terminal. |
+| [playwright](https://github.com/microsoft/playwright) | Node.js library to automate Chromium, Firefox and WebKit with a single API |
+| [keras](https://github.com/keras-team/keras) | Deep Learning for humans |
+| [d3](https://github.com/d3/d3) | Bring data to life with SVG, Canvas and HTML. 📊📈🎉 |
+| [pycryptobot](https://github.com/whittlem/pycryptobot) | Python Crypto Bot |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
