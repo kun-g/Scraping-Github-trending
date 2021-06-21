@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [AugLy](https://github.com/facebookresearch/AugLy) | A data augmentations library for audio, image, text, and video. |
 | [zhao](https://github.com/programthink/zhao) | 【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵 |
-| [easegress](https://github.com/megaease/easegress) | A Cloud Native traffic orchestration system |
-| [keras](https://github.com/keras-team/keras) | Deep Learning for humans |
-| [modern-unix](https://github.com/ibraheemdev/modern-unix) | A collection of modern/faster/saner alternatives to common unix commands. |
-| [tailwindcss](https://github.com/tailwindlabs/tailwindcss) | A utility-first CSS framework for rapid UI development. |
+| [The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) | This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview questions, and Miscellaneous Stuff (Programming MCQs, Puzzles, Aptitude, Reasoning). The Programming languages used for demonstration are C++, Pytho… |
+| [sodium-fabric](https://github.com/CaffeineMC/sodium-fabric) | A Fabric mod designed to improve frame rates and reduce micro-stutter |
 | [n8n](https://github.com/n8n-io/n8n) | Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services. |
-| [harvester](https://github.com/harvester/harvester) | Open source hyperconverged infrastructure (HCI) software |
+| [AugLy](https://github.com/facebookresearch/AugLy) | A data augmentations library for audio, image, text, and video. |
+| [MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) | Collection of malware source code for a variety of platforms in an array of different programming languages. |
+| [Flutter-Responsive-Admin-Panel-or-Dashboard](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard) | Responsive Admin Panel or Dashboard using Flutter |
+| [EssayKiller_V2](https://github.com/EssayKillerBrain/EssayKiller_V2) | 基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化 |
 | [organicmaps](https://github.com/organicmaps/organicmaps) | 🍃 Organic Maps is a better fork of MAPS.ME, an Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced OpenStreetMap data and curated with love by MAPS.ME founders. No ads, no tracking, no data collection, no crapware. |
-| [longhorn](https://github.com/longhorn/longhorn) | Cloud-Native distributed block storage built on and for Kubernetes |
+| [rustdesk](https://github.com/rustdesk/rustdesk) | Yet another remote desktop software |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
