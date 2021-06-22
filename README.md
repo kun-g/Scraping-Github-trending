@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [zhao](https://github.com/programthink/zhao) | 【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵 |
 | [The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) | This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview questions, and Miscellaneous Stuff (Programming MCQs, Puzzles, Aptitude, Reasoning). The Programming languages used for demonstration are C++, Pytho… |
-| [sodium-fabric](https://github.com/CaffeineMC/sodium-fabric) | A Fabric mod designed to improve frame rates and reduce micro-stutter |
 | [n8n](https://github.com/n8n-io/n8n) | Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services. |
-| [AugLy](https://github.com/facebookresearch/AugLy) | A data augmentations library for audio, image, text, and video. |
+| [DouZero](https://github.com/kwai/DouZero) | [ICML 2021] DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning | 斗地主AI |
 | [MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) | Collection of malware source code for a variety of platforms in an array of different programming languages. |
+| [zhao](https://github.com/programthink/zhao) | 【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵 |
+| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+| [v2ray-core](https://github.com/v2fly/v2ray-core) | A platform for building proxies to bypass network restrictions. |
 | [Flutter-Responsive-Admin-Panel-or-Dashboard](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard) | Responsive Admin Panel or Dashboard using Flutter |
-| [EssayKiller_V2](https://github.com/EssayKillerBrain/EssayKiller_V2) | 基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化 |
-| [organicmaps](https://github.com/organicmaps/organicmaps) | 🍃 Organic Maps is a better fork of MAPS.ME, an Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced OpenStreetMap data and curated with love by MAPS.ME founders. No ads, no tracking, no data collection, no crapware. |
-| [rustdesk](https://github.com/rustdesk/rustdesk) | Yet another remote desktop software |
+| [Marlin](https://github.com/MarlinFirmware/Marlin) | Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine. |
+| [pyprobml](https://github.com/probml/pyprobml) | Python code for "Machine learning: a probabilistic perspective" (2nd edition) |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
