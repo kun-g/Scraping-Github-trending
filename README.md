@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [nlw6-discover](https://github.com/rocketseat-education/nlw6-discover) | None |
 | [plow](https://github.com/six-ddc/plow) | A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying |
+| [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond. |
 | [n8n](https://github.com/n8n-io/n8n) | Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services. |
-| [slides](https://github.com/maaslalani/slides) | Terminal based presentation tool |
-| [DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) | DeFi Developer Road Map. Feel free to submit a pull request, with anything from small fixes to translations, docs or tools you'd like to add. |
-| [pytorch-image-models](https://github.com/rwightman/pytorch-image-models) | PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more |
-| [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
 | [PaddleClas](https://github.com/PaddlePaddle/PaddleClas) | A treasure chest for visual recognition powered by PaddlePaddle |
-| [Reddit_Sentiment_Trader](https://github.com/tstewart161/Reddit_Sentiment_Trader) | None |
-| [AugLy](https://github.com/facebookresearch/AugLy) | A data augmentations library for audio, image, text, and video. |
-| [self-taught-guide-to-cloud-computing](https://github.com/madebygps/self-taught-guide-to-cloud-computing) | My self taught guide to cloud computing. |
+| [fmt](https://github.com/fmtlib/fmt) | A modern formatting library |
+| [rhizome](https://github.com/chrisseaton/rhizome) | A JIT for Ruby, implemented in pure Ruby |
+| [FlutterUnit](https://github.com/toly1994328/FlutterUnit) | 【Flutter 集录指南 App】The unity of flutter, The unity of coder. |
+| [GANTheftAuto](https://github.com/Sentdex/GANTheftAuto) | None |
+| [Kats](https://github.com/facebookresearch/Kats) | Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics, detecting change points and anomalies, to forecasting future trends. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
