@@ -36,7 +36,7 @@
         "language": "Scala",
         "languageColor": "#c22d40",
         "name": "XiangShan",
-        "stars": 641,
+        "stars": 660,
         "url": "https://github.com/OpenXiangShan/XiangShan"
     },
     {
@@ -59,24 +59,24 @@
                 "username": "ekinbarut"
             },
             {
+                "avatar": "https://avatars.githubusercontent.com/u/5855893",
+                "href": "https://github.com/lukeed",
+                "username": "lukeed"
+            },
+            {
                 "avatar": "https://avatars.githubusercontent.com/u/62714153",
                 "href": "https://github.com/TiagoCavalcanteTrindade",
                 "username": "TiagoCavalcanteTrindade"
-            },
-            {
-                "avatar": "https://avatars.githubusercontent.com/u/22250668",
-                "href": "https://github.com/alexcpatel",
-                "username": "alexcpatel"
             }
         ],
-        "currentPeriodStars": 142,
+        "currentPeriodStars": 315,
         "description": "A small and fast programming language.",
-        "forks": 38,
+        "forks": 40,
         "fullname": "ThakeeNathees/pocketlang",
         "language": "C",
         "languageColor": "#555555",
         "name": "pocketlang",
-        "stars": 842,
+        "stars": 868,
         "url": "https://github.com/ThakeeNathees/pocketlang"
     },
     {
@@ -89,14 +89,14 @@
                 "username": "diego3g"
             }
         ],
-        "currentPeriodStars": 30,
+        "currentPeriodStars": 33,
         "description": "Projeto desenvolvido na miss\u00e3o ReactJS no NLW #06",
-        "forks": 15,
+        "forks": 19,
         "fullname": "rocketseat-education/nlw-06-reactjs",
         "language": "TypeScript",
         "languageColor": "#2b7489",
         "name": "nlw-06-reactjs",
-        "stars": 53,
+        "stars": 67,
         "url": "https://github.com/rocketseat-education/nlw-06-reactjs"
     },
     {
@@ -119,14 +119,14 @@
                 "username": "mfkp"
             }
         ],
-        "currentPeriodStars": 26,
+        "currentPeriodStars": 123,
         "description": "Open source video conferencing system for tutors.",
         "forks": 72,
         "fullname": "fmeringdal/nettu-meet",
         "language": "TypeScript",
         "languageColor": "#2b7489",
         "name": "nettu-meet",
-        "stars": 1149,
+        "stars": 1164,
         "url": "https://github.com/fmeringdal/nettu-meet"
     },
     {
@@ -159,14 +159,14 @@
                 "username": "markweberdev"
             }
         ],
-        "currentPeriodStars": 45,
+        "currentPeriodStars": 83,
         "description": "DeepLab2 is a TensorFlow library for deep labeling, aiming to provide a unified and state-of-the-art TensorFlow codebase for dense pixel labeling tasks.",
         "forks": 22,
         "fullname": "google-research/deeplab2",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "deeplab2",
-        "stars": 248,
+        "stars": 256,
         "url": "https://github.com/google-research/deeplab2"
     },
     {
@@ -194,19 +194,19 @@
                 "username": "meowgorithm"
             },
             {
-                "avatar": "https://avatars.githubusercontent.com/u/43713967",
-                "href": "https://github.com/paranlee",
-                "username": "paranlee"
+                "avatar": "https://avatars.githubusercontent.com/u/116473",
+                "href": "https://github.com/suzaku",
+                "username": "suzaku"
             }
         ],
-        "currentPeriodStars": 354,
+        "currentPeriodStars": 356,
         "description": "Terminal based presentation tool",
         "forks": 88,
         "fullname": "maaslalani/slides",
         "language": "Go",
         "languageColor": "#00ADD8",
         "name": "slides",
-        "stars": 3753,
+        "stars": 3769,
         "url": "https://github.com/maaslalani/slides"
     },
     {
@@ -239,14 +239,14 @@
                 "username": "donghoon-song"
             }
         ],
-        "currentPeriodStars": 310,
+        "currentPeriodStars": 433,
         "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
-        "forks": 3625,
+        "forks": 3628,
         "fullname": "microsoft/Web-Dev-For-Beginners",
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "Web-Dev-For-Beginners",
-        "stars": 26042,
+        "stars": 26083,
         "url": "https://github.com/microsoft/Web-Dev-For-Beginners"
     },
     {
@@ -279,14 +279,14 @@
                 "username": "kadmil"
             }
         ],
-        "currentPeriodStars": 491,
+        "currentPeriodStars": 353,
         "description": "DeFi Developer Road Map. Feel free to submit a pull request, with anything from small fixes to translations, docs or tools you'd like to add.",
-        "forks": 65,
+        "forks": 66,
         "fullname": "OffcierCia/DeFi-Developer-Road-Map",
         "language": null,
         "languageColor": null,
         "name": "DeFi-Developer-Road-Map",
-        "stars": 1279,
+        "stars": 1298,
         "url": "https://github.com/OffcierCia/DeFi-Developer-Road-Map"
     },
     {
@@ -307,16 +307,21 @@
                 "avatar": "https://avatars.githubusercontent.com/u/24373601",
                 "href": "https://github.com/musinit",
                 "username": "musinit"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2841254",
+                "href": "https://github.com/wweir",
+                "username": "wweir"
             }
         ],
-        "currentPeriodStars": 604,
+        "currentPeriodStars": 321,
         "description": "A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying",
         "forks": 55,
         "fullname": "six-ddc/plow",
         "language": "Go",
         "languageColor": "#00ADD8",
         "name": "plow",
-        "stars": 1903,
+        "stars": 1918,
         "url": "https://github.com/six-ddc/plow"
     },
     {
@@ -349,14 +354,14 @@
                 "username": "ahmetburhanfb"
             }
         ],
-        "currentPeriodStars": 335,
+        "currentPeriodStars": 270,
         "description": "Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics, detecting change points and anomalies, to forecasting future trends.",
-        "forks": 71,
+        "forks": 74,
         "fullname": "facebookresearch/Kats",
         "language": "Jupyter Notebook",
         "languageColor": "#DA5B0B",
         "name": "Kats",
-        "stars": 1457,
+        "stars": 1473,
         "url": "https://github.com/facebookresearch/Kats"
     },
     {
@@ -389,14 +394,14 @@
                 "username": "cuicheng01"
             }
         ],
-        "currentPeriodStars": 303,
+        "currentPeriodStars": 304,
         "description": "A treasure chest for visual recognition powered by PaddlePaddle",
-        "forks": 384,
+        "forks": 387,
         "fullname": "PaddlePaddle/PaddleClas",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "PaddleClas",
-        "stars": 1823,
+        "stars": 1838,
         "url": "https://github.com/PaddlePaddle/PaddleClas"
     },
     {
@@ -429,14 +434,14 @@
                 "username": "kiankw"
             }
         ],
-        "currentPeriodStars": 165,
+        "currentPeriodStars": 170,
         "description": "\u5237\u7b97\u6cd5\u5168\u9760\u5957\u8def\uff0c\u8ba4\u51c6 labuladong \u5c31\u591f\u4e86\uff01English version supported! Crack LeetCode, not only how, but also why.",
         "forks": 17903,
         "fullname": "labuladong/fucking-algorithm",
         "language": null,
         "languageColor": null,
         "name": "fucking-algorithm",
-        "stars": 91729,
+        "stars": 91742,
         "url": "https://github.com/labuladong/fucking-algorithm"
     },
     {
@@ -449,19 +454,24 @@
                 "username": "dfeneyrou"
             },
             {
+                "avatar": "https://avatars.githubusercontent.com/u/610685",
+                "href": "https://github.com/learn-more",
+                "username": "learn-more"
+            },
+            {
                 "avatar": "https://avatars.githubusercontent.com/u/953003",
                 "href": "https://github.com/bareya",
                 "username": "bareya"
             }
         ],
-        "currentPeriodStars": 241,
+        "currentPeriodStars": 256,
         "description": "High performance visual profiler, debugger, tests enabler for C++ and Python",
         "forks": 19,
         "fullname": "dfeneyrou/palanteer",
         "language": "C++",
         "languageColor": "#f34b7d",
         "name": "palanteer",
-        "stars": 685,
+        "stars": 697,
         "url": "https://github.com/dfeneyrou/palanteer"
     },
     {
@@ -474,14 +484,14 @@
                 "username": "danileao"
             }
         ],
-        "currentPeriodStars": 27,
+        "currentPeriodStars": 39,
         "description": null,
         "forks": 42,
         "fullname": "rocketseat-education/nlw-06-nodejs",
         "language": "TypeScript",
         "languageColor": "#2b7489",
         "name": "nlw-06-nodejs",
-        "stars": 102,
+        "stars": 104,
         "url": "https://github.com/rocketseat-education/nlw-06-nodejs"
     },
     {
@@ -514,14 +524,14 @@
                 "username": "dalecgu"
             }
         ],
-        "currentPeriodStars": 192,
+        "currentPeriodStars": 271,
         "description": "\u7a0b\u5e8f\u5458\u5e94\u8be5\u8bbf\u95ee\u7684\u6700\u4f73\u7f51\u7ad9\u4e2d\u6587\u7248",
-        "forks": 909,
+        "forks": 911,
         "fullname": "tuteng/Best-websites-a-programmer-should-visit-zh",
         "language": null,
         "languageColor": null,
         "name": "Best-websites-a-programmer-should-visit-zh",
-        "stars": 6154,
+        "stars": 6166,
         "url": "https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh"
     },
     {
@@ -539,14 +549,14 @@
                 "username": "cuno92"
             }
         ],
-        "currentPeriodStars": 128,
+        "currentPeriodStars": 119,
         "description": "\ud83d\udd78 Yet Another .NET Clean Architecture, but for Microservices project. It uses Minimal Clean Architecture with DDD-lite, CQRS-lite, and just enough Cloud-native patterns apply on the simple eCommerce sample and run on Tye with Dapr extension \ud83c\udf7b",
-        "forks": 70,
+        "forks": 71,
         "fullname": "thangchung/clean-architecture-dotnet",
         "language": "C#",
         "languageColor": "#178600",
         "name": "clean-architecture-dotnet",
-        "stars": 366,
+        "stars": 377,
         "url": "https://github.com/thangchung/clean-architecture-dotnet"
     },
     {
@@ -579,14 +589,14 @@
                 "username": "kriadmin"
             }
         ],
-        "currentPeriodStars": 71,
+        "currentPeriodStars": 288,
         "description": "Short JavaScript code snippets for all your development needs",
-        "forks": 8423,
+        "forks": 8425,
         "fullname": "30-seconds/30-seconds-of-code",
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "30-seconds-of-code",
-        "stars": 77841,
+        "stars": 77873,
         "url": "https://github.com/30-seconds/30-seconds-of-code"
     },
     {
@@ -604,14 +614,14 @@
                 "username": "plainqin"
             }
         ],
-        "currentPeriodStars": 27,
+        "currentPeriodStars": 45,
         "description": null,
-        "forks": 318,
+        "forks": 319,
         "fullname": "ninechapter-algorithm/linghu-algorithm-templete",
         "language": null,
         "languageColor": null,
         "name": "linghu-algorithm-templete",
-        "stars": 1057,
+        "stars": 1063,
         "url": "https://github.com/ninechapter-algorithm/linghu-algorithm-templete"
     },
     {
@@ -644,14 +654,14 @@
                 "username": "DerFeldspatz"
             }
         ],
-        "currentPeriodStars": 34,
+        "currentPeriodStars": 40,
         "description": "shapez.io is an open source base building game inspired by factorio! Available on web & steam",
         "forks": 836,
         "fullname": "tobspr/shapez.io",
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "shapez.io",
-        "stars": 3780,
+        "stars": 3792,
         "url": "https://github.com/tobspr/shapez.io"
     },
     {
@@ -684,14 +694,14 @@
                 "username": "srinivasreddy"
             }
         ],
-        "currentPeriodStars": 195,
+        "currentPeriodStars": 264,
         "description": "\ud83d\udd17 Some useful websites for programmers.",
-        "forks": 5112,
+        "forks": 5113,
         "fullname": "sdmg15/Best-websites-a-programmer-should-visit",
         "language": null,
         "languageColor": null,
         "name": "Best-websites-a-programmer-should-visit",
-        "stars": 40869,
+        "stars": 40887,
         "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit"
     },
     {
@@ -709,14 +719,14 @@
                 "username": "PiranhaHunter"
             }
         ],
-        "currentPeriodStars": 90,
+        "currentPeriodStars": 94,
         "description": "Clone of Whatsapp Web's current UI.",
         "forks": 80,
         "fullname": "KarenOk/whatsapp-web-clone",
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "whatsapp-web-clone",
-        "stars": 389,
+        "stars": 393,
         "url": "https://github.com/KarenOk/whatsapp-web-clone"
     },
     {
@@ -749,14 +759,14 @@
                 "username": "HansMuller"
             }
         ],
-        "currentPeriodStars": 161,
+        "currentPeriodStars": 173,
         "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
-        "forks": 17672,
+        "forks": 17673,
         "fullname": "flutter/flutter",
         "language": "Dart",
         "languageColor": "#00B4AB",
         "name": "flutter",
-        "stars": 123196,
+        "stars": 123219,
         "url": "https://github.com/flutter/flutter"
     },
     {
@@ -791,12 +801,12 @@
         ],
         "currentPeriodStars": 115,
         "description": "\ud83d\udcda \u6280\u672f\u9762\u8bd5\u5fc5\u5907\u57fa\u7840\u77e5\u8bc6\u3001Leetcode\u3001\u8ba1\u7b97\u673a\u64cd\u4f5c\u7cfb\u7edf\u3001\u8ba1\u7b97\u673a\u7f51\u7edc\u3001\u7cfb\u7edf\u8bbe\u8ba1",
-        "forks": 42816,
+        "forks": 42817,
         "fullname": "CyC2018/CS-Notes",
         "language": "Java",
         "languageColor": "#b07219",
         "name": "CS-Notes",
-        "stars": 133294,
+        "stars": 133297,
         "url": "https://github.com/CyC2018/CS-Notes"
     },
     {
@@ -814,14 +824,14 @@
                 "username": "dingjianjaja"
             }
         ],
-        "currentPeriodStars": 52,
+        "currentPeriodStars": 94,
         "description": "\u3010Flutter \u96c6\u5f55\u6307\u5357 App\u3011The unity of flutter, The unity of coder.",
         "forks": 519,
         "fullname": "toly1994328/FlutterUnit",
         "language": "Dart",
         "languageColor": "#00B4AB",
         "name": "FlutterUnit",
-        "stars": 3597,
+        "stars": 3600,
         "url": "https://github.com/toly1994328/FlutterUnit"
     },
     {
@@ -839,14 +849,14 @@
                 "username": "emrysal"
             },
             {
-                "avatar": "https://avatars.githubusercontent.com/u/5464426",
-                "href": "https://github.com/Malte-D",
-                "username": "Malte-D"
-            },
-            {
                 "avatar": "https://avatars.githubusercontent.com/u/8019099",
                 "href": "https://github.com/PeerRich",
                 "username": "PeerRich"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5464426",
+                "href": "https://github.com/Malte-D",
+                "username": "Malte-D"
             },
             {
                 "avatar": "https://avatars.githubusercontent.com/u/6784953",
@@ -854,14 +864,14 @@
                 "username": "femyeda"
             }
         ],
-        "currentPeriodStars": 150,
+        "currentPeriodStars": 168,
         "description": "The open-source Calendly alternative.",
         "forks": 392,
         "fullname": "calendso/calendso",
         "language": "TypeScript",
         "languageColor": "#2b7489",
         "name": "calendso",
-        "stars": 5218,
+        "stars": 5234,
         "url": "https://github.com/calendso/calendso"
     }
 ]
