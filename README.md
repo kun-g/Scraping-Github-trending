@@ -9,15 +9,15 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [nlw6-discover](https://github.com/rocketseat-education/nlw6-discover) | None |
+| [XiangShan](https://github.com/OpenXiangShan/XiangShan) | Open-source high-performance RISC-V processor |
+| [pocketlang](https://github.com/ThakeeNathees/pocketlang) | A small and fast programming language. |
+| [nlw-06-reactjs](https://github.com/rocketseat-education/nlw-06-reactjs) | Projeto desenvolvido na missão ReactJS no NLW #06 |
+| [nettu-meet](https://github.com/fmeringdal/nettu-meet) | Open source video conferencing system for tutors. |
+| [deeplab2](https://github.com/google-research/deeplab2) | DeepLab2 is a TensorFlow library for deep labeling, aiming to provide a unified and state-of-the-art TensorFlow codebase for dense pixel labeling tasks. |
+| [slides](https://github.com/maaslalani/slides) | Terminal based presentation tool |
+| [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
+| [DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) | DeFi Developer Road Map. Feel free to submit a pull request, with anything from small fixes to translations, docs or tools you'd like to add. |
 | [plow](https://github.com/six-ddc/plow) | A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying |
-| [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond. |
-| [n8n](https://github.com/n8n-io/n8n) | Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services. |
-| [PaddleClas](https://github.com/PaddlePaddle/PaddleClas) | A treasure chest for visual recognition powered by PaddlePaddle |
-| [fmt](https://github.com/fmtlib/fmt) | A modern formatting library |
-| [rhizome](https://github.com/chrisseaton/rhizome) | A JIT for Ruby, implemented in pure Ruby |
-| [FlutterUnit](https://github.com/toly1994328/FlutterUnit) | 【Flutter 集录指南 App】The unity of flutter, The unity of coder. |
-| [GANTheftAuto](https://github.com/Sentdex/GANTheftAuto) | None |
 | [Kats](https://github.com/facebookresearch/Kats) | Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics, detecting change points and anomalies, to forecasting future trends. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
