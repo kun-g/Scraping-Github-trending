@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [XiangShan](https://github.com/OpenXiangShan/XiangShan) | Open-source high-performance RISC-V processor |
-| [pocketlang](https://github.com/ThakeeNathees/pocketlang) | A small and fast programming language. |
-| [nlw-06-reactjs](https://github.com/rocketseat-education/nlw-06-reactjs) | Projeto desenvolvido na missão ReactJS no NLW #06 |
-| [nettu-meet](https://github.com/fmeringdal/nettu-meet) | Open source video conferencing system for tutors. |
-| [deeplab2](https://github.com/google-research/deeplab2) | DeepLab2 is a TensorFlow library for deep labeling, aiming to provide a unified and state-of-the-art TensorFlow codebase for dense pixel labeling tasks. |
-| [slides](https://github.com/maaslalani/slides) | Terminal based presentation tool |
+| [node-ytdl-core](https://github.com/fent/node-ytdl-core) | YouTube video downloader in javascript. |
+| [ml-interviews-book](https://github.com/chiphuyen/ml-interviews-book) | https://huyenchip.com/ml-interviews-book/ |
+| [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) | 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why. |
+| [clean-architecture-dotnet](https://github.com/thangchung/clean-architecture-dotnet) | 🕸 Yet Another .NET Clean Architecture, but for Microservices project. It uses Minimal Clean Architecture with DDD-lite, CQRS-lite, and just enough Cloud-native patterns apply on the simple eCommerce sample and run on Tye with Dapr extension 🍻 |
+| [solana](https://github.com/solana-labs/solana) | Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces. |
+| [ghidra](https://github.com/NationalSecurityAgency/ghidra) | Ghidra is a software reverse engineering (SRE) framework |
+| [lens](https://github.com/lensapp/lens) | Lens - The Kubernetes IDE |
+| [alias-free-gan](https://github.com/NVlabs/alias-free-gan) | Alias-Free GAN project website and code |
 | [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
-| [DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) | DeFi Developer Road Map. Feel free to submit a pull request, with anything from small fixes to translations, docs or tools you'd like to add. |
-| [plow](https://github.com/six-ddc/plow) | A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying |
-| [Kats](https://github.com/facebookresearch/Kats) | Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics, detecting change points and anomalies, to forecasting future trends. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
