@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [free](https://github.com/freefq/free) | 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/ssr/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子 |
-| [devops-exercises](https://github.com/bregman-arie/devops-exercises) | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions |
-| [WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) | Detection Script to help identify why your PC isn't Windows 11 Release Ready |
 | [re3](https://github.com/GTAmodding/re3) | GTA III, Vice City |
-| [devilutionX](https://github.com/diasurgical/devilutionX) | Diablo build for modern operating systems |
-| [bsnes](https://github.com/bsnes-emu/bsnes) | bsnes is a Super Nintendo (SNES) emulator focused on performance, features, and ease of use. |
-| [Digital-Privacy](https://github.com/ffffffff0x/Digital-Privacy) | 一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗 |
-| [signoz](https://github.com/SigNoz/signoz) | SigNoz helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥 |
-| [PaddleX](https://github.com/PaddlePaddle/PaddleX) | PaddlePaddle End-to-End Development Toolkit（『飞桨』深度学习全流程开发工具） |
-| [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | The Patterns of Scalable, Reliable, and Performant Large-Scale Systems |
+| [jina](https://github.com/jina-ai/jina) | Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data |
+| [kotlin](https://github.com/JetBrains/kotlin) | The Kotlin Programming Language. |
+| [free](https://github.com/freefq/free) | 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/ssr/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子 |
+| [prisma](https://github.com/prisma/prisma) | Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server & SQLite |
+| [WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) | Detection Script to help identify why your PC isn't Windows 11 Release Ready |
+| [lightseq](https://github.com/bytedance/lightseq) | LightSeq: A High Performance Library for Sequence Processing and Generation |
+| [covidpass](https://github.com/covidpass-org/covidpass) | Web app for adding EU COVID-19 Vaccination Certificates to your wallets |
+| [pi-platform-docs](https://github.com/pi-apps/pi-platform-docs) | None |
+| [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) | 🕸 No-bullshit answers to the famous h5bp "Front-end Job Interview Questions" |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
