@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [re3](https://github.com/GTAmodding/re3) | GTA III, Vice City |
-| [jina](https://github.com/jina-ai/jina) | Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data |
-| [kotlin](https://github.com/JetBrains/kotlin) | The Kotlin Programming Language. |
-| [free](https://github.com/freefq/free) | 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/ssr/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子 |
-| [prisma](https://github.com/prisma/prisma) | Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server & SQLite |
-| [WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) | Detection Script to help identify why your PC isn't Windows 11 Release Ready |
-| [lightseq](https://github.com/bytedance/lightseq) | LightSeq: A High Performance Library for Sequence Processing and Generation |
-| [covidpass](https://github.com/covidpass-org/covidpass) | Web app for adding EU COVID-19 Vaccination Certificates to your wallets |
+| [dawn](https://github.com/Shopify/dawn) | Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in. |
+| [PaddleX](https://github.com/PaddlePaddle/PaddleX) | PaddlePaddle End-to-End Development Toolkit（『飞桨』深度学习全流程开发工具） |
+| [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) | Clone a voice in 5 seconds to generate arbitrary speech in real-time |
+| [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) | The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。 |
+| [software-architecture-books](https://github.com/mhadidg/software-architecture-books) | A comprehensive list of books on Software Architecture. |
+| [protobuf](https://github.com/protocolbuffers/protobuf) | Protocol Buffers - Google's data interchange format |
 | [pi-platform-docs](https://github.com/pi-apps/pi-platform-docs) | None |
-| [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) | 🕸 No-bullshit answers to the famous h5bp "Front-end Job Interview Questions" |
+| [free](https://github.com/freefq/free) | 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/ssr/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子 |
+| [CVE-2020-15368](https://github.com/stong/CVE-2020-15368) | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys |
+| [google-interview-preparation-problems](https://github.com/mgechev/google-interview-preparation-problems) | leetcode problems I solved during my Google interview preparation. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
