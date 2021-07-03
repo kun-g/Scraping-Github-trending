@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [dawn](https://github.com/Shopify/dawn) | Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in. |
-| [PaddleX](https://github.com/PaddlePaddle/PaddleX) | PaddlePaddle End-to-End Development Toolkit（『飞桨』深度学习全流程开发工具） |
 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) | Clone a voice in 5 seconds to generate arbitrary speech in real-time |
-| [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) | The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。 |
-| [software-architecture-books](https://github.com/mhadidg/software-architecture-books) | A comprehensive list of books on Software Architecture. |
+| [CVE-2021-1675](https://github.com/cube0x0/CVE-2021-1675) | C# and Impacket implementation of CVE-2021-1675/PrintNightmare |
 | [protobuf](https://github.com/protocolbuffers/protobuf) | Protocol Buffers - Google's data interchange format |
-| [pi-platform-docs](https://github.com/pi-apps/pi-platform-docs) | None |
-| [free](https://github.com/freefq/free) | 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/ssr/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子 |
-| [CVE-2020-15368](https://github.com/stong/CVE-2020-15368) | How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys |
-| [google-interview-preparation-problems](https://github.com/mgechev/google-interview-preparation-problems) | leetcode problems I solved during my Google interview preparation. |
+| [plutus-pioneer-program](https://github.com/input-output-hk/plutus-pioneer-program) | None |
+| [ppl.nn](https://github.com/openppl-public/ppl.nn) | A primitive library for neural network |
+| [citf-public](https://github.com/CITF-Malaysia/citf-public) | Official data on the National Covid-​19 Immunisation Programme (PICK) in Malaysia. Powered by MySejahtera. |
+| [dawn](https://github.com/Shopify/dawn) | Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in. |
+| [riskscanner](https://github.com/riskscanner/riskscanner) | RiskScanner 是开源的多云安全合规扫描平台，通过 Cloud Custodian 的 YAML DSL 定义扫描规则，实现对主流公(私)有云资源的安全合规扫描及使用优化建议。 |
+| [workshop-graphql-netflix](https://github.com/datastaxdevs/workshop-graphql-netflix) | Workshop to illustrate how to use GraphQL |
+| [piggymetrics](https://github.com/sqshq/piggymetrics) | Microservice Architecture with Spring Boot, Spring Cloud and Docker |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
