@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 24 lessons, classic Machine Learning for all |
 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) | Clone a voice in 5 seconds to generate arbitrary speech in real-time |
-| [CVE-2021-1675](https://github.com/cube0x0/CVE-2021-1675) | C# and Impacket implementation of CVE-2021-1675/PrintNightmare |
-| [protobuf](https://github.com/protocolbuffers/protobuf) | Protocol Buffers - Google's data interchange format |
+| [solid](https://github.com/solidjs/solid) | A declarative, efficient, and flexible JavaScript library for building user interfaces. |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [Fakeflix](https://github.com/Th3Wall/Fakeflix) | Not the usual clone that you can find on the web. |
 | [plutus-pioneer-program](https://github.com/input-output-hk/plutus-pioneer-program) | None |
-| [ppl.nn](https://github.com/openppl-public/ppl.nn) | A primitive library for neural network |
-| [citf-public](https://github.com/CITF-Malaysia/citf-public) | Official data on the National Covid-​19 Immunisation Programme (PICK) in Malaysia. Powered by MySejahtera. |
-| [dawn](https://github.com/Shopify/dawn) | Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in. |
-| [riskscanner](https://github.com/riskscanner/riskscanner) | RiskScanner 是开源的多云安全合规扫描平台，通过 Cloud Custodian 的 YAML DSL 定义扫描规则，实现对主流公(私)有云资源的安全合规扫描及使用优化建议。 |
-| [workshop-graphql-netflix](https://github.com/datastaxdevs/workshop-graphql-netflix) | Workshop to illustrate how to use GraphQL |
-| [piggymetrics](https://github.com/sqshq/piggymetrics) | Microservice Architecture with Spring Boot, Spring Cloud and Docker |
+| [scorecard](https://github.com/ossf/scorecard) | Security Scorecards - Security health metrics for Open Source |
+| [CVE-2021-1675-LPE](https://github.com/hlldz/CVE-2021-1675-LPE) | Local Privilege Escalation Edition for CVE-2021-1675 |
+| [plutus](https://github.com/input-output-hk/plutus) | The Plutus language implementation and tools |
+| [CVE-2021-1675](https://github.com/LaresLLC/CVE-2021-1675) | CVE-2021-1675 Detection Info |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
