@@ -25,16 +25,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [nlw-06-reactjs](https://github.com/rocketseat-education/nlw-06-reactjs) | Projeto desenvolvido na missão ReactJS no NLW #06 |
-| [internet-pi](https://github.com/geerlingguy/internet-pi) | Raspberry Pi config for all things Internet. |
-| [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
-| [XiangShan](https://github.com/OpenXiangShan/XiangShan) | Open-source high-performance RISC-V processor |
-| [ghidra](https://github.com/NationalSecurityAgency/ghidra) | Ghidra is a software reverse engineering (SRE) framework |
-| [nettu-meet](https://github.com/fmeringdal/nettu-meet) | Open source video conferencing system for tutors. |
-| [free](https://github.com/freefq/free) | 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/ssr/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子 |
-| [pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning) | The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate. |
-| [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) | 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why. |
-| [docusaurus](https://github.com/facebook/docusaurus) | Easy to maintain open source documentation websites. |
+| [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 24 lessons, classic Machine Learning for all |
+| [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) | Clone a voice in 5 seconds to generate arbitrary speech in real-time |
+| [solid](https://github.com/solidjs/solid) | A declarative, efficient, and flexible JavaScript library for building user interfaces. |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [Fakeflix](https://github.com/Th3Wall/Fakeflix) | Not the usual clone that you can find on the web. |
+| [plutus-pioneer-program](https://github.com/input-output-hk/plutus-pioneer-program) | None |
+| [scorecard](https://github.com/ossf/scorecard) | Security Scorecards - Security health metrics for Open Source |
+| [CVE-2021-1675-LPE](https://github.com/hlldz/CVE-2021-1675-LPE) | Local Privilege Escalation Edition for CVE-2021-1675 |
+| [plutus](https://github.com/input-output-hk/plutus) | The Plutus language implementation and tools |
+| [CVE-2021-1675](https://github.com/LaresLLC/CVE-2021-1675) | CVE-2021-1675 Detection Info |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
