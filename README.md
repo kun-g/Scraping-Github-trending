@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 24 lessons, classic Machine Learning for all |
-| [petite-vue](https://github.com/vuejs/petite-vue) | 5kb subset of Vue optimized for progressive enhancement |
-| [LunarVim](https://github.com/ChristianChiarulli/LunarVim) | An IDE layer for Neovim with sane defaults. Completely free and community driven. |
+| [mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax) | Model parallel transformers in JAX and Haiku |
+| [Primes](https://github.com/PlummersSoftwareLLC/Primes) | Prime Number Projects in C#/C++/Python |
 | [Fakeflix](https://github.com/Th3Wall/Fakeflix) | Not the usual clone that you can find on the web. |
-| [50projects50days](https://github.com/bradtraversy/50projects50days) | 50+ mini web projects using HTML, CSS & JS |
-| [neovim](https://github.com/neovim/neovim) | Vim-fork focused on extensibility and usability |
 | [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) | Clone a voice in 5 seconds to generate arbitrary speech in real-time |
-| [rtteg](https://github.com/sudofox/rtteg) | gettr reversed |
+| [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 24 lessons, classic Machine Learning for all |
+| [plutus-pioneer-program](https://github.com/input-output-hk/plutus-pioneer-program) | None |
+| [LunarVim](https://github.com/ChristianChiarulli/LunarVim) | An IDE layer for Neovim with sane defaults. Completely free and community driven. |
 | [scorecard](https://github.com/ossf/scorecard) | Security Scorecards - Security health metrics for Open Source |
+| [petite-vue](https://github.com/vuejs/petite-vue) | 5kb subset of Vue optimized for progressive enhancement |
+| [books](https://github.com/programthink/books) | 【编程随想】收藏的电子书清单（多个学科，含下载链接） |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
