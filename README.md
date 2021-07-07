@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax) | Model parallel transformers in JAX and Haiku |
-| [Primes](https://github.com/PlummersSoftwareLLC/Primes) | Prime Number Projects in C#/C++/Python |
-| [Fakeflix](https://github.com/Th3Wall/Fakeflix) | Not the usual clone that you can find on the web. |
 | [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 24 lessons, classic Machine Learning for all |
-| [plutus-pioneer-program](https://github.com/input-output-hk/plutus-pioneer-program) | None |
+| [audacity](https://github.com/audacity/audacity) | Audio Editor |
 | [LunarVim](https://github.com/ChristianChiarulli/LunarVim) | An IDE layer for Neovim with sane defaults. Completely free and community driven. |
-| [scorecard](https://github.com/ossf/scorecard) | Security Scorecards - Security health metrics for Open Source |
+| [tasarim-desenleri-turkce-kaynak](https://github.com/yusufyilmazfr/tasarim-desenleri-turkce-kaynak) | Türkçe kaynağa destek olması amacıyla oluşturulmuş bir kaynaktır. Konu anlatımın yanı sıra C# ve Java gibi birçok dilde tasarım desenlerinin uygulamasını içermektedir. |
+| [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 24 lessons, classic Machine Learning for all |
+| [Fakeflix](https://github.com/Th3Wall/Fakeflix) | Not the usual clone that you can find on the web. |
+| [saleor](https://github.com/mirumee/saleor) | A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React. |
+| [DFIR_Resources_REvil_Kaseya](https://github.com/cado-security/DFIR_Resources_REvil_Kaseya) | Resources for DFIR Professionals Responding to the REvil Ransomware Kaseya Supply Chain Attack |
+| [fastapi](https://github.com/tiangolo/fastapi) | FastAPI framework, high performance, easy to learn, fast to code, ready for production |
 | [petite-vue](https://github.com/vuejs/petite-vue) | 5kb subset of Vue optimized for progressive enhancement |
-| [books](https://github.com/programthink/books) | 【编程随想】收藏的电子书清单（多个学科，含下载链接） |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
