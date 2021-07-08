@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [tenacity](https://github.com/tenacityteam/tenacity) | FLOSS Audacity Fork · No telemetry, crash reports and other shenanigans like that! |
 | [audacity](https://github.com/audacity/audacity) | Audio Editor |
-| [LunarVim](https://github.com/ChristianChiarulli/LunarVim) | An IDE layer for Neovim with sane defaults. Completely free and community driven. |
-| [tasarim-desenleri-turkce-kaynak](https://github.com/yusufyilmazfr/tasarim-desenleri-turkce-kaynak) | Türkçe kaynağa destek olması amacıyla oluşturulmuş bir kaynaktır. Konu anlatımın yanı sıra C# ve Java gibi birçok dilde tasarım desenlerinin uygulamasını içermektedir. |
-| [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 24 lessons, classic Machine Learning for all |
-| [Fakeflix](https://github.com/Th3Wall/Fakeflix) | Not the usual clone that you can find on the web. |
-| [saleor](https://github.com/mirumee/saleor) | A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React. |
-| [DFIR_Resources_REvil_Kaseya](https://github.com/cado-security/DFIR_Resources_REvil_Kaseya) | Resources for DFIR Professionals Responding to the REvil Ransomware Kaseya Supply Chain Attack |
+| [50projects50days](https://github.com/bradtraversy/50projects50days) | 50+ mini web projects using HTML, CSS & JS |
+| [tuplex](https://github.com/tuplex/tuplex) | Tuplex is a parallel big data processing framework that runs data science pipelines written in Python at the speed of compiled code. Tuplex has similar Python APIs to Apache Spark or Dask, but rather than invoking the Python interpreter, Tuplex generates optimized LLVM bytecode for the given pipeline and input data set. |
+| [firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) | Firebase iOS SDK |
+| [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond. |
+| [computer-science](https://github.com/ossu/computer-science) | 🎓 Path to a free self-taught education in Computer Science! |
+| [imersao-fullcycle-3](https://github.com/codeedu/imersao-fullcycle-3) | None |
 | [fastapi](https://github.com/tiangolo/fastapi) | FastAPI framework, high performance, easy to learn, fast to code, ready for production |
-| [petite-vue](https://github.com/vuejs/petite-vue) | 5kb subset of Vue optimized for progressive enhancement |
+| [win10script](https://github.com/ChrisTitusTech/win10script) | This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
