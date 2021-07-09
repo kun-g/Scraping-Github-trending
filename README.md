@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [o3de](https://github.com/o3de/o3de) | Source for fully featured AAA Open 3D Engine |
+| [Pulse](https://github.com/kean/Pulse) | Logger and Network Inspector for Apple Platforms |
+| [Psyduck](https://github.com/SmartKeyerror/Psyduck) | Record CS knowlegement with XMind, version 2.0. 使用 XMind 记录 Linux 操作系统，网络，C++，Golang 以及数据库的一些设计 |
 | [tenacity](https://github.com/tenacityteam/tenacity) | FLOSS Audacity Fork · No telemetry, crash reports and other shenanigans like that! |
-| [audacity](https://github.com/audacity/audacity) | Audio Editor |
-| [50projects50days](https://github.com/bradtraversy/50projects50days) | 50+ mini web projects using HTML, CSS & JS |
-| [tuplex](https://github.com/tuplex/tuplex) | Tuplex is a parallel big data processing framework that runs data science pipelines written in Python at the speed of compiled code. Tuplex has similar Python APIs to Apache Spark or Dask, but rather than invoking the Python interpreter, Tuplex generates optimized LLVM bytecode for the given pipeline and input data set. |
-| [firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) | Firebase iOS SDK |
-| [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond. |
-| [computer-science](https://github.com/ossu/computer-science) | 🎓 Path to a free self-taught education in Computer Science! |
+| [sneedacity](https://github.com/Sneeds-Feed-and-Seed/sneedacity) | Audio Editor |
+| [ItWasAllADream](https://github.com/byt3bl33d3r/ItWasAllADream) | A PrintNightmare (CVE-2021-34527) Python Scanner. Scan entire subnets for hosts vulnerable to the PrintNightmare RCE |
+| [semgrep](https://github.com/returntocorp/semgrep) | Lightweight static analysis for many languages. Find bug variants with patterns that look like source code. |
+| [solidity](https://github.com/ethereum/solidity) | Solidity, the Smart Contract Programming Language |
 | [imersao-fullcycle-3](https://github.com/codeedu/imersao-fullcycle-3) | None |
-| [fastapi](https://github.com/tiangolo/fastapi) | FastAPI framework, high performance, easy to learn, fast to code, ready for production |
-| [win10script](https://github.com/ChrisTitusTech/win10script) | This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github. |
+| [edk2-sdm845](https://github.com/edk2-porting/edk2-sdm845) | Broken edk2 port for sdm845 xD |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
