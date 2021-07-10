@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [o3de](https://github.com/o3de/o3de) | Source for fully featured AAA Open 3D Engine |
-| [Pulse](https://github.com/kean/Pulse) | Logger and Network Inspector for Apple Platforms |
+| [spring-graphql](https://github.com/spring-projects/spring-graphql) | Spring integration for GraphQL |
+| [chia-plotter](https://github.com/madMAx43v3r/chia-plotter) | None |
+| [puppeteer](https://github.com/puppeteer/puppeteer) | Headless Chrome Node.js API |
 | [Psyduck](https://github.com/SmartKeyerror/Psyduck) | Record CS knowlegement with XMind, version 2.0. 使用 XMind 记录 Linux 操作系统，网络，C++，Golang 以及数据库的一些设计 |
-| [tenacity](https://github.com/tenacityteam/tenacity) | FLOSS Audacity Fork · No telemetry, crash reports and other shenanigans like that! |
 | [sneedacity](https://github.com/Sneeds-Feed-and-Seed/sneedacity) | Audio Editor |
-| [ItWasAllADream](https://github.com/byt3bl33d3r/ItWasAllADream) | A PrintNightmare (CVE-2021-34527) Python Scanner. Scan entire subnets for hosts vulnerable to the PrintNightmare RCE |
-| [semgrep](https://github.com/returntocorp/semgrep) | Lightweight static analysis for many languages. Find bug variants with patterns that look like source code. |
-| [solidity](https://github.com/ethereum/solidity) | Solidity, the Smart Contract Programming Language |
-| [imersao-fullcycle-3](https://github.com/codeedu/imersao-fullcycle-3) | None |
-| [edk2-sdm845](https://github.com/edk2-porting/edk2-sdm845) | Broken edk2 port for sdm845 xD |
+| [o3de](https://github.com/o3de/o3de) | Source for fully featured AAA Open 3D Engine |
+| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
+| [magic-of-css](https://github.com/adamschwartz/magic-of-css) | A CSS course to turn you into a magician. |
+| [Pulse](https://github.com/kean/Pulse) | Logger and network inspector for Apple platforms |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
