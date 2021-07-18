@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [kitex](https://github.com/cloudwego/kitex) | None |
+| [alphafold](https://github.com/deepmind/alphafold) | Open source code for AlphaFold. |
+| [FidelityFX-FSR](https://github.com/GPUOpen-Effects/FidelityFX-FSR) | FidelityFX Super Resolution |
+| [security-research](https://github.com/google/security-research) | This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code. |
+| [substrate](https://github.com/paritytech/substrate) | Substrate: The platform for blockchain innovators |
+| [hulu-webpage-clone](https://github.com/bradtraversy/hulu-webpage-clone) | Hulu webpage clone |
+| [milvus](https://github.com/milvus-io/milvus) | An open source vector database powered by Faiss, NMSLIB and Annoy |
+| [fastapi](https://github.com/tiangolo/fastapi) | FastAPI framework, high performance, easy to learn, fast to code, ready for production |
 | [Sa-Token](https://github.com/dromara/Sa-Token) | 这可能是史上功能最全的Java权限认证框架！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成... |
-| [terminal](https://github.com/microsoft/terminal) | The new Windows Terminal and the original Windows console host, all in the same place! |
-| [folly](https://github.com/facebook/folly) | An open-source C++ library developed and used at Facebook. |
-| [grpc](https://github.com/grpc/grpc) | The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#) |
-| [amplify-js](https://github.com/aws-amplify/amplify-js) | A declarative JavaScript library for application development using cloud services. |
-| [IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners) | 12 Weeks, 24 Lessons, IoT for All! |
-| [pl-catalog](https://github.com/prathyvsh/pl-catalog) | A catalog of programming languages |
-| [awesome-explainable-graph-reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning) | A collection of research papers and software related to explainability in graph machine learning. |
-| [typesense](https://github.com/typesense/typesense) | Fast, typo tolerant, fuzzy search engine for building delightful search experiences ⚡ 🔍 ✨ An Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch. |
+| [code-server](https://github.com/cdr/code-server) | VS Code in the browser |
+| [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | 🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！ |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
