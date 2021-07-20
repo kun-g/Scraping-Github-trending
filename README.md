@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
-| [substrate](https://github.com/paritytech/substrate) | Substrate: The platform for blockchain innovators |
-| [discord.js](https://github.com/discordjs/discord.js) | A powerful JavaScript library for interacting with the Discord API |
-| [docs](https://github.com/github/docs) | The open-source repo for docs.github.com |
-| [livekit-server](https://github.com/livekit/livekit-server) | Distributed audio/video rooms over WebRTC |
 | [manim](https://github.com/ManimCommunity/manim) | A community-maintained Python framework for creating mathematical animations. |
-| [astro](https://github.com/snowpackjs/astro) | 🚀🧑‍🚀 Keep your eyes to the skies, astronauts! |
-| [alphafold](https://github.com/deepmind/alphafold) | Open source code for AlphaFold. |
+| [discord.js](https://github.com/discordjs/discord.js) | A powerful JavaScript library for interacting with the Discord API |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
 | [ParlAI](https://github.com/facebookresearch/ParlAI) | A framework for training and evaluating AI models on a variety of openly available dialogue datasets. |
-| [FidelityFX-FSR](https://github.com/GPUOpen-Effects/FidelityFX-FSR) | FidelityFX Super Resolution |
+| [wargabantuwarga.com](https://github.com/kawalcovid19/wargabantuwarga.com) | Inisiatif warga untuk berbagi informasi seputar fasilitas kesehatan dan alat kesehatan untuk COVID-19. |
+| [Baileys](https://github.com/adiwajshing/Baileys) | Lightweight full-featured typescript/javascript WhatsApp Web API |
+| [docs](https://github.com/github/docs) | The open-source repo for docs.github.com |
+| [substrate](https://github.com/paritytech/substrate) | Substrate: The platform for blockchain innovators |
+| [astro](https://github.com/snowpackjs/astro) | 🚀🧑‍🚀 Keep your eyes to the skies, astronauts! |
+| [AirCash](https://github.com/Aircoin-official/AirCash) | Cash system for AIR. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
