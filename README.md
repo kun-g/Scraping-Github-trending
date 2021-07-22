@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [manim](https://github.com/ManimCommunity/manim) | A community-maintained Python framework for creating mathematical animations. |
-| [substrate](https://github.com/paritytech/substrate) | Substrate: The platform for blockchain innovators |
-| [dtm](https://github.com/yedf/dtm) | 🔥go语言分布式事务管理器 a lightweight distributed transaction management service, support xa tcc saga |
-| [easegress](https://github.com/megaease/easegress) | A Cloud Native traffic orchestration system |
-| [livekit-server](https://github.com/livekit/livekit-server) | Distributed audio/video rooms over WebRTC |
+| [mvt](https://github.com/mvt-project/mvt) | MVT is a forensic tool to look for signs of infection in smartphone devices |
+| [CBL-Mariner](https://github.com/microsoft/CBL-Mariner) | Linux OS for Azure 1P services and edge appliances |
 | [gorse](https://github.com/zhenghaoz/gorse) | An open source recommender system service written in Go |
-| [discord.js](https://github.com/discordjs/discord.js) | A powerful JavaScript library for interacting with the Discord API |
-| [AirCash](https://github.com/Aircoin-official/AirCash) | Cash system for AIR. |
-| [project-based-learning](https://github.com/tuvtran/project-based-learning) | Curated list of project-based tutorials |
+| [investigations](https://github.com/AmnestyTech/investigations) | Indicators from Amnesty International's investigations |
+| [windows11](https://github.com/blueedgetechno/windows11) | windows 11 in react 💻🌈⚡ |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [bulletproof-react](https://github.com/alan2207/bulletproof-react) | 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications. |
+| [Ventoy](https://github.com/ventoy/Ventoy) | A new bootable USB solution. |
+| [cryptoblades](https://github.com/CryptoBlades/cryptoblades) | None |
+| [ParlAI](https://github.com/facebookresearch/ParlAI) | A framework for training and evaluating AI models on a variety of openly available dialogue datasets. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
