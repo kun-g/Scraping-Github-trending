@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [mvt](https://github.com/mvt-project/mvt) | MVT is a forensic tool to look for signs of infection in smartphone devices |
-| [CBL-Mariner](https://github.com/microsoft/CBL-Mariner) | Linux OS for Azure 1P services and edge appliances |
-| [gorse](https://github.com/zhenghaoz/gorse) | An open source recommender system service written in Go |
+| [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) | YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with ONNX, TensorRT, ncnn, and OpenVINO supported. |
 | [investigations](https://github.com/AmnestyTech/investigations) | Indicators from Amnesty International's investigations |
-| [windows11](https://github.com/blueedgetechno/windows11) | windows 11 in react 💻🌈⚡ |
+| [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond. |
+| [source-code-hunter](https://github.com/doocs/source-code-hunter) | 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等 |
 | [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [bulletproof-react](https://github.com/alan2207/bulletproof-react) | 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications. |
-| [Ventoy](https://github.com/ventoy/Ventoy) | A new bootable USB solution. |
-| [cryptoblades](https://github.com/CryptoBlades/cryptoblades) | None |
-| [ParlAI](https://github.com/facebookresearch/ParlAI) | A framework for training and evaluating AI models on a variety of openly available dialogue datasets. |
+| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
+| [CBL-Mariner](https://github.com/microsoft/CBL-Mariner) | Linux OS for Azure 1P services and edge appliances |
+| [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 The Open Source Airtable alternative. |
+| [chat](https://github.com/tinode/chat) | Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
