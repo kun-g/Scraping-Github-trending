@@ -17,7 +17,7 @@
 | [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
 | [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
 | [CBL-Mariner](https://github.com/microsoft/CBL-Mariner) | Linux OS for Azure 1P services and edge appliances |
-| [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 The Open Source Airtable alternative. |
+| [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 The Open Source Airtable alternative - Powered by Vue.js 🚀 🚀 |
 | [chat](https://github.com/tinode/chat) | Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots |
 <!-- END OF DAILY_TOP10_REPOS -->
 
