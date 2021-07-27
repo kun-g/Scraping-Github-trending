@@ -10,7 +10,7 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [mvt](https://github.com/mvt-project/mvt) | MVT is a forensic tool to look for signs of infection in smartphone devices |
-| [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) | YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with ONNX, TensorRT, ncnn, and OpenVINO supported. |
+| [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) | YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported. |
 | [investigations](https://github.com/AmnestyTech/investigations) | Indicators from Amnesty International's investigations |
 | [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond. |
 | [source-code-hunter](https://github.com/doocs/source-code-hunter) | 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等 |
