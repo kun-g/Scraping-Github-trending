@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [mvt](https://github.com/mvt-project/mvt) | MVT is a forensic tool to look for signs of infection in smartphone devices |
-| [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) | YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported. |
-| [investigations](https://github.com/AmnestyTech/investigations) | Indicators from Amnesty International's investigations |
-| [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond. |
+| [korea-covid-19-remaining-vaccine-macro](https://github.com/SJang1/korea-covid-19-remaining-vaccine-macro) | 잔여백신 조회 및 예약 매크로 |
+| [flutter_ume](https://github.com/bytedance/flutter_ume) | UME is an in-app debug kits platform for Flutter. Produced by Flutter Infra team of ByteDance |
+| [iotex-core](https://github.com/iotexproject/iotex-core) | Official implementation of IoTeX blockchain protocol in Go. |
+| [supabase](https://github.com/supabase/supabase) | The open source Firebase alternative. Follow to stay updated about our public Beta. |
+| [apollo](https://github.com/amirgamil/apollo) | A Unix-style personal search engine and web crawler for your digital footprint. |
 | [source-code-hunter](https://github.com/doocs/source-code-hunter) | 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等 |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [jwt](https://github.com/golang-jwt/jwt) | Community maintained clone of https://github.com/dgrijalva/jwt-go |
 | [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
-| [CBL-Mariner](https://github.com/microsoft/CBL-Mariner) | Linux OS for Azure 1P services and edge appliances |
-| [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 The Open Source Airtable alternative - Powered by Vue.js 🚀 🚀 |
-| [chat](https://github.com/tinode/chat) | Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots |
+| [cryptoblades](https://github.com/CryptoBlades/cryptoblades) | None |
+| [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
