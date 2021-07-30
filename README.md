@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [korea-covid-19-remaining-vaccine-macro](https://github.com/SJang1/korea-covid-19-remaining-vaccine-macro) | 잔여백신 조회 및 예약 매크로 |
+| [50projects50days](https://github.com/bradtraversy/50projects50days) | 50+ mini web projects using HTML, CSS & JS |
+| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
 | [flutter_ume](https://github.com/bytedance/flutter_ume) | UME is an in-app debug kits platform for Flutter. Produced by Flutter Infra team of ByteDance |
-| [iotex-core](https://github.com/iotexproject/iotex-core) | Official implementation of IoTeX blockchain protocol in Go. |
-| [supabase](https://github.com/supabase/supabase) | The open source Firebase alternative. Follow to stay updated about our public Beta. |
-| [apollo](https://github.com/amirgamil/apollo) | A Unix-style personal search engine and web crawler for your digital footprint. |
-| [source-code-hunter](https://github.com/doocs/source-code-hunter) | 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等 |
-| [jwt](https://github.com/golang-jwt/jwt) | Community maintained clone of https://github.com/dgrijalva/jwt-go |
+| [ninja](https://github.com/MoonBegonia/ninja) | None |
+| [dataease](https://github.com/dataease/dataease) | 人人可用的开源数据可视化分析工具。 |
+| [small-spring](https://github.com/fuzhengwei/small-spring) | 🌱《 Spring 手撸专栏》，本专栏以 Spring 源码学习为目的，通过手写简化版 Spring 框架，了解 Spring 核心原理。在手写的过程中会简化 Spring 源码，摘取整体框架中的核心逻辑，简化代码实现过程，保留核心功能，例如：IOC、AOP、Bean生命周期、上下文、作用域、资源处理等内容实现。 |
+| [macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) | Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS |
+| [linux-malware](https://github.com/timb-machine/linux-malware) | Tracking interesting Linux (and UNIX) malware. Send PRs |
 | [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
-| [cryptoblades](https://github.com/CryptoBlades/cryptoblades) | None |
-| [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
