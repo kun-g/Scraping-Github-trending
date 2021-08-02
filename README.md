@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [swift-algorithms](https://github.com/apple/swift-algorithms) | Commonly used sequence and collection algorithms for Swift |
+| [cbtracker](https://github.com/ed3ath/cbtracker) | Please do not use this tracker to scam anyone! This is free and will be forever free. This tracking will never ask for seed phrases nor private keys. Keep safe! |
 | [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
-| [korea-covid-19-remaining-vaccine-macro](https://github.com/SJang1/korea-covid-19-remaining-vaccine-macro) | 잔여백신 조회 및 예약 매크로 |
-| [dataease](https://github.com/dataease/dataease) | 人人可用的开源数据可视化分析工具。 |
-| [googletest](https://github.com/google/googletest) | GoogleTest - Google Testing and Mocking Framework |
-| [macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) | Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS |
-| [tailscale](https://github.com/tailscale/tailscale) | The easiest, most secure way to use WireGuard and 2FA. |
-| [electron](https://github.com/electron/electron) | Build cross-platform desktop apps with JavaScript, HTML, and CSS |
 | [widevine-l3-guesser](https://github.com/Satsuoni/widevine-l3-guesser) | None |
-| [pegasus_spyware](https://github.com/jonathandata1/pegasus_spyware) | decompiled pegasus_spyware |
+| [uno](https://github.com/unoplatform/uno) | Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported. |
+| [macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) | Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS |
+| [Telegram](https://github.com/DrKLO/Telegram) | Telegram for Android source |
+| [neovim](https://github.com/neovim/neovim) | Vim-fork focused on extensibility and usability |
+| [electron](https://github.com/electron/electron) | Build cross-platform desktop apps with JavaScript, HTML, and CSS |
+| [CS-Notes](https://github.com/CyC2018/CS-Notes) | 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 |
+| [ADCSPwn](https://github.com/bats3c/ADCSPwn) | A tool to escalate privileges in an active directory network by coercing authenticate from machine accounts and relaying to the certificate service. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
