@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [cbtracker](https://github.com/ed3ath/cbtracker) | Please do not use this tracker to scam anyone! This is free and will be forever free. This tracking will never ask for seed phrases nor private keys. Keep safe! |
-| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
 | [widevine-l3-guesser](https://github.com/Satsuoni/widevine-l3-guesser) | None |
-| [uno](https://github.com/unoplatform/uno) | Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported. |
-| [macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) | Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS |
-| [Telegram](https://github.com/DrKLO/Telegram) | Telegram for Android source |
-| [neovim](https://github.com/neovim/neovim) | Vim-fork focused on extensibility and usability |
-| [electron](https://github.com/electron/electron) | Build cross-platform desktop apps with JavaScript, HTML, and CSS |
-| [CS-Notes](https://github.com/CyC2018/CS-Notes) | 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 |
-| [ADCSPwn](https://github.com/bats3c/ADCSPwn) | A tool to escalate privileges in an active directory network by coercing authenticate from machine accounts and relaying to the certificate service. |
+| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
+| [AutoRecon](https://github.com/Tib3rius/AutoRecon) | AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services. |
+| [iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world |
+| [axum](https://github.com/tokio-rs/axum) | Ergonomic and modular web framework built with Tokio, Tower, and Hyper |
+| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+| [godot](https://github.com/godotengine/godot) | Godot Engine – Multi-platform 2D and 3D game engine |
+| [Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) | Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world. |
+| [docs](https://github.com/github/docs) | The open-source repo for docs.github.com |
+| [freqtrade](https://github.com/freqtrade/freqtrade) | Free, open source crypto trading bot |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
