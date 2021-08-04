@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [widevine-l3-guesser](https://github.com/Satsuoni/widevine-l3-guesser) | None |
-| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
-| [AutoRecon](https://github.com/Tib3rius/AutoRecon) | AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services. |
-| [iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world |
+| [mitmproxy](https://github.com/mitmproxy/mitmproxy) | An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers. |
+| [voicevox](https://github.com/Hiroshiba/voicevox) | None |
+| [lkmpg](https://github.com/sysprog21/lkmpg) | The Linux Kernel Module Programming Guide (updated for 5.x kernels) |
+| [dataease](https://github.com/dataease/dataease) | 人人可用的开源数据可视化分析工具。 |
+| [droidlet](https://github.com/facebookresearch/droidlet) | A modular embodied agent architecture and platform for building embodied agents |
+| [openpilot](https://github.com/commaai/openpilot) | openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models. |
+| [org-roam-ui](https://github.com/org-roam/org-roam-ui) | A graphical frontend for exploring your org-roam Zettelkasten |
+| [apollo-client](https://github.com/apollographql/apollo-client) | 🚀  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server. |
 | [axum](https://github.com/tokio-rs/axum) | Ergonomic and modular web framework built with Tokio, Tower, and Hyper |
-| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
-| [godot](https://github.com/godotengine/godot) | Godot Engine – Multi-platform 2D and 3D game engine |
-| [Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) | Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world. |
-| [docs](https://github.com/github/docs) | The open-source repo for docs.github.com |
-| [freqtrade](https://github.com/freqtrade/freqtrade) | Free, open source crypto trading bot |
+| [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
