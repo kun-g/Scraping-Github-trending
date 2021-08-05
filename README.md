@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [mitmproxy](https://github.com/mitmproxy/mitmproxy) | An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers. |
-| [voicevox](https://github.com/Hiroshiba/voicevox) | None |
 | [lkmpg](https://github.com/sysprog21/lkmpg) | The Linux Kernel Module Programming Guide (updated for 5.x kernels) |
-| [dataease](https://github.com/dataease/dataease) | 人人可用的开源数据可视化分析工具。 |
-| [droidlet](https://github.com/facebookresearch/droidlet) | A modular embodied agent architecture and platform for building embodied agents |
 | [openpilot](https://github.com/commaai/openpilot) | openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models. |
-| [org-roam-ui](https://github.com/org-roam/org-roam-ui) | A graphical frontend for exploring your org-roam Zettelkasten |
-| [apollo-client](https://github.com/apollographql/apollo-client) | 🚀  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server. |
-| [axum](https://github.com/tokio-rs/axum) | Ergonomic and modular web framework built with Tokio, Tower, and Hyper |
+| [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 25 lessons, 50 quizzes, classic Machine Learning for all |
+| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
 | [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
+| [docs](https://github.com/github/docs) | The open-source repo for docs.github.com |
+| [modern-unix](https://github.com/ibraheemdev/modern-unix) | A collection of modern/faster/saner alternatives to common unix commands. |
+| [reviewdog](https://github.com/reviewdog/reviewdog) | 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language |
+| [ShuiZe_0x727](https://github.com/0x727/ShuiZe_0x727) | 信息收集自动化工具 |
+| [axum](https://github.com/tokio-rs/axum) | Ergonomic and modular web framework built with Tokio, Tower, and Hyper |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
