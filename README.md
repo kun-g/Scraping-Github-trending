@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [lkmpg](https://github.com/sysprog21/lkmpg) | The Linux Kernel Module Programming Guide (updated for 5.x kernels) |
 | [openpilot](https://github.com/commaai/openpilot) | openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models. |
+| [azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net) | This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net. |
+| [Fastbot_iOS](https://github.com/bytedance/Fastbot_iOS) | About Fastbot(2.0) is a model-based testing tool for modeling GUI transitions to discover app stability problems |
+| [rubick](https://github.com/clouDr-f2e/rubick) | 🔧 基于 electron 的开源工具箱，自由集成丰富插件。 |
+| [AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) | Roadmap to becoming an ASP.NET Core developer in 2021 |
 | [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 25 lessons, 50 quizzes, classic Machine Learning for all |
-| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
-| [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
-| [docs](https://github.com/github/docs) | The open-source repo for docs.github.com |
+| [pinot](https://github.com/apache/pinot) | Apache Pinot (Incubating) - A realtime distributed OLAP datastore |
+| [sigma](https://github.com/SigmaHQ/sigma) | Generic Signature Format for SIEM Systems |
 | [modern-unix](https://github.com/ibraheemdev/modern-unix) | A collection of modern/faster/saner alternatives to common unix commands. |
-| [reviewdog](https://github.com/reviewdog/reviewdog) | 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language |
-| [ShuiZe_0x727](https://github.com/0x727/ShuiZe_0x727) | 信息收集自动化工具 |
-| [axum](https://github.com/tokio-rs/axum) | Ergonomic and modular web framework built with Tokio, Tower, and Hyper |
+| [inceptor](https://github.com/klezVirus/inceptor) | Template-Driven AV/EDR Evasion Framework |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
