@@ -1,0 +1,931 @@
+[
+    {
+        "author": "Azure",
+        "avatar": "https://github.com/Azure.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/53356347",
+                "href": "https://github.com/azure-sdk",
+                "username": "azure-sdk"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1697911",
+                "href": "https://github.com/pakrym",
+                "username": "pakrym"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/857688",
+                "href": "https://github.com/stankovski",
+                "username": "stankovski"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/9868623",
+                "href": "https://github.com/maririos",
+                "username": "maririos"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/913445",
+                "href": "https://github.com/jsquire",
+                "username": "jsquire"
+            }
+        ],
+        "currentPeriodStars": 139,
+        "description": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.",
+        "forks": 2847,
+        "fullname": "Azure/azure-sdk-for-net",
+        "language": "C#",
+        "languageColor": "#178600",
+        "name": "azure-sdk-for-net",
+        "stars": 2709,
+        "url": "https://github.com/Azure/azure-sdk-for-net"
+    },
+    {
+        "author": "SheetJS",
+        "avatar": "https://github.com/SheetJS.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6070939",
+                "href": "https://github.com/SheetJSDev",
+                "username": "SheetJSDev"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6685088",
+                "href": "https://github.com/RyanCavanaugh",
+                "username": "RyanCavanaugh"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2261204",
+                "href": "https://github.com/wolfgang42",
+                "username": "wolfgang42"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/10204169",
+                "href": "https://github.com/garrettluu",
+                "username": "garrettluu"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/33412649",
+                "href": "https://github.com/srijonsaha",
+                "username": "srijonsaha"
+            }
+        ],
+        "currentPeriodStars": 195,
+        "description": "\ud83d\udcd7 SheetJS Community Edition -- Spreadsheet Data Toolkit",
+        "forks": 6912,
+        "fullname": "SheetJS/sheetjs",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "name": "sheetjs",
+        "stars": 26792,
+        "url": "https://github.com/SheetJS/sheetjs"
+    },
+    {
+        "author": "0x727",
+        "avatar": "https://github.com/0x727.png",
+        "builtBy": [],
+        "currentPeriodStars": 164,
+        "description": "\u4fe1\u606f\u6536\u96c6\u81ea\u52a8\u5316\u5de5\u5177",
+        "forks": 119,
+        "fullname": "0x727/ShuiZe_0x727",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "ShuiZe_0x727",
+        "stars": 720,
+        "url": "https://github.com/0x727/ShuiZe_0x727"
+    },
+    {
+        "author": "OAI",
+        "avatar": "https://github.com/OAI.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/241629",
+                "href": "https://github.com/webron",
+                "username": "webron"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/249413",
+                "href": "https://github.com/fehguy",
+                "username": "fehguy"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/447694",
+                "href": "https://github.com/darrelmiller",
+                "username": "darrelmiller"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/21603",
+                "href": "https://github.com/MikeRalphson",
+                "username": "MikeRalphson"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/16125343",
+                "href": "https://github.com/krishahn",
+                "username": "krishahn"
+            }
+        ],
+        "currentPeriodStars": 72,
+        "description": "The OpenAPI Specification Repository",
+        "forks": 7645,
+        "fullname": "OAI/OpenAPI-Specification",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "name": "OpenAPI-Specification",
+        "stars": 21586,
+        "url": "https://github.com/OAI/OpenAPI-Specification"
+    },
+    {
+        "author": "microsoft",
+        "avatar": "https://github.com/microsoft.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1450004",
+                "href": "https://github.com/jlooper",
+                "username": "jlooper"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4598064",
+                "href": "https://github.com/softchris",
+                "username": "softchris"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/10190938",
+                "href": "https://github.com/feiyun0112",
+                "username": "feiyun0112"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/107763",
+                "href": "https://github.com/girliemac",
+                "username": "girliemac"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/44654695",
+                "href": "https://github.com/ornelladotcom",
+                "username": "ornelladotcom"
+            }
+        ],
+        "currentPeriodStars": 712,
+        "description": "12 weeks, 25 lessons, 50 quizzes, classic Machine Learning for all",
+        "forks": 3657,
+        "fullname": "microsoft/ML-For-Beginners",
+        "language": "Jupyter Notebook",
+        "languageColor": "#DA5B0B",
+        "name": "ML-For-Beginners",
+        "stars": 16118,
+        "url": "https://github.com/microsoft/ML-For-Beginners"
+    },
+    {
+        "author": "apache",
+        "avatar": "https://github.com/apache.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6814606",
+                "href": "https://github.com/membphis",
+                "username": "membphis"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4161644",
+                "href": "https://github.com/spacewander",
+                "username": "spacewander"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/26448043",
+                "href": "https://github.com/moonming",
+                "username": "moonming"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/52862365",
+                "href": "https://github.com/Firstsawyou",
+                "username": "Firstsawyou"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/34589752",
+                "href": "https://github.com/Yiyiyimu",
+                "username": "Yiyiyimu"
+            }
+        ],
+        "currentPeriodStars": 126,
+        "description": "The Cloud-Native API Gateway",
+        "forks": 1149,
+        "fullname": "apache/apisix",
+        "language": "Lua",
+        "languageColor": "#000080",
+        "name": "apisix",
+        "stars": 5954,
+        "url": "https://github.com/apache/apisix"
+    },
+    {
+        "author": "geekxh",
+        "avatar": "https://github.com/geekxh.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/64886238",
+                "href": "https://github.com/geekxh",
+                "username": "geekxh"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/66104028",
+                "href": "https://github.com/kangkang0801",
+                "username": "kangkang0801"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/16127855",
+                "href": "https://github.com/rookieInn",
+                "username": "rookieInn"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/11798618",
+                "href": "https://github.com/ixysoft",
+                "username": "ixysoft"
+            }
+        ],
+        "currentPeriodStars": 228,
+        "description": "\ud83c\udf0d \u9488\u5bf9\u5c0f\u767d\u7684\u7b97\u6cd5\u8bad\u7ec3 | \u5305\u62ec\u56db\u90e8\u5206\uff1a\u2460.\u7b97\u6cd5\u57fa\u7840 \u2461.\u529b\u6263\u56fe\u89e3 \u2462.\u5927\u5382\u9762\u7ecf \u2463.CS_\u6c47\u603b | \u9644\uff1a1\u3001\u5343\u672c\u5f00\u6e90\u7535\u5b50\u4e66 2\u3001\u767e\u5f20\u6280\u672f\u601d\u7ef4\u5bfc\u56fe\uff08\u9879\u76ee\u82b1\u4e86\u4e0a\u767e\u5c0f\u65f6\uff0c\u5e0c\u671b\u53ef\u4ee5\u70b9 star \u652f\u6301\uff0c\ud83c\udf39\u611f\u8c22~\uff09",
+        "forks": 5266,
+        "fullname": "geekxh/hello-algorithm",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "name": "hello-algorithm",
+        "stars": 27528,
+        "url": "https://github.com/geekxh/hello-algorithm"
+    },
+    {
+        "author": "GhostPack",
+        "avatar": "https://github.com/GhostPack.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/13423848",
+                "href": "https://github.com/0xe7",
+                "username": "0xe7"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5504523",
+                "href": "https://github.com/HarmJ0y",
+                "username": "HarmJ0y"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3064210",
+                "href": "https://github.com/CCob",
+                "username": "CCob"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/25517393",
+                "href": "https://github.com/pkb1s",
+                "username": "pkb1s"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/43760585",
+                "href": "https://github.com/mDoi12mdjf",
+                "username": "mDoi12mdjf"
+            }
+        ],
+        "currentPeriodStars": 49,
+        "description": "Trying to tame the three-headed dog.",
+        "forks": 347,
+        "fullname": "GhostPack/Rubeus",
+        "language": "C#",
+        "languageColor": "#178600",
+        "name": "Rubeus",
+        "stars": 1679,
+        "url": "https://github.com/GhostPack/Rubeus"
+    },
+    {
+        "author": "datafuselabs",
+        "avatar": "https://github.com/datafuselabs.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/172204",
+                "href": "https://github.com/BohuTANG",
+                "username": "BohuTANG"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3325189",
+                "href": "https://github.com/sundy-li",
+                "username": "sundy-li"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8087042",
+                "href": "https://github.com/zhang2014",
+                "username": "zhang2014"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/82190365",
+                "href": "https://github.com/datafuse-bot",
+                "username": "datafuse-bot"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2645726",
+                "href": "https://github.com/jyizheng",
+                "username": "jyizheng"
+            }
+        ],
+        "currentPeriodStars": 405,
+        "description": "A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture, built to make the Data Cloud easy",
+        "forks": 130,
+        "fullname": "datafuselabs/datafuse",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "name": "datafuse",
+        "stars": 1386,
+        "url": "https://github.com/datafuselabs/datafuse"
+    },
+    {
+        "author": "microsoft",
+        "avatar": "https://github.com/microsoft.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/189190",
+                "href": "https://github.com/DHowett",
+                "username": "DHowett"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/18356694",
+                "href": "https://github.com/zadjii-msft",
+                "username": "zadjii-msft"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/18221333",
+                "href": "https://github.com/miniksa",
+                "username": "miniksa"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/11050425",
+                "href": "https://github.com/carlos-zamora",
+                "username": "carlos-zamora"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4639110",
+                "href": "https://github.com/Don-Vito",
+                "username": "Don-Vito"
+            }
+        ],
+        "currentPeriodStars": 129,
+        "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+        "forks": 6818,
+        "fullname": "microsoft/terminal",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "name": "terminal",
+        "stars": 76282,
+        "url": "https://github.com/microsoft/terminal"
+    },
+    {
+        "author": "alyssaxuu",
+        "avatar": "https://github.com/alyssaxuu.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7581348",
+                "href": "https://github.com/alyssaxuu",
+                "username": "alyssaxuu"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/26009982",
+                "href": "https://github.com/designedbyclu",
+                "username": "designedbyclu"
+            }
+        ],
+        "currentPeriodStars": 620,
+        "description": "A map tool with real-time collaboration \ud83d\uddfa\ufe0f",
+        "forks": 49,
+        "fullname": "alyssaxuu/mapus",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "name": "mapus",
+        "stars": 1184,
+        "url": "https://github.com/alyssaxuu/mapus"
+    },
+    {
+        "author": "MoienTajik",
+        "avatar": "https://github.com/MoienTajik.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/21059063",
+                "href": "https://github.com/MoienTajik",
+                "username": "MoienTajik"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/31427850",
+                "href": "https://github.com/ImgBotApp",
+                "username": "ImgBotApp"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3859838",
+                "href": "https://github.com/yuanrui",
+                "username": "yuanrui"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2024682",
+                "href": "https://github.com/kkbruce",
+                "username": "kkbruce"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4983185",
+                "href": "https://github.com/cosminpopescu14",
+                "username": "cosminpopescu14"
+            }
+        ],
+        "currentPeriodStars": 309,
+        "description": "Roadmap to becoming an ASP.NET Core developer in 2021",
+        "forks": 1160,
+        "fullname": "MoienTajik/AspNetCore-Developer-Roadmap",
+        "language": null,
+        "languageColor": null,
+        "name": "AspNetCore-Developer-Roadmap",
+        "stars": 7153,
+        "url": "https://github.com/MoienTajik/AspNetCore-Developer-Roadmap"
+    },
+    {
+        "author": "Apress",
+        "avatar": "https://github.com/Apress.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7785044",
+                "href": "https://github.com/acmarrs-nvidia",
+                "username": "acmarrs-nvidia"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/23056081",
+                "href": "https://github.com/JessicaVakili",
+                "username": "JessicaVakili"
+            }
+        ],
+        "currentPeriodStars": 169,
+        "description": "Source Code for \"Ray Tracing Gems II: Next Generation Real-Time Rendering with DXR, Vulkan, and OptiX\" by Adam Marrs, Peter Shirley, and Ingo Wald",
+        "forks": 11,
+        "fullname": "Apress/Ray-Tracing-Gems-II",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "name": "Ray-Tracing-Gems-II",
+        "stars": 294,
+        "url": "https://github.com/Apress/Ray-Tracing-Gems-II"
+    },
+    {
+        "author": "chuzhixin",
+        "avatar": "https://github.com/chuzhixin.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/26647258",
+                "href": "https://github.com/chuzhixin",
+                "username": "chuzhixin"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/76243456",
+                "href": "https://github.com/vab-clever",
+                "username": "vab-clever"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/29328241",
+                "href": "https://github.com/fwfmiao",
+                "username": "fwfmiao"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/14859466",
+                "href": "https://github.com/hdtopku",
+                "username": "hdtopku"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/22478003",
+                "href": "https://github.com/hipi",
+                "username": "hipi"
+            }
+        ],
+        "currentPeriodStars": 105,
+        "description": "\u56e2\u7ed3\u4e00\u5fc3\uff0c\u5171\u6297\u75ab\u60c5\uff0c\u70df\u53f0\u52a0\u6cb9\uff01\uff01\uff01\ud83d\ude80\ud83d\ude80\ud83d\ude80vue3,vue3.0,vue,vue3.x,vue.js,vue\u540e\u53f0\u7ba1\u7406,admin,vue-admin,vue-element-admin,ant-design\uff0cvue-admin-beautiful-pro,vab admin pro,vab admin plus\u4e3b\u7ebf\u7248\u672c\u57fa\u4e8eelement-plus\u3001element-ui\u3001ant-design-vue\u4e09\u8005\u5e76\u884c\u5f00\u53d1\u7ef4\u62a4\uff0c\u540c\u65f6\u652f\u6301\u7535\u8111\uff0c\u624b\u673a\uff0c\u5e73\u677f\uff0c\u5207\u6362\u5206\u652f\u67e5\u770b\u4e0d\u540c\u7684vue\u7248\u672c\uff0celement-plus\u7248\u672c\u5df2\u53d1\u5e03(vue3,vue3.0,vue,vue3.x,vue.js)\u7a0b\u5e8f\u65e0\u56fd\u754c\uff0c\u4f46\u7a0b\u5e8f\u5458\u6709\u56fd\u754c\uff0c\u4e2d\u56fd\u56fd\u5bb6\u5c0a\u4e25\u4e0d\u5bb9\u6311\u8845\uff0c\u5982\u679c\u60a8\u5728\u7279\u6b8a\u65f6\u671f\u7ee7\u7eed\u8d2d\u4e70HM\u3001\u8010\u514b\u3001\u963f\u8fea\u8fbe\u65af\u7b49\u54c1\u724c\u90a3\u4e48\u60a8\u5c06\u65e0\u6743\u7ee7\u7eed\u4f7f\u7528Vab",
+        "forks": 2251,
+        "fullname": "chuzhixin/vue-admin-beautiful-pro",
+        "language": "Vue",
+        "languageColor": "#41b883",
+        "name": "vue-admin-beautiful-pro",
+        "stars": 9841,
+        "url": "https://github.com/chuzhixin/vue-admin-beautiful-pro"
+    },
+    {
+        "author": "microsoft",
+        "avatar": "https://github.com/microsoft.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1169912",
+                "href": "https://github.com/bao-qian",
+                "username": "bao-qian"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1462282",
+                "href": "https://github.com/crutkas",
+                "username": "crutkas"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1725475",
+                "href": "https://github.com/qianlifeng",
+                "username": "qianlifeng"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/26427004",
+                "href": "https://github.com/jjw24",
+                "username": "jjw24"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1828123",
+                "href": "https://github.com/yuyoyuppe",
+                "username": "yuyoyuppe"
+            }
+        ],
+        "currentPeriodStars": 290,
+        "description": "Windows system utilities to maximize productivity",
+        "forks": 3170,
+        "fullname": "microsoft/PowerToys",
+        "language": "C#",
+        "languageColor": "#178600",
+        "name": "PowerToys",
+        "stars": 58081,
+        "url": "https://github.com/microsoft/PowerToys"
+    },
+    {
+        "author": "ibraheemdev",
+        "avatar": "https://github.com/ibraheemdev.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/34988408",
+                "href": "https://github.com/ibraheemdev",
+                "username": "ibraheemdev"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/833575",
+                "href": "https://github.com/hderms",
+                "username": "hderms"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1074787",
+                "href": "https://github.com/billylaing",
+                "username": "billylaing"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5462153",
+                "href": "https://github.com/camandel",
+                "username": "camandel"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2745182",
+                "href": "https://github.com/dtsdwarak",
+                "username": "dtsdwarak"
+            }
+        ],
+        "currentPeriodStars": 592,
+        "description": "A collection of modern/faster/saner alternatives to common unix commands.",
+        "forks": 297,
+        "fullname": "ibraheemdev/modern-unix",
+        "language": null,
+        "languageColor": null,
+        "name": "modern-unix",
+        "stars": 14545,
+        "url": "https://github.com/ibraheemdev/modern-unix"
+    },
+    {
+        "author": "sysprog21",
+        "avatar": "https://github.com/sysprog21.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/478921",
+                "href": "https://github.com/jserv",
+                "username": "jserv"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/58484289",
+                "href": "https://github.com/fennecJ",
+                "username": "fennecJ"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/18576559",
+                "href": "https://github.com/demonsome",
+                "username": "demonsome"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/71442331",
+                "href": "https://github.com/ekangmonyet",
+                "username": "ekangmonyet"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/16622598",
+                "href": "https://github.com/25077667",
+                "username": "25077667"
+            }
+        ],
+        "currentPeriodStars": 545,
+        "description": "The Linux Kernel Module Programming Guide (updated for 5.x kernels)",
+        "forks": 86,
+        "fullname": "sysprog21/lkmpg",
+        "language": "TeX",
+        "languageColor": "#3D6117",
+        "name": "lkmpg",
+        "stars": 1872,
+        "url": "https://github.com/sysprog21/lkmpg"
+    },
+    {
+        "author": "actions",
+        "avatar": "https://github.com/actions.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/16715858",
+                "href": "https://github.com/maxim-lobanov",
+                "username": "maxim-lobanov"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/48208649",
+                "href": "https://github.com/miketimofeev",
+                "username": "miketimofeev"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/47745270",
+                "href": "https://github.com/al-cheb",
+                "username": "al-cheb"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6873951",
+                "href": "https://github.com/alepauly",
+                "username": "alepauly"
+            }
+        ],
+        "currentPeriodStars": 56,
+        "description": "GitHub Actions virtual environments",
+        "forks": 1368,
+        "fullname": "actions/virtual-environments",
+        "language": "PowerShell",
+        "languageColor": "#012456",
+        "name": "virtual-environments",
+        "stars": 3752,
+        "url": "https://github.com/actions/virtual-environments"
+    },
+    {
+        "author": "metersphere",
+        "avatar": "https://github.com/metersphere.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/23045261",
+                "href": "https://github.com/liuruibin",
+                "username": "liuruibin"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/41557596",
+                "href": "https://github.com/AgAngle",
+                "username": "AgAngle"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/70558837",
+                "href": "https://github.com/fit2-zhao",
+                "username": "fit2-zhao"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/58418919",
+                "href": "https://github.com/shiziyuan9527",
+                "username": "shiziyuan9527"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/64353056",
+                "href": "https://github.com/wenyann",
+                "username": "wenyann"
+            }
+        ],
+        "currentPeriodStars": 54,
+        "description": "MeterSphere \u662f\u4e00\u7ad9\u5f0f\u5f00\u6e90\u6301\u7eed\u6d4b\u8bd5\u5e73\u53f0\uff0c\u6db5\u76d6\u6d4b\u8bd5\u8ddf\u8e2a\u3001\u63a5\u53e3\u6d4b\u8bd5\u3001\u6027\u80fd\u6d4b\u8bd5\u3001\u56e2\u961f\u534f\u4f5c\u7b49\u529f\u80fd\uff0c\u5168\u9762\u517c\u5bb9 JMeter\u3001Postman\u3001Swagger \u7b49\u5f00\u6e90\u3001\u4e3b\u6d41\u6807\u51c6\u3002",
+        "forks": 1183,
+        "fullname": "metersphere/metersphere",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "name": "metersphere",
+        "stars": 5125,
+        "url": "https://github.com/metersphere/metersphere"
+    },
+    {
+        "author": "JetBrains",
+        "avatar": "https://github.com/JetBrains.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/25667761",
+                "href": "https://github.com/Schahen",
+                "username": "Schahen"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5963351",
+                "href": "https://github.com/igordmn",
+                "username": "igordmn"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2600522",
+                "href": "https://github.com/olonho",
+                "username": "olonho"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/654232",
+                "href": "https://github.com/AlexeyTsvetkov",
+                "username": "AlexeyTsvetkov"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/32446626",
+                "href": "https://github.com/Rsedaikin",
+                "username": "Rsedaikin"
+            }
+        ],
+        "currentPeriodStars": 351,
+        "description": "Jetpack Compose for Desktop and Web, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.",
+        "forks": 292,
+        "fullname": "JetBrains/compose-jb",
+        "language": "Kotlin",
+        "languageColor": "#A97BFF",
+        "name": "compose-jb",
+        "stars": 5443,
+        "url": "https://github.com/JetBrains/compose-jb"
+    },
+    {
+        "author": "Security-Onion-Solutions",
+        "avatar": "https://github.com/Security-Onion-Solutions.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5054687",
+                "href": "https://github.com/TOoSmOotH",
+                "username": "TOoSmOotH"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/17089008",
+                "href": "https://github.com/m0duspwnens",
+                "username": "m0duspwnens"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4155337",
+                "href": "https://github.com/rwwiv",
+                "username": "rwwiv"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/16829864",
+                "href": "https://github.com/weslambert",
+                "username": "weslambert"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/16639611",
+                "href": "https://github.com/jertel",
+                "username": "jertel"
+            }
+        ],
+        "currentPeriodStars": 88,
+        "description": "Security Onion 2 - Linux distro for threat hunting, enterprise security monitoring, and log management",
+        "forks": 159,
+        "fullname": "Security-Onion-Solutions/securityonion",
+        "language": "Shell",
+        "languageColor": "#89e051",
+        "name": "securityonion",
+        "stars": 680,
+        "url": "https://github.com/Security-Onion-Solutions/securityonion"
+    },
+    {
+        "author": "3b1b",
+        "avatar": "https://github.com/3b1b.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/11601040",
+                "href": "https://github.com/3b1b",
+                "username": "3b1b"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/13440601",
+                "href": "https://github.com/bhbr",
+                "username": "bhbr"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/44120331",
+                "href": "https://github.com/TonyCrane",
+                "username": "TonyCrane"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/43117506",
+                "href": "https://github.com/eulertour",
+                "username": "eulertour"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/35234358",
+                "href": "https://github.com/Sridhar3b1b",
+                "username": "Sridhar3b1b"
+            }
+        ],
+        "currentPeriodStars": 203,
+        "description": "Animation engine for explanatory math videos",
+        "forks": 4176,
+        "fullname": "3b1b/manim",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "manim",
+        "stars": 35839,
+        "url": "https://github.com/3b1b/manim"
+    },
+    {
+        "author": "dotnet-architecture",
+        "avatar": "https://github.com/dotnet-architecture.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1712635",
+                "href": "https://github.com/CESARDELATORRE",
+                "username": "CESARDELATORRE"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5191049",
+                "href": "https://github.com/eiximenis",
+                "username": "eiximenis"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/9867024",
+                "href": "https://github.com/christian147",
+                "username": "christian147"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/16465474",
+                "href": "https://github.com/sonahander",
+                "username": "sonahander"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7357806",
+                "href": "https://github.com/mvelosop",
+                "username": "mvelosop"
+            }
+        ],
+        "currentPeriodStars": 50,
+        "description": "Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 5, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.",
+        "forks": 7743,
+        "fullname": "dotnet-architecture/eShopOnContainers",
+        "language": "C#",
+        "languageColor": "#178600",
+        "name": "eShopOnContainers",
+        "stars": 18334,
+        "url": "https://github.com/dotnet-architecture/eShopOnContainers"
+    },
+    {
+        "author": "typescript-eslint",
+        "avatar": "https://github.com/typescript-eslint.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7462525",
+                "href": "https://github.com/bradzacher",
+                "username": "bradzacher"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/900523",
+                "href": "https://github.com/JamesHenry",
+                "username": "JamesHenry"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/625469",
+                "href": "https://github.com/armano2",
+                "username": "armano2"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/509265",
+                "href": "https://github.com/a-tarasyuk",
+                "username": "a-tarasyuk"
+            }
+        ],
+        "currentPeriodStars": 25,
+        "description": "\u2728 Monorepo for all the tooling which enables ESLint to support TypeScript",
+        "forks": 1718,
+        "fullname": "typescript-eslint/typescript-eslint",
+        "language": "TypeScript",
+        "languageColor": "#2b7489",
+        "name": "typescript-eslint",
+        "stars": 10062,
+        "url": "https://github.com/typescript-eslint/typescript-eslint"
+    },
+    {
+        "author": "commaai",
+        "avatar": "https://github.com/commaai.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8762862",
+                "href": "https://github.com/adeebshihadeh",
+                "username": "adeebshihadeh"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1314752",
+                "href": "https://github.com/pd0wm",
+                "username": "pd0wm"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/27770",
+                "href": "https://github.com/deanlee",
+                "username": "deanlee"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6804392",
+                "href": "https://github.com/HaraldSchafer",
+                "username": "HaraldSchafer"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/72895",
+                "href": "https://github.com/geohot",
+                "username": "geohot"
+            }
+        ],
+        "currentPeriodStars": 732,
+        "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.",
+        "forks": 5333,
+        "fullname": "commaai/openpilot",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "name": "openpilot",
+        "stars": 27438,
+        "url": "https://github.com/commaai/openpilot"
+    }
+]
