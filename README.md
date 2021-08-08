@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net) | This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net. |
-| [sheetjs](https://github.com/SheetJS/sheetjs) | 📗 SheetJS Community Edition -- Spreadsheet Data Toolkit |
-| [ShuiZe_0x727](https://github.com/0x727/ShuiZe_0x727) | 信息收集自动化工具 |
-| [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) | The OpenAPI Specification Repository |
-| [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 25 lessons, 50 quizzes, classic Machine Learning for all |
-| [apisix](https://github.com/apache/apisix) | The Cloud-Native API Gateway |
-| [hello-algorithm](https://github.com/geekxh/hello-algorithm) | 🌍 针对小白的算法训练 | 包括四部分：①.算法基础 ②.力扣图解 ③.大厂面经 ④.CS_汇总 | 附：1、千本开源电子书 2、百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~） |
-| [Rubeus](https://github.com/GhostPack/Rubeus) | Trying to tame the three-headed dog. |
+| [vscode](https://github.com/microsoft/vscode) | Visual Studio Code |
+| [pinot](https://github.com/apache/pinot) | Apache Pinot (Incubating) - A realtime distributed OLAP datastore |
+| [react-query](https://github.com/tannerlinsley/react-query) | ⚛️ Hooks for fetching, caching and updating asynchronous data in React |
 | [datafuse](https://github.com/datafuselabs/datafuse) | A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture, built to make the Data Cloud easy |
-| [terminal](https://github.com/microsoft/terminal) | The new Windows Terminal and the original Windows console host, all in the same place! |
+| [rpcs3](https://github.com/RPCS3/rpcs3) | PS3 emulator/debugger |
+| [manim](https://github.com/3b1b/manim) | Animation engine for explanatory math videos |
+| [DescomplicandoDocker](https://github.com/badtuxx/DescomplicandoDocker) | Descomplicando o Docker, o livro. |
+| [DescomplicandoKubernetes](https://github.com/badtuxx/DescomplicandoKubernetes) | None |
+| [kompose](https://github.com/kubernetes/kompose) | Go from Docker Compose to Kubernetes |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
