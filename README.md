@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [gctoolkit](https://github.com/microsoft/gctoolkit) | Tool for parsing GC logs |
 | [DescomplicandoDocker](https://github.com/badtuxx/DescomplicandoDocker) | Descomplicando o Docker, o livro. |
+| [chia-blockchain](https://github.com/Chia-Network/chia-blockchain) | Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet) |
+| [manim](https://github.com/3b1b/manim) | Animation engine for explanatory math videos |
+| [33-js-concepts](https://github.com/leonardomso/33-js-concepts) | 📜 33 JavaScript concepts every developer should know. |
+| [dogecoin](https://github.com/dogecoin/dogecoin) | very currency |
 | [rpcs3](https://github.com/RPCS3/rpcs3) | PS3 emulator/debugger |
-| [DescomplicandoKubernetes](https://github.com/badtuxx/DescomplicandoKubernetes) | None |
 | [appleprivacyletter](https://github.com/nadimkobeissi/appleprivacyletter) | An open letter against Apple's new privacy-invasive client-side content scanning. |
-| [azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net) | This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net. |
-| [compose-jb](https://github.com/JetBrains/compose-jb) | Jetpack Compose for Desktop and Web, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable. |
-| [openpilot](https://github.com/commaai/openpilot) | openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models. |
-| [docker-wyze-bridge](https://github.com/mrlt8/docker-wyze-bridge) | RTMP/RTSP/HLS bridge for Wyze cams in a docker container |
-| [FlaxEngine](https://github.com/FlaxEngine/FlaxEngine) | Flax Engine – multi-platform 3D game engine |
-| [yuzu](https://github.com/yuzu-emu/yuzu) | Nintendo Switch Emulator |
+| [manim](https://github.com/ManimCommunity/manim) | A community-maintained Python framework for creating mathematical animations. |
+| [py](https://github.com/codebasics/py) | Repository to store sample python programs for python learning |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
