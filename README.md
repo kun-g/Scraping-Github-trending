@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [gctoolkit](https://github.com/microsoft/gctoolkit) | Tool for parsing GC logs |
-| [DescomplicandoDocker](https://github.com/badtuxx/DescomplicandoDocker) | Descomplicando o Docker, o livro. |
-| [chia-blockchain](https://github.com/Chia-Network/chia-blockchain) | Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet) |
-| [manim](https://github.com/3b1b/manim) | Animation engine for explanatory math videos |
-| [33-js-concepts](https://github.com/leonardomso/33-js-concepts) | 📜 33 JavaScript concepts every developer should know. |
-| [dogecoin](https://github.com/dogecoin/dogecoin) | very currency |
-| [rpcs3](https://github.com/RPCS3/rpcs3) | PS3 emulator/debugger |
-| [appleprivacyletter](https://github.com/nadimkobeissi/appleprivacyletter) | An open letter against Apple's new privacy-invasive client-side content scanning. |
-| [manim](https://github.com/ManimCommunity/manim) | A community-maintained Python framework for creating mathematical animations. |
+| [textual](https://github.com/willmcgugan/textual) | Textual is a TUI (Text User Interface) framework for Python inspired by modern web development. |
+| [truffle](https://github.com/trufflesuite/truffle) | A tool for developing smart contracts. Crafted with the finest cacaos. |
+| [reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) | 技术面试最后反问面试官的话 |
 | [py](https://github.com/codebasics/py) | Repository to store sample python programs for python learning |
+| [expo](https://github.com/expo/expo) | An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web. |
+| [hora](https://github.com/hora-search/hora) | 🚀 efficient approximate nearest neighbor search algorithm collections library written in Rust 🦀 . |
+| [rpcs3](https://github.com/RPCS3/rpcs3) | PS3 emulator/debugger |
+| [fd](https://github.com/sharkdp/fd) | A simple, fast and user-friendly alternative to 'find' |
+| [JavaGuide](https://github.com/Snailclimb/JavaGuide) | 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！ |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
