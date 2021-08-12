@@ -11,14 +11,14 @@
 | :----: | :----: |
 | [gctoolkit](https://github.com/microsoft/gctoolkit) | Tool for parsing GC logs |
 | [textual](https://github.com/willmcgugan/textual) | Textual is a TUI (Text User Interface) framework for Python inspired by modern web development. |
-| [truffle](https://github.com/trufflesuite/truffle) | A tool for developing smart contracts. Crafted with the finest cacaos. |
-| [reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) | 技术面试最后反问面试官的话 |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax) | Model parallel transformers in JAX and Haiku |
 | [py](https://github.com/codebasics/py) | Repository to store sample python programs for python learning |
-| [expo](https://github.com/expo/expo) | An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web. |
-| [hora](https://github.com/hora-search/hora) | 🚀 efficient approximate nearest neighbor search algorithm collections library written in Rust 🦀 . |
-| [rpcs3](https://github.com/RPCS3/rpcs3) | PS3 emulator/debugger |
-| [fd](https://github.com/sharkdp/fd) | A simple, fast and user-friendly alternative to 'find' |
-| [JavaGuide](https://github.com/Snailclimb/JavaGuide) | 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！ |
+| [ots](https://github.com/sniptt-official/ots) | 🔐 Share end-to-end encrypted secrets with others via a one-time URL |
+| [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
+| [AirCash](https://github.com/Aircoin-official/AirCash) | Cash system for AIR. |
+| [Practical-Ethical-Hacking-Resources](https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources) | Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course |
+| [PlayCover](https://github.com/Letscoder/PlayCover) | PlayCover is a project that allows you to sideload iOS apps on macOS( currently arm, Intel support will be tested. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
