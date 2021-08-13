@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [gctoolkit](https://github.com/microsoft/gctoolkit) | Tool for parsing GC logs |
-| [textual](https://github.com/willmcgugan/textual) | Textual is a TUI (Text User Interface) framework for Python inspired by modern web development. |
+| [protobuf](https://github.com/protocolbuffers/protobuf) | Protocol Buffers - Google's data interchange format |
 | [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax) | Model parallel transformers in JAX and Haiku |
-| [py](https://github.com/codebasics/py) | Repository to store sample python programs for python learning |
-| [ots](https://github.com/sniptt-official/ots) | 🔐 Share end-to-end encrypted secrets with others via a one-time URL |
-| [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
+| [flat](https://github.com/netless-io/flat) | Project flat is the Web, Windows and macOS client of Agora Flat open source classroom. |
 | [AirCash](https://github.com/Aircoin-official/AirCash) | Cash system for AIR. |
+| [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Awesome multilingual OCR toolkits based on PaddlePaddle （practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices） |
+| [essential-cardano](https://github.com/input-output-hk/essential-cardano) | Repository for the Essential Cardano list |
+| [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | 🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！ |
+| [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) | A repository to index and organize the latest machine learning courses found on YouTube. |
 | [Practical-Ethical-Hacking-Resources](https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources) | Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course |
-| [PlayCover](https://github.com/Letscoder/PlayCover) | PlayCover is a project that allows you to sideload iOS apps on macOS( currently arm, Intel support will be tested. |
+| [strapi](https://github.com/strapi/strapi) | 🚀 Open source Node.js Headless CMS to easily build customisable APIs |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
