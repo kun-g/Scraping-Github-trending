@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [swc](https://github.com/swc-project/swc) | swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript. |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [github1s](https://github.com/conwnet/github1s) | One second to read GitHub code with VS Code. |
-| [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Awesome multilingual OCR toolkits based on PaddlePaddle （practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices） |
-| [MinimalApiPlayground](https://github.com/DamianEdwards/MinimalApiPlayground) | A place I'm trying out the new ASP.NET Core minimal APIs features. |
+| [PlayCover](https://github.com/Letscoder/PlayCover) | PlayCover is a project that allows you to sideload iOS apps on macOS( currently arm, Intel support will be tested. |
+| [fishdraw](https://github.com/LingDong-/fishdraw) | procedurally generated fish drawings |
+| [bhook](https://github.com/bytedance/bhook) | 🔥 bhook is a PLT hook framework for Android app. |
+| [darts](https://github.com/unit8co/darts) | A python library for easy manipulation and forecasting of time series. |
+| [absurd-sql](https://github.com/jlongster/absurd-sql) | sqlite3 in ur indexeddb (hopefully a better backend soon) |
+| [PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! |
+| [ethermint](https://github.com/tharsis/ethermint) | Ethermint is a scalable and interoperable Ethereum, built on Proof-of-Stake with fast-finality using the Cosmos SDK. |
 | [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | 🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！ |
-| [terraform](https://github.com/hashicorp/terraform) | Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. |
-| [protobuf](https://github.com/protocolbuffers/protobuf) | Protocol Buffers - Google's data interchange format |
-| [webdav-aliyundriver](https://github.com/zxbu/webdav-aliyundriver) | 阿里云盘(https://www.aliyundrive.com/) 的webdav协议开源实现 |
-| [code-server](https://github.com/cdr/code-server) | VS Code in the browser |
+| [localstack](https://github.com/localstack/localstack) | 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline! |
+| [egui](https://github.com/emilk/egui) | egui: an easy-to-use immediate mode GUI in pure Rust |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
