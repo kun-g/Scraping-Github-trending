@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [NvChad](https://github.com/NvChad/NvChad) | An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast. |
-| [aspnetcore](https://github.com/dotnet/aspnetcore) | ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux. |
-| [coq_nvim](https://github.com/ms-jpq/coq_nvim) | Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization. |
-| [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond. |
+| [spring-authorization-server](https://github.com/spring-projects/spring-authorization-server) | A community-driven project led by the Spring Security team and is focused on delivering Authorization Server support to the Spring community |
 | [PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! |
-| [laravel-tips](https://github.com/LaravelDaily/laravel-tips) | Awesome tips for Laravel |
+| [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond. |
+| [serenity](https://github.com/SerenityOS/serenity) | The Serenity Operating System 🐞 |
+| [is-even](https://github.com/samuelmarina/is-even) | Is a number even? |
 | [Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang) | 【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt |
-| [bulletproof-react](https://github.com/alan2207/bulletproof-react) | 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications. |
-| [Huan](https://github.com/frkngksl/Huan) | Encrypted PE Loader Generator |
-| [algorithm-note](https://github.com/Dairongpeng/algorithm-note) | 该系列包括数组，链表，树，图，递归，DP，有序表等相关数据结构与算法的讲解及代码实现。 |
+| [Qv2ray](https://github.com/Qv2ray/Qv2ray) | ⭐ Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 ⭐ |
+| [coq_nvim](https://github.com/ms-jpq/coq_nvim) | Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization. |
+| [annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) | 🧑‍🏫 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit), optimizers (adam, radam, adabelief), gans(dcgan, cyclegan, stylegan2), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, etc. 🧠 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
