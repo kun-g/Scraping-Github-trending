@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [NvChad](https://github.com/NvChad/NvChad) | An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast. |
+| [gokart](https://github.com/praetorian-inc/gokart) | A static analysis tool for securing Go code |
+| [AppleNeuralHash2ONNX](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX) | Convert Apple NeuralHash model for CSAM Detection to ONNX. |
+| [Realtime-Voice-Clone-Chinese](https://github.com/babysor/Realtime-Voice-Clone-Chinese) | 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time |
 | [spring-authorization-server](https://github.com/spring-projects/spring-authorization-server) | A community-driven project led by the Spring Security team and is focused on delivering Authorization Server support to the Spring community |
-| [PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! |
-| [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond. |
+| [NvChad](https://github.com/NvChad/NvChad) | An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast. |
 | [serenity](https://github.com/SerenityOS/serenity) | The Serenity Operating System 🐞 |
-| [is-even](https://github.com/samuelmarina/is-even) | Is a number even? |
-| [Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang) | 【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt |
-| [Qv2ray](https://github.com/Qv2ray/Qv2ray) | ⭐ Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 ⭐ |
-| [coq_nvim](https://github.com/ms-jpq/coq_nvim) | Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization. |
-| [annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) | 🧑‍🏫 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit), optimizers (adam, radam, adabelief), gans(dcgan, cyclegan, stylegan2), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, etc. 🧠 |
+| [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond. |
+| [source-code-hunter](https://github.com/doocs/source-code-hunter) | 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等 |
+| [onnx](https://github.com/onnx/onnx) | Open standard for machine learning interoperability |
+| [public-api-lists](https://github.com/public-api-lists/public-api-lists) | A collective list of free APIs for use in software and web development 🚀 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
