@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [RustPython](https://github.com/RustPython/RustPython) | A Python Interpreter written in Rust |
+| [folly](https://github.com/facebook/folly) | An open-source C++ library developed and used at Facebook. |
+| [nvim-cmp](https://github.com/hrsh7th/nvim-cmp) | A completion plugin for neovim coded in Lua. |
+| [cli](https://github.com/cli/cli) | GitHub’s official command line tool |
 | [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A youtube-dl fork with additional features and fixes |
-| [zx](https://github.com/google/zx) | A tool for writing better scripts |
-| [lkmpg](https://github.com/sysprog21/lkmpg) | The Linux Kernel Module Programming Guide (updated for 5.x kernels) |
-| [filebrowser](https://github.com/filebrowser/filebrowser) | 📂 Web File Browser |
-| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
 | [typescript-book](https://github.com/basarat/typescript-book) | 📚 The definitive guide to TypeScript and possibly the best TypeScript book 📖. Free and Open Source 🌹 |
+| [lkmpg](https://github.com/sysprog21/lkmpg) | The Linux Kernel Module Programming Guide (updated for 5.x kernels) |
+| [applied-ml](https://github.com/eugeneyan/applied-ml) | 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production. |
+| [sqlmodel](https://github.com/tiangolo/sqlmodel) | SQL databases in Python, designed for simplicity, compatibility, and robustness. |
+| [engineer-manager](https://github.com/ryanburgess/engineer-manager) | A list of engineering manager resource links. |
 | [The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) | This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview questions, and Miscellaneous Stuff (Programming MCQs, Puzzles, Aptitude, Reasoning). The Programming languages used for demonstration are C++, Pytho… |
-| [influential-cs-books](https://github.com/cs-books/influential-cs-books) | Most influential books on Computer Science/programming |
-| [faker2](https://github.com/shufflewzc/faker2) | 不知名大佬备份 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
