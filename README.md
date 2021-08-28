@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [prettymaps](https://github.com/marceloprates/prettymaps) | A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries. |
 | [folly](https://github.com/facebook/folly) | An open-source C++ library developed and used at Facebook. |
-| [nvim-cmp](https://github.com/hrsh7th/nvim-cmp) | A completion plugin for neovim coded in Lua. |
-| [cli](https://github.com/cli/cli) | GitHub’s official command line tool |
-| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A youtube-dl fork with additional features and fixes |
 | [typescript-book](https://github.com/basarat/typescript-book) | 📚 The definitive guide to TypeScript and possibly the best TypeScript book 📖. Free and Open Source 🌹 |
-| [lkmpg](https://github.com/sysprog21/lkmpg) | The Linux Kernel Module Programming Guide (updated for 5.x kernels) |
-| [applied-ml](https://github.com/eugeneyan/applied-ml) | 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production. |
-| [sqlmodel](https://github.com/tiangolo/sqlmodel) | SQL databases in Python, designed for simplicity, compatibility, and robustness. |
-| [engineer-manager](https://github.com/ryanburgess/engineer-manager) | A list of engineering manager resource links. |
 | [The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) | This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview questions, and Miscellaneous Stuff (Programming MCQs, Puzzles, Aptitude, Reasoning). The Programming languages used for demonstration are C++, Pytho… |
+| [RustPython](https://github.com/RustPython/RustPython) | A Python Interpreter written in Rust |
+| [MeiliSearch](https://github.com/meilisearch/MeiliSearch) | Powerful, fast, and an easy to use search engine |
+| [lkmpg](https://github.com/sysprog21/lkmpg) | The Linux Kernel Module Programming Guide (updated for 5.x kernels) |
+| [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
+| [terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) | Terraform AWS provider |
+| [angular](https://github.com/angular/angular) | The modern web developer’s platform |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
