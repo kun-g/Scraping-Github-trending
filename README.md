@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [prettymaps](https://github.com/marceloprates/prettymaps) | A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries. |
+| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A youtube-dl fork with additional features and fixes |
+| [nft-image-generator](https://github.com/benyaminahmed/nft-image-generator) | None |
+| [chia-blockchain](https://github.com/Chia-Network/chia-blockchain) | Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet) |
+| [bsc](https://github.com/binance-chain/bsc) | A Binance Smart Chain client based on the go-ethereum fork |
+| [sqlmodel](https://github.com/tiangolo/sqlmodel) | SQL databases in Python, designed for simplicity, compatibility, and robustness. |
+| [whoogle-search](https://github.com/benbusby/whoogle-search) | A self-hosted, ad-free, privacy-respecting metasearch engine |
+| [server](https://github.com/nextcloud/server) | ☁️ Nextcloud server, a safe home for all your data |
+| [ant-design-mobile](https://github.com/ant-design/ant-design-mobile) | A configurable Mobile UI |
 | [folly](https://github.com/facebook/folly) | An open-source C++ library developed and used at Facebook. |
-| [typescript-book](https://github.com/basarat/typescript-book) | 📚 The definitive guide to TypeScript and possibly the best TypeScript book 📖. Free and Open Source 🌹 |
-| [The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) | This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview questions, and Miscellaneous Stuff (Programming MCQs, Puzzles, Aptitude, Reasoning). The Programming languages used for demonstration are C++, Pytho… |
-| [RustPython](https://github.com/RustPython/RustPython) | A Python Interpreter written in Rust |
-| [MeiliSearch](https://github.com/meilisearch/MeiliSearch) | Powerful, fast, and an easy to use search engine |
-| [lkmpg](https://github.com/sysprog21/lkmpg) | The Linux Kernel Module Programming Guide (updated for 5.x kernels) |
-| [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
-| [terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) | Terraform AWS provider |
-| [angular](https://github.com/angular/angular) | The modern web developer’s platform |
+| [YOLOP](https://github.com/hustvl/YOLOP) | You Only Look Once for Panopitic Driving Perception.（https://arxiv.org/abs/2108.11250） |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
