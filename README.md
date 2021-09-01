@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [server](https://github.com/nextcloud/server) | ☁️ Nextcloud server, a safe home for all your data |
-| [macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) | Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS |
-| [binance-trading-bot-new-coins](https://github.com/CyberPunkMetalHead/binance-trading-bot-new-coins) | This Binance trading bot detects new coins as soon as they are listed on the Binance exchange and automatically places sell and buy orders. It comes with trailing stop loss and other features. If you like this project please consider donating via Brave. |
 | [jina](https://github.com/jina-ai/jina) | Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data |
-| [Magisk](https://github.com/topjohnwu/Magisk) | The Magic Mask for Android |
-| [nft-image-generator](https://github.com/benyaminahmed/nft-image-generator) | None |
-| [chia-blockchain](https://github.com/Chia-Network/chia-blockchain) | Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet) |
-| [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | ⚡ Dynamically generated stats for your github readmes |
+| [DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | This repository consists of the code samples, assignments, and the curriculum for the Community Classroom complete Data Structures & Algorithms Java bootcamp. |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
 | [whoogle-search](https://github.com/benbusby/whoogle-search) | A self-hosted, ad-free, privacy-respecting metasearch engine |
-| [discord.py](https://github.com/Rapptz/discord.py) | An API wrapper for Discord written in Python. |
+| [lite-xl](https://github.com/lite-xl/lite-xl) | A lightweight text editor written in Lua |
+| [generative-art-node](https://github.com/HashLips/generative-art-node) | Create generative art by using the canvas api and node js |
+| [nft-image-generator](https://github.com/benyaminahmed/nft-image-generator) | None |
+| [td](https://github.com/tdlib/td) | Cross-platform library for building Telegram clients |
+| [DFIRMindMaps](https://github.com/rathbuna/DFIRMindMaps) | A repository of DFIR-related Mind Maps geared towards the visual learners! |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
