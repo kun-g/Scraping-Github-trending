@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [jina](https://github.com/jina-ai/jina) | Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data |
-| [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) | Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes. |
-| [netbox](https://github.com/netbox-community/netbox) | Infrastructure resource modeling for network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev |
-| [binance-trading-bot-new-coins](https://github.com/CyberPunkMetalHead/binance-trading-bot-new-coins) | This Binance trading bot detects new coins as soon as they are listed on the Binance exchange and automatically places sell and buy orders. It comes with trailing stop loss and other features. If you like this project please consider donating via Brave. |
 | [jd_scripts](https://github.com/ClassmateLin/jd_scripts) | Scripts |
-| [TTS](https://github.com/coqui-ai/TTS) | 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production |
-| [self-taught-guide-to-cloud-computing](https://github.com/madebygps/self-taught-guide-to-cloud-computing) | Self-taught guide to cloud computing. |
+| [nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) | Community curated list of templates for the nuclei engine to find security vulnerabilities. |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [jina](https://github.com/jina-ai/jina) | Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data |
 | [GFPGAN](https://github.com/TencentARC/GFPGAN) | GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration. |
-| [solana](https://github.com/solana-labs/solana) | Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces. |
-| [macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) | Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS |
+| [terminal](https://github.com/microsoft/terminal) | The new Windows Terminal and the original Windows console host, all in the same place! |
+| [jvm](https://github.com/doocs/jvm) | 🤗 JVM 底层原理最全知识总结 |
+| [autocomplete](https://github.com/withfig/autocomplete) | Fig adds autocomplete to your terminal. |
+| [podman](https://github.com/containers/podman) | Podman: A tool for managing OCI containers and pods. |
+| [RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) | Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML! |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
