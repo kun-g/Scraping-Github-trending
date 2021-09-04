@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [jd_scripts](https://github.com/ClassmateLin/jd_scripts) | Scripts |
-| [nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) | Community curated list of templates for the nuclei engine to find security vulnerabilities. |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [jina](https://github.com/jina-ai/jina) | Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data |
-| [GFPGAN](https://github.com/TencentARC/GFPGAN) | GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration. |
-| [terminal](https://github.com/microsoft/terminal) | The new Windows Terminal and the original Windows console host, all in the same place! |
-| [jvm](https://github.com/doocs/jvm) | 🤗 JVM 底层原理最全知识总结 |
-| [autocomplete](https://github.com/withfig/autocomplete) | Fig adds autocomplete to your terminal. |
-| [podman](https://github.com/containers/podman) | Podman: A tool for managing OCI containers and pods. |
-| [RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) | Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML! |
+| [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) | Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes. |
+| [aws-cdk](https://github.com/aws/aws-cdk) | The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code |
+| [pytorch-image-models](https://github.com/rwightman/pytorch-image-models) | PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more |
+| [MadeWithML](https://github.com/GokuMohandas/MadeWithML) | Learn how to responsibly deliver value with ML. |
+| [Leafish](https://github.com/terrarier2111/Leafish) | None |
+| [bolt](https://github.com/dblalock/bolt) | 10x faster matrix and vector operations. |
+| [Javascript](https://github.com/TheAlgorithms/Javascript) | A repository for All algorithms implemented in Javascript (for educational purposes only) |
+| [Remotely](https://github.com/lucent-sea/Remotely) | A remote control and remote scripting solution, built with .NET 5, Blazor, SignalR Core, and WebRTC. |
+| [CVE-2021-26084_Confluence](https://github.com/h3v0x/CVE-2021-26084_Confluence) | Confluence Server Webwork OGNL injection |
+| [EagleEye](https://github.com/ThoughtfulDev/EagleEye) | Stalk your Friends. Find their Instagram, FB and Twitter Profiles using Image Recognition and Reverse Image Search. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
