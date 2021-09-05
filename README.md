@@ -25,16 +25,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A youtube-dl fork with additional features and fixes |
 | [nft-image-generator](https://github.com/benyaminahmed/nft-image-generator) | None |
-| [chia-blockchain](https://github.com/Chia-Network/chia-blockchain) | Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet) |
-| [bsc](https://github.com/binance-chain/bsc) | A Binance Smart Chain client based on the go-ethereum fork |
-| [sqlmodel](https://github.com/tiangolo/sqlmodel) | SQL databases in Python, designed for simplicity, compatibility, and robustness. |
-| [whoogle-search](https://github.com/benbusby/whoogle-search) | A self-hosted, ad-free, privacy-respecting metasearch engine |
-| [server](https://github.com/nextcloud/server) | ☁️ Nextcloud server, a safe home for all your data |
-| [ant-design-mobile](https://github.com/ant-design/ant-design-mobile) | A configurable Mobile UI |
-| [folly](https://github.com/facebook/folly) | An open-source C++ library developed and used at Facebook. |
-| [YOLOP](https://github.com/hustvl/YOLOP) | You Only Look Once for Panopitic Driving Perception.（https://arxiv.org/abs/2108.11250） |
+| [metaplex](https://github.com/metaplex-foundation/metaplex) | Protocol and application framework for decentralized NFT minting, storefronts, and sales. |
+| [jina](https://github.com/jina-ai/jina) | Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data |
+| [qinglong](https://github.com/whyour/qinglong) | Python/JavaScript/Shell/Typescript 定时任务管理面板 |
+| [podman](https://github.com/containers/podman) | Podman: A tool for managing OCI containers and pods. |
+| [re3](https://github.com/GTAmodding/re3) | GTA III, Vice City |
+| [solana](https://github.com/solana-labs/solana) | Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces. |
+| [TTS](https://github.com/coqui-ai/TTS) | 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production |
+| [kkndme_tianya](https://github.com/shenzhengfang/kkndme_tianya) | 天涯 kkndme 神贴聊房价 |
+| [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) | Clone a voice in 5 seconds to generate arbitrary speech in real-time |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
