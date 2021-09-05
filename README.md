@@ -41,14 +41,14 @@
 <!-- START OF MONTHLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [server](https://github.com/nextcloud/server) | ☁️ Nextcloud server, a safe home for all your data |
-| [jina](https://github.com/jina-ai/jina) | Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data |
-| [DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | This repository consists of the code samples, assignments, and the curriculum for the Community Classroom complete Data Structures & Algorithms Java bootcamp. |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [whoogle-search](https://github.com/benbusby/whoogle-search) | A self-hosted, ad-free, privacy-respecting metasearch engine |
-| [lite-xl](https://github.com/lite-xl/lite-xl) | A lightweight text editor written in Lua |
-| [generative-art-node](https://github.com/HashLips/generative-art-node) | Create generative art by using the canvas api and node js |
-| [nft-image-generator](https://github.com/benyaminahmed/nft-image-generator) | None |
-| [td](https://github.com/tdlib/td) | Cross-platform library for building Telegram clients |
-| [DFIRMindMaps](https://github.com/rathbuna/DFIRMindMaps) | A repository of DFIR-related Mind Maps geared towards the visual learners! |
+| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A youtube-dl fork with additional features and fixes |
+| [NvChad](https://github.com/NvChad/NvChad) | An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast. |
+| [DescomplicandoDocker](https://github.com/badtuxx/DescomplicandoDocker) | Descomplicando o Docker, o livro. |
+| [textual](https://github.com/willmcgugan/textual) | Textual is a TUI (Text User Interface) framework for Python inspired by modern web development. |
+| [papers-we-love](https://github.com/papers-we-love/papers-we-love) | Papers from the computer science community to read and discuss. |
+| [zx](https://github.com/google/zx) | A tool for writing better scripts |
+| [spring-authorization-server](https://github.com/spring-projects/spring-authorization-server) | The Spring Authorization Server project is focused on delivering OAuth 2.1 Authorization Server support to the Spring community. |
+| [OnlyFans](https://github.com/DIGITALCRIMINAL/OnlyFans) | Scrape all the media from an OnlyFans account - Updated regularly |
+| [filebrowser](https://github.com/filebrowser/filebrowser) | 📂 Web File Browser |
+| [swc](https://github.com/swc-project/swc) | swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript. |
 <!-- END OF MONTHLY_TOP10_REPOS -->
