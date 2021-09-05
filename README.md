@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [AbBOT](https://github.com/SeanDaBlack/AbBOT) | None |
+| [re3](https://github.com/GTAmodding/re3) | GTA III, Vice City |
+| [jvm](https://github.com/doocs/jvm) | 🤗 JVM 底层原理最全知识总结 |
 | [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) | Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes. |
-| [aws-cdk](https://github.com/aws/aws-cdk) | The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code |
-| [pytorch-image-models](https://github.com/rwightman/pytorch-image-models) | PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more |
-| [MadeWithML](https://github.com/GokuMohandas/MadeWithML) | Learn how to responsibly deliver value with ML. |
-| [Leafish](https://github.com/terrarier2111/Leafish) | None |
-| [bolt](https://github.com/dblalock/bolt) | 10x faster matrix and vector operations. |
-| [Javascript](https://github.com/TheAlgorithms/Javascript) | A repository for All algorithms implemented in Javascript (for educational purposes only) |
-| [Remotely](https://github.com/lucent-sea/Remotely) | A remote control and remote scripting solution, built with .NET 5, Blazor, SignalR Core, and WebRTC. |
-| [CVE-2021-26084_Confluence](https://github.com/h3v0x/CVE-2021-26084_Confluence) | Confluence Server Webwork OGNL injection |
-| [EagleEye](https://github.com/ThoughtfulDev/EagleEye) | Stalk your Friends. Find their Instagram, FB and Twitter Profiles using Image Recognition and Reverse Image Search. |
+| [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity |
+| [website](https://github.com/lootproject/website) | Loot Project website |
+| [wskey](https://github.com/Zy143L/wskey) | wskey |
+| [advanced-java](https://github.com/doocs/advanced-java) | 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识 |
+| [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | A list of Free Software network services and web applications which can be hosted on your own servers |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
