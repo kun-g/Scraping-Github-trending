@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [AbBOT](https://github.com/SeanDaBlack/AbBOT) | None |
+| [lifeRestart](https://github.com/VickScarlet/lifeRestart) | やり直すんだ。そして、次はうまくやる。 |
 | [re3](https://github.com/GTAmodding/re3) | GTA III, Vice City |
-| [jvm](https://github.com/doocs/jvm) | 🤗 JVM 底层原理最全知识总结 |
 | [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) | Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes. |
 | [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity |
-| [website](https://github.com/lootproject/website) | Loot Project website |
-| [wskey](https://github.com/Zy143L/wskey) | wskey |
-| [advanced-java](https://github.com/doocs/advanced-java) | 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识 |
-| [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | A list of Free Software network services and web applications which can be hosted on your own servers |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [frontend-clean-architecture](https://github.com/bespoyasov/frontend-clean-architecture) | React + TypeScript app built using clean architecture principles. |
+| [Javascript](https://github.com/TheAlgorithms/Javascript) | A repository for All algorithms implemented in Javascript (for educational purposes only) |
+| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+| [spicetify-cli](https://github.com/khanhas/spicetify-cli) | Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux. |
+| [metaplex](https://github.com/metaplex-foundation/metaplex) | Protocol and application framework for decentralized NFT minting, storefronts, and sales. |
+| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
