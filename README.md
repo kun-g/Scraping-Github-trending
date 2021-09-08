@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [re3](https://github.com/GTAmodding/re3) | GTA III, Vice City |
-| [lifeRestart](https://github.com/VickScarlet/lifeRestart) | やり直すんだ。そして、次はうまくやる。 |
-| [website](https://github.com/lootproject/website) | Loot Project website |
+| [frontend-clean-architecture](https://github.com/bespoyasov/frontend-clean-architecture) | React + TypeScript app built using clean architecture principles. |
 | [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
-| [dhof-loot](https://github.com/Anish-Agnihotri/dhof-loot) | Scripts to collect statistics about LOOT + derivative projects. |
-| [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) | Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes. |
-| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+| [loot-rarity](https://github.com/bpierre/loot-rarity) | 🤍 💚 💙 💜 🧡 ❤️ Rarity levels for Loot. |
+| [generative-art-opensource](https://github.com/HashLips/generative-art-opensource) | Create generative art by using the canvas api and node js, feel free to contribute to this repo with new ideas. |
 | [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity |
-| [openwrt](https://github.com/openwrt/openwrt) | This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org |
-| [v2ray-core](https://github.com/v2fly/v2ray-core) | A platform for building proxies to bypass network restrictions. |
+| [Mindustry](https://github.com/Anuken/Mindustry) | A sandbox tower defense game |
+| [Javascript](https://github.com/TheAlgorithms/Javascript) | A repository for All algorithms implemented in Javascript (for educational purposes only) |
+| [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | Short JavaScript code snippets for all your development needs |
+| [git-cliff](https://github.com/orhun/git-cliff) | A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ |
+| [mlbookcamp-code](https://github.com/alexeygrigorev/mlbookcamp-code) | The code from the Machine Learning Bookcamp book |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
