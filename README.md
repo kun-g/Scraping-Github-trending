@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [frontend-clean-architecture](https://github.com/bespoyasov/frontend-clean-architecture) | React + TypeScript app built using clean architecture principles. |
+| [semana-javascript-expert05](https://github.com/ErickWendel/semana-javascript-expert05) | Todas as aulas da Semana JS Expert 5.0 - Google Drive Clone |
+| [clang-tutorial](https://github.com/wangdoc/clang-tutorial) | C 语言教程 |
+| [Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang) | 【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt |
 | [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
-| [loot-rarity](https://github.com/bpierre/loot-rarity) | 🤍 💚 💙 💜 🧡 ❤️ Rarity levels for Loot. |
-| [generative-art-opensource](https://github.com/HashLips/generative-art-opensource) | Create generative art by using the canvas api and node js, feel free to contribute to this repo with new ideas. |
-| [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity |
-| [Mindustry](https://github.com/Anuken/Mindustry) | A sandbox tower defense game |
-| [Javascript](https://github.com/TheAlgorithms/Javascript) | A repository for All algorithms implemented in Javascript (for educational purposes only) |
-| [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | Short JavaScript code snippets for all your development needs |
-| [git-cliff](https://github.com/orhun/git-cliff) | A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ |
-| [mlbookcamp-code](https://github.com/alexeygrigorev/mlbookcamp-code) | The code from the Machine Learning Bookcamp book |
+| [rarity](https://github.com/andrecronje/rarity) | d20srd reference implementation codified in solidity |
+| [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 25 lessons, 50 quizzes, classic Machine Learning for all |
+| [age](https://github.com/FiloSottile/age) | A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. |
+| [Macast](https://github.com/xfangfang/Macast) | Macast is a cross-platform application which using mpv as DLNA Media Renderer. |
+| [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Awesome multilingual OCR toolkits based on PaddlePaddle （practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices） |
+| [100-redteam-projects](https://github.com/kurogai/100-redteam-projects) | Projects for security students |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
