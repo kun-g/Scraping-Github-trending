@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [semana-javascript-expert05](https://github.com/ErickWendel/semana-javascript-expert05) | Todas as aulas da Semana JS Expert 5.0 - Google Drive Clone |
 | [clang-tutorial](https://github.com/wangdoc/clang-tutorial) | C 语言教程 |
-| [Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang) | 【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt |
-| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
-| [rarity](https://github.com/andrecronje/rarity) | d20srd reference implementation codified in solidity |
-| [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 25 lessons, 50 quizzes, classic Machine Learning for all |
-| [age](https://github.com/FiloSottile/age) | A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. |
-| [Macast](https://github.com/xfangfang/Macast) | Macast is a cross-platform application which using mpv as DLNA Media Renderer. |
 | [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Awesome multilingual OCR toolkits based on PaddlePaddle （practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices） |
-| [100-redteam-projects](https://github.com/kurogai/100-redteam-projects) | Projects for security students |
+| [Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang) | 【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt |
+| [kitex](https://github.com/cloudwego/kitex) | A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices. |
+| [candy-machine-mint](https://github.com/exiled-apes/candy-machine-mint) | Fork, config, customize and ship your own candy machine mint app on your own domain, ultra fast. |
+| [Xray-core](https://github.com/XTLS/Xray-core) | Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration. |
+| [cockroach](https://github.com/cockroachdb/cockroach) | CockroachDB - the open source, cloud-native distributed SQL database. |
+| [htmlq](https://github.com/mgdm/htmlq) | Like jq, but for HTML. |
+| [rarity](https://github.com/andrecronje/rarity) | d20srd reference implementation codified in solidity |
+| [Khepri](https://github.com/geemion/Khepri) | 🔥🔥🔥Free,Open-Source,Cross-platform agent and Post-exploiton tool written in Golang and C++. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
