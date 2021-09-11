@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [clang-tutorial](https://github.com/wangdoc/clang-tutorial) | C 语言教程 |
-| [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Awesome multilingual OCR toolkits based on PaddlePaddle （practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices） |
-| [Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang) | 【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt |
+| [netpoll](https://github.com/cloudwego/netpoll) | A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance. |
 | [kitex](https://github.com/cloudwego/kitex) | A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices. |
 | [candy-machine-mint](https://github.com/exiled-apes/candy-machine-mint) | Fork, config, customize and ship your own candy machine mint app on your own domain, ultra fast. |
-| [Xray-core](https://github.com/XTLS/Xray-core) | Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration. |
-| [cockroach](https://github.com/cockroachdb/cockroach) | CockroachDB - the open source, cloud-native distributed SQL database. |
-| [htmlq](https://github.com/mgdm/htmlq) | Like jq, but for HTML. |
-| [rarity](https://github.com/andrecronje/rarity) | d20srd reference implementation codified in solidity |
-| [Khepri](https://github.com/geemion/Khepri) | 🔥🔥🔥Free,Open-Source,Cross-platform agent and Post-exploiton tool written in Golang and C++. |
+| [azure-cli](https://github.com/Azure/azure-cli) | Azure Command-Line Interface |
+| [pedalboard](https://github.com/spotify/pedalboard) | 🎛 🔊 A Python library for adding effects to audio. |
+| [polaris](https://github.com/polarismesh/polaris) | Service Discovery and Governance Center for Distributed and Microservice Architecture |
+| [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond. |
+| [protobuf](https://github.com/protocolbuffers/protobuf) | Protocol Buffers - Google's data interchange format |
+| [Top10](https://github.com/OWASP/Top10) | Official OWASP Top 10 Document Repository |
+| [spiceai](https://github.com/spiceai/spiceai) | Time series AI for developers |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
