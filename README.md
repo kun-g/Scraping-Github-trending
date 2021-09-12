@@ -25,16 +25,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [nft-image-generator](https://github.com/benyaminahmed/nft-image-generator) | None |
-| [metaplex](https://github.com/metaplex-foundation/metaplex) | Protocol and application framework for decentralized NFT minting, storefronts, and sales. |
-| [jina](https://github.com/jina-ai/jina) | Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data |
-| [qinglong](https://github.com/whyour/qinglong) | Python/JavaScript/Shell/Typescript 定时任务管理面板 |
-| [podman](https://github.com/containers/podman) | Podman: A tool for managing OCI containers and pods. |
+| [lifeRestart](https://github.com/VickScarlet/lifeRestart) | やり直すんだ。そして、次はうまくやる。 |
 | [re3](https://github.com/GTAmodding/re3) | GTA III, Vice City |
-| [solana](https://github.com/solana-labs/solana) | Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces. |
-| [TTS](https://github.com/coqui-ai/TTS) | 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production |
-| [kkndme_tianya](https://github.com/shenzhengfang/kkndme_tianya) | 天涯 kkndme 神贴聊房价 |
-| [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) | Clone a voice in 5 seconds to generate arbitrary speech in real-time |
+| [website](https://github.com/lootproject/website) | Loot Project website |
+| [generative-art-opensource](https://github.com/HashLips/generative-art-opensource) | Create generative art by using the canvas api and node js, feel free to contribute to this repo with new ideas. |
+| [lima](https://github.com/lima-vm/lima) | Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially) |
+| [metaplex](https://github.com/metaplex-foundation/metaplex) | Protocol and application framework for decentralized NFT minting, storefronts, and sales. |
+| [kitex](https://github.com/cloudwego/kitex) | A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices. |
+| [dapp-scaffold](https://github.com/solana-labs/dapp-scaffold) | Scaffolding for a dapp built on Solana |
+| [Javascript](https://github.com/TheAlgorithms/Javascript) | A repository for All algorithms implemented in Javascript (for educational purposes only) |
+| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
