@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [netpoll](https://github.com/cloudwego/netpoll) | A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance. |
-| [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond. |
-| [azure-cli](https://github.com/Azure/azure-cli) | Azure Command-Line Interface |
-| [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | 💯 Curated interview preparation materials for busy engineers |
-| [ChoiceCoin.github.io](https://github.com/ChoiceCoin/ChoiceCoin.github.io) | Choice Coin Public Website |
+| [wslg](https://github.com/microsoft/wslg) | Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios |
+| [Dopefolio](https://github.com/rammcodes/Dopefolio) | Dopefolio 🔥 - Portfolio Template for Developers 🚀 |
+| [gobang](https://github.com/TaKO8Ki/gobang) | A cross-platform TUI database management tool written in Rust |
 | [covid19-public](https://github.com/MoH-Malaysia/covid19-public) | Official data on the COVID-19 epidemic in Malaysia. Powered by CPRC, CPRC Hospital System, MKAK, and MySejahtera. |
-| [kitex](https://github.com/cloudwego/kitex) | A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices. |
-| [Digital-Privacy](https://github.com/ffffffff0x/Digital-Privacy) | 一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗 |
-| [go-profiler-notes](https://github.com/DataDog/go-profiler-notes) | felixge's notes on the various go profiling methods that are available. |
-| [protobuf](https://github.com/protocolbuffers/protobuf) | Protocol Buffers - Google's data interchange format |
+| [candy-machine-mint](https://github.com/exiled-apes/candy-machine-mint) | Fork, config, customize and ship your own candy machine mint app on your own domain, ultra fast. |
+| [full-blockchain-solidity-course-py](https://github.com/smartcontractkit/full-blockchain-solidity-course-py) | Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition |
+| [MLOps-Basics](https://github.com/graviraja/MLOps-Basics) | None |
+| [supabase](https://github.com/supabase/supabase) | The open source Firebase alternative. Follow to stay updated about our public Beta. |
+| [netpoll](https://github.com/cloudwego/netpoll) | A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance. |
+| [godot](https://github.com/godotengine/godot) | Godot Engine – Multi-platform 2D and 3D game engine |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10

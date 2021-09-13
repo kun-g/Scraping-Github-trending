@@ -1,0 +1,298 @@
+[
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/5855893",
+        "name": "Luke Edwards",
+        "repo": {
+            "description": "The next generation web framework for Cloudflare Workers",
+            "name": "worktop",
+            "url": "https://github.com/lukeed/worktop"
+        },
+        "sponsorUrl": "https://github.com/sponsors/lukeed",
+        "url": "https://github.com/lukeed",
+        "username": "lukeed"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/130929",
+        "name": "Henrik Rydg\u00e5rd",
+        "repo": {
+            "description": "A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the forums on ppsspp.org.",
+            "name": "ppsspp",
+            "url": "https://github.com/hrydgard/ppsspp"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/hrydgard",
+        "username": "hrydgard"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/380914",
+        "name": "Tom Moor",
+        "repo": {
+            "description": "Normalize and render emoji's the way your users expect.",
+            "name": "react-emoji-render",
+            "url": "https://github.com/tommoor/react-emoji-render"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/tommoor",
+        "username": "tommoor"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/4025227",
+        "name": "Daniel Vaz Gaspar",
+        "repo": {
+            "description": "Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome) - http://flaskappbuilder.pythonanywhere.com/",
+            "name": "Flask-AppBuilder",
+            "url": "https://github.com/dpgaspar/Flask-AppBuilder"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/dpgaspar",
+        "username": "dpgaspar"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/661450",
+        "name": "Arvid Norberg",
+        "repo": {
+            "description": "an efficient feature complete C++ bittorrent implementation",
+            "name": "libtorrent",
+            "url": "https://github.com/arvidn/libtorrent"
+        },
+        "sponsorUrl": "https://github.com/sponsors/arvidn",
+        "url": "https://github.com/arvidn",
+        "username": "arvidn"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1810591",
+        "name": "Anthony Sottile",
+        "repo": {
+            "description": "A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.",
+            "name": "pyupgrade",
+            "url": "https://github.com/asottile/pyupgrade"
+        },
+        "sponsorUrl": "https://github.com/sponsors/asottile",
+        "url": "https://github.com/asottile",
+        "username": "asottile"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/857609",
+        "name": "Adam Johnson",
+        "repo": {
+            "description": "Extensions for using Django with htmx.",
+            "name": "django-htmx",
+            "url": "https://github.com/adamchainz/django-htmx"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/adamchainz",
+        "username": "adamchainz"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/3729908",
+        "name": "Wil Thomason",
+        "repo": {
+            "description": "A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config",
+            "name": "packer.nvim",
+            "url": "https://github.com/wbthomason/packer.nvim"
+        },
+        "sponsorUrl": "https://github.com/sponsors/wbthomason",
+        "url": "https://github.com/wbthomason",
+        "username": "wbthomason"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1658644",
+        "name": "Julien Le Coupanec",
+        "repo": {
+            "description": "\ud83d\udc69\u200d\ud83d\udcbb\ud83d\udc68\u200d\ud83d\udcbb Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.",
+            "name": "awesome-cheatsheets",
+            "url": "https://github.com/LeCoupa/awesome-cheatsheets"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/LeCoupa",
+        "username": "LeCoupa"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/28480705",
+        "name": "MichaIng",
+        "repo": {
+            "description": "Lightweight justice for your single-board computer!",
+            "name": "DietPi",
+            "url": "https://github.com/MichaIng/DietPi"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/MichaIng",
+        "username": "MichaIng"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/46163555",
+        "name": "PySimpleGUI",
+        "repo": {
+            "description": "Launched in 2018 Actively developed and supported. Supports tkinter, Qt, WxPython, Remi (in browser). Create custom layout GUI's simply. Python 2.7 & 3 Support. 200+ Demo programs & Cookbook for rapid start. Extensive documentation. Examples using Machine Learning(GUI, OpenCV Integration, Chatterbot), Floating Desktop Widgets, Matplotlib + Pyplo\u2026",
+            "name": "PySimpleGUI",
+            "url": "https://github.com/PySimpleGUI/PySimpleGUI"
+        },
+        "sponsorUrl": "https://github.com/sponsors/PySimpleGUI",
+        "url": "https://github.com/PySimpleGUI",
+        "username": "PySimpleGUI"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2621",
+        "name": "Brad Fitzpatrick",
+        "repo": {
+            "description": "Go Memcached client library #golang",
+            "name": "gomemcache",
+            "url": "https://github.com/bradfitz/gomemcache"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/bradfitz",
+        "username": "bradfitz"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/515813",
+        "name": "Sam Clegg",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/sbc100",
+        "username": "sbc100"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/23920",
+        "name": "Joe Block",
+        "repo": {
+            "description": "A collection of ZSH frameworks, plugins, themes and tutorials.",
+            "name": "awesome-zsh-plugins",
+            "url": "https://github.com/unixorn/awesome-zsh-plugins"
+        },
+        "sponsorUrl": "https://github.com/sponsors/unixorn",
+        "url": "https://github.com/unixorn",
+        "username": "unixorn"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/173661",
+        "name": "Alon Zakai",
+        "repo": {
+            "description": "Direct port of the Bullet physics engine to JavaScript using Emscripten",
+            "name": "ammo.js",
+            "url": "https://github.com/kripken/ammo.js"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/kripken",
+        "username": "kripken"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/249515",
+        "name": "Ha Thach",
+        "repo": {
+            "description": "An open source cross-platform USB stack for embedded system",
+            "name": "tinyusb",
+            "url": "https://github.com/hathach/tinyusb"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/hathach",
+        "username": "hathach"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/47554",
+        "name": "Ben Sheldon [he/him]",
+        "repo": {
+            "description": "Multithreaded, Postgres-based, ActiveJob backend for Ruby on Rails.",
+            "name": "good_job",
+            "url": "https://github.com/bensheldon/good_job"
+        },
+        "sponsorUrl": "https://github.com/sponsors/bensheldon",
+        "url": "https://github.com/bensheldon",
+        "username": "bensheldon"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/8366208",
+        "name": "Yair Morgenstern",
+        "repo": {
+            "description": "Open-source Android/Desktop remake of Civ V",
+            "name": "Unciv",
+            "url": "https://github.com/yairm210/Unciv"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/yairm210",
+        "username": "yairm210"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/17535",
+        "name": "Kat March\u00e1n",
+        "repo": {
+            "description": "Fancy upgrade to std::error::Error.",
+            "name": "miette",
+            "url": "https://github.com/zkat/miette"
+        },
+        "sponsorUrl": "https://github.com/sponsors/zkat",
+        "url": "https://github.com/zkat",
+        "username": "zkat"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/458654",
+        "name": "Bruno Rocha",
+        "repo": {
+            "description": "Configuration Management for Python \u2699",
+            "name": "dynaconf",
+            "url": "https://github.com/rochacbruno/dynaconf"
+        },
+        "sponsorUrl": "https://github.com/sponsors/rochacbruno",
+        "url": "https://github.com/rochacbruno",
+        "username": "rochacbruno"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/14984911",
+        "name": "Artem Zakharchenko",
+        "repo": {
+            "description": "Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.",
+            "name": "naming-cheatsheet",
+            "url": "https://github.com/kettanaito/naming-cheatsheet"
+        },
+        "sponsorUrl": "https://github.com/sponsors/kettanaito",
+        "url": "https://github.com/kettanaito",
+        "username": "kettanaito"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/658",
+        "name": "Stephen Celis",
+        "repo": {
+            "description": "A type-safe, Swift-language layer over SQLite3.",
+            "name": "SQLite.swift",
+            "url": "https://github.com/stephencelis/SQLite.swift"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/stephencelis",
+        "username": "stephencelis"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2796466",
+        "name": "Eliza Weisman",
+        "repo": {
+            "description": "A VM-based runtime environment for functional programming languages",
+            "name": "seax",
+            "url": "https://github.com/hawkw/seax"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/hawkw",
+        "username": "hawkw"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2851492",
+        "name": "Florian Roth",
+        "repo": {
+            "description": "Loki - Simple IOC and Incident Response Scanner",
+            "name": "Loki",
+            "url": "https://github.com/Neo23x0/Loki"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/Neo23x0",
+        "username": "Neo23x0"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/16950",
+        "name": "Hajime Hoshi",
+        "repo": {
+            "description": "A dead simple 2D game library for Go",
+            "name": "ebiten",
+            "url": "https://github.com/hajimehoshi/ebiten"
+        },
+        "sponsorUrl": "https://github.com/sponsors/hajimehoshi",
+        "url": "https://github.com/hajimehoshi",
+        "username": "hajimehoshi"
+    }
+]
