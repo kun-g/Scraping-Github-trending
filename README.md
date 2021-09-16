@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [lobster-challenge](https://github.com/input-output-hk/lobster-challenge) | Simple Plutus contract to help give Charles' stuffed lobster a name |
-| [full-blockchain-solidity-course-py](https://github.com/smartcontractkit/full-blockchain-solidity-course-py) | Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition |
-| [qlib](https://github.com/microsoft/qlib) | Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you can easily try your ideas to create better Quant investment strategies. |
-| [ergodnc](https://github.com/themsaid/ergodnc) | None |
-| [CVE-2021-40444](https://github.com/lockedbyte/CVE-2021-40444) | CVE-2021-40444 PoC |
-| [Apollo-11](https://github.com/chrislgarry/Apollo-11) | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. |
-| [MLOps-Basics](https://github.com/graviraja/MLOps-Basics) | None |
+| [python-mini-projects](https://github.com/Python-World/python-mini-projects) | A collection of simple python mini projects to enhance your python skills |
+| [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
+| [Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot) | An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support! |
 | [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 25 lessons, 50 quizzes, classic Machine Learning for all |
-| [milkdown](https://github.com/Saul-Mirone/milkdown) | 🍼 Plugin driven WYSIWYG markdown editor framework. |
-| [awesome-cs-books](https://github.com/imarvinle/awesome-cs-books) | 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等 |
+| [MLOps-Basics](https://github.com/graviraja/MLOps-Basics) | None |
+| [q1k3](https://github.com/phoboslab/q1k3) | A tiny FPS for js13k |
+| [quantitative](https://github.com/Jack-Cherish/quantitative) | 量化交易：python3 |
+| [devops-exercises](https://github.com/bregman-arie/devops-exercises) | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions |
+| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
+| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
