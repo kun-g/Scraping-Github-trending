@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [python-mini-projects](https://github.com/Python-World/python-mini-projects) | A collection of simple python mini projects to enhance your python skills |
+| [MusicBot](https://github.com/jagrosh/MusicBot) | 🎶 A Discord music bot that's easy to set up and run yourself! |
 | [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
-| [Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot) | An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support! |
-| [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 25 lessons, 50 quizzes, classic Machine Learning for all |
-| [MLOps-Basics](https://github.com/graviraja/MLOps-Basics) | None |
+| [maui](https://github.com/dotnet/maui) | .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop. |
 | [q1k3](https://github.com/phoboslab/q1k3) | A tiny FPS for js13k |
-| [quantitative](https://github.com/Jack-Cherish/quantitative) | 量化交易：python3 |
+| [hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine) | HashLips Art Engine is a tool used to create multiple different instances of artworks based on provided layers. |
+| [python-mini-projects](https://github.com/Python-World/python-mini-projects) | A collection of simple python mini projects to enhance your python skills |
+| [drawio-desktop](https://github.com/jgraph/drawio-desktop) | Official electron build of diagrams.net |
 | [devops-exercises](https://github.com/bregman-arie/devops-exercises) | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions |
-| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
-| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
+| [BespokeSynth](https://github.com/awwbees/BespokeSynth) | Software modular synth |
+| [milkdown](https://github.com/Saul-Mirone/milkdown) | 🍼 Plugin driven WYSIWYG markdown editor framework. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10

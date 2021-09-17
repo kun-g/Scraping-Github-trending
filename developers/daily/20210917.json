@@ -1,0 +1,290 @@
+[
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/6942",
+        "name": "Tom Payne",
+        "repo": {
+            "description": "Manage your dotfiles across multiple diverse machines, securely.",
+            "name": "chezmoi",
+            "url": "https://github.com/twpayne/chezmoi"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/twpayne",
+        "username": "twpayne"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1571086",
+        "name": "Shivam Mathur",
+        "repo": {
+            "description": "\ud83c\udf7a Homebrew tap for PHP 5.6 to 8.2. PHP 8.1 and 8.2 are nightly builds.",
+            "name": "homebrew-php",
+            "url": "https://github.com/shivammathur/homebrew-php"
+        },
+        "sponsorUrl": "https://github.com/sponsors/shivammathur",
+        "url": "https://github.com/shivammathur",
+        "username": "shivammathur"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/15199031",
+        "name": "Marc Rousavy",
+        "repo": {
+            "description": "\ud83d\udcf8 The Camera library that sees the vision.",
+            "name": "react-native-vision-camera",
+            "url": "https://github.com/mrousavy/react-native-vision-camera"
+        },
+        "sponsorUrl": "https://github.com/sponsors/mrousavy",
+        "url": "https://github.com/mrousavy",
+        "username": "mrousavy"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/43234",
+        "name": "Leon Sorokin",
+        "repo": {
+            "description": "\ud83d\udcc8 A small, fast chart for time series, lines, areas, ohlc & bars",
+            "name": "uPlot",
+            "url": "https://github.com/leeoniya/uPlot"
+        },
+        "sponsorUrl": "https://github.com/sponsors/leeoniya",
+        "url": "https://github.com/leeoniya",
+        "username": "leeoniya"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1476232",
+        "name": "Mike Penz",
+        "repo": {
+            "description": "AboutLibraries is a library to offer some information of libraries.",
+            "name": "AboutLibraries",
+            "url": "https://github.com/mikepenz/AboutLibraries"
+        },
+        "sponsorUrl": "https://github.com/sponsors/mikepenz",
+        "url": "https://github.com/mikepenz",
+        "username": "mikepenz"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2721089",
+        "name": "Liam DeBeasi",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/liamdebeasi",
+        "username": "liamdebeasi"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/658",
+        "name": "Stephen Celis",
+        "repo": {
+            "description": "A type-safe, Swift-language layer over SQLite3.",
+            "name": "SQLite.swift",
+            "url": "https://github.com/stephencelis/SQLite.swift"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/stephencelis",
+        "username": "stephencelis"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/9287",
+        "name": "isaacs",
+        "repo": {
+            "description": "glob functionality for node.js",
+            "name": "node-glob",
+            "url": "https://github.com/isaacs/node-glob"
+        },
+        "sponsorUrl": "https://github.com/sponsors/isaacs",
+        "url": "https://github.com/isaacs",
+        "username": "isaacs"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/862914",
+        "name": "Jeremy Long",
+        "repo": {
+            "description": "OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.",
+            "name": "DependencyCheck",
+            "url": "https://github.com/jeremylong/DependencyCheck"
+        },
+        "sponsorUrl": "https://github.com/sponsors/jeremylong",
+        "url": "https://github.com/jeremylong",
+        "username": "jeremylong"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/8762862",
+        "name": "Adeeb Shihadeh",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/adeebshihadeh",
+        "username": "adeebshihadeh"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/330950",
+        "name": "Jameson Nash",
+        "repo": {
+            "description": "Build types in Julia where some fields have computed types",
+            "name": "ComputedFieldTypes.jl",
+            "url": "https://github.com/vtjnash/ComputedFieldTypes.jl"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/vtjnash",
+        "username": "vtjnash"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/55352601",
+        "name": "Arpit Jain",
+        "repo": {
+            "description": "step by step guide for beginners for getting started with open source",
+            "name": "Getting-Started-with-open-source",
+            "url": "https://github.com/arpit456jain/Getting-Started-with-open-source"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/arpit456jain",
+        "username": "arpit456jain"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/35067",
+        "name": "James Bardin",
+        "repo": {
+            "description": "scp module for paramiko",
+            "name": "scp.py",
+            "url": "https://github.com/jbardin/scp.py"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/jbardin",
+        "username": "jbardin"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/128204",
+        "name": "Xabier Larrakoetxea Gallego",
+        "repo": {
+            "description": "\ud83e\udda5 Easy and simple Prometheus SLO (service level objectives) generator",
+            "name": "sloth",
+            "url": "https://github.com/slok/sloth"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/slok",
+        "username": "slok"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/591645",
+        "name": "Jeremy Tuloup",
+        "repo": {
+            "description": "A minimal Jupyter Notebook UI for p5.js kernels running in the browser",
+            "name": "p5-notebook",
+            "url": "https://github.com/jtpio/p5-notebook"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/jtpio",
+        "username": "jtpio"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/590471",
+        "name": "Alex Goodman",
+        "repo": {
+            "description": "A tool for exploring each layer in a docker image",
+            "name": "dive",
+            "url": "https://github.com/wagoodman/dive"
+        },
+        "sponsorUrl": "https://github.com/sponsors/wagoodman",
+        "url": "https://github.com/wagoodman",
+        "username": "wagoodman"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/126780",
+        "name": "Burak Yigit Kaya",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/BYK",
+        "username": "BYK"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/38700",
+        "name": "Mathias Fu\u00dfenegger",
+        "repo": {
+            "description": "Debug Adapter Protocol client implementation for Neovim (>= 0.5)",
+            "name": "nvim-dap",
+            "url": "https://github.com/mfussenegger/nvim-dap"
+        },
+        "sponsorUrl": "https://github.com/sponsors/mfussenegger",
+        "url": "https://github.com/mfussenegger",
+        "username": "mfussenegger"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/584253",
+        "name": "Nemo",
+        "repo": {
+            "description": "Google SRE Book Generator (EPUB/MOBI/PDF).",
+            "name": "google-sre-ebook",
+            "url": "https://github.com/captn3m0/google-sre-ebook"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/captn3m0",
+        "username": "captn3m0"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/4368928",
+        "name": "Pedro S. Lopez",
+        "repo": {
+            "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+            "name": "whatsapp-web.js",
+            "url": "https://github.com/pedroslopez/whatsapp-web.js"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/pedroslopez",
+        "username": "pedroslopez"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/99944",
+        "name": "Francois Zaninotto",
+        "repo": {
+            "description": "Faker is a PHP library that generates fake data for you",
+            "name": "Faker",
+            "url": "https://github.com/fzaninotto/Faker"
+        },
+        "sponsorUrl": "https://github.com/sponsors/fzaninotto",
+        "url": "https://github.com/fzaninotto",
+        "username": "fzaninotto"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/130929",
+        "name": "Henrik Rydg\u00e5rd",
+        "repo": {
+            "description": "A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the forums on ppsspp.org.",
+            "name": "ppsspp",
+            "url": "https://github.com/hrydgard/ppsspp"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/hrydgard",
+        "username": "hrydgard"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/17984549",
+        "name": "Max Schmitt",
+        "repo": {
+            "description": "Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.",
+            "name": "action-tmate",
+            "url": "https://github.com/mxschmitt/action-tmate"
+        },
+        "sponsorUrl": "https://github.com/sponsors/mxschmitt",
+        "url": "https://github.com/mxschmitt",
+        "username": "mxschmitt"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/22009",
+        "name": "Yusuke Kuoka",
+        "repo": {
+            "description": "Turn your bash scripts into a modern, single-executable CLI app today",
+            "name": "variant2",
+            "url": "https://github.com/mumoshu/variant2"
+        },
+        "sponsorUrl": "https://github.com/sponsors/mumoshu",
+        "url": "https://github.com/mumoshu",
+        "username": "mumoshu"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/29597",
+        "name": "Brian Vaughn",
+        "repo": {
+            "description": "React components for efficiently rendering large lists and tabular data",
+            "name": "react-window",
+            "url": "https://github.com/bvaughn/react-window"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/bvaughn",
+        "username": "bvaughn"
+    }
+]
