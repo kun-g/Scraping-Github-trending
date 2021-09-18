@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [MusicBot](https://github.com/jagrosh/MusicBot) | 🎶 A Discord music bot that's easy to set up and run yourself! |
-| [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
-| [maui](https://github.com/dotnet/maui) | .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop. |
-| [q1k3](https://github.com/phoboslab/q1k3) | A tiny FPS for js13k |
-| [hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine) | HashLips Art Engine is a tool used to create multiple different instances of artworks based on provided layers. |
-| [python-mini-projects](https://github.com/Python-World/python-mini-projects) | A collection of simple python mini projects to enhance your python skills |
-| [drawio-desktop](https://github.com/jgraph/drawio-desktop) | Official electron build of diagrams.net |
+| [calendso](https://github.com/calendso/calendso) | Scheduling infrastructure for absolutely everyone. |
+| [evobot](https://github.com/eritislami/evobot) | 🤖 EvoBot is a Discord Music Bot built with discord.js & uses Command Handler from discordjs.guide |
+| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
 | [devops-exercises](https://github.com/bregman-arie/devops-exercises) | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions |
-| [BespokeSynth](https://github.com/awwbees/BespokeSynth) | Software modular synth |
-| [milkdown](https://github.com/Saul-Mirone/milkdown) | 🍼 Plugin driven WYSIWYG markdown editor framework. |
+| [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
+| [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) | 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file. |
+| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
+| [crossplane](https://github.com/crossplane/crossplane) | Manage any infrastructure your applications need directly from Kubernetes |
+| [Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot) | An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support! |
+| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
