@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [authelia](https://github.com/authelia/authelia) | The Single Sign-On Multi-Factor portal for web apps |
 | [calendso](https://github.com/calendso/calendso) | Scheduling infrastructure for absolutely everyone. |
-| [evobot](https://github.com/eritislami/evobot) | 🤖 EvoBot is a Discord Music Bot built with discord.js & uses Command Handler from discordjs.guide |
-| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
+| [winter-of-contributing](https://github.com/girlscript/winter-of-contributing) | GirlScript Winter of Contributing is a three-month-long Open-Source Program organized by🧡GirlScript Foundation to create the world's largest multilingual content repository that will be available to everyone. |
+| [swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) | A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind. |
+| [faustjs](https://github.com/wpengine/faustjs) | Faust.js - The Headless WordPress Framework |
+| [www.mlcompendium.com](https://github.com/orico/www.mlcompendium.com) | The Machine Learning & Deep Learning Compendium is an open knowledge-sharing project compiled using Gitbook. |
 | [devops-exercises](https://github.com/bregman-arie/devops-exercises) | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions |
-| [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
-| [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) | 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file. |
-| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
-| [crossplane](https://github.com/crossplane/crossplane) | Manage any infrastructure your applications need directly from Kubernetes |
-| [Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot) | An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support! |
-| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
+| [sql-masterclass](https://github.com/DataWithDanny/sql-masterclass) | None |
+| [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) | Atmosphère is a work-in-progress customized firmware for the Nintendo Switch. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
