@@ -42,13 +42,13 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A youtube-dl fork with additional features and fixes |
-| [NvChad](https://github.com/NvChad/NvChad) | An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast. |
+| [MockingBird](https://github.com/babysor/MockingBird) | 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time |
 | [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) | Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration. |
-| [filebrowser](https://github.com/filebrowser/filebrowser) | 📂 Web File Browser |
-| [spring-authorization-server](https://github.com/spring-projects/spring-authorization-server) | The Spring Authorization Server project is focused on delivering OAuth 2.1 Authorization Server support to the Spring community. |
-| [papers-we-love](https://github.com/papers-we-love/papers-we-love) | Papers from the computer science community to read and discuss. |
-| [OnlyFans](https://github.com/DIGITALCRIMINAL/OnlyFans) | Scrape all the media from an OnlyFans account - Updated regularly |
-| [zx](https://github.com/google/zx) | A tool for writing better scripts |
 | [solana](https://github.com/solana-labs/solana) | Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces. |
-| [serenity](https://github.com/SerenityOS/serenity) | The Serenity Operating System 🐞 |
+| [Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang) | 【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt |
+| [filebrowser](https://github.com/filebrowser/filebrowser) | 📂 Web File Browser |
+| [papers-we-love](https://github.com/papers-we-love/papers-we-love) | Papers from the computer science community to read and discuss. |
+| [qinglong](https://github.com/whyour/qinglong) | Python/JavaScript/Shell/Typescript 定时任务管理面板 |
+| [OnlyFans](https://github.com/DIGITALCRIMINAL/OnlyFans) | Scrape all the media from an OnlyFans account - Updated regularly |
+| [podman](https://github.com/containers/podman) | Podman: A tool for managing OCI containers and pods. |
 <!-- END OF MONTHLY_TOP10_REPOS -->
