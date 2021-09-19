@@ -25,16 +25,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [lifeRestart](https://github.com/VickScarlet/lifeRestart) | やり直すんだ。そして、次はうまくやる。 |
-| [re3](https://github.com/GTAmodding/re3) | GTA III, Vice City |
-| [website](https://github.com/lootproject/website) | Loot Project website |
-| [generative-art-opensource](https://github.com/HashLips/generative-art-opensource) | Create generative art by using the canvas api and node js, feel free to contribute to this repo with new ideas. |
-| [lima](https://github.com/lima-vm/lima) | Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially) |
-| [metaplex](https://github.com/metaplex-foundation/metaplex) | Protocol and application framework for decentralized NFT minting, storefronts, and sales. |
-| [kitex](https://github.com/cloudwego/kitex) | A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices. |
-| [dapp-scaffold](https://github.com/solana-labs/dapp-scaffold) | Scaffolding for a dapp built on Solana |
-| [Javascript](https://github.com/TheAlgorithms/Javascript) | A repository for All algorithms implemented in Javascript (for educational purposes only) |
-| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
+| [react-native-universal-monorepo](https://github.com/mmazzarolo/react-native-universal-monorepo) | React Native boilerplate supporting multiple platforms: Android, iOS, macOS, Windows, web, browser extensions, Electron. |
+| [candy-machine-mint](https://github.com/exiled-apes/candy-machine-mint) | Fork, config, customize and ship your own candy machine mint app on your own domain, ultra fast. |
+| [netpoll](https://github.com/cloudwego/netpoll) | A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance. |
+| [calendso](https://github.com/calendso/calendso) | Scheduling infrastructure for absolutely everyone. |
+| [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
+| [spotify-tui](https://github.com/Rigellute/spotify-tui) | Spotify for the terminal written in Rust 🚀 |
+| [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | 💯 Curated interview preparation materials for busy engineers |
+| [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 25 lessons, 50 quizzes, classic Machine Learning for all |
+| [pytorch_geometric](https://github.com/pyg-team/pytorch_geometric) | Graph Neural Network Library for PyTorch |
+| [qlib](https://github.com/microsoft/qlib) | Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you can easily try your ideas to create better Quant investment strategies. |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10

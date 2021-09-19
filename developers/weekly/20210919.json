@@ -1,0 +1,298 @@
+[
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/6942",
+        "name": "Tom Payne",
+        "repo": {
+            "description": "Manage your dotfiles across multiple diverse machines, securely.",
+            "name": "chezmoi",
+            "url": "https://github.com/twpayne/chezmoi"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/twpayne",
+        "username": "twpayne"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2796466",
+        "name": "Eliza Weisman",
+        "repo": {
+            "description": null,
+            "name": "segvec",
+            "url": "https://github.com/hawkw/segvec"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/hawkw",
+        "username": "hawkw"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/21045690",
+        "name": "Christian Schwinne",
+        "repo": {
+            "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!",
+            "name": "WLED",
+            "url": "https://github.com/Aircoookie/WLED"
+        },
+        "sponsorUrl": "https://github.com/sponsors/Aircoookie",
+        "url": "https://github.com/Aircoookie",
+        "username": "Aircoookie"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/15034943",
+        "name": "Zachary Rice",
+        "repo": {
+            "description": "Scan git repos (or files) for secrets using regex and entropy \ud83d\udd11",
+            "name": "gitleaks",
+            "url": "https://github.com/zricethezav/gitleaks"
+        },
+        "sponsorUrl": "https://github.com/sponsors/zricethezav",
+        "url": "https://github.com/zricethezav",
+        "username": "zricethezav"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1571086",
+        "name": "Shivam Mathur",
+        "repo": {
+            "description": "GitHub action to set up PHP with extensions, php.ini configuration, coverage drivers, and various tools.",
+            "name": "setup-php",
+            "url": "https://github.com/shivammathur/setup-php"
+        },
+        "sponsorUrl": "https://github.com/sponsors/shivammathur",
+        "url": "https://github.com/shivammathur",
+        "username": "shivammathur"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/591645",
+        "name": "Jeremy Tuloup",
+        "repo": {
+            "description": "Control JupyterLab from Python Notebooks with Jupyter Widgets \ud83e\uddea \u2622\ufe0f \ud83d\udc0d",
+            "name": "ipylab",
+            "url": "https://github.com/jtpio/ipylab"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/jtpio",
+        "username": "jtpio"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/130929",
+        "name": "Henrik Rydg\u00e5rd",
+        "repo": {
+            "description": "A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the forums on ppsspp.org.",
+            "name": "ppsspp",
+            "url": "https://github.com/hrydgard/ppsspp"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/hrydgard",
+        "username": "hrydgard"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/188",
+        "name": "Natalie Weizenbaum",
+        "repo": {
+            "description": "Perspectives for Emacs.",
+            "name": "perspective-el",
+            "url": "https://github.com/nex3/perspective-el"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/nex3",
+        "username": "nex3"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/7253922",
+        "name": "Aleksandr Statciuk",
+        "repo": {
+            "description": "Node.js CLI tool for checking links in IPTV playlists",
+            "name": "iptv-checker",
+            "url": "https://github.com/freearhey/iptv-checker"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/freearhey",
+        "username": "freearhey"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1810591",
+        "name": "Anthony Sottile",
+        "repo": {
+            "description": "A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.",
+            "name": "pyupgrade",
+            "url": "https://github.com/asottile/pyupgrade"
+        },
+        "sponsorUrl": "https://github.com/sponsors/asottile",
+        "url": "https://github.com/asottile",
+        "username": "asottile"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/197404",
+        "name": "snipe",
+        "repo": {
+            "description": "A free open source IT asset/license management system",
+            "name": "snipe-it",
+            "url": "https://github.com/snipe/snipe-it"
+        },
+        "sponsorUrl": "https://github.com/sponsors/snipe",
+        "url": "https://github.com/snipe",
+        "username": "snipe"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/22009",
+        "name": "Yusuke Kuoka",
+        "repo": {
+            "description": "Turn your bash scripts into a modern, single-executable CLI app today",
+            "name": "variant2",
+            "url": "https://github.com/mumoshu/variant2"
+        },
+        "sponsorUrl": "https://github.com/sponsors/mumoshu",
+        "url": "https://github.com/mumoshu",
+        "username": "mumoshu"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/11247099",
+        "name": "Anthony Fu",
+        "repo": {
+            "description": "\ud83c\udfd5 Opinionated Vite Starter Template",
+            "name": "vitesse",
+            "url": "https://github.com/antfu/vitesse"
+        },
+        "sponsorUrl": "https://github.com/sponsors/antfu",
+        "url": "https://github.com/antfu",
+        "username": "antfu"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/4025227",
+        "name": "Daniel Vaz Gaspar",
+        "repo": {
+            "description": "Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome) - http://flaskappbuilder.pythonanywhere.com/",
+            "name": "Flask-AppBuilder",
+            "url": "https://github.com/dpgaspar/Flask-AppBuilder"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/dpgaspar",
+        "username": "dpgaspar"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2492783",
+        "name": "Jan De Dobbeleer",
+        "repo": {
+            "description": "A prompt theme engine for any shell.",
+            "name": "oh-my-posh",
+            "url": "https://github.com/JanDeDobbeleer/oh-my-posh"
+        },
+        "sponsorUrl": "https://github.com/sponsors/JanDeDobbeleer",
+        "url": "https://github.com/JanDeDobbeleer",
+        "username": "JanDeDobbeleer"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/17445847",
+        "name": "Xintao",
+        "repo": {
+            "description": "Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.",
+            "name": "Real-ESRGAN",
+            "url": "https://github.com/xinntao/Real-ESRGAN"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/xinntao",
+        "username": "xinntao"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/4984472",
+        "name": "Patrik Oldsberg",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/Rugvip",
+        "username": "Rugvip"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/6945922",
+        "name": "Matthias Fey",
+        "repo": {
+            "description": "PyTorch Extension Library of Optimized Autograd Sparse Matrix Operations",
+            "name": "pytorch_sparse",
+            "url": "https://github.com/rusty1s/pytorch_sparse"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/rusty1s",
+        "username": "rusty1s"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/5378891",
+        "name": "\u4e8c\u8d27\u673a\u5668\u4eba",
+        "repo": {
+            "description": "\u6bcf\u5929\u751f\u6210\u4e00\u7bc7\u5e9f\u8bdd",
+            "name": "bullshit-everyday",
+            "url": "https://github.com/zombieJ/bullshit-everyday"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/zombieJ",
+        "username": "zombieJ"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/93594",
+        "name": "Jake Archibald",
+        "repo": {
+            "description": "IndexedDB, but with promises",
+            "name": "idb",
+            "url": "https://github.com/jakearchibald/idb"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/jakearchibald",
+        "username": "jakearchibald"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/658",
+        "name": "Stephen Celis",
+        "repo": {
+            "description": "A type-safe, Swift-language layer over SQLite3.",
+            "name": "SQLite.swift",
+            "url": "https://github.com/stephencelis/SQLite.swift"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/stephencelis",
+        "username": "stephencelis"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/46163555",
+        "name": "PySimpleGUI",
+        "repo": {
+            "description": "Launched in 2018 Actively developed & supported. Supports tkinter, Qt, WxPython, Remi (in browser). Create custom GUI Windows simply, trivially with a full set of widgets. Multi-Window applications are also simple. Python 2.7 & 3 Support. 300+ Demo programs & Cookbook for rapid start. Extensive documentation. Examples using Machine Learning(GUI,\u2026",
+            "name": "PySimpleGUI",
+            "url": "https://github.com/PySimpleGUI/PySimpleGUI"
+        },
+        "sponsorUrl": "https://github.com/sponsors/PySimpleGUI",
+        "url": "https://github.com/PySimpleGUI",
+        "username": "PySimpleGUI"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/249515",
+        "name": "Ha Thach",
+        "repo": {
+            "description": "An open source cross-platform USB stack for embedded system",
+            "name": "tinyusb",
+            "url": "https://github.com/hathach/tinyusb"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/hathach",
+        "username": "hathach"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/661450",
+        "name": "Arvid Norberg",
+        "repo": {
+            "description": "an efficient feature complete C++ bittorrent implementation",
+            "name": "libtorrent",
+            "url": "https://github.com/arvidn/libtorrent"
+        },
+        "sponsorUrl": "https://github.com/sponsors/arvidn",
+        "url": "https://github.com/arvidn",
+        "username": "arvidn"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/380914",
+        "name": "Tom Moor",
+        "repo": {
+            "description": "Normalize and render emoji's the way your users expect.",
+            "name": "react-emoji-render",
+            "url": "https://github.com/tommoor/react-emoji-render"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/tommoor",
+        "username": "tommoor"
+    }
+]
