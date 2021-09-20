@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
 | [authelia](https://github.com/authelia/authelia) | The Single Sign-On Multi-Factor portal for web apps |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [react-illustration-series](https://github.com/7kms/react-illustration-series) | 图解react源码, 用大量配图的方式, 致力于将react原理表述清楚. |
+| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
 | [calendso](https://github.com/calendso/calendso) | Scheduling infrastructure for absolutely everyone. |
+| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
+| [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | Short JavaScript code snippets for all your development needs |
+| [Ventoy](https://github.com/ventoy/Ventoy) | A new bootable USB solution. |
+| [workflow](https://github.com/sogou/workflow) | C++ Parallel Computing and Asynchronous Networking Engine. Simple C++ HTTP Server/Client. |
 | [winter-of-contributing](https://github.com/girlscript/winter-of-contributing) | GirlScript Winter of Contributing is a three-month-long Open-Source Program organized by🧡GirlScript Foundation to create the world's largest multilingual content repository that will be available to everyone. |
-| [swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) | A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind. |
-| [faustjs](https://github.com/wpengine/faustjs) | Faust.js - The Headless WordPress Framework |
-| [www.mlcompendium.com](https://github.com/orico/www.mlcompendium.com) | The Machine Learning & Deep Learning Compendium is an open knowledge-sharing project compiled using Gitbook. |
-| [devops-exercises](https://github.com/bregman-arie/devops-exercises) | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions |
-| [sql-masterclass](https://github.com/DataWithDanny/sql-masterclass) | None |
-| [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) | Atmosphère is a work-in-progress customized firmware for the Nintendo Switch. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
