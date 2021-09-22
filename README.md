@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [kraken](https://github.com/openkraken/kraken) | A high-performance, web standards-compliant rendering engine based on Flutter. |
-| [laravel-crm](https://github.com/krayin/laravel-crm) | Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management. |
 | [authelia](https://github.com/authelia/authelia) | The Single Sign-On Multi-Factor portal for web apps |
-| [rich](https://github.com/willmcgugan/rich) | Rich is a Python library for rich text and beautiful formatting in the terminal. |
-| [termux-packages](https://github.com/termux/termux-packages) | A build system and primary set of packages for Termux. |
-| [react](https://github.com/typescript-cheatsheets/react) | Cheatsheets for experienced React developers getting started with TypeScript |
 | [Bili.Uwp](https://github.com/Richasy/Bili.Uwp) | 适用于新系统UI的哔哩 |
-| [Iris](https://github.com/IrisShaders/Iris) | (WIP) A new shaders mod for Minecraft intended to be compatible with existing ShadersMod/Optifine shaders |
+| [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page |
+| [btop](https://github.com/aristocratos/btop) | A monitor of resources |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | Short JavaScript code snippets for all your development needs |
+| [LinkFree](https://github.com/EddieHubCommunity/LinkFree) | Open source alternative to LinkTree |
+| [vagas](https://github.com/frontendbr/vagas) | 🔬 Espaço para divulgação de vagas para front-enders. |
+| [kornia](https://github.com/kornia/kornia) | Open Source Differentiable Computer Vision Library |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
