@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
+| [theatre](https://github.com/AriaMinaei/theatre) | Motion design editor for the web |
 | [authelia](https://github.com/authelia/authelia) | The Single Sign-On Multi-Factor portal for web apps |
-| [Bili.Uwp](https://github.com/Richasy/Bili.Uwp) | 适用于新系统UI的哔哩 |
+| [codebases](https://github.com/reacttips-dev/codebases) | Collection of some big project codebases - for studying only |
+| [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) | Launched in 2018 Actively developed & supported. Supports tkinter, Qt, WxPython, Remi (in browser). Create custom GUI Windows simply, trivially with a full set of widgets. Multi-Window applications are also simple. Python 2.7 & 3 Support. 300+ Demo programs & Cookbook for rapid start. Extensive documentation. Examples using Machine Learning(GUI,… |
+| [Kingfisher](https://github.com/onevcat/Kingfisher) | A lightweight, pure-Swift library for downloading and caching images from the web. |
+| [Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list) | List of Github repositories and articles with list of dorks for different search engines |
+| [angular-cli](https://github.com/angular/angular-cli) | CLI tool for Angular |
 | [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page |
-| [btop](https://github.com/aristocratos/btop) | A monitor of resources |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | Short JavaScript code snippets for all your development needs |
-| [LinkFree](https://github.com/EddieHubCommunity/LinkFree) | Open source alternative to LinkTree |
-| [vagas](https://github.com/frontendbr/vagas) | 🔬 Espaço para divulgação de vagas para front-enders. |
-| [kornia](https://github.com/kornia/kornia) | Open Source Differentiable Computer Vision Library |
+| [GRDB.swift](https://github.com/groue/GRDB.swift) | A toolkit for SQLite databases, with a focus on application development |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
