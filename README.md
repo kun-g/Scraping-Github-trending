@@ -9,15 +9,15 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) | Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML! |
 | [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
-| [theatre](https://github.com/AriaMinaei/theatre) | Motion design editor for the web |
-| [authelia](https://github.com/authelia/authelia) | The Single Sign-On Multi-Factor portal for web apps |
-| [codebases](https://github.com/reacttips-dev/codebases) | Collection of some big project codebases - for studying only |
-| [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) | Launched in 2018 Actively developed & supported. Supports tkinter, Qt, WxPython, Remi (in browser). Create custom GUI Windows simply, trivially with a full set of widgets. Multi-Window applications are also simple. Python 2.7 & 3 Support. 300+ Demo programs & Cookbook for rapid start. Extensive documentation. Examples using Machine Learning(GUI,… |
-| [Kingfisher](https://github.com/onevcat/Kingfisher) | A lightweight, pure-Swift library for downloading and caching images from the web. |
-| [Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list) | List of Github repositories and articles with list of dorks for different search engines |
 | [angular-cli](https://github.com/angular/angular-cli) | CLI tool for Angular |
-| [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page |
+| [secguide](https://github.com/Tencent/secguide) | 面向开发人员梳理的代码安全指南 |
+| [nomad](https://github.com/hashicorp/nomad) | Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. |
+| [ic_gan](https://github.com/facebookresearch/ic_gan) | Official repository for the paper "Instance-Conditioned GAN" by Arantxa Casanova, Marlene Careil, Jakob Verbeek, Michał Drożdżal, Adriana Romero-Soriano. |
+| [btop](https://github.com/aristocratos/btop) | A monitor of resources |
+| [genshin_auto_fish](https://github.com/7eu7d7/genshin_auto_fish) | 基于深度强化学习的原神自动钓鱼AI |
+| [theatre](https://github.com/AriaMinaei/theatre) | Motion design editor for the web |
 | [GRDB.swift](https://github.com/groue/GRDB.swift) | A toolkit for SQLite databases, with a focus on application development |
 <!-- END OF DAILY_TOP10_REPOS -->
 
