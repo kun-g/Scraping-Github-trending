@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) | Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML! |
-| [angular-cli](https://github.com/angular/angular-cli) | CLI tool for Angular |
-| [react-native](https://github.com/facebook/react-native) | A framework for building native applications using React |
-| [unilm](https://github.com/microsoft/unilm) | UniLM AI - Large-scale Self-supervised Pre-training across Tasks, Languages, and Modalities |
-| [genshin_auto_fish](https://github.com/7eu7d7/genshin_auto_fish) | 基于深度强化学习的原神自动钓鱼AI |
-| [codebases](https://github.com/reacttips-dev/codebases) | This project is collection of large projects's source code (codebases), built with Reactjs. Eg: Bestbuy, Postman, Trello, Udacity, Coursera, Skillshare, Invision, Intercom, Pipedrive, ... and more. |
-| [Merlion](https://github.com/salesforce/Merlion) | Merlion: A Machine Learning Framework for Time Series Intelligence |
-| [ffmpeg-to-webrtc](https://github.com/ashellunts/ffmpeg-to-webrtc) | Stream video from ffmpeg to web(rtc) |
 | [folly](https://github.com/facebook/folly) | An open-source C++ library developed and used at Facebook. |
-| [javascript-questions](https://github.com/lydiahallie/javascript-questions) | A long list of (advanced) JavaScript questions, and their explanations ✨ |
+| [RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) | Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML! |
+| [react-native](https://github.com/facebook/react-native) | A framework for building native applications using React |
+| [MockingBird](https://github.com/babysor/MockingBird) | 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time |
+| [angular-cli](https://github.com/angular/angular-cli) | CLI tool for Angular |
+| [slacktyping](https://github.com/will/slacktyping) | i'm typing when you're typing |
+| [juice-shop](https://github.com/juice-shop/juice-shop) | OWASP Juice Shop: Probably the most modern and sophisticated insecure web application |
+| [secguide](https://github.com/Tencent/secguide) | 面向开发人员梳理的代码安全指南 |
+| [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. |
+| [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 The Open Source Airtable alternative - Powered by Vue.js 🚀 🚀 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
