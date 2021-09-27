@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [folly](https://github.com/facebook/folly) | An open-source C++ library developed and used at Facebook. |
-| [RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) | Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML! |
-| [react-native](https://github.com/facebook/react-native) | A framework for building native applications using React |
-| [MockingBird](https://github.com/babysor/MockingBird) | 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time |
-| [angular-cli](https://github.com/angular/angular-cli) | CLI tool for Angular |
-| [slacktyping](https://github.com/will/slacktyping) | i'm typing when you're typing |
+| [YesPlayMusic](https://github.com/qier222/YesPlayMusic) | 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux |
+| [ios-analyticsd-pre14.7-exploit](https://github.com/illusionofchaos/ios-analyticsd-pre14.7-exploit) | None |
 | [juice-shop](https://github.com/juice-shop/juice-shop) | OWASP Juice Shop: Probably the most modern and sophisticated insecure web application |
-| [secguide](https://github.com/Tencent/secguide) | 面向开发人员梳理的代码安全指南 |
+| [hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine) | HashLips Art Engine is a tool used to create multiple different instances of artworks based on provided layers. |
 | [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. |
-| [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 The Open Source Airtable alternative - Powered by Vue.js 🚀 🚀 |
+| [waydroid](https://github.com/waydroid/waydroid) | None |
+| [free](https://github.com/freefq/free) | 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子 |
+| [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) | 🔗 Some useful websites for programmers. |
+| [elk](https://github.com/cesanta/elk) | A low footprint JavaScript engine for embedded systems |
+| [RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) | Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML! |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10

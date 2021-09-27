@@ -1,0 +1,298 @@
+[
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/5425387",
+        "name": "Ben V. Brown",
+        "repo": {
+            "description": "Open Source Soldering Iron firmware for Miniware and Pinecil",
+            "name": "IronOS",
+            "url": "https://github.com/Ralim/IronOS"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/Ralim",
+        "username": "Ralim"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1329033",
+        "name": "Jakub",
+        "repo": {
+            "description": "Better video player for Flutter, with multiple configuration options. Solving typical use cases!",
+            "name": "betterplayer",
+            "url": "https://github.com/jhomlala/betterplayer"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/jhomlala",
+        "username": "jhomlala"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/8855632",
+        "name": "Felix Angelov",
+        "repo": {
+            "description": "A predictable state management library that helps implement the BLoC design pattern",
+            "name": "bloc",
+            "url": "https://github.com/felangel/bloc"
+        },
+        "sponsorUrl": "https://github.com/sponsors/felangel",
+        "url": "https://github.com/felangel",
+        "username": "felangel"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/72989",
+        "name": "kazuya kawaguchi",
+        "repo": {
+            "description": "\ud83c\udf10 Internationalization plugin for Vue.js",
+            "name": "vue-i18n",
+            "url": "https://github.com/kazupon/vue-i18n"
+        },
+        "sponsorUrl": "https://github.com/sponsors/kazupon",
+        "url": "https://github.com/kazupon",
+        "username": "kazupon"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/56996",
+        "name": "Jorge Bucaran",
+        "repo": {
+            "description": "Easily set your terminal text color & styles.",
+            "name": "colorette",
+            "url": "https://github.com/jorgebucaran/colorette"
+        },
+        "sponsorUrl": "https://github.com/sponsors/jorgebucaran",
+        "url": "https://github.com/jorgebucaran",
+        "username": "jorgebucaran"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/23920",
+        "name": "Joe Block",
+        "repo": {
+            "description": "A collection of ZSH frameworks, plugins, themes and tutorials.",
+            "name": "awesome-zsh-plugins",
+            "url": "https://github.com/unixorn/awesome-zsh-plugins"
+        },
+        "sponsorUrl": "https://github.com/sponsors/unixorn",
+        "url": "https://github.com/unixorn",
+        "username": "unixorn"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/629908",
+        "name": "hrsh7th",
+        "repo": {
+            "description": "A completion plugin for neovim coded in Lua.",
+            "name": "nvim-cmp",
+            "url": "https://github.com/hrsh7th/nvim-cmp"
+        },
+        "sponsorUrl": "https://github.com/sponsors/hrsh7th",
+        "url": "https://github.com/hrsh7th",
+        "username": "hrsh7th"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/11632726",
+        "name": "Arijit Basu",
+        "repo": {
+            "description": "[WORKING PROTOTYPE] Generate QR code easily for free - QR Code Generation as a Service",
+            "name": "qrcode.show",
+            "url": "https://github.com/sayanarijit/qrcode.show"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/sayanarijit",
+        "username": "sayanarijit"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/20594326",
+        "name": "Vinit Shahdeo",
+        "repo": {
+            "description": "Curated list of beginner-friendly issues for Hacktoberfest 2021 | Raise PR to add your issues",
+            "name": "Hacktoberfest2021",
+            "url": "https://github.com/vinitshahdeo/Hacktoberfest2021"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/vinitshahdeo",
+        "username": "vinitshahdeo"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/19343",
+        "name": "Andrey Sitnik",
+        "repo": {
+            "description": "4x times faster than chalk and use 5x less space in node_modules",
+            "name": "nanocolors",
+            "url": "https://github.com/ai/nanocolors"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/ai",
+        "username": "ai"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/17802178",
+        "name": "Georgios Konstantopoulos",
+        "repo": {
+            "description": "A drop-in replacement for `dapp` and `seth` in Rust",
+            "name": "dapptools-rs",
+            "url": "https://github.com/gakonst/dapptools-rs"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/gakonst",
+        "username": "gakonst"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2281927",
+        "name": "Jeffrey Su",
+        "repo": {
+            "description": "\u5fae\u4fe1\u5168\u5e73\u53f0 SDK Senparc.Weixin for C#\uff0c\u652f\u6301 .NET Framework \u53ca .NET Core\u3001.NET 6.0\u3002\u5df2\u652f\u6301\u5fae\u4fe1\u516c\u4f17\u53f7\u3001\u5c0f\u7a0b\u5e8f\u3001\u5c0f\u6e38\u620f\u3001\u4f01\u4e1a\u53f7\u3001\u4f01\u4e1a\u5fae\u4fe1\u3001\u5f00\u653e\u5e73\u53f0\u3001\u5fae\u4fe1\u652f\u4ed8\u3001JSSDK\u3001\u5fae\u4fe1\u5468\u8fb9\u7b49\u5168\u5e73\u53f0\u3002 WeChat SDK for C#.",
+            "name": "WeiXinMPSDK",
+            "url": "https://github.com/JeffreySu/WeiXinMPSDK"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/JeffreySu",
+        "username": "JeffreySu"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/18677354",
+        "name": "07akioni",
+        "repo": {
+            "description": "SVG Vue/React components integrated from fluentui-system-icons, ionicons, ant-design-icons, material-design-icons, Font-Awesome, tabler-icons and carbon icons. (Vue3, Vue2, React, SVG)",
+            "name": "xicons",
+            "url": "https://github.com/07akioni/xicons"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/07akioni",
+        "username": "07akioni"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/663378",
+        "name": "Juliette",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/jrfnl",
+        "username": "jrfnl"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/95136",
+        "name": "David Fowler",
+        "repo": {
+            "description": "This repository has examples of broken patterns in ASP.NET Core applications",
+            "name": "AspNetCoreDiagnosticScenarios",
+            "url": "https://github.com/davidfowl/AspNetCoreDiagnosticScenarios"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/davidfowl",
+        "username": "davidfowl"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2480569",
+        "name": "probonopd",
+        "repo": {
+            "description": "Makes Linux applications self-contained by copying in the libraries and plugins that the application uses, and optionally generates an AppImage. Can be used for Qt and other applications",
+            "name": "linuxdeployqt",
+            "url": "https://github.com/probonopd/linuxdeployqt"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/probonopd",
+        "username": "probonopd"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/15093472",
+        "name": "Joakim S\u00f8rensen",
+        "repo": {
+            "description": "GitHub action for ShellCheck.",
+            "name": "action-shellcheck",
+            "url": "https://github.com/ludeeus/action-shellcheck"
+        },
+        "sponsorUrl": "https://github.com/sponsors/ludeeus",
+        "url": "https://github.com/ludeeus",
+        "username": "ludeeus"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/7204669",
+        "name": "Don Syme",
+        "repo": {
+            "description": null,
+            "name": "guido-learns-fsharp",
+            "url": "https://github.com/dsyme/guido-learns-fsharp"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/dsyme",
+        "username": "dsyme"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/65906298",
+        "name": "sickcodes",
+        "repo": {
+            "description": "Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!",
+            "name": "Docker-OSX",
+            "url": "https://github.com/sickcodes/Docker-OSX"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/sickcodes",
+        "username": "sickcodes"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/8782666",
+        "name": "Paul Razvan Berg",
+        "repo": {
+            "description": "Create Ethereum-powered apps with one command",
+            "name": "create-eth-app",
+            "url": "https://github.com/paulrberg/create-eth-app"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/paulrberg",
+        "username": "paulrberg"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/7413593",
+        "name": "Ariel Mashraki",
+        "repo": {
+            "description": "An overview of Go syntax and features.",
+            "name": "golang-cheat-sheet",
+            "url": "https://github.com/a8m/golang-cheat-sheet"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/a8m",
+        "username": "a8m"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/7253922",
+        "name": "Aleksandr Statciuk",
+        "repo": {
+            "description": "Node.js CLI tool for checking links in IPTV playlists",
+            "name": "iptv-checker",
+            "url": "https://github.com/freearhey/iptv-checker"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/freearhey",
+        "username": "freearhey"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/17034772",
+        "name": "Jonatan K\u0142osko",
+        "repo": {
+            "description": "Simple confirmation dialogs built on top of @material-ui/core and straightforward to use thanks to React Hooks",
+            "name": "material-ui-confirm",
+            "url": "https://github.com/jonatanklosko/material-ui-confirm"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/jonatanklosko",
+        "username": "jonatanklosko"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/574696",
+        "name": "Paul Miller",
+        "repo": {
+            "description": "Minimal and efficient cross-platform file watching library",
+            "name": "chokidar",
+            "url": "https://github.com/paulmillr/chokidar"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/paulmillr",
+        "username": "paulmillr"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/782127",
+        "name": "Steve Smith",
+        "repo": {
+            "description": "A simple package with guard clause extensions.",
+            "name": "GuardClauses",
+            "url": "https://github.com/ardalis/GuardClauses"
+        },
+        "sponsorUrl": "https://github.com/sponsors/ardalis",
+        "url": "https://github.com/ardalis",
+        "username": "ardalis"
+    }
+]
