@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [MockingBird](https://github.com/babysor/MockingBird) | 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time |
-| [ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) | 基于SpringBoot，Spring Security，JWT，Vue & Element 的前后端分离权限管理系统 |
+| [YesPlayMusic](https://github.com/qier222/YesPlayMusic) | 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux |
+| [xplorer](https://github.com/kimlimjustin/xplorer) | Xplorer, a customizable, modern file manager |
+| [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) | 📚 Learn to write an embedded OS in Rust 🦀 |
+| [partytown](https://github.com/BuilderIO/partytown) | Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉 |
 | [muzic](https://github.com/microsoft/muzic) | Muzic: Music Understanding and Generation with Artificial Intelligence |
-| [free](https://github.com/freefq/free) | 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子 |
-| [waydroid](https://github.com/waydroid/waydroid) | None |
-| [btop](https://github.com/aristocratos/btop) | A monitor of resources |
-| [secguide](https://github.com/Tencent/secguide) | 面向开发人员梳理的代码安全指南 |
-| [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. |
-| [the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) | 《The Way to Go》中文译本，中文正式名《Go 入门指南》 |
-| [CS-Notes](https://github.com/CyC2018/CS-Notes) | 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 |
+| [MockingBird](https://github.com/babysor/MockingBird) | 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time |
+| [weekly](https://github.com/ascoders/weekly) | 前端精读周刊。帮你理解最前沿、实用的技术。 |
+| [domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) | Guide on Domain-Driven Design, Hexagonal architecture, best practices etc. |
+| [shader-school](https://github.com/stackgl/shader-school) | 🎓 A workshopper for GLSL shaders and graphics programming |
+| [porth](https://github.com/tsoding/porth) | It's like Forth but in Python |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
