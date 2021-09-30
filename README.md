@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [YesPlayMusic](https://github.com/qier222/YesPlayMusic) | 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux |
-| [xplorer](https://github.com/kimlimjustin/xplorer) | Xplorer, a customizable, modern file manager |
-| [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) | 📚 Learn to write an embedded OS in Rust 🦀 |
-| [partytown](https://github.com/BuilderIO/partytown) | Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉 |
-| [muzic](https://github.com/microsoft/muzic) | Muzic: Music Understanding and Generation with Artificial Intelligence |
 | [MockingBird](https://github.com/babysor/MockingBird) | 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time |
-| [weekly](https://github.com/ascoders/weekly) | 前端精读周刊。帮你理解最前沿、实用的技术。 |
+| [masscan](https://github.com/robertdavidgraham/masscan) | TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes. |
 | [domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) | Guide on Domain-Driven Design, Hexagonal architecture, best practices etc. |
-| [shader-school](https://github.com/stackgl/shader-school) | 🎓 A workshopper for GLSL shaders and graphics programming |
-| [porth](https://github.com/tsoding/porth) | It's like Forth but in Python |
+| [ml-study-plan](https://github.com/python-engineer/ml-study-plan) | The Ultimate FREE Machine Learning Study Plan |
+| [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | List of Computer Science courses with video lectures. |
+| [free](https://github.com/freefq/free) | 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子 |
+| [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) | 基于vite+vue3+gin搭建的开发基础平台，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能，五分钟一套CURD前后端代码，欢迎issue和pr~ |
+| [india](https://github.com/github/india) | GitHub resources and information for the developer community in India |
+| [LittleJS](https://github.com/KilledByAPixel/LittleJS) | The Tiny JavaScript Game Engine That Can! 🚂 |
+| [ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) | 基于SpringBoot，Spring Security，JWT，Vue & Element 的前后端分离权限管理系统 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
