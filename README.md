@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [MockingBird](https://github.com/babysor/MockingBird) | 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time |
+| [autocomplete](https://github.com/withfig/autocomplete) | Fig adds autocomplete to your terminal. |
+| [getx](https://github.com/jonataslaw/getx) | Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get. |
 | [masscan](https://github.com/robertdavidgraham/masscan) | TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes. |
-| [domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) | Guide on Domain-Driven Design, Hexagonal architecture, best practices etc. |
-| [ml-study-plan](https://github.com/python-engineer/ml-study-plan) | The Ultimate FREE Machine Learning Study Plan |
-| [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | List of Computer Science courses with video lectures. |
-| [free](https://github.com/freefq/free) | 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子 |
-| [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) | 基于vite+vue3+gin搭建的开发基础平台，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能，五分钟一套CURD前后端代码，欢迎issue和pr~ |
-| [india](https://github.com/github/india) | GitHub resources and information for the developer community in India |
-| [LittleJS](https://github.com/KilledByAPixel/LittleJS) | The Tiny JavaScript Game Engine That Can! 🚂 |
-| [ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) | 基于SpringBoot，Spring Security，JWT，Vue & Element 的前后端分离权限管理系统 |
+| [Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Python - 100天从新手到大师 |
+| [react-philosophies](https://github.com/mithi/react-philosophies) | 🧘 Things I think about when I write React code 🧘 |
+| [data](https://github.com/pytorch/data) | A PyTorch repo for data loading and utilities to be shared by the PyTorch domain libraries. |
+| [obs-studio](https://github.com/obsproject/obs-studio) | OBS Studio - Free and open source software for live streaming and screen recording |
+| [appwrite](https://github.com/appwrite/appwrite) | Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀 |
+| [kkndme_tianya](https://github.com/laoshenkaopu/kkndme_tianya) | 天涯 kkndme 神贴聊房价 |
+| [livewire](https://github.com/livewire/livewire) | A full-stack framework for Laravel that takes the pain out of building dynamic UIs. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
