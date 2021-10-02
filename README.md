@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [autocomplete](https://github.com/withfig/autocomplete) | Fig adds autocomplete to your terminal. |
+| [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics |
+| [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
+| [great_expectations](https://github.com/great-expectations/great_expectations) | Always know what to expect from your data. |
+| [youki](https://github.com/containers/youki) | A container runtime written in Rust |
+| [ShellcodeFluctuation](https://github.com/mgeeky/ShellcodeFluctuation) | An advanced in-memory evasion technique fluctuating shellcode's memory protection between RW/NoAccess & RX and then encrypting/decrypting its contents |
+| [textual](https://github.com/willmcgugan/textual) | Textual is a TUI (Text User Interface) framework for Python inspired by modern web development. |
+| [consul](https://github.com/hashicorp/consul) | Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure. |
 | [getx](https://github.com/jonataslaw/getx) | Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get. |
-| [masscan](https://github.com/robertdavidgraham/masscan) | TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes. |
-| [Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Python - 100天从新手到大师 |
-| [react-philosophies](https://github.com/mithi/react-philosophies) | 🧘 Things I think about when I write React code 🧘 |
-| [data](https://github.com/pytorch/data) | A PyTorch repo for data loading and utilities to be shared by the PyTorch domain libraries. |
-| [obs-studio](https://github.com/obsproject/obs-studio) | OBS Studio - Free and open source software for live streaming and screen recording |
-| [appwrite](https://github.com/appwrite/appwrite) | Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀 |
-| [kkndme_tianya](https://github.com/laoshenkaopu/kkndme_tianya) | 天涯 kkndme 神贴聊房价 |
-| [livewire](https://github.com/livewire/livewire) | A full-stack framework for Laravel that takes the pain out of building dynamic UIs. |
+| [Javascript](https://github.com/TheAlgorithms/Javascript) | A repository for All algorithms implemented in Javascript (for educational purposes only) |
+| [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) | 🤓 Build your own (insert technology here) |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
