@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [spicedb](https://github.com/authzed/spicedb) | A Zanzibar-inspired database that stores, computes, and validates application permissions |
+| [appsmith](https://github.com/appsmithorg/appsmith) | Build completely custom admin panels and internal tools. Use 30+ react components to build pages without HTML/CSS. |
+| [evmos](https://github.com/tharsis/evmos) | Evmos chain |
 | [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics |
-| [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
-| [great_expectations](https://github.com/great-expectations/great_expectations) | Always know what to expect from your data. |
-| [youki](https://github.com/containers/youki) | A container runtime written in Rust |
-| [ShellcodeFluctuation](https://github.com/mgeeky/ShellcodeFluctuation) | An advanced in-memory evasion technique fluctuating shellcode's memory protection between RW/NoAccess & RX and then encrypting/decrypting its contents |
-| [textual](https://github.com/willmcgugan/textual) | Textual is a TUI (Text User Interface) framework for Python inspired by modern web development. |
-| [consul](https://github.com/hashicorp/consul) | Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure. |
-| [getx](https://github.com/jonataslaw/getx) | Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get. |
-| [Javascript](https://github.com/TheAlgorithms/Javascript) | A repository for All algorithms implemented in Javascript (for educational purposes only) |
-| [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) | 🤓 Build your own (insert technology here) |
+| [ethermint](https://github.com/tharsis/ethermint) | Ethermint is a scalable and interoperable Ethereum library, built on Proof-of-Stake with fast-finality using the Cosmos SDK. |
+| [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | The communications platform that puts data protection first. |
+| [docs](https://github.com/github/docs) | The open-source repo for docs.github.com |
+| [electron](https://github.com/electron/electron) | Build cross-platform desktop apps with JavaScript, HTML, and CSS |
+| [computer-science](https://github.com/ossu/computer-science) | 🎓 Path to a free self-taught education in Computer Science! |
+| [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) | Graphic notes on Gilbert Strang's "Linear Algebra for Everyone" |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
