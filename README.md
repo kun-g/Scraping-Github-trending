@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [spicedb](https://github.com/authzed/spicedb) | A Zanzibar-inspired database that stores, computes, and validates application permissions |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) | 10 Weeks, 20 Lessons, Data Science for All! |
 | [appsmith](https://github.com/appsmithorg/appsmith) | Build completely custom admin panels and internal tools. Use 30+ react components to build pages without HTML/CSS. |
-| [evmos](https://github.com/tharsis/evmos) | Evmos chain |
+| [weggli](https://github.com/googleprojectzero/weggli) | weggli is a fast and robust semantic search tool for C and C++ codebases. It is designed to help security researchers identify interesting functionality in large codebases. |
 | [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics |
-| [ethermint](https://github.com/tharsis/ethermint) | Ethermint is a scalable and interoperable Ethereum library, built on Proof-of-Stake with fast-finality using the Cosmos SDK. |
-| [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | The communications platform that puts data protection first. |
-| [docs](https://github.com/github/docs) | The open-source repo for docs.github.com |
-| [electron](https://github.com/electron/electron) | Build cross-platform desktop apps with JavaScript, HTML, and CSS |
-| [computer-science](https://github.com/ossu/computer-science) | 🎓 Path to a free self-taught education in Computer Science! |
-| [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) | Graphic notes on Gilbert Strang's "Linear Algebra for Everyone" |
+| [Javascript](https://github.com/TheAlgorithms/Javascript) | A repository for All algorithms implemented in Javascript (for educational purposes only) |
+| [school-dev-k8s](https://github.com/Slurmio/school-dev-k8s) | None |
+| [spicedb](https://github.com/authzed/spicedb) | A Zanzibar-inspired database that stores, computes, and validates application permissions |
+| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
+| [monica](https://github.com/monicahq/monica) | Personal CRM. Remember everything about your friends, family and business relationships. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
