@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) | 10 Weeks, 20 Lessons, Data Science for All! |
 | [appsmith](https://github.com/appsmithorg/appsmith) | Build completely custom admin panels and internal tools. Use 30+ react components to build pages without HTML/CSS. |
-| [weggli](https://github.com/googleprojectzero/weggli) | weggli is a fast and robust semantic search tool for C and C++ codebases. It is designed to help security researchers identify interesting functionality in large codebases. |
-| [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics |
-| [Javascript](https://github.com/TheAlgorithms/Javascript) | A repository for All algorithms implemented in Javascript (for educational purposes only) |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [core](https://github.com/home-assistant/core) | 🏡 Open source home automation that puts local control and privacy first. |
+| [computer-science](https://github.com/ossu/computer-science) | 🎓 Path to a free self-taught education in Computer Science! |
 | [school-dev-k8s](https://github.com/Slurmio/school-dev-k8s) | None |
-| [spicedb](https://github.com/authzed/spicedb) | A Zanzibar-inspired database that stores, computes, and validates application permissions |
 | [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
-| [monica](https://github.com/monicahq/monica) | Personal CRM. Remember everything about your friends, family and business relationships. |
+| [docs](https://github.com/github/docs) | The open-source repo for docs.github.com |
+| [termux-packages](https://github.com/termux/termux-packages) | A build system and primary set of packages for Termux. |
+| [spicedb](https://github.com/authzed/spicedb) | A Zanzibar-inspired database that stores, computes, and validates application permissions |
+| [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
