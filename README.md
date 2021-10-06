@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [appsmith](https://github.com/appsmithorg/appsmith) | Build completely custom admin panels and internal tools. Use 30+ react components to build pages without HTML/CSS. |
+| [NightDriverStrip](https://github.com/PlummersSoftwareLLC/NightDriverStrip) | NightDriver client for ESP32 |
+| [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) | 🛁 Clean Code concepts adapted for JavaScript |
+| [MagInkCal](https://github.com/speedyg0nz/MagInkCal) | E-Ink Magic Calendar that automatically syncs to Google Calendar and runs off a battery powered Raspberry Pi Zero |
+| [DesktopAssitant](https://github.com/Harsha200105/DesktopAssitant) | A Virtual Desktop Assistant Written in Python |
+| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
+| [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) | 🤓 Build your own (insert technology here) |
+| [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) | 10 Weeks, 20 Lessons, Data Science for All! |
+| [retoolkit](https://github.com/mentebinaria/retoolkit) | Reverse Engineer's Toolkit |
 | [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
 | [core](https://github.com/home-assistant/core) | 🏡 Open source home automation that puts local control and privacy first. |
-| [computer-science](https://github.com/ossu/computer-science) | 🎓 Path to a free self-taught education in Computer Science! |
-| [school-dev-k8s](https://github.com/Slurmio/school-dev-k8s) | None |
-| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
-| [docs](https://github.com/github/docs) | The open-source repo for docs.github.com |
-| [termux-packages](https://github.com/termux/termux-packages) | A build system and primary set of packages for Termux. |
-| [spicedb](https://github.com/authzed/spicedb) | A Zanzibar-inspired database that stores, computes, and validates application permissions |
-| [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
