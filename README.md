@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [NightDriverStrip](https://github.com/PlummersSoftwareLLC/NightDriverStrip) | NightDriver client for ESP32 |
-| [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) | 🛁 Clean Code concepts adapted for JavaScript |
-| [MagInkCal](https://github.com/speedyg0nz/MagInkCal) | E-Ink Magic Calendar that automatically syncs to Google Calendar and runs off a battery powered Raspberry Pi Zero |
-| [DesktopAssitant](https://github.com/Harsha200105/DesktopAssitant) | A Virtual Desktop Assistant Written in Python |
-| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
-| [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) | 🤓 Build your own (insert technology here) |
-| [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) | 10 Weeks, 20 Lessons, Data Science for All! |
-| [retoolkit](https://github.com/mentebinaria/retoolkit) | Reverse Engineer's Toolkit |
+| [school-dev-k8s](https://github.com/Slurmio/school-dev-k8s) | None |
 | [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [core](https://github.com/home-assistant/core) | 🏡 Open source home automation that puts local control and privacy first. |
+| [PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! |
+| [Peregrine](https://github.com/peregrine-lang/Peregrine) | An easy to use systems programming language with Python-like syntax. |
+| [kentcdodds.com](https://github.com/kentcdodds/kentcdodds.com) | My personal website |
+| [community-edition](https://github.com/vmware-tanzu/community-edition) | VMware Tanzu Community Edition is a full-featured, easy to manage Kubernetes platform for learners and users on your local workstation or your favorite cloud. Tanzu Community Edition enables the creation of application platforms: infrastructure, tooling, and services providing location to run applications and enable positive developer experiences. |
+| [uptime-kuma](https://github.com/louislam/uptime-kuma) | A fancy self-hosted monitoring tool |
+| [syncthing](https://github.com/syncthing/syncthing) | Open Source Continuous File Synchronization |
+| [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) | 🛁 Clean Code concepts adapted for JavaScript |
+| [fastapi](https://github.com/tiangolo/fastapi) | FastAPI framework, high performance, easy to learn, fast to code, ready for production |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
