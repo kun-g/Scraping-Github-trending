@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [flta-materials](https://github.com/raywenderlich/flta-materials) | The projects and the materials that accompany the Flutter Apprentice book |
+| [flipper](https://github.com/facebook/flipper) | A desktop debugging platform for mobile developers. |
+| [user.js](https://github.com/arkenfox/user.js) | Firefox privacy, security and anti-fingerprinting: a comprehensive user.js template for configuration and hardening |
+| [twentytwentytwo](https://github.com/WordPress/twentytwentytwo) | Twenty Twenty-Two, the default WordPress theme that will launch with WordPress 5.9. |
+| [Collaborative-Web](https://github.com/opencodeiiita/Collaborative-Web) | Opencode 21 Collaborative website! |
 | [nvm](https://github.com/nvm-sh/nvm) | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
-| [ansible](https://github.com/ansible/ansible) | Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. |
-| [genshin_auto_fish](https://github.com/7eu7d7/genshin_auto_fish) | 基于深度强化学习的原神自动钓鱼AI |
+| [PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! |
+| [NanaZip](https://github.com/M2Team/NanaZip) | The 7-Zip derivative intended for the modern Windows experience. |
+| [lvgl](https://github.com/lvgl/lvgl) | Powerful and easy-to-use embedded GUI library with many widgets, advanced visual effects (opacity, antialiasing, animations) and low memory requirements (16K RAM, 64K Flash). |
 | [uptime-kuma](https://github.com/louislam/uptime-kuma) | A fancy self-hosted monitoring tool |
-| [The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) | This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview questions, and Miscellaneous Stuff (Programming MCQs, Puzzles, Aptitude, Reasoning). The Programming languages used for demonstration are C++, Pytho… |
-| [india](https://github.com/github/india) | GitHub resources and information for the developer community in India |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [devtoberfest-2021](https://github.com/SAP-samples/devtoberfest-2021) | The home of Devtoberfest 2021 - an open celebration of what us developers do - coding and collaboration! |
-| [Bili.Uwp](https://github.com/Richasy/Bili.Uwp) | 适用于新系统UI的哔哩 |
-| [prefect](https://github.com/PrefectHQ/prefect) | The easiest way to automate your data |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
