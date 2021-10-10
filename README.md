@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [flta-materials](https://github.com/raywenderlich/flta-materials) | The projects and the materials that accompany the Flutter Apprentice book |
-| [flipper](https://github.com/facebook/flipper) | A desktop debugging platform for mobile developers. |
-| [user.js](https://github.com/arkenfox/user.js) | Firefox privacy, security and anti-fingerprinting: a comprehensive user.js template for configuration and hardening |
-| [twentytwentytwo](https://github.com/WordPress/twentytwentytwo) | Twenty Twenty-Two, the default WordPress theme that will launch with WordPress 5.9. |
-| [Collaborative-Web](https://github.com/opencodeiiita/Collaborative-Web) | Opencode 21 Collaborative website! |
-| [nvm](https://github.com/nvm-sh/nvm) | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
-| [PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! |
-| [NanaZip](https://github.com/M2Team/NanaZip) | The 7-Zip derivative intended for the modern Windows experience. |
-| [lvgl](https://github.com/lvgl/lvgl) | Powerful and easy-to-use embedded GUI library with many widgets, advanced visual effects (opacity, antialiasing, animations) and low memory requirements (16K RAM, 64K Flash). |
 | [uptime-kuma](https://github.com/louislam/uptime-kuma) | A fancy self-hosted monitoring tool |
+| [flipper](https://github.com/facebook/flipper) | A desktop debugging platform for mobile developers. |
+| [genshin_auto_fish](https://github.com/7eu7d7/genshin_auto_fish) | 基于深度强化学习的原神自动钓鱼AI |
+| [flta-materials](https://github.com/raywenderlich/flta-materials) | The projects and the materials that accompany the Flutter Apprentice book |
+| [Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot) | 我的超迷你机械臂机器人项目。 |
+| [devops-resources](https://github.com/bregman-arie/devops-resources) | DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP |
+| [algo](https://github.com/trailofbits/algo) | Set up a personal VPN in the cloud |
+| [MockingBird](https://github.com/babysor/MockingBird) | 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time |
+| [go-zero](https://github.com/zeromicro/go-zero) | go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity. |
+| [Certipy](https://github.com/ollypwn/Certipy) | Python implementation for Active Directory certificate abuse |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
