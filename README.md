@@ -25,16 +25,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [masscan](https://github.com/robertdavidgraham/masscan) | TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes. |
-| [btop](https://github.com/aristocratos/btop) | A monitor of resources |
-| [MockingBird](https://github.com/babysor/MockingBird) | 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time |
-| [domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) | Guide on Domain-Driven Design, Hexagonal architecture, best practices etc. |
-| [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) | 📚 Learn to write an embedded OS in Rust 🦀 |
-| [ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) | 基于SpringBoot，Spring Security，JWT，Vue & Element 的前后端分离权限管理系统 |
-| [RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) | Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML! |
-| [rover](https://github.com/im2nguyen/rover) | Interactive Terraform visualization. State and configuration explorer. |
-| [ios-gamed-0day](https://github.com/illusionofchaos/ios-gamed-0day) | iOS 15 0-day exploit |
-| [Merlion](https://github.com/salesforce/Merlion) | Merlion: A Machine Learning Framework for Time Series Intelligence |
+| [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) | 10 Weeks, 20 Lessons, Data Science for All! |
+| [appsmith](https://github.com/appsmithorg/appsmith) | Build completely custom admin panels and internal tools. Use 30+ react components to build pages without HTML/CSS. |
+| [uptime-kuma](https://github.com/louislam/uptime-kuma) | A fancy self-hosted monitoring tool |
+| [spicedb](https://github.com/authzed/spicedb) | A Zanzibar-inspired database that stores, computes, and validates application permissions |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [prefect](https://github.com/PrefectHQ/prefect) | The easiest way to automate your data |
+| [flipper](https://github.com/facebook/flipper) | A desktop debugging platform for mobile developers. |
+| [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) | 🛁 Clean Code concepts adapted for JavaScript |
+| [odoo](https://github.com/odoo/odoo) | Odoo. Open Source Apps To Grow Your Business. |
+| [kafka-ui](https://github.com/provectus/kafka-ui) | Open-Source Web GUI for Apache Kafka Management |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
