@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [uptime-kuma](https://github.com/louislam/uptime-kuma) | A fancy self-hosted monitoring tool |
-| [flipper](https://github.com/facebook/flipper) | A desktop debugging platform for mobile developers. |
-| [genshin_auto_fish](https://github.com/7eu7d7/genshin_auto_fish) | 基于深度强化学习的原神自动钓鱼AI |
-| [flta-materials](https://github.com/raywenderlich/flta-materials) | The projects and the materials that accompany the Flutter Apprentice book |
 | [Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot) | 我的超迷你机械臂机器人项目。 |
-| [devops-resources](https://github.com/bregman-arie/devops-resources) | DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP |
 | [algo](https://github.com/trailofbits/algo) | Set up a personal VPN in the cloud |
+| [JavaGuide](https://github.com/Snailclimb/JavaGuide) | 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！ |
+| [uptime-kuma](https://github.com/louislam/uptime-kuma) | A fancy self-hosted monitoring tool |
+| [vue-next](https://github.com/vuejs/vue-next) | 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. |
 | [MockingBird](https://github.com/babysor/MockingBird) | 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time |
-| [go-zero](https://github.com/zeromicro/go-zero) | go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity. |
-| [Certipy](https://github.com/ollypwn/Certipy) | Python implementation for Active Directory certificate abuse |
+| [flipper](https://github.com/facebook/flipper) | A desktop debugging platform for mobile developers. |
+| [frp](https://github.com/fatedier/frp) | A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. |
+| [srs](https://github.com/ossrs/srs) | SRS is a simple, high efficiency and realtime video server, supports RTMP/WebRTC/HLS/HTTP-FLV/SRT/GB28181. |
+| [awesome-python](https://github.com/vinta/awesome-python) | A curated list of awesome Python frameworks, libraries, software and resources |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
