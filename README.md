@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot) | 我的超迷你机械臂机器人项目。 |
+| [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) | Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration. |
+| [sm64ex-ios](https://github.com/ckosmic/sm64ex-ios) | iOS port of https://github.com/sm64pc/sm64ex/ |
+| [ethereum-org-website](https://github.com/ethereum/ethereum-org-website) | Ethereum.org is a primary online resource for the Ethereum community. |
+| [useful-custom-react-hooks](https://github.com/WebDevSimplified/useful-custom-react-hooks) | None |
 | [algo](https://github.com/trailofbits/algo) | Set up a personal VPN in the cloud |
-| [JavaGuide](https://github.com/Snailclimb/JavaGuide) | 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！ |
-| [uptime-kuma](https://github.com/louislam/uptime-kuma) | A fancy self-hosted monitoring tool |
-| [vue-next](https://github.com/vuejs/vue-next) | 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. |
-| [MockingBird](https://github.com/babysor/MockingBird) | 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time |
-| [flipper](https://github.com/facebook/flipper) | A desktop debugging platform for mobile developers. |
-| [frp](https://github.com/fatedier/frp) | A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. |
-| [srs](https://github.com/ossrs/srs) | SRS is a simple, high efficiency and realtime video server, supports RTMP/WebRTC/HLS/HTTP-FLV/SRT/GB28181. |
-| [awesome-python](https://github.com/vinta/awesome-python) | A curated list of awesome Python frameworks, libraries, software and resources |
+| [promote-your-next-startup](https://github.com/trekhleb/promote-your-next-startup) | 🚀 Free resources you may use to promote your next startup |
+| [awesome-actions](https://github.com/sdras/awesome-actions) | A curated list of awesome actions to use on GitHub |
+| [Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) | 我终于能用谷歌搜中文了…… |
+| [L-ink_Card](https://github.com/peng-zhihui/L-ink_Card) | Smart NFC & ink-Display Card |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
