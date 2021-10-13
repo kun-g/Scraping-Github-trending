@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [Peak](https://github.com/peng-zhihui/Peak) | Tiny Mobile Terminal Device Kit. |
+| [Lenia](https://github.com/Chakazul/Lenia) | Lenia - Mathematical Life Forms |
+| [Real-Time-Rendering-4th-Bibliography-Collection](https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection) | Real-Time Rendering 4th (RTR4) 参考文献合集典藏 | Collection of <Real-Time Rendering 4th (RTR4)> Bibliography |
+| [bitcoin](https://github.com/bitcoin/bitcoin) | Bitcoin Core integration/staging tree |
+| [frp](https://github.com/fatedier/frp) | A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. |
+| [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Awesome multilingual OCR toolkits based on PaddlePaddle （practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices） |
 | [Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot) | 我的超迷你机械臂机器人项目。 |
-| [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) | Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration. |
-| [sm64ex-ios](https://github.com/ckosmic/sm64ex-ios) | iOS port of https://github.com/sm64pc/sm64ex/ |
-| [ethereum-org-website](https://github.com/ethereum/ethereum-org-website) | Ethereum.org is a primary online resource for the Ethereum community. |
-| [useful-custom-react-hooks](https://github.com/WebDevSimplified/useful-custom-react-hooks) | None |
-| [algo](https://github.com/trailofbits/algo) | Set up a personal VPN in the cloud |
-| [promote-your-next-startup](https://github.com/trekhleb/promote-your-next-startup) | 🚀 Free resources you may use to promote your next startup |
-| [awesome-actions](https://github.com/sdras/awesome-actions) | A curated list of awesome actions to use on GitHub |
-| [Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) | 我终于能用谷歌搜中文了…… |
-| [L-ink_Card](https://github.com/peng-zhihui/L-ink_Card) | Smart NFC & ink-Display Card |
+| [localstack](https://github.com/localstack/localstack) | 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline! |
+| [MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) | Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2! |
+| [JavaGuide](https://github.com/Snailclimb/JavaGuide) | 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！ |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
