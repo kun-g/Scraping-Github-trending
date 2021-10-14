@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [Peak](https://github.com/peng-zhihui/Peak) | Tiny Mobile Terminal Device Kit. |
+| [stylegan3](https://github.com/NVlabs/stylegan3) | Official PyTorch implementation of StyleGAN3 |
+| [gop](https://github.com/goplus/gop) | GoPlus - The Go+ language for engineering, STEM education, and data science |
+| [fosscord-server](https://github.com/fosscord/fosscord-server) | Fosscord Server (selfhostable open source discord server) (contains api + cdn + gateway + dashboard + voice) |
+| [all-of-frontend](https://github.com/KieSun/all-of-frontend) | 你想知道的前端内容都在这 |
 | [Lenia](https://github.com/Chakazul/Lenia) | Lenia - Mathematical Life Forms |
-| [Real-Time-Rendering-4th-Bibliography-Collection](https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection) | Real-Time Rendering 4th (RTR4) 参考文献合集典藏 | Collection of <Real-Time Rendering 4th (RTR4)> Bibliography |
-| [bitcoin](https://github.com/bitcoin/bitcoin) | Bitcoin Core integration/staging tree |
-| [frp](https://github.com/fatedier/frp) | A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. |
-| [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Awesome multilingual OCR toolkits based on PaddlePaddle （practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices） |
-| [Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot) | 我的超迷你机械臂机器人项目。 |
-| [localstack](https://github.com/localstack/localstack) | 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline! |
-| [MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) | Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2! |
-| [JavaGuide](https://github.com/Snailclimb/JavaGuide) | 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！ |
+| [cypress](https://github.com/cypress-io/cypress) | Fast, easy and reliable testing for anything that runs in a browser. |
+| [useful-custom-react-hooks](https://github.com/WebDevSimplified/useful-custom-react-hooks) | None |
+| [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project-based tutorials |
+| [facebook-delete](https://github.com/marcelja/facebook-delete) | Fast facebook activity deletion |
+| [fosscord](https://github.com/fosscord/fosscord) | Fosscord is a free open source selfhostable discord compatible chat, voice and video platform |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
