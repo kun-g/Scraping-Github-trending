@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [stylegan3](https://github.com/NVlabs/stylegan3) | Official PyTorch implementation of StyleGAN3 |
+| [WorkingTime](https://github.com/WorkerLivesMatter/WorkingTime) | None |
+| [framework](https://github.com/nuxt/framework) | The Hybrid Vue(3) Framework. |
 | [gop](https://github.com/goplus/gop) | GoPlus - The Go+ language for engineering, STEM education, and data science |
-| [fosscord-server](https://github.com/fosscord/fosscord-server) | Fosscord Server (selfhostable open source discord server) (contains api + cdn + gateway + dashboard + voice) |
 | [all-of-frontend](https://github.com/KieSun/all-of-frontend) | 你想知道的前端内容都在这 |
+| [MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) | Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2! |
+| [icons](https://github.com/twbs/icons) | Official open source SVG icon library for Bootstrap. |
+| [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
 | [Lenia](https://github.com/Chakazul/Lenia) | Lenia - Mathematical Life Forms |
-| [cypress](https://github.com/cypress-io/cypress) | Fast, easy and reliable testing for anything that runs in a browser. |
-| [useful-custom-react-hooks](https://github.com/WebDevSimplified/useful-custom-react-hooks) | None |
-| [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project-based tutorials |
-| [facebook-delete](https://github.com/marcelja/facebook-delete) | Fast facebook activity deletion |
-| [fosscord](https://github.com/fosscord/fosscord) | Fosscord is a free open source selfhostable discord compatible chat, voice and video platform |
+| [Swin-Transformer](https://github.com/microsoft/Swin-Transformer) | This is an official implementation for "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows". |
+| [stylegan3](https://github.com/NVlabs/stylegan3) | Official PyTorch implementation of StyleGAN3 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
