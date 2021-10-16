@@ -1,0 +1,294 @@
+[
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/6942",
+        "name": "Tom Payne",
+        "repo": {
+            "description": "Manage your dotfiles across multiple diverse machines, securely.",
+            "name": "chezmoi",
+            "url": "https://github.com/twpayne/chezmoi"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/twpayne",
+        "username": "twpayne"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/17530",
+        "name": "Asim Aslam",
+        "repo": {
+            "description": "A Go framework for distributed systems development",
+            "name": "go-micro",
+            "url": "https://github.com/asim/go-micro"
+        },
+        "sponsorUrl": "https://github.com/sponsors/asim",
+        "url": "https://github.com/asim",
+        "username": "asim"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/105274",
+        "name": "Vadim Makeev",
+        "repo": {
+            "description": "\u0414\u0435\u043c\u043e \u0434\u043b\u044f \u0432\u0438\u0434\u0435\u043e\u0431\u043b\u043e\u0433\u0430",
+            "name": "playground",
+            "url": "https://github.com/pepelsbey/playground"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/pepelsbey",
+        "username": "pepelsbey"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/93594",
+        "name": "Jake Archibald",
+        "repo": {
+            "description": "IndexedDB, but with promises",
+            "name": "idb",
+            "url": "https://github.com/jakearchibald/idb"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/jakearchibald",
+        "username": "jakearchibald"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/41495",
+        "name": "Shougo",
+        "repo": {
+            "description": "Dark deno-powered completion framework for neovim/Vim8",
+            "name": "ddc.vim",
+            "url": "https://github.com/Shougo/ddc.vim"
+        },
+        "sponsorUrl": "https://github.com/sponsors/Shougo",
+        "url": "https://github.com/Shougo",
+        "username": "Shougo"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2492783",
+        "name": "Jan De Dobbeleer",
+        "repo": {
+            "description": "A prompt theme engine for any shell.",
+            "name": "oh-my-posh",
+            "url": "https://github.com/JanDeDobbeleer/oh-my-posh"
+        },
+        "sponsorUrl": "https://github.com/sponsors/JanDeDobbeleer",
+        "url": "https://github.com/JanDeDobbeleer",
+        "username": "JanDeDobbeleer"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/6286655",
+        "name": "Iskander (Alex) Sharipov",
+        "repo": {
+            "description": "Define and run pattern-based custom linting rules.",
+            "name": "go-ruleguard",
+            "url": "https://github.com/quasilyte/go-ruleguard"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/quasilyte",
+        "username": "quasilyte"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/862914",
+        "name": "Jeremy Long",
+        "repo": {
+            "description": "OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.",
+            "name": "DependencyCheck",
+            "url": "https://github.com/jeremylong/DependencyCheck"
+        },
+        "sponsorUrl": "https://github.com/sponsors/jeremylong",
+        "url": "https://github.com/jeremylong",
+        "username": "jeremylong"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/218610",
+        "name": "Trask Stalnaker",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/trask",
+        "username": "trask"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2231765",
+        "name": "Robert Mosolgo",
+        "repo": {
+            "description": "Ruby implementation of GraphQL",
+            "name": "graphql-ruby",
+            "url": "https://github.com/rmosolgo/graphql-ruby"
+        },
+        "sponsorUrl": "https://github.com/sponsors/rmosolgo",
+        "url": "https://github.com/rmosolgo",
+        "username": "rmosolgo"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/28706372",
+        "name": "Daniel Roe",
+        "repo": {
+            "description": "Vue component for Cloudflare Stream.",
+            "name": "stream-vue",
+            "url": "https://github.com/danielroe/stream-vue"
+        },
+        "sponsorUrl": "https://github.com/sponsors/danielroe",
+        "url": "https://github.com/danielroe",
+        "username": "danielroe"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/4169187",
+        "name": "Erik Ejlskov Jensen",
+        "repo": {
+            "description": "Entity Framework Core Power Tools - reverse engineering, migrations and model visualization for EF Core",
+            "name": "EFCorePowerTools",
+            "url": "https://github.com/ErikEJ/EFCorePowerTools"
+        },
+        "sponsorUrl": "https://github.com/sponsors/ErikEJ",
+        "url": "https://github.com/ErikEJ",
+        "username": "ErikEJ"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/661450",
+        "name": "Arvid Norberg",
+        "repo": {
+            "description": "an efficient feature complete C++ bittorrent implementation",
+            "name": "libtorrent",
+            "url": "https://github.com/arvidn/libtorrent"
+        },
+        "sponsorUrl": "https://github.com/sponsors/arvidn",
+        "url": "https://github.com/arvidn",
+        "username": "arvidn"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1810591",
+        "name": "Anthony Sottile",
+        "repo": {
+            "description": "A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.",
+            "name": "pyupgrade",
+            "url": "https://github.com/asottile/pyupgrade"
+        },
+        "sponsorUrl": "https://github.com/sponsors/asottile",
+        "url": "https://github.com/asottile",
+        "username": "asottile"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/18677354",
+        "name": "07akioni",
+        "repo": {
+            "description": "SVG Vue/React components integrated from fluentui-system-icons, ionicons, ant-design-icons, material-design-icons, Font-Awesome, tabler-icons and carbon icons. (Vue3, Vue2, React, SVG)",
+            "name": "xicons",
+            "url": "https://github.com/07akioni/xicons"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/07akioni",
+        "username": "07akioni"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/15199031",
+        "name": "Marc Rousavy",
+        "repo": {
+            "description": "\u26a1\ufe0f The fastest key/value storage for React Native. ~30x faster than AsyncStorage!",
+            "name": "react-native-mmkv",
+            "url": "https://github.com/mrousavy/react-native-mmkv"
+        },
+        "sponsorUrl": "https://github.com/sponsors/mrousavy",
+        "url": "https://github.com/mrousavy",
+        "username": "mrousavy"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1174278",
+        "name": "Satyajit Sahoo",
+        "repo": {
+            "description": "A cross-platform Tab View component for React Native",
+            "name": "react-native-tab-view",
+            "url": "https://github.com/satya164/react-native-tab-view"
+        },
+        "sponsorUrl": "https://github.com/sponsors/satya164",
+        "url": "https://github.com/satya164",
+        "username": "satya164"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/339286",
+        "name": "Jason Quense",
+        "repo": {
+            "description": "Dead simple Object schema validation",
+            "name": "yup",
+            "url": "https://github.com/jquense/yup"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/jquense",
+        "username": "jquense"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/159209",
+        "name": "Ahmet Alp Balkan",
+        "repo": {
+            "description": "Faster way to switch between clusters and namespaces in kubectl",
+            "name": "kubectx",
+            "url": "https://github.com/ahmetb/kubectx"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/ahmetb",
+        "username": "ahmetb"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/52195",
+        "name": "Matteo Collina",
+        "repo": {
+            "description": "fast HTTP/1.1 benchmarking tool written in Node.js",
+            "name": "autocannon",
+            "url": "https://github.com/mcollina/autocannon"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/mcollina",
+        "username": "mcollina"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/25510",
+        "name": "Eric Holscher",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/ericholscher",
+        "username": "ericholscher"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/71256",
+        "name": "Nathan Rajlich",
+        "repo": {
+            "description": "A barebones WebSocket client and server implementation written in 100% Java.",
+            "name": "Java-WebSocket",
+            "url": "https://github.com/TooTallNate/Java-WebSocket"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/TooTallNate",
+        "username": "TooTallNate"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/410147",
+        "name": "Sameer Naik",
+        "repo": {
+            "description": "Dockerized GitLab",
+            "name": "docker-gitlab",
+            "url": "https://github.com/sameersbn/docker-gitlab"
+        },
+        "sponsorUrl": "https://github.com/sponsors/sameersbn",
+        "url": "https://github.com/sameersbn",
+        "username": "sameersbn"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2153367",
+        "name": "Ibrahim Serdar Acikgoz",
+        "repo": {
+            "description": "fast and interactive tldr client written with go",
+            "name": "tldr",
+            "url": "https://github.com/isacikgoz/tldr"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/isacikgoz",
+        "username": "isacikgoz"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/6184593",
+        "name": "Hein Rutjes",
+        "repo": {
+            "description": "React Navigation bindings for react-native-shared-element \ud83d\udcab",
+            "name": "react-navigation-shared-element",
+            "url": "https://github.com/IjzerenHein/react-navigation-shared-element"
+        },
+        "sponsorUrl": "https://github.com/sponsors/IjzerenHein",
+        "url": "https://github.com/IjzerenHein",
+        "username": "IjzerenHein"
+    }
+]
