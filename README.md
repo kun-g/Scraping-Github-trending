@@ -42,13 +42,13 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [authelia](https://github.com/authelia/authelia) | The Single Sign-On Multi-Factor portal for web apps |
+| [appsmith](https://github.com/appsmithorg/appsmith) | Build completely custom admin panels and internal tools. Use 30+ react components to build pages without HTML/CSS. |
+| [devops-exercises](https://github.com/bregman-arie/devops-exercises) | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions |
 | [masscan](https://github.com/robertdavidgraham/masscan) | TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes. |
 | [domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) | Guide on Domain-Driven Design, Hexagonal architecture, best practices etc. |
-| [YesPlayMusic](https://github.com/qier222/YesPlayMusic) | 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux |
-| [appsmith](https://github.com/appsmithorg/appsmith) | Build completely custom admin panels and internal tools. Use 30+ react components to build pages without HTML/CSS. |
-| [waydroid](https://github.com/waydroid/waydroid) | None |
+| [uptime-kuma](https://github.com/louislam/uptime-kuma) | A fancy self-hosted monitoring tool |
+| [MockingBird](https://github.com/babysor/MockingBird) | 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time |
 | [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) | 📚 Learn to write an embedded OS in Rust 🦀 |
-| [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | 💯 Curated interview preparation materials for busy engineers |
-| [arbitrum](https://github.com/OffchainLabs/arbitrum) | Powers fast, private, decentralized applications |
-| [weekly](https://github.com/ascoders/weekly) | 前端精读周刊。帮你理解最前沿、实用的技术。 |
+| [full-blockchain-solidity-course-py](https://github.com/smartcontractkit/full-blockchain-solidity-course-py) | Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition |
+| [calendso](https://github.com/calendso/calendso) | Scheduling infrastructure for absolutely everyone. |
 <!-- END OF MONTHLY_TOP10_REPOS -->
