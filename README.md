@@ -25,16 +25,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) | 10 Weeks, 20 Lessons, Data Science for All! |
-| [appsmith](https://github.com/appsmithorg/appsmith) | Build completely custom admin panels and internal tools. Use 30+ react components to build pages without HTML/CSS. |
 | [uptime-kuma](https://github.com/louislam/uptime-kuma) | A fancy self-hosted monitoring tool |
-| [spicedb](https://github.com/authzed/spicedb) | A Zanzibar-inspired database that stores, computes, and validates application permissions |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [prefect](https://github.com/PrefectHQ/prefect) | The easiest way to automate your data |
 | [flipper](https://github.com/facebook/flipper) | A desktop debugging platform for mobile developers. |
-| [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) | 🛁 Clean Code concepts adapted for JavaScript |
-| [odoo](https://github.com/odoo/odoo) | Odoo. Open Source Apps To Grow Your Business. |
-| [kafka-ui](https://github.com/provectus/kafka-ui) | Open-Source Web GUI for Apache Kafka Management |
+| [gop](https://github.com/goplus/gop) | GoPlus - The Go+ language for engineering, STEM education, and data science |
+| [school-dev-k8s](https://github.com/Slurmio/school-dev-k8s) | None |
+| [MockingBird](https://github.com/babysor/MockingBird) | 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time |
+| [lvgl](https://github.com/lvgl/lvgl) | Powerful and easy-to-use embedded GUI library with many widgets, advanced visual effects (opacity, antialiasing, animations) and low memory requirements (16K RAM, 64K Flash). |
+| [algo](https://github.com/trailofbits/algo) | Set up a personal VPN in the cloud |
+| [nvim-cmp](https://github.com/hrsh7th/nvim-cmp) | A completion plugin for neovim coded in Lua. |
+| [argo-cd](https://github.com/argoproj/argo-cd) | Declarative continuous deployment for Kubernetes. |
+| [srs](https://github.com/ossrs/srs) | SRS is a simple, high efficiency and realtime video server, supports RTMP/WebRTC/HLS/HTTP-FLV/SRT/GB28181. |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
