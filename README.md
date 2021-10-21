@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [WorkingTime](https://github.com/WorkerLivesMatter/WorkingTime) | None |
-| [framework](https://github.com/nuxt/framework) | The Hybrid Vue(3) Framework. |
-| [gop](https://github.com/goplus/gop) | GoPlus - The Go+ language for engineering, STEM education, and data science |
-| [all-of-frontend](https://github.com/KieSun/all-of-frontend) | 你想知道的前端内容都在这 |
-| [MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) | Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2! |
-| [icons](https://github.com/twbs/icons) | Official open source SVG icon library for Bootstrap. |
-| [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
-| [Lenia](https://github.com/Chakazul/Lenia) | Lenia - Mathematical Life Forms |
-| [Swin-Transformer](https://github.com/microsoft/Swin-Transformer) | This is an official implementation for "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows". |
-| [stylegan3](https://github.com/NVlabs/stylegan3) | Official PyTorch implementation of StyleGAN3 |
+| [mujoco](https://github.com/deepmind/mujoco) | Multi-Joint dynamics with Contact. A general purpose physics simulator. |
+| [guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) | GUIA EXTENSO DE PROGRAMAÇÃO: |
+| [datree](https://github.com/datreeio/datree) | Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies. See our docs: https://hub.datree.io |
+| [black](https://github.com/psf/black) | The uncompromising Python code formatter |
+| [Cloudreve](https://github.com/cloudreve/Cloudreve) | 🌩支持多家云存储的云盘系统 (Self-deployed file management and sharing system, supports multiple storage providers) |
+| [Einsen](https://github.com/Spikeysanju/Einsen) | 🎯 Einsen is a prioritization app that uses Eisenhower matrix technique as workflow to prioritize a list of tasks & built to Demonstrate use of Jetpack Compose with Modern Android Architecture Components & MVVM Architecture. |
+| [substrate](https://github.com/paritytech/substrate) | Substrate: The platform for blockchain innovators |
+| [slate](https://github.com/ianstormtaylor/slate) | A completely customizable framework for building rich text editors. (Currently in beta.) |
+| [jax](https://github.com/google/jax) | Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more |
+| [music-website](https://github.com/Yin-Hongwei/music-website) | 🎧 Vue + SpringBoot + MyBatis 音乐网站 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
