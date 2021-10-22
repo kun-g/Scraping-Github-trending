@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [dim](https://github.com/Dusk-Labs/dim) | Dim, a media manager fueled by dark forces. |
 | [mujoco](https://github.com/deepmind/mujoco) | Multi-Joint dynamics with Contact. A general purpose physics simulator. |
-| [guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) | GUIA EXTENSO DE PROGRAMAÇÃO: |
+| [zspotify](https://github.com/Footsiefat/zspotify) | Spotify song downloader without injecting into the windows client |
 | [datree](https://github.com/datreeio/datree) | Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies. See our docs: https://hub.datree.io |
-| [black](https://github.com/psf/black) | The uncompromising Python code formatter |
-| [Cloudreve](https://github.com/cloudreve/Cloudreve) | 🌩支持多家云存储的云盘系统 (Self-deployed file management and sharing system, supports multiple storage providers) |
-| [Einsen](https://github.com/Spikeysanju/Einsen) | 🎯 Einsen is a prioritization app that uses Eisenhower matrix technique as workflow to prioritize a list of tasks & built to Demonstrate use of Jetpack Compose with Modern Android Architecture Components & MVVM Architecture. |
-| [substrate](https://github.com/paritytech/substrate) | Substrate: The platform for blockchain innovators |
-| [slate](https://github.com/ianstormtaylor/slate) | A completely customizable framework for building rich text editors. (Currently in beta.) |
-| [jax](https://github.com/google/jax) | Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more |
-| [music-website](https://github.com/Yin-Hongwei/music-website) | 🎧 Vue + SpringBoot + MyBatis 音乐网站 |
+| [TypeScript](https://github.com/microsoft/TypeScript) | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. |
+| [galaxysql](https://github.com/ApsaraDB/galaxysql) | PolarDB-X is a cloud native distributed SQL Database designed for high concurrency, massive storage, complex querying scenarios. |
+| [Practical-Ethical-Hacking-Resources](https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources) | Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course |
+| [openc910](https://github.com/T-head-Semi/openc910) | OpenXuantie - OpenC910 Core |
+| [NonDeepNetworks](https://github.com/imankgoyal/NonDeepNetworks) | Official Code for "Non-deep Networks" |
+| [lama](https://github.com/saic-mdal/lama) | 🦙 LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
