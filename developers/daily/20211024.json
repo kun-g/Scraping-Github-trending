@@ -1,0 +1,290 @@
+[
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/8456633",
+        "name": "Jesse Duffield",
+        "repo": {
+            "description": "simple terminal UI for git commands",
+            "name": "lazygit",
+            "url": "https://github.com/jesseduffield/lazygit"
+        },
+        "sponsorUrl": "https://github.com/sponsors/jesseduffield",
+        "url": "https://github.com/jesseduffield",
+        "username": "jesseduffield"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1148717",
+        "name": "Emil Ernerfeldt",
+        "repo": {
+            "description": "egui: an easy-to-use immediate mode GUI in pure Rust",
+            "name": "egui",
+            "url": "https://github.com/emilk/egui"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/emilk",
+        "username": "emilk"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2946214",
+        "name": "Joe Chen",
+        "repo": {
+            "description": "\u300aThe Way to Go\u300b\u4e2d\u6587\u8bd1\u672c\uff0c\u4e2d\u6587\u6b63\u5f0f\u540d\u300aGo \u5165\u95e8\u6307\u5357\u300b",
+            "name": "the-way-to-go_ZH_CN",
+            "url": "https://github.com/unknwon/the-way-to-go_ZH_CN"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/unknwon",
+        "username": "unknwon"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/15975785",
+        "name": "jeremywu",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/JeremyWuuuuu",
+        "username": "JeremyWuuuuu"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/6799467",
+        "name": "dylan",
+        "repo": {
+            "description": "\ud83d\uddbc\ufe0f A command-line system information tool written in bash 3.2+",
+            "name": "neofetch",
+            "url": "https://github.com/dylanaraps/neofetch"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/dylanaraps",
+        "username": "dylanaraps"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/51083",
+        "name": "Nick O'Leary",
+        "repo": {
+            "description": "A client library for the Arduino Ethernet Shield that provides support for MQTT.",
+            "name": "pubsubclient",
+            "url": "https://github.com/knolleary/pubsubclient"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/knolleary",
+        "username": "knolleary"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1326112",
+        "name": "Sebasti\u00e1n Ram\u00edrez",
+        "repo": {
+            "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+            "name": "fastapi",
+            "url": "https://github.com/tiangolo/fastapi"
+        },
+        "sponsorUrl": "https://github.com/sponsors/tiangolo",
+        "url": "https://github.com/tiangolo",
+        "username": "tiangolo"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1476232",
+        "name": "Mike Penz",
+        "repo": {
+            "description": "A GitHub action that builds your release notes / changelog fast, easy and exactly the way you want.",
+            "name": "release-changelog-builder-action",
+            "url": "https://github.com/mikepenz/release-changelog-builder-action"
+        },
+        "sponsorUrl": "https://github.com/sponsors/mikepenz",
+        "url": "https://github.com/mikepenz",
+        "username": "mikepenz"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1571086",
+        "name": "Shivam Mathur",
+        "repo": {
+            "description": "\ud83c\udf7a Homebrew tap for PHP 5.6 to 8.2. PHP 8.1 and 8.2 are nightly builds.",
+            "name": "homebrew-php",
+            "url": "https://github.com/shivammathur/homebrew-php"
+        },
+        "sponsorUrl": "https://github.com/sponsors/shivammathur",
+        "url": "https://github.com/shivammathur",
+        "username": "shivammathur"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/4039449",
+        "name": "Samuel Colvin",
+        "repo": {
+            "description": "Data parsing and validation using Python type hints",
+            "name": "pydantic",
+            "url": "https://github.com/samuelcolvin/pydantic"
+        },
+        "sponsorUrl": "https://github.com/sponsors/samuelcolvin",
+        "url": "https://github.com/samuelcolvin",
+        "username": "samuelcolvin"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/661450",
+        "name": "Arvid Norberg",
+        "repo": {
+            "description": "an efficient feature complete C++ bittorrent implementation",
+            "name": "libtorrent",
+            "url": "https://github.com/arvidn/libtorrent"
+        },
+        "sponsorUrl": "https://github.com/sponsors/arvidn",
+        "url": "https://github.com/arvidn",
+        "username": "arvidn"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/7629661",
+        "name": "Carlos Cuesta",
+        "repo": {
+            "description": "An emoji guide for your commit messages. \ud83d\ude1c",
+            "name": "gitmoji",
+            "url": "https://github.com/carloscuesta/gitmoji"
+        },
+        "sponsorUrl": "https://github.com/sponsors/carloscuesta",
+        "url": "https://github.com/carloscuesta",
+        "username": "carloscuesta"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/130929",
+        "name": "Henrik Rydg\u00e5rd",
+        "repo": {
+            "description": "A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the forums on ppsspp.org.",
+            "name": "ppsspp",
+            "url": "https://github.com/hrydgard/ppsspp"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/hrydgard",
+        "username": "hrydgard"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/245435",
+        "name": "Carlos Alexandro Becker",
+        "repo": {
+            "description": "my own dotfiles ported to fish",
+            "name": "dotfiles.fish",
+            "url": "https://github.com/caarlos0/dotfiles.fish"
+        },
+        "sponsorUrl": "https://github.com/sponsors/caarlos0",
+        "url": "https://github.com/caarlos0",
+        "username": "caarlos0"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/4506500",
+        "name": "Thi Do\u00e3n",
+        "repo": {
+            "description": "A little beautifier tool for xcodebuild",
+            "name": "xcbeautify",
+            "url": "https://github.com/thii/xcbeautify"
+        },
+        "sponsorUrl": "https://github.com/sponsors/thii",
+        "url": "https://github.com/thii",
+        "username": "thii"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/4310419",
+        "name": "Kentaro Wada",
+        "repo": {
+            "description": "Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).",
+            "name": "labelme",
+            "url": "https://github.com/wkentaro/labelme"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/wkentaro",
+        "username": "wkentaro"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/46163555",
+        "name": "PySimpleGUI",
+        "repo": {
+            "description": "Launched in 2018 Actively developed & supported. Supports tkinter, Qt, WxPython, Remi (in browser). Create custom GUI Windows simply, trivially with a full set of widgets. Multi-Window applications are also simple. Python 2.7 & 3 Support. 300+ Demo programs & Cookbook for rapid start. Extensive documentation. Examples using Machine Learning(GUI,\u2026",
+            "name": "PySimpleGUI",
+            "url": "https://github.com/PySimpleGUI/PySimpleGUI"
+        },
+        "sponsorUrl": "https://github.com/sponsors/PySimpleGUI",
+        "url": "https://github.com/PySimpleGUI",
+        "username": "PySimpleGUI"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1926905",
+        "name": "Matt Layher",
+        "repo": {
+            "description": "Package netlink provides low-level access to Linux netlink sockets. MIT Licensed.",
+            "name": "netlink",
+            "url": "https://github.com/mdlayher/netlink"
+        },
+        "sponsorUrl": "https://github.com/sponsors/mdlayher",
+        "url": "https://github.com/mdlayher",
+        "username": "mdlayher"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/173661",
+        "name": "Alon Zakai",
+        "repo": {
+            "description": "Direct port of the Bullet physics engine to JavaScript using Emscripten",
+            "name": "ammo.js",
+            "url": "https://github.com/kripken/ammo.js"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/kripken",
+        "username": "kripken"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/216089",
+        "name": "Olivier Halligon",
+        "repo": {
+            "description": "Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!",
+            "name": "OHHTTPStubs",
+            "url": "https://github.com/AliSoftware/OHHTTPStubs"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/AliSoftware",
+        "username": "AliSoftware"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/10513364",
+        "name": "Bill",
+        "repo": {
+            "description": "\ud83d\udce0 React custom hook for persist state management",
+            "name": "little-state-machine",
+            "url": "https://github.com/bluebill1049/little-state-machine"
+        },
+        "sponsorUrl": "https://github.com/sponsors/bluebill1049",
+        "url": "https://github.com/bluebill1049",
+        "username": "bluebill1049"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2041322",
+        "name": "Han Xiao",
+        "repo": {
+            "description": "Mapping a variable-length sentence to a fixed-length vector using BERT model",
+            "name": "bert-as-service",
+            "url": "https://github.com/hanxiao/bert-as-service"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/hanxiao",
+        "username": "hanxiao"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1369770",
+        "name": "Drew Powers",
+        "repo": {
+            "description": "Generate TypeScript types from Swagger OpenAPI specs",
+            "name": "openapi-typescript",
+            "url": "https://github.com/drwpow/openapi-typescript"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/drwpow",
+        "username": "drwpow"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/934260",
+        "name": "William Cheng",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/wing328",
+        "username": "wing328"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/25267873",
+        "name": "DidierRLopes",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/DidierRLopes",
+        "username": "DidierRLopes"
+    }
+]

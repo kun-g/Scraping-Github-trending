@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [gateio-crypto-trading-bot-binance-announcements-new-coins](https://github.com/CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins) | This is a crypto trading bot that scans the Binance Annoucements page for new coins, and places trades on Gateio |
 | [zspotify](https://github.com/Footsiefat/zspotify) | Spotify song downloader without injecting into the windows client |
+| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
+| [reactjs.org](https://github.com/reactjs/reactjs.org) | The React documentation website |
+| [audio_video_streaming](https://github.com/0voice/audio_video_streaming) | 音视频流媒体权威资料整理，500+份文章，论文，视频，实践项目，协议，业界大神名单。 |
+| [mastodon](https://github.com/mastodon/mastodon) | Your self-hosted, globally interconnected microblogging community |
+| [control-flag](https://github.com/IntelLabs/control-flag) | A system to flag anomalous source code expressions by learning typical expressions from training data |
+| [Super_Mario](https://github.com/BadagalaAdarsh/Super_Mario) | None |
 | [dim](https://github.com/Dusk-Labs/dim) | Dim, a media manager fueled by dark forces. |
-| [service](https://github.com/ardanlabs/service) | Starter code for writing web services in Go using Kubernetes. |
-| [laravel-tips](https://github.com/LaravelDaily/laravel-tips) | Awesome tips for Laravel |
-| [TechXueXi](https://github.com/TechXueXi/TechXueXi) | 强国通 科技强国 学习强国 xuexiqiangguo 全网最好用开源网页学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，支持 docker 45分/天 |
-| [datree](https://github.com/datreeio/datree) | Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies. See our docs: https://hub.datree.io |
-| [javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) | List of 1000 JavaScript Interview Questions |
-| [hummingbot](https://github.com/CoinAlpha/hummingbot) | Hummingbot: a client for crypto market making |
-| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
+| [ZipExec](https://github.com/Tylous/ZipExec) | A unique technique to execute binaries from a password protected zip |
+| [Practical-Ethical-Hacking-Resources](https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources) | Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
