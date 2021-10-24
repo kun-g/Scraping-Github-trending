@@ -25,16 +25,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [uptime-kuma](https://github.com/louislam/uptime-kuma) | A fancy self-hosted monitoring tool |
-| [flipper](https://github.com/facebook/flipper) | A desktop debugging platform for mobile developers. |
-| [gop](https://github.com/goplus/gop) | GoPlus - The Go+ language for engineering, STEM education, and data science |
-| [school-dev-k8s](https://github.com/Slurmio/school-dev-k8s) | None |
-| [MockingBird](https://github.com/babysor/MockingBird) | 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time |
-| [lvgl](https://github.com/lvgl/lvgl) | Powerful and easy-to-use embedded GUI library with many widgets, advanced visual effects (opacity, antialiasing, animations) and low memory requirements (16K RAM, 64K Flash). |
-| [algo](https://github.com/trailofbits/algo) | Set up a personal VPN in the cloud |
-| [nvim-cmp](https://github.com/hrsh7th/nvim-cmp) | A completion plugin for neovim coded in Lua. |
-| [argo-cd](https://github.com/argoproj/argo-cd) | Declarative continuous deployment for Kubernetes. |
-| [srs](https://github.com/ossrs/srs) | SRS is a simple, high efficiency and realtime video server, supports RTMP/WebRTC/HLS/HTTP-FLV/SRT/GB28181. |
+| [ddosify](https://github.com/ddosify/ddosify) | High-performance load testing tool, written in Golang. |
+| [MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) | Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2! |
+| [SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) | Decompilation of 3D Pinball for Windows – Space Cadet |
+| [framework](https://github.com/nuxt/framework) | The Hybrid Vue(3) Framework. |
+| [all-of-frontend](https://github.com/KieSun/all-of-frontend) | 你想知道的前端内容都在这 |
+| [node-express-course](https://github.com/john-smilga/node-express-course) | None |
+| [Cloudreve](https://github.com/cloudreve/Cloudreve) | 🌩支持多家云存储的云盘系统 (Self-deployed file management and sharing system, supports multiple storage providers) |
+| [faceswap](https://github.com/deepfakes/faceswap) | Deepfakes Software For All |
+| [miaosha](https://github.com/qiurunze123/miaosha) | ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓 |
+| [apisix](https://github.com/apache/apisix) | The Cloud-Native API Gateway |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
