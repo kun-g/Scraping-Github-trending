@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [zspotify](https://github.com/Footsiefat/zspotify) | Spotify song downloader without injecting into the windows client |
-| [v86](https://github.com/copy/v86) | x86 virtualization in your browser, recompiling x86 to wasm on the fly |
-| [control-flag](https://github.com/IntelLabs/control-flag) | A system to flag anomalous source code expressions by learning typical expressions from training data |
-| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
+| [zspotify](https://github.com/Footsiefat/zspotify) | A Spotify downloader needing only a python interpreter and ffmpeg. |
+| [darkfi](https://github.com/darkrenaissance/darkfi) | Anonymous. Uncensored. Sovereign. |
+| [zphisher](https://github.com/htr-tech/zphisher) | An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit ! |
+| [ArchTitus](https://github.com/ChrisTitusTech/ArchTitus) | Automated Arch Linux Install |
+| [WSAGAScript](https://github.com/ADeltaX/WSAGAScript) | Scripts to install Google Apps into a WSA image. Plus optional ADB root |
 | [responsive-halloween-website](https://github.com/bedimcode/responsive-halloween-website) | Responsive Halloween Website Design Using HTML CSS & JavaScript |
-| [gateio-crypto-trading-bot-binance-announcements-new-coins](https://github.com/CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins) | This is a crypto trading bot that scans the Binance Annoucements page for new coins, and places trades on Gateio |
-| [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
+| [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) | ⭐️ Companies that don't have a broken hiring process |
+| [v86](https://github.com/copy/v86) | x86 virtualization in your browser, recompiling x86 to wasm on the fly |
 | [sdk](https://github.com/dotnet/sdk) | Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI |
-| [reactjs.org](https://github.com/reactjs/reactjs.org) | The React documentation website |
-| [MapAssist](https://github.com/misterokaygo/MapAssist) | None |
+| [copilot-docs](https://github.com/github/copilot-docs) | Documentation for GitHub Copilot |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
