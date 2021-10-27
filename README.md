@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [zspotify](https://github.com/Footsiefat/zspotify) | A Spotify downloader needing only a python interpreter and ffmpeg. |
-| [darkfi](https://github.com/darkrenaissance/darkfi) | Anonymous. Uncensored. Sovereign. |
-| [zphisher](https://github.com/htr-tech/zphisher) | An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit ! |
-| [ArchTitus](https://github.com/ChrisTitusTech/ArchTitus) | Automated Arch Linux Install |
-| [WSAGAScript](https://github.com/ADeltaX/WSAGAScript) | Scripts to install Google Apps into a WSA image. Plus optional ADB root |
-| [responsive-halloween-website](https://github.com/bedimcode/responsive-halloween-website) | Responsive Halloween Website Design Using HTML CSS & JavaScript |
-| [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) | ⭐️ Companies that don't have a broken hiring process |
-| [v86](https://github.com/copy/v86) | x86 virtualization in your browser, recompiling x86 to wasm on the fly |
-| [sdk](https://github.com/dotnet/sdk) | Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI |
-| [copilot-docs](https://github.com/github/copilot-docs) | Documentation for GitHub Copilot |
+| [jd_tb_auto](https://github.com/czj2369/jd_tb_auto) | 基于AutoJs编写的618||双十一||淘宝||京东||赚喵币||赚汪汪币任务自动完成脚本 |
+| [audio_video_streaming](https://github.com/0voice/audio_video_streaming) | 音视频流媒体权威资料整理，500+份文章，论文，视频，实践项目，协议，业界大神名单。 |
+| [WSAGAScript](https://github.com/ADeltaX/WSAGAScript) | Scripts to install Google Apps into a WSA image. Plus optional root |
+| [dockerfiles](https://github.com/jessfraz/dockerfiles) | Various Dockerfiles I use on the desktop and on servers. |
+| [ByteTrack](https://github.com/ifzhang/ByteTrack) | ByteTrack: Multi-Object Tracking by Associating Every Detection Box |
+| [FrontEndCollection](https://github.com/cheatsheet1999/FrontEndCollection) | Notes for Front-end Software Engineers. Covers common data structure and algorithms, basic web concepts, HTML & CSS & Javascript. |
+| [Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Python - 100天从新手到大师 |
+| [SpringBootExploit](https://github.com/0x727/SpringBootExploit) | 项目是根据LandGrey/SpringBootVulExploit清单编写，目的hvv期间快速利用漏洞、降低漏洞利用门槛。 |
+| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
+| [KubePi](https://github.com/KubeOperator/KubePi) | KubePi 是一款简单易用的开源 Kubernetes 可视化管理面板 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
