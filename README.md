@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [kkndme_tianya](https://github.com/shengcaishizhan/kkndme_tianya) | 天涯 kkndme 神贴聊房价 |
+| [LittleJS](https://github.com/KilledByAPixel/LittleJS) | The Tiny JavaScript Game Engine That Can! 🚂 |
 | [jd_tb_auto](https://github.com/czj2369/jd_tb_auto) | 基于AutoJs编写的618||双十一||淘宝||京东||赚喵币||赚汪汪币任务自动完成脚本 |
-| [audio_video_streaming](https://github.com/0voice/audio_video_streaming) | 音视频流媒体权威资料整理，500+份文章，论文，视频，实践项目，协议，业界大神名单。 |
-| [WSAGAScript](https://github.com/ADeltaX/WSAGAScript) | Scripts to install Google Apps into a WSA image. Plus optional root |
-| [dockerfiles](https://github.com/jessfraz/dockerfiles) | Various Dockerfiles I use on the desktop and on servers. |
-| [ByteTrack](https://github.com/ifzhang/ByteTrack) | ByteTrack: Multi-Object Tracking by Associating Every Detection Box |
-| [FrontEndCollection](https://github.com/cheatsheet1999/FrontEndCollection) | Notes for Front-end Software Engineers. Covers common data structure and algorithms, basic web concepts, HTML & CSS & Javascript. |
-| [Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Python - 100天从新手到大师 |
-| [SpringBootExploit](https://github.com/0x727/SpringBootExploit) | 项目是根据LandGrey/SpringBootVulExploit清单编写，目的hvv期间快速利用漏洞、降低漏洞利用门槛。 |
-| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
-| [KubePi](https://github.com/KubeOperator/KubePi) | KubePi 是一款简单易用的开源 Kubernetes 可视化管理面板 |
+| [kerla](https://github.com/nuta/kerla) | A new operating system kernel with Linux binary compatibility written in Rust. |
+| [kkndme](https://github.com/momo0853/kkndme) | kkndme聊房，数据整理自天涯。提供HTML、PDF和Markdown三种形式。 |
+| [paper-reading](https://github.com/mli/paper-reading) | 深度学习论文精读 |
+| [zphisher](https://github.com/htr-tech/zphisher) | An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit ! |
+| [iRingo](https://github.com/VirgilClyne/iRingo) | 解锁完整的 Apple功能和集成服务 |
+| [GrowingBugRepository](https://github.com/liuhuigmail/GrowingBugRepository) | A bug repository that keeps growing |
+| [copilot-docs](https://github.com/github/copilot-docs) | Documentation for GitHub Copilot |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
