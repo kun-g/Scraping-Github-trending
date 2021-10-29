@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [kkndme_tianya](https://github.com/shengcaishizhan/kkndme_tianya) | 天涯 kkndme 神贴聊房价 |
-| [LittleJS](https://github.com/KilledByAPixel/LittleJS) | The Tiny JavaScript Game Engine That Can! 🚂 |
-| [jd_tb_auto](https://github.com/czj2369/jd_tb_auto) | 基于AutoJs编写的618||双十一||淘宝||京东||赚喵币||赚汪汪币任务自动完成脚本 |
-| [kerla](https://github.com/nuta/kerla) | A new operating system kernel with Linux binary compatibility written in Rust. |
-| [kkndme](https://github.com/momo0853/kkndme) | kkndme聊房，数据整理自天涯。提供HTML、PDF和Markdown三种形式。 |
-| [paper-reading](https://github.com/mli/paper-reading) | 深度学习论文精读 |
-| [zphisher](https://github.com/htr-tech/zphisher) | An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit ! |
-| [iRingo](https://github.com/VirgilClyne/iRingo) | 解锁完整的 Apple功能和集成服务 |
-| [GrowingBugRepository](https://github.com/liuhuigmail/GrowingBugRepository) | A bug repository that keeps growing |
+| [arco-design](https://github.com/arco-design/arco-design) | A comprehensive React UI components library |
+| [semi-design](https://github.com/DouyinFE/semi-design) | A modern, comprehensive, flexible design system and React UI library |
+| [XcodeBenchmark](https://github.com/devMEremenko/XcodeBenchmark) | XcodeBenchmark measures the compilation time of a large codebase on iMac, MacBook, and Mac Pro |
+| [matrixone](https://github.com/matrixorigin/matrixone) | Planet scale, cloud-edge native big data engine crafted for heterogeneous workloads |
 | [copilot-docs](https://github.com/github/copilot-docs) | Documentation for GitHub Copilot |
+| [nvm](https://github.com/nvm-sh/nvm) | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
+| [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) | OpenCore bootloader |
+| [kerla](https://github.com/nuta/kerla) | A new operating system kernel with Linux binary compatibility written in Rust. |
+| [jd_tb_auto](https://github.com/czj2369/jd_tb_auto) | 基于AutoJs编写的618||双十一||淘宝||京东||赚喵币||赚汪汪币任务自动完成脚本 |
+| [modern.js](https://github.com/modern-js-dev/modern.js) | The meta-framework suite designed from scratch for frontend-focused modern web development. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
