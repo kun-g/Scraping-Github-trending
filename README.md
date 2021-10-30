@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [arco-design](https://github.com/arco-design/arco-design) | A comprehensive React UI components library |
-| [semi-design](https://github.com/DouyinFE/semi-design) | A modern, comprehensive, flexible design system and React UI library |
-| [XcodeBenchmark](https://github.com/devMEremenko/XcodeBenchmark) | XcodeBenchmark measures the compilation time of a large codebase on iMac, MacBook, and Mac Pro |
-| [matrixone](https://github.com/matrixorigin/matrixone) | Planet scale, cloud-edge native big data engine crafted for heterogeneous workloads |
+| [copilot.vim](https://github.com/github/copilot.vim) | Neovim plugin for GitHub Copilot |
+| [croc](https://github.com/schollz/croc) | Easily and securely send things from one computer to another 🐊 📦 |
+| [arco-design-vue](https://github.com/arco-design/arco-design-vue) | A Vue.js 3 UI Library |
+| [NostalgiaForInfinity](https://github.com/iterativv/NostalgiaForInfinity) | Trading strategy for the Freqtrade crypto bot |
+| [WorkingTime](https://github.com/WorkerLivesMatter/WorkingTime) | None |
+| [hcert-spec](https://github.com/ehn-dcc-development/hcert-spec) | Electronic Health Certificates Specification |
+| [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | 🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！ |
+| [next.js](https://github.com/vercel/next.js) | The React Framework |
 | [copilot-docs](https://github.com/github/copilot-docs) | Documentation for GitHub Copilot |
-| [nvm](https://github.com/nvm-sh/nvm) | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
-| [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) | OpenCore bootloader |
-| [kerla](https://github.com/nuta/kerla) | A new operating system kernel with Linux binary compatibility written in Rust. |
-| [jd_tb_auto](https://github.com/czj2369/jd_tb_auto) | 基于AutoJs编写的618||双十一||淘宝||京东||赚喵币||赚汪汪币任务自动完成脚本 |
-| [modern.js](https://github.com/modern-js-dev/modern.js) | The meta-framework suite designed from scratch for frontend-focused modern web development. |
+| [lba1-classic](https://github.com/2point21/lba1-classic) | None |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
