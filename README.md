@@ -25,16 +25,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [ddosify](https://github.com/ddosify/ddosify) | High-performance load testing tool, written in Golang. |
-| [MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) | Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2! |
-| [SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) | Decompilation of 3D Pinball for Windows – Space Cadet |
-| [framework](https://github.com/nuxt/framework) | The Hybrid Vue(3) Framework. |
-| [all-of-frontend](https://github.com/KieSun/all-of-frontend) | 你想知道的前端内容都在这 |
-| [node-express-course](https://github.com/john-smilga/node-express-course) | None |
-| [Cloudreve](https://github.com/cloudreve/Cloudreve) | 🌩支持多家云存储的云盘系统 (Self-deployed file management and sharing system, supports multiple storage providers) |
+| [zspotify](https://github.com/Footsiefat/zspotify) | A Spotify downloader needing only a python interpreter and ffmpeg. |
+| [modern.js](https://github.com/modern-js-dev/modern.js) | The meta-framework suite designed from scratch for frontend-focused modern web development. |
+| [gateio-crypto-trading-bot-binance-announcements-new-coins](https://github.com/CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins) | This is a crypto trading bot that scans the Binance Annoucements page for new coins, and places trades on Gateio |
+| [kkndme_tianya](https://github.com/shengcaishizhan/kkndme_tianya) | 天涯 kkndme 神贴聊房价 |
+| [zphisher](https://github.com/htr-tech/zphisher) | An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit ! |
+| [ByteTrack](https://github.com/ifzhang/ByteTrack) | ByteTrack: Multi-Object Tracking by Associating Every Detection Box |
+| [JD_tencent_scf](https://github.com/zero205/JD_tencent_scf) | 自用京东JS脚本，已加入助力池；支持【青龙】、【腾讯云函数】、【elecV2P】；低调使用，请勿fork！！！ |
 | [faceswap](https://github.com/deepfakes/faceswap) | Deepfakes Software For All |
-| [miaosha](https://github.com/qiurunze123/miaosha) | ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓 |
-| [apisix](https://github.com/apache/apisix) | The Cloud-Native API Gateway |
+| [MapAssist](https://github.com/misterokaygo/MapAssist) | None |
+| [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) | OpenCore bootloader |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
