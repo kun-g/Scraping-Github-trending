@@ -1,0 +1,302 @@
+[
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2492783",
+        "name": "Jan De Dobbeleer",
+        "repo": {
+            "description": "A prompt theme engine for any shell.",
+            "name": "oh-my-posh",
+            "url": "https://github.com/JanDeDobbeleer/oh-my-posh"
+        },
+        "sponsorUrl": "https://github.com/sponsors/JanDeDobbeleer",
+        "url": "https://github.com/JanDeDobbeleer",
+        "username": "JanDeDobbeleer"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/5457236",
+        "name": "Nuno Maduro",
+        "repo": {
+            "description": "\ud83c\udf43 In short, it's like Tailwind CSS, but for the PHP command-line applications.",
+            "name": "termwind",
+            "url": "https://github.com/nunomaduro/termwind"
+        },
+        "sponsorUrl": "https://github.com/sponsors/nunomaduro",
+        "url": "https://github.com/nunomaduro",
+        "username": "nunomaduro"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/590471",
+        "name": "Alex Goodman",
+        "repo": {
+            "description": "A tool for exploring each layer in a docker image",
+            "name": "dive",
+            "url": "https://github.com/wagoodman/dive"
+        },
+        "sponsorUrl": "https://github.com/sponsors/wagoodman",
+        "url": "https://github.com/wagoodman",
+        "username": "wagoodman"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1810591",
+        "name": "Anthony Sottile",
+        "repo": {
+            "description": "A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.",
+            "name": "pyupgrade",
+            "url": "https://github.com/asottile/pyupgrade"
+        },
+        "sponsorUrl": "https://github.com/sponsors/asottile",
+        "url": "https://github.com/asottile",
+        "username": "asottile"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/629908",
+        "name": "hrsh7th",
+        "repo": {
+            "description": "A completion plugin for neovim coded in Lua.",
+            "name": "nvim-cmp",
+            "url": "https://github.com/hrsh7th/nvim-cmp"
+        },
+        "sponsorUrl": "https://github.com/sponsors/hrsh7th",
+        "url": "https://github.com/hrsh7th",
+        "username": "hrsh7th"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/17530",
+        "name": "Asim Aslam",
+        "repo": {
+            "description": "A Go framework for distributed systems development",
+            "name": "go-micro",
+            "url": "https://github.com/asim/go-micro"
+        },
+        "sponsorUrl": "https://github.com/sponsors/asim",
+        "url": "https://github.com/asim",
+        "username": "asim"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/3797675",
+        "name": "Stefan Prodan",
+        "repo": {
+            "description": "Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager",
+            "name": "dockprom",
+            "url": "https://github.com/stefanprodan/dockprom"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/stefanprodan",
+        "username": "stefanprodan"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/944406",
+        "name": "Titus",
+        "repo": {
+            "description": "Just a *really* good MDX compiler. No runtime. With esbuild, Rollup, and webpack plugins",
+            "name": "xdm",
+            "url": "https://github.com/wooorm/xdm"
+        },
+        "sponsorUrl": "https://github.com/sponsors/wooorm",
+        "url": "https://github.com/wooorm",
+        "username": "wooorm"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1571086",
+        "name": "Shivam Mathur",
+        "repo": {
+            "description": "GitHub action to set up PHP with extensions, php.ini configuration, coverage drivers, and various tools.",
+            "name": "setup-php",
+            "url": "https://github.com/shivammathur/setup-php"
+        },
+        "sponsorUrl": "https://github.com/sponsors/shivammathur",
+        "url": "https://github.com/shivammathur",
+        "username": "shivammathur"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/8456633",
+        "name": "Jesse Duffield",
+        "repo": {
+            "description": "simple terminal UI for git commands",
+            "name": "lazygit",
+            "url": "https://github.com/jesseduffield/lazygit"
+        },
+        "sponsorUrl": "https://github.com/sponsors/jesseduffield",
+        "url": "https://github.com/jesseduffield",
+        "username": "jesseduffield"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/65675",
+        "name": "Jose Diaz-Gonzalez",
+        "repo": {
+            "description": "backup a github user or organization",
+            "name": "python-github-backup",
+            "url": "https://github.com/josegonzalez/python-github-backup"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/josegonzalez",
+        "username": "josegonzalez"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/70381",
+        "name": "Charles Kerr",
+        "repo": {
+            "description": "hugo content of charlesk.github.io",
+            "name": "blog-hugo",
+            "url": "https://github.com/ckerr/blog-hugo"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/ckerr",
+        "username": "ckerr"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/51083",
+        "name": "Nick O'Leary",
+        "repo": {
+            "description": "A client library for the Arduino Ethernet Shield that provides support for MQTT.",
+            "name": "pubsubclient",
+            "url": "https://github.com/knolleary/pubsubclient"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/knolleary",
+        "username": "knolleary"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/17445847",
+        "name": "Xintao",
+        "repo": {
+            "description": "Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.",
+            "name": "Real-ESRGAN",
+            "url": "https://github.com/xinntao/Real-ESRGAN"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/xinntao",
+        "username": "xinntao"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/3709715",
+        "name": "Christian Clauss",
+        "repo": {
+            "description": "Python scripts that are short but useful or interesting",
+            "name": "Ten-lines-or-less",
+            "url": "https://github.com/cclauss/Ten-lines-or-less"
+        },
+        "sponsorUrl": "https://github.com/sponsors/cclauss",
+        "url": "https://github.com/cclauss",
+        "username": "cclauss"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/9113740",
+        "name": "Lee Robinson",
+        "repo": {
+            "description": "\u2728 My portfolio built with Next.js, Tailwind, Prisma, and Vercel.",
+            "name": "leerob.io",
+            "url": "https://github.com/leerob/leerob.io"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/leerob",
+        "username": "leerob"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/20594326",
+        "name": "Vinit Shahdeo",
+        "repo": {
+            "description": "A community-led mentorship initiative to help beginners kickstarting their open-source journey by completing Hacktoberfest'21 challenge | Curated list of beginner-friendly issues for Hacktoberfest 2021 | Raise PR to add your issues",
+            "name": "Hacktoberfest2021",
+            "url": "https://github.com/vinitshahdeo/Hacktoberfest2021"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/vinitshahdeo",
+        "username": "vinitshahdeo"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1544111",
+        "name": "Anne van Kesteren",
+        "repo": {
+            "description": "Opaque Response Blocking (CORB++)",
+            "name": "orb",
+            "url": "https://github.com/annevk/orb"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/annevk",
+        "username": "annevk"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/48863253",
+        "name": "Mykola Grymalyuk",
+        "repo": {
+            "description": "Repo for patched IO80211Family Kexts",
+            "name": "IO80211-Patches",
+            "url": "https://github.com/khronokernel/IO80211-Patches"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/khronokernel",
+        "username": "khronokernel"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2253692",
+        "name": "Teppei Fukuda",
+        "repo": {
+            "description": "Simple command-line snippet manager, written in Go.",
+            "name": "pet",
+            "url": "https://github.com/knqyf263/pet"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/knqyf263",
+        "username": "knqyf263"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/13172299",
+        "name": "Fernando Rojo",
+        "repo": {
+            "description": "\ud83d\udc3c The React Native (+ Web) animation library, powered by Reanimated 2.",
+            "name": "moti",
+            "url": "https://github.com/nandorojo/moti"
+        },
+        "sponsorUrl": "https://github.com/sponsors/nandorojo",
+        "url": "https://github.com/nandorojo",
+        "username": "nandorojo"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/4310419",
+        "name": "Kentaro Wada",
+        "repo": {
+            "description": "Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).",
+            "name": "labelme",
+            "url": "https://github.com/wkentaro/labelme"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/wkentaro",
+        "username": "wkentaro"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/10353856",
+        "name": "Vitaly Rtishchev",
+        "repo": {
+            "description": "PWA with 12 open source frontend focused tools",
+            "name": "omatsuri",
+            "url": "https://github.com/rtivital/omatsuri"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/rtivital",
+        "username": "rtivital"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/349621",
+        "name": "XhmikosR",
+        "repo": {
+            "description": "LOOKING FOR DEVELOPERS - Notepad2-mod, a Notepad2 fork, a fast and light-weight Notepad-like text editor with syntax highlighting",
+            "name": "notepad2-mod",
+            "url": "https://github.com/XhmikosR/notepad2-mod"
+        },
+        "sponsorUrl": "https://github.com/sponsors/XhmikosR",
+        "url": "https://github.com/XhmikosR",
+        "username": "XhmikosR"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/6026504",
+        "name": "Anthony Rappa",
+        "repo": {
+            "description": "Log user authentication details and send new device notifications.",
+            "name": "laravel-authentication-log",
+            "url": "https://github.com/rappasoft/laravel-authentication-log"
+        },
+        "sponsorUrl": "https://github.com/sponsors/rappasoft",
+        "url": "https://github.com/rappasoft",
+        "username": "rappasoft"
+    }
+]

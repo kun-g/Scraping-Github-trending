@@ -42,13 +42,13 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [gop](https://github.com/goplus/gop) | GoPlus - The Go+ language for engineering, STEM education, and data science |
-| [btop](https://github.com/aristocratos/btop) | A monitor of resources |
 | [uptime-kuma](https://github.com/louislam/uptime-kuma) | A fancy self-hosted monitoring tool |
-| [appsmith](https://github.com/appsmithorg/appsmith) | Quickly build any custom business software like admin panels, internal tools, dashboards and more with pre-built UI widgets that connect to any database, GraphQL or REST API, controlling everything with Javascript. |
-| [MockingBird](https://github.com/babysor/MockingBird) | 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time |
 | [hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine) | HashLips Art Engine is a tool used to create multiple different instances of artworks based on provided layers. |
-| [Merlion](https://github.com/salesforce/Merlion) | Merlion: A Machine Learning Framework for Time Series Intelligence |
-| [masscan](https://github.com/robertdavidgraham/masscan) | TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes. |
-| [YesPlayMusic](https://github.com/qier222/YesPlayMusic) | 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux |
-| [weekly](https://github.com/ascoders/weekly) | 前端精读周刊。帮你理解最前沿、实用的技术。 |
+| [TechXueXi](https://github.com/TechXueXi/TechXueXi) | 强国通 科技强国 学习强国 xuexiqiangguo 全网最好用开源网页学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，支持 docker 45分/天 |
+| [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) | 10 Weeks, 20 Lessons, Data Science for All! |
+| [appsmith](https://github.com/appsmithorg/appsmith) | Quickly build any custom business software like admin panels, internal tools, dashboards and more with pre-built UI widgets that connect to any database, GraphQL or REST API, controlling everything with Javascript. |
+| [node-express-course](https://github.com/john-smilga/node-express-course) | None |
+| [spicedb](https://github.com/authzed/spicedb) | A database system for managing security-critical permissions checking. Inspired by Google's Zanzibar paper. |
+| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
+| [seeker](https://github.com/thewhiteh4t/seeker) | Accurately Locate Smartphones using Social Engineering |
 <!-- END OF MONTHLY_TOP10_REPOS -->
