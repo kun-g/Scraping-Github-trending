@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [copilot.vim](https://github.com/github/copilot.vim) | Neovim plugin for GitHub Copilot |
-| [croc](https://github.com/schollz/croc) | Easily and securely send things from one computer to another 🐊 📦 |
-| [arco-design-vue](https://github.com/arco-design/arco-design-vue) | A Vue.js 3 UI Library |
-| [NostalgiaForInfinity](https://github.com/iterativv/NostalgiaForInfinity) | Trading strategy for the Freqtrade crypto bot |
+| [taichi](https://github.com/taichi-dev/taichi) | Parallel programming for everyone. |
 | [WorkingTime](https://github.com/WorkerLivesMatter/WorkingTime) | None |
-| [hcert-spec](https://github.com/ehn-dcc-development/hcert-spec) | Electronic Health Certificates Specification |
-| [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | 🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！ |
-| [next.js](https://github.com/vercel/next.js) | The React Framework |
-| [copilot-docs](https://github.com/github/copilot-docs) | Documentation for GitHub Copilot |
-| [lba1-classic](https://github.com/2point21/lba1-classic) | None |
+| [croc](https://github.com/schollz/croc) | Easily and securely send things from one computer to another 🐊 📦 |
+| [modern.js](https://github.com/modern-js-dev/modern.js) | The meta-framework suite designed from scratch for frontend-focused modern web development. |
+| [binance-trade-bot](https://github.com/edeng23/binance-trade-bot) | Automated cryptocurrency trading bot |
+| [kubesphere](https://github.com/kubesphere/kubesphere) | The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️ |
+| [paper-reading](https://github.com/mli/paper-reading) | 深度学习经典、新论文逐段精读 |
+| [PD-Runner](https://github.com/lihaoyun6/PD-Runner) | A VM launcher for Parallels Desktop |
+| [BrcmPatchRAM](https://github.com/acidanthera/BrcmPatchRAM) | None |
+| [covid-cert-analysis](https://github.com/denysvitali/covid-cert-analysis) | None |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
