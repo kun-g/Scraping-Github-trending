@@ -45,10 +45,10 @@
 | [uptime-kuma](https://github.com/louislam/uptime-kuma) | A fancy self-hosted monitoring tool |
 | [hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine) | HashLips Art Engine is a tool used to create multiple different instances of artworks based on provided layers. |
 | [TechXueXi](https://github.com/TechXueXi/TechXueXi) | 强国通 科技强国 学习强国 xuexiqiangguo 全网最好用开源网页学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，支持 docker 45分/天 |
-| [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) | 10 Weeks, 20 Lessons, Data Science for All! |
-| [appsmith](https://github.com/appsmithorg/appsmith) | Quickly build any custom business software like admin panels, internal tools, dashboards and more with pre-built UI widgets that connect to any database, GraphQL or REST API, controlling everything with Javascript. |
+| [flipper](https://github.com/facebook/flipper) | A desktop debugging platform for mobile developers. |
 | [node-express-course](https://github.com/john-smilga/node-express-course) | None |
-| [spicedb](https://github.com/authzed/spicedb) | A database system for managing security-critical permissions checking. Inspired by Google's Zanzibar paper. |
+| [appsmith](https://github.com/appsmithorg/appsmith) | Quickly build any custom business software like admin panels, internal tools, dashboards and more with pre-built UI widgets that connect to any database, GraphQL or REST API, controlling everything with Javascript. |
 | [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
-| [seeker](https://github.com/thewhiteh4t/seeker) | Accurately Locate Smartphones using Social Engineering |
+| [miaosha](https://github.com/qiurunze123/miaosha) | ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓 |
+| [pytorch-image-models](https://github.com/rwightman/pytorch-image-models) | PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more |
 <!-- END OF MONTHLY_TOP10_REPOS -->
