@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [notifire](https://github.com/notifirehq/notifire) | 🚀 The open-source notification infrastructure for products. |
-| [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity |
-| [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | 🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！ |
-| [PD-Runner](https://github.com/lihaoyun6/PD-Runner) | A VM launcher for Parallels Desktop |
-| [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) | This project aims to bring back a productive working environment on Windows 11 |
 | [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) | 10 Weeks, 20 Lessons, Data Science for All! |
-| [DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | This repository consists of the code samples, assignments, and the curriculum for the Community Classroom complete Data Structures & Algorithms Java bootcamp. |
-| [croc](https://github.com/schollz/croc) | Easily and securely send things from one computer to another 🐊 📦 |
+| [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity |
+| [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) | Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨 |
+| [docs](https://github.com/github/docs) | The open-source repo for docs.github.com |
 | [WorkingTime](https://github.com/WorkerLivesMatter/WorkingTime) | None |
-| [Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) | OpenIM：由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。 |
+| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [taichi](https://github.com/taichi-dev/taichi) | Parallel programming for everyone. |
+| [http-server-online](https://github.com/EtherDream/http-server-online) | Start a local HTTP server without any tools, just open a web page. |
+| [MacVM](https://github.com/KhaosT/MacVM) | macOS VM for Apple Silicon using Virtualization API |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
