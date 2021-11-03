@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) | OpenIM：由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。 |
 | [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) | 10 Weeks, 20 Lessons, Data Science for All! |
-| [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity |
-| [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) | Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨 |
-| [docs](https://github.com/github/docs) | The open-source repo for docs.github.com |
+| [PD-Runner](https://github.com/lihaoyun6/PD-Runner) | A VM launcher for Parallels Desktop |
 | [WorkingTime](https://github.com/WorkerLivesMatter/WorkingTime) | None |
-| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [taichi](https://github.com/taichi-dev/taichi) | Parallel programming for everyone. |
-| [http-server-online](https://github.com/EtherDream/http-server-online) | Start a local HTTP server without any tools, just open a web page. |
-| [MacVM](https://github.com/KhaosT/MacVM) | macOS VM for Apple Silicon using Virtualization API |
+| [ColossalAI](https://github.com/hpcaitech/ColossalAI) | Colossal-AI: A Unified Deep Learning System for Large-Scale Parallel Training |
+| [notifire](https://github.com/notifirehq/notifire) | 💌 产品的开源通知基础设施。轻松创建通知中心，多渠道向客户发送消息 | Notification Infrastructure |
+| [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) | Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨 |
+| [ethereum-boilerplate](https://github.com/ethereum-boilerplate/ethereum-boilerplate) | The ultimate full-stack Ethereum Dapp Boilerplate which gives you maximum flexibility and speed. Feel free to fork and contribute. Although this repo is called "Ethereum Boilerplate" it works with any EVM system and even Solana support is coming soon! Happy BUIDL!👷‍♂️ |
+| [awesome-mlops](https://github.com/visenger/awesome-mlops) | A curated list of references for MLOps |
+| [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | 🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！ |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
