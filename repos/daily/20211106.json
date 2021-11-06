@@ -24,14 +24,14 @@
                 "username": "alvinyao"
             }
         ],
-        "currentPeriodStars": 71,
+        "currentPeriodStars": 99,
         "description": "KCon is a famous Hacker Con powered by Knownsec Team.",
         "forks": 1248,
         "fullname": "knownsec/KCon",
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "KCon",
-        "stars": 3237,
+        "stars": 3242,
         "url": "https://github.com/knownsec/KCon"
     },
     {
@@ -59,14 +59,14 @@
                 "username": "patrickSpaceSurfer"
             }
         ],
-        "currentPeriodStars": 216,
+        "currentPeriodStars": 241,
         "description": "An open source SQL database designed to process time series data, faster",
         "forks": 297,
         "fullname": "questdb/questdb",
         "language": "Java",
         "languageColor": "#b07219",
         "name": "questdb",
-        "stars": 5863,
+        "stars": 5887,
         "url": "https://github.com/questdb/questdb"
     },
     {
@@ -99,14 +99,14 @@
                 "username": "Yaxian"
             }
         ],
-        "currentPeriodStars": 300,
+        "currentPeriodStars": 258,
         "description": "OpenIM\uff1a\u7531\u524d\u5fae\u4fe1\u6280\u672f\u4e13\u5bb6\u6253\u9020\u7684\u57fa\u4e8e Go \u5b9e\u73b0\u7684\u5373\u65f6\u901a\u8baf\uff08IM\uff09\u9879\u76ee\uff0c\u4ece\u670d\u52a1\u7aef\u5230\u5ba2\u6237\u7aefSDK\u5f00\u6e90\u5373\u65f6\u901a\u8baf\uff08IM\uff09\u6574\u4f53\u89e3\u51b3\u65b9\u6848\uff0c\u53ef\u4ee5\u8f7b\u677e\u66ff\u4ee3\u7b2c\u4e09\u65b9IM\u4e91\u670d\u52a1\uff0c\u6253\u9020\u5177\u5907\u804a\u5929\u3001\u793e\u4ea4\u529f\u80fd\u7684app\u3002",
         "forks": 472,
         "fullname": "OpenIMSDK/Open-IM-Server",
         "language": "Go",
         "languageColor": "#00ADD8",
         "name": "Open-IM-Server",
-        "stars": 3731,
+        "stars": 3742,
         "url": "https://github.com/OpenIMSDK/Open-IM-Server"
     },
     {
@@ -129,14 +129,14 @@
                 "username": "GREENOVER"
             }
         ],
-        "currentPeriodStars": 23,
+        "currentPeriodStars": 52,
         "description": "A Swift package for parsing, building, editing, and analyzing Markdown documents.",
         "forks": 37,
         "fullname": "apple/swift-markdown",
         "language": "Swift",
         "languageColor": "#F05138",
         "name": "swift-markdown",
-        "stars": 1318,
+        "stars": 1323,
         "url": "https://github.com/apple/swift-markdown"
     },
     {
@@ -169,14 +169,14 @@
                 "username": "botatoes"
             }
         ],
-        "currentPeriodStars": 506,
+        "currentPeriodStars": 403,
         "description": "Documentation for GitHub Copilot",
         "forks": 394,
         "fullname": "github/copilot-docs",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "copilot-docs",
-        "stars": 5031,
+        "stars": 5041,
         "url": "https://github.com/github/copilot-docs"
     },
     {
@@ -209,14 +209,14 @@
                 "username": "andyfriesen"
             }
         ],
-        "currentPeriodStars": 308,
+        "currentPeriodStars": 262,
         "description": "A fast, small, safe, gradually typed embeddable scripting language derived from Lua",
-        "forks": 92,
+        "forks": 94,
         "fullname": "Roblox/luau",
         "language": "C++",
         "languageColor": "#f34b7d",
         "name": "luau",
-        "stars": 1558,
+        "stars": 1571,
         "url": "https://github.com/Roblox/luau"
     },
     {
@@ -249,14 +249,14 @@
                 "username": "Intsigstephon"
             }
         ],
-        "currentPeriodStars": 121,
+        "currentPeriodStars": 145,
         "description": "A treasure chest for visual recognition powered by PaddlePaddle",
         "forks": 591,
         "fullname": "PaddlePaddle/PaddleClas",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "PaddleClas",
-        "stars": 2893,
+        "stars": 2895,
         "url": "https://github.com/PaddlePaddle/PaddleClas"
     },
     {
@@ -269,14 +269,14 @@
                 "username": "maxvfischer"
             }
         ],
-        "currentPeriodStars": 162,
+        "currentPeriodStars": 184,
         "description": "How to build your own CNC machine from scratch",
-        "forks": 32,
+        "forks": 34,
         "fullname": "maxvfischer/DIY-CNC-machine",
         "language": null,
         "languageColor": null,
         "name": "DIY-CNC-machine",
-        "stars": 782,
+        "stars": 799,
         "url": "https://github.com/maxvfischer/DIY-CNC-machine"
     },
     {
@@ -302,16 +302,21 @@
                 "avatar": "https://avatars.githubusercontent.com/u/46404728",
                 "href": "https://github.com/markviews",
                 "username": "markviews"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/66178592",
+                "href": "https://github.com/flexagoon",
+                "username": "flexagoon"
             }
         ],
-        "currentPeriodStars": 33,
+        "currentPeriodStars": 109,
         "description": "Allows you to purge all reply comments left by a user on a YouTube channel or video.",
-        "forks": 37,
+        "forks": 39,
         "fullname": "ThioJoe/YouTube-Spammer-Purge",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "YouTube-Spammer-Purge",
-        "stars": 201,
+        "stars": 210,
         "url": "https://github.com/ThioJoe/YouTube-Spammer-Purge"
     },
     {
@@ -344,14 +349,14 @@
                 "username": "Lisanaaa"
             }
         ],
-        "currentPeriodStars": 67,
+        "currentPeriodStars": 73,
         "description": "\ud83d\udcda \u6280\u672f\u9762\u8bd5\u5fc5\u5907\u57fa\u7840\u77e5\u8bc6\u3001Leetcode\u3001\u8ba1\u7b97\u673a\u64cd\u4f5c\u7cfb\u7edf\u3001\u8ba1\u7b97\u673a\u7f51\u7edc\u3001\u7cfb\u7edf\u8bbe\u8ba1",
         "forks": 45140,
         "fullname": "CyC2018/CS-Notes",
         "language": "Java",
         "languageColor": "#b07219",
         "name": "CS-Notes",
-        "stars": 141278,
+        "stars": 141279,
         "url": "https://github.com/CyC2018/CS-Notes"
     },
     {
@@ -384,14 +389,14 @@
                 "username": "ptrfarkas"
             }
         ],
-        "currentPeriodStars": 394,
+        "currentPeriodStars": 387,
         "description": "A truly Open Source MongoDB alternative",
         "forks": 31,
         "fullname": "MangoDB-io/MangoDB",
         "language": "Go",
         "languageColor": "#00ADD8",
         "name": "MangoDB",
-        "stars": 1733,
+        "stars": 1745,
         "url": "https://github.com/MangoDB-io/MangoDB"
     },
     {
@@ -424,14 +429,14 @@
                 "username": "MedzsikT"
             }
         ],
-        "currentPeriodStars": 79,
+        "currentPeriodStars": 104,
         "description": "Use NeoVim as general purpose IDE",
         "forks": 13,
         "fullname": "artart222/CodeArt",
         "language": "Lua",
         "languageColor": "#000080",
         "name": "CodeArt",
-        "stars": 419,
+        "stars": 440,
         "url": "https://github.com/artart222/CodeArt"
     },
     {
@@ -464,14 +469,14 @@
                 "username": "feiyun0112"
             }
         ],
-        "currentPeriodStars": 307,
+        "currentPeriodStars": 313,
         "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
-        "forks": 5107,
+        "forks": 5108,
         "fullname": "microsoft/ML-For-Beginners",
         "language": "Jupyter Notebook",
         "languageColor": "#DA5B0B",
         "name": "ML-For-Beginners",
-        "stars": 24707,
+        "stars": 24730,
         "url": "https://github.com/microsoft/ML-For-Beginners"
     },
     {
@@ -484,14 +489,14 @@
                 "username": "kenp-io"
             }
         ],
-        "currentPeriodStars": 96,
+        "currentPeriodStars": 99,
         "description": null,
         "forks": 32,
         "fullname": "kenp-io/not-for-iphone-usb-c",
         "language": null,
         "languageColor": null,
         "name": "not-for-iphone-usb-c",
-        "stars": 423,
+        "stars": 428,
         "url": "https://github.com/kenp-io/not-for-iphone-usb-c"
     },
     {
@@ -524,14 +529,14 @@
                 "username": "spamegg1"
             }
         ],
-        "currentPeriodStars": 100,
+        "currentPeriodStars": 146,
         "description": "\ud83c\udf93 Path to a free self-taught education in Computer Science!",
         "forks": 13699,
         "fullname": "ossu/computer-science",
         "language": null,
         "languageColor": null,
         "name": "computer-science",
-        "stars": 99806,
+        "stars": 99815,
         "url": "https://github.com/ossu/computer-science"
     },
     {
@@ -564,7 +569,7 @@
                 "username": "ketsushiri"
             }
         ],
-        "currentPeriodStars": 41,
+        "currentPeriodStars": 43,
         "description": "New gen. Linux",
         "forks": 30,
         "fullname": "extremecodetv/ExtremeCodeOS",
@@ -604,14 +609,14 @@
                 "username": "sandersn"
             }
         ],
-        "currentPeriodStars": 43,
+        "currentPeriodStars": 89,
         "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
         "forks": 9885,
         "fullname": "microsoft/TypeScript",
         "language": "TypeScript",
         "languageColor": "#2b7489",
         "name": "TypeScript",
-        "stars": 75606,
+        "stars": 75613,
         "url": "https://github.com/microsoft/TypeScript"
     },
     {
@@ -644,14 +649,14 @@
                 "username": "GreyElaina"
             }
         ],
-        "currentPeriodStars": 148,
+        "currentPeriodStars": 230,
         "description": "\u79d1\u6280\u7231\u597d\u8005\u5468\u520a\uff0c\u6bcf\u5468\u4e94\u53d1\u5e03",
         "forks": 1494,
         "fullname": "ruanyf/weekly",
         "language": null,
         "languageColor": null,
         "name": "weekly",
-        "stars": 19366,
+        "stars": 19369,
         "url": "https://github.com/ruanyf/weekly"
     },
     {
@@ -684,14 +689,14 @@
                 "username": "MikeStall"
             }
         ],
-        "currentPeriodStars": 43,
+        "currentPeriodStars": 60,
         "description": "Power Fx low-code programming language",
         "forks": 124,
         "fullname": "microsoft/Power-Fx",
         "language": "C#",
         "languageColor": "#178600",
         "name": "Power-Fx",
-        "stars": 2184,
+        "stars": 2189,
         "url": "https://github.com/microsoft/Power-Fx"
     },
     {
@@ -724,14 +729,14 @@
                 "username": "filipmartinsson"
             }
         ],
-        "currentPeriodStars": 119,
+        "currentPeriodStars": 100,
         "description": "The ultimate full-stack Ethereum Dapp Boilerplate which gives you maximum flexibility and speed. Feel free to fork and contribute. Although this repo is called \"Ethereum Boilerplate\" it works with any EVM system and even Solana support is coming soon! Happy BUIDL!\ud83d\udc77\u200d\u2642\ufe0f",
-        "forks": 107,
+        "forks": 108,
         "fullname": "ethereum-boilerplate/ethereum-boilerplate",
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "ethereum-boilerplate",
-        "stars": 633,
+        "stars": 638,
         "url": "https://github.com/ethereum-boilerplate/ethereum-boilerplate"
     },
     {
@@ -744,14 +749,14 @@
                 "username": "Yin-Hongwei"
             }
         ],
-        "currentPeriodStars": 24,
+        "currentPeriodStars": 29,
         "description": "\ud83c\udfa7 Vue + SpringBoot + MyBatis \u97f3\u4e50\u7f51\u7ad9",
         "forks": 491,
         "fullname": "Yin-Hongwei/music-website",
         "language": "Vue",
         "languageColor": "#41b883",
         "name": "music-website",
-        "stars": 1470,
+        "stars": 1471,
         "url": "https://github.com/Yin-Hongwei/music-website"
     },
     {
@@ -784,14 +789,14 @@
                 "username": "14kk"
             }
         ],
-        "currentPeriodStars": 33,
+        "currentPeriodStars": 60,
         "description": "A timed task management panel that supports typescript, javaScript, python3, and shell.\uff08\u652f\u6301python3\u3001javaScript\u3001shell\u3001typescript \u7684\u5b9a\u65f6\u4efb\u52a1\u7ba1\u7406\u9762\u677f\uff09",
         "forks": 1192,
         "fullname": "whyour/qinglong",
         "language": "TypeScript",
         "languageColor": "#2b7489",
         "name": "qinglong",
-        "stars": 3505,
+        "stars": 3509,
         "url": "https://github.com/whyour/qinglong"
     },
     {
@@ -824,14 +829,14 @@
                 "username": "Rupenieks"
             }
         ],
-        "currentPeriodStars": 47,
+        "currentPeriodStars": 205,
         "description": "Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.",
         "forks": 1846,
         "fullname": "n8n-io/n8n",
         "language": "TypeScript",
         "languageColor": "#2b7489",
         "name": "n8n",
-        "stars": 18534,
+        "stars": 18553,
         "url": "https://github.com/n8n-io/n8n"
     },
     {
@@ -864,14 +869,14 @@
                 "username": "xavierwu95"
             }
         ],
-        "currentPeriodStars": 10,
+        "currentPeriodStars": 44,
         "description": "OpenMMLab's next-generation platform for general 3D object detection.",
-        "forks": 445,
+        "forks": 446,
         "fullname": "open-mmlab/mmdetection3d",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "mmdetection3d",
-        "stars": 1717,
+        "stars": 1719,
         "url": "https://github.com/open-mmlab/mmdetection3d"
     },
     {
@@ -904,14 +909,14 @@
                 "username": "BurtBiel"
             }
         ],
-        "currentPeriodStars": 8,
+        "currentPeriodStars": 29,
         "description": "Azure Command-Line Interface",
         "forks": 1870,
         "fullname": "Azure/azure-cli",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "azure-cli",
-        "stars": 2803,
+        "stars": 2804,
         "url": "https://github.com/Azure/azure-cli"
     }
 ]
