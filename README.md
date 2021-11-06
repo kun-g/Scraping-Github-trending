@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [archbase](https://github.com/foxsen/archbase) | 教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本 |
-| [weekly](https://github.com/ruanyf/weekly) | 科技爱好者周刊，每周五发布 |
-| [ru-dalle](https://github.com/sberbank-ai/ru-dalle) | Generate images from texts. In Russian |
-| [MangoDB](https://github.com/MangoDB-io/MangoDB) | A truly Open Source MongoDB alternative |
+| [KCon](https://github.com/knownsec/KCon) | KCon is a famous Hacker Con powered by Knownsec Team. |
+| [questdb](https://github.com/questdb/questdb) | An open source SQL database designed to process time series data, faster |
 | [Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) | OpenIM：由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。 |
-| [container-apps-store-api-microservice](https://github.com/Azure-Samples/container-apps-store-api-microservice) | Sample microservices solution using Azure Container Apps, Dapr, Cosmos DB, and Azure API Management |
-| [alphafold](https://github.com/deepmind/alphafold) | Open source code for AlphaFold. |
-| [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) | 10 Weeks, 20 Lessons, Data Science for All! |
-| [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all |
-| [d2l-zh](https://github.com/d2l-ai/d2l-zh) | 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被全球200所大学采用教学。 |
+| [swift-markdown](https://github.com/apple/swift-markdown) | A Swift package for parsing, building, editing, and analyzing Markdown documents. |
+| [copilot-docs](https://github.com/github/copilot-docs) | Documentation for GitHub Copilot |
+| [luau](https://github.com/Roblox/luau) | A fast, small, safe, gradually typed embeddable scripting language derived from Lua |
+| [PaddleClas](https://github.com/PaddlePaddle/PaddleClas) | A treasure chest for visual recognition powered by PaddlePaddle |
+| [DIY-CNC-machine](https://github.com/maxvfischer/DIY-CNC-machine) | How to build your own CNC machine from scratch |
+| [YouTube-Spammer-Purge](https://github.com/ThioJoe/YouTube-Spammer-Purge) | Allows you to purge all reply comments left by a user on a YouTube channel or video. |
+| [CS-Notes](https://github.com/CyC2018/CS-Notes) | 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
