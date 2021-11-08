@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all |
-| [weekly](https://github.com/ruanyf/weekly) | 科技爱好者周刊，每周五发布 |
-| [Telegram](https://github.com/DrKLO/Telegram) | Telegram for Android source |
-| [flutter-tips-and-tricks](https://github.com/vandadnp/flutter-tips-and-tricks) | A Collection of Flutter and Dart Tips and Tricks |
-| [d2l-zh](https://github.com/d2l-ai/d2l-zh) | 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被全球200所大学采用教学。 |
-| [modern-unix](https://github.com/ibraheemdev/modern-unix) | A collection of modern/faster/saner alternatives to common unix commands. |
+| [MapAssist](https://github.com/misterokaygo/MapAssist) | None |
+| [questdb](https://github.com/questdb/questdb) | An open source SQL database designed to process time series data, faster |
+| [MockingBird](https://github.com/babysor/MockingBird) | 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time |
+| [v2ray-core](https://github.com/v2fly/v2ray-core) | A platform for building proxies to bypass network restrictions. |
 | [archbase](https://github.com/foxsen/archbase) | 教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本 |
-| [recipes](https://github.com/TandoorRecipes/recipes) | Application for managing recipes, planning meals, building shopping lists and much much more! |
-| [KCon](https://github.com/knownsec/KCon) | KCon is a famous Hacker Con powered by Knownsec Team. |
-| [redun](https://github.com/insitro/redun) | Yet another redundant workflow engine |
+| [Telegram](https://github.com/DrKLO/Telegram) | Telegram for Android source |
+| [Files](https://github.com/files-community/Files) | A modern file manager that pushes the boundaries of the platform. |
+| [clash](https://github.com/Dreamacro/clash) | A rule-based tunnel in Go. |
+| [flutter-tips-and-tricks](https://github.com/vandadnp/flutter-tips-and-tricks) | A Collection of Flutter and Dart Tips and Tricks |
+| [v2ray](https://github.com/233boy/v2ray) | 最好用的 V2Ray 一键安装脚本 & 管理脚本 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
