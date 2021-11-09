@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [MapAssist](https://github.com/misterokaygo/MapAssist) | None |
-| [questdb](https://github.com/questdb/questdb) | An open source SQL database designed to process time series data, faster |
-| [MockingBird](https://github.com/babysor/MockingBird) | 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time |
-| [v2ray-core](https://github.com/v2fly/v2ray-core) | A platform for building proxies to bypass network restrictions. |
-| [archbase](https://github.com/foxsen/archbase) | 教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本 |
 | [Telegram](https://github.com/DrKLO/Telegram) | Telegram for Android source |
-| [Files](https://github.com/files-community/Files) | A modern file manager that pushes the boundaries of the platform. |
-| [clash](https://github.com/Dreamacro/clash) | A rule-based tunnel in Go. |
-| [flutter-tips-and-tricks](https://github.com/vandadnp/flutter-tips-and-tricks) | A Collection of Flutter and Dart Tips and Tricks |
-| [v2ray](https://github.com/233boy/v2ray) | 最好用的 V2Ray 一键安装脚本 & 管理脚本 |
+| [openpilot](https://github.com/commaai/openpilot) | openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models. |
+| [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
+| [pi-hole](https://github.com/pi-hole/pi-hole) | A black hole for Internet advertisements |
+| [lede](https://github.com/coolsnowwolf/lede) | Lean's OpenWrt source |
+| [python-mini-projects](https://github.com/Python-World/python-mini-projects) | A collection of simple python mini projects to enhance your python skills |
+| [MockingBird](https://github.com/babysor/MockingBird) | 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time |
+| [bevy](https://github.com/bevyengine/bevy) | A refreshingly simple data-driven game engine built in Rust |
+| [microdiff](https://github.com/AsyncBanana/microdiff) | A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support. |
+| [full-blockchain-solidity-course-py](https://github.com/smartcontractkit/full-blockchain-solidity-course-py) | Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
