@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [Telegram](https://github.com/DrKLO/Telegram) | Telegram for Android source |
-| [openpilot](https://github.com/commaai/openpilot) | openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models. |
-| [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
-| [pi-hole](https://github.com/pi-hole/pi-hole) | A black hole for Internet advertisements |
-| [lede](https://github.com/coolsnowwolf/lede) | Lean's OpenWrt source |
-| [python-mini-projects](https://github.com/Python-World/python-mini-projects) | A collection of simple python mini projects to enhance your python skills |
+| [animegan2-pytorch](https://github.com/bryandlee/animegan2-pytorch) | PyTorch implementation of AnimeGANv2 |
+| [automa](https://github.com/Kholid060/automa) | A chrome extension for automating your browser by connecting blocks |
+| [clash](https://github.com/Dreamacro/clash) | A rule-based tunnel in Go. |
 | [MockingBird](https://github.com/babysor/MockingBird) | 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time |
-| [bevy](https://github.com/bevyengine/bevy) | A refreshingly simple data-driven game engine built in Rust |
-| [microdiff](https://github.com/AsyncBanana/microdiff) | A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support. |
-| [full-blockchain-solidity-course-py](https://github.com/smartcontractkit/full-blockchain-solidity-course-py) | Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition |
+| [python-mini-projects](https://github.com/Python-World/python-mini-projects) | A collection of simple python mini projects to enhance your python skills |
+| [best_AI_papers_2021](https://github.com/louisfb01/best_AI_papers_2021) | A curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code. [work in progress] |
+| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
+| [mlspace](https://github.com/abhishekkrthakur/mlspace) | MLSpace: Hassle-free machine learning & deep learning development |
+| [WantWords](https://github.com/thunlp/WantWords) | An open-source online reverse dictionary. |
+| [AndroidDeveloperAdvancedManual](https://github.com/Skykai521/AndroidDeveloperAdvancedManual) | Android 工程师进阶手册（8 年 Android 开发者的成长感悟） |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
