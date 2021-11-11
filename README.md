@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! |
+| [core](https://github.com/dotnet/core) | Home repository for .NET Core |
 | [animegan2-pytorch](https://github.com/bryandlee/animegan2-pytorch) | PyTorch implementation of AnimeGANv2 |
-| [automa](https://github.com/Kholid060/automa) | A chrome extension for automating your browser by connecting blocks |
-| [clash](https://github.com/Dreamacro/clash) | A rule-based tunnel in Go. |
-| [MockingBird](https://github.com/babysor/MockingBird) | 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time |
-| [python-mini-projects](https://github.com/Python-World/python-mini-projects) | A collection of simple python mini projects to enhance your python skills |
-| [best_AI_papers_2021](https://github.com/louisfb01/best_AI_papers_2021) | A curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code. [work in progress] |
-| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
-| [mlspace](https://github.com/abhishekkrthakur/mlspace) | MLSpace: Hassle-free machine learning & deep learning development |
-| [WantWords](https://github.com/thunlp/WantWords) | An open-source online reverse dictionary. |
-| [AndroidDeveloperAdvancedManual](https://github.com/Skykai521/AndroidDeveloperAdvancedManual) | Android 工程师进阶手册（8 年 Android 开发者的成长感悟） |
+| [dogecoin](https://github.com/dogecoin/dogecoin) | very currency |
+| [csharplang](https://github.com/dotnet/csharplang) | The official repo for the design of the C# programming language |
+| [hydrogen](https://github.com/Shopify/hydrogen) | React-based framework for building dynamic, Shopify-powered custom storefronts. |
+| [minio](https://github.com/minio/minio) | High Performance, Kubernetes Native Object Storage |
+| [DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) | Deep Learning Examples |
+| [CppDeveloperRoadmap](https://github.com/salmer/CppDeveloperRoadmap) | Roadmap for learning the C++ programming language for beginners and experienced devs. // Дорожная карта по изучению языка программирования C++ для начинающих и практикующих. |
+| [token-list](https://github.com/solana-labs/token-list) | The community maintained Solana token registry |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
