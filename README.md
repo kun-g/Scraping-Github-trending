@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [python-mini-projects](https://github.com/Python-World/python-mini-projects) | A collection of simple python mini projects to enhance your python skills |
+| [bulletproof-react](https://github.com/alan2207/bulletproof-react) | 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications. |
+| [automa](https://github.com/Kholid060/automa) | A chrome extension for automating your browser by connecting blocks |
 | [PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! |
-| [core](https://github.com/dotnet/core) | Home repository for .NET Core |
-| [animegan2-pytorch](https://github.com/bryandlee/animegan2-pytorch) | PyTorch implementation of AnimeGANv2 |
-| [dogecoin](https://github.com/dogecoin/dogecoin) | very currency |
-| [csharplang](https://github.com/dotnet/csharplang) | The official repo for the design of the C# programming language |
+| [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) | A repository to index and organize the latest machine learning courses found on YouTube. |
+| [maui](https://github.com/dotnet/maui) | .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop. |
 | [hydrogen](https://github.com/Shopify/hydrogen) | React-based framework for building dynamic, Shopify-powered custom storefronts. |
-| [minio](https://github.com/minio/minio) | High Performance, Kubernetes Native Object Storage |
-| [DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) | Deep Learning Examples |
-| [CppDeveloperRoadmap](https://github.com/salmer/CppDeveloperRoadmap) | Roadmap for learning the C++ programming language for beginners and experienced devs. // Дорожная карта по изучению языка программирования C++ для начинающих и практикующих. |
-| [token-list](https://github.com/solana-labs/token-list) | The community maintained Solana token registry |
+| [supplier](https://github.com/r0eXpeR/supplier) | 主流供应商的一些攻击性漏洞汇总 |
+| [fonoster](https://github.com/fonoster/fonoster) | 🚀 The open-source alternative to Twilio |
+| [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) | 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
