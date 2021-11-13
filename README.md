@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [python-mini-projects](https://github.com/Python-World/python-mini-projects) | A collection of simple python mini projects to enhance your python skills |
-| [bulletproof-react](https://github.com/alan2207/bulletproof-react) | 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications. |
-| [automa](https://github.com/Kholid060/automa) | A chrome extension for automating your browser by connecting blocks |
-| [PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! |
-| [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) | A repository to index and organize the latest machine learning courses found on YouTube. |
+| [csharplang](https://github.com/dotnet/csharplang) | The official repo for the design of the C# programming language |
 | [maui](https://github.com/dotnet/maui) | .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop. |
-| [hydrogen](https://github.com/Shopify/hydrogen) | React-based framework for building dynamic, Shopify-powered custom storefronts. |
-| [supplier](https://github.com/r0eXpeR/supplier) | 主流供应商的一些攻击性漏洞汇总 |
-| [fonoster](https://github.com/fonoster/fonoster) | 🚀 The open-source alternative to Twilio |
-| [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) | 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace. |
+| [PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! |
+| [python-mini-projects](https://github.com/Python-World/python-mini-projects) | A collection of simple python mini projects to enhance your python skills |
+| [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 🔥 Open Source Airtable Alternative |
+| [puppeteer](https://github.com/puppeteer/puppeteer) | Headless Chrome Node.js API |
+| [devops-exercises](https://github.com/bregman-arie/devops-exercises) | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions |
+| [cpuminer-gr-avx2](https://github.com/WyvernTKC/cpuminer-gr-avx2) | Optimised Version of GR miner for RTM |
+| [devops-resources](https://github.com/bregman-arie/devops-resources) | DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP |
+| [natpass](https://github.com/lwch/natpass) | 新一代NAT内网穿透+shell+vnc工具 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
