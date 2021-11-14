@@ -41,14 +41,14 @@
 <!-- START OF MONTHLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [gop](https://github.com/goplus/gop) | GoPlus - The Go+ language for engineering, STEM education, and data science |
 | [Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) | OpenIM：由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。 |
-| [flta-materials](https://github.com/raywenderlich/flta-materials) | The projects and the materials that accompany the Flutter Apprentice book |
-| [quickemu](https://github.com/wimpysworld/quickemu) | Quickly create and run optimised Windows, macOS and Linux desktop virtual machines. |
 | [hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine) | HashLips Art Engine is a tool used to create multiple different instances of artworks based on provided layers. |
-| [uptime-kuma](https://github.com/louislam/uptime-kuma) | A fancy self-hosted monitoring tool |
-| [miaosha](https://github.com/qiurunze123/miaosha) | ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓 |
-| [flipper](https://github.com/facebook/flipper) | A desktop debugging platform for mobile developers. |
-| [mastodon](https://github.com/mastodon/mastodon) | Your self-hosted, globally interconnected microblogging community |
-| [pytorch-image-models](https://github.com/rwightman/pytorch-image-models) | PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more |
+| [questdb](https://github.com/questdb/questdb) | An open source SQL database designed to process time series data, faster |
+| [Telegram](https://github.com/DrKLO/Telegram) | Telegram for Android source |
+| [framework](https://github.com/nuxt/framework) | The Hybrid Vue(3) Framework. |
+| [next.js](https://github.com/vercel/next.js) | The React Framework |
+| [token-list](https://github.com/solana-labs/token-list) | The community maintained Solana token registry |
+| [d2l-zh](https://github.com/d2l-ai/d2l-zh) | 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被全球200所大学采用教学。 |
+| [substrate](https://github.com/paritytech/substrate) | Substrate: The platform for blockchain innovators |
+| [swc](https://github.com/swc-project/swc) | swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript. |
 <!-- END OF MONTHLY_TOP10_REPOS -->
