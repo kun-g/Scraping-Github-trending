@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [datasets](https://github.com/huggingface/datasets) | 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools |
-| [python-mini-projects](https://github.com/Python-World/python-mini-projects) | A collection of simple python mini projects to enhance your python skills |
-| [RunCat_for_windows](https://github.com/Kyome22/RunCat_for_windows) | A cute running cat animation on your windows taskbar. |
-| [Halfrost-Field](https://github.com/halfrost/Halfrost-Field) | ✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地 |
-| [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. |
-| [devops-exercises](https://github.com/bregman-arie/devops-exercises) | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions |
-| [kalidokit](https://github.com/yeemachine/kalidokit) | Blendshape and kinematics solver for Mediapipe/Tensorflow.js face, eyes, pose, and hand tracking models. |
-| [superset](https://github.com/apache/superset) | Apache Superset is a Data Visualization and Data Exploration Platform |
-| [maui](https://github.com/dotnet/maui) | .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop. |
-| [bulletproof-react](https://github.com/alan2207/bulletproof-react) | 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications. |
+| [openfold](https://github.com/aqlaboratory/openfold) | Trainable PyTorch reproduction of AlphaFold 2 |
+| [stat_rethinking_2022](https://github.com/rmcelreath/stat_rethinking_2022) | Statistical Rethinking course winter 2022 |
+| [useful-sed](https://github.com/adrianscheff/useful-sed) | Useful sed scripts & patterns. |
+| [tdesktop](https://github.com/telegramdesktop/tdesktop) | Telegram Desktop messaging app |
+| [taichi](https://github.com/taichi-dev/taichi) | Parallel programming for everyone. |
+| [JD_tencent_scf](https://github.com/zero205/JD_tencent_scf) | 自用京东JS脚本，已加入助力池；支持【青龙】、【腾讯云函数】、【elecV2P】；低调使用，请勿fork！！！ |
+| [cpuminer-gr-avx2](https://github.com/WyvernTKC/cpuminer-gr-avx2) | Optimised Version of GR miner for RTM |
+| [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk) | 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码 |
+| [docs](https://github.com/github/docs) | The open-source repo for docs.github.com |
+| [raptoreum](https://github.com/Raptor3um/raptoreum) | None |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
