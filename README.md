@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [openfold](https://github.com/aqlaboratory/openfold) | Trainable PyTorch reproduction of AlphaFold 2 |
-| [stat_rethinking_2022](https://github.com/rmcelreath/stat_rethinking_2022) | Statistical Rethinking course winter 2022 |
-| [useful-sed](https://github.com/adrianscheff/useful-sed) | Useful sed scripts & patterns. |
-| [tdesktop](https://github.com/telegramdesktop/tdesktop) | Telegram Desktop messaging app |
-| [taichi](https://github.com/taichi-dev/taichi) | Parallel programming for everyone. |
-| [JD_tencent_scf](https://github.com/zero205/JD_tencent_scf) | 自用京东JS脚本，已加入助力池；支持【青龙】、【腾讯云函数】、【elecV2P】；低调使用，请勿fork！！！ |
-| [cpuminer-gr-avx2](https://github.com/WyvernTKC/cpuminer-gr-avx2) | Optimised Version of GR miner for RTM |
-| [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk) | 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码 |
+| [xmrig](https://github.com/xmrig/xmrig) | RandomX, CryptoNight, AstroBWT and Argon2 CPU/GPU miner |
+| [svelte](https://github.com/sveltejs/svelte) | Cybernetically enhanced web apps |
 | [docs](https://github.com/github/docs) | The open-source repo for docs.github.com |
-| [raptoreum](https://github.com/Raptor3um/raptoreum) | None |
+| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+| [Hazel](https://github.com/TheCherno/Hazel) | Hazel Engine |
+| [Xray-core](https://github.com/XTLS/Xray-core) | Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration. |
+| [Image-Super-Resolution-via-Iterative-Refinement](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement) | Unoffical implementation about Image Super-Resolution via Iterative Refinement by Pytorch |
+| [scrcpy](https://github.com/Genymobile/scrcpy) | Display and control your Android device |
+| [cpuminer-gr-avx2](https://github.com/WyvernTKC/cpuminer-gr-avx2) | Optimised Version of GR miner for RTM |
+| [stat_rethinking_2022](https://github.com/rmcelreath/stat_rethinking_2022) | Statistical Rethinking course winter 2022 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
