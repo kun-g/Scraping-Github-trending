@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [xmrig](https://github.com/xmrig/xmrig) | RandomX, CryptoNight, AstroBWT and Argon2 CPU/GPU miner |
+| [Image-Super-Resolution-via-Iterative-Refinement](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement) | Unoffical implementation about Image Super-Resolution via Iterative Refinement by Pytorch |
+| [yabai](https://github.com/koekeishiya/yabai) | A tiling window manager for macOS based on binary space partitioning |
 | [svelte](https://github.com/sveltejs/svelte) | Cybernetically enhanced web apps |
 | [docs](https://github.com/github/docs) | The open-source repo for docs.github.com |
-| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
-| [Hazel](https://github.com/TheCherno/Hazel) | Hazel Engine |
-| [Xray-core](https://github.com/XTLS/Xray-core) | Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration. |
-| [Image-Super-Resolution-via-Iterative-Refinement](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement) | Unoffical implementation about Image Super-Resolution via Iterative Refinement by Pytorch |
-| [scrcpy](https://github.com/Genymobile/scrcpy) | Display and control your Android device |
-| [cpuminer-gr-avx2](https://github.com/WyvernTKC/cpuminer-gr-avx2) | Optimised Version of GR miner for RTM |
-| [stat_rethinking_2022](https://github.com/rmcelreath/stat_rethinking_2022) | Statistical Rethinking course winter 2022 |
+| [javascript](https://github.com/airbnb/javascript) | JavaScript Style Guide |
+| [applied-ml](https://github.com/eugeneyan/applied-ml) | 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production. |
+| [appflowy](https://github.com/AppFlowy-IO/appflowy) | AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. |
+| [frp](https://github.com/fatedier/frp) | A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. |
+| [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk) | 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码 |
+| [docker-qemu-win2000](https://github.com/hectorm/docker-qemu-win2000) | A Docker image for Windows 2000 Advanced Server with SP4. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
