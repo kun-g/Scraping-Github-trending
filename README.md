@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
-| [Docker-OSX](https://github.com/sickcodes/Docker-OSX) | Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X! |
-| [RunCat_for_windows](https://github.com/Kyome22/RunCat_for_windows) | A cute running cat animation on your windows taskbar. |
-| [nvm](https://github.com/nvm-sh/nvm) | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
-| [storybook](https://github.com/storybookjs/storybook) | 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more! |
-| [scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) | An open access book on scientific visualization using python and matplotlib |
+| [ADOP](https://github.com/darglein/ADOP) | None |
 | [appflowy](https://github.com/AppFlowy-IO/appflowy) | AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. |
-| [MAE-pytorch](https://github.com/pengzhiliang/MAE-pytorch) | Unofficial PyTorch implementation of Masked Autoencoders Are Scalable Vision Learners |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [bulletproof-react](https://github.com/alan2207/bulletproof-react) | 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications. |
+| [Docker-OSX](https://github.com/sickcodes/Docker-OSX) | Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X! |
+| [Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Python - 100天从新手到大师 |
+| [Web-Attack-Cheat-Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet) | Web Attack Cheat Sheet |
+| [scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) | An open access book on scientific visualization using python and matplotlib |
+| [flink-cdc-connectors](https://github.com/ververica/flink-cdc-connectors) | Change Data Capture (CDC) Connectors for Apache Flink |
+| [budibase](https://github.com/Budibase/budibase) | Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀 |
+| [Blog](https://github.com/mqyqingfeng/Blog) | 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。 |
+| [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk) | 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
