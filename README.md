@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [ADOP](https://github.com/darglein/ADOP) | None |
+| [tldraw](https://github.com/tldraw/tldraw) | A tiny little drawing app. |
 | [appflowy](https://github.com/AppFlowy-IO/appflowy) | AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. |
-| [Docker-OSX](https://github.com/sickcodes/Docker-OSX) | Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X! |
-| [Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Python - 100天从新手到大师 |
-| [Web-Attack-Cheat-Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet) | Web Attack Cheat Sheet |
-| [scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) | An open access book on scientific visualization using python and matplotlib |
-| [flink-cdc-connectors](https://github.com/ververica/flink-cdc-connectors) | Change Data Capture (CDC) Connectors for Apache Flink |
+| [biosim4](https://github.com/davidrmiller/biosim4) | Biological evolution simulator |
+| [evmos](https://github.com/tharsis/evmos) | Evmos is the Ethereum Virtual Machine (EVM) Hub on the Cosmos Network. It is the flagship implementation of the Ethermint library that prioritizes interoperability and novel economics. |
+| [CleanArchitecture](https://github.com/ardalis/CleanArchitecture) | Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core |
 | [budibase](https://github.com/Budibase/budibase) | Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀 |
-| [Blog](https://github.com/mqyqingfeng/Blog) | 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。 |
-| [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk) | 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码 |
+| [wiki](https://github.com/Requarks/wiki) | Wiki.js | A modern and powerful wiki app built on Node.js |
+| [data-science](https://github.com/ossu/data-science) | 📊 Path to a free self-taught education in Data Science! |
+| [Web-Attack-Cheat-Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet) | Web Attack Cheat Sheet |
+| [TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN) | TeachYourselfCS 的中文翻译 | A Chinese translation of TeachYourselfCS |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
