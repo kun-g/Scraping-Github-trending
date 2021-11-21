@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [tldraw](https://github.com/tldraw/tldraw) | A tiny little drawing app. |
+| [patterns-of-distributed-systems](https://github.com/dreamhead/patterns-of-distributed-systems) | 《Patterns of Distributed Systems》中文版 |
+| [hoppscotch](https://github.com/hoppscotch/hoppscotch) | 👽 Open source API development ecosystem https://hoppscotch.io |
+| [Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Python - 100天从新手到大师 |
 | [appflowy](https://github.com/AppFlowy-IO/appflowy) | AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. |
-| [biosim4](https://github.com/davidrmiller/biosim4) | Biological evolution simulator |
-| [evmos](https://github.com/tharsis/evmos) | Evmos is the Ethereum Virtual Machine (EVM) Hub on the Cosmos Network. It is the flagship implementation of the Ethermint library that prioritizes interoperability and novel economics. |
-| [CleanArchitecture](https://github.com/ardalis/CleanArchitecture) | Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core |
+| [nutui](https://github.com/jdf2e/nutui) | 京东风格的移动端 Vue2、Vue3 组件库 (A Vue.js UI Toolkit for Mobile Web) |
+| [InfoSec-Black-Friday](https://github.com/0x90n/InfoSec-Black-Friday) | All the deals for InfoSec related software/tools this Black Friday |
+| [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk) | 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码 |
+| [Blog](https://github.com/mqyqingfeng/Blog) | 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。 |
 | [budibase](https://github.com/Budibase/budibase) | Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀 |
-| [wiki](https://github.com/Requarks/wiki) | Wiki.js | A modern and powerful wiki app built on Node.js |
-| [data-science](https://github.com/ossu/data-science) | 📊 Path to a free self-taught education in Data Science! |
-| [Web-Attack-Cheat-Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet) | Web Attack Cheat Sheet |
-| [TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN) | TeachYourselfCS 的中文翻译 | A Chinese translation of TeachYourselfCS |
+| [libra](https://github.com/OLSF/libra) | None |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
