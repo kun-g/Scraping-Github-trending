@@ -25,16 +25,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [Telegram](https://github.com/DrKLO/Telegram) | Telegram for Android source |
-| [python-mini-projects](https://github.com/Python-World/python-mini-projects) | A collection of simple python mini projects to enhance your python skills |
-| [dogecoin](https://github.com/dogecoin/dogecoin) | very currency |
-| [Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) | OpenIM：由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。 |
-| [questdb](https://github.com/questdb/questdb) | An open source SQL database designed to process time series data, faster |
-| [DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) | Deep Learning Examples |
-| [MockingBird](https://github.com/babysor/MockingBird) | 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time |
-| [token-list](https://github.com/solana-labs/token-list) | The community maintained Solana token registry |
-| [full-blockchain-solidity-course-py](https://github.com/smartcontractkit/full-blockchain-solidity-course-py) | Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition |
-| [solana](https://github.com/solana-labs/solana) | Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces. |
+| [cpuminer-gr-avx2](https://github.com/WyvernTKC/cpuminer-gr-avx2) | Optimised Version of GR miner for RTM |
+| [bulletproof-react](https://github.com/alan2207/bulletproof-react) | 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications. |
+| [JD_tencent_scf](https://github.com/zero205/JD_tencent_scf) | 自用京东JS脚本，已加入助力池；支持【青龙】、【腾讯云函数】、【elecV2P】；低调使用，请勿fork！！！ |
+| [xmrig](https://github.com/xmrig/xmrig) | RandomX, CryptoNight, AstroBWT and Argon2 CPU/GPU miner |
+| [restic](https://github.com/restic/restic) | Fast, secure, efficient backup program |
+| [yabai](https://github.com/koekeishiya/yabai) | A tiling window manager for macOS based on binary space partitioning |
+| [Docker-OSX](https://github.com/sickcodes/Docker-OSX) | Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X! |
+| [frp](https://github.com/fatedier/frp) | A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. |
+| [javascript](https://github.com/airbnb/javascript) | JavaScript Style Guide |
+| [nvm](https://github.com/nvm-sh/nvm) | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
