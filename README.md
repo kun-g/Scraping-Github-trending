@@ -42,13 +42,13 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) | OpenIM：由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。 |
-| [hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine) | HashLips Art Engine is a tool used to create multiple different instances of artworks based on provided layers. |
+| [zspotify](https://github.com/Footsiefat/zspotify) | A Spotify downloader needing only a python interpreter and ffmpeg. |
 | [questdb](https://github.com/questdb/questdb) | An open source SQL database designed to process time series data, faster |
 | [Telegram](https://github.com/DrKLO/Telegram) | Telegram for Android source |
-| [framework](https://github.com/nuxt/framework) | The Hybrid Vue(3) Framework. |
-| [next.js](https://github.com/vercel/next.js) | The React Framework |
-| [token-list](https://github.com/solana-labs/token-list) | The community maintained Solana token registry |
-| [d2l-zh](https://github.com/d2l-ai/d2l-zh) | 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被全球200所大学采用教学。 |
-| [substrate](https://github.com/paritytech/substrate) | Substrate: The platform for blockchain innovators |
-| [swc](https://github.com/swc-project/swc) | swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript. |
+| [JD_tencent_scf](https://github.com/zero205/JD_tencent_scf) | 自用京东JS脚本，已加入助力池；支持【青龙】、【腾讯云函数】、【elecV2P】；低调使用，请勿fork！！！ |
+| [gateio-crypto-trading-bot-binance-announcements-new-coins](https://github.com/CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins) | This is a crypto trading bot that scans the Binance Annoucements page for new coins, and places trades on Gateio |
+| [Image-Super-Resolution-via-Iterative-Refinement](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement) | Unoffical implementation about Image Super-Resolution via Iterative Refinement by Pytorch |
+| [xmrig](https://github.com/xmrig/xmrig) | RandomX, CryptoNight, AstroBWT and Argon2 CPU/GPU miner |
+| [bulletproof-react](https://github.com/alan2207/bulletproof-react) | 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications. |
+| [ByteTrack](https://github.com/ifzhang/ByteTrack) | ByteTrack: Multi-Object Tracking by Associating Every Detection Box |
 <!-- END OF MONTHLY_TOP10_REPOS -->
