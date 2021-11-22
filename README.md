@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [patterns-of-distributed-systems](https://github.com/dreamhead/patterns-of-distributed-systems) | 《Patterns of Distributed Systems》中文版 |
-| [hoppscotch](https://github.com/hoppscotch/hoppscotch) | 👽 Open source API development ecosystem https://hoppscotch.io |
-| [Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Python - 100天从新手到大师 |
+| [tldraw](https://github.com/tldraw/tldraw) | A tiny little drawing app. |
+| [elfshaker](https://github.com/elfshaker/elfshaker) | elfshaker stores binary objects efficiently |
+| [production-saas](https://github.com/cloudflare/production-saas) | (WIP) Example SaaS application built in public on the Cloudflare stack! |
 | [appflowy](https://github.com/AppFlowy-IO/appflowy) | AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. |
-| [nutui](https://github.com/jdf2e/nutui) | 京东风格的移动端 Vue2、Vue3 组件库 (A Vue.js UI Toolkit for Mobile Web) |
-| [InfoSec-Black-Friday](https://github.com/0x90n/InfoSec-Black-Friday) | All the deals for InfoSec related software/tools this Black Friday |
-| [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk) | 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码 |
-| [Blog](https://github.com/mqyqingfeng/Blog) | 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。 |
-| [budibase](https://github.com/Budibase/budibase) | Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀 |
-| [libra](https://github.com/OLSF/libra) | None |
+| [biosim4](https://github.com/davidrmiller/biosim4) | Biological evolution simulator |
+| [CleanArchitecture](https://github.com/ardalis/CleanArchitecture) | Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core |
+| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
+| [Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Python - 100天从新手到大师 |
+| [tahlreth.github.io](https://github.com/Tahlreth/tahlreth.github.io) | None |
+| [MagiskOnWSA](https://github.com/LSPosed/MagiskOnWSA) | Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android) |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
