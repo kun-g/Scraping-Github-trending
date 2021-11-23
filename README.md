@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [tldraw](https://github.com/tldraw/tldraw) | A tiny little drawing app. |
-| [elfshaker](https://github.com/elfshaker/elfshaker) | elfshaker stores binary objects efficiently |
-| [production-saas](https://github.com/cloudflare/production-saas) | (WIP) Example SaaS application built in public on the Cloudflare stack! |
-| [appflowy](https://github.com/AppFlowy-IO/appflowy) | AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. |
-| [biosim4](https://github.com/davidrmiller/biosim4) | Biological evolution simulator |
-| [CleanArchitecture](https://github.com/ardalis/CleanArchitecture) | Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core |
+| [arcinvoice](https://github.com/Panshak/arcinvoice) | Fullstack open source Invoicing application made with MongoDB, Express, React & Nodejs (MERN) |
+| [patterns-of-distributed-systems](https://github.com/dreamhead/patterns-of-distributed-systems) | 《Patterns of Distributed Systems》中文版 |
+| [hoppscotch](https://github.com/hoppscotch/hoppscotch) | 👽 Open source API development ecosystem https://hoppscotch.io |
+| [chia-blockchain](https://github.com/Chia-Network/chia-blockchain) | Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet) |
+| [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all |
+| [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
+| [medusa](https://github.com/medusajs/medusa) | The open-source Shopify alternative ⚡️ |
+| [animegan2-pytorch](https://github.com/bryandlee/animegan2-pytorch) | PyTorch implementation of AnimeGANv2 |
+| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A youtube-dl fork with additional features and fixes |
 | [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
-| [Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Python - 100天从新手到大师 |
-| [tahlreth.github.io](https://github.com/Tahlreth/tahlreth.github.io) | None |
-| [MagiskOnWSA](https://github.com/LSPosed/MagiskOnWSA) | Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android) |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
