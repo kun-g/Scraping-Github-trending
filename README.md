@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [remix](https://github.com/remix-run/remix) | Build Better Websites. Create modern, resilient user experiences with web fundamentals. |
 | [medusa](https://github.com/medusajs/medusa) | The open-source Shopify alternative ⚡️ |
-| [microdiff](https://github.com/AsyncBanana/microdiff) | A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support. |
-| [Fakeflix](https://github.com/Th3Wall/Fakeflix) | Not the usual clone that you can find on the web. |
-| [animegan2-pytorch](https://github.com/bryandlee/animegan2-pytorch) | PyTorch implementation of AnimeGANv2 |
-| [Awesome-Black-Friday-Cyber-Monday-deals](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) | 2021 - Black Friday & Cyber Monday Deals for Developers, Techies, & Entrepreneurs, |
-| [supabase](https://github.com/supabase/supabase) | The open source Firebase alternative. Follow to stay updated about our public Beta. |
-| [lama](https://github.com/saic-mdal/lama) | 🦙 LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022 |
-| [protobuf](https://github.com/protocolbuffers/protobuf) | Protocol Buffers - Google's data interchange format |
-| [avalanchego](https://github.com/ava-labs/avalanchego) | Go implementation of an Avalanche node. |
-| [Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals) | Black Friday Deals for macOS / iOS Software & Books |
+| [filament](https://github.com/google/filament) | Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2 |
+| [remix-jokes](https://github.com/remix-run/remix-jokes) | None |
+| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A youtube-dl fork with additional features and fixes |
+| [InstallerFileTakeOver](https://github.com/klinix5/InstallerFileTakeOver) | None |
+| [patterns-of-distributed-systems](https://github.com/dreamhead/patterns-of-distributed-systems) | 《Patterns of Distributed Systems》中文版 |
+| [oof](https://github.com/s9w/oof) | Convenient, high-performance RGB color and position control for console output |
+| [sw97](https://github.com/z64proto/sw97) | A recreation of the Spaceworld 1997 Ocarina of Time demo |
+| [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
