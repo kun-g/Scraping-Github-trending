@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [remix](https://github.com/remix-run/remix) | Build Better Websites. Create modern, resilient user experiences with web fundamentals. |
-| [medusa](https://github.com/medusajs/medusa) | The open-source Shopify alternative ⚡️ |
-| [filament](https://github.com/google/filament) | Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2 |
-| [remix-jokes](https://github.com/remix-run/remix-jokes) | None |
-| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A youtube-dl fork with additional features and fixes |
 | [InstallerFileTakeOver](https://github.com/klinix5/InstallerFileTakeOver) | None |
-| [patterns-of-distributed-systems](https://github.com/dreamhead/patterns-of-distributed-systems) | 《Patterns of Distributed Systems》中文版 |
-| [oof](https://github.com/s9w/oof) | Convenient, high-performance RGB color and position control for console output |
-| [sw97](https://github.com/z64proto/sw97) | A recreation of the Spaceworld 1997 Ocarina of Time demo |
-| [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
+| [filament](https://github.com/google/filament) | Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2 |
+| [remix](https://github.com/remix-run/remix) | Build Better Websites. Create modern, resilient user experiences with web fundamentals. |
+| [PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection) | Object detection and instance segmentation toolkit based on PaddlePaddle. |
+| [medusa](https://github.com/medusajs/medusa) | The open-source Shopify alternative ⚡️ |
+| [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all |
+| [toit](https://github.com/toitlang/toit) | Program your microcontrollers in a fast and robust high-level language. |
+| [lama](https://github.com/saic-mdal/lama) | 🦙 LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022 |
+| [SwiftPamphletApp](https://github.com/ming1016/SwiftPamphletApp) | 戴铭的 Swift 小册子，一本活的 Swift 手册 |
+| [php-src](https://github.com/php/php-src) | The PHP Interpreter |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
