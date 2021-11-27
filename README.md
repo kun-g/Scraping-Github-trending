@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [InstallerFileTakeOver](https://github.com/klinix5/InstallerFileTakeOver) | None |
+| [qoi](https://github.com/phoboslab/qoi) | The “Quite OK Image” format for fast, lossless image compression |
 | [filament](https://github.com/google/filament) | Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2 |
-| [remix](https://github.com/remix-run/remix) | Build Better Websites. Create modern, resilient user experiences with web fundamentals. |
-| [PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection) | Object detection and instance segmentation toolkit based on PaddlePaddle. |
+| [vueuse](https://github.com/vueuse/vueuse) | Collection of essential Vue Composition Utilities for Vue 2 and 3 |
 | [medusa](https://github.com/medusajs/medusa) | The open-source Shopify alternative ⚡️ |
+| [InstallerFileTakeOver](https://github.com/klinix5/InstallerFileTakeOver) | None |
+| [EIPs](https://github.com/ethereum/EIPs) | The Ethereum Improvement Proposal repository |
+| [free-api](https://github.com/fangzesheng/free-api) | 收集免费的接口服务,做一个api的搬运工 |
+| [remix](https://github.com/remix-run/remix) | Build Better Websites. Create modern, resilient user experiences with web fundamentals. |
+| [lake](https://github.com/merico-dev/lake) | DevLake: the open source data lake & dashboard for your DevOps tools. |
 | [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all |
-| [toit](https://github.com/toitlang/toit) | Program your microcontrollers in a fast and robust high-level language. |
-| [lama](https://github.com/saic-mdal/lama) | 🦙 LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022 |
-| [SwiftPamphletApp](https://github.com/ming1016/SwiftPamphletApp) | 戴铭的 Swift 小册子，一本活的 Swift 手册 |
-| [php-src](https://github.com/php/php-src) | The PHP Interpreter |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
