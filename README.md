@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [qoi](https://github.com/phoboslab/qoi) | The “Quite OK Image” format for fast, lossless image compression |
-| [filament](https://github.com/google/filament) | Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2 |
-| [vueuse](https://github.com/vueuse/vueuse) | Collection of essential Vue Composition Utilities for Vue 2 and 3 |
-| [medusa](https://github.com/medusajs/medusa) | The open-source Shopify alternative ⚡️ |
-| [InstallerFileTakeOver](https://github.com/klinix5/InstallerFileTakeOver) | None |
-| [EIPs](https://github.com/ethereum/EIPs) | The Ethereum Improvement Proposal repository |
+| [NUWA](https://github.com/microsoft/NUWA) | A unified 3D Transformer Pipeline for visual synthesis |
 | [free-api](https://github.com/fangzesheng/free-api) | 收集免费的接口服务,做一个api的搬运工 |
-| [remix](https://github.com/remix-run/remix) | Build Better Websites. Create modern, resilient user experiences with web fundamentals. |
-| [lake](https://github.com/merico-dev/lake) | DevLake: the open source data lake & dashboard for your DevOps tools. |
-| [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all |
+| [wazuh](https://github.com/wazuh/wazuh) | Wazuh - The Open Source Security Platform |
+| [learning](https://github.com/amitness/learning) | Becoming better at data science every day |
+| [WindTerm](https://github.com/kingToolbox/WindTerm) | A quicker and better cross-platform SSH/Sftp/Shell/Telnet/Serial terminal. |
+| [PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection) | Object detection and instance segmentation toolkit based on PaddlePaddle. |
+| [Shadow](https://github.com/Tencent/Shadow) | 零反射全动态Android插件框架 |
+| [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. |
+| [RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) | Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML! |
+| [AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2) | [Open Source]. The improved version of AnimeGAN. Landscape photos/videos to anime |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
