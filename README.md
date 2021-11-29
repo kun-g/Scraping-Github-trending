@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [NUWA](https://github.com/microsoft/NUWA) | A unified 3D Transformer Pipeline for visual synthesis |
-| [free-api](https://github.com/fangzesheng/free-api) | 收集免费的接口服务,做一个api的搬运工 |
-| [wazuh](https://github.com/wazuh/wazuh) | Wazuh - The Open Source Security Platform |
-| [learning](https://github.com/amitness/learning) | Becoming better at data science every day |
-| [WindTerm](https://github.com/kingToolbox/WindTerm) | A quicker and better cross-platform SSH/Sftp/Shell/Telnet/Serial terminal. |
-| [PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection) | Object detection and instance segmentation toolkit based on PaddlePaddle. |
-| [Shadow](https://github.com/Tencent/Shadow) | 零反射全动态Android插件框架 |
-| [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. |
-| [RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) | Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML! |
-| [AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2) | [Open Source]. The improved version of AnimeGAN. Landscape photos/videos to anime |
+| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
+| [learning_mind_map](https://github.com/0voice/learning_mind_map) | 2021年【思维导图】盒子，C/C++，Golang，Linux，云原生，数据库，DPDK，音视频开发，TCP/IP，数据结构，计算机原理等 |
+| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
+| [realworld](https://github.com/gothinkster/realworld) | "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 |
+| [NostalgiaForInfinity](https://github.com/iterativv/NostalgiaForInfinity) | Trading strategy for the Freqtrade crypto bot |
+| [code_snippets](https://github.com/CoreyMSchafer/code_snippets) | None |
+| [CasaOS](https://github.com/IceWhaleTech/CasaOS) | CasaOS - A simple, easy-to-use, elegant open-source Family Cloud system. |
+| [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) | 🤓 Build your own (insert technology here) |
+| [free-for-dev](https://github.com/ripienaar/free-for-dev) | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev |
+| [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
