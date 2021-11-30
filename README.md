@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
-| [learning_mind_map](https://github.com/0voice/learning_mind_map) | 2021年【思维导图】盒子，C/C++，Golang，Linux，云原生，数据库，DPDK，音视频开发，TCP/IP，数据结构，计算机原理等 |
-| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
+| [godot](https://github.com/godotengine/godot) | Godot Engine – Multi-platform 2D and 3D game engine |
 | [realworld](https://github.com/gothinkster/realworld) | "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 |
+| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
 | [NostalgiaForInfinity](https://github.com/iterativv/NostalgiaForInfinity) | Trading strategy for the Freqtrade crypto bot |
-| [code_snippets](https://github.com/CoreyMSchafer/code_snippets) | None |
-| [CasaOS](https://github.com/IceWhaleTech/CasaOS) | CasaOS - A simple, easy-to-use, elegant open-source Family Cloud system. |
+| [oot](https://github.com/zeldaret/oot) | Decompilation of The Legend of Zelda: Ocarina of Time |
+| [bitcoin](https://github.com/bitcoin/bitcoin) | Bitcoin Core integration/staging tree |
+| [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Roadmap to becoming a web developer in 2021 |
+| [core](https://github.com/home-assistant/core) | 🏡 Open source home automation that puts local control and privacy first. |
 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) | 🤓 Build your own (insert technology here) |
-| [free-for-dev](https://github.com/ripienaar/free-for-dev) | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev |
-| [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
