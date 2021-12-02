@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [learning_mind_map](https://github.com/0voice/learning_mind_map) | 2021年【思维导图】盒子，C/C++，Golang，Linux，云原生，数据库，DPDK，音视频开发，TCP/IP，数据结构，计算机原理等 |
-| [realworld](https://github.com/gothinkster/realworld) | "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 |
-| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
-| [code_snippets](https://github.com/CoreyMSchafer/code_snippets) | None |
-| [oot](https://github.com/zeldaret/oot) | Decompilation of The Legend of Zelda: Ocarina of Time |
-| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
-| [CasaOS](https://github.com/IceWhaleTech/CasaOS) | CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system. |
-| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
-| [zscan](https://github.com/zyylhn/zscan) | Zscan a scan blasting tool set |
-| [dotnet-webapi-boilerplate](https://github.com/fullstackhero/dotnet-webapi-boilerplate) | Clean Architecture Template for .NET 6.0 WebApi built with Multitenancy Support. |
+| [marktext](https://github.com/marktext/marktext) | 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. |
+| [appflowy](https://github.com/AppFlowy-IO/appflowy) | AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. |
+| [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Roadmap to becoming a web developer in 2021 |
+| [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics |
+| [intro-javascript-nov-2021](https://github.com/makeitrealcamp/intro-javascript-nov-2021) | Curso gratuito de introducción a JavaScript de Make It Real apoyado por Innpulsa Colombia |
+| [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | A collection of (mostly) technical things every software developer should know about |
+| [asmrepl](https://github.com/tenderlove/asmrepl) | A REPL for x86-64 assembly language |
+| [snarkOS](https://github.com/AleoHQ/snarkOS) | A Decentralized Operating System for Zero-Knowledge Applications |
+| [return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) | Chrome extension to return youtube dislikes |
+| [strapi](https://github.com/strapi/strapi) | 🚀 Open source Node.js Headless CMS to easily build customisable APIs |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
