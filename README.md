@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [marktext](https://github.com/marktext/marktext) | 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. |
-| [appflowy](https://github.com/AppFlowy-IO/appflowy) | AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. |
-| [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Roadmap to becoming a web developer in 2021 |
+| [lazygit](https://github.com/jesseduffield/lazygit) | simple terminal UI for git commands |
+| [hubris](https://github.com/oxidecomputer/hubris) | A lightweight, memory-protected, message-passing kernel for deeply embedded systems. |
+| [supabase](https://github.com/supabase/supabase) | The open source Firebase alternative. Follow to stay updated about our public Beta. |
+| [learning_mind_map](https://github.com/0voice/learning_mind_map) | 2021年【思维导图】盒子，C/C++，Golang，Linux，云原生，数据库，DPDK，音视频开发，TCP/IP，数据结构，计算机原理等 |
+| [ja-netfilter](https://github.com/pengzhile/ja-netfilter) | A javaagent lib for network filter |
 | [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics |
-| [intro-javascript-nov-2021](https://github.com/makeitrealcamp/intro-javascript-nov-2021) | Curso gratuito de introducción a JavaScript de Make It Real apoyado por Innpulsa Colombia |
-| [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | A collection of (mostly) technical things every software developer should know about |
-| [asmrepl](https://github.com/tenderlove/asmrepl) | A REPL for x86-64 assembly language |
-| [snarkOS](https://github.com/AleoHQ/snarkOS) | A Decentralized Operating System for Zero-Knowledge Applications |
-| [return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) | Chrome extension to return youtube dislikes |
-| [strapi](https://github.com/strapi/strapi) | 🚀 Open source Node.js Headless CMS to easily build customisable APIs |
+| [WantWords](https://github.com/thunlp/WantWords) | An open-source online reverse dictionary. |
+| [projected_gan](https://github.com/autonomousvision/projected_gan) | [NeurIPS'21] Projected GANs Converge Faster |
+| [FiraCode](https://github.com/tonsky/FiraCode) | Free monospaced font with programming ligatures |
+| [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
