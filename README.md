@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [lazygit](https://github.com/jesseduffield/lazygit) | simple terminal UI for git commands |
-| [hubris](https://github.com/oxidecomputer/hubris) | A lightweight, memory-protected, message-passing kernel for deeply embedded systems. |
-| [supabase](https://github.com/supabase/supabase) | The open source Firebase alternative. Follow to stay updated about our public Beta. |
-| [learning_mind_map](https://github.com/0voice/learning_mind_map) | 2021年【思维导图】盒子，C/C++，Golang，Linux，云原生，数据库，DPDK，音视频开发，TCP/IP，数据结构，计算机原理等 |
-| [ja-netfilter](https://github.com/pengzhile/ja-netfilter) | A javaagent lib for network filter |
+| [appsmith](https://github.com/appsmithorg/appsmith) | Low code project build any custom business software like admin panels, internal tools, and dashboards. Use 35+ pre-built UI widgets that connect to any database, GraphQL or REST API. Write all logic in Javascript. |
 | [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics |
-| [WantWords](https://github.com/thunlp/WantWords) | An open-source online reverse dictionary. |
-| [projected_gan](https://github.com/autonomousvision/projected_gan) | [NeurIPS'21] Projected GANs Converge Faster |
-| [FiraCode](https://github.com/tonsky/FiraCode) | Free monospaced font with programming ligatures |
-| [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity |
+| [ja-netfilter](https://github.com/ja-netfilter/ja-netfilter) | A javaagent lib for network filter |
+| [protobuf](https://github.com/protocolbuffers/protobuf) | Protocol Buffers - Google's data interchange format |
+| [android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap) | 🗺 Android Developer Roadmap 2022 suggests learning paths to understanding Android development. |
+| [virtual-environments](https://github.com/actions/virtual-environments) | GitHub Actions virtual environments |
+| [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | A collection of (mostly) technical things every software developer should know about |
+| [terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) | Terraform module to create an Elastic Kubernetes (EKS) cluster and associated worker instances on AWS |
+| [blooket-hack](https://github.com/glixzzy/blooket-hack) | Multiple game hacks to use so the game becomes easier to play! |
+| [hyperstyle](https://github.com/yuval-alaluf/hyperstyle) | Official Implementation for "HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing" https://arxiv.org/abs/2111.15666 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
