@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [appsmith](https://github.com/appsmithorg/appsmith) | Low code project build any custom business software like admin panels, internal tools, and dashboards. Use 35+ pre-built UI widgets that connect to any database, GraphQL or REST API. Write all logic in Javascript. |
-| [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics |
-| [ja-netfilter](https://github.com/ja-netfilter/ja-netfilter) | A javaagent lib for network filter |
-| [protobuf](https://github.com/protocolbuffers/protobuf) | Protocol Buffers - Google's data interchange format |
-| [android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap) | 🗺 Android Developer Roadmap 2022 suggests learning paths to understanding Android development. |
+| [SecLists](https://github.com/danielmiessler/SecLists) | SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. |
+| [compose-jb](https://github.com/JetBrains/compose-jb) | Jetpack Compose for Desktop and Web, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable. |
 | [virtual-environments](https://github.com/actions/virtual-environments) | GitHub Actions virtual environments |
-| [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | A collection of (mostly) technical things every software developer should know about |
-| [terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) | Terraform module to create an Elastic Kubernetes (EKS) cluster and associated worker instances on AWS |
-| [blooket-hack](https://github.com/glixzzy/blooket-hack) | Multiple game hacks to use so the game becomes easier to play! |
-| [hyperstyle](https://github.com/yuval-alaluf/hyperstyle) | Official Implementation for "HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing" https://arxiv.org/abs/2111.15666 |
+| [crater](https://github.com/crater-invoice/crater) | Open Source Invoicing Solution for Individuals & Businesses |
+| [dynamic-threadpool](https://github.com/acmenlt/dynamic-threadpool) | 🔥 强大的动态线程池，附带监控报警功能（没有依赖中间件），完全遵循阿里巴巴编码规范。Powerful dynamic thread pool, does not rely on any middleware, with monitoring and alarm function. |
+| [Road2Coding](https://github.com/rd2coding/Road2Coding) | 编程之路 |
+| [RSL-Helper](https://github.com/FarbstoffRSL/RSL-Helper) | Der Farbstoff RSL-Helper |
+| [appsmith](https://github.com/appsmithorg/appsmith) | Low code project build any custom business software like admin panels, internal tools, and dashboards. Use 35+ pre-built UI widgets that connect to any database, GraphQL or REST API. Write all logic in Javascript. |
+| [android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap) | 🗺 Android Developer Roadmap 2022 suggests learning paths to understanding Android development. |
+| [microdiff](https://github.com/AsyncBanana/microdiff) | A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
