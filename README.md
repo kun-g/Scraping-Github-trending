@@ -41,14 +41,14 @@
 <!-- START OF MONTHLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) | OpenIM: Instant messaging open source project based on go built by former WeChat technology experts. Backend in Go.（由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。） |
-| [questdb](https://github.com/questdb/questdb) | An open source SQL database designed to process time series data, faster |
 | [Telegram](https://github.com/DrKLO/Telegram) | Telegram for Android source |
 | [budibase](https://github.com/Budibase/budibase) | Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀 |
-| [d2l-zh](https://github.com/d2l-ai/d2l-zh) | 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被55个国家的300所大学用于教学。 |
+| [medusa](https://github.com/medusajs/medusa) | The open-source Shopify alternative ⚡️ |
 | [react-router](https://github.com/remix-run/react-router) | Declarative routing for React |
+| [CleanArchitecture](https://github.com/ardalis/CleanArchitecture) | Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core |
+| [xmrig](https://github.com/xmrig/xmrig) | RandomX, CryptoNight, AstroBWT and Argon2 CPU/GPU miner |
+| [filament](https://github.com/google/filament) | Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2 |
+| [OSX-KVM](https://github.com/kholia/OSX-KVM) | Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey support now! Only commercial (paid) support is available now to avoid spammy issues. |
+| [avalanchego](https://github.com/ava-labs/avalanchego) | Go implementation of an Avalanche node. |
 | [token-list](https://github.com/solana-labs/token-list) | The community maintained Solana token registry |
-| [copilot-docs](https://github.com/github/copilot-docs) | Documentation for GitHub Copilot |
-| [yabai](https://github.com/koekeishiya/yabai) | A tiling window manager for macOS based on binary space partitioning |
-| [JD_tencent_scf](https://github.com/zero205/JD_tencent_scf) | 自用京东JS脚本，已加入助力池；支持【青龙】、【腾讯云函数】、【elecV2P】；低调使用，请勿fork！！！ |
 <!-- END OF MONTHLY_TOP10_REPOS -->
