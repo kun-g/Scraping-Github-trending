@@ -25,16 +25,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [biosim4](https://github.com/davidrmiller/biosim4) | Biological evolution simulator |
-| [medusa](https://github.com/medusajs/medusa) | The open-source Shopify alternative ⚡️ |
-| [AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2) | [Open Source]. The improved version of AnimeGAN. Landscape photos/videos to anime |
-| [appflowy](https://github.com/AppFlowy-IO/appflowy) | AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. |
-| [tldraw](https://github.com/tldraw/tldraw) | A tiny little drawing app. |
-| [filament](https://github.com/google/filament) | Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2 |
-| [MAE-pytorch](https://github.com/pengzhiliang/MAE-pytorch) | Unofficial PyTorch implementation of Masked Autoencoders Are Scalable Vision Learners |
-| [AutoEq](https://github.com/jaakkopasanen/AutoEq) | Automatic headphone equalization from frequency responses |
-| [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all |
-| [scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) | An open access book on scientific visualization using python and matplotlib |
+| [supabase](https://github.com/supabase/supabase) | The open source Firebase alternative. Follow to stay updated about our public Beta. |
+| [qoi](https://github.com/phoboslab/qoi) | The “Quite OK Image” format for fast, lossless image compression |
+| [SwiftPamphletApp](https://github.com/ming1016/SwiftPamphletApp) | 戴铭的 Swift 小册子，一本活的 Swift 手册 |
+| [lazygit](https://github.com/jesseduffield/lazygit) | simple terminal UI for git commands |
+| [Paper](https://github.com/PaperMC/Paper) | High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies |
+| [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Roadmap to becoming a web developer in 2021 |
+| [bombcrypto-bot](https://github.com/mpcabete/bombcrypto-bot) | This is a python bot that automatically logs in, clicks the new button, and sends heroes to work in the bombcrypto game. It is fully open source and free. |
+| [compose-jb](https://github.com/JetBrains/compose-jb) | Jetpack Compose for Desktop and Web, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable. |
+| [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) | 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University |
+| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
