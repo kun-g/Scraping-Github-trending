@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [libtree](https://github.com/haampie/libtree) | ldd as a tree with an option to bundle dependencies into a single folder |
 | [SecLists](https://github.com/danielmiessler/SecLists) | SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. |
-| [compose-jb](https://github.com/JetBrains/compose-jb) | Jetpack Compose for Desktop and Web, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable. |
-| [virtual-environments](https://github.com/actions/virtual-environments) | GitHub Actions virtual environments |
-| [crater](https://github.com/crater-invoice/crater) | Open Source Invoicing Solution for Individuals & Businesses |
-| [dynamic-threadpool](https://github.com/acmenlt/dynamic-threadpool) | 🔥 强大的动态线程池，附带监控报警功能（没有依赖中间件），完全遵循阿里巴巴编码规范。Powerful dynamic thread pool, does not rely on any middleware, with monitoring and alarm function. |
-| [Road2Coding](https://github.com/rd2coding/Road2Coding) | 编程之路 |
-| [RSL-Helper](https://github.com/FarbstoffRSL/RSL-Helper) | Der Farbstoff RSL-Helper |
 | [appsmith](https://github.com/appsmithorg/appsmith) | Low code project build any custom business software like admin panels, internal tools, and dashboards. Use 35+ pre-built UI widgets that connect to any database, GraphQL or REST API. Write all logic in Javascript. |
-| [android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap) | 🗺 Android Developer Roadmap 2022 suggests learning paths to understanding Android development. |
-| [microdiff](https://github.com/AsyncBanana/microdiff) | A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support. |
+| [FerretDB](https://github.com/FerretDB/FerretDB) | A truly Open Source MongoDB alternative |
+| [awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) | A collection of awesome resources related to the yearly Advent of Code challenge. |
+| [docs](https://github.com/github/docs) | The open-source repo for docs.github.com |
+| [ironfish](https://github.com/iron-fish/ironfish) | A novel cryptocurrency focused on privacy and accessibility. |
+| [zinc](https://github.com/prabhatsharma/zinc) | Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. |
+| [pycord](https://github.com/Pycord-Development/pycord) | Pycord, a maintained fork of discord.py, is a python wrapper for the Discord API |
+| [engine](https://github.com/Qovery/engine) | Deploy your apps on any Cloud provider in just a few seconds |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
