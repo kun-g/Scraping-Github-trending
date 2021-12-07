@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [libtree](https://github.com/haampie/libtree) | ldd as a tree with an option to bundle dependencies into a single folder |
-| [SecLists](https://github.com/danielmiessler/SecLists) | SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. |
-| [appsmith](https://github.com/appsmithorg/appsmith) | Low code project build any custom business software like admin panels, internal tools, and dashboards. Use 35+ pre-built UI widgets that connect to any database, GraphQL or REST API. Write all logic in Javascript. |
-| [FerretDB](https://github.com/FerretDB/FerretDB) | A truly Open Source MongoDB alternative |
-| [awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) | A collection of awesome resources related to the yearly Advent of Code challenge. |
+| [txt_files](https://github.com/loveispapapa/txt_files) | ge zhong xiao shuo |
 | [docs](https://github.com/github/docs) | The open-source repo for docs.github.com |
-| [ironfish](https://github.com/iron-fish/ironfish) | A novel cryptocurrency focused on privacy and accessibility. |
 | [zinc](https://github.com/prabhatsharma/zinc) | Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. |
-| [pycord](https://github.com/Pycord-Development/pycord) | Pycord, a maintained fork of discord.py, is a python wrapper for the Discord API |
-| [engine](https://github.com/Qovery/engine) | Deploy your apps on any Cloud provider in just a few seconds |
+| [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Roadmap to becoming a web developer in 2021 |
+| [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
+| [awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) | A collection of awesome resources related to the yearly Advent of Code challenge. |
+| [lithium-fabric](https://github.com/CaffeineMC/lithium-fabric) | A Fabric mod designed to improve the general performance of Minecraft without breaking things |
+| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [SecLists](https://github.com/danielmiessler/SecLists) | SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
