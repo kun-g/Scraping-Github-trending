@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [txt_files](https://github.com/loveispapapa/txt_files) | ge zhong xiao shuo |
-| [docs](https://github.com/github/docs) | The open-source repo for docs.github.com |
-| [zinc](https://github.com/prabhatsharma/zinc) | Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. |
-| [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Roadmap to becoming a web developer in 2021 |
 | [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
-| [awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) | A collection of awesome resources related to the yearly Advent of Code challenge. |
-| [lithium-fabric](https://github.com/CaffeineMC/lithium-fabric) | A Fabric mod designed to improve the general performance of Minecraft without breaking things |
-| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+| [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Roadmap to becoming a web developer in 2021 |
+| [MockingBird](https://github.com/babysor/MockingBird) | 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time |
+| [kalidokit](https://github.com/yeemachine/kalidokit) | Blendshape and kinematics solver for Mediapipe/Tensorflow.js face, eyes, pose, and hand tracking models. |
+| [openpilot](https://github.com/commaai/openpilot) | openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models. |
+| [zinc](https://github.com/prabhatsharma/zinc) | Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. |
 | [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [SecLists](https://github.com/danielmiessler/SecLists) | SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. |
+| [arthas](https://github.com/alibaba/arthas) | Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas |
+| [ltt-linux-challenge-issues](https://github.com/glibg10b/ltt-linux-challenge-issues) | A list of issues Linus and Luke experienced during the LTT Linux Daily Driver Challenge |
+| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
