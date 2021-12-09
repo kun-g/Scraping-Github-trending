@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
-| [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Roadmap to becoming a web developer in 2021 |
+| [txt_files](https://github.com/loveispapapa/txt_files) | ge zhong xiao shuo |
 | [MockingBird](https://github.com/babysor/MockingBird) | 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time |
-| [kalidokit](https://github.com/yeemachine/kalidokit) | Blendshape and kinematics solver for Mediapipe/Tensorflow.js face, eyes, pose, and hand tracking models. |
-| [openpilot](https://github.com/commaai/openpilot) | openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models. |
-| [zinc](https://github.com/prabhatsharma/zinc) | Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. |
+| [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Roadmap to becoming a web developer in 2021 |
+| [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
+| [grafana](https://github.com/grafana/grafana) | The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. |
 | [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [arthas](https://github.com/alibaba/arthas) | Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas |
-| [ltt-linux-challenge-issues](https://github.com/glibg10b/ltt-linux-challenge-issues) | A list of issues Linus and Luke experienced during the LTT Linux Daily Driver Challenge |
-| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
+| [leetcode](https://github.com/doocs/leetcode) | 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解 |
+| [tabby](https://github.com/Eugeny/tabby) | A terminal for a more modern age (formerly Terminus) |
+| [bugbounty](https://github.com/aufzayed/bugbounty) | Bugbounty Resources |
+| [awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) | A curated list of awesome articles, videos, and other resources to learn and practice about software architecture, patterns, and principles. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
