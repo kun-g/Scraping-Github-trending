@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [txt_files](https://github.com/loveispapapa/txt_files) | ge zhong xiao shuo |
-| [MockingBird](https://github.com/babysor/MockingBird) | 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time |
-| [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Roadmap to becoming a web developer in 2021 |
-| [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
-| [grafana](https://github.com/grafana/grafana) | The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
 | [leetcode](https://github.com/doocs/leetcode) | 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解 |
-| [tabby](https://github.com/Eugeny/tabby) | A terminal for a more modern age (formerly Terminus) |
-| [bugbounty](https://github.com/aufzayed/bugbounty) | Bugbounty Resources |
-| [awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) | A curated list of awesome articles, videos, and other resources to learn and practice about software architecture, patterns, and principles. |
+| [soft-serve](https://github.com/charmbracelet/soft-serve) | A tasty, self-hostable Git server for the command line🍦 |
+| [jynew](https://github.com/jynew/jynew) | 金庸群侠传3D重制版 |
+| [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
+| [tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com) | None |
+| [d2l-zh](https://github.com/d2l-ai/d2l-zh) | 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被55个国家的300所大学用于教学。 |
+| [ja-netfilter](https://github.com/ja-netfilter/ja-netfilter) | A javaagent framework |
+| [swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) | A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind. |
+| [ai-edu](https://github.com/microsoft/ai-edu) | AI education materials for Chinese students, teachers and IT professionals. |
+| [nocode](https://github.com/kelseyhightower/nocode) | The best way to write secure and reliable applications. Write nothing; deploy nowhere. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
