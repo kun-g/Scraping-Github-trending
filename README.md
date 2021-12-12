@@ -41,14 +41,14 @@
 <!-- START OF MONTHLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [Telegram](https://github.com/DrKLO/Telegram) | Telegram for Android source |
 | [budibase](https://github.com/Budibase/budibase) | Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀 |
+| [GFPGAN](https://github.com/TencentARC/GFPGAN) | GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration. |
 | [medusa](https://github.com/medusajs/medusa) | The open-source Shopify alternative ⚡️ |
-| [react-router](https://github.com/remix-run/react-router) | Declarative routing for React |
-| [CleanArchitecture](https://github.com/ardalis/CleanArchitecture) | Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core |
-| [xmrig](https://github.com/xmrig/xmrig) | RandomX, CryptoNight, AstroBWT and Argon2 CPU/GPU miner |
-| [filament](https://github.com/google/filament) | Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2 |
-| [OSX-KVM](https://github.com/kholia/OSX-KVM) | Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey support now! Only commercial (paid) support is available now to avoid spammy issues. |
-| [avalanchego](https://github.com/ava-labs/avalanchego) | Go implementation of an Avalanche node. |
-| [token-list](https://github.com/solana-labs/token-list) | The community maintained Solana token registry |
+| [animegan2-pytorch](https://github.com/bryandlee/animegan2-pytorch) | PyTorch implementation of AnimeGANv2 |
+| [SecLists](https://github.com/danielmiessler/SecLists) | SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. |
+| [lazygit](https://github.com/jesseduffield/lazygit) | simple terminal UI for git commands |
+| [compose-jb](https://github.com/JetBrains/compose-jb) | Jetpack Compose for Desktop and Web, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable. |
+| [Paper](https://github.com/PaperMC/Paper) | High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies |
+| [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Roadmap to becoming a developer in 2021 |
+| [bulletproof-react](https://github.com/alan2207/bulletproof-react) | 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications. |
 <!-- END OF MONTHLY_TOP10_REPOS -->
