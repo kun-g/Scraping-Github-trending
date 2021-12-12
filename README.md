@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [leetcode](https://github.com/doocs/leetcode) | 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解 |
-| [soft-serve](https://github.com/charmbracelet/soft-serve) | A tasty, self-hostable Git server for the command line🍦 |
-| [jynew](https://github.com/jynew/jynew) | 金庸群侠传3D重制版 |
-| [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
-| [tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com) | None |
-| [d2l-zh](https://github.com/d2l-ai/d2l-zh) | 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被55个国家的300所大学用于教学。 |
-| [ja-netfilter](https://github.com/ja-netfilter/ja-netfilter) | A javaagent framework |
-| [swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) | A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind. |
-| [ai-edu](https://github.com/microsoft/ai-edu) | AI education materials for Chinese students, teachers and IT professionals. |
-| [nocode](https://github.com/kelseyhightower/nocode) | The best way to write secure and reliable applications. Write nothing; deploy nowhere. |
+| [CVE-2021-44228-Apache-Log4j-Rce](https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce) | Apache Log4j 远程代码执行 |
+| [GFPGAN](https://github.com/TencentARC/GFPGAN) | GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration. |
+| [monoio](https://github.com/bytedance/monoio) | Rust async runtime based on io-uring. |
+| [tailwindcss](https://github.com/tailwindlabs/tailwindcss) | A utility-first CSS framework for rapid UI development. |
+| [perf-book](https://github.com/dendibakh/perf-book) | The book "Performance Analysis and Tuning on Modern CPU" |
+| [Paper](https://github.com/PaperMC/Paper) | High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies |
+| [cilium](https://github.com/cilium/cilium) | eBPF-based Networking, Security, and Observability |
+| [logging-log4j2](https://github.com/apache/logging-log4j2) | Apache Log4j 2 is an upgrade to Log4j that provides significant improvements over its predecessor, Log4j 1.x, and provides many of the improvements available in Logback while fixing some inherent problems in Logback's architecture. |
+| [marshalsec](https://github.com/mbechler/marshalsec) | None |
+| [JNDI-Injection-Exploit](https://github.com/welk1n/JNDI-Injection-Exploit) | JNDI注入测试工具（A tool which generates JNDI links can start several servers to exploit JNDI Injection vulnerability,like Jackson,Fastjson,etc） |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
