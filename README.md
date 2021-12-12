@@ -25,16 +25,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [supabase](https://github.com/supabase/supabase) | The open source Firebase alternative. Follow to stay updated about our public Beta. |
-| [qoi](https://github.com/phoboslab/qoi) | The “Quite OK Image” format for fast, lossless image compression |
-| [SwiftPamphletApp](https://github.com/ming1016/SwiftPamphletApp) | 戴铭的 Swift 小册子，一本活的 Swift 手册 |
-| [lazygit](https://github.com/jesseduffield/lazygit) | simple terminal UI for git commands |
-| [Paper](https://github.com/PaperMC/Paper) | High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies |
-| [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Roadmap to becoming a web developer in 2021 |
-| [bombcrypto-bot](https://github.com/mpcabete/bombcrypto-bot) | This is a python bot that automatically logs in, clicks the new button, and sends heroes to work in the bombcrypto game. It is fully open source and free. |
-| [compose-jb](https://github.com/JetBrains/compose-jb) | Jetpack Compose for Desktop and Web, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable. |
-| [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) | 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University |
-| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
+| [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Roadmap to becoming a developer in 2021 |
+| [ja-netfilter](https://github.com/ja-netfilter/ja-netfilter) | A javaagent framework |
+| [GFPGAN](https://github.com/TencentARC/GFPGAN) | GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration. |
+| [oot](https://github.com/zeldaret/oot) | Decompilation of The Legend of Zelda: Ocarina of Time |
+| [FerretDB](https://github.com/FerretDB/FerretDB) | A truly Open Source MongoDB alternative |
+| [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
+| [leetcode](https://github.com/doocs/leetcode) | 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解 |
+| [tabby](https://github.com/Eugeny/tabby) | A terminal for a more modern age (formerly Terminus) |
+| [appsmith](https://github.com/appsmithorg/appsmith) | Low code project to build any custom business software like admin panels, internal tools, and dashboards. Use 35+ pre-built UI widgets that connect to any database, GraphQL or REST API. Write all logic in Javascript. |
+| [MockingBird](https://github.com/babysor/MockingBird) | 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
