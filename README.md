@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [CVE-2021-44228-Apache-Log4j-Rce](https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce) | Apache Log4j 远程代码执行 |
 | [GFPGAN](https://github.com/TencentARC/GFPGAN) | GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration. |
-| [monoio](https://github.com/bytedance/monoio) | Rust async runtime based on io-uring. |
-| [tailwindcss](https://github.com/tailwindlabs/tailwindcss) | A utility-first CSS framework for rapid UI development. |
-| [perf-book](https://github.com/dendibakh/perf-book) | The book "Performance Analysis and Tuning on Modern CPU" |
-| [Paper](https://github.com/PaperMC/Paper) | High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies |
-| [cilium](https://github.com/cilium/cilium) | eBPF-based Networking, Security, and Observability |
-| [logging-log4j2](https://github.com/apache/logging-log4j2) | Apache Log4j 2 is an upgrade to Log4j that provides significant improvements over its predecessor, Log4j 1.x, and provides many of the improvements available in Logback while fixing some inherent problems in Logback's architecture. |
-| [marshalsec](https://github.com/mbechler/marshalsec) | None |
 | [JNDI-Injection-Exploit](https://github.com/welk1n/JNDI-Injection-Exploit) | JNDI注入测试工具（A tool which generates JNDI links can start several servers to exploit JNDI Injection vulnerability,like Jackson,Fastjson,etc） |
+| [CVE-2021-44228-Apache-Log4j-Rce](https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce) | Apache Log4j 远程代码执行 |
+| [KelloggBot](https://github.com/SeanDaBlack/KelloggBot) | Kellogg bad | Union good | Support strike funds |
+| [JNDIExploit](https://github.com/feihong-cs/JNDIExploit) | A malicious LDAP server for JNDI injection attacks |
+| [logging-log4j2](https://github.com/apache/logging-log4j2) | Apache Log4j 2 is an upgrade to Log4j that provides significant improvements over its predecessor, Log4j 1.x, and provides many of the improvements available in Logback while fixing some inherent problems in Logback's architecture. |
+| [bombcrypto-bot](https://github.com/mpcabete/bombcrypto-bot) | This is a python bot that automatically logs in, clicks the new button, and sends heroes to work in the bombcrypto game. It is fully open source and free. |
+| [cilium](https://github.com/cilium/cilium) | eBPF-based Networking, Security, and Observability |
+| [turborepo](https://github.com/vercel/turborepo) | The High-performance Build System for JavaScript & TypeScript Codebases |
+| [svox2](https://github.com/sxyu/svox2) | Plenoxels: Radiance Fields without Neural Networks, Code release WIP |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
