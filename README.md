@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [GFPGAN](https://github.com/TencentARC/GFPGAN) | GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration. |
-| [JNDI-Injection-Exploit](https://github.com/welk1n/JNDI-Injection-Exploit) | JNDI注入测试工具（A tool which generates JNDI links can start several servers to exploit JNDI Injection vulnerability,like Jackson,Fastjson,etc） |
-| [CVE-2021-44228-Apache-Log4j-Rce](https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce) | Apache Log4j 远程代码执行 |
-| [KelloggBot](https://github.com/SeanDaBlack/KelloggBot) | Kellogg bad | Union good | Support strike funds |
-| [JNDIExploit](https://github.com/feihong-cs/JNDIExploit) | A malicious LDAP server for JNDI injection attacks |
-| [logging-log4j2](https://github.com/apache/logging-log4j2) | Apache Log4j 2 is an upgrade to Log4j that provides significant improvements over its predecessor, Log4j 1.x, and provides many of the improvements available in Logback while fixing some inherent problems in Logback's architecture. |
-| [bombcrypto-bot](https://github.com/mpcabete/bombcrypto-bot) | This is a python bot that automatically logs in, clicks the new button, and sends heroes to work in the bombcrypto game. It is fully open source and free. |
-| [cilium](https://github.com/cilium/cilium) | eBPF-based Networking, Security, and Observability |
+| [space-shooter.c](https://github.com/tsherif/space-shooter.c) | A cross-platform, top-down 2D space shooter written in C using only system libraries. |
+| [Log4jAttackSurface](https://github.com/YfryTchsGD/Log4jAttackSurface) | None |
+| [log4shell-vulnerable-app](https://github.com/christophetd/log4shell-vulnerable-app) | Spring Boot web application vulnerable to CVE-2021-44228, nicknamed Log4Shell. |
 | [turborepo](https://github.com/vercel/turborepo) | The High-performance Build System for JavaScript & TypeScript Codebases |
 | [svox2](https://github.com/sxyu/svox2) | Plenoxels: Radiance Fields without Neural Networks, Code release WIP |
+| [computer-science](https://github.com/ossu/computer-science) | 🎓 Path to a free self-taught education in Computer Science! |
+| [CS-Notes](https://github.com/CyC2018/CS-Notes) | 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 |
+| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A youtube-dl fork with additional features and fixes |
+| [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) | Clone a voice in 5 seconds to generate arbitrary speech in real-time |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
