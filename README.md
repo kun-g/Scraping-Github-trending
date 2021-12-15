@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [GFPGAN](https://github.com/TencentARC/GFPGAN) | GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration. |
-| [space-shooter.c](https://github.com/tsherif/space-shooter.c) | A cross-platform, top-down 2D space shooter written in C using only system libraries. |
-| [Log4jAttackSurface](https://github.com/YfryTchsGD/Log4jAttackSurface) | None |
+| [log4shell](https://github.com/NCSC-NL/log4shell) | Operational information regarding the vulnerability in the Log4j logging library. |
+| [log4shell-tester](https://github.com/huntresslabs/log4shell-tester) | None |
+| [log4shell-detector](https://github.com/Neo23x0/log4shell-detector) | Detector for Log4Shell exploitation attempts |
+| [syft](https://github.com/anchore/syft) | CLI tool and library for generating a Software Bill of Materials from container images and filesystems |
 | [log4shell-vulnerable-app](https://github.com/christophetd/log4shell-vulnerable-app) | Spring Boot web application vulnerable to CVE-2021-44228, nicknamed Log4Shell. |
+| [Log4j2Scan](https://github.com/whwlsfb/Log4j2Scan) | Log4j2 RCE Passive Scanner plugin for BurpSuite |
+| [GFPGAN](https://github.com/TencentARC/GFPGAN) | GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration. |
+| [log4j-shell-poc](https://github.com/kozmer/log4j-shell-poc) | A Proof-Of-Concept for the recently found CVE-2021-44228 vulnerability. |
+| [hotpatch-for-apache-log4j2](https://github.com/corretto/hotpatch-for-apache-log4j2) | An agent to hotpatch the log4j RCE from CVE-2021-44228. |
 | [turborepo](https://github.com/vercel/turborepo) | The High-performance Build System for JavaScript & TypeScript Codebases |
-| [svox2](https://github.com/sxyu/svox2) | Plenoxels: Radiance Fields without Neural Networks, Code release WIP |
-| [computer-science](https://github.com/ossu/computer-science) | 🎓 Path to a free self-taught education in Computer Science! |
-| [CS-Notes](https://github.com/CyC2018/CS-Notes) | 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 |
-| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A youtube-dl fork with additional features and fixes |
-| [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) | Clone a voice in 5 seconds to generate arbitrary speech in real-time |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
