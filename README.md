@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [log4j-scan](https://github.com/fullhunt/log4j-scan) | A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228 |
+| [Real-Time-Rendering-4th-Bibliography-Collection](https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection) | Real-Time Rendering 4th (RTR4) 参考文献合集典藏 | Collection of <Real-Time Rendering 4th (RTR4)> Bibliography / Reference |
+| [CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner) | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 |
 | [log4shell](https://github.com/NCSC-NL/log4shell) | Operational information regarding the vulnerability in the Log4j logging library. |
-| [log4shell-tester](https://github.com/huntresslabs/log4shell-tester) | None |
-| [log4shell-detector](https://github.com/Neo23x0/log4shell-detector) | Detector for Log4Shell exploitation attempts |
-| [syft](https://github.com/anchore/syft) | CLI tool and library for generating a Software Bill of Materials from container images and filesystems |
-| [log4shell-vulnerable-app](https://github.com/christophetd/log4shell-vulnerable-app) | Spring Boot web application vulnerable to CVE-2021-44228, nicknamed Log4Shell. |
-| [Log4j2Scan](https://github.com/whwlsfb/Log4j2Scan) | Log4j2 RCE Passive Scanner plugin for BurpSuite |
-| [GFPGAN](https://github.com/TencentARC/GFPGAN) | GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration. |
+| [log4j-detector](https://github.com/mergebase/log4j-detector) | Detects vulnerable log4j versions on your file-system within any application. It is able to even find instances that are hidden several layers deep. Works on Linux, Windows, and Mac, and everywhere else Java runs, too! |
 | [log4j-shell-poc](https://github.com/kozmer/log4j-shell-poc) | A Proof-Of-Concept for the recently found CVE-2021-44228 vulnerability. |
-| [hotpatch-for-apache-log4j2](https://github.com/corretto/hotpatch-for-apache-log4j2) | An agent to hotpatch the log4j RCE from CVE-2021-44228. |
-| [turborepo](https://github.com/vercel/turborepo) | The High-performance Build System for JavaScript & TypeScript Codebases |
+| [local-log4j-vuln-scanner](https://github.com/hillu/local-log4j-vuln-scanner) | Simple local scanner for vulnerable log4j instances |
+| [spl-zk-token](https://github.com/solana-labs/spl-zk-token) | SPL Confidential Token |
+| [pOOBs4](https://github.com/ChendoChap/pOOBs4) | None |
+| [log4jpwn](https://github.com/leonjza/log4jpwn) | log4j rce test environment and poc |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10

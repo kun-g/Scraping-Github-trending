@@ -1,0 +1,782 @@
+[
+    {
+        "author": "fullhunt",
+        "avatar": "https://github.com/fullhunt.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8996052",
+                "href": "https://github.com/mazen160",
+                "username": "mazen160"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2530273",
+                "href": "https://github.com/Brasco",
+                "username": "Brasco"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3629463",
+                "href": "https://github.com/denniskniep",
+                "username": "denniskniep"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1244213",
+                "href": "https://github.com/DmitriyStoyanov",
+                "username": "DmitriyStoyanov"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4372440",
+                "href": "https://github.com/hlein",
+                "username": "hlein"
+            }
+        ],
+        "currentPeriodStars": 328,
+        "description": "A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228",
+        "forks": 295,
+        "fullname": "fullhunt/log4j-scan",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "log4j-scan",
+        "stars": 1339,
+        "url": "https://github.com/fullhunt/log4j-scan"
+    },
+    {
+        "author": "QianMo",
+        "avatar": "https://github.com/QianMo.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7830161",
+                "href": "https://github.com/QianMo",
+                "username": "QianMo"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4819261",
+                "href": "https://github.com/zh4os",
+                "username": "zh4os"
+            }
+        ],
+        "currentPeriodStars": 262,
+        "description": "Real-Time Rendering 4th (RTR4) \u53c2\u8003\u6587\u732e\u5408\u96c6\u5178\u85cf | Collection of <Real-Time Rendering 4th (RTR4)> Bibliography / Reference",
+        "forks": 486,
+        "fullname": "QianMo/Real-Time-Rendering-4th-Bibliography-Collection",
+        "language": "HTML",
+        "languageColor": "#e34c26",
+        "name": "Real-Time-Rendering-4th-Bibliography-Collection",
+        "stars": 1461,
+        "url": "https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection"
+    },
+    {
+        "author": "logpresso",
+        "avatar": "https://github.com/logpresso.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2782192",
+                "href": "https://github.com/xeraph",
+                "username": "xeraph"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/96070075",
+                "href": "https://github.com/ChKemper",
+                "username": "ChKemper"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/10239907",
+                "href": "https://github.com/fandigunawan",
+                "username": "fandigunawan"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3631178",
+                "href": "https://github.com/abnqeut",
+                "username": "abnqeut"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/19997747",
+                "href": "https://github.com/wywywywy",
+                "username": "wywywywy"
+            }
+        ],
+        "currentPeriodStars": 86,
+        "description": "Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228",
+        "forks": 72,
+        "fullname": "logpresso/CVE-2021-44228-Scanner",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "name": "CVE-2021-44228-Scanner",
+        "stars": 295,
+        "url": "https://github.com/logpresso/CVE-2021-44228-Scanner"
+    },
+    {
+        "author": "NCSC-NL",
+        "avatar": "https://github.com/NCSC-NL.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/96001122",
+                "href": "https://github.com/pbeij",
+                "username": "pbeij"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5618114",
+                "href": "https://github.com/drprofesq",
+                "username": "drprofesq"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/23038729",
+                "href": "https://github.com/stijnos1991",
+                "username": "stijnos1991"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/48287378",
+                "href": "https://github.com/n0x0",
+                "username": "n0x0"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/469401",
+                "href": "https://github.com/maertsen",
+                "username": "maertsen"
+            }
+        ],
+        "currentPeriodStars": 310,
+        "description": "Operational information regarding the vulnerability in the Log4j logging library.",
+        "forks": 392,
+        "fullname": "NCSC-NL/log4shell",
+        "language": null,
+        "languageColor": null,
+        "name": "log4shell",
+        "stars": 1047,
+        "url": "https://github.com/NCSC-NL/log4shell"
+    },
+    {
+        "author": "mergebase",
+        "avatar": "https://github.com/mergebase.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/41974443",
+                "href": "https://github.com/juliusmusseau",
+                "username": "juliusmusseau"
+            }
+        ],
+        "currentPeriodStars": 54,
+        "description": "Detects vulnerable log4j versions on your file-system within any application. It is able to even find instances that are hidden several layers deep. Works on Linux, Windows, and Mac, and everywhere else Java runs, too!",
+        "forks": 42,
+        "fullname": "mergebase/log4j-detector",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "name": "log4j-detector",
+        "stars": 287,
+        "url": "https://github.com/mergebase/log4j-detector"
+    },
+    {
+        "author": "kozmer",
+        "avatar": "https://github.com/kozmer.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/87979263",
+                "href": "https://github.com/kozmer",
+                "username": "kozmer"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/46561460",
+                "href": "https://github.com/svmorris",
+                "username": "svmorris"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/66930150",
+                "href": "https://github.com/z9fr",
+                "username": "z9fr"
+            }
+        ],
+        "currentPeriodStars": 55,
+        "description": "A Proof-Of-Concept for the recently found CVE-2021-44228 vulnerability.",
+        "forks": 53,
+        "fullname": "kozmer/log4j-shell-poc",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "name": "log4j-shell-poc",
+        "stars": 252,
+        "url": "https://github.com/kozmer/log4j-shell-poc"
+    },
+    {
+        "author": "hillu",
+        "avatar": "https://github.com/hillu.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/173211",
+                "href": "https://github.com/hillu",
+                "username": "hillu"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/33715215",
+                "href": "https://github.com/martin-schlossarek",
+                "username": "martin-schlossarek"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/782446",
+                "href": "https://github.com/simon04",
+                "username": "simon04"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/800963",
+                "href": "https://github.com/lbruder",
+                "username": "lbruder"
+            }
+        ],
+        "currentPeriodStars": 53,
+        "description": "Simple local scanner for vulnerable log4j instances",
+        "forks": 34,
+        "fullname": "hillu/local-log4j-vuln-scanner",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "name": "local-log4j-vuln-scanner",
+        "stars": 179,
+        "url": "https://github.com/hillu/local-log4j-vuln-scanner"
+    },
+    {
+        "author": "solana-labs",
+        "avatar": "https://github.com/solana-labs.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1281082",
+                "href": "https://github.com/mvines",
+                "username": "mvines"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/16846544",
+                "href": "https://github.com/samkim-crypto",
+                "username": "samkim-crypto"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1118534",
+                "href": "https://github.com/jnwng",
+                "username": "jnwng"
+            }
+        ],
+        "currentPeriodStars": 16,
+        "description": "SPL Confidential Token",
+        "forks": 7,
+        "fullname": "solana-labs/spl-zk-token",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "name": "spl-zk-token",
+        "stars": 92,
+        "url": "https://github.com/solana-labs/spl-zk-token"
+    },
+    {
+        "author": "ChendoChap",
+        "avatar": "https://github.com/ChendoChap.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/9409828",
+                "href": "https://github.com/Cryptogenic",
+                "username": "Cryptogenic"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/39858639",
+                "href": "https://github.com/ChendoChap",
+                "username": "ChendoChap"
+            }
+        ],
+        "currentPeriodStars": 134,
+        "description": null,
+        "forks": 157,
+        "fullname": "ChendoChap/pOOBs4",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "name": "pOOBs4",
+        "stars": 572,
+        "url": "https://github.com/ChendoChap/pOOBs4"
+    },
+    {
+        "author": "leonjza",
+        "avatar": "https://github.com/leonjza.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1148127",
+                "href": "https://github.com/leonjza",
+                "username": "leonjza"
+            }
+        ],
+        "currentPeriodStars": 61,
+        "description": "log4j rce test environment and poc",
+        "forks": 35,
+        "fullname": "leonjza/log4jpwn",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "log4jpwn",
+        "stars": 176,
+        "url": "https://github.com/leonjza/log4jpwn"
+    },
+    {
+        "author": "alexandre-lavoie",
+        "avatar": "https://github.com/alexandre-lavoie.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/36684879",
+                "href": "https://github.com/alexandre-lavoie",
+                "username": "alexandre-lavoie"
+            }
+        ],
+        "currentPeriodStars": 27,
+        "description": "An All-In-One Pure Python PoC for CVE-2021-44228",
+        "forks": 21,
+        "fullname": "alexandre-lavoie/python-log4rce",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "python-log4rce",
+        "stars": 133,
+        "url": "https://github.com/alexandre-lavoie/python-log4rce"
+    },
+    {
+        "author": "cloudera",
+        "avatar": "https://github.com/cloudera.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/25396464",
+                "href": "https://github.com/jtran-cloudera",
+                "username": "jtran-cloudera"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7998680",
+                "href": "https://github.com/sunilgovind",
+                "username": "sunilgovind"
+            }
+        ],
+        "currentPeriodStars": 4,
+        "description": "Scripts for addressing log4j zero day security issue",
+        "forks": 29,
+        "fullname": "cloudera/cloudera-scripts-for-log4j",
+        "language": "Shell",
+        "languageColor": "#89e051",
+        "name": "cloudera-scripts-for-log4j",
+        "stars": 36,
+        "url": "https://github.com/cloudera/cloudera-scripts-for-log4j"
+    },
+    {
+        "author": "pointfreeco",
+        "avatar": "https://github.com/pointfreeco.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/658",
+                "href": "https://github.com/stephencelis",
+                "username": "stephencelis"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/135203",
+                "href": "https://github.com/mbrandonw",
+                "username": "mbrandonw"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4175766",
+                "href": "https://github.com/mluisbrown",
+                "username": "mluisbrown"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/19797367",
+                "href": "https://github.com/iampatbrown",
+                "username": "iampatbrown"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/407719",
+                "href": "https://github.com/dannyhertz",
+                "username": "dannyhertz"
+            }
+        ],
+        "currentPeriodStars": 42,
+        "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+        "forks": 448,
+        "fullname": "pointfreeco/swift-composable-architecture",
+        "language": "Swift",
+        "languageColor": "#F05138",
+        "name": "swift-composable-architecture",
+        "stars": 5140,
+        "url": "https://github.com/pointfreeco/swift-composable-architecture"
+    },
+    {
+        "author": "corretto",
+        "avatar": "https://github.com/corretto.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/12403364",
+                "href": "https://github.com/alvdavi",
+                "username": "alvdavi"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3178197",
+                "href": "https://github.com/simonis",
+                "username": "simonis"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/61068077",
+                "href": "https://github.com/lutkerd",
+                "username": "lutkerd"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1177304",
+                "href": "https://github.com/mildsunrise",
+                "username": "mildsunrise"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/129439",
+                "href": "https://github.com/otrosien",
+                "username": "otrosien"
+            }
+        ],
+        "currentPeriodStars": 93,
+        "description": "An agent to hotpatch the log4j RCE from CVE-2021-44228.",
+        "forks": 36,
+        "fullname": "corretto/hotpatch-for-apache-log4j2",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "name": "hotpatch-for-apache-log4j2",
+        "stars": 304,
+        "url": "https://github.com/corretto/hotpatch-for-apache-log4j2"
+    },
+    {
+        "author": "Diverto",
+        "avatar": "https://github.com/Diverto.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/11384082",
+                "href": "https://github.com/kost-div",
+                "username": "kost-div"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/55670396",
+                "href": "https://github.com/cyberfreaq",
+                "username": "cyberfreaq"
+            }
+        ],
+        "currentPeriodStars": 60,
+        "description": "Nmap NSE scripts to check against log4shell or LogJam vulnerabilities (CVE-2021-44228)",
+        "forks": 26,
+        "fullname": "Diverto/nse-log4shell",
+        "language": "Lua",
+        "languageColor": "#000080",
+        "name": "nse-log4shell",
+        "stars": 168,
+        "url": "https://github.com/Diverto/nse-log4shell"
+    },
+    {
+        "author": "DataTalksClub",
+        "avatar": "https://github.com/DataTalksClub.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/875246",
+                "href": "https://github.com/alexeygrigorev",
+                "username": "alexeygrigorev"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4315804",
+                "href": "https://github.com/Victoriapm",
+                "username": "Victoriapm"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3662357",
+                "href": "https://github.com/AnkushKhanna",
+                "username": "AnkushKhanna"
+            }
+        ],
+        "currentPeriodStars": 46,
+        "description": "Code for Data Engineer Zoomcamp course",
+        "forks": 38,
+        "fullname": "DataTalksClub/data-engineering-zoomcamp",
+        "language": null,
+        "languageColor": null,
+        "name": "data-engineering-zoomcamp",
+        "stars": 270,
+        "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp"
+    },
+    {
+        "author": "helix-editor",
+        "avatar": "https://github.com/helix-editor.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1372918",
+                "href": "https://github.com/archseer",
+                "username": "archseer"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1579058",
+                "href": "https://github.com/cessen",
+                "username": "cessen"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/46892771",
+                "href": "https://github.com/vv9k",
+                "username": "vv9k"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/25058758",
+                "href": "https://github.com/janhrastnik",
+                "username": "janhrastnik"
+            }
+        ],
+        "currentPeriodStars": 97,
+        "description": "A post-modern modal text editor.",
+        "forks": 234,
+        "fullname": "helix-editor/helix",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "name": "helix",
+        "stars": 4812,
+        "url": "https://github.com/helix-editor/helix"
+    },
+    {
+        "author": "WazeHell",
+        "avatar": "https://github.com/WazeHell.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/20618414",
+                "href": "https://github.com/WazeHell",
+                "username": "WazeHell"
+            }
+        ],
+        "currentPeriodStars": 77,
+        "description": "Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user",
+        "forks": 98,
+        "fullname": "WazeHell/sam-the-admin",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "sam-the-admin",
+        "stars": 512,
+        "url": "https://github.com/WazeHell/sam-the-admin"
+    },
+    {
+        "author": "parallel101",
+        "avatar": "https://github.com/parallel101.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/20640597",
+                "href": "https://github.com/archibate",
+                "username": "archibate"
+            }
+        ],
+        "currentPeriodStars": 47,
+        "description": "\u9ad8\u6027\u80fd\u5e76\u884c\u7f16\u7a0b\u4e0e\u4f18\u5316 - \u8bfe\u4ef6",
+        "forks": 29,
+        "fullname": "parallel101/course",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "name": "course",
+        "stars": 291,
+        "url": "https://github.com/parallel101/course"
+    },
+    {
+        "author": "i5ting",
+        "avatar": "https://github.com/i5ting.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3118295",
+                "href": "https://github.com/i5ting",
+                "username": "i5ting"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/17974631",
+                "href": "https://github.com/IWANABETHATGUY",
+                "username": "IWANABETHATGUY"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/29330847",
+                "href": "https://github.com/jsun969",
+                "username": "jsun969"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/15936231",
+                "href": "https://github.com/CGQAQ",
+                "username": "CGQAQ"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/17216317",
+                "href": "https://github.com/g-plane",
+                "username": "g-plane"
+            }
+        ],
+        "currentPeriodStars": 83,
+        "description": "Rust\u662f\u672a\u6765\u524d\u7aef\u57fa\u7840\u8bbe\u65bd",
+        "forks": 23,
+        "fullname": "i5ting/rust-fe",
+        "language": null,
+        "languageColor": null,
+        "name": "rust-fe",
+        "stars": 480,
+        "url": "https://github.com/i5ting/rust-fe"
+    },
+    {
+        "author": "justjavac",
+        "avatar": "https://github.com/justjavac.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/359395",
+                "href": "https://github.com/justjavac",
+                "username": "justjavac"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4161644",
+                "href": "https://github.com/spacewander",
+                "username": "spacewander"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3353639",
+                "href": "https://github.com/hacpai",
+                "username": "hacpai"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3365399",
+                "href": "https://github.com/hoosin",
+                "username": "hoosin"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5080126",
+                "href": "https://github.com/wizardforcel",
+                "username": "wizardforcel"
+            }
+        ],
+        "currentPeriodStars": 103,
+        "description": "\ud83d\udcda \u514d\u8d39\u7684\u8ba1\u7b97\u673a\u7f16\u7a0b\u7c7b\u4e2d\u6587\u4e66\u7c4d\uff0c\u6b22\u8fce\u6295\u7a3f",
+        "forks": 24459,
+        "fullname": "justjavac/free-programming-books-zh_CN",
+        "language": null,
+        "languageColor": null,
+        "name": "free-programming-books-zh_CN",
+        "stars": 85133,
+        "url": "https://github.com/justjavac/free-programming-books-zh_CN"
+    },
+    {
+        "author": "rolling-scopes-school",
+        "avatar": "https://github.com/rolling-scopes-school.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2429680",
+                "href": "https://github.com/dzmitry-varabei",
+                "username": "dzmitry-varabei"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/23195079",
+                "href": "https://github.com/irinainina",
+                "username": "irinainina"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/36152097",
+                "href": "https://github.com/sergeyshalyapin",
+                "username": "sergeyshalyapin"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/893650",
+                "href": "https://github.com/davojta",
+                "username": "davojta"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/16886406",
+                "href": "https://github.com/pavelrazuvalau",
+                "username": "pavelrazuvalau"
+            }
+        ],
+        "currentPeriodStars": 60,
+        "description": null,
+        "forks": 2978,
+        "fullname": "rolling-scopes-school/tasks",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "name": "tasks",
+        "stars": 1204,
+        "url": "https://github.com/rolling-scopes-school/tasks"
+    },
+    {
+        "author": "CyC2018",
+        "avatar": "https://github.com/CyC2018.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/36260787",
+                "href": "https://github.com/CyC2018",
+                "username": "CyC2018"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/22954582",
+                "href": "https://github.com/kwongtailau",
+                "username": "kwongtailau"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8375793",
+                "href": "https://github.com/linehk",
+                "username": "linehk"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/15684156",
+                "href": "https://github.com/crossoverJie",
+                "username": "crossoverJie"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/28261876",
+                "href": "https://github.com/Lisanaaa",
+                "username": "Lisanaaa"
+            }
+        ],
+        "currentPeriodStars": 94,
+        "description": "\ud83d\udcda \u6280\u672f\u9762\u8bd5\u5fc5\u5907\u57fa\u7840\u77e5\u8bc6\u3001Leetcode\u3001\u8ba1\u7b97\u673a\u64cd\u4f5c\u7cfb\u7edf\u3001\u8ba1\u7b97\u673a\u7f51\u7edc\u3001\u7cfb\u7edf\u8bbe\u8ba1",
+        "forks": 45737,
+        "fullname": "CyC2018/CS-Notes",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "name": "CS-Notes",
+        "stars": 143397,
+        "url": "https://github.com/CyC2018/CS-Notes"
+    },
+    {
+        "author": "Neo23x0",
+        "avatar": "https://github.com/Neo23x0.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2851492",
+                "href": "https://github.com/Neo23x0",
+                "username": "Neo23x0"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/23554038",
+                "href": "https://github.com/stephanGarland",
+                "username": "stephanGarland"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8117749",
+                "href": "https://github.com/JasonKeirstead",
+                "username": "JasonKeirstead"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/29152432",
+                "href": "https://github.com/m0n4",
+                "username": "m0n4"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2393177",
+                "href": "https://github.com/edspiner",
+                "username": "edspiner"
+            }
+        ],
+        "currentPeriodStars": 121,
+        "description": "Detector for Log4Shell exploitation attempts",
+        "forks": 95,
+        "fullname": "Neo23x0/log4shell-detector",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "log4shell-detector",
+        "stars": 579,
+        "url": "https://github.com/Neo23x0/log4shell-detector"
+    },
+    {
+        "author": "inconvergent",
+        "avatar": "https://github.com/inconvergent.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/404858",
+                "href": "https://github.com/inconvergent",
+                "username": "inconvergent"
+            }
+        ],
+        "currentPeriodStars": 169,
+        "description": "Generative art in Common Lisp",
+        "forks": 21,
+        "fullname": "inconvergent/weird",
+        "language": "Common Lisp",
+        "languageColor": "#3fb68b",
+        "name": "weird",
+        "stars": 950,
+        "url": "https://github.com/inconvergent/weird"
+    }
+]
