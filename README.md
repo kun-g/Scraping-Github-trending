@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [log4j-scan](https://github.com/fullhunt/log4j-scan) | A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228 |
+| [Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes) | ⚓ 我的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog。涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding. |
 | [Real-Time-Rendering-4th-Bibliography-Collection](https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection) | Real-Time Rendering 4th (RTR4) 参考文献合集典藏 | Collection of <Real-Time Rendering 4th (RTR4)> Bibliography / Reference |
-| [CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner) | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 |
+| [lunasec](https://github.com/lunasec-io/lunasec) | LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and RCE. Try it out live here: https://app.lunasec.dev |
+| [log4j-finder](https://github.com/fox-it/log4j-finder) | Find vulnerable Log4j2 versions on disk and also inside Java Archive Files (Log4Shell CVE-2021-44228 & CVE-2021-45046) |
+| [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 📚 免费的计算机编程类中文书籍，欢迎投稿 |
 | [log4shell](https://github.com/NCSC-NL/log4shell) | Operational information regarding the vulnerability in the Log4j logging library. |
-| [log4j-detector](https://github.com/mergebase/log4j-detector) | Detects vulnerable log4j versions on your file-system within any application. It is able to even find instances that are hidden several layers deep. Works on Linux, Windows, and Mac, and everywhere else Java runs, too! |
-| [log4j-shell-poc](https://github.com/kozmer/log4j-shell-poc) | A Proof-Of-Concept for the recently found CVE-2021-44228 vulnerability. |
-| [local-log4j-vuln-scanner](https://github.com/hillu/local-log4j-vuln-scanner) | Simple local scanner for vulnerable log4j instances |
-| [spl-zk-token](https://github.com/solana-labs/spl-zk-token) | SPL Confidential Token |
-| [pOOBs4](https://github.com/ChendoChap/pOOBs4) | None |
-| [log4jpwn](https://github.com/leonjza/log4jpwn) | log4j rce test environment and poc |
+| [SuperSimple2DKit](https://github.com/atmosgames/SuperSimple2DKit) | A simple kit meant to help jump start the creation of your 2D Unity game! |
+| [medusa](https://github.com/medusajs/medusa) | The open-source Shopify alternative ⚡️ |
+| [log4j-affected-db](https://github.com/cisagov/log4j-affected-db) | None |
+| [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) | 计算机自学指南 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
