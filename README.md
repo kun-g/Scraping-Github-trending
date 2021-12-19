@@ -25,16 +25,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Roadmap to becoming a developer in 2021 |
-| [ja-netfilter](https://github.com/ja-netfilter/ja-netfilter) | A javaagent framework |
 | [GFPGAN](https://github.com/TencentARC/GFPGAN) | GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration. |
-| [oot](https://github.com/zeldaret/oot) | Decompilation of The Legend of Zelda: Ocarina of Time |
-| [FerretDB](https://github.com/FerretDB/FerretDB) | A truly Open Source MongoDB alternative |
-| [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
-| [leetcode](https://github.com/doocs/leetcode) | 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解 |
+| [logging-log4j2](https://github.com/apache/logging-log4j2) | Apache Log4j 2 is an upgrade to Log4j that provides significant improvements over its predecessor, Log4j 1.x, and provides many of the improvements available in Logback while fixing some inherent problems in Logback's architecture. |
+| [marshalsec](https://github.com/mbechler/marshalsec) | None |
 | [tabby](https://github.com/Eugeny/tabby) | A terminal for a more modern age (formerly Terminus) |
-| [appsmith](https://github.com/appsmithorg/appsmith) | Low code project to build any custom business software like admin panels, internal tools, and dashboards. Use 35+ pre-built UI widgets that connect to any database, GraphQL or REST API. Write all logic in Javascript. |
-| [MockingBird](https://github.com/babysor/MockingBird) | 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time |
+| [perf-book](https://github.com/dendibakh/perf-book) | The book "Performance Analysis and Tuning on Modern CPU" |
+| [filament](https://github.com/laravel-filament/filament) | A collection of tools for rapidly building beautiful TALL stack interfaces, designed for humans. |
+| [WantWords](https://github.com/thunlp/WantWords) | An open-source online reverse dictionary. |
+| [helix](https://github.com/helix-editor/helix) | A post-modern modal text editor. |
+| [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 📚 免费的计算机编程类中文书籍，欢迎投稿 |
+| [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) | 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
