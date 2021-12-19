@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [CVE-2021-44228_scanner](https://github.com/CERTCC/CVE-2021-44228_scanner) | Scanners for Jar files that may be vulnerable to CVE-2021-44228 |
+| [Signal-Calling-Service](https://github.com/signalapp/Signal-Calling-Service) | Forwards media from 1 group call device to N group call devices. |
+| [Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) | A Neovim config designed from scratch to be understandable |
+| [btop](https://github.com/aristocratos/btop) | A monitor of resources |
 | [log4j-shell-poc](https://github.com/kozmer/log4j-shell-poc) | A Proof-Of-Concept for the recently found CVE-2021-44228 vulnerability. |
-| [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) | 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University |
-| [rails](https://github.com/rails/rails) | Ruby on Rails |
-| [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites |
-| [log4j-affected-db](https://github.com/cisagov/log4j-affected-db) | A community sourced list of log4j-affected software |
-| [mold](https://github.com/rui314/mold) | mold: A Modern Linker |
-| [pico](https://github.com/picocss/pico) | Minimal CSS Framework for semantic HTML |
-| [Real-Time-Rendering-4th-Bibliography-Collection](https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection) | Real-Time Rendering 4th (RTR4) 参考文献合集典藏 | Collection of <Real-Time Rendering 4th (RTR4)> Bibliography / Reference |
 | [Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes) | ⚓ 我的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog。涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding. |
-| [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 📚 免费的计算机编程类中文书籍，欢迎投稿 |
+| [log4jScanner](https://github.com/proferosec/log4jScanner) | None |
+| [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) | 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University |
+| [guava](https://github.com/google/guava) | Google core libraries for Java |
+| [fastapi](https://github.com/tiangolo/fastapi) | FastAPI framework, high performance, easy to learn, fast to code, ready for production |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10

@@ -1,0 +1,294 @@
+[
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/393243",
+        "name": "Anton Babenko",
+        "repo": {
+            "description": "pre-commit git hooks to take care of Terraform configurations",
+            "name": "pre-commit-terraform",
+            "url": "https://github.com/antonbabenko/pre-commit-terraform"
+        },
+        "sponsorUrl": "https://github.com/sponsors/antonbabenko",
+        "url": "https://github.com/antonbabenko",
+        "username": "antonbabenko"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/4060",
+        "name": "Fernand Galiana",
+        "repo": {
+            "description": "\ud83d\udc36 Kubernetes CLI To Manage Your Clusters In Style!",
+            "name": "k9s",
+            "url": "https://github.com/derailed/k9s"
+        },
+        "sponsorUrl": "https://github.com/sponsors/derailed",
+        "url": "https://github.com/derailed",
+        "username": "derailed"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2946214",
+        "name": "Joe Chen",
+        "repo": {
+            "description": "\u300aThe Way to Go\u300b\u4e2d\u6587\u8bd1\u672c\uff0c\u4e2d\u6587\u6b63\u5f0f\u540d\u300aGo \u5165\u95e8\u6307\u5357\u300b",
+            "name": "the-way-to-go_ZH_CN",
+            "url": "https://github.com/unknwon/the-way-to-go_ZH_CN"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/unknwon",
+        "username": "unknwon"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/590471",
+        "name": "Alex Goodman",
+        "repo": {
+            "description": "A tool for exploring each layer in a docker image",
+            "name": "dive",
+            "url": "https://github.com/wagoodman/dive"
+        },
+        "sponsorUrl": "https://github.com/sponsors/wagoodman",
+        "url": "https://github.com/wagoodman",
+        "username": "wagoodman"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/15965696",
+        "name": "kezhenxu94",
+        "repo": {
+            "description": "Possibly the best practice of Scrapy \ud83d\udd77 and renting a house \ud83c\udfe1",
+            "name": "house-renting",
+            "url": "https://github.com/kezhenxu94/house-renting"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/kezhenxu94",
+        "username": "kezhenxu94"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/17802178",
+        "name": "Georgios Konstantopoulos",
+        "repo": {
+            "description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
+            "name": "foundry",
+            "url": "https://github.com/gakonst/foundry"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/gakonst",
+        "username": "gakonst"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/15034943",
+        "name": "Zachary Rice",
+        "repo": {
+            "description": "Scan git repos (or files) for secrets using regex and entropy \ud83d\udd11",
+            "name": "gitleaks",
+            "url": "https://github.com/zricethezav/gitleaks"
+        },
+        "sponsorUrl": "https://github.com/sponsors/zricethezav",
+        "url": "https://github.com/zricethezav",
+        "username": "zricethezav"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/14944147",
+        "name": "Steve Macenski",
+        "repo": {
+            "description": "Slam Toolbox for lifelong mapping and localization in potentially massive maps with ROS",
+            "name": "slam_toolbox",
+            "url": "https://github.com/SteveMacenski/slam_toolbox"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/SteveMacenski",
+        "username": "SteveMacenski"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/17530",
+        "name": "Asim Aslam",
+        "repo": {
+            "description": "A pluggable Go framework for distributed systems development",
+            "name": "go-micro",
+            "url": "https://github.com/asim/go-micro"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/asim",
+        "username": "asim"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/406394",
+        "name": "Evan Wallace",
+        "repo": {
+            "description": "An extremely fast JavaScript and CSS bundler and minifier",
+            "name": "esbuild",
+            "url": "https://github.com/evanw/esbuild"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/evanw",
+        "username": "evanw"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/973543",
+        "name": "Gajus Kuizinas",
+        "repo": {
+            "description": "The most comprehensive ES code style guide.",
+            "name": "eslint-config-canonical",
+            "url": "https://github.com/gajus/eslint-config-canonical"
+        },
+        "sponsorUrl": "https://github.com/sponsors/gajus",
+        "url": "https://github.com/gajus",
+        "username": "gajus"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2796466",
+        "name": "Eliza Weisman",
+        "repo": {
+            "description": "in-place allocation-reusing queues for Rust",
+            "name": "thingbuf",
+            "url": "https://github.com/hawkw/thingbuf"
+        },
+        "sponsorUrl": "https://github.com/sponsors/hawkw",
+        "url": "https://github.com/hawkw",
+        "username": "hawkw"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/36073",
+        "name": "John Lindquist",
+        "repo": {
+            "description": "Script Kit. Automate Anything.",
+            "name": "kit",
+            "url": "https://github.com/johnlindquist/kit"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/johnlindquist",
+        "username": "johnlindquist"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/9141017",
+        "name": "Rijk van Zanten",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/rijkvanzanten",
+        "username": "rijkvanzanten"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2231765",
+        "name": "Robert Mosolgo",
+        "repo": {
+            "description": "Ruby implementation of GraphQL",
+            "name": "graphql-ruby",
+            "url": "https://github.com/rmosolgo/graphql-ruby"
+        },
+        "sponsorUrl": "https://github.com/sponsors/rmosolgo",
+        "url": "https://github.com/rmosolgo",
+        "username": "rmosolgo"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/122434",
+        "name": "Mariusz Nowak",
+        "repo": {
+            "description": "Complete memoize/cache solution for JavaScript",
+            "name": "memoizee",
+            "url": "https://github.com/medikoo/memoizee"
+        },
+        "sponsorUrl": "https://github.com/sponsors/medikoo",
+        "url": "https://github.com/medikoo",
+        "username": "medikoo"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1944093",
+        "name": "Casey Davenport",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/caseydavenport",
+        "username": "caseydavenport"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1162160",
+        "name": "Rich Harris",
+        "repo": {
+            "description": "Straightforward project scaffolding",
+            "name": "degit",
+            "url": "https://github.com/Rich-Harris/degit"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/Rich-Harris",
+        "username": "Rich-Harris"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/82342",
+        "name": "R.I.Pienaar",
+        "repo": {
+            "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+            "name": "free-for-dev",
+            "url": "https://github.com/ripienaar/free-for-dev"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/ripienaar",
+        "username": "ripienaar"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/245435",
+        "name": "Carlos Alexandro Becker",
+        "repo": {
+            "description": "Simple lib to parse environment variables to structs",
+            "name": "env",
+            "url": "https://github.com/caarlos0/env"
+        },
+        "sponsorUrl": "https://github.com/sponsors/caarlos0",
+        "url": "https://github.com/caarlos0",
+        "username": "caarlos0"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1571086",
+        "name": "Shivam Mathur",
+        "repo": {
+            "description": "\ud83c\udf7a Homebrew tap for PHP 5.6 to 8.2. PHP 8.2 is a nightly build.",
+            "name": "homebrew-php",
+            "url": "https://github.com/shivammathur/homebrew-php"
+        },
+        "sponsorUrl": "https://github.com/sponsors/shivammathur",
+        "url": "https://github.com/shivammathur",
+        "username": "shivammathur"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/5180488",
+        "name": "Chocobozzz",
+        "repo": {
+            "description": "ActivityPub-federated video streaming platform using P2P directly in your web browser",
+            "name": "PeerTube",
+            "url": "https://github.com/Chocobozzz/PeerTube"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/Chocobozzz",
+        "username": "Chocobozzz"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/665810",
+        "name": "Alex Potsides",
+        "repo": {
+            "description": "A collection of utilities for making working with iterables more bearable",
+            "name": "it",
+            "url": "https://github.com/achingbrain/it"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/achingbrain",
+        "username": "achingbrain"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/74385",
+        "name": "Rico Sta. Cruz",
+        "repo": {
+            "description": "My cheatsheets",
+            "name": "cheatsheets",
+            "url": "https://github.com/rstacruz/cheatsheets"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/rstacruz",
+        "username": "rstacruz"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/658",
+        "name": "Stephen Celis",
+        "repo": {
+            "description": "A type-safe, Swift-language layer over SQLite3.",
+            "name": "SQLite.swift",
+            "url": "https://github.com/stephencelis/SQLite.swift"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/stephencelis",
+        "username": "stephencelis"
+    }
+]
