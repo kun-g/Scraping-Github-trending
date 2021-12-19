@@ -19,14 +19,14 @@
                 "username": "jskiba99"
             }
         ],
-        "currentPeriodStars": 40,
+        "currentPeriodStars": 39,
         "description": "Scanners for Jar files that may be vulnerable to CVE-2021-44228",
         "forks": 32,
         "fullname": "CERTCC/CVE-2021-44228_scanner",
         "language": "PowerShell",
         "languageColor": "#012456",
         "name": "CVE-2021-44228_scanner",
-        "stars": 126,
+        "stars": 131,
         "url": "https://github.com/CERTCC/CVE-2021-44228_scanner"
     },
     {
@@ -54,14 +54,14 @@
                 "username": "alan-signal"
             }
         ],
-        "currentPeriodStars": 45,
+        "currentPeriodStars": 53,
         "description": "Forwards media from 1 group call device to N group call devices.",
         "forks": 15,
         "fullname": "signalapp/Signal-Calling-Service",
         "language": "Rust",
         "languageColor": "#dea584",
         "name": "Signal-Calling-Service",
-        "stars": 221,
+        "stars": 232,
         "url": "https://github.com/signalapp/Signal-Calling-Service"
     },
     {
@@ -74,14 +74,14 @@
                 "username": "ChristianChiarulli"
             }
         ],
-        "currentPeriodStars": 102,
+        "currentPeriodStars": 100,
         "description": "A Neovim config designed from scratch to be understandable",
         "forks": 22,
         "fullname": "LunarVim/Neovim-from-scratch",
         "language": "Lua",
         "languageColor": "#000080",
         "name": "Neovim-from-scratch",
-        "stars": 232,
+        "stars": 239,
         "url": "https://github.com/LunarVim/Neovim-from-scratch"
     },
     {
@@ -114,14 +114,14 @@
                 "username": "adnanpri"
             }
         ],
-        "currentPeriodStars": 171,
+        "currentPeriodStars": 198,
         "description": "A monitor of resources",
         "forks": 177,
         "fullname": "aristocratos/btop",
         "language": "C++",
         "languageColor": "#f34b7d",
         "name": "btop",
-        "stars": 5372,
+        "stars": 5399,
         "url": "https://github.com/aristocratos/btop"
     },
     {
@@ -132,6 +132,11 @@
                 "avatar": "https://avatars.githubusercontent.com/u/87979263",
                 "href": "https://github.com/kozmer",
                 "username": "kozmer"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/221359",
+                "href": "https://github.com/giannitedesco",
+                "username": "giannitedesco"
             },
             {
                 "avatar": "https://avatars.githubusercontent.com/u/46561460",
@@ -149,14 +154,14 @@
                 "username": "dolby360"
             }
         ],
-        "currentPeriodStars": 114,
+        "currentPeriodStars": 99,
         "description": "A Proof-Of-Concept for the recently found CVE-2021-44228 vulnerability.",
-        "forks": 140,
+        "forks": 143,
         "fullname": "kozmer/log4j-shell-poc",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "log4j-shell-poc",
-        "stars": 644,
+        "stars": 651,
         "url": "https://github.com/kozmer/log4j-shell-poc"
     },
     {
@@ -184,14 +189,14 @@
                 "username": "ajun007"
             }
         ],
-        "currentPeriodStars": 178,
+        "currentPeriodStars": 177,
         "description": "\u2693 \u6211\u7684\u6e38\u620f\u7a0b\u5e8f\u5458\u751f\u6daf\u7684\u8bfb\u4e66\u7b14\u8bb0\u5408\u8f91\u3002\u4f60\u53ef\u4ee5\u628a\u5b83\u770b\u4f5c\u4e00\u4e2a\u52a0\u5f3a\u7248\u7684Blog\u3002\u6d89\u53ca\u56fe\u5f62\u5b66\u3001\u5b9e\u65f6\u6e32\u67d3\u3001\u7f16\u7a0b\u5b9e\u8df5\u3001GPU\u7f16\u7a0b\u3001\u8bbe\u8ba1\u6a21\u5f0f\u3001\u8f6f\u4ef6\u5de5\u7a0b\u7b49\u5185\u5bb9\u3002Keep Reading , Keep Writing , Keep Coding.",
-        "forks": 1123,
+        "forks": 1125,
         "fullname": "QianMo/Game-Programmer-Study-Notes",
         "language": null,
         "languageColor": null,
         "name": "Game-Programmer-Study-Notes",
-        "stars": 5962,
+        "stars": 5967,
         "url": "https://github.com/QianMo/Game-Programmer-Study-Notes"
     },
     {
@@ -224,14 +229,14 @@
                 "username": "xFreed0m"
             }
         ],
-        "currentPeriodStars": 35,
+        "currentPeriodStars": 36,
         "description": null,
         "forks": 10,
         "fullname": "proferosec/log4jScanner",
         "language": "Go",
         "languageColor": "#00ADD8",
         "name": "log4jScanner",
-        "stars": 141,
+        "stars": 144,
         "url": "https://github.com/proferosec/log4jScanner"
     },
     {
@@ -264,14 +269,14 @@
                 "username": "RecursionSheep"
             }
         ],
-        "currentPeriodStars": 189,
+        "currentPeriodStars": 193,
         "description": "\u6e05\u534e\u5927\u5b66\u8ba1\u7b97\u673a\u7cfb\u8bfe\u7a0b\u653b\u7565 Guidance for courses in Department of Computer Science and Technology, Tsinghua University",
-        "forks": 5582,
+        "forks": 5583,
         "fullname": "PKUanonym/REKCARC-TSC-UHT",
         "language": "HTML",
         "languageColor": "#e34c26",
         "name": "REKCARC-TSC-UHT",
-        "stars": 20390,
+        "stars": 20398,
         "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT"
     },
     {
@@ -304,14 +309,14 @@
                 "username": "Bezier89"
             }
         ],
-        "currentPeriodStars": 31,
+        "currentPeriodStars": 32,
         "description": "Google core libraries for Java",
         "forks": 9589,
         "fullname": "google/guava",
         "language": "Java",
         "languageColor": "#b07219",
         "name": "guava",
-        "stars": 43143,
+        "stars": 43144,
         "url": "https://github.com/google/guava"
     },
     {
@@ -344,14 +349,14 @@
                 "username": "euri10"
             }
         ],
-        "currentPeriodStars": 114,
+        "currentPeriodStars": 135,
         "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
         "forks": 2935,
         "fullname": "tiangolo/fastapi",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "fastapi",
-        "stars": 39577,
+        "stars": 39591,
         "url": "https://github.com/tiangolo/fastapi"
     },
     {
@@ -384,14 +389,14 @@
                 "username": "yan12125"
             }
         ],
-        "currentPeriodStars": 139,
+        "currentPeriodStars": 143,
         "description": "Command-line program to download videos from YouTube.com and other video sites",
-        "forks": 6573,
+        "forks": 6574,
         "fullname": "ytdl-org/youtube-dl",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "youtube-dl",
-        "stars": 103523,
+        "stars": 103532,
         "url": "https://github.com/ytdl-org/youtube-dl"
     },
     {
@@ -424,14 +429,14 @@
                 "username": "felddy"
             }
         ],
-        "currentPeriodStars": 93,
+        "currentPeriodStars": 69,
         "description": "A community sourced list of log4j-affected software",
-        "forks": 116,
+        "forks": 117,
         "fullname": "cisagov/log4j-affected-db",
         "language": null,
         "languageColor": null,
         "name": "log4j-affected-db",
-        "stars": 700,
+        "stars": 701,
         "url": "https://github.com/cisagov/log4j-affected-db"
     },
     {
@@ -466,12 +471,12 @@
         ],
         "currentPeriodStars": 65,
         "description": "\ud83d\udcda \u514d\u8d39\u7684\u8ba1\u7b97\u673a\u7f16\u7a0b\u7c7b\u4e2d\u6587\u4e66\u7c4d\uff0c\u6b22\u8fce\u6295\u7a3f",
-        "forks": 24542,
+        "forks": 24543,
         "fullname": "justjavac/free-programming-books-zh_CN",
         "language": null,
         "languageColor": null,
         "name": "free-programming-books-zh_CN",
-        "stars": 85490,
+        "stars": 85494,
         "url": "https://github.com/justjavac/free-programming-books-zh_CN"
     },
     {
@@ -491,7 +496,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "log4j-tools",
-        "stars": 110,
+        "stars": 111,
         "url": "https://github.com/jfrog/log4j-tools"
     },
     {
@@ -511,7 +516,7 @@
         "language": "C++",
         "languageColor": "#f34b7d",
         "name": "mediapipe",
-        "stars": 15324,
+        "stars": 15333,
         "url": "https://github.com/google/mediapipe"
     },
     {
@@ -544,14 +549,14 @@
                 "username": "selbekk"
             }
         ],
-        "currentPeriodStars": 59,
+        "currentPeriodStars": 67,
         "description": "Set up a modern web app by running one command.",
         "forks": 23403,
         "fullname": "facebook/create-react-app",
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "create-react-app",
-        "stars": 92259,
+        "stars": 92271,
         "url": "https://github.com/facebook/create-react-app"
     },
     {
@@ -584,14 +589,14 @@
                 "username": "KrisJanssen"
             }
         ],
-        "currentPeriodStars": 47,
+        "currentPeriodStars": 43,
         "description": "Find vulnerable Log4j2 versions on disk and also inside Java Archive Files (Log4Shell CVE-2021-44228, CVE-2021-45046, CVE-2021-45105)",
-        "forks": 43,
+        "forks": 44,
         "fullname": "fox-it/log4j-finder",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "log4j-finder",
-        "stars": 256,
+        "stars": 258,
         "url": "https://github.com/fox-it/log4j-finder"
     },
     {
@@ -624,14 +629,14 @@
                 "username": "euclideanrn"
             }
         ],
-        "currentPeriodStars": 23,
+        "currentPeriodStars": 31,
         "description": "\ud83e\udd64 COLA: Clean Object-oriented & Layered Architecture",
         "forks": 1689,
         "fullname": "alibaba/COLA",
         "language": "Java",
         "languageColor": "#b07219",
         "name": "COLA",
-        "stars": 6162,
+        "stars": 6168,
         "url": "https://github.com/alibaba/COLA"
     },
     {
@@ -664,14 +669,14 @@
                 "username": "dong77"
             }
         ],
-        "currentPeriodStars": 39,
+        "currentPeriodStars": 41,
         "description": "Web application version 2, update new UI design.",
         "forks": 19,
         "fullname": "Loopring/loopring-web-v2",
         "language": "TypeScript",
         "languageColor": "#2b7489",
         "name": "loopring-web-v2",
-        "stars": 96,
+        "stars": 103,
         "url": "https://github.com/Loopring/loopring-web-v2"
     },
     {
@@ -704,14 +709,14 @@
                 "username": "zackgao"
             }
         ],
-        "currentPeriodStars": 69,
+        "currentPeriodStars": 73,
         "description": "A book series on JavaScript. @YDKJS on twitter.",
         "forks": 29325,
         "fullname": "getify/You-Dont-Know-JS",
         "language": null,
         "languageColor": null,
         "name": "You-Dont-Know-JS",
-        "stars": 147443,
+        "stars": 147449,
         "url": "https://github.com/getify/You-Dont-Know-JS"
     },
     {
@@ -744,14 +749,14 @@
                 "username": "realLiangshiwei"
             }
         ],
-        "currentPeriodStars": 49,
+        "currentPeriodStars": 57,
         "description": "Open Source Web Application Framework for ASP.NET Core",
         "forks": 2259,
         "fullname": "abpframework/abp",
         "language": "C#",
         "languageColor": "#178600",
         "name": "abp",
-        "stars": 7206,
+        "stars": 7214,
         "url": "https://github.com/abpframework/abp"
     },
     {
@@ -784,14 +789,14 @@
                 "username": "erikm-icario"
             }
         ],
-        "currentPeriodStars": 81,
+        "currentPeriodStars": 92,
         "description": "\ud83d\udca5 Serverless Stack (SST) is a framework that makes it easy to build serverless apps. Set breakpoints and test your functions locally.",
         "forks": 209,
         "fullname": "serverless-stack/serverless-stack",
         "language": "TypeScript",
         "languageColor": "#2b7489",
         "name": "serverless-stack",
-        "stars": 3788,
+        "stars": 3804,
         "url": "https://github.com/serverless-stack/serverless-stack"
     },
     {
@@ -824,14 +829,14 @@
                 "username": "dummdidumm"
             }
         ],
-        "currentPeriodStars": 111,
+        "currentPeriodStars": 123,
         "description": "Cybernetically enhanced web apps",
         "forks": 2581,
         "fullname": "sveltejs/svelte",
         "language": "TypeScript",
         "languageColor": "#2b7489",
         "name": "svelte",
-        "stars": 53863,
+        "stars": 53873,
         "url": "https://github.com/sveltejs/svelte"
     },
     {
@@ -864,14 +869,14 @@
                 "username": "cg2121"
             }
         ],
-        "currentPeriodStars": 103,
+        "currentPeriodStars": 183,
         "description": "OBS Studio - Free and open source software for live streaming and screen recording",
         "forks": 5425,
         "fullname": "obsproject/obs-studio",
         "language": "C",
         "languageColor": "#555555",
         "name": "obs-studio",
-        "stars": 34095,
+        "stars": 34121,
         "url": "https://github.com/obsproject/obs-studio"
     },
     {
@@ -884,14 +889,14 @@
                 "username": "niubiqigai"
             }
         ],
-        "currentPeriodStars": 12,
+        "currentPeriodStars": 14,
         "description": "\u4f7f\u7528python\u7684turtle\u753b\u6a31\u82b1\u6811\uff0c\u73ab\u7470\uff0c\u5723\u8bde\u6811\uff0c\u5c0f\u732a\u4f69\u5947\uff0c\u86cb\u7cd5\uff0c\u5c0f\u9ec4\u4eba\uff0c\u8d2a\u5403\u86c7\u6e38\u620f61\u884c\u4ee3\u7801",
         "forks": 65,
         "fullname": "niubiqigai/turtle",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "turtle",
-        "stars": 53,
+        "stars": 54,
         "url": "https://github.com/niubiqigai/turtle"
     }
 ]
