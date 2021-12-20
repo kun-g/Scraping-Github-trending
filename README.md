@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [CVE-2021-44228_scanner](https://github.com/CERTCC/CVE-2021-44228_scanner) | Scanners for Jar files that may be vulnerable to CVE-2021-44228 |
-| [Signal-Calling-Service](https://github.com/signalapp/Signal-Calling-Service) | Forwards media from 1 group call device to N group call devices. |
-| [Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) | A Neovim config designed from scratch to be understandable |
-| [btop](https://github.com/aristocratos/btop) | A monitor of resources |
+| [react-native-skia](https://github.com/Shopify/react-native-skia) | High-performance React Native Graphics using Skia |
 | [log4j-shell-poc](https://github.com/kozmer/log4j-shell-poc) | A Proof-Of-Concept for the recently found CVE-2021-44228 vulnerability. |
-| [Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes) | ⚓ 我的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog。涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding. |
 | [log4jScanner](https://github.com/proferosec/log4jScanner) | None |
-| [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) | 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University |
-| [guava](https://github.com/google/guava) | Google core libraries for Java |
-| [fastapi](https://github.com/tiangolo/fastapi) | FastAPI framework, high performance, easy to learn, fast to code, ready for production |
+| [CVE-2021-44228_scanner](https://github.com/CERTCC/CVE-2021-44228_scanner) | Scanners for Jar files that may be vulnerable to CVE-2021-44228 |
+| [bitburner](https://github.com/danielyxie/bitburner) | Bitburner Game |
+| [docs](https://github.com/github/docs) | The open-source repo for docs.github.com |
+| [joplin](https://github.com/laurent22/joplin) | Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/ |
+| [Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) | A Neovim config designed from scratch to be understandable |
+| [Intro-to-Vue-3](https://github.com/Code-Pop/Intro-to-Vue-3) | Code for Vue Mastery's Intro to Vue 3 course: |
+| [epicgames-freebies-claimer](https://github.com/Revadike/epicgames-freebies-claimer) | Claim available free game promotions from the Epic Games Store. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
