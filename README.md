@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) | A Neovim config designed from scratch to be understandable |
-| [EIPs](https://github.com/ethereum/EIPs) | The Ethereum Improvement Proposal repository |
-| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A youtube-dl fork with additional features and fixes |
-| [react-native-skia](https://github.com/Shopify/react-native-skia) | High-performance React Native Graphics using Skia |
-| [Marlin](https://github.com/MarlinFirmware/Marlin) | Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine. |
-| [docs](https://github.com/github/docs) | The open-source repo for docs.github.com |
-| [epicgames-freebies-claimer](https://github.com/Revadike/epicgames-freebies-claimer) | Claim available free game promotions from the Epic Games Store. |
+| [spider-flow](https://github.com/ssssssss-team/spider-flow) | 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。 |
 | [fuite](https://github.com/nolanlawson/fuite) | A tool for finding memory leaks in web apps |
+| [log4jScanner](https://github.com/proferosec/log4jScanner) | None |
+| [dootask](https://github.com/kuaifan/dootask) | DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。 |
 | [bitburner](https://github.com/danielyxie/bitburner) | Bitburner Game |
-| [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) | Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration. |
+| [immudb](https://github.com/codenotary/immudb) | immudb - world’s fastest immutable database, built on a zero trust model |
+| [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | 🇨🇳 GitHub中文排行榜，分离中文/英文、软件/资料项目，精准挖掘优秀中文项目，高效吸收优秀经验。 Brother project: 「GitHub English Top Charts」https://github.com/kon9chunkit/GitHub-English-Top-Charts |
+| [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk) | 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码 |
+| [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. |
+| [react-native-skia](https://github.com/Shopify/react-native-skia) | High-performance React Native Graphics using Skia |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
