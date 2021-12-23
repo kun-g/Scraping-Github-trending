@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [spider-flow](https://github.com/ssssssss-team/spider-flow) | 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。 |
-| [fuite](https://github.com/nolanlawson/fuite) | A tool for finding memory leaks in web apps |
-| [log4jScanner](https://github.com/proferosec/log4jScanner) | None |
-| [dootask](https://github.com/kuaifan/dootask) | DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。 |
-| [bitburner](https://github.com/danielyxie/bitburner) | Bitburner Game |
+| [freqtrade](https://github.com/freqtrade/freqtrade) | Free, open source crypto trading bot |
 | [immudb](https://github.com/codenotary/immudb) | immudb - world’s fastest immutable database, built on a zero trust model |
-| [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | 🇨🇳 GitHub中文排行榜，设立各语言 软件 / 资料 项目榜单，让大家精准发现各自所需的中文好项目。 |
-| [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk) | 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码 |
-| [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. |
-| [react-native-skia](https://github.com/Shopify/react-native-skia) | High-performance React Native Graphics using Skia |
+| [btrace](https://github.com/bytedance/btrace) | 🔥🔥 btrace(AKA RheaTrace) is a high performance Android trace tool which is based on Systrace, it support to define custom events automatically during building apk and using bhook to provider more native events like IO. |
+| [EIPs](https://github.com/ethereum/EIPs) | The Ethereum Improvement Proposal repository |
+| [googletest](https://github.com/google/googletest) | GoogleTest - Google Testing and Mocking Framework |
+| [vitest](https://github.com/vitest-dev/vitest) | A Vite-native test framework. It's fast! |
+| [kajiya](https://github.com/EmbarkStudios/kajiya) | 💡 Experimental real-time global illumination renderer 🦀 |
+| [RedisJSON](https://github.com/RedisJSON/RedisJSON) | RedisJSON - a JSON data type for Redis |
+| [prisma](https://github.com/prisma/prisma) | Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite & MongoDB (Preview) |
+| [Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) | A Neovim config designed from scratch to be understandable |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
