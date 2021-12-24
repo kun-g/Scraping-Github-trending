@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [freqtrade](https://github.com/freqtrade/freqtrade) | Free, open source crypto trading bot |
+| [marktext](https://github.com/marktext/marktext) | 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. |
+| [Mindustry](https://github.com/Anuken/Mindustry) | The automation tower defense game |
+| [qoi](https://github.com/phoboslab/qoi) | The “Quite OK Image Format” for fast, lossless image compression |
+| [ddia](https://github.com/Vonng/ddia) | 《Designing Data-Intensive Application》DDIA中文翻译 |
+| [spider-flow](https://github.com/ssssssss-team/spider-flow) | 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。 |
+| [dootask](https://github.com/kuaifan/dootask) | DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。 |
 | [immudb](https://github.com/codenotary/immudb) | immudb - world’s fastest immutable database, built on a zero trust model |
-| [btrace](https://github.com/bytedance/btrace) | 🔥🔥 btrace(AKA RheaTrace) is a high performance Android trace tool which is based on Systrace, it support to define custom events automatically during building apk and using bhook to provider more native events like IO. |
-| [EIPs](https://github.com/ethereum/EIPs) | The Ethereum Improvement Proposal repository |
-| [googletest](https://github.com/google/googletest) | GoogleTest - Google Testing and Mocking Framework |
-| [vitest](https://github.com/vitest-dev/vitest) | A Vite-native test framework. It's fast! |
-| [kajiya](https://github.com/EmbarkStudios/kajiya) | 💡 Experimental real-time global illumination renderer 🦀 |
-| [RedisJSON](https://github.com/RedisJSON/RedisJSON) | RedisJSON - a JSON data type for Redis |
-| [prisma](https://github.com/prisma/prisma) | Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite & MongoDB (Preview) |
-| [Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) | A Neovim config designed from scratch to be understandable |
+| [freqtrade](https://github.com/freqtrade/freqtrade) | Free, open source crypto trading bot |
+| [unit](https://github.com/samuelmtimbo/unit) | Next Generation Visual Programming Platform |
+| [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | 🇨🇳 GitHub中文排行榜，各语言分离设置「软件 / 资料」榜单，精准定位中文好项目。各取所需，互不干扰。 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
