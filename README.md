@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [marktext](https://github.com/marktext/marktext) | 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. |
-| [Mindustry](https://github.com/Anuken/Mindustry) | The automation tower defense game |
-| [qoi](https://github.com/phoboslab/qoi) | The “Quite OK Image Format” for fast, lossless image compression |
-| [ddia](https://github.com/Vonng/ddia) | 《Designing Data-Intensive Application》DDIA中文翻译 |
-| [spider-flow](https://github.com/ssssssss-team/spider-flow) | 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。 |
-| [dootask](https://github.com/kuaifan/dootask) | DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。 |
+| [log4j-scanner](https://github.com/cisagov/log4j-scanner) | log4j-scanner is a project derived from other members of the open-source community by CISA to help organizations identify potentially vulnerable web services affected by the log4j vulnerabilities. |
+| [javascript](https://github.com/airbnb/javascript) | JavaScript Style Guide |
 | [immudb](https://github.com/codenotary/immudb) | immudb - world’s fastest immutable database, built on a zero trust model |
+| [ddia](https://github.com/Vonng/ddia) | 《Designing Data-Intensive Application》DDIA中文翻译 |
+| [fq](https://github.com/wader/fq) | jq for binary formats |
+| [tdesign](https://github.com/Tencent/tdesign) | Enterprise Design System |
+| [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | A collection of (mostly) technical things every software developer should know about |
 | [freqtrade](https://github.com/freqtrade/freqtrade) | Free, open source crypto trading bot |
-| [unit](https://github.com/samuelmtimbo/unit) | Next Generation Visual Programming Platform |
 | [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | 🇨🇳 GitHub中文排行榜，各语言分离设置「软件 / 资料」榜单，精准定位中文好项目。各取所需，互不干扰。 |
+| [kajiya](https://github.com/EmbarkStudios/kajiya) | 💡 Experimental real-time global illumination renderer 🦀 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
