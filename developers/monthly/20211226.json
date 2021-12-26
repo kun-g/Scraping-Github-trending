@@ -1,0 +1,302 @@
+[
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2492783",
+        "name": "Jan De Dobbeleer",
+        "repo": {
+            "description": "A prompt theme engine for any shell.",
+            "name": "oh-my-posh",
+            "url": "https://github.com/JanDeDobbeleer/oh-my-posh"
+        },
+        "sponsorUrl": "https://github.com/sponsors/JanDeDobbeleer",
+        "url": "https://github.com/JanDeDobbeleer",
+        "username": "JanDeDobbeleer"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/408570",
+        "name": "Seth Vargo",
+        "repo": {
+            "description": "Go library for retrying with configurable backoffs",
+            "name": "go-retry",
+            "url": "https://github.com/sethvargo/go-retry"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/sethvargo",
+        "username": "sethvargo"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/181628",
+        "name": "Nico Schl\u00f6mer",
+        "repo": {
+            "description": "Command-line system monitoring",
+            "name": "tiptop",
+            "url": "https://github.com/nschloe/tiptop"
+        },
+        "sponsorUrl": "https://github.com/sponsors/nschloe",
+        "url": "https://github.com/nschloe",
+        "username": "nschloe"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/988985",
+        "name": "Geoff Bourne",
+        "repo": {
+            "description": "Docker image that provides a Minecraft Server that will automatically download selected version at startup",
+            "name": "docker-minecraft-server",
+            "url": "https://github.com/itzg/docker-minecraft-server"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/itzg",
+        "username": "itzg"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/35742643",
+        "name": "Jonny Borges",
+        "repo": {
+            "description": "Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get.",
+            "name": "getx",
+            "url": "https://github.com/jonataslaw/getx"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/jonataslaw",
+        "username": "jonataslaw"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2851492",
+        "name": "Florian Roth",
+        "repo": {
+            "description": "Detector for Log4Shell exploitation attempts",
+            "name": "log4shell-detector",
+            "url": "https://github.com/Neo23x0/log4shell-detector"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/Neo23x0",
+        "username": "Neo23x0"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2946214",
+        "name": "Joe Chen",
+        "repo": {
+            "description": "\u300aThe Way to Go\u300b\u4e2d\u6587\u8bd1\u672c\uff0c\u4e2d\u6587\u6b63\u5f0f\u540d\u300aGo \u5165\u95e8\u6307\u5357\u300b",
+            "name": "the-way-to-go_ZH_CN",
+            "url": "https://github.com/unknwon/the-way-to-go_ZH_CN"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/unknwon",
+        "username": "unknwon"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/17802178",
+        "name": "Georgios Konstantopoulos",
+        "repo": {
+            "description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
+            "name": "foundry",
+            "url": "https://github.com/gakonst/foundry"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/gakonst",
+        "username": "gakonst"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/4060187",
+        "name": "Jared Palmer",
+        "repo": {
+            "description": "Build forms in React, without the tears \ud83d\ude2d",
+            "name": "formik",
+            "url": "https://github.com/jaredpalmer/formik"
+        },
+        "sponsorUrl": "https://github.com/sponsors/jaredpalmer",
+        "url": "https://github.com/jaredpalmer",
+        "username": "jaredpalmer"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/103941",
+        "name": "Brent Shaffer",
+        "repo": {
+            "description": "A library for implementing an OAuth2 Server in php",
+            "name": "oauth2-server-php",
+            "url": "https://github.com/bshaffer/oauth2-server-php"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/bshaffer",
+        "username": "bshaffer"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/52205",
+        "name": "Dan Davison",
+        "repo": {
+            "description": "A syntax-highlighting pager for git, diff, and grep output",
+            "name": "delta",
+            "url": "https://github.com/dandavison/delta"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/dandavison",
+        "username": "dandavison"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/906600",
+        "name": "Jelle Zijlstra",
+        "repo": {
+            "description": null,
+            "name": "autotyping",
+            "url": "https://github.com/JelleZijlstra/autotyping"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/JelleZijlstra",
+        "username": "JelleZijlstra"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2887858",
+        "name": "David Rodr\u00edguez",
+        "repo": {
+            "description": "Debugging in Ruby 2",
+            "name": "byebug",
+            "url": "https://github.com/deivid-rodriguez/byebug"
+        },
+        "sponsorUrl": "https://github.com/sponsors/deivid-rodriguez",
+        "url": "https://github.com/deivid-rodriguez",
+        "username": "deivid-rodriguez"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/266302",
+        "name": "Greg Berg\u00e9",
+        "repo": {
+            "description": "Transform SVGs into React components \ud83e\udd81",
+            "name": "svgr",
+            "url": "https://github.com/gregberge/svgr"
+        },
+        "sponsorUrl": "https://github.com/sponsors/gregberge",
+        "url": "https://github.com/gregberge",
+        "username": "gregberge"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/590471",
+        "name": "Alex Goodman",
+        "repo": {
+            "description": "A tool for exploring each layer in a docker image",
+            "name": "dive",
+            "url": "https://github.com/wagoodman/dive"
+        },
+        "sponsorUrl": "https://github.com/sponsors/wagoodman",
+        "url": "https://github.com/wagoodman",
+        "username": "wagoodman"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/6705160",
+        "name": "William Boman",
+        "repo": {
+            "description": "Companion plugin for nvim-lspconfig that allows you to seamlessly manage LSP servers locally with :LspInstall. With full Windows support!",
+            "name": "nvim-lsp-installer",
+            "url": "https://github.com/williamboman/nvim-lsp-installer"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/williamboman",
+        "username": "williamboman"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/3676859",
+        "name": "Shu Ding",
+        "repo": {
+            "description": "5kB WebGL globe lib.",
+            "name": "cobe",
+            "url": "https://github.com/shuding/cobe"
+        },
+        "sponsorUrl": "https://github.com/sponsors/shuding",
+        "url": "https://github.com/shuding",
+        "username": "shuding"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/4060",
+        "name": "Fernand Galiana",
+        "repo": {
+            "description": "\ud83d\udc36 Kubernetes CLI To Manage Your Clusters In Style!",
+            "name": "k9s",
+            "url": "https://github.com/derailed/k9s"
+        },
+        "sponsorUrl": "https://github.com/sponsors/derailed",
+        "url": "https://github.com/derailed",
+        "username": "derailed"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/31996",
+        "name": "Avelino",
+        "repo": {
+            "description": "A curated list of awesome Go frameworks, libraries and software",
+            "name": "awesome-go",
+            "url": "https://github.com/avelino/awesome-go"
+        },
+        "sponsorUrl": "https://github.com/sponsors/avelino",
+        "url": "https://github.com/avelino",
+        "username": "avelino"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1162160",
+        "name": "Rich Harris",
+        "repo": {
+            "description": "Svelte \u2764\ufe0f Three",
+            "name": "svelte-cubed",
+            "url": "https://github.com/Rich-Harris/svelte-cubed"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/Rich-Harris",
+        "username": "Rich-Harris"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/4838076",
+        "name": "Danilo Woznica",
+        "repo": {
+            "description": "\u26aa SVG-Powered component to easily create skeleton loadings.",
+            "name": "react-content-loader",
+            "url": "https://github.com/danilowoz/react-content-loader"
+        },
+        "sponsorUrl": "https://github.com/sponsors/danilowoz",
+        "url": "https://github.com/danilowoz",
+        "username": "danilowoz"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/3068563",
+        "name": "Haz",
+        "repo": {
+            "description": "React Context + State",
+            "name": "constate",
+            "url": "https://github.com/diegohaz/constate"
+        },
+        "sponsorUrl": "https://github.com/sponsors/diegohaz",
+        "url": "https://github.com/diegohaz",
+        "username": "diegohaz"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/16336606",
+        "name": "Frost Ming",
+        "repo": {
+            "description": "Git for Humans, Inspired by GitHub for Mac\u2122.",
+            "name": "legit",
+            "url": "https://github.com/frostming/legit"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/frostming",
+        "username": "frostming"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/8456633",
+        "name": "Jesse Duffield",
+        "repo": {
+            "description": "simple terminal UI for git commands",
+            "name": "lazygit",
+            "url": "https://github.com/jesseduffield/lazygit"
+        },
+        "sponsorUrl": "https://github.com/sponsors/jesseduffield",
+        "url": "https://github.com/jesseduffield",
+        "username": "jesseduffield"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/462317",
+        "name": "Adrienne Walker",
+        "repo": {
+            "description": "FFXIV JavaScript Raiding Overlay",
+            "name": "cactbot",
+            "url": "https://github.com/quisquous/cactbot"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/quisquous",
+        "username": "quisquous"
+    }
+]

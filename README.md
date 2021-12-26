@@ -42,13 +42,13 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [GFPGAN](https://github.com/TencentARC/GFPGAN) | GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration. |
-| [appflowy](https://github.com/AppFlowy-IO/appflowy) | AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. |
-| [biosim4](https://github.com/davidrmiller/biosim4) | Biological evolution simulator |
-| [Paper](https://github.com/PaperMC/Paper) | High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies |
-| [medusa](https://github.com/medusajs/medusa) | The open-source Shopify alternative ⚡️ |
-| [supabase](https://github.com/supabase/supabase) | The open source Firebase alternative. Follow to stay updated about our public Beta. |
 | [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Roadmap to becoming a developer in 2021 |
-| [lazygit](https://github.com/jesseduffield/lazygit) | simple terminal UI for git commands |
-| [animegan2-pytorch](https://github.com/bryandlee/animegan2-pytorch) | PyTorch implementation of AnimeGANv2 |
+| [spider-flow](https://github.com/ssssssss-team/spider-flow) | 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。 |
+| [qoi](https://github.com/phoboslab/qoi) | The “Quite OK Image Format” for fast, lossless image compression |
+| [Paper](https://github.com/PaperMC/Paper) | High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies |
+| [supabase](https://github.com/supabase/supabase) | The open source Firebase alternative. Follow to stay updated about our public Beta. |
+| [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) | 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University |
+| [appflowy](https://github.com/AppFlowy-IO/appflowy) | AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. |
 | [compose-jb](https://github.com/JetBrains/compose-jb) | Jetpack Compose for Desktop and Web, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable. |
+| [lazygit](https://github.com/jesseduffield/lazygit) | simple terminal UI for git commands |
 <!-- END OF MONTHLY_TOP10_REPOS -->
