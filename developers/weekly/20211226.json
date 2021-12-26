@@ -1,0 +1,302 @@
+[
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/17802178",
+        "name": "Georgios Konstantopoulos",
+        "repo": {
+            "description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
+            "name": "foundry",
+            "url": "https://github.com/gakonst/foundry"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/gakonst",
+        "username": "gakonst"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2887858",
+        "name": "David Rodr\u00edguez",
+        "repo": {
+            "description": "Debugging in Ruby 2",
+            "name": "byebug",
+            "url": "https://github.com/deivid-rodriguez/byebug"
+        },
+        "sponsorUrl": "https://github.com/sponsors/deivid-rodriguez",
+        "url": "https://github.com/deivid-rodriguez",
+        "username": "deivid-rodriguez"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/408570",
+        "name": "Seth Vargo",
+        "repo": {
+            "description": "A Golang library for generating high-entropy random passwords similar to 1Password or LastPass.",
+            "name": "go-password",
+            "url": "https://github.com/sethvargo/go-password"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/sethvargo",
+        "username": "sethvargo"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/857609",
+        "name": "Adam Johnson",
+        "repo": {
+            "description": "Automatically reload your browser in development.",
+            "name": "django-browser-reload",
+            "url": "https://github.com/adamchainz/django-browser-reload"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/adamchainz",
+        "username": "adamchainz"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/28362229",
+        "name": "Timothy",
+        "repo": {
+            "description": "This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs.",
+            "name": "tailwind-nextjs-starter-blog",
+            "url": "https://github.com/timlrx/tailwind-nextjs-starter-blog"
+        },
+        "sponsorUrl": "https://github.com/sponsors/timlrx",
+        "url": "https://github.com/timlrx",
+        "username": "timlrx"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/140370",
+        "name": "Thibault Duplessis",
+        "repo": {
+            "description": "\u265e lichess.org: the forever free, adless and open source chess server \u265e",
+            "name": "lila",
+            "url": "https://github.com/ornicar/lila"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/ornicar",
+        "username": "ornicar"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1285584",
+        "name": "Laurent",
+        "repo": {
+            "description": "Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/",
+            "name": "joplin",
+            "url": "https://github.com/laurent22/joplin"
+        },
+        "sponsorUrl": "https://github.com/sponsors/laurent22",
+        "url": "https://github.com/laurent22",
+        "username": "laurent22"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/8855632",
+        "name": "Felix Angelov",
+        "repo": {
+            "description": "A predictable state management library that helps implement the BLoC design pattern",
+            "name": "bloc",
+            "url": "https://github.com/felangel/bloc"
+        },
+        "sponsorUrl": "https://github.com/sponsors/felangel",
+        "url": "https://github.com/felangel",
+        "username": "felangel"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2472225",
+        "name": "/rootzoll",
+        "repo": {
+            "description": "Get your own Bitcoin & Lightning Node running - on a RaspberryPi with a nice LCD",
+            "name": "raspiblitz",
+            "url": "https://github.com/rootzoll/raspiblitz"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/rootzoll",
+        "username": "rootzoll"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/17530",
+        "name": "Asim Aslam",
+        "repo": {
+            "description": "A framework for distributed systems development",
+            "name": "go-micro",
+            "url": "https://github.com/asim/go-micro"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/asim",
+        "username": "asim"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/35901082",
+        "name": "Sylvain Gugger",
+        "repo": {
+            "description": "A few notebooks about deep learning in pytorch",
+            "name": "Deep-Learning",
+            "url": "https://github.com/sgugger/Deep-Learning"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/sgugger",
+        "username": "sgugger"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/283842",
+        "name": "Nolan Lawson",
+        "repo": {
+            "description": "A tool for finding memory leaks in web apps",
+            "name": "fuite",
+            "url": "https://github.com/nolanlawson/fuite"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/nolanlawson",
+        "username": "nolanlawson"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2892853",
+        "name": "Koen Kanters",
+        "repo": {
+            "description": "Zigbee \ud83d\udc1d to MQTT bridge \ud83c\udf09, get rid of your proprietary Zigbee bridges \ud83d\udd28",
+            "name": "zigbee2mqtt",
+            "url": "https://github.com/Koenkk/zigbee2mqtt"
+        },
+        "sponsorUrl": "https://github.com/sponsors/Koenkk",
+        "url": "https://github.com/Koenkk",
+        "username": "Koenkk"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/31996",
+        "name": "Avelino",
+        "repo": {
+            "description": "A curated list of awesome Go frameworks, libraries and software",
+            "name": "awesome-go",
+            "url": "https://github.com/avelino/awesome-go"
+        },
+        "sponsorUrl": "https://github.com/sponsors/avelino",
+        "url": "https://github.com/avelino",
+        "username": "avelino"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/4060187",
+        "name": "Jared Palmer",
+        "repo": {
+            "description": "Build forms in React, without the tears \ud83d\ude2d",
+            "name": "formik",
+            "url": "https://github.com/jaredpalmer/formik"
+        },
+        "sponsorUrl": "https://github.com/sponsors/jaredpalmer",
+        "url": "https://github.com/jaredpalmer",
+        "username": "jaredpalmer"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/6933510",
+        "name": "Fons van der Plas",
+        "repo": {
+            "description": "\ud83c\udf88 Simple reactive notebooks for Julia",
+            "name": "Pluto.jl",
+            "url": "https://github.com/fonsp/Pluto.jl"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/fonsp",
+        "username": "fonsp"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2253692",
+        "name": "Teppei Fukuda",
+        "repo": {
+            "description": "Simple command-line snippet manager, written in Go.",
+            "name": "pet",
+            "url": "https://github.com/knqyf263/pet"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/knqyf263",
+        "username": "knqyf263"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/11247099",
+        "name": "Anthony Fu",
+        "repo": {
+            "description": "The instant on-demand atomic CSS engine.",
+            "name": "unocss",
+            "url": "https://github.com/antfu/unocss"
+        },
+        "sponsorUrl": "https://github.com/sponsors/antfu",
+        "url": "https://github.com/antfu",
+        "username": "antfu"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/3060199",
+        "name": "Jesse Hills",
+        "repo": {
+            "description": null,
+            "name": "esphome-inkplate",
+            "url": "https://github.com/jesserockz/esphome-inkplate"
+        },
+        "sponsorUrl": "https://github.com/sponsors/jesserockz",
+        "url": "https://github.com/jesserockz",
+        "username": "jesserockz"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2946214",
+        "name": "Joe Chen",
+        "repo": {
+            "description": "\u300aThe Way to Go\u300b\u4e2d\u6587\u8bd1\u672c\uff0c\u4e2d\u6587\u6b63\u5f0f\u540d\u300aGo \u5165\u95e8\u6307\u5357\u300b",
+            "name": "the-way-to-go_ZH_CN",
+            "url": "https://github.com/unknwon/the-way-to-go_ZH_CN"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/unknwon",
+        "username": "unknwon"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/306134",
+        "name": "William Candillon",
+        "repo": {
+            "description": "\u269b\ufe0f \ud83d\udcfa Projects from the \u201cCan it be done in React Native?\u201d YouTube series",
+            "name": "can-it-be-done-in-react-native",
+            "url": "https://github.com/wcandillon/can-it-be-done-in-react-native"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/wcandillon",
+        "username": "wcandillon"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/7346661",
+        "name": "fatedier",
+        "repo": {
+            "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+            "name": "frp",
+            "url": "https://github.com/fatedier/frp"
+        },
+        "sponsorUrl": "https://github.com/sponsors/fatedier",
+        "url": "https://github.com/fatedier",
+        "username": "fatedier"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1162160",
+        "name": "Rich Harris",
+        "repo": {
+            "description": "Svelte \u2764\ufe0f Three",
+            "name": "svelte-cubed",
+            "url": "https://github.com/Rich-Harris/svelte-cubed"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/Rich-Harris",
+        "username": "Rich-Harris"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/16480203",
+        "name": "Rapha\u00ebl",
+        "repo": {
+            "description": "\ud83d\udccc Your beginner pen-testing start guide. A guide for amateur pen testers and a collection of hacking tools, resources and references to practice ethical hacking and web security.",
+            "name": "hacker-roadmap",
+            "url": "https://github.com/sundowndev/hacker-roadmap"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/sundowndev",
+        "username": "sundowndev"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/393243",
+        "name": "Anton Babenko",
+        "repo": {
+            "description": "pre-commit git hooks to take care of Terraform configurations",
+            "name": "pre-commit-terraform",
+            "url": "https://github.com/antonbabenko/pre-commit-terraform"
+        },
+        "sponsorUrl": "https://github.com/sponsors/antonbabenko",
+        "url": "https://github.com/antonbabenko",
+        "username": "antonbabenko"
+    }
+]

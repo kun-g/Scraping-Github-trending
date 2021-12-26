@@ -1,0 +1,952 @@
+[
+    {
+        "author": "Shopify",
+        "avatar": "https://github.com/Shopify.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/306134",
+                "href": "https://github.com/wcandillon",
+                "username": "wcandillon"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/875252",
+                "href": "https://github.com/chrfalch",
+                "username": "chrfalch"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/25579397",
+                "href": "https://github.com/NikitaDudin",
+                "username": "NikitaDudin"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/27570",
+                "href": "https://github.com/colinta",
+                "username": "colinta"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/67966429",
+                "href": "https://github.com/rahmanharoon",
+                "username": "rahmanharoon"
+            }
+        ],
+        "currentPeriodStars": 1029,
+        "description": "High-performance React Native Graphics using Skia",
+        "forks": 50,
+        "fullname": "Shopify/react-native-skia",
+        "language": "TypeScript",
+        "languageColor": "#2b7489",
+        "name": "react-native-skia",
+        "stars": 1688,
+        "url": "https://github.com/Shopify/react-native-skia"
+    },
+    {
+        "author": "CERTCC",
+        "avatar": "https://github.com/CERTCC.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/14325582",
+                "href": "https://github.com/wdormann",
+                "username": "wdormann"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/12417890",
+                "href": "https://github.com/jsmartbnl",
+                "username": "jsmartbnl"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5802725",
+                "href": "https://github.com/grahampugh",
+                "username": "grahampugh"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5489831",
+                "href": "https://github.com/jskiba99",
+                "username": "jskiba99"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1902995",
+                "href": "https://github.com/usbruce",
+                "username": "usbruce"
+            }
+        ],
+        "currentPeriodStars": 125,
+        "description": "Scanners for Jar files that may be vulnerable to CVE-2021-44228",
+        "forks": 60,
+        "fullname": "CERTCC/CVE-2021-44228_scanner",
+        "language": "PowerShell",
+        "languageColor": "#012456",
+        "name": "CVE-2021-44228_scanner",
+        "stars": 249,
+        "url": "https://github.com/CERTCC/CVE-2021-44228_scanner"
+    },
+    {
+        "author": "codenotary",
+        "avatar": "https://github.com/codenotary.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1755729",
+                "href": "https://github.com/jeroiraz",
+                "username": "jeroiraz"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3756718",
+                "href": "https://github.com/mmeloni",
+                "username": "mmeloni"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/912518",
+                "href": "https://github.com/padurean",
+                "username": "padurean"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3390997",
+                "href": "https://github.com/leogr",
+                "username": "leogr"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/11305",
+                "href": "https://github.com/ameingast",
+                "username": "ameingast"
+            }
+        ],
+        "currentPeriodStars": 1880,
+        "description": "immudb - world\u2019s fastest immutable database, built on a zero trust model",
+        "forks": 188,
+        "fullname": "codenotary/immudb",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "name": "immudb",
+        "stars": 5391,
+        "url": "https://github.com/codenotary/immudb"
+    },
+    {
+        "author": "kuaifan",
+        "avatar": "https://github.com/kuaifan.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/36875852",
+                "href": "https://github.com/kuaifan",
+                "username": "kuaifan"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/19816319",
+                "href": "https://github.com/aipaw",
+                "username": "aipaw"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/53460890",
+                "href": "https://github.com/342210020",
+                "username": "342210020"
+            }
+        ],
+        "currentPeriodStars": 594,
+        "description": "DooTask\u662f\u4e00\u6b3e\u8f7b\u91cf\u7ea7\u7684\u5f00\u6e90\u5728\u7ebf\u9879\u76ee\u4efb\u52a1\u7ba1\u7406\u5de5\u5177\uff0c\u63d0\u4f9b\u5404\u7c7b\u6587\u6863\u534f\u4f5c\u5de5\u5177\u3001\u5728\u7ebf\u601d\u7ef4\u5bfc\u56fe\u3001\u5728\u7ebf\u6d41\u7a0b\u56fe\u3001\u9879\u76ee\u7ba1\u7406\u3001\u4efb\u52a1\u5206\u53d1\u3001\u5373\u65f6IM\uff0c\u6587\u4ef6\u7ba1\u7406\u7b49\u5de5\u5177\u3002",
+        "forks": 211,
+        "fullname": "kuaifan/dootask",
+        "language": "PHP",
+        "languageColor": "#4F5D95",
+        "name": "dootask",
+        "stars": 1064,
+        "url": "https://github.com/kuaifan/dootask"
+    },
+    {
+        "author": "Vonng",
+        "avatar": "https://github.com/Vonng.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8587410",
+                "href": "https://github.com/Vonng",
+                "username": "Vonng"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1246410",
+                "href": "https://github.com/yingang",
+                "username": "yingang"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8588251",
+                "href": "https://github.com/fuxuemingzhu",
+                "username": "fuxuemingzhu"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4820492",
+                "href": "https://github.com/afunTW",
+                "username": "afunTW"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/13568607",
+                "href": "https://github.com/jiajiadebug",
+                "username": "jiajiadebug"
+            }
+        ],
+        "currentPeriodStars": 608,
+        "description": "\u300aDesigning Data-Intensive Application\u300bDDIA\u4e2d\u6587\u7ffb\u8bd1",
+        "forks": 2452,
+        "fullname": "Vonng/ddia",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "ddia",
+        "stars": 11039,
+        "url": "https://github.com/Vonng/ddia"
+    },
+    {
+        "author": "kozmer",
+        "avatar": "https://github.com/kozmer.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/87979263",
+                "href": "https://github.com/kozmer",
+                "username": "kozmer"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/221359",
+                "href": "https://github.com/giannitedesco",
+                "username": "giannitedesco"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/46561460",
+                "href": "https://github.com/svmorris",
+                "username": "svmorris"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/66930150",
+                "href": "https://github.com/z9fr",
+                "username": "z9fr"
+            }
+        ],
+        "currentPeriodStars": 370,
+        "description": "A Proof-Of-Concept for the recently found CVE-2021-44228 vulnerability.",
+        "forks": 243,
+        "fullname": "kozmer/log4j-shell-poc",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "log4j-shell-poc",
+        "stars": 1005,
+        "url": "https://github.com/kozmer/log4j-shell-poc"
+    },
+    {
+        "author": "RedisJSON",
+        "avatar": "https://github.com/RedisJSON.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/753206",
+                "href": "https://github.com/gkorland",
+                "username": "gkorland"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6059516",
+                "href": "https://github.com/itamarhaber",
+                "username": "itamarhaber"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/503226",
+                "href": "https://github.com/dvirsky",
+                "username": "dvirsky"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/288652",
+                "href": "https://github.com/gavrie",
+                "username": "gavrie"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/76992134",
+                "href": "https://github.com/oshadmi",
+                "username": "oshadmi"
+            }
+        ],
+        "currentPeriodStars": 551,
+        "description": "RedisJSON - a JSON data type for Redis",
+        "forks": 196,
+        "fullname": "RedisJSON/RedisJSON",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "name": "RedisJSON",
+        "stars": 2558,
+        "url": "https://github.com/RedisJSON/RedisJSON"
+    },
+    {
+        "author": "cisagov",
+        "avatar": "https://github.com/cisagov.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/96064251",
+                "href": "https://github.com/justmurphy",
+                "username": "justmurphy"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/50747025",
+                "href": "https://github.com/mcdonnnj",
+                "username": "mcdonnnj"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/96153057",
+                "href": "https://github.com/iainDe",
+                "username": "iainDe"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5521725",
+                "href": "https://github.com/jsf9k",
+                "username": "jsf9k"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/96153185",
+                "href": "https://github.com/Lcerkov",
+                "username": "Lcerkov"
+            }
+        ],
+        "currentPeriodStars": 212,
+        "description": "A community sourced list of log4j-affected software",
+        "forks": 214,
+        "fullname": "cisagov/log4j-affected-db",
+        "language": null,
+        "languageColor": null,
+        "name": "log4j-affected-db",
+        "stars": 905,
+        "url": "https://github.com/cisagov/log4j-affected-db"
+    },
+    {
+        "author": "rui314",
+        "avatar": "https://github.com/rui314.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/47400",
+                "href": "https://github.com/rui314",
+                "username": "rui314"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1779189",
+                "href": "https://github.com/nehaljwani",
+                "username": "nehaljwani"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/29541480",
+                "href": "https://github.com/Logarithmus",
+                "username": "Logarithmus"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/24428432",
+                "href": "https://github.com/sicherha",
+                "username": "sicherha"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/11667869",
+                "href": "https://github.com/thesamesam",
+                "username": "thesamesam"
+            }
+        ],
+        "currentPeriodStars": 565,
+        "description": "mold: A Modern Linker",
+        "forks": 138,
+        "fullname": "rui314/mold",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "name": "mold",
+        "stars": 4906,
+        "url": "https://github.com/rui314/mold"
+    },
+    {
+        "author": "ssssssss-team",
+        "avatar": "https://github.com/ssssssss-team.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/53387007",
+                "href": "https://github.com/javamxd",
+                "username": "javamxd"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/13660311",
+                "href": "https://github.com/lvjinze",
+                "username": "lvjinze"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/23092029",
+                "href": "https://github.com/jy03638110",
+                "username": "jy03638110"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/34805743",
+                "href": "https://github.com/zhoutianwang",
+                "username": "zhoutianwang"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/42330488",
+                "href": "https://github.com/BillDowney",
+                "username": "BillDowney"
+            }
+        ],
+        "currentPeriodStars": 1010,
+        "description": "\u65b0\u4e00\u4ee3\u722c\u866b\u5e73\u53f0\uff0c\u4ee5\u56fe\u5f62\u5316\u65b9\u5f0f\u5b9a\u4e49\u722c\u866b\u6d41\u7a0b\uff0c\u4e0d\u5199\u4ee3\u7801\u5373\u53ef\u5b8c\u6210\u722c\u866b\u3002",
+        "forks": 634,
+        "fullname": "ssssssss-team/spider-flow",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "name": "spider-flow",
+        "stars": 3696,
+        "url": "https://github.com/ssssssss-team/spider-flow"
+    },
+    {
+        "author": "TencentARC",
+        "avatar": "https://github.com/TencentARC.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/17445847",
+                "href": "https://github.com/xinntao",
+                "username": "xinntao"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/81195143",
+                "href": "https://github.com/AK391",
+                "username": "AK391"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/18028233",
+                "href": "https://github.com/bramton",
+                "username": "bramton"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/36897236",
+                "href": "https://github.com/DarbazAli",
+                "username": "DarbazAli"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/17243165",
+                "href": "https://github.com/Wscats",
+                "username": "Wscats"
+            }
+        ],
+        "currentPeriodStars": 2678,
+        "description": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+        "forks": 2039,
+        "fullname": "TencentARC/GFPGAN",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "GFPGAN",
+        "stars": 13797,
+        "url": "https://github.com/TencentARC/GFPGAN"
+    },
+    {
+        "author": "Anuken",
+        "avatar": "https://github.com/Anuken.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/10100000",
+                "href": "https://github.com/Anuken",
+                "username": "Anuken"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3179271",
+                "href": "https://github.com/Quezler",
+                "username": "Quezler"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/31485341",
+                "href": "https://github.com/Prosta4okua",
+                "username": "Prosta4okua"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/13190430",
+                "href": "https://github.com/Remint32",
+                "username": "Remint32"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/54301439",
+                "href": "https://github.com/MEEPofFaith",
+                "username": "MEEPofFaith"
+            }
+        ],
+        "currentPeriodStars": 307,
+        "description": "The automation tower defense game",
+        "forks": 1837,
+        "fullname": "Anuken/Mindustry",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "name": "Mindustry",
+        "stars": 13401,
+        "url": "https://github.com/Anuken/Mindustry"
+    },
+    {
+        "author": "fox-it",
+        "avatar": "https://github.com/fox-it.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/468612",
+                "href": "https://github.com/yunzheng",
+                "username": "yunzheng"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1773401",
+                "href": "https://github.com/taufderl",
+                "username": "taufderl"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1332112",
+                "href": "https://github.com/dariux",
+                "username": "dariux"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/25172811",
+                "href": "https://github.com/erottier",
+                "username": "erottier"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/43180721",
+                "href": "https://github.com/mjsalmi",
+                "username": "mjsalmi"
+            }
+        ],
+        "currentPeriodStars": 113,
+        "description": "Find vulnerable Log4j2 versions on disk and also inside Java Archive Files (Log4Shell CVE-2021-44228, CVE-2021-45046, CVE-2021-45105)",
+        "forks": 65,
+        "fullname": "fox-it/log4j-finder",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "log4j-finder",
+        "stars": 348,
+        "url": "https://github.com/fox-it/log4j-finder"
+    },
+    {
+        "author": "LianjiaTech",
+        "avatar": "https://github.com/LianjiaTech.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4566284",
+                "href": "https://github.com/zhoujuanjuan",
+                "username": "zhoujuanjuan"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/40540394",
+                "href": "https://github.com/Nayuta403",
+                "username": "Nayuta403"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/15339683",
+                "href": "https://github.com/hexintao",
+                "username": "hexintao"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/9434515",
+                "href": "https://github.com/violinday",
+                "username": "violinday"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/15884415",
+                "href": "https://github.com/AlexV525",
+                "username": "AlexV525"
+            }
+        ],
+        "currentPeriodStars": 363,
+        "description": "Bruno \u662f\u57fa\u4e8e\u4e00\u6574\u5957\u8bbe\u8ba1\u4f53\u7cfb\u7684 Flutter \u7ec4\u4ef6\u5e93\u3002An enterprise-class package of Flutter components for mobile applications.",
+        "forks": 138,
+        "fullname": "LianjiaTech/bruno",
+        "language": "Dart",
+        "languageColor": "#00B4AB",
+        "name": "bruno",
+        "stars": 857,
+        "url": "https://github.com/LianjiaTech/bruno"
+    },
+    {
+        "author": "Eugeny",
+        "avatar": "https://github.com/Eugeny.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/161476",
+                "href": "https://github.com/Eugeny",
+                "username": "Eugeny"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/903197",
+                "href": "https://github.com/Domain",
+                "username": "Domain"
+            }
+        ],
+        "currentPeriodStars": 1297,
+        "description": "A terminal for a more modern age",
+        "forks": 1500,
+        "fullname": "Eugeny/tabby",
+        "language": "TypeScript",
+        "languageColor": "#2b7489",
+        "name": "tabby",
+        "stars": 26181,
+        "url": "https://github.com/Eugeny/tabby"
+    },
+    {
+        "author": "qier222",
+        "avatar": "https://github.com/qier222.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/68148142",
+                "href": "https://github.com/qier222",
+                "username": "qier222"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/11072796",
+                "href": "https://github.com/hawtim",
+                "username": "hawtim"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/16725418",
+                "href": "https://github.com/VidocqH",
+                "username": "VidocqH"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/42372070",
+                "href": "https://github.com/Map1en",
+                "username": "Map1en"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/34763046",
+                "href": "https://github.com/memorydream",
+                "username": "memorydream"
+            }
+        ],
+        "currentPeriodStars": 392,
+        "description": "\u9ad8\u989c\u503c\u7684\u7b2c\u4e09\u65b9\u7f51\u6613\u4e91\u64ad\u653e\u5668\uff0c\u652f\u6301 Windows / macOS / Linux",
+        "forks": 1829,
+        "fullname": "qier222/YesPlayMusic",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "name": "YesPlayMusic",
+        "stars": 13332,
+        "url": "https://github.com/qier222/YesPlayMusic"
+    },
+    {
+        "author": "dtm-labs",
+        "avatar": "https://github.com/dtm-labs.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/43027375",
+                "href": "https://github.com/yedf2",
+                "username": "yedf2"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/34903552",
+                "href": "https://github.com/li-xiao-shuang",
+                "username": "li-xiao-shuang"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6871552",
+                "href": "https://github.com/lsytj0413",
+                "username": "lsytj0413"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/439390",
+                "href": "https://github.com/geffzhang",
+                "username": "geffzhang"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/36129334",
+                "href": "https://github.com/wuqinqiang",
+                "username": "wuqinqiang"
+            }
+        ],
+        "currentPeriodStars": 207,
+        "description": "\ud83d\udd25A cross-language distributed transaction manager. Support xa, tcc, saga, transactional messages. \u8de8\u8bed\u8a00\u5206\u5e03\u5f0f\u4e8b\u52a1\u7ba1\u7406\u5668",
+        "forks": 431,
+        "fullname": "dtm-labs/dtm",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "name": "dtm",
+        "stars": 4248,
+        "url": "https://github.com/dtm-labs/dtm"
+    },
+    {
+        "author": "sunym1993",
+        "avatar": "https://github.com/sunym1993.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/25787738",
+                "href": "https://github.com/sunym1993",
+                "username": "sunym1993"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8627326",
+                "href": "https://github.com/xushunke",
+                "username": "xushunke"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/48762444",
+                "href": "https://github.com/Hola39e",
+                "username": "Hola39e"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/19562544",
+                "href": "https://github.com/hdszylcd19",
+                "username": "hdszylcd19"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7106986",
+                "href": "https://github.com/zhangbotong",
+                "username": "zhangbotong"
+            }
+        ],
+        "currentPeriodStars": 575,
+        "description": "\u4f60\u7ba1\u8fd9\u7834\u73a9\u610f\u53eb\u64cd\u4f5c\u7cfb\u7edf\u6e90\u7801 \u2014 \u50cf\u5c0f\u8bf4\u4e00\u6837\u54c1\u8bfb Linux 0.11 \u6838\u5fc3\u4ee3\u7801",
+        "forks": 258,
+        "fullname": "sunym1993/flash-linux0.11-talk",
+        "language": "C",
+        "languageColor": "#555555",
+        "name": "flash-linux0.11-talk",
+        "stars": 3399,
+        "url": "https://github.com/sunym1993/flash-linux0.11-talk"
+    },
+    {
+        "author": "jina-ai",
+        "avatar": "https://github.com/jina-ai.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2041322",
+                "href": "https://github.com/hanxiao",
+                "username": "hanxiao"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/62694369",
+                "href": "https://github.com/jina-bot",
+                "username": "jina-bot"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/19825685",
+                "href": "https://github.com/JoanFM",
+                "username": "JoanFM"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4329072",
+                "href": "https://github.com/nan-wang",
+                "username": "nan-wang"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/9050737",
+                "href": "https://github.com/deepankarm",
+                "username": "deepankarm"
+            }
+        ],
+        "currentPeriodStars": 292,
+        "description": "Cloud-native neural search framework for \ud835\ude56\ud835\ude63\ud835\ude6e kind of data",
+        "forks": 1736,
+        "fullname": "jina-ai/jina",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "jina",
+        "stars": 12887,
+        "url": "https://github.com/jina-ai/jina"
+    },
+    {
+        "author": "parallel101",
+        "avatar": "https://github.com/parallel101.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/20640597",
+                "href": "https://github.com/archibate",
+                "username": "archibate"
+            }
+        ],
+        "currentPeriodStars": 169,
+        "description": "\u9ad8\u6027\u80fd\u5e76\u884c\u7f16\u7a0b\u4e0e\u4f18\u5316 - \u8bfe\u4ef6",
+        "forks": 81,
+        "fullname": "parallel101/course",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "name": "course",
+        "stars": 643,
+        "url": "https://github.com/parallel101/course"
+    },
+    {
+        "author": "obsproject",
+        "avatar": "https://github.com/obsproject.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2084112",
+                "href": "https://github.com/jp9000",
+                "username": "jp9000"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/10396506",
+                "href": "https://github.com/jpark37",
+                "username": "jpark37"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/343642",
+                "href": "https://github.com/palana",
+                "username": "palana"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/876345",
+                "href": "https://github.com/notr1ch",
+                "username": "notr1ch"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/19962531",
+                "href": "https://github.com/cg2121",
+                "username": "cg2121"
+            }
+        ],
+        "currentPeriodStars": 486,
+        "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+        "forks": 5468,
+        "fullname": "obsproject/obs-studio",
+        "language": "C",
+        "languageColor": "#555555",
+        "name": "obs-studio",
+        "stars": 34544,
+        "url": "https://github.com/obsproject/obs-studio"
+    },
+    {
+        "author": "marktext",
+        "avatar": "https://github.com/marktext.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/9712830",
+                "href": "https://github.com/Jocs",
+                "username": "Jocs"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/22716132",
+                "href": "https://github.com/fxha",
+                "username": "fxha"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/17591936",
+                "href": "https://github.com/notAlaanor",
+                "username": "notAlaanor"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3466287",
+                "href": "https://github.com/mdogadailo",
+                "username": "mdogadailo"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/56189047",
+                "href": "https://github.com/jazzfool",
+                "username": "jazzfool"
+            }
+        ],
+        "currentPeriodStars": 1202,
+        "description": "\ud83d\udcddA simple and elegant markdown editor, available for Linux, macOS and Windows.",
+        "forks": 1705,
+        "fullname": "marktext/marktext",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "name": "marktext",
+        "stars": 24039,
+        "url": "https://github.com/marktext/marktext"
+    },
+    {
+        "author": "PKUanonym",
+        "avatar": "https://github.com/PKUanonym.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8189182",
+                "href": "https://github.com/Trinkle23897",
+                "username": "Trinkle23897"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/49298122",
+                "href": "https://github.com/PKUanonym",
+                "username": "PKUanonym"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/17642707",
+                "href": "https://github.com/Co1lin",
+                "username": "Co1lin"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/48819781",
+                "href": "https://github.com/lwpie",
+                "username": "lwpie"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/31069308",
+                "href": "https://github.com/RecursionSheep",
+                "username": "RecursionSheep"
+            }
+        ],
+        "currentPeriodStars": 454,
+        "description": "\u6e05\u534e\u5927\u5b66\u8ba1\u7b97\u673a\u7cfb\u8bfe\u7a0b\u653b\u7565 Guidance for courses in Department of Computer Science and Technology, Tsinghua University",
+        "forks": 5684,
+        "fullname": "PKUanonym/REKCARC-TSC-UHT",
+        "language": "HTML",
+        "languageColor": "#e34c26",
+        "name": "REKCARC-TSC-UHT",
+        "stars": 20810,
+        "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT"
+    },
+    {
+        "author": "picocss",
+        "avatar": "https://github.com/picocss.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/23470684",
+                "href": "https://github.com/lucaslarroche",
+                "username": "lucaslarroche"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5657516",
+                "href": "https://github.com/trasparente",
+                "username": "trasparente"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/141999",
+                "href": "https://github.com/zgoda",
+                "username": "zgoda"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/118951",
+                "href": "https://github.com/damieng",
+                "username": "damieng"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/16326",
+                "href": "https://github.com/nuxodin",
+                "username": "nuxodin"
+            }
+        ],
+        "currentPeriodStars": 666,
+        "description": "Minimal CSS Framework for semantic HTML",
+        "forks": 68,
+        "fullname": "picocss/pico",
+        "language": "SCSS",
+        "languageColor": "#c6538c",
+        "name": "pico",
+        "stars": 3085,
+        "url": "https://github.com/picocss/pico"
+    },
+    {
+        "author": "PaddlePaddle",
+        "avatar": "https://github.com/PaddlePaddle.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/50691816",
+                "href": "https://github.com/LielinJiang",
+                "username": "LielinJiang"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/48898730",
+                "href": "https://github.com/lijianshe02",
+                "username": "lijianshe02"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/17897185",
+                "href": "https://github.com/lzzyzlbb",
+                "username": "lzzyzlbb"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/79366697",
+                "href": "https://github.com/wangna11BD",
+                "username": "wangna11BD"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/48054808",
+                "href": "https://github.com/YixinKristy",
+                "username": "YixinKristy"
+            }
+        ],
+        "currentPeriodStars": 161,
+        "description": "PaddlePaddle GAN library, including lots of interesting applications like First-Order motion transfer, wav2lip, picture repair, image editing, photo2cartoon, image style transfer, and so on.",
+        "forks": 818,
+        "fullname": "PaddlePaddle/PaddleGAN",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "PaddleGAN",
+        "stars": 5146,
+        "url": "https://github.com/PaddlePaddle/PaddleGAN"
+    }
+]
