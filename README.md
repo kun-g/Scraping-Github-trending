@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [log4j-scanner](https://github.com/cisagov/log4j-scanner) | log4j-scanner is a project derived from other members of the open-source community by CISA to help organizations identify potentially vulnerable web services affected by the log4j vulnerabilities. |
-| [javascript](https://github.com/airbnb/javascript) | JavaScript Style Guide |
-| [immudb](https://github.com/codenotary/immudb) | immudb - world’s fastest immutable database, built on a zero trust model |
-| [ddia](https://github.com/Vonng/ddia) | 《Designing Data-Intensive Application》DDIA中文翻译 |
-| [fq](https://github.com/wader/fq) | jq for binary formats |
-| [tdesign](https://github.com/Tencent/tdesign) | Enterprise Design System |
-| [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | A collection of (mostly) technical things every software developer should know about |
-| [freqtrade](https://github.com/freqtrade/freqtrade) | Free, open source crypto trading bot |
-| [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) | 🇨🇳 GitHub中文排行榜，各语言分离设置「软件 / 资料」榜单，精准定位中文好项目。各取所需，互不干扰。 |
-| [kajiya](https://github.com/EmbarkStudios/kajiya) | 💡 Experimental real-time global illumination renderer 🦀 |
+| [mmrazor](https://github.com/open-mmlab/mmrazor) | OpenMMLab Model Compression Toolbox and Benchmark. |
+| [svox2](https://github.com/sxyu/svox2) | Plenoxels: Radiance Fields without Neural Networks, Code release WIP |
+| [bombcrypto-bot](https://github.com/mpcabete/bombcrypto-bot) | This is a python bot that automatically logs in, clicks the new button, and sends heroes to work in the bombcrypto game. It is fully open source and free. |
+| [Mindustry](https://github.com/Anuken/Mindustry) | The automation tower defense game |
+| [marktext](https://github.com/marktext/marktext) | 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. |
+| [cornell-mcray](https://github.com/h3r2tic/cornell-mcray) | 🕹 A quick'n'dirty game sample using kajiya, physx-rs, and dolly |
+| [16th](https://github.com/d2forum/16th) | 第十六届D2前端技术论坛「精心」 |
+| [awesome-go-education](https://github.com/mehdihadeli/awesome-go-education) | A curated list of awesome articles and resources for learning and practicing Go and its related technologies. |
+| [tdesign-react](https://github.com/Tencent/tdesign-react) | A React UI components lib for TDesign. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
