@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [log4j-scanner](https://github.com/cisagov/log4j-scanner) | log4j-scanner is a project derived from other members of the open-source community by CISA to help organizations identify potentially vulnerable web services affected by the log4j vulnerabilities. |
-| [mmrazor](https://github.com/open-mmlab/mmrazor) | OpenMMLab Model Compression Toolbox and Benchmark. |
-| [svox2](https://github.com/sxyu/svox2) | Plenoxels: Radiance Fields without Neural Networks, Code release WIP |
+| [misbrands](https://github.com/mkrl/misbrands) | The world's most hated IT stickers |
+| [MockingBird](https://github.com/babysor/MockingBird) | 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time |
 | [bombcrypto-bot](https://github.com/mpcabete/bombcrypto-bot) | This is a python bot that automatically logs in, clicks the new button, and sends heroes to work in the bombcrypto game. It is fully open source and free. |
-| [Mindustry](https://github.com/Anuken/Mindustry) | The automation tower defense game |
+| [NewPipe](https://github.com/TeamNewPipe/NewPipe) | A libre lightweight streaming front-end for Android. |
 | [marktext](https://github.com/marktext/marktext) | 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. |
-| [cornell-mcray](https://github.com/h3r2tic/cornell-mcray) | 🕹 A quick'n'dirty game sample using kajiya, physx-rs, and dolly |
-| [16th](https://github.com/d2forum/16th) | 第十六届D2前端技术论坛「精心」 |
-| [awesome-go-education](https://github.com/mehdihadeli/awesome-go-education) | A curated list of awesome articles and resources for learning and practicing Go and its related technologies. |
-| [tdesign-react](https://github.com/Tencent/tdesign-react) | A React UI components lib for TDesign. |
+| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+| [oot](https://github.com/zeldaret/oot) | Decompilation of The Legend of Zelda: Ocarina of Time |
+| [javascript](https://github.com/airbnb/javascript) | JavaScript Style Guide |
+| [light-show](https://github.com/teslamotors/light-show) | Tesla Light Show |
+| [wsa_pacman](https://github.com/alesimula/wsa_pacman) | A GUI package manager and package installer for Windows Subsystem for Android (WSA) |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
