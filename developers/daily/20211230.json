@@ -1,0 +1,290 @@
+[
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/661450",
+        "name": "Arvid Norberg",
+        "repo": {
+            "description": "an efficient feature complete C++ bittorrent implementation",
+            "name": "libtorrent",
+            "url": "https://github.com/arvidn/libtorrent"
+        },
+        "sponsorUrl": "https://github.com/sponsors/arvidn",
+        "url": "https://github.com/arvidn",
+        "username": "arvidn"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/195327",
+        "name": "Franck Nijhof",
+        "repo": {
+            "description": "A curated list of amazingly awesome Home Assistant resources.",
+            "name": "awesome-home-assistant",
+            "url": "https://github.com/frenck/awesome-home-assistant"
+        },
+        "sponsorUrl": "https://github.com/sponsors/frenck",
+        "url": "https://github.com/frenck",
+        "username": "frenck"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2692731",
+        "name": "Maxence Charriere",
+        "repo": {
+            "description": "A package to build progressive web apps with Go programming language and WebAssembly.",
+            "name": "go-app",
+            "url": "https://github.com/maxence-charriere/go-app"
+        },
+        "sponsorUrl": "https://github.com/sponsors/maxence-charriere",
+        "url": "https://github.com/maxence-charriere",
+        "username": "maxence-charriere"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/16480203",
+        "name": "Rapha\u00ebl",
+        "repo": {
+            "description": "Information gathering & OSINT framework for phone numbers",
+            "name": "phoneinfoga",
+            "url": "https://github.com/sundowndev/phoneinfoga"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/sundowndev",
+        "username": "sundowndev"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/12907710",
+        "name": "RangiLyu",
+        "repo": {
+            "description": "NanoDet-Plus\u26a1Super fast and lightweight anchor-free object detection model. \ud83d\udd25Only 980 KB(int8) / 1.8MB (fp16) and run 97FPS on cellphone\ud83d\udd25",
+            "name": "nanodet",
+            "url": "https://github.com/RangiLyu/nanodet"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/RangiLyu",
+        "username": "RangiLyu"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/3676859",
+        "name": "Shu Ding",
+        "repo": {
+            "description": "5kB WebGL globe lib.",
+            "name": "cobe",
+            "url": "https://github.com/shuding/cobe"
+        },
+        "sponsorUrl": "https://github.com/sponsors/shuding",
+        "url": "https://github.com/shuding",
+        "username": "shuding"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2621",
+        "name": "Brad Fitzpatrick",
+        "repo": {
+            "description": "a #golang Snake game in webassembly running at http://snake.126.49.198.in-addr.arpa/",
+            "name": "snake",
+            "url": "https://github.com/bradfitz/snake"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/bradfitz",
+        "username": "bradfitz"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/4060",
+        "name": "Fernand Galiana",
+        "repo": {
+            "description": "\ud83d\udc36 Kubernetes CLI To Manage Your Clusters In Style!",
+            "name": "k9s",
+            "url": "https://github.com/derailed/k9s"
+        },
+        "sponsorUrl": "https://github.com/sponsors/derailed",
+        "url": "https://github.com/derailed",
+        "username": "derailed"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/3050060",
+        "name": "Guillaume Gomez",
+        "repo": {
+            "description": "A system handler to get information and interact with processes written in Rust",
+            "name": "sysinfo",
+            "url": "https://github.com/GuillaumeGomez/sysinfo"
+        },
+        "sponsorUrl": "https://github.com/sponsors/GuillaumeGomez",
+        "url": "https://github.com/GuillaumeGomez",
+        "username": "GuillaumeGomez"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/5022927",
+        "name": "LoveSy",
+        "repo": {
+            "description": "\u54d4\u54e9\u6f2b\u6e38\uff0c\u89e3\u9664B\u7ad9\u5ba2\u6237\u7aef\u756a\u5267\u533a\u57df\u9650\u5236\u7684Xposed\u6a21\u5757\uff0c\u5e76\u4e14\u63d0\u4f9b\u5176\u4ed6\u5c0f\u529f\u80fd\u3002An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.",
+            "name": "BiliRoaming",
+            "url": "https://github.com/yujincheng08/BiliRoaming"
+        },
+        "sponsorUrl": "https://github.com/sponsors/yujincheng08",
+        "url": "https://github.com/yujincheng08",
+        "username": "yujincheng08"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/339286",
+        "name": "Jason Quense",
+        "repo": {
+            "description": "Dead simple Object schema validation",
+            "name": "yup",
+            "url": "https://github.com/jquense/yup"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/jquense",
+        "username": "jquense"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1927579",
+        "name": "Zoltan Kochan",
+        "repo": {
+            "description": "Detects what package manager executes the process",
+            "name": "which-pm-runs",
+            "url": "https://github.com/zkochan/which-pm-runs"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/zkochan",
+        "username": "zkochan"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/11247099",
+        "name": "Anthony Fu",
+        "repo": {
+            "description": "The instant on-demand atomic CSS engine.",
+            "name": "unocss",
+            "url": "https://github.com/antfu/unocss"
+        },
+        "sponsorUrl": "https://github.com/sponsors/antfu",
+        "url": "https://github.com/antfu",
+        "username": "antfu"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/629908",
+        "name": "hrsh7th",
+        "repo": {
+            "description": "A completion plugin for neovim coded in Lua.",
+            "name": "nvim-cmp",
+            "url": "https://github.com/hrsh7th/nvim-cmp"
+        },
+        "sponsorUrl": "https://github.com/sponsors/hrsh7th",
+        "url": "https://github.com/hrsh7th",
+        "username": "hrsh7th"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/3316789",
+        "name": "Rob Ede",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/robjtede",
+        "username": "robjtede"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2492783",
+        "name": "Jan De Dobbeleer",
+        "repo": {
+            "description": "A prompt theme engine for any shell.",
+            "name": "oh-my-posh",
+            "url": "https://github.com/JanDeDobbeleer/oh-my-posh"
+        },
+        "sponsorUrl": "https://github.com/sponsors/JanDeDobbeleer",
+        "url": "https://github.com/JanDeDobbeleer",
+        "username": "JanDeDobbeleer"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/41945903",
+        "name": "Rafa\u0142 Mikrut",
+        "repo": {
+            "description": "Multi functional app to find duplicates, empty folders, similar images etc.",
+            "name": "czkawka",
+            "url": "https://github.com/qarmin/czkawka"
+        },
+        "sponsorUrl": "https://github.com/sponsors/qarmin",
+        "url": "https://github.com/qarmin",
+        "username": "qarmin"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/882976",
+        "name": "Nikhil Benesch",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/benesch",
+        "username": "benesch"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2182307",
+        "name": "Jyoti Puri",
+        "repo": {
+            "description": "A Wysiwyg editor build on top of ReactJS and DraftJS. https://jpuri.github.io/react-draft-wysiwyg",
+            "name": "react-draft-wysiwyg",
+            "url": "https://github.com/jpuri/react-draft-wysiwyg"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/jpuri",
+        "username": "jpuri"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/772",
+        "name": "Alex Gaynor",
+        "repo": {
+            "description": "An attempt to answer the age old interview question \"What happens when you type google.com into your browser and press enter?\"",
+            "name": "what-happens-when",
+            "url": "https://github.com/alex/what-happens-when"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/alex",
+        "username": "alex"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/5378891",
+        "name": "\u4e8c\u8d27\u673a\u5668\u4eba",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/zombieJ",
+        "username": "zombieJ"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/7396",
+        "name": "Armin Ronacher",
+        "repo": {
+            "description": "MiniJinja is a powerful but minimal dependency template engine for Rust",
+            "name": "minijinja",
+            "url": "https://github.com/mitsuhiko/minijinja"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/mitsuhiko",
+        "username": "mitsuhiko"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2289",
+        "name": "Zeke Sikelianos",
+        "repo": {
+            "description": "\ud83e\udd16 Let the robots take care of the semantic versioning",
+            "name": "semantic-pull-requests",
+            "url": "https://github.com/zeke/semantic-pull-requests"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/zeke",
+        "username": "zeke"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/4368928",
+        "name": "Pedro S. Lopez",
+        "repo": {
+            "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+            "name": "whatsapp-web.js",
+            "url": "https://github.com/pedroslopez/whatsapp-web.js"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/pedroslopez",
+        "username": "pedroslopez"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2018167",
+        "name": "Michael Herman",
+        "repo": {
+            "description": "A curated list of awesome things related to FastAPI",
+            "name": "awesome-fastapi",
+            "url": "https://github.com/mjhea0/awesome-fastapi"
+        },
+        "sponsorUrl": "https://github.com/sponsors/mjhea0",
+        "url": "https://github.com/mjhea0",
+        "username": "mjhea0"
+    }
+]

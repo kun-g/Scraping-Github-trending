@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [mmdeploy](https://github.com/open-mmlab/mmdeploy) | OpenMMLab Model Deployment Framework |
+| [Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) | Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world. |
+| [tabby](https://github.com/Eugeny/tabby) | A terminal for a more modern age |
 | [MockingBird](https://github.com/babysor/MockingBird) | 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time |
-| [maven-mvnd](https://github.com/apache/maven-mvnd) | Apache Maven Daemon |
-| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
-| [sealos](https://github.com/fanux/sealos) | 一条命令离线安装高可用kubernetes，3min装完，500M，100年证书，版本不要太全，生产环境稳如老狗 |
-| [python-cheatsheet](https://github.com/gto76/python-cheatsheet) | Comprehensive Python Cheatsheet |
+| [ja-netfilter](https://github.com/ja-netfilter/ja-netfilter) | A javaagent framework |
+| [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
 | [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics |
-| [WV-AMZN-4K-RIPPER](https://github.com/widevinedump/WV-AMZN-4K-RIPPER) | Tool To download Amazon 4k SDR HDR 1080, CDM IS Not Included |
-| [crater](https://github.com/crater-invoice/crater) | Open Source Invoicing Solution for Individuals & Businesses |
-| [marktext](https://github.com/marktext/marktext) | 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. |
-| [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) | GoodbyeDPI—Passive Deep Packet Inspection blocker and Active DPI circumvention utility (for Windows) |
+| [leetcode-master](https://github.com/youngyangyang04/leetcode-master) | LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀 |
+| [seckill](https://github.com/lyrric/seckill) | 苗苗 约苗 九价 秒杀 脚本 |
+| [element-plus](https://github.com/element-plus/element-plus) | 🎉 A Vue.js 3 UI Library made by Element team |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
