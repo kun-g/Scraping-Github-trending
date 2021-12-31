@@ -1,0 +1,290 @@
+[
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/195327",
+        "name": "Franck Nijhof",
+        "repo": {
+            "description": "A curated list of amazingly awesome Home Assistant resources.",
+            "name": "awesome-home-assistant",
+            "url": "https://github.com/frenck/awesome-home-assistant"
+        },
+        "sponsorUrl": "https://github.com/sponsors/frenck",
+        "url": "https://github.com/frenck",
+        "username": "frenck"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1312018",
+        "name": "Sergio Xalambr\u00ed",
+        "repo": {
+            "description": "Simple Authentication for Remix",
+            "name": "remix-auth",
+            "url": "https://github.com/sergiodxa/remix-auth"
+        },
+        "sponsorUrl": "https://github.com/sponsors/sergiodxa",
+        "url": "https://github.com/sergiodxa",
+        "username": "sergiodxa"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/3676859",
+        "name": "Shu Ding",
+        "repo": {
+            "description": "5kB WebGL globe lib.",
+            "name": "cobe",
+            "url": "https://github.com/shuding/cobe"
+        },
+        "sponsorUrl": "https://github.com/sponsors/shuding",
+        "url": "https://github.com/shuding",
+        "username": "shuding"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/661450",
+        "name": "Arvid Norberg",
+        "repo": {
+            "description": "an efficient feature complete C++ bittorrent implementation",
+            "name": "libtorrent",
+            "url": "https://github.com/arvidn/libtorrent"
+        },
+        "sponsorUrl": "https://github.com/sponsors/arvidn",
+        "url": "https://github.com/arvidn",
+        "username": "arvidn"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/339286",
+        "name": "Jason Quense",
+        "repo": {
+            "description": "Dead simple Object schema validation",
+            "name": "yup",
+            "url": "https://github.com/jquense/yup"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/jquense",
+        "username": "jquense"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1444314",
+        "name": "Paulus Schoutsen",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/balloob",
+        "username": "balloob"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/664597",
+        "name": "Philipp C. Heckel",
+        "repo": {
+            "description": "Send push notifications to your phone or desktop using PUT/POST",
+            "name": "ntfy",
+            "url": "https://github.com/binwiederhier/ntfy"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/binwiederhier",
+        "username": "binwiederhier"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/4060",
+        "name": "Fernand Galiana",
+        "repo": {
+            "description": "\ud83d\udc36 Kubernetes CLI To Manage Your Clusters In Style!",
+            "name": "k9s",
+            "url": "https://github.com/derailed/k9s"
+        },
+        "sponsorUrl": "https://github.com/sponsors/derailed",
+        "url": "https://github.com/derailed",
+        "username": "derailed"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/159488",
+        "name": "Niels Lohmann",
+        "repo": {
+            "description": "JSON for Modern C++",
+            "name": "json",
+            "url": "https://github.com/nlohmann/json"
+        },
+        "sponsorUrl": "https://github.com/sponsors/nlohmann",
+        "url": "https://github.com/nlohmann",
+        "username": "nlohmann"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2692731",
+        "name": "Maxence Charriere",
+        "repo": {
+            "description": "A package to build progressive web apps with Go programming language and WebAssembly.",
+            "name": "go-app",
+            "url": "https://github.com/maxence-charriere/go-app"
+        },
+        "sponsorUrl": "https://github.com/sponsors/maxence-charriere",
+        "url": "https://github.com/maxence-charriere",
+        "username": "maxence-charriere"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/57224",
+        "name": "K\u00e9vin Dunglas",
+        "repo": {
+            "description": "A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`.",
+            "name": "symfony-docker",
+            "url": "https://github.com/dunglas/symfony-docker"
+        },
+        "sponsorUrl": "https://github.com/sponsors/dunglas",
+        "url": "https://github.com/dunglas",
+        "username": "dunglas"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/16480203",
+        "name": "Rapha\u00ebl",
+        "repo": {
+            "description": "Information gathering & OSINT framework for phone numbers",
+            "name": "phoneinfoga",
+            "url": "https://github.com/sundowndev/phoneinfoga"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/sundowndev",
+        "username": "sundowndev"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/41240",
+        "name": "Hynek Schlawack",
+        "repo": {
+            "description": "Structured Logging for Python",
+            "name": "structlog",
+            "url": "https://github.com/hynek/structlog"
+        },
+        "sponsorUrl": "https://github.com/sponsors/hynek",
+        "url": "https://github.com/hynek",
+        "username": "hynek"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1148717",
+        "name": "Emil Ernerfeldt",
+        "repo": {
+            "description": "egui: an easy-to-use immediate mode GUI in pure Rust",
+            "name": "egui",
+            "url": "https://github.com/emilk/egui"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/emilk",
+        "username": "emilk"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2621",
+        "name": "Brad Fitzpatrick",
+        "repo": {
+            "description": "a #golang Snake game in webassembly running at http://snake.126.49.198.in-addr.arpa/",
+            "name": "snake",
+            "url": "https://github.com/bradfitz/snake"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/bradfitz",
+        "username": "bradfitz"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/3316789",
+        "name": "Rob Ede",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/robjtede",
+        "username": "robjtede"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/882976",
+        "name": "Nikhil Benesch",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/benesch",
+        "username": "benesch"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1849174",
+        "name": "Anton Komarev",
+        "repo": {
+            "description": "It counts how many times your GitHub profile has been viewed. Free cloud micro-service.",
+            "name": "github-profile-views-counter",
+            "url": "https://github.com/antonkomarev/github-profile-views-counter"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/antonkomarev",
+        "username": "antonkomarev"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/3698644",
+        "name": "Matt Glaman",
+        "repo": {
+            "description": "Drupal's Typed Data API by example",
+            "name": "drupal-typed-data-by-example",
+            "url": "https://github.com/mglaman/drupal-typed-data-by-example"
+        },
+        "sponsorUrl": "https://github.com/sponsors/mglaman",
+        "url": "https://github.com/mglaman",
+        "username": "mglaman"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1369770",
+        "name": "Drew Powers",
+        "repo": {
+            "description": "Generate TypeScript types from Swagger OpenAPI specs",
+            "name": "openapi-typescript",
+            "url": "https://github.com/drwpow/openapi-typescript"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/drwpow",
+        "username": "drwpow"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/194609",
+        "name": "Benjamin E. Coe",
+        "repo": {
+            "description": "output coverage reports using Node.js' built in coverage",
+            "name": "c8",
+            "url": "https://github.com/bcoe/c8"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/bcoe",
+        "username": "bcoe"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/4169187",
+        "name": "Erik Ejlskov Jensen",
+        "repo": {
+            "description": "Entity Framework Core Power Tools - reverse engineering, migrations and model visualization for EF Core",
+            "name": "EFCorePowerTools",
+            "url": "https://github.com/ErikEJ/EFCorePowerTools"
+        },
+        "sponsorUrl": "https://github.com/sponsors/ErikEJ",
+        "url": "https://github.com/ErikEJ",
+        "username": "ErikEJ"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/7763184",
+        "name": "kpcyrd",
+        "repo": {
+            "description": "Semi-automatic OSINT framework and package manager",
+            "name": "sn0int",
+            "url": "https://github.com/kpcyrd/sn0int"
+        },
+        "sponsorUrl": "https://github.com/sponsors/kpcyrd",
+        "url": "https://github.com/kpcyrd",
+        "username": "kpcyrd"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/41945903",
+        "name": "Rafa\u0142 Mikrut",
+        "repo": {
+            "description": "Multi functional app to find duplicates, empty folders, similar images etc.",
+            "name": "czkawka",
+            "url": "https://github.com/qarmin/czkawka"
+        },
+        "sponsorUrl": "https://github.com/sponsors/qarmin",
+        "url": "https://github.com/qarmin",
+        "username": "qarmin"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/439401",
+        "name": "Christophe Coevoet",
+        "repo": {
+            "description": "Provides authentication features for your Symfony2 Project. Compatible with Doctrine ORM & ODM and Propel",
+            "name": "FOSUserBundle",
+            "url": "https://github.com/stof/FOSUserBundle"
+        },
+        "sponsorUrl": "https://github.com/sponsors/stof",
+        "url": "https://github.com/stof",
+        "username": "stof"
+    }
+]
