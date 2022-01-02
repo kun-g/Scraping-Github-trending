@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [btrace](https://github.com/bytedance/btrace) | 🔥🔥 btrace(AKA RheaTrace) is a high performance Android trace tool which is based on Systrace, it support to define custom events automatically during building apk and using bhook to provider more native events like IO. |
+| [vit-pytorch](https://github.com/lucidrains/vit-pytorch) | Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch |
 | [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics |
-| [log4jscanner](https://github.com/google/log4jscanner) | None |
-| [data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) | Code for Data Engineer Zoomcamp course |
-| [PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection) | Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection. |
+| [incubator-seatunnel](https://github.com/apache/incubator-seatunnel) | SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time). |
+| [lede](https://github.com/coolsnowwolf/lede) | Lean's OpenWrt source |
+| [termux-packages](https://github.com/termux/termux-packages) | A build system and primary set of packages for Termux. |
+| [hoppscotch](https://github.com/hoppscotch/hoppscotch) | 👽 Open source API development ecosystem https://hoppscotch.io |
+| [quickjs](https://github.com/bellard/quickjs) | Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches. |
+| [json](https://github.com/nlohmann/json) | JSON for Modern C++ |
+| [project_web3.0](https://github.com/adrianhajdin/project_web3.0) | Web 3.0 React Solidity Blockchain Application |
 | [papers-we-love](https://github.com/papers-we-love/papers-we-love) | Papers from the computer science community to read and discuss. |
-| [python-fire](https://github.com/google/python-fire) | Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object. |
-| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
-| [leetcode-master](https://github.com/youngyangyang04/leetcode-master) | 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀 |
-| [ja-netfilter](https://github.com/ja-netfilter/ja-netfilter) | A javaagent framework |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
