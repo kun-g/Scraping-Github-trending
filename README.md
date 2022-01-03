@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [vit-pytorch](https://github.com/lucidrains/vit-pytorch) | Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch |
-| [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics |
 | [incubator-seatunnel](https://github.com/apache/incubator-seatunnel) | SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time). |
-| [lede](https://github.com/coolsnowwolf/lede) | Lean's OpenWrt source |
-| [termux-packages](https://github.com/termux/termux-packages) | A build system and primary set of packages for Termux. |
-| [hoppscotch](https://github.com/hoppscotch/hoppscotch) | 👽 Open source API development ecosystem https://hoppscotch.io |
-| [quickjs](https://github.com/bellard/quickjs) | Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches. |
-| [json](https://github.com/nlohmann/json) | JSON for Modern C++ |
-| [project_web3.0](https://github.com/adrianhajdin/project_web3.0) | Web 3.0 React Solidity Blockchain Application |
-| [papers-we-love](https://github.com/papers-we-love/papers-we-love) | Papers from the computer science community to read and discuss. |
+| [hacker-laws](https://github.com/dwmkerr/hacker-laws) | 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws |
+| [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics |
+| [monique-monosynth](https://github.com/surge-synthesizer/monique-monosynth) | Monique monosynth |
+| [jupyter-text2code](https://github.com/deepklarity/jupyter-text2code) | A proof-of-concept jupyter extension which converts english queries into relevant python code |
+| [GoBooks](https://github.com/dariubs/GoBooks) | List of Golang books |
+| [learngo](https://github.com/inancgumus/learngo) | 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes |
+| [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) | GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。 |
+| [MagiskOnWSA](https://github.com/LSPosed/MagiskOnWSA) | Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android) |
+| [starship](https://github.com/starship/starship) | ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell! |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
