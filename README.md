@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [incubator-seatunnel](https://github.com/apache/incubator-seatunnel) | SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time). |
-| [hacker-laws](https://github.com/dwmkerr/hacker-laws) | 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws |
-| [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics |
-| [monique-monosynth](https://github.com/surge-synthesizer/monique-monosynth) | Monique monosynth |
-| [jupyter-text2code](https://github.com/deepklarity/jupyter-text2code) | A proof-of-concept jupyter extension which converts english queries into relevant python code |
+| [basic-computer-games](https://github.com/coding-horror/basic-computer-games) | An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common programming languages |
+| [log4jscanner](https://github.com/google/log4jscanner) | A log4j vulnerability filesystem scanner and Go package for analyzing JAR files. |
+| [lapce](https://github.com/lapce/lapce) | Lightning-fast and Powerful Code Editor written in Rust |
 | [GoBooks](https://github.com/dariubs/GoBooks) | List of Golang books |
-| [learngo](https://github.com/inancgumus/learngo) | 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes |
-| [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) | GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。 |
-| [MagiskOnWSA](https://github.com/LSPosed/MagiskOnWSA) | Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android) |
-| [starship](https://github.com/starship/starship) | ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell! |
+| [solmate](https://github.com/Rari-Capital/solmate) | Modern, opinionated, and gas optimized building blocks for smart contract development. |
+| [assets](https://github.com/trustwallet/assets) | A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens. |
+| [opensource.guide](https://github.com/github/opensource.guide) | 📚 Community guides for open source creators |
+| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
+| [notflix](https://github.com/Bugswriter/notflix) | Notflix is a shell script to search and stream torrent. |
+| [bgfx](https://github.com/bkaradzic/bgfx) | Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
