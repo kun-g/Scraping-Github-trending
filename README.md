@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [basic-computer-games](https://github.com/coding-horror/basic-computer-games) | An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common programming languages |
-| [log4jscanner](https://github.com/google/log4jscanner) | A log4j vulnerability filesystem scanner and Go package for analyzing JAR files. |
-| [lapce](https://github.com/lapce/lapce) | Lightning-fast and Powerful Code Editor written in Rust |
-| [GoBooks](https://github.com/dariubs/GoBooks) | List of Golang books |
-| [solmate](https://github.com/Rari-Capital/solmate) | Modern, opinionated, and gas optimized building blocks for smart contract development. |
-| [assets](https://github.com/trustwallet/assets) | A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens. |
+| [sunflower-farmers](https://github.com/sunflower-farmers/sunflower-farmers) | None |
+| [gateio-crypto-trading-bot-binance-announcements-new-coins](https://github.com/CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins) | This is a crypto trading bot that scans the Binance Annoucements page for new coins, and places trades on Gateio |
+| [fmt](https://github.com/fmtlib/fmt) | A modern formatting library |
 | [opensource.guide](https://github.com/github/opensource.guide) | 📚 Community guides for open source creators |
-| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
+| [DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | This repository consists of the code samples, assignments, and the curriculum for the Community Classroom complete Data Structures & Algorithms Java bootcamp. |
+| [awesome-piracy](https://github.com/Igglybuff/awesome-piracy) | A curated list of awesome warez and piracy links |
+| [defi-derivatives](https://github.com/0xperp/defi-derivatives) | A hopefully comprehensive guide to the defi derivative landscape |
+| [flutter-tips-and-tricks](https://github.com/vandadnp/flutter-tips-and-tricks) | A Collection of Flutter and Dart Tips and Tricks |
 | [notflix](https://github.com/Bugswriter/notflix) | Notflix is a shell script to search and stream torrent. |
-| [bgfx](https://github.com/bkaradzic/bgfx) | Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
