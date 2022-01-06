@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [basic-computer-games](https://github.com/coding-horror/basic-computer-games) | An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common programming languages |
 | [sunflower-farmers](https://github.com/sunflower-farmers/sunflower-farmers) | None |
-| [gateio-crypto-trading-bot-binance-announcements-new-coins](https://github.com/CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins) | This is a crypto trading bot that scans the Binance Annoucements page for new coins, and places trades on Gateio |
-| [fmt](https://github.com/fmtlib/fmt) | A modern formatting library |
-| [opensource.guide](https://github.com/github/opensource.guide) | 📚 Community guides for open source creators |
-| [DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | This repository consists of the code samples, assignments, and the curriculum for the Community Classroom complete Data Structures & Algorithms Java bootcamp. |
-| [awesome-piracy](https://github.com/Igglybuff/awesome-piracy) | A curated list of awesome warez and piracy links |
-| [defi-derivatives](https://github.com/0xperp/defi-derivatives) | A hopefully comprehensive guide to the defi derivative landscape |
-| [flutter-tips-and-tricks](https://github.com/vandadnp/flutter-tips-and-tricks) | A Collection of Flutter and Dart Tips and Tricks |
-| [notflix](https://github.com/Bugswriter/notflix) | Notflix is a shell script to search and stream torrent. |
+| [r3live](https://github.com/hku-mars/r3live) | A Robust, Real-time, RGB-colored, LiDAR-Inertial-Visual tightly-coupled state Estimation and mapping package |
+| [kibana](https://github.com/elastic/kibana) | Your window into the Elastic Stack |
+| [cypress](https://github.com/cypress-io/cypress) | Fast, easy and reliable testing for anything that runs in a browser. |
+| [dura](https://github.com/tkellogg/dura) | You shouldn't ever lose your work if you're using Git |
+| [pegasus_spyware](https://github.com/jonathandata1/pegasus_spyware) | decompiled pegasus_spyware |
+| [PDFPatcher](https://github.com/wmjordan/PDFPatcher) | PDF补丁丁 |
+| [roadmap](https://github.com/Flutterando/roadmap) | Flutter roadmap pt-BR |
+| [stat_rethinking_2022](https://github.com/rmcelreath/stat_rethinking_2022) | Statistical Rethinking course winter 2022 |
+| [awesome-explainable-graph-reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning) | A collection of research papers and software related to explainability in graph machine learning. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
