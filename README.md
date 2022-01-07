@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [sunflower-farmers](https://github.com/sunflower-farmers/sunflower-farmers) | None |
-| [r3live](https://github.com/hku-mars/r3live) | A Robust, Real-time, RGB-colored, LiDAR-Inertial-Visual tightly-coupled state Estimation and mapping package |
-| [kibana](https://github.com/elastic/kibana) | Your window into the Elastic Stack |
-| [cypress](https://github.com/cypress-io/cypress) | Fast, easy and reliable testing for anything that runs in a browser. |
-| [dura](https://github.com/tkellogg/dura) | You shouldn't ever lose your work if you're using Git |
 | [pegasus_spyware](https://github.com/jonathandata1/pegasus_spyware) | decompiled pegasus_spyware |
 | [PDFPatcher](https://github.com/wmjordan/PDFPatcher) | PDF补丁丁 |
-| [roadmap](https://github.com/Flutterando/roadmap) | Flutter roadmap pt-BR |
-| [stat_rethinking_2022](https://github.com/rmcelreath/stat_rethinking_2022) | Statistical Rethinking course winter 2022 |
-| [awesome-explainable-graph-reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning) | A collection of research papers and software related to explainability in graph machine learning. |
+| [sunflower-farmers](https://github.com/sunflower-farmers/sunflower-farmers) | None |
+| [CodeAnalysis](https://github.com/Tencent/CodeAnalysis) | Static Code Analysis |
+| [PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! |
+| [fmt](https://github.com/fmtlib/fmt) | A modern formatting library |
+| [tauri](https://github.com/tauri-apps/tauri) | Build smaller, faster, and more secure desktop applications with a web frontend. |
+| [rathole](https://github.com/rapiz1/rathole) | A lightweight, stable and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok. |
+| [Fiora](https://github.com/bit4woo/Fiora) | Fiora：漏洞PoC框架的图形版，快捷搜索PoC、一键运行Nuclei |
+| [Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) | 🔥 Disintegrate your apps with style. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
