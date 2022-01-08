@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [pegasus_spyware](https://github.com/jonathandata1/pegasus_spyware) | decompiled pegasus_spyware |
-| [PDFPatcher](https://github.com/wmjordan/PDFPatcher) | PDF补丁丁 |
-| [sunflower-farmers](https://github.com/sunflower-farmers/sunflower-farmers) | None |
+| [amis](https://github.com/baidu/amis) | 前端低代码框架，通过 JSON 配置就能生成各种页面。 |
+| [faker.js](https://github.com/Marak/faker.js) | What really happened with Aaron Swartz? |
+| [weekly](https://github.com/ascoders/weekly) | 前端精读周刊。帮你理解最前沿、实用的技术。 |
+| [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) | 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace. |
+| [dioxus](https://github.com/DioxusLabs/dioxus) | Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more. |
+| [terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) | Terraform module to create an Elastic Kubernetes (EKS) cluster and associated worker instances on AWS |
 | [CodeAnalysis](https://github.com/Tencent/CodeAnalysis) | Static Code Analysis |
-| [PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! |
-| [fmt](https://github.com/fmtlib/fmt) | A modern formatting library |
-| [tauri](https://github.com/tauri-apps/tauri) | Build smaller, faster, and more secure desktop applications with a web frontend. |
-| [rathole](https://github.com/rapiz1/rathole) | A lightweight, stable and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok. |
-| [Fiora](https://github.com/bit4woo/Fiora) | Fiora：漏洞PoC框架的图形版，快捷搜索PoC、一键运行Nuclei |
-| [Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) | 🔥 Disintegrate your apps with style. |
+| [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) | This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps. |
+| [aws-cdk](https://github.com/aws/aws-cdk) | The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code |
+| [COVID-19](https://github.com/CSSEGISandData/COVID-19) | Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
