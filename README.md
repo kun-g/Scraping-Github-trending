@@ -42,13 +42,13 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [GFPGAN](https://github.com/TencentARC/GFPGAN) | GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration. |
+| [logging-log4j2](https://github.com/apache/logging-log4j2) | Apache Log4j 2 is an upgrade to Log4j that provides significant improvements over its predecessor, Log4j 1.x, and provides many of the improvements available in Logback while fixing some inherent problems in Logback's architecture. |
+| [turborepo](https://github.com/vercel/turborepo) | The High-performance Build System for JavaScript & TypeScript Codebases |
 | [tabby](https://github.com/Eugeny/tabby) | A terminal for a more modern age |
-| [ja-netfilter](https://github.com/ja-netfilter/ja-netfilter) | A javaagent framework |
 | [spider-flow](https://github.com/ssssssss-team/spider-flow) | 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。 |
+| [ja-netfilter](https://github.com/ja-netfilter/ja-netfilter) | A javaagent framework |
 | [syft](https://github.com/anchore/syft) | CLI tool and library for generating a Software Bill of Materials from container images and filesystems |
-| [oot](https://github.com/zeldaret/oot) | Decompilation of The Legend of Zelda: Ocarina of Time |
 | [bombcrypto-bot](https://github.com/mpcabete/bombcrypto-bot) | This is a python bot that automatically logs in, clicks the new button, and sends heroes to work in the bombcrypto game. It is fully open source and free. |
-| [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Roadmap to becoming a developer in 2022 |
-| [Real-Time-Rendering-4th-Bibliography-Collection](https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection) | Real-Time Rendering 4th (RTR4) 参考文献合集典藏 | Collection of <Real-Time Rendering 4th (RTR4)> Bibliography / Reference |
-| [WantWords](https://github.com/thunlp/WantWords) | An open-source online reverse dictionary. |
+| [marktext](https://github.com/marktext/marktext) | 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. |
+| [ddia](https://github.com/Vonng/ddia) | 《Designing Data-Intensive Application》DDIA中文翻译 |
 <!-- END OF MONTHLY_TOP10_REPOS -->
