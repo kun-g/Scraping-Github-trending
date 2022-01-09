@@ -1,0 +1,294 @@
+[
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/857609",
+        "name": "Adam Johnson",
+        "repo": {
+            "description": "Extensions for using Django with htmx.",
+            "name": "django-htmx",
+            "url": "https://github.com/adamchainz/django-htmx"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/adamchainz",
+        "username": "adamchainz"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1810591",
+        "name": "Anthony Sottile",
+        "repo": {
+            "description": "A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.",
+            "name": "pyupgrade",
+            "url": "https://github.com/asottile/pyupgrade"
+        },
+        "sponsorUrl": "https://github.com/sponsors/asottile",
+        "url": "https://github.com/asottile",
+        "username": "asottile"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/18365890",
+        "name": "Peter Evans",
+        "repo": {
+            "description": "A GitHub action to create a pull request for changes to your repository in the actions workspace",
+            "name": "create-pull-request",
+            "url": "https://github.com/peter-evans/create-pull-request"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/peter-evans",
+        "username": "peter-evans"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/218610",
+        "name": "Trask Stalnaker",
+        "repo": {
+            "description": null,
+            "name": "bug-bash",
+            "url": "https://github.com/trask/bug-bash"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/trask",
+        "username": "trask"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2231765",
+        "name": "Robert Mosolgo",
+        "repo": {
+            "description": "Ruby implementation of GraphQL",
+            "name": "graphql-ruby",
+            "url": "https://github.com/rmosolgo/graphql-ruby"
+        },
+        "sponsorUrl": "https://github.com/sponsors/rmosolgo",
+        "url": "https://github.com/rmosolgo",
+        "username": "rmosolgo"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/515813",
+        "name": "Sam Clegg",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/sbc100",
+        "username": "sbc100"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/283842",
+        "name": "Nolan Lawson",
+        "repo": {
+            "description": "A tool for finding memory leaks in web apps",
+            "name": "fuite",
+            "url": "https://github.com/nolanlawson/fuite"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/nolanlawson",
+        "username": "nolanlawson"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/3797675",
+        "name": "Stefan Prodan",
+        "repo": {
+            "description": "Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager",
+            "name": "dockprom",
+            "url": "https://github.com/stefanprodan/dockprom"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/stefanprodan",
+        "username": "stefanprodan"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/594614",
+        "name": "Dries Vints",
+        "repo": {
+            "description": "Get started with your own dotfiles.",
+            "name": "dotfiles",
+            "url": "https://github.com/driesvints/dotfiles"
+        },
+        "sponsorUrl": "https://github.com/sponsors/driesvints",
+        "url": "https://github.com/driesvints",
+        "username": "driesvints"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/31920396",
+        "name": "Pavel Iakubovskii",
+        "repo": {
+            "description": "Segmentation models with pretrained backbones. PyTorch.",
+            "name": "segmentation_models.pytorch",
+            "url": "https://github.com/qubvel/segmentation_models.pytorch"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/qubvel",
+        "username": "qubvel"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/20105061",
+        "name": "Yujia Qiao",
+        "repo": {
+            "description": "A lightweight, stable and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.",
+            "name": "rathole",
+            "url": "https://github.com/rapiz1/rathole"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/rapiz1",
+        "username": "rapiz1"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/97088",
+        "name": "mrdoob",
+        "repo": {
+            "description": "JavaScript 3D Library.",
+            "name": "three.js",
+            "url": "https://github.com/mrdoob/three.js"
+        },
+        "sponsorUrl": "https://github.com/sponsors/mrdoob",
+        "url": "https://github.com/mrdoob",
+        "username": "mrdoob"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/462317",
+        "name": "Adrienne Walker",
+        "repo": {
+            "description": "FFXIV JavaScript Raiding Overlay",
+            "name": "cactbot",
+            "url": "https://github.com/quisquous/cactbot"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/quisquous",
+        "username": "quisquous"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/104498",
+        "name": "Jimmy Bogard",
+        "repo": {
+            "description": "Simple, unambitious mediator implementation in .NET",
+            "name": "MediatR",
+            "url": "https://github.com/jbogard/MediatR"
+        },
+        "sponsorUrl": "https://github.com/sponsors/jbogard",
+        "url": "https://github.com/jbogard",
+        "username": "jbogard"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/173661",
+        "name": "Alon Zakai",
+        "repo": {
+            "description": "Direct port of the Bullet physics engine to JavaScript using Emscripten",
+            "name": "ammo.js",
+            "url": "https://github.com/kripken/ammo.js"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/kripken",
+        "username": "kripken"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/22450188",
+        "name": "James N",
+        "repo": {
+            "description": "Beautiful syntax highlighting for your MD/MDX docs",
+            "name": "rehype-pretty-code",
+            "url": "https://github.com/atomiks/rehype-pretty-code"
+        },
+        "sponsorUrl": "https://github.com/sponsors/atomiks",
+        "url": "https://github.com/atomiks",
+        "username": "atomiks"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/9714350",
+        "name": "Michael Staib",
+        "repo": {
+            "description": "Contains demos and slides to my public speaking engagements.",
+            "name": "PublicSpeaking",
+            "url": "https://github.com/michaelstaib/PublicSpeaking"
+        },
+        "sponsorUrl": "https://github.com/sponsors/michaelstaib",
+        "url": "https://github.com/michaelstaib",
+        "username": "michaelstaib"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/5457236",
+        "name": "Nuno Maduro",
+        "repo": {
+            "description": "\ud83c\udf43 In short, it's like Tailwind CSS, but for the PHP command-line applications.",
+            "name": "termwind",
+            "url": "https://github.com/nunomaduro/termwind"
+        },
+        "sponsorUrl": "https://github.com/sponsors/nunomaduro",
+        "url": "https://github.com/nunomaduro",
+        "username": "nunomaduro"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/18519037",
+        "name": "Seth Michael Larson",
+        "repo": {
+            "description": "User-friendly packet captures",
+            "name": "capture-packets",
+            "url": "https://github.com/sethmlarson/capture-packets"
+        },
+        "sponsorUrl": "https://github.com/sponsors/sethmlarson",
+        "url": "https://github.com/sethmlarson",
+        "username": "sethmlarson"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/744771",
+        "name": "Lukas Klingsbo",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/spydon",
+        "username": "spydon"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/8366208",
+        "name": "Yair Morgenstern",
+        "repo": {
+            "description": "Open-source Android/Desktop remake of Civ V",
+            "name": "Unciv",
+            "url": "https://github.com/yairm210/Unciv"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/yairm210",
+        "username": "yairm210"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/100200",
+        "name": "Ryan Florence",
+        "repo": {
+            "description": null,
+            "name": "remix-planner",
+            "url": "https://github.com/ryanflorence/remix-planner"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/ryanflorence",
+        "username": "ryanflorence"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/584253",
+        "name": "Nemo",
+        "repo": {
+            "description": "A public letter to Cloudflare to fix their snoopy vendor",
+            "name": "hello-cloudflare",
+            "url": "https://github.com/captn3m0/hello-cloudflare"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/captn3m0",
+        "username": "captn3m0"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/136959",
+        "name": "Rob Garrison",
+        "repo": {
+            "description": "Userscripts to add functionality to GitHub",
+            "name": "GitHub-userscripts",
+            "url": "https://github.com/Mottie/GitHub-userscripts"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/Mottie",
+        "username": "Mottie"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/6942",
+        "name": "Tom Payne",
+        "repo": {
+            "description": "Manage your dotfiles across multiple diverse machines, securely.",
+            "name": "chezmoi",
+            "url": "https://github.com/twpayne/chezmoi"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/twpayne",
+        "username": "twpayne"
+    }
+]
