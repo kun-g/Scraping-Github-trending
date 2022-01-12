@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [bevy](https://github.com/bevyengine/bevy) | A refreshingly simple data-driven game engine built in Rust |
 | [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) | 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace. |
-| [zju-icicles](https://github.com/QSCTech/zju-icicles) | 浙江大学课程攻略共享计划 |
-| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
-| [solana](https://github.com/solana-labs/solana) | Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces. |
-| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
-| [Tasmota](https://github.com/arendst/Tasmota) | Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at |
-| [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity |
+| [faker](https://github.com/faker-js/faker) | Generate massive amounts of fake data in the browser and node.js |
+| [faker.js](https://github.com/Marak/faker.js) | What really happened with Aaron Swartz? |
 | [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. |
-| [Java](https://github.com/TheAlgorithms/Java) | All Algorithms implemented in Java |
+| [colors.js](https://github.com/Marak/colors.js) | get colors in your node.js console |
+| [data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) | Code for Data Engineer Zoomcamp course |
+| [Easy-GPU-PV](https://github.com/jamesstringerparsec/Easy-GPU-PV) | A Project dedicated to making GPU Partitioning on Windows easier! |
+| [sds-dsmovie](https://github.com/devsuperior/sds-dsmovie) | None |
+| [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk) | 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码 |
+| [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
