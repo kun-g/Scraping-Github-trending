@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [plutus-pioneer-program](https://github.com/input-output-hk/plutus-pioneer-program) | None |
-| [faker](https://github.com/faker-js/faker) | Generate massive amounts of fake data in the browser and node.js |
-| [colors.js](https://github.com/Marak/colors.js) | get colors in your node.js console |
-| [RAUDI](https://github.com/cybersecsi/RAUDI) | A repo to automatically generate and keep updated a series of Docker images through GitHub Actions. |
-| [zju-icicles](https://github.com/QSCTech/zju-icicles) | 浙江大学课程攻略共享计划 |
-| [interviews.ai](https://github.com/BoltzmannEntropy/interviews.ai) | It is my belief that you, the postgraduate students and job-seekers for whom the book is primarily meant will benefit from reading it; however, it is my hope that even the most experienced researchers will find it fascinating as well. |
-| [bevy](https://github.com/bevyengine/bevy) | A refreshingly simple data-driven game engine built in Rust |
-| [plutus-apps](https://github.com/input-output-hk/plutus-apps) | The Plutus application platform |
-| [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. |
-| [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) | 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace. |
+| [ConvNeXt](https://github.com/facebookresearch/ConvNeXt) | Code release for ConvNeXt model |
+| [leveldb](https://github.com/google/leveldb) | LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. |
+| [jadx](https://github.com/skylot/jadx) | Dex to Java decompiler |
+| [annotated_latex_equations](https://github.com/synercys/annotated_latex_equations) | Examples of how to create colorful, annotated equations in Latex using Tikz. |
+| [protobuf](https://github.com/protocolbuffers/protobuf) | Protocol Buffers - Google's data interchange format |
+| [superset](https://github.com/apache/superset) | Apache Superset is a Data Visualization and Data Exploration Platform |
+| [powershell-windows-toolbox](https://github.com/windowtoolbox/powershell-windows-toolbox) | None |
+| [windowjs](https://github.com/windowjs/windowjs) | Window.js is an open-source Javascript runtime for desktop graphics programming. |
+| [woocommerce](https://github.com/woocommerce/woocommerce) | An open source eCommerce plugin for WordPress. |
+| [dsq](https://github.com/multiprocessio/dsq) | Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
