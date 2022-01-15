@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [ConvNeXt](https://github.com/facebookresearch/ConvNeXt) | Code release for ConvNeXt model |
-| [leveldb](https://github.com/google/leveldb) | LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. |
-| [jadx](https://github.com/skylot/jadx) | Dex to Java decompiler |
-| [annotated_latex_equations](https://github.com/synercys/annotated_latex_equations) | Examples of how to create colorful, annotated equations in Latex using Tikz. |
-| [protobuf](https://github.com/protocolbuffers/protobuf) | Protocol Buffers - Google's data interchange format |
-| [superset](https://github.com/apache/superset) | Apache Superset is a Data Visualization and Data Exploration Platform |
-| [powershell-windows-toolbox](https://github.com/windowtoolbox/powershell-windows-toolbox) | None |
+| [SpoofThatMail](https://github.com/v4d1/SpoofThatMail) | Bash script to check if a domain or list of domains can be spoofed based in DMARC records |
 | [windowjs](https://github.com/windowjs/windowjs) | Window.js is an open-source Javascript runtime for desktop graphics programming. |
-| [woocommerce](https://github.com/woocommerce/woocommerce) | An open source eCommerce plugin for WordPress. |
-| [dsq](https://github.com/multiprocessio/dsq) | Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more. |
+| [astro](https://github.com/withastro/astro) | Build fast websites, faster. 🚀🧑‍🚀✨ |
+| [CS-Notes](https://github.com/CyC2018/CS-Notes) | 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 |
+| [superset](https://github.com/apache/superset) | Apache Superset is a Data Visualization and Data Exploration Platform |
+| [applied-ml](https://github.com/eugeneyan/applied-ml) | 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production. |
+| [ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste) | Cut and paste your surroundings using AR |
+| [jdog202201](https://github.com/abigsoft/jdog202201) | 京东2022炸年兽 |
+| [DevSecOps](https://github.com/sottlmarek/DevSecOps) | Ultimate DevSecOps library |
+| [ConvNeXt](https://github.com/facebookresearch/ConvNeXt) | Code release for ConvNeXt model |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
