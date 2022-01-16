@@ -25,16 +25,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [incubator-seatunnel](https://github.com/apache/incubator-seatunnel) | SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time). |
-| [project_web3.0](https://github.com/adrianhajdin/project_web3.0) | Web 3.0 React Solidity Blockchain Application |
-| [log4jscanner](https://github.com/google/log4jscanner) | A log4j vulnerability filesystem scanner and Go package for analyzing JAR files. |
-| [fmt](https://github.com/fmtlib/fmt) | A modern formatting library |
-| [amis](https://github.com/baidu/amis) | 前端低代码框架，通过 JSON 配置就能生成各种页面。 |
-| [bitburner](https://github.com/danielyxie/bitburner) | Bitburner Game |
-| [gateio-crypto-trading-bot-binance-announcements-new-coins](https://github.com/CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins) | This is a crypto trading bot that scans the Binance Annoucements page for new coins, and places trades on Gateio |
-| [cypress](https://github.com/cypress-io/cypress) | Fast, easy and reliable testing for anything that runs in a browser. |
-| [solmate](https://github.com/Rari-Capital/solmate) | Modern, opinionated, and gas optimized building blocks for smart contract development. |
-| [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics |
+| [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) | 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace. |
+| [faker.js](https://github.com/Marak/faker.js) | What really happened with Aaron Swartz? |
+| [mae](https://github.com/facebookresearch/mae) | PyTorch implementation of MAE https//arxiv.org/abs/2111.06377 |
+| [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk) | 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码 |
+| [bevy](https://github.com/bevyengine/bevy) | A refreshingly simple data-driven game engine built in Rust |
+| [xquic](https://github.com/alibaba/xquic) | None |
+| [PDFPatcher](https://github.com/wmjordan/PDFPatcher) | PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等 |
+| [awesome-piracy](https://github.com/Igglybuff/awesome-piracy) | A curated list of awesome warez and piracy links |
+| [zju-icicles](https://github.com/QSCTech/zju-icicles) | 浙江大学课程攻略共享计划 |
+| [astro](https://github.com/withastro/astro) | Build fast websites, faster. 🚀🧑‍🚀✨ |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
