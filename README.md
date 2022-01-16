@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [SpoofThatMail](https://github.com/v4d1/SpoofThatMail) | Bash script to check if a domain or list of domains can be spoofed based in DMARC records |
-| [windowjs](https://github.com/windowjs/windowjs) | Window.js is an open-source Javascript runtime for desktop graphics programming. |
+| [Files](https://github.com/files-community/Files) | A modern file manager that pushes the boundaries of the platform. |
 | [astro](https://github.com/withastro/astro) | Build fast websites, faster. 🚀🧑‍🚀✨ |
-| [CS-Notes](https://github.com/CyC2018/CS-Notes) | 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 |
-| [superset](https://github.com/apache/superset) | Apache Superset is a Data Visualization and Data Exploration Platform |
-| [applied-ml](https://github.com/eugeneyan/applied-ml) | 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production. |
-| [ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste) | Cut and paste your surroundings using AR |
-| [jdog202201](https://github.com/abigsoft/jdog202201) | 京东2022炸年兽 |
-| [DevSecOps](https://github.com/sottlmarek/DevSecOps) | Ultimate DevSecOps library |
 | [ConvNeXt](https://github.com/facebookresearch/ConvNeXt) | Code release for ConvNeXt model |
+| [leveldb](https://github.com/google/leveldb) | LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. |
+| [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) | 🍰 Desktop utility to download images/videos/music/text from various websites, and more. |
+| [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites |
+| [applied-ml](https://github.com/eugeneyan/applied-ml) | 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production. |
+| [crater](https://github.com/crater-invoice/crater) | Open Source Invoicing Solution for Individuals & Businesses |
+| [Windows10Exploits](https://github.com/nu11secur1ty/Windows10Exploits) | Microsoft » Windows 10 : Security Vulnerabilities |
+| [DevSecOps](https://github.com/sottlmarek/DevSecOps) | Ultimate DevSecOps library |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
