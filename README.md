@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [instant-ngp](https://github.com/NVlabs/instant-ngp) | Instant neural graphics primitives: lightning fast NeRF and more |
 | [Files](https://github.com/files-community/Files) | A modern file manager that pushes the boundaries of the platform. |
-| [astro](https://github.com/withastro/astro) | Build fast websites, faster. 🚀🧑‍🚀✨ |
-| [ConvNeXt](https://github.com/facebookresearch/ConvNeXt) | Code release for ConvNeXt model |
-| [leveldb](https://github.com/google/leveldb) | LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. |
-| [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) | 🍰 Desktop utility to download images/videos/music/text from various websites, and more. |
-| [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites |
-| [applied-ml](https://github.com/eugeneyan/applied-ml) | 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production. |
-| [crater](https://github.com/crater-invoice/crater) | Open Source Invoicing Solution for Individuals & Businesses |
-| [Windows10Exploits](https://github.com/nu11secur1ty/Windows10Exploits) | Microsoft » Windows 10 : Security Vulnerabilities |
+| [solidly](https://github.com/andrecronje/solidly) | None |
+| [tachiyomi](https://github.com/tachiyomiorg/tachiyomi) | Free and open source manga reader for Android. |
+| [windowjs](https://github.com/windowjs/windowjs) | Window.js is an open-source Javascript runtime for desktop graphics programming. |
+| [omni](https://github.com/alyssaxuu/omni) | The all-in-one tool to supercharge your productivity ⌨️ |
+| [EIPs](https://github.com/ethereum/EIPs) | The Ethereum Improvement Proposal repository |
+| [mometa](https://github.com/imcuttle/mometa) | 🛠 [Beta] 面向研发的低代码元编程，代码可视编辑，辅助编码工具 |
 | [DevSecOps](https://github.com/sottlmarek/DevSecOps) | Ultimate DevSecOps library |
+| [Ultimate-2D-Controller](https://github.com/Matthew-J-Spencer/Ultimate-2D-Controller) | A great starting point for your 2D controller. Making use of all the hidden tricks like coyote, buffered actions, speedy apex, anti grav apex, etc |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
