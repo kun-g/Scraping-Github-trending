@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [instant-ngp](https://github.com/NVlabs/instant-ngp) | Instant neural graphics primitives: lightning fast NeRF and more |
+| [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites |
+| [realworld](https://github.com/gothinkster/realworld) | "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 |
+| [recipes](https://github.com/TandoorRecipes/recipes) | Application for managing recipes, planning meals, building shopping lists and much much more! |
+| [docs](https://github.com/github/docs) | The open-source repo for docs.github.com |
+| [full-blockchain-solidity-course-py](https://github.com/smartcontractkit/full-blockchain-solidity-course-py) | Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition |
+| [rich](https://github.com/Textualize/rich) | Rich is a Python library for rich text and beautiful formatting in the terminal. |
 | [Files](https://github.com/files-community/Files) | A modern file manager that pushes the boundaries of the platform. |
-| [solidly](https://github.com/andrecronje/solidly) | None |
-| [tachiyomi](https://github.com/tachiyomiorg/tachiyomi) | Free and open source manga reader for Android. |
-| [windowjs](https://github.com/windowjs/windowjs) | Window.js is an open-source Javascript runtime for desktop graphics programming. |
-| [omni](https://github.com/alyssaxuu/omni) | The all-in-one tool to supercharge your productivity ⌨️ |
-| [EIPs](https://github.com/ethereum/EIPs) | The Ethereum Improvement Proposal repository |
-| [mometa](https://github.com/imcuttle/mometa) | 🛠 [Beta] 面向研发的低代码元编程，代码可视编辑，辅助编码工具 |
-| [DevSecOps](https://github.com/sottlmarek/DevSecOps) | Ultimate DevSecOps library |
-| [Ultimate-2D-Controller](https://github.com/Matthew-J-Spencer/Ultimate-2D-Controller) | A great starting point for your 2D controller. Making use of all the hidden tricks like coyote, buffered actions, speedy apex, anti grav apex, etc |
+| [godot](https://github.com/godotengine/godot) | Godot Engine – Multi-platform 2D and 3D game engine |
+| [the_cyber_plumbers_handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook) | Free copy of The Cyber Plumber's Handbook |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
