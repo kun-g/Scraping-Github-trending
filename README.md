@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) | Code for Data Engineer Zoomcamp course |
 | [instant-ngp](https://github.com/NVlabs/instant-ngp) | Instant neural graphics primitives: lightning fast NeRF and more |
-| [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites |
-| [realworld](https://github.com/gothinkster/realworld) | "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 |
-| [recipes](https://github.com/TandoorRecipes/recipes) | Application for managing recipes, planning meals, building shopping lists and much much more! |
-| [docs](https://github.com/github/docs) | The open-source repo for docs.github.com |
+| [OpenLara](https://github.com/XProger/OpenLara) | Classic Tomb Raider open-source engine |
+| [sci-hub-injector](https://github.com/rickwierenga/sci-hub-injector) | Adds SciHub links to popular publisher websites |
+| [mometa](https://github.com/imcuttle/mometa) | 🛠 [Beta] 面向研发的低代码元编程，代码可视编辑，辅助编码工具 |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [minecraft-again](https://github.com/jdah/minecraft-again) | yeah I made it again |
+| [focalboard](https://github.com/mattermost/focalboard) | Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. |
 | [full-blockchain-solidity-course-py](https://github.com/smartcontractkit/full-blockchain-solidity-course-py) | Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition |
-| [rich](https://github.com/Textualize/rich) | Rich is a Python library for rich text and beautiful formatting in the terminal. |
-| [Files](https://github.com/files-community/Files) | A modern file manager that pushes the boundaries of the platform. |
-| [godot](https://github.com/godotengine/godot) | Godot Engine – Multi-platform 2D and 3D game engine |
-| [the_cyber_plumbers_handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook) | Free copy of The Cyber Plumber's Handbook |
+| [marktext](https://github.com/marktext/marktext) | 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
