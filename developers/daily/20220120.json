@@ -1,0 +1,290 @@
+[
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/8456633",
+        "name": "Jesse Duffield",
+        "repo": {
+            "description": "simple terminal UI for git commands",
+            "name": "lazygit",
+            "url": "https://github.com/jesseduffield/lazygit"
+        },
+        "sponsorUrl": "https://github.com/sponsors/jesseduffield",
+        "url": "https://github.com/jesseduffield",
+        "username": "jesseduffield"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/28706372",
+        "name": "Daniel Roe",
+        "repo": {
+            "description": "\ud83c\udfe6 A typed store accessor for vanilla Vuex.",
+            "name": "typed-vuex",
+            "url": "https://github.com/danielroe/typed-vuex"
+        },
+        "sponsorUrl": "https://github.com/sponsors/danielroe",
+        "url": "https://github.com/danielroe",
+        "username": "danielroe"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/140370",
+        "name": "Thibault Duplessis",
+        "repo": {
+            "description": "\u265e lichess.org: the forever free, adless and open source chess server \u265e",
+            "name": "lila",
+            "url": "https://github.com/ornicar/lila"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/ornicar",
+        "username": "ornicar"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/9113740",
+        "name": "Lee Robinson",
+        "repo": {
+            "description": "\u2728 My portfolio built with Next.js, Tailwind, Prisma, and Vercel.",
+            "name": "leerob.io",
+            "url": "https://github.com/leerob/leerob.io"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/leerob",
+        "username": "leerob"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/82342",
+        "name": "R.I.Pienaar",
+        "repo": {
+            "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+            "name": "free-for-dev",
+            "url": "https://github.com/ripienaar/free-for-dev"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/ripienaar",
+        "username": "ripienaar"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/31348972",
+        "name": "Youssef Victor",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/Youssef1313",
+        "username": "Youssef1313"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/210965",
+        "name": "Lovell Fuller",
+        "repo": {
+            "description": "High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.",
+            "name": "sharp",
+            "url": "https://github.com/lovell/sharp"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/lovell",
+        "username": "lovell"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/73870",
+        "name": "Paul Beusterien",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/paulb777",
+        "username": "paulb777"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/17530",
+        "name": "Asim Aslam",
+        "repo": {
+            "description": "A framework for distributed systems development",
+            "name": "go-micro",
+            "url": "https://github.com/asim/go-micro"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/asim",
+        "username": "asim"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2946214",
+        "name": "Joe Chen",
+        "repo": {
+            "description": "\u300aThe Way to Go\u300b\u4e2d\u6587\u8bd1\u672c\uff0c\u4e2d\u6587\u6b63\u5f0f\u540d\u300aGo \u5165\u95e8\u6307\u5357\u300b",
+            "name": "the-way-to-go_ZH_CN",
+            "url": "https://github.com/unknwon/the-way-to-go_ZH_CN"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/unknwon",
+        "username": "unknwon"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1634213",
+        "name": "Oscar Franco",
+        "repo": {
+            "description": "A Raycast/Alfred/Spotlight alternative",
+            "name": "sol",
+            "url": "https://github.com/ospfranco/sol"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/ospfranco",
+        "username": "ospfranco"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/95136",
+        "name": "David Fowler",
+        "repo": {
+            "description": "This repository has examples of broken patterns in ASP.NET Core applications",
+            "name": "AspNetCoreDiagnosticScenarios",
+            "url": "https://github.com/davidfowl/AspNetCoreDiagnosticScenarios"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/davidfowl",
+        "username": "davidfowl"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/7253922",
+        "name": "Aleksandr Statciuk",
+        "repo": {
+            "description": "Node.js CLI tool for checking links in IPTV playlists",
+            "name": "iptv-checker",
+            "url": "https://github.com/freearhey/iptv-checker"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/freearhey",
+        "username": "freearhey"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/4396759",
+        "name": "Erik Rasmussen",
+        "repo": {
+            "description": "A proposal for bundling reducers, action types and actions when using Redux",
+            "name": "ducks-modular-redux",
+            "url": "https://github.com/erikras/ducks-modular-redux"
+        },
+        "sponsorUrl": "https://github.com/sponsors/erikras",
+        "url": "https://github.com/erikras",
+        "username": "erikras"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/41767",
+        "name": "Alec Thomas",
+        "repo": {
+            "description": "Kong is a command-line parser for Go",
+            "name": "kong",
+            "url": "https://github.com/alecthomas/kong"
+        },
+        "sponsorUrl": "https://github.com/sponsors/alecthomas",
+        "url": "https://github.com/alecthomas",
+        "username": "alecthomas"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/365207",
+        "name": "Arnaud Le Blanc",
+        "repo": {
+            "description": "Memory profiler for PHP. Helps finding memory leaks in PHP scripts.",
+            "name": "php-memory-profiler",
+            "url": "https://github.com/arnaud-lb/php-memory-profiler"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/arnaud-lb",
+        "username": "arnaud-lb"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/681260",
+        "name": "Giampaolo Rodola",
+        "repo": {
+            "description": "Cross-platform lib for process and system monitoring in Python",
+            "name": "psutil",
+            "url": "https://github.com/giampaolo/psutil"
+        },
+        "sponsorUrl": "https://github.com/sponsors/giampaolo",
+        "url": "https://github.com/giampaolo",
+        "username": "giampaolo"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/12063586",
+        "name": "Jacob Ebey",
+        "repo": {
+            "description": "WIP",
+            "name": "remix-ecommerce",
+            "url": "https://github.com/jacob-ebey/remix-ecommerce"
+        },
+        "sponsorUrl": "https://github.com/sponsors/jacob-ebey",
+        "url": "https://github.com/jacob-ebey",
+        "username": "jacob-ebey"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1940490",
+        "name": "David Tolnay",
+        "repo": {
+            "description": "A minimal `syn` syntax tree pretty-printer",
+            "name": "prettyplease",
+            "url": "https://github.com/dtolnay/prettyplease"
+        },
+        "sponsorUrl": "https://github.com/sponsors/dtolnay",
+        "url": "https://github.com/dtolnay",
+        "username": "dtolnay"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/189114",
+        "name": "Brian Flad",
+        "repo": {
+            "description": "Terraform Provider Lint Tool",
+            "name": "tfproviderlint",
+            "url": "https://github.com/bflad/tfproviderlint"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/bflad",
+        "username": "bflad"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/790580",
+        "name": "Ronan Sandford",
+        "repo": {
+            "description": "hardhat deployment plugin",
+            "name": "hardhat-deploy",
+            "url": "https://github.com/wighawag/hardhat-deploy"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/wighawag",
+        "username": "wighawag"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/515813",
+        "name": "Sam Clegg",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/sbc100",
+        "username": "sbc100"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/4039449",
+        "name": "Samuel Colvin",
+        "repo": {
+            "description": "Data parsing and validation using Python type hints",
+            "name": "pydantic",
+            "url": "https://github.com/samuelcolvin/pydantic"
+        },
+        "sponsorUrl": "https://github.com/sponsors/samuelcolvin",
+        "url": "https://github.com/samuelcolvin",
+        "username": "samuelcolvin"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/477975",
+        "name": "Mike Cao",
+        "repo": {
+            "description": "Umami is a simple, fast, website analytics alternative to Google Analytics.",
+            "name": "umami",
+            "url": "https://github.com/mikecao/umami"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/mikecao",
+        "username": "mikecao"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1676321",
+        "name": "James Montemagno",
+        "repo": {
+            "description": "Sample Xamarin.Forms app built live on in 101 series on YouTube",
+            "name": "MyCoffeeApp",
+            "url": "https://github.com/jamesmontemagno/MyCoffeeApp"
+        },
+        "sponsorUrl": "https://github.com/sponsors/jamesmontemagno",
+        "url": "https://github.com/jamesmontemagno",
+        "username": "jamesmontemagno"
+    }
+]
