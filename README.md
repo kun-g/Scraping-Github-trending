@@ -25,16 +25,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) | 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace. |
-| [faker.js](https://github.com/Marak/faker.js) | What really happened with Aaron Swartz? |
-| [mae](https://github.com/facebookresearch/mae) | PyTorch implementation of MAE https//arxiv.org/abs/2111.06377 |
-| [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk) | 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码 |
-| [bevy](https://github.com/bevyengine/bevy) | A refreshingly simple data-driven game engine built in Rust |
-| [xquic](https://github.com/alibaba/xquic) | None |
-| [PDFPatcher](https://github.com/wmjordan/PDFPatcher) | PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等 |
-| [awesome-piracy](https://github.com/Igglybuff/awesome-piracy) | A curated list of awesome warez and piracy links |
-| [zju-icicles](https://github.com/QSCTech/zju-icicles) | 浙江大学课程攻略共享计划 |
-| [astro](https://github.com/withastro/astro) | Build fast websites, faster. 🚀🧑‍🚀✨ |
+| [instant-ngp](https://github.com/NVlabs/instant-ngp) | Instant neural graphics primitives: lightning fast NeRF and more |
+| [mometa](https://github.com/imcuttle/mometa) | 🛠 [Beta] 面向研发的低代码元编程，代码可视编辑，辅助编码工具 |
+| [focalboard](https://github.com/mattermost/focalboard) | Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. |
+| [CyberChef](https://github.com/gchq/CyberChef) | The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis |
+| [libpag](https://github.com/Tencent/libpag) | A real-time rendering library for PAG (Portable Animated Graphics) files that renders After Effects animations natively across multiple platforms. |
+| [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) | Latex code for making neural networks diagrams |
+| [rich](https://github.com/Textualize/rich) | Rich is a Python library for rich text and beautiful formatting in the terminal. |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [duino-coin](https://github.com/revoxhere/duino-coin) | ᕲ Duino-Coin is a coin that can be mined with almost everything, including Arduino boards. |
+| [recipes](https://github.com/TandoorRecipes/recipes) | Application for managing recipes, planning meals, building shopping lists and much much more! |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
