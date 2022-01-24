@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [homelab](https://github.com/khuedoan/homelab) | My self-hosting infrastructure, fully automated from empty disk to operating services |
+| [rnote](https://github.com/flxzt/rnote) | A simple drawing application to create handwritten notes. |
 | [DevToys](https://github.com/veler/DevToys) | A Swiss Army knife for developers. |
-| [fairseq](https://github.com/pytorch/fairseq) | Facebook AI Research Sequence-to-Sequence Toolkit written in Python. |
-| [MockingBird](https://github.com/babysor/MockingBird) | 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time |
-| [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | 💯 Curated interview preparation materials for busy engineers |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics |
+| [platforms](https://github.com/vercel/platforms) | A template for site builders and low-code tools. |
+| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
 | [go-generics-the-hard-way](https://github.com/akutz/go-generics-the-hard-way) | A hands-on approach to getting started with Go generics. |
-| [focalboard](https://github.com/mattermost/focalboard) | Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. |
-| [fastlane](https://github.com/fastlane/fastlane) | 🚀 The easiest way to automate building and releasing your iOS and Android apps |
-| [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) | This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps. |
+| [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | 💯 Curated interview preparation materials for busy engineers |
+| [kedro](https://github.com/kedro-org/kedro) | A Python framework for creating reproducible, maintainable and modular data science code. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
