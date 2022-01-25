@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [homelab](https://github.com/khuedoan/homelab) | My self-hosting infrastructure, fully automated from empty disk to operating services |
-| [rnote](https://github.com/flxzt/rnote) | A simple drawing application to create handwritten notes. |
 | [DevToys](https://github.com/veler/DevToys) | A Swiss Army knife for developers. |
-| [platforms](https://github.com/vercel/platforms) | A template for site builders and low-code tools. |
-| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
-| [go-generics-the-hard-way](https://github.com/akutz/go-generics-the-hard-way) | A hands-on approach to getting started with Go generics. |
-| [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
+| [leetcode](https://github.com/doocs/leetcode) | 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解 |
 | [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
 | [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | 💯 Curated interview preparation materials for busy engineers |
-| [kedro](https://github.com/kedro-org/kedro) | A Python framework for creating reproducible, maintainable and modular data science code. |
+| [homelab](https://github.com/khuedoan/homelab) | My self-hosting infrastructure, fully automated from empty disk to operating services |
+| [Docker-OSX](https://github.com/sickcodes/Docker-OSX) | Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X! |
+| [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics |
+| [daedalOS](https://github.com/DustinBrett/daedalOS) | Desktop environment in the browser. |
+| [go-ibax](https://github.com/IBAX-io/go-ibax) | An innovative Blockchain Protocol Platform, which everyone can deploy their own applications quickly and easily, such as Dapp, DeFi, DAO, Cross-Blockchain transactions, etc. |
+| [Ryujinx](https://github.com/Ryujinx/Ryujinx) | Experimental Nintendo Switch Emulator written in C# |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
