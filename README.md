@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [DevToys](https://github.com/veler/DevToys) | A Swiss Army knife for developers. |
 | [leetcode](https://github.com/doocs/leetcode) | 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解 |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | 💯 Curated interview preparation materials for busy engineers |
-| [homelab](https://github.com/khuedoan/homelab) | My self-hosting infrastructure, fully automated from empty disk to operating services |
-| [Docker-OSX](https://github.com/sickcodes/Docker-OSX) | Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X! |
-| [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics |
-| [daedalOS](https://github.com/DustinBrett/daedalOS) | Desktop environment in the browser. |
+| [DevToys](https://github.com/veler/DevToys) | A Swiss Army knife for developers. |
+| [ansible](https://github.com/ansible/ansible) | Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. |
+| [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | List of Computer Science courses with video lectures. |
 | [go-ibax](https://github.com/IBAX-io/go-ibax) | An innovative Blockchain Protocol Platform, which everyone can deploy their own applications quickly and easily, such as Dapp, DeFi, DAO, Cross-Blockchain transactions, etc. |
-| [Ryujinx](https://github.com/Ryujinx/Ryujinx) | Experimental Nintendo Switch Emulator written in C# |
+| [kedro](https://github.com/kedro-org/kedro) | A Python framework for creating reproducible, maintainable and modular data science code. |
+| [EatKano](https://github.com/arcxingye/EatKano) | 小游戏：吃掉小鹿乃 |
+| [china-holiday-calender](https://github.com/lanceliao/china-holiday-calender) | 中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calender、Outlook等客户端订阅 |
+| [huginn](https://github.com/huginn/huginn) | Create agents that monitor and act on your behalf. Your agents are standing by! |
+| [bubbletea](https://github.com/charmbracelet/bubbletea) | A powerful little TUI framework 🏗 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
