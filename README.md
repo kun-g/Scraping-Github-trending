@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [leetcode](https://github.com/doocs/leetcode) | 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解 |
-| [DevToys](https://github.com/veler/DevToys) | A Swiss Army knife for developers. |
-| [ansible](https://github.com/ansible/ansible) | Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. |
-| [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | List of Computer Science courses with video lectures. |
-| [go-ibax](https://github.com/IBAX-io/go-ibax) | An innovative Blockchain Protocol Platform, which everyone can deploy their own applications quickly and easily, such as Dapp, DeFi, DAO, Cross-Blockchain transactions, etc. |
-| [kedro](https://github.com/kedro-org/kedro) | A Python framework for creating reproducible, maintainable and modular data science code. |
-| [EatKano](https://github.com/arcxingye/EatKano) | 小游戏：吃掉小鹿乃 |
-| [china-holiday-calender](https://github.com/lanceliao/china-holiday-calender) | 中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calender、Outlook等客户端订阅 |
-| [huginn](https://github.com/huginn/huginn) | Create agents that monitor and act on your behalf. Your agents are standing by! |
-| [bubbletea](https://github.com/charmbracelet/bubbletea) | A powerful little TUI framework 🏗 |
+| [autocomplete](https://github.com/withfig/autocomplete) | Fig adds autocomplete to your terminal. |
+| [scikit-learn](https://github.com/scikit-learn/scikit-learn) | scikit-learn: machine learning in Python |
+| [Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Python - 100天从新手到大师 |
+| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
+| [nmap-nse-vulnerability-scripts](https://github.com/nccgroup/nmap-nse-vulnerability-scripts) | NMAP Vulnerability Scanning Scripts |
+| [SME](https://github.com/ukncsc/SME) | None |
+| [airyx](https://github.com/mszoek/airyx) | A BSD-based OS project that aims to provide an experience like and some compatibility with macOS |
+| [awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) | Awesome list of open-source startup alternatives to well-known SaaS products 🚀 |
+| [FunctionStomping](https://github.com/Idov31/FunctionStomping) | A new shellcode injection technique. Given as C++ header or standalone Rust program. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
