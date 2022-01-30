@@ -25,16 +25,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [instant-ngp](https://github.com/NVlabs/instant-ngp) | Instant neural graphics primitives: lightning fast NeRF and more |
-| [mometa](https://github.com/imcuttle/mometa) | 🛠 [Beta] 面向研发的低代码元编程，代码可视编辑，辅助编码工具 |
-| [focalboard](https://github.com/mattermost/focalboard) | Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. |
-| [CyberChef](https://github.com/gchq/CyberChef) | The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis |
-| [libpag](https://github.com/Tencent/libpag) | A real-time rendering library for PAG (Portable Animated Graphics) files that renders After Effects animations natively across multiple platforms. |
-| [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) | Latex code for making neural networks diagrams |
-| [rich](https://github.com/Textualize/rich) | Rich is a Python library for rich text and beautiful formatting in the terminal. |
+| [DevToys](https://github.com/veler/DevToys) | A Swiss Army knife for developers. |
+| [rnote](https://github.com/flxzt/rnote) | A simple drawing application to create handwritten notes. |
+| [go-generics-the-hard-way](https://github.com/akutz/go-generics-the-hard-way) | A hands-on approach to getting started with Go generics. |
+| [platforms](https://github.com/vercel/platforms) | A template for site builders and low-code tools. |
 | [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [duino-coin](https://github.com/revoxhere/duino-coin) | ᕲ Duino-Coin is a coin that can be mined with almost everything, including Arduino boards. |
-| [recipes](https://github.com/TandoorRecipes/recipes) | Application for managing recipes, planning meals, building shopping lists and much much more! |
+| [huginn](https://github.com/huginn/huginn) | Create agents that monitor and act on your behalf. Your agents are standing by! |
+| [Javascript](https://github.com/TheAlgorithms/Javascript) | Algorithms implemented in Javascript for beginners, following best practices. |
+| [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | 💯 Curated interview preparation materials for busy engineers |
+| [fairseq](https://github.com/pytorch/fairseq) | Facebook AI Research Sequence-to-Sequence Toolkit written in Python. |
+| [Ryujinx](https://github.com/Ryujinx/Ryujinx) | Experimental Nintendo Switch Emulator written in C# |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
