@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [CVE-2021-4034](https://github.com/arthepsy/CVE-2021-4034) | PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) |
-| [CVE-2021-4034](https://github.com/berdav/CVE-2021-4034) | CVE-2021-4034 1day |
-| [leetcode](https://github.com/doocs/leetcode) | 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解 |
-| [ansible](https://github.com/ansible/ansible) | Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. |
-| [spring-authorization-server](https://github.com/spring-projects/spring-authorization-server) | The Spring Authorization Server project is focused on delivering OAuth 2.1 Authorization Server support to the Spring community. |
-| [nmap-nse-vulnerability-scripts](https://github.com/nccgroup/nmap-nse-vulnerability-scripts) | NMAP Vulnerability Scanning Scripts |
-| [linux](https://github.com/torvalds/linux) | Linux kernel source tree |
-| [go-ibax](https://github.com/IBAX-io/go-ibax) | An innovative Blockchain Protocol Platform, which everyone can deploy their own applications quickly and easily, such as Dapp, DeFi, DAO, Cross-Blockchain transactions, etc. |
-| [copilot-docs](https://github.com/github/copilot-docs) | Documentation for GitHub Copilot |
+| [nextui](https://github.com/nextui-org/nextui) | 🚀 Beautiful, fast and modern React UI library. |
 | [PwnKit](https://github.com/ly4k/PwnKit) | Self-contained exploit for CVE-2021-4034 - Pkexec Local Privilege Escalation |
+| [serverless](https://github.com/serverless/serverless) | ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! – |
+| [linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) | Full reference of LinkedIn answers 2021 for skill assessments, LinkedIn test, questions and answers (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test |
+| [Magisk](https://github.com/topjohnwu/Magisk) | The Magic Mask for Android |
+| [2022_beijing](https://github.com/jonathandata1/2022_beijing) | Decompiled 2022 Beijing iOS & Android Apps |
+| [linux](https://github.com/torvalds/linux) | Linux kernel source tree |
+| [awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) | Awesome list of open-source startup alternatives to well-known SaaS products 🚀 |
+| [playwright](https://github.com/microsoft/playwright) | Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. |
+| [Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Python - 100天从新手到大师 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
