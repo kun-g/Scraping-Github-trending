@@ -1,0 +1,302 @@
+[
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/750081",
+        "name": "Yann Collet",
+        "repo": {
+            "description": "Extremely fast non-cryptographic hash algorithm",
+            "name": "xxHash",
+            "url": "https://github.com/Cyan4973/xxHash"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/Cyan4973",
+        "username": "Cyan4973"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/661450",
+        "name": "Arvid Norberg",
+        "repo": {
+            "description": "an efficient feature complete C++ bittorrent implementation",
+            "name": "libtorrent",
+            "url": "https://github.com/arvidn/libtorrent"
+        },
+        "sponsorUrl": "https://github.com/sponsors/arvidn",
+        "url": "https://github.com/arvidn",
+        "username": "arvidn"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1148717",
+        "name": "Emil Ernerfeldt",
+        "repo": {
+            "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
+            "name": "egui",
+            "url": "https://github.com/emilk/egui"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/emilk",
+        "username": "emilk"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/38700",
+        "name": "Mathias Fu\u00dfenegger",
+        "repo": {
+            "description": "Debug Adapter Protocol client implementation for Neovim (>= 0.5)",
+            "name": "nvim-dap",
+            "url": "https://github.com/mfussenegger/nvim-dap"
+        },
+        "sponsorUrl": "https://github.com/sponsors/mfussenegger",
+        "url": "https://github.com/mfussenegger",
+        "username": "mfussenegger"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/4209276",
+        "name": "David Peter",
+        "repo": {
+            "description": "A cat(1) clone with wings.",
+            "name": "bat",
+            "url": "https://github.com/sharkdp/bat"
+        },
+        "sponsorUrl": "https://github.com/sponsors/sharkdp",
+        "url": "https://github.com/sharkdp",
+        "username": "sharkdp"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2892853",
+        "name": "Koen Kanters",
+        "repo": {
+            "description": "Zigbee \ud83d\udc1d to MQTT bridge \ud83c\udf09, get rid of your proprietary Zigbee bridges \ud83d\udd28",
+            "name": "zigbee2mqtt",
+            "url": "https://github.com/Koenkk/zigbee2mqtt"
+        },
+        "sponsorUrl": "https://github.com/sponsors/Koenkk",
+        "url": "https://github.com/Koenkk",
+        "username": "Koenkk"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/837573",
+        "name": "Markus Unterwaditzer",
+        "repo": {
+            "description": "A WHATWG-compliant HTML5 tokenizer and tag soup parser",
+            "name": "html5gum",
+            "url": "https://github.com/untitaker/html5gum"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/untitaker",
+        "username": "untitaker"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1476232",
+        "name": "Mike Penz",
+        "repo": {
+            "description": "AboutLibraries automatically collects all dependencies and licenses of any gradle project (Kotlin Multi Platform), and provides easy to integrate UI components for Android and Compose-jb environments",
+            "name": "AboutLibraries",
+            "url": "https://github.com/mikepenz/AboutLibraries"
+        },
+        "sponsorUrl": "https://github.com/sponsors/mikepenz",
+        "url": "https://github.com/mikepenz",
+        "username": "mikepenz"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/5022927",
+        "name": "LoveSy",
+        "repo": {
+            "description": "\u54d4\u54e9\u6f2b\u6e38\uff0c\u89e3\u9664B\u7ad9\u5ba2\u6237\u7aef\u756a\u5267\u533a\u57df\u9650\u5236\u7684Xposed\u6a21\u5757\uff0c\u5e76\u4e14\u63d0\u4f9b\u5176\u4ed6\u5c0f\u529f\u80fd\u3002An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.",
+            "name": "BiliRoaming",
+            "url": "https://github.com/yujincheng08/BiliRoaming"
+        },
+        "sponsorUrl": "https://github.com/sponsors/yujincheng08",
+        "url": "https://github.com/yujincheng08",
+        "username": "yujincheng08"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1609021",
+        "name": "David Sherret",
+        "repo": {
+            "description": "TypeScript Compiler API wrapper for static analysis and programmatic code changes.",
+            "name": "ts-morph",
+            "url": "https://github.com/dsherret/ts-morph"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/dsherret",
+        "username": "dsherret"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/97088",
+        "name": "mrdoob",
+        "repo": {
+            "description": "JavaScript 3D Library.",
+            "name": "three.js",
+            "url": "https://github.com/mrdoob/three.js"
+        },
+        "sponsorUrl": "https://github.com/sponsors/mrdoob",
+        "url": "https://github.com/mrdoob",
+        "username": "mrdoob"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/3806031",
+        "name": "Joe Previte",
+        "repo": {
+            "description": "Easily copy Disney subtitles with this extension",
+            "name": "disney-subtitles-extension",
+            "url": "https://github.com/jsjoeio/disney-subtitles-extension"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/jsjoeio",
+        "username": "jsjoeio"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/11875",
+        "name": "Earle F. Philhower, III",
+        "repo": {
+            "description": "Arduino library to play MOD, WAV, FLAC, MIDI, RTTTL, MP3, and AAC files on I2S DACs or with a software emulated delta-sigma DAC on the ESP8266 and ESP32",
+            "name": "ESP8266Audio",
+            "url": "https://github.com/earlephilhower/ESP8266Audio"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/earlephilhower",
+        "username": "earlephilhower"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/28480705",
+        "name": "MichaIng",
+        "repo": {
+            "description": "Lightweight justice for your single-board computer!",
+            "name": "DietPi",
+            "url": "https://github.com/MichaIng/DietPi"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/MichaIng",
+        "username": "MichaIng"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/850374",
+        "name": "Chris Caron",
+        "repo": {
+            "description": "Apprise - Push Notifications that work with just about every platform!",
+            "name": "apprise",
+            "url": "https://github.com/caronc/apprise"
+        },
+        "sponsorUrl": "https://github.com/sponsors/caronc",
+        "url": "https://github.com/caronc",
+        "username": "caronc"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1424473",
+        "name": "Jaco",
+        "repo": {
+            "description": null,
+            "name": "sample-ledger-ed25519",
+            "url": "https://github.com/jacogr/sample-ledger-ed25519"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/jacogr",
+        "username": "jacogr"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/16416509",
+        "name": "vis2k",
+        "repo": {
+            "description": "#1 Open Source Unity Networking Library",
+            "name": "Mirror",
+            "url": "https://github.com/vis2k/Mirror"
+        },
+        "sponsorUrl": "https://github.com/sponsors/vis2k",
+        "url": "https://github.com/vis2k",
+        "username": "vis2k"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/112310",
+        "name": "Max Desiatov",
+        "repo": {
+            "description": "Easy XML parsing using Codable protocols in Swift",
+            "name": "XMLCoder",
+            "url": "https://github.com/MaxDesiatov/XMLCoder"
+        },
+        "sponsorUrl": "https://github.com/sponsors/MaxDesiatov",
+        "url": "https://github.com/MaxDesiatov",
+        "username": "MaxDesiatov"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/776816",
+        "name": "Stephan Dilly",
+        "repo": {
+            "description": "Blazing \ud83d\udca5 fast terminal-ui for git written in rust \ud83e\udd80",
+            "name": "gitui",
+            "url": "https://github.com/extrawurst/gitui"
+        },
+        "sponsorUrl": "https://github.com/sponsors/extrawurst",
+        "url": "https://github.com/extrawurst",
+        "username": "extrawurst"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/28362229",
+        "name": "Timothy",
+        "repo": {
+            "description": "This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs.",
+            "name": "tailwind-nextjs-starter-blog",
+            "url": "https://github.com/timlrx/tailwind-nextjs-starter-blog"
+        },
+        "sponsorUrl": "https://github.com/sponsors/timlrx",
+        "url": "https://github.com/timlrx",
+        "username": "timlrx"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/3676859",
+        "name": "Shu Ding",
+        "repo": {
+            "description": "The Next.js Static Site Generator",
+            "name": "nextra",
+            "url": "https://github.com/shuding/nextra"
+        },
+        "sponsorUrl": "https://github.com/sponsors/shuding",
+        "url": "https://github.com/shuding",
+        "username": "shuding"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/188426",
+        "name": "Jonathan Neal",
+        "repo": {
+            "description": null,
+            "name": "astro-with-postcss",
+            "url": "https://github.com/jonathantneal/astro-with-postcss"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/jonathantneal",
+        "username": "jonathantneal"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/54219",
+        "name": "Gwendal Rou\u00e9",
+        "repo": {
+            "description": "A toolkit for SQLite databases, with a focus on application development",
+            "name": "GRDB.swift",
+            "url": "https://github.com/groue/GRDB.swift"
+        },
+        "sponsorUrl": "https://github.com/sponsors/groue",
+        "url": "https://github.com/groue",
+        "username": "groue"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/402547",
+        "name": "Mikael Finstad",
+        "repo": {
+            "description": "The swiss army knife of lossless video/audio editing",
+            "name": "lossless-cut",
+            "url": "https://github.com/mifi/lossless-cut"
+        },
+        "sponsorUrl": "https://github.com/sponsors/mifi",
+        "url": "https://github.com/mifi",
+        "username": "mifi"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/4060187",
+        "name": "Jared Palmer",
+        "repo": {
+            "description": "Build forms in React, without the tears \ud83d\ude2d",
+            "name": "formik",
+            "url": "https://github.com/jaredpalmer/formik"
+        },
+        "sponsorUrl": "https://github.com/sponsors/jaredpalmer",
+        "url": "https://github.com/jaredpalmer",
+        "username": "jaredpalmer"
+    }
+]
