@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [appflowy](https://github.com/AppFlowy-IO/appflowy) | AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. |
-| [iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world |
-| [node](https://github.com/nodejs/node) | Node.js JavaScript runtime ✨🐢🚀✨ |
-| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A youtube-dl fork with additional features and fixes |
-| [nextui](https://github.com/nextui-org/nextui) | 🚀 Beautiful, fast and modern React UI library. |
-| [Cider](https://github.com/ciderapp/Cider) | Project Cider. A new look into listening and enjoying Apple Music in style and performance. 🚀 |
+| [black](https://github.com/psf/black) | The uncompromising Python code formatter |
 | [linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) | Full reference of LinkedIn answers 2022 for skill assessments, LinkedIn test, questions and answers (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test |
+| [word-guessing-game](https://github.com/hannahcode/word-guessing-game) | A word guessing game made using React, Typescript, and Tailwind |
+| [pip-tools](https://github.com/jazzband/pip-tools) | A set of tools to keep your pinned Python dependencies fresh. |
 | [plane-notify](https://github.com/Jxck-S/plane-notify) | Notify If a selected plane has taken off or landed using OpenSky or ADS-B Exchange data. Compares older data to newer data to determine if a landing or takeoff has occurred. As well as nav modes, emergency squawk and resolution advisory notifications. Can output to Twitter, Discord, and Pushbullet |
-| [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) | Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨 |
-| [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | List of Computer Science courses with video lectures. |
+| [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | A curated list of awesome Machine Learning frameworks, libraries and software. |
+| [appflowy](https://github.com/AppFlowy-IO/appflowy) | AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. |
+| [Go](https://github.com/TheAlgorithms/Go) | Algorithms implemented in Go for beginners, following best practices. |
+| [ailab](https://github.com/bilibili/ailab) | None |
+| [skyline](https://github.com/skyline-emu/skyline) | Run Nintendo Switch homebrew & games on your Android device! |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
