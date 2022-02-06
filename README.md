@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [terminal](https://github.com/microsoft/terminal) | The new Windows Terminal and the original Windows console host, all in the same place! |
 | [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity |
-| [logseq](https://github.com/logseq/logseq) | A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap |
-| [live_beats](https://github.com/fly-apps/live_beats) | None |
-| [wormhole](https://github.com/certusone/wormhole) | Certus One's reference implementation for the Wormhole blockchain interoperability protocol. |
+| [huginn](https://github.com/huginn/huginn) | Create agents that monitor and act on your behalf. Your agents are standing by! |
+| [EIPs](https://github.com/ethereum/EIPs) | The Ethereum Improvement Proposal repository |
+| [vscode](https://github.com/microsoft/vscode) | Visual Studio Code |
+| [gpt3-twitter-bot](https://github.com/fireship-io/gpt3-twitter-bot) | Build a GPT-3 Powered Twitter Bot with Node.js & Firebase |
+| [code_contests](https://github.com/deepmind/code_contests) | None |
+| [copilot-docs](https://github.com/github/copilot-docs) | Documentation for GitHub Copilot |
 | [ciencia-da-computacao](https://github.com/Universidade-Livre/ciencia-da-computacao) | 🎓 Um caminho para a educação autodidata em Ciência da Computação! |
-| [RecycledGate](https://github.com/thefLink/RecycledGate) | Hellsgate + Halosgate/Tartarosgate. Ensures that all systemcalls go through ntdll.dll |
-| [csharplang](https://github.com/dotnet/csharplang) | The official repo for the design of the C# programming language |
-| [HVM](https://github.com/Kindelia/HVM) | A massively parallel, optimal functional runtime in Rust |
-| [testnets](https://github.com/cosmic-horizon/testnets) | None |
-| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
+| [basic-computer-games](https://github.com/coding-horror/basic-computer-games) | An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common programming languages |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
