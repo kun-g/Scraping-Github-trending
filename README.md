@@ -25,16 +25,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [DevToys](https://github.com/veler/DevToys) | A Swiss Army knife for developers. |
-| [rnote](https://github.com/flxzt/rnote) | A simple drawing application to create handwritten notes. |
-| [go-generics-the-hard-way](https://github.com/akutz/go-generics-the-hard-way) | A hands-on approach to getting started with Go generics. |
-| [platforms](https://github.com/vercel/platforms) | A template for site builders and low-code tools. |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [huginn](https://github.com/huginn/huginn) | Create agents that monitor and act on your behalf. Your agents are standing by! |
-| [Javascript](https://github.com/TheAlgorithms/Javascript) | Algorithms implemented in Javascript for beginners, following best practices. |
-| [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | 💯 Curated interview preparation materials for busy engineers |
-| [fairseq](https://github.com/pytorch/fairseq) | Facebook AI Research Sequence-to-Sequence Toolkit written in Python. |
-| [Ryujinx](https://github.com/Ryujinx/Ryujinx) | Experimental Nintendo Switch Emulator written in C# |
+| [word-guessing-game](https://github.com/cwackerfuss/word-guessing-game) | A word guessing game made using React, Typescript, and Tailwind |
+| [nextui](https://github.com/nextui-org/nextui) | 🚀 Beautiful, fast and modern React UI library. |
+| [black](https://github.com/psf/black) | The uncompromising Python code formatter |
+| [linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) | Full reference of LinkedIn answers 2022 for skill assessments, LinkedIn test, questions and answers (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test |
+| [textual](https://github.com/Textualize/textual) | Textual is a TUI (Text User Interface) framework for Python inspired by modern web development. |
+| [NewPipe](https://github.com/TeamNewPipe/NewPipe) | A libre lightweight streaming front-end for Android. |
+| [Cider](https://github.com/ciderapp/Cider) | Project Cider. A new look into listening and enjoying Apple Music in style and performance. 🚀 |
+| [PwnKit](https://github.com/ly4k/PwnKit) | Self-contained exploit for CVE-2021-4034 - Pkexec Local Privilege Escalation |
+| [ERC721A](https://github.com/chiru-labs/ERC721A) | https://ERC721A.org |
+| [iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
