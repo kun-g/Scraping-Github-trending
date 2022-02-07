@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [AstroVim](https://github.com/kabinspace/AstroVim) | AstroVim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins |
 | [terminal](https://github.com/microsoft/terminal) | The new Windows Terminal and the original Windows console host, all in the same place! |
-| [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity |
-| [huginn](https://github.com/huginn/huginn) | Create agents that monitor and act on your behalf. Your agents are standing by! |
+| [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
 | [EIPs](https://github.com/ethereum/EIPs) | The Ethereum Improvement Proposal repository |
-| [vscode](https://github.com/microsoft/vscode) | Visual Studio Code |
-| [gpt3-twitter-bot](https://github.com/fireship-io/gpt3-twitter-bot) | Build a GPT-3 Powered Twitter Bot with Node.js & Firebase |
-| [code_contests](https://github.com/deepmind/code_contests) | None |
-| [copilot-docs](https://github.com/github/copilot-docs) | Documentation for GitHub Copilot |
-| [ciencia-da-computacao](https://github.com/Universidade-Livre/ciencia-da-computacao) | 🎓 Um caminho para a educação autodidata em Ciência da Computação! |
-| [basic-computer-games](https://github.com/coding-horror/basic-computer-games) | An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common programming languages |
+| [Ventoy](https://github.com/ventoy/Ventoy) | A new bootable USB solution. |
+| [HVM](https://github.com/Kindelia/HVM) | A massively parallel, optimal functional runtime in Rust |
+| [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
+| [qinglong](https://github.com/whyour/qinglong) | 支持python3、javaScript、shell、typescript 的定时任务管理面板（A timed task management panel that supports typescript, javaScript, python3, and shell） |
+| [yay](https://github.com/Jguer/yay) | Yet another Yogurt - An AUR Helper written in Go |
+| [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | A collection of various awesome lists for hackers, pentesters and security researchers |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
