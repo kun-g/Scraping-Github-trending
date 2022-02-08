@@ -11,14 +11,14 @@
 | :----: | :----: |
 | [AstroVim](https://github.com/kabinspace/AstroVim) | AstroVim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins |
 | [terminal](https://github.com/microsoft/terminal) | The new Windows Terminal and the original Windows console host, all in the same place! |
-| [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
-| [EIPs](https://github.com/ethereum/EIPs) | The Ethereum Improvement Proposal repository |
+| [Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) | 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵 |
 | [Ventoy](https://github.com/ventoy/Ventoy) | A new bootable USB solution. |
-| [HVM](https://github.com/Kindelia/HVM) | A massively parallel, optimal functional runtime in Rust |
+| [gyroflow](https://github.com/gyroflow/gyroflow) | Video stabilization using gyroscope data |
+| [core](https://github.com/home-assistant/core) | 🏡 Open source home automation that puts local control and privacy first. |
 | [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
-| [qinglong](https://github.com/whyour/qinglong) | 支持python3、javaScript、shell、typescript 的定时任务管理面板（A timed task management panel that supports typescript, javaScript, python3, and shell） |
-| [yay](https://github.com/Jguer/yay) | Yet another Yogurt - An AUR Helper written in Go |
-| [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | A collection of various awesome lists for hackers, pentesters and security researchers |
+| [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics |
+| [openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) | OpenZeppelin Contracts is a library for secure smart contract development. |
+| [Network-segmentation-cheat-sheet](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet) | Best practices for segmentation of the corporate network of any company |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10

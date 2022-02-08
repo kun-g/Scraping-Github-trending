@@ -1,0 +1,294 @@
+[
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2492783",
+        "name": "Jan De Dobbeleer",
+        "repo": {
+            "description": "A prompt theme engine for any shell.",
+            "name": "oh-my-posh",
+            "url": "https://github.com/JanDeDobbeleer/oh-my-posh"
+        },
+        "sponsorUrl": "https://github.com/sponsors/JanDeDobbeleer",
+        "url": "https://github.com/JanDeDobbeleer",
+        "username": "JanDeDobbeleer"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/988985",
+        "name": "Geoff Bourne",
+        "repo": {
+            "description": "Docker image that provides a Minecraft Server that will automatically download selected version at startup",
+            "name": "docker-minecraft-server",
+            "url": "https://github.com/itzg/docker-minecraft-server"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/itzg",
+        "username": "itzg"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2772607",
+        "name": "Jorge Leitao",
+        "repo": {
+            "description": "Unofficial transmute-free Rust library to work with the Arrow format",
+            "name": "arrow2",
+            "url": "https://github.com/jorgecarleitao/arrow2"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/jorgecarleitao",
+        "username": "jorgecarleitao"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/7396",
+        "name": "Armin Ronacher",
+        "repo": {
+            "description": "Experimental rust serialization library",
+            "name": "deser",
+            "url": "https://github.com/mitsuhiko/deser"
+        },
+        "sponsorUrl": "https://github.com/sponsors/mitsuhiko",
+        "url": "https://github.com/mitsuhiko",
+        "username": "mitsuhiko"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/3023000",
+        "name": "Ritchie Vink",
+        "repo": {
+            "description": "2D structural analysis in Python",
+            "name": "anaStruct",
+            "url": "https://github.com/ritchie46/anaStruct"
+        },
+        "sponsorUrl": "https://github.com/sponsors/ritchie46",
+        "url": "https://github.com/ritchie46",
+        "username": "ritchie46"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/195327",
+        "name": "Franck Nijhof",
+        "repo": {
+            "description": "A curated list of amazingly awesome Home Assistant resources.",
+            "name": "awesome-home-assistant",
+            "url": "https://github.com/frenck/awesome-home-assistant"
+        },
+        "sponsorUrl": "https://github.com/sponsors/frenck",
+        "url": "https://github.com/frenck",
+        "username": "frenck"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/6705160",
+        "name": "William Boman",
+        "repo": {
+            "description": "Companion plugin for nvim-lspconfig that allows you to seamlessly manage LSP servers locally with :LspInstall. With full Windows support!",
+            "name": "nvim-lsp-installer",
+            "url": "https://github.com/williamboman/nvim-lsp-installer"
+        },
+        "sponsorUrl": "https://github.com/sponsors/williamboman",
+        "url": "https://github.com/williamboman",
+        "username": "williamboman"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/772",
+        "name": "Alex Gaynor",
+        "repo": {
+            "description": "An attempt to answer the age old interview question \"What happens when you type google.com into your browser and press enter?\"",
+            "name": "what-happens-when",
+            "url": "https://github.com/alex/what-happens-when"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/alex",
+        "username": "alex"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/13323303",
+        "name": "Shunsuke Suzuki",
+        "repo": {
+            "description": "GitHub Actions collection for Opinionated Terraform Workflow",
+            "name": "tfaction",
+            "url": "https://github.com/suzuki-shunsuke/tfaction"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/suzuki-shunsuke",
+        "username": "suzuki-shunsuke"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/43724913",
+        "name": "Taiki Endo",
+        "repo": {
+            "description": "Cargo subcommand to provide various options useful for testing and continuous integration.",
+            "name": "cargo-hack",
+            "url": "https://github.com/taiki-e/cargo-hack"
+        },
+        "sponsorUrl": "https://github.com/sponsors/taiki-e",
+        "url": "https://github.com/taiki-e",
+        "username": "taiki-e"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/20051258",
+        "name": "Lucas Fernandes Nogueira",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/lucasfernog",
+        "username": "lucasfernog"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2346494",
+        "name": "Romain Beaumont",
+        "repo": {
+            "description": "Easily turn large sets of image urls to an image dataset. Can download, resize and package 100M urls in 20h on one machine.",
+            "name": "img2dataset",
+            "url": "https://github.com/rom1504/img2dataset"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/rom1504",
+        "username": "rom1504"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/46163555",
+        "name": "PySimpleGUI",
+        "repo": {
+            "description": "Launched in 2018. It's 2022 and PySimpleGUI is actively developed & supported. Supports tkinter, Qt, WxPython, Remi (in browser). Create custom GUI Windows simply, trivially with a full set of widgets. Multi-Window applications are also simple. 3.4 to 3.11 supported. 325+ Demo programs & Cookbook for rapid start. Extensive documentation. Example\u2026",
+            "name": "PySimpleGUI",
+            "url": "https://github.com/PySimpleGUI/PySimpleGUI"
+        },
+        "sponsorUrl": "https://github.com/sponsors/PySimpleGUI",
+        "url": "https://github.com/PySimpleGUI",
+        "username": "PySimpleGUI"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/20105061",
+        "name": "Yujia Qiao",
+        "repo": {
+            "description": "A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.",
+            "name": "rathole",
+            "url": "https://github.com/rapiz1/rathole"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/rapiz1",
+        "username": "rapiz1"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/18369201",
+        "name": "Bal\u00e1zs Orb\u00e1n",
+        "repo": {
+            "description": "Simple, expected, and deterministic best-match sorting of an array in JavaScript",
+            "name": "match-sorter",
+            "url": "https://github.com/balazsorban44/match-sorter"
+        },
+        "sponsorUrl": "https://github.com/sponsors/balazsorban44",
+        "url": "https://github.com/balazsorban44",
+        "username": "balazsorban44"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/31996",
+        "name": "Avelino",
+        "repo": {
+            "description": "A curated list of awesome Go frameworks, libraries and software",
+            "name": "awesome-go",
+            "url": "https://github.com/avelino/awesome-go"
+        },
+        "sponsorUrl": "https://github.com/sponsors/avelino",
+        "url": "https://github.com/avelino",
+        "username": "avelino"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/5425387",
+        "name": "Ben V. Brown",
+        "repo": {
+            "description": "Open Source Soldering Iron firmware for Miniware and Pinecil",
+            "name": "IronOS",
+            "url": "https://github.com/Ralim/IronOS"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/Ralim",
+        "username": "Ralim"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/54108223",
+        "name": "Jose Alvarez",
+        "repo": {
+            "description": "Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",
+            "name": "null-ls.nvim",
+            "url": "https://github.com/jose-elias-alvarez/null-ls.nvim"
+        },
+        "sponsorUrl": "https://github.com/sponsors/jose-elias-alvarez",
+        "url": "https://github.com/jose-elias-alvarez",
+        "username": "jose-elias-alvarez"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/5839577",
+        "name": "J\u00e9r\u00f4me Laban",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/jeromelaban",
+        "username": "jeromelaban"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/25395",
+        "name": "Vladimir Agafonkin",
+        "repo": {
+            "description": "A tiny JavaScript library for calculating sun/moon positions and phases.",
+            "name": "suncalc",
+            "url": "https://github.com/mourner/suncalc"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/mourner",
+        "username": "mourner"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/3257156",
+        "name": "Stefano Gottardo",
+        "repo": {
+            "description": "InputStream based Netflix plugin for Kodi",
+            "name": "plugin.video.netflix",
+            "url": "https://github.com/CastagnaIT/plugin.video.netflix"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/CastagnaIT",
+        "username": "CastagnaIT"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1162160",
+        "name": "Rich Harris",
+        "repo": {
+            "description": "Straightforward project scaffolding",
+            "name": "degit",
+            "url": "https://github.com/Rich-Harris/degit"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/Rich-Harris",
+        "username": "Rich-Harris"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/661450",
+        "name": "Arvid Norberg",
+        "repo": {
+            "description": "an efficient feature complete C++ bittorrent implementation",
+            "name": "libtorrent",
+            "url": "https://github.com/arvidn/libtorrent"
+        },
+        "sponsorUrl": "https://github.com/sponsors/arvidn",
+        "url": "https://github.com/arvidn",
+        "username": "arvidn"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1285584",
+        "name": "Laurent",
+        "repo": {
+            "description": "Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/",
+            "name": "joplin",
+            "url": "https://github.com/laurent22/joplin"
+        },
+        "sponsorUrl": "https://github.com/sponsors/laurent22",
+        "url": "https://github.com/laurent22",
+        "username": "laurent22"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/5022927",
+        "name": "LoveSy",
+        "repo": {
+            "description": "\u54d4\u54e9\u6f2b\u6e38\uff0c\u89e3\u9664B\u7ad9\u5ba2\u6237\u7aef\u756a\u5267\u533a\u57df\u9650\u5236\u7684Xposed\u6a21\u5757\uff0c\u5e76\u4e14\u63d0\u4f9b\u5176\u4ed6\u5c0f\u529f\u80fd\u3002An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.",
+            "name": "BiliRoaming",
+            "url": "https://github.com/yujincheng08/BiliRoaming"
+        },
+        "sponsorUrl": "https://github.com/sponsors/yujincheng08",
+        "url": "https://github.com/yujincheng08",
+        "username": "yujincheng08"
+    }
+]
