@@ -25,16 +25,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [word-guessing-game](https://github.com/cwackerfuss/word-guessing-game) | A word guessing game made using React, Typescript, and Tailwind |
-| [nextui](https://github.com/nextui-org/nextui) | 🚀 Beautiful, fast and modern React UI library. |
-| [black](https://github.com/psf/black) | The uncompromising Python code formatter |
-| [linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) | Full reference of LinkedIn answers 2022 for skill assessments, LinkedIn test, questions and answers (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test |
-| [textual](https://github.com/Textualize/textual) | Textual is a TUI (Text User Interface) framework for Python inspired by modern web development. |
-| [NewPipe](https://github.com/TeamNewPipe/NewPipe) | A libre lightweight streaming front-end for Android. |
-| [Cider](https://github.com/ciderapp/Cider) | Project Cider. A new look into listening and enjoying Apple Music in style and performance. 🚀 |
-| [PwnKit](https://github.com/ly4k/PwnKit) | Self-contained exploit for CVE-2021-4034 - Pkexec Local Privilege Escalation |
-| [ERC721A](https://github.com/chiru-labs/ERC721A) | https://ERC721A.org |
-| [iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world |
+| [HVM](https://github.com/Kindelia/HVM) | A massively parallel, optimal functional runtime in Rust |
+| [medusa](https://github.com/medusajs/medusa) | The open-source Shopify alternative ⚡️ |
+| [solana-pay](https://github.com/solana-labs/solana-pay) | A new standard for decentralized payments. |
+| [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
+| [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity |
+| [trilium](https://github.com/zadam/trilium) | Build your personal knowledge base with Trilium Notes |
+| [budibase](https://github.com/Budibase/budibase) | Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀 |
+| [plane-notify](https://github.com/Jxck-S/plane-notify) | Notify If a selected plane has taken off or landed using OpenSky or ADS-B Exchange data. Compares older data to newer data to determine if a landing or takeoff has occurred. As well as nav modes, emergency squawk and resolution advisory notifications. Can output to Twitter, Discord, and Pushbullet |
+| [react-wordle](https://github.com/cwackerfuss/react-wordle) | A fun Wordle clone made using React, Typescript, and Tailwind |
+| [serenity](https://github.com/SerenityOS/serenity) | The Serenity Operating System 🐞 |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
