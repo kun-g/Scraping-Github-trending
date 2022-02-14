@@ -1,0 +1,290 @@
+[
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/6945922",
+        "name": "Matthias Fey",
+        "repo": {
+            "description": "PyTorch Extension Library of Optimized Autograd Sparse Matrix Operations",
+            "name": "pytorch_sparse",
+            "url": "https://github.com/rusty1s/pytorch_sparse"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/rusty1s",
+        "username": "rusty1s"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/20105061",
+        "name": "Yujia Qiao",
+        "repo": {
+            "description": "A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.",
+            "name": "rathole",
+            "url": "https://github.com/rapiz1/rathole"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/rapiz1",
+        "username": "rapiz1"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2887858",
+        "name": "David Rodr\u00edguez",
+        "repo": {
+            "description": "Step-by-step debugging and stack navigation in Pry",
+            "name": "pry-byebug",
+            "url": "https://github.com/deivid-rodriguez/pry-byebug"
+        },
+        "sponsorUrl": "https://github.com/sponsors/deivid-rodriguez",
+        "url": "https://github.com/deivid-rodriguez",
+        "username": "deivid-rodriguez"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/988985",
+        "name": "Geoff Bourne",
+        "repo": {
+            "description": "Docker image that provides a Minecraft Server that will automatically download selected version at startup",
+            "name": "docker-minecraft-server",
+            "url": "https://github.com/itzg/docker-minecraft-server"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/itzg",
+        "username": "itzg"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1291671",
+        "name": "Keno Fischer",
+        "repo": {
+            "description": "Running julia on wasm",
+            "name": "julia-wasm",
+            "url": "https://github.com/Keno/julia-wasm"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/Keno",
+        "username": "Keno"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/25395",
+        "name": "Vladimir Agafonkin",
+        "repo": {
+            "description": "A tiny JavaScript library for calculating sun/moon positions and phases.",
+            "name": "suncalc",
+            "url": "https://github.com/mourner/suncalc"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/mourner",
+        "username": "mourner"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/862914",
+        "name": "Jeremy Long",
+        "repo": {
+            "description": "OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.",
+            "name": "DependencyCheck",
+            "url": "https://github.com/jeremylong/DependencyCheck"
+        },
+        "sponsorUrl": "https://github.com/sponsors/jeremylong",
+        "url": "https://github.com/jeremylong",
+        "username": "jeremylong"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/3669103",
+        "name": "Steve Gordon",
+        "repo": {
+            "description": "An ASP.NET Core middleware component which synchronises a correlation ID for cross API request logging.",
+            "name": "CorrelationId",
+            "url": "https://github.com/stevejgordon/CorrelationId"
+        },
+        "sponsorUrl": "https://github.com/sponsors/stevejgordon",
+        "url": "https://github.com/stevejgordon",
+        "username": "stevejgordon"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/195327",
+        "name": "Franck Nijhof",
+        "repo": {
+            "description": "A curated list of amazingly awesome Home Assistant resources.",
+            "name": "awesome-home-assistant",
+            "url": "https://github.com/frenck/awesome-home-assistant"
+        },
+        "sponsorUrl": "https://github.com/sponsors/frenck",
+        "url": "https://github.com/frenck",
+        "username": "frenck"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/4368928",
+        "name": "Pedro S. Lopez",
+        "repo": {
+            "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+            "name": "whatsapp-web.js",
+            "url": "https://github.com/pedroslopez/whatsapp-web.js"
+        },
+        "sponsorUrl": "https://github.com/sponsors/pedroslopez",
+        "url": "https://github.com/pedroslopez",
+        "username": "pedroslopez"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/5511591",
+        "name": "Kazuaki Matsuo",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/KazuCocoa",
+        "username": "KazuCocoa"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/663378",
+        "name": "Juliette",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/jrfnl",
+        "username": "jrfnl"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/18519037",
+        "name": "Seth Michael Larson",
+        "repo": {
+            "description": "Collection of SVG diagrams about how UTF-8 works",
+            "name": "diagrams",
+            "url": "https://github.com/sethmlarson/diagrams"
+        },
+        "sponsorUrl": "https://github.com/sponsors/sethmlarson",
+        "url": "https://github.com/sethmlarson",
+        "username": "sethmlarson"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2231765",
+        "name": "Robert Mosolgo",
+        "repo": {
+            "description": "Ruby implementation of GraphQL",
+            "name": "graphql-ruby",
+            "url": "https://github.com/rmosolgo/graphql-ruby"
+        },
+        "sponsorUrl": "https://github.com/sponsors/rmosolgo",
+        "url": "https://github.com/rmosolgo",
+        "username": "rmosolgo"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/590471",
+        "name": "Alex Goodman",
+        "repo": {
+            "description": "A tool for exploring each layer in a docker image",
+            "name": "dive",
+            "url": "https://github.com/wagoodman/dive"
+        },
+        "sponsorUrl": "https://github.com/sponsors/wagoodman",
+        "url": "https://github.com/wagoodman",
+        "username": "wagoodman"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2851492",
+        "name": "Florian Roth",
+        "repo": {
+            "description": "Best Practice Auditd Configuration",
+            "name": "auditd",
+            "url": "https://github.com/Neo23x0/auditd"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/Neo23x0",
+        "username": "Neo23x0"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/33688385",
+        "name": "Patrick Kidger",
+        "repo": {
+            "description": "Numerical differential equation solvers in JAX. Autodifferentiable and GPU-capable.",
+            "name": "diffrax",
+            "url": "https://github.com/patrick-kidger/diffrax"
+        },
+        "sponsorUrl": "https://github.com/sponsors/patrick-kidger",
+        "url": "https://github.com/patrick-kidger",
+        "username": "patrick-kidger"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/594614",
+        "name": "Dries Vints",
+        "repo": {
+            "description": "Get started with your own dotfiles.",
+            "name": "dotfiles",
+            "url": "https://github.com/driesvints/dotfiles"
+        },
+        "sponsorUrl": "https://github.com/sponsors/driesvints",
+        "url": "https://github.com/driesvints",
+        "username": "driesvints"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1326112",
+        "name": "Sebasti\u00e1n Ram\u00edrez",
+        "repo": {
+            "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+            "name": "fastapi",
+            "url": "https://github.com/tiangolo/fastapi"
+        },
+        "sponsorUrl": "https://github.com/sponsors/tiangolo",
+        "url": "https://github.com/tiangolo",
+        "username": "tiangolo"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/8121621",
+        "name": "\u82b1\u88e4\u8869",
+        "repo": {
+            "description": "\ud83c\udf89 A magical vue admin https://panjiachen.github.io/vue-element-admin",
+            "name": "vue-element-admin",
+            "url": "https://github.com/PanJiaChen/vue-element-admin"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/PanJiaChen",
+        "username": "PanJiaChen"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/410147",
+        "name": "Sameer Naik",
+        "repo": {
+            "description": "Dockerized GitLab",
+            "name": "docker-gitlab",
+            "url": "https://github.com/sameersbn/docker-gitlab"
+        },
+        "sponsorUrl": "https://github.com/sponsors/sameersbn",
+        "url": "https://github.com/sameersbn",
+        "username": "sameersbn"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/11247099",
+        "name": "Anthony Fu",
+        "repo": {
+            "description": "A Chinese Hanzi variation of Wordle - \u6c49\u5b57 Wordle",
+            "name": "handle",
+            "url": "https://github.com/antfu/handle"
+        },
+        "sponsorUrl": "https://github.com/sponsors/antfu",
+        "url": "https://github.com/antfu",
+        "username": "antfu"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1314752",
+        "name": "Willem Melching",
+        "repo": {
+            "description": "Decode morse using a neural network",
+            "name": "nn-morse",
+            "url": "https://github.com/pd0wm/nn-morse"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/pd0wm",
+        "username": "pd0wm"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/6318811",
+        "name": "Alex Rogozhnikov",
+        "repo": {
+            "description": "Deep learning operations reinvented (for pytorch, tensorflow, jax and others)",
+            "name": "einops",
+            "url": "https://github.com/arogozhnikov/einops"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/arogozhnikov",
+        "username": "arogozhnikov"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/35901082",
+        "name": "Sylvain Gugger",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/sgugger",
+        "username": "sgugger"
+    }
+]
