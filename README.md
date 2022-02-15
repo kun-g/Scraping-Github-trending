@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [imgui](https://github.com/ocornut/imgui) | Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies |
+| [iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world |
+| [onedev](https://github.com/theonedev/onedev) | Super Easy All-In-One DevOps Platform |
 | [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) | The iconic SVG, font, and CSS toolkit |
-| [Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) | 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵 |
-| [vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) | A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！ |
-| [dyld](https://github.com/apple-oss-distributions/dyld) | None |
-| [CVE-2022-20699](https://github.com/Audiobahn/CVE-2022-20699) | Cisco Anyconnect VPN unauth RCE (rwx stack) |
-| [reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) | 技术面试最后反问面试官的话 |
-| [medusa](https://github.com/medusajs/medusa) | The open-source Shopify alternative ⚡️ |
-| [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) | Roadmap to becoming an Artificial Intelligence Expert in 2022 |
-| [DevToysMac](https://github.com/ObuchiYuki/DevToysMac) | DevToys For mac |
-| [gyroflow](https://github.com/gyroflow/gyroflow) | Video stabilization using gyroscope data |
+| [cJSON](https://github.com/DaveGamble/cJSON) | Ultralightweight JSON parser in ANSI C |
+| [poe-archnemesis-scanner](https://github.com/4rtzel/poe-archnemesis-scanner) | Tool for Path of Exile game to automatically scan Archemesis inventory and display related information |
+| [manim](https://github.com/3b1b/manim) | Animation engine for explanatory math videos |
+| [jless](https://github.com/PaulJuliusMartinez/jless) | A command-line pager for JSON data. |
+| [LeetCode](https://github.com/tanyarajhans/LeetCode) | Collection of LeetCode questions to ace the coding interview! |
+| [AndroRAT](https://github.com/karma9874/AndroRAT) | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
