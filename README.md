@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [imgui](https://github.com/ocornut/imgui) | Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies |
-| [iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world |
-| [onedev](https://github.com/theonedev/onedev) | Super Easy All-In-One DevOps Platform |
+| [cockroach](https://github.com/cockroachdb/cockroach) | CockroachDB - the open source, cloud-native distributed SQL database. |
+| [MLPP](https://github.com/novak-99/MLPP) | A library created to revitalize C++ as a machine learning front end. Per aspera ad astra. |
 | [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) | The iconic SVG, font, and CSS toolkit |
-| [cJSON](https://github.com/DaveGamble/cJSON) | Ultralightweight JSON parser in ANSI C |
-| [poe-archnemesis-scanner](https://github.com/4rtzel/poe-archnemesis-scanner) | Tool for Path of Exile game to automatically scan Archemesis inventory and display related information |
-| [manim](https://github.com/3b1b/manim) | Animation engine for explanatory math videos |
-| [jless](https://github.com/PaulJuliusMartinez/jless) | A command-line pager for JSON data. |
-| [LeetCode](https://github.com/tanyarajhans/LeetCode) | Collection of LeetCode questions to ace the coding interview! |
-| [AndroRAT](https://github.com/karma9874/AndroRAT) | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side |
+| [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) | Roadmap to becoming an Artificial Intelligence Expert in 2022 |
+| [cve](https://github.com/trickest/cve) | Gather and update all available and newest CVEs with their POC. |
+| [ailab](https://github.com/bilibili/ailab) | None |
+| [reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) | 技术面试最后反问面试官的话 |
+| [vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) | A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！ |
+| [awesome-cloud-security](https://github.com/4ndersonLin/awesome-cloud-security) | 🛡️ Awesome Cloud Security Resources ⚔️ |
+| [JavaGuide](https://github.com/Snailclimb/JavaGuide) | 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！ |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
