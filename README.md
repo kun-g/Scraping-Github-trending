@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [cve](https://github.com/trickest/cve) | Gather and update all available and newest CVEs with their PoC. |
 | [mermaid](https://github.com/mermaid-js/mermaid) | Generation of diagram and flowchart from text in a similar manner as markdown |
-| [XMM](https://github.com/heiyeluren/XMM) | XMM - X(eXtensible) Memory Manager（自研自主第三方Go内存分配管理器） XMM是一个在Go语言环境中完全自主实现的第三方内存管理库，不依赖于Go本身的任何内存管理能力，纯自主实现的Go内存管理库；能够应对各种场景下大小内存的 分配/释放/管理 等工作，能够帮助适用于任何复杂数据结构的构建（链表/数组/树/hash等场景），能够良好完美的逃逸掉Go内置的GC机制，保证程序的超高性能，是构建高性能程序基础设施。 |
-| [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs) | The source for REST API specifications for Microsoft Azure. |
-| [ethereumbook](https://github.com/ethereumbook/ethereumbook) | Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood |
-| [KrbRelay](https://github.com/cube0x0/KrbRelay) | Framework for Kerberos relaying |
-| [penkesu](https://github.com/penk/penkesu) | Penkesu Computer - A Homebrew Retro-style Handheld PC |
-| [awesome-italia-remote](https://github.com/italiaremote/awesome-italia-remote) | A list of remote-friendly or full-remote companies that targets Italian talents. |
-| [MLPP](https://github.com/novak-99/MLPP) | A library created to revitalize C++ as a machine learning front end. Per aspera ad astra. |
-| [VMProtect-devirtualization](https://github.com/JonathanSalwan/VMProtect-devirtualization) | Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. |
+| [miaosha](https://github.com/qiurunze123/miaosha) | ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓 |
 | [DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) | DeFi Developer roadmap is a curated Web3.0 Developer handbook which includes a list of the best tools for DApps, development resources and lifehacks. |
+| [HowToCook](https://github.com/Anduin2017/HowToCook) | 程序员在家做饭方法指南。 |
+| [mypy](https://github.com/python/mypy) | Optional static typing for Python |
+| [penkesu](https://github.com/penk/penkesu) | Penkesu Computer - A Homebrew Retro-style Handheld PC |
+| [sahi](https://github.com/obss/sahi) | A lightweight vision library for performing large scale object detection/ instance segmentation. |
+| [Pico-PIO-USB](https://github.com/sekigon-gonnoc/Pico-PIO-USB) | USB host/device implementation using PIO of raspberry pi pico (RP2040). |
+| [beef](https://github.com/beefproject/beef) | The Browser Exploitation Framework Project |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
