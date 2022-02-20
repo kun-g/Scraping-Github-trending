@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [unredacter](https://github.com/BishopFox/unredacter) | Never ever ever use pixelation as a redaction technique |
-| [HowToCook](https://github.com/Anduin2017/HowToCook) | 程序员在家做饭方法指南。 |
-| [cve](https://github.com/trickest/cve) | Gather and update all available and newest CVEs with their PoC. |
-| [XMM](https://github.com/heiyeluren/XMM) | XMM is a high performance third party memory manager for Go environments that is not affected by Gc and guarantees high performance. XMM是一个在Go语言环境中完全自主实现的第三方内存管理库，不依赖于Go本身的任何内存管理能力，纯自主实现能够应对各种场景下大小内存的 分配/释放 工作，能自主构建高性能的 链表/树/哈希表等各类数据结构，能良好完美的逃逸掉Go内置的GC机制，是构建高性能程序基础设施。 |
-| [mermaid](https://github.com/mermaid-js/mermaid) | Generation of diagram and flowchart from text in a similar manner as markdown |
-| [ethereumbook](https://github.com/ethereumbook/ethereumbook) | Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood |
-| [PHPMailer](https://github.com/PHPMailer/PHPMailer) | The classic email sending library for PHP |
 | [lowcode-engine](https://github.com/alibaba/lowcode-engine) | None |
-| [melody](https://github.com/yoav-lavi/melody) | Melody is a language that compiles to regular expressions and aims to be more easily readable and maintainable |
-| [33-js-concepts](https://github.com/leonardomso/33-js-concepts) | 📜 33 JavaScript concepts every developer should know. |
+| [advanced-java](https://github.com/doocs/advanced-java) | 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识 |
+| [miaosha](https://github.com/qiurunze123/miaosha) | ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓 |
+| [daisyui](https://github.com/saadeghi/daisyui) | ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Tailwind Components |
+| [lotus](https://github.com/filecoin-project/lotus) | Implementation of the Filecoin protocol, written in Go |
+| [HowToCook](https://github.com/Anduin2017/HowToCook) | 程序员在家做饭方法指南。 |
+| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+| [data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) | Free Data Engineering course! |
+| [uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) | Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
