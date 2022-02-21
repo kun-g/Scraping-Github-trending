@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [unredacter](https://github.com/BishopFox/unredacter) | Never ever ever use pixelation as a redaction technique |
-| [lowcode-engine](https://github.com/alibaba/lowcode-engine) | None |
-| [advanced-java](https://github.com/doocs/advanced-java) | 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识 |
-| [miaosha](https://github.com/qiurunze123/miaosha) | ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓 |
-| [daisyui](https://github.com/saadeghi/daisyui) | ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Tailwind Components |
-| [lotus](https://github.com/filecoin-project/lotus) | Implementation of the Filecoin protocol, written in Go |
 | [HowToCook](https://github.com/Anduin2017/HowToCook) | 程序员在家做饭方法指南。 |
+| [curl-impersonate](https://github.com/lwthiker/curl-impersonate) | curl-impersonate: A special compilation of curl that makes it impersonate Chrome & Firefox |
 | [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
-| [data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) | Free Data Engineering course! |
-| [uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) | Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub. |
+| [spacecrypto-bot](https://github.com/cryptotwinsbr/spacecrypto-bot) | This is a free python bot program that crosses you to farm with auto click in space crypto NFT game, having fun :) |
+| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
+| [daisyui](https://github.com/saadeghi/daisyui) | ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Tailwind Components |
+| [egui](https://github.com/emilk/egui) | egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native |
+| [awesome-iran-remote](https://github.com/iranremote/awesome-iran-remote) | A list of remote-friendly or full-remote companies that targets iranian talents. |
+| [libevent](https://github.com/libevent/libevent) | Event notification library |
+| [littlefs](https://github.com/littlefs-project/littlefs) | A little fail-safe filesystem designed for microcontrollers |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
