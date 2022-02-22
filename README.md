@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [HowToCook](https://github.com/Anduin2017/HowToCook) | 程序员在家做饭方法指南。 |
-| [curl-impersonate](https://github.com/lwthiker/curl-impersonate) | curl-impersonate: A special compilation of curl that makes it impersonate Chrome & Firefox |
-| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
-| [spacecrypto-bot](https://github.com/cryptotwinsbr/spacecrypto-bot) | This is a free python bot program that crosses you to farm with auto click in space crypto NFT game, having fun :) |
-| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
-| [daisyui](https://github.com/saadeghi/daisyui) | ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Tailwind Components |
+| [instant-ngp](https://github.com/NVlabs/instant-ngp) | Instant neural graphics primitives: lightning fast NeRF and more |
+| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A youtube-dl fork with additional features and fixes |
+| [basic-computer-games](https://github.com/coding-horror/basic-computer-games) | An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common programming languages |
+| [Odin](https://github.com/odin-lang/Odin) | Odin Programming Language |
 | [egui](https://github.com/emilk/egui) | egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native |
-| [awesome-iran-remote](https://github.com/iranremote/awesome-iran-remote) | A list of remote-friendly or full-remote companies that targets iranian talents. |
-| [libevent](https://github.com/libevent/libevent) | Event notification library |
-| [littlefs](https://github.com/littlefs-project/littlefs) | A little fail-safe filesystem designed for microcontrollers |
+| [jj](https://github.com/martinvonz/jj) | A Git-compatible DVCS that is both simple and powerful |
+| [project_professional_portfolio](https://github.com/adrianhajdin/project_professional_portfolio) | This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a real time chat application. Covered topics: React.js, SCSS, Framer Motion, Sanity |
+| [curl-impersonate](https://github.com/lwthiker/curl-impersonate) | curl-impersonate: A special compilation of curl that makes it impersonate Chrome & Firefox |
+| [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) | 🤓 Build your own (insert technology here) |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
