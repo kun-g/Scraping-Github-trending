@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [HowToCook](https://github.com/Anduin2017/HowToCook) | 程序员在家做饭方法指南。 |
-| [instant-ngp](https://github.com/NVlabs/instant-ngp) | Instant neural graphics primitives: lightning fast NeRF and more |
-| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A youtube-dl fork with additional features and fixes |
-| [basic-computer-games](https://github.com/coding-horror/basic-computer-games) | An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common programming languages |
-| [Odin](https://github.com/odin-lang/Odin) | Odin Programming Language |
-| [egui](https://github.com/emilk/egui) | egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native |
-| [jj](https://github.com/martinvonz/jj) | A Git-compatible DVCS that is both simple and powerful |
-| [project_professional_portfolio](https://github.com/adrianhajdin/project_professional_portfolio) | This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a real time chat application. Covered topics: React.js, SCSS, Framer Motion, Sanity |
-| [curl-impersonate](https://github.com/lwthiker/curl-impersonate) | curl-impersonate: A special compilation of curl that makes it impersonate Chrome & Firefox |
+| [HowToCook](https://github.com/Anduin2017/HowToCook) | 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese). |
+| [penpot](https://github.com/penpot/penpot) | Penpot - The Open-Source design & prototyping platform |
+| [openpilot](https://github.com/commaai/openpilot) | openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models. |
 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) | 🤓 Build your own (insert technology here) |
+| [BypassAnti-Virus](https://github.com/midisec/BypassAnti-Virus) | 免杀姿势学习、记录、复现。 |
+| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+| [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) | Bypass Paywalls web browser extension for Chrome and Firefox. |
+| [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | A list of useful payloads and bypass for Web Application Security and Pentest/CTF |
+| [awesome-cicd-security](https://github.com/myugan/awesome-cicd-security) | 📚 A curated list of awesome CI CD security resources |
+| [instant-ngp](https://github.com/NVlabs/instant-ngp) | Instant neural graphics primitives: lightning fast NeRF and more |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
