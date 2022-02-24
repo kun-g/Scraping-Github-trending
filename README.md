@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [HowToCook](https://github.com/Anduin2017/HowToCook) | 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese). |
-| [penpot](https://github.com/penpot/penpot) | Penpot - The Open-Source design & prototyping platform |
 | [openpilot](https://github.com/commaai/openpilot) | openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models. |
+| [autocomplete](https://github.com/withfig/autocomplete) | Fig adds autocomplete to your terminal. |
+| [advanced-java](https://github.com/doocs/advanced-java) | 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识 |
+| [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) | 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why. |
+| [RedTeam-Resources](https://github.com/J0hnbX/RedTeam-Resources) | None |
 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) | 🤓 Build your own (insert technology here) |
-| [BypassAnti-Virus](https://github.com/midisec/BypassAnti-Virus) | 免杀姿势学习、记录、复现。 |
-| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
-| [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) | Bypass Paywalls web browser extension for Chrome and Firefox. |
-| [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | A list of useful payloads and bypass for Web Application Security and Pentest/CTF |
-| [awesome-cicd-security](https://github.com/myugan/awesome-cicd-security) | 📚 A curated list of awesome CI CD security resources |
-| [instant-ngp](https://github.com/NVlabs/instant-ngp) | Instant neural graphics primitives: lightning fast NeRF and more |
+| [Sec-Interview-4-2023](https://github.com/vvmdx/Sec-Interview-4-2023) | 一个2023届毕业生在毕业前持续更新、收集的安全岗面试题及面试经验分享~ |
+| [basic-computer-games](https://github.com/coding-horror/basic-computer-games) | An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common programming languages |
+| [trilium](https://github.com/zadam/trilium) | Build your personal knowledge base with Trilium Notes |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
