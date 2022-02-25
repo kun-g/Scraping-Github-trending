@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [HowToCook](https://github.com/Anduin2017/HowToCook) | 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese). |
-| [openpilot](https://github.com/commaai/openpilot) | openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models. |
-| [autocomplete](https://github.com/withfig/autocomplete) | Fig adds autocomplete to your terminal. |
-| [advanced-java](https://github.com/doocs/advanced-java) | 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识 |
-| [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) | 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why. |
-| [RedTeam-Resources](https://github.com/J0hnbX/RedTeam-Resources) | None |
+| [how-to-secure-anything](https://github.com/veeral-patel/how-to-secure-anything) | How to systematically secure anything: a repository about security engineering |
+| [Resources-for-preparation-Of-Placements](https://github.com/riti2409/Resources-for-preparation-Of-Placements) | Lecture video links for preparation of Placements |
+| [preserve-cd](https://github.com/skywind3000/preserve-cd) | Game Preservation Project |
+| [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) | 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.) |
+| [cs431](https://github.com/kaist-cp/cs431) | None |
+| [Operating_System](https://github.com/riti2409/Operating_System) | Resources , Notes , Videos of Operating System |
 | [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) | 🤓 Build your own (insert technology here) |
-| [Sec-Interview-4-2023](https://github.com/vvmdx/Sec-Interview-4-2023) | 一个2023届毕业生在毕业前持续更新、收集的安全岗面试题及面试经验分享~ |
-| [basic-computer-games](https://github.com/coding-horror/basic-computer-games) | An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common programming languages |
-| [trilium](https://github.com/zadam/trilium) | Build your personal knowledge base with Trilium Notes |
+| [ant-design-mobile](https://github.com/ant-design/ant-design-mobile) | Essential UI blocks for building mobile web apps. |
+| [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | 🇨🇳 GitHub中文排行榜，各语言分离设置「软件 / 资料」榜单，精准定位中文好项目。各取所需，互不干扰，高效学习。 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
