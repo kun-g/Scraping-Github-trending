@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [HowToCook](https://github.com/Anduin2017/HowToCook) | 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese). |
-| [how-to-secure-anything](https://github.com/veeral-patel/how-to-secure-anything) | How to systematically secure anything: a repository about security engineering |
-| [Resources-for-preparation-Of-Placements](https://github.com/riti2409/Resources-for-preparation-Of-Placements) | Lecture video links for preparation of Placements |
-| [preserve-cd](https://github.com/skywind3000/preserve-cd) | Game Preservation Project |
+| [JD-SHOPPER](https://github.com/louisyoungx/JD-SHOPPER) | 京东自动下单 (自动登录,指定时间预约商品,商品补货监控,自动加购物车,自动下单) |
+| [advisory-database](https://github.com/github/advisory-database) | Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software. |
+| [netdata](https://github.com/netdata/netdata) | Real-time performance monitoring, done right! https://www.netdata.cloud |
+| [JoltPhysics](https://github.com/jrouwe/JoltPhysics) | A multi core friendly rigid body physics and collision detection library suitable for games and VR applications. |
+| [kr_autonomous_flight](https://github.com/KumarRobotics/kr_autonomous_flight) | Autonomous flight system for aerial robots |
 | [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) | 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.) |
-| [cs431](https://github.com/kaist-cp/cs431) | None |
-| [Operating_System](https://github.com/riti2409/Operating_System) | Resources , Notes , Videos of Operating System |
-| [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) | 🤓 Build your own (insert technology here) |
-| [ant-design-mobile](https://github.com/ant-design/ant-design-mobile) | Essential UI blocks for building mobile web apps. |
-| [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | 🇨🇳 GitHub中文排行榜，各语言分离设置「软件 / 资料」榜单，精准定位中文好项目。各取所需，互不干扰，高效学习。 |
+| [awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) | List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting. |
+| [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) | 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why. |
+| [autocomplete](https://github.com/withfig/autocomplete) | Fig adds autocomplete to your terminal. |
+| [openpilot](https://github.com/commaai/openpilot) | openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
