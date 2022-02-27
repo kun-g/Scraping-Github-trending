@@ -25,16 +25,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [mermaid](https://github.com/mermaid-js/mermaid) | Generation of diagram and flowchart from text in a similar manner as markdown |
-| [ailab](https://github.com/bilibili/ailab) | None |
-| [imgui](https://github.com/ocornut/imgui) | Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies |
-| [3d](https://github.com/dragonir/3d) | Three.js 3D项目，包含冰墩墩🐼、数字城市🏙、3D人像👤、车模展示🚗、塞尔达传说🗡等一些3D趣味演示页面，持续优化中...访问链接如下👇 |
-| [DevToysMac](https://github.com/ObuchiYuki/DevToysMac) | DevToys For mac |
+| [HowToCook](https://github.com/Anduin2017/HowToCook) | 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese). |
+| [unredacter](https://github.com/BishopFox/unredacter) | Never ever ever use pixelation as a redaction technique |
+| [lowcode-engine](https://github.com/alibaba/lowcode-engine) | 一套面向扩展设计的企业级低代码技术体系 |
+| [penpot](https://github.com/penpot/penpot) | Penpot - The Open-Source design & prototyping platform |
 | [advanced-java](https://github.com/doocs/advanced-java) | 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识 |
-| [ethereumbook](https://github.com/ethereumbook/ethereumbook) | Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood |
-| [ToolJet](https://github.com/ToolJet/ToolJet) | Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and application builder. Built using JavaScript/TypeScript. 🚀 |
-| [Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) | 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵 |
-| [JavaGuide](https://github.com/Snailclimb/JavaGuide) | 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！ |
+| [basic-computer-games](https://github.com/coding-horror/basic-computer-games) | An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common programming languages |
+| [instant-ngp](https://github.com/NVlabs/instant-ngp) | Instant neural graphics primitives: lightning fast NeRF and more |
+| [openpilot](https://github.com/commaai/openpilot) | openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models. |
+| [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) | 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why. |
+| [Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) | Anime Girls Holding Programming Books |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
