@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. |
+| [Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) | Anime Girls Holding Programming Books |
+| [FastEndpoints](https://github.com/dj-nitehawk/FastEndpoints) | A light-weight REST Api framework for ASP.Net 6 that implements REPR (Request-Endpoint-Response) Pattern |
+| [AlwaysOn](https://github.com/Azure/AlwaysOn) | AlwaysOn provides a design methodology and approach to building highly-reliable applications on Microsoft Azure for mission-critical workloads. |
+| [container-security-checklist](https://github.com/krol3/container-security-checklist) | Checklist for container security - devsecops practices |
+| [beam](https://github.com/planetscale/beam) | A simple message board for your organization or project |
 | [JD-SHOPPER](https://github.com/louisyoungx/JD-SHOPPER) | 京东自动下单 (自动登录,指定时间预约商品,商品补货监控,自动加购物车,自动下单) |
-| [advisory-database](https://github.com/github/advisory-database) | Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software. |
-| [netdata](https://github.com/netdata/netdata) | Real-time performance monitoring, done right! https://www.netdata.cloud |
-| [JoltPhysics](https://github.com/jrouwe/JoltPhysics) | A multi core friendly rigid body physics and collision detection library suitable for games and VR applications. |
-| [kr_autonomous_flight](https://github.com/KumarRobotics/kr_autonomous_flight) | Autonomous flight system for aerial robots |
 | [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) | 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.) |
-| [awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) | List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting. |
+| [blog_os](https://github.com/phil-opp/blog_os) | Writing an OS in Rust |
 | [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) | 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why. |
-| [autocomplete](https://github.com/withfig/autocomplete) | Fig adds autocomplete to your terminal. |
-| [openpilot](https://github.com/commaai/openpilot) | openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
