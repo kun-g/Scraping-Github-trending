@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [bombardier](https://github.com/almerico/bombardier) | bombardier |
-| [modernisation-platform](https://github.com/ministryofjustice/modernisation-platform) | A place for the core work of the Modernisation Platform • This repository is defined and managed in Terraform |
-| [Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) | Anime Girls Holding Programming Books |
-| [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites |
+| [metalnes](https://github.com/iaddis/metalnes) | Transistor level NES simulation |
 | [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. |
-| [MHDDoS](https://github.com/MHProDev/MHDDoS) | Best DDoS Attack Script Python3, Cyber Attack With 36 Methods |
-| [DDoS-Ripper](https://github.com/palahsu/DDoS-Ripper) | DDos Ripper a Distributable Denied-of-Service (DDOS) attack server that cuts off targets or surrounding infrastructure in a flood of Internet traffic |
-| [slowloris](https://github.com/gkbrk/slowloris) | Low bandwidth DoS tool. Slowloris rewrite in Python. |
-| [FastEndpoints](https://github.com/dj-nitehawk/FastEndpoints) | A light-weight REST Api framework for ASP.Net 6 that implements REPR (Request-Endpoint-Response) Pattern |
-| [API-SecurityEmpire](https://github.com/cyprosecurity/API-SecurityEmpire) | API Security Projecto aims to present unique attack & defense methods in API Security field |
+| [Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) | Anime Girls Holding Programming Books |
+| [hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine) | HashLips Art Engine is a tool used to create multiple different instances of artworks based on provided layers. |
+| [freqtrade](https://github.com/freqtrade/freqtrade) | Free, open source crypto trading bot |
+| [stoppropaganda](https://github.com/erkexzcx/stoppropaganda) | DOS application to stop pro-Russian aggression websites. Support Ukraine! |
+| [NoWarDDoS](https://github.com/AlexTrushkovsky/NoWarDDoS) | DDoS Russian websites to help Ukraine to win this hybrid war |
+| [MHDDoS](https://github.com/MHProDev/MHDDoS) | Best DDoS Attack Script Python3, Cyber Attack With 40 Methods |
+| [NoRussian](https://github.com/ajax-lives/NoRussian) | Volunteer DoS tool via HTML + JS |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
