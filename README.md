@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [bombardier](https://github.com/almerico/bombardier) | bombardier |
-| [metalnes](https://github.com/iaddis/metalnes) | Transistor level NES simulation |
-| [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. |
 | [Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) | Anime Girls Holding Programming Books |
-| [hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine) | HashLips Art Engine is a tool used to create multiple different instances of artworks based on provided layers. |
-| [freqtrade](https://github.com/freqtrade/freqtrade) | Free, open source crypto trading bot |
-| [stoppropaganda](https://github.com/erkexzcx/stoppropaganda) | DOS application to stop pro-Russian aggression websites. Support Ukraine! |
-| [NoWarDDoS](https://github.com/AlexTrushkovsky/NoWarDDoS) | DDoS Russian websites to help Ukraine to win this hybrid war |
+| [awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) | Awesome list of open-source startup alternatives to well-known SaaS products 🚀 |
+| [hoppscotch](https://github.com/hoppscotch/hoppscotch) | 👽 Open source API development ecosystem - https://hoppscotch.io |
 | [MHDDoS](https://github.com/MHProDev/MHDDoS) | Best DDoS Attack Script Python3, Cyber Attack With 40 Methods |
-| [NoRussian](https://github.com/ajax-lives/NoRussian) | Volunteer DoS tool via HTML + JS |
+| [bombardier](https://github.com/almerico/bombardier) | bombardier |
+| [Impulse](https://github.com/LimerBoy/Impulse) | 💣 Impulse Denial-of-service ToolKit |
+| [chibicc](https://github.com/rui314/chibicc) | A small C compiler |
+| [Ukraine-Cyber-Operations](https://github.com/curated-intel/Ukraine-Cyber-Operations) | Curated Intelligence is working with analysts from around the world to provide useful information to organisations in Ukraine looking for additional free threat intelligence. Slava Ukraini. Glory to Ukraine. |
+| [stoppropaganda](https://github.com/erkexzcx/stoppropaganda) | DOS application to stop pro-Russian aggression websites. Support Ukraine! |
+| [leetcode-master](https://github.com/youngyangyang04/leetcode-master) | 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
