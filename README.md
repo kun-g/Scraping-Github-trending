@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity |
 | [Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) | Anime Girls Holding Programming Books |
-| [awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) | Awesome list of open-source startup alternatives to well-known SaaS products 🚀 |
-| [hoppscotch](https://github.com/hoppscotch/hoppscotch) | 👽 Open source API development ecosystem - https://hoppscotch.io |
-| [MHDDoS](https://github.com/MHProDev/MHDDoS) | Best DDoS Attack Script Python3, Cyber Attack With 40 Methods |
-| [bombardier](https://github.com/almerico/bombardier) | bombardier |
-| [Impulse](https://github.com/LimerBoy/Impulse) | 💣 Impulse Denial-of-service ToolKit |
-| [chibicc](https://github.com/rui314/chibicc) | A small C compiler |
 | [Ukraine-Cyber-Operations](https://github.com/curated-intel/Ukraine-Cyber-Operations) | Curated Intelligence is working with analysts from around the world to provide useful information to organisations in Ukraine looking for additional free threat intelligence. Slava Ukraini. Glory to Ukraine. |
-| [stoppropaganda](https://github.com/erkexzcx/stoppropaganda) | DOS application to stop pro-Russian aggression websites. Support Ukraine! |
-| [leetcode-master](https://github.com/youngyangyang04/leetcode-master) | 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀 |
+| [conti-leaks-englished](https://github.com/TheParmak/conti-leaks-englished) | Google and deepl translated conti leaks, which is shared by a member of the conti ransomware group. |
+| [feedback](https://github.com/github/feedback) | Public feedback discussions for: GitHub for Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more! |
+| [MHDDoS](https://github.com/MHProDev/MHDDoS) | Best DDoS Attack Script Python3, Cyber Attack With 40 Methods |
+| [content](https://github.com/mdn/content) | The content behind MDN Web Docs |
+| [Security-PPT](https://github.com/FeeiCN/Security-PPT) | 大安全各领域各公司各会议分享的PPT |
+| [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics |
+| [CamPhish](https://github.com/techchipnet/CamPhish) | Grab cam shots from target's phone front camera or PC webcam just sending a link. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
