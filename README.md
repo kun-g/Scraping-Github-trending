@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity |
-| [Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) | Anime Girls Holding Programming Books |
-| [Ukraine-Cyber-Operations](https://github.com/curated-intel/Ukraine-Cyber-Operations) | Curated Intelligence is working with analysts from around the world to provide useful information to organisations in Ukraine looking for additional free threat intelligence. Slava Ukraini. Glory to Ukraine. |
 | [conti-leaks-englished](https://github.com/TheParmak/conti-leaks-englished) | Google and deepl translated conti leaks, which is shared by a member of the conti ransomware group. |
-| [feedback](https://github.com/github/feedback) | Public feedback discussions for: GitHub for Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more! |
-| [MHDDoS](https://github.com/MHProDev/MHDDoS) | Best DDoS Attack Script Python3, Cyber Attack With 40 Methods |
+| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [uashield](https://github.com/opengs/uashield) | Voluntary Ukraine security platform to counter attack Russian forces in the Internet |
+| [stop-russia-it](https://github.com/stop-war-in-ukraine/stop-russia-it) | An open letter from IT industry specialists to protect Ukraine from information warfare. Відкритий лист спеціалістів IT-індустрії на захист України від інформаційної війни. |
+| [leetcode-master](https://github.com/youngyangyang04/leetcode-master) | 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀 |
+| [Security-PPT](https://github.com/FeeiCN/Security-PPT) | Security-related Slide Presentation（大安全各领域各公司各会议分享的PPT） |
+| [Ukraine-Cyber-Operations](https://github.com/curated-intel/Ukraine-Cyber-Operations) | Curated Intelligence is working with analysts from around the world to provide useful information to organisations in Ukraine looking for additional free threat intelligence. Slava Ukraini. Glory to Ukraine. |
 | [content](https://github.com/mdn/content) | The content behind MDN Web Docs |
-| [Security-PPT](https://github.com/FeeiCN/Security-PPT) | 大安全各领域各公司各会议分享的PPT |
-| [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics |
-| [CamPhish](https://github.com/techchipnet/CamPhish) | Grab cam shots from target's phone front camera or PC webcam just sending a link. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
