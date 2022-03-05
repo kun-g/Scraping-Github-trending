@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity |
-| [conti-leaks-englished](https://github.com/TheParmak/conti-leaks-englished) | Google and deepl translated conti leaks, which is shared by a member of the conti ransomware group. |
-| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [uashield](https://github.com/opengs/uashield) | Voluntary Ukraine security platform to counter attack Russian forces in the Internet |
-| [stop-russia-it](https://github.com/stop-war-in-ukraine/stop-russia-it) | An open letter from IT industry specialists to protect Ukraine from information warfare. Відкритий лист спеціалістів IT-індустрії на захист України від інформаційної війни. |
-| [leetcode-master](https://github.com/youngyangyang04/leetcode-master) | 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀 |
+| [uashield](https://github.com/opengs/uashield) | Voluntary Ukraine security platform to protect us from Russian forces in the Internet |
 | [Security-PPT](https://github.com/FeeiCN/Security-PPT) | Security-related Slide Presentation（大安全各领域各公司各会议分享的PPT） |
-| [Ukraine-Cyber-Operations](https://github.com/curated-intel/Ukraine-Cyber-Operations) | Curated Intelligence is working with analysts from around the world to provide useful information to organisations in Ukraine looking for additional free threat intelligence. Slava Ukraini. Glory to Ukraine. |
-| [content](https://github.com/mdn/content) | The content behind MDN Web Docs |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [db1000n](https://github.com/Arriven/db1000n) | None |
+| [react](https://github.com/facebook/react) | A declarative, efficient, and flexible JavaScript library for building user interfaces. |
+| [lapce](https://github.com/lapce/lapce) | Lightning-fast and Powerful Code Editor written in Rust |
+| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
+| [Knot](https://github.com/Lojii/Knot) | 一款iOS端基于MITM(中间人攻击技术)实现的HTTPS抓包工具，完整的App，核心代码使用SwiftNIO实现 |
+| [vulhub](https://github.com/vulhub/vulhub) | Pre-Built Vulnerable Environments Based on Docker-Compose |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
