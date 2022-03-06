@@ -25,16 +25,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [HowToCook](https://github.com/Anduin2017/HowToCook) | 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese). |
-| [unredacter](https://github.com/BishopFox/unredacter) | Never ever ever use pixelation as a redaction technique |
-| [lowcode-engine](https://github.com/alibaba/lowcode-engine) | 一套面向扩展设计的企业级低代码技术体系 |
-| [penpot](https://github.com/penpot/penpot) | Penpot - The Open-Source design & prototyping platform |
-| [advanced-java](https://github.com/doocs/advanced-java) | 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识 |
-| [basic-computer-games](https://github.com/coding-horror/basic-computer-games) | An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common programming languages |
-| [instant-ngp](https://github.com/NVlabs/instant-ngp) | Instant neural graphics primitives: lightning fast NeRF and more |
-| [openpilot](https://github.com/commaai/openpilot) | openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models. |
-| [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) | 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why. |
 | [Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) | Anime Girls Holding Programming Books |
+| [HowToCook](https://github.com/Anduin2017/HowToCook) | 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese). |
+| [hoppscotch](https://github.com/hoppscotch/hoppscotch) | 👽 Open source API development ecosystem - https://hoppscotch.io |
+| [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity |
+| [content](https://github.com/mdn/content) | The content behind MDN Web Docs |
+| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
+| [advisory-database](https://github.com/github/advisory-database) | Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software. |
+| [lowcode-engine](https://github.com/alibaba/lowcode-engine) | 一套面向扩展设计的企业级低代码技术体系 |
+| [kratos](https://github.com/go-kratos/kratos) | Your ultimate Go microservices framework for the cloud-native era. |
+| [javascript](https://github.com/airbnb/javascript) | JavaScript Style Guide |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
