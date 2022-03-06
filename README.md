@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity |
-| [uashield](https://github.com/opengs/uashield) | Voluntary Ukraine security platform to protect us from Russian forces in the Internet |
-| [Security-PPT](https://github.com/FeeiCN/Security-PPT) | Security-related Slide Presentation（大安全各领域各公司各会议分享的PPT） |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [db1000n](https://github.com/Arriven/db1000n) | None |
-| [react](https://github.com/facebook/react) | A declarative, efficient, and flexible JavaScript library for building user interfaces. |
-| [lapce](https://github.com/lapce/lapce) | Lightning-fast and Powerful Code Editor written in Rust |
 | [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
-| [Knot](https://github.com/Lojii/Knot) | 一款iOS端基于MITM(中间人攻击技术)实现的HTTPS抓包工具，完整的App，核心代码使用SwiftNIO实现 |
-| [vulhub](https://github.com/vulhub/vulhub) | Pre-Built Vulnerable Environments Based on Docker-Compose |
+| [tauri](https://github.com/tauri-apps/tauri) | Build smaller, faster, and more secure desktop applications with a web frontend. |
+| [qemu-t8030](https://github.com/TrungNguyen1909/qemu-t8030) | iPhone 11 emulated on QEMU |
+| [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) | Bypass Paywalls web browser extension for Chrome and Firefox. |
+| [android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap) | 🗺 The 2022 Android Developer Roadmap suggests learning paths to understanding Android development. |
+| [react](https://github.com/facebook/react) | A declarative, efficient, and flexible JavaScript library for building user interfaces. |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [halo](https://github.com/halo-dev/halo) | ✍ 一款现代化的开源博客/CMS系统。 |
+| [db1000n](https://github.com/Arriven/db1000n) | None |
+| [awesome-twitter-communities](https://github.com/mattn/awesome-twitter-communities) | Awesome Twitter Communities for Engineers |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
