@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
-| [tauri](https://github.com/tauri-apps/tauri) | Build smaller, faster, and more secure desktop applications with a web frontend. |
-| [qemu-t8030](https://github.com/TrungNguyen1909/qemu-t8030) | iPhone 11 emulated on QEMU |
-| [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) | Bypass Paywalls web browser extension for Chrome and Firefox. |
-| [android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap) | 🗺 The 2022 Android Developer Roadmap suggests learning paths to understanding Android development. |
-| [react](https://github.com/facebook/react) | A declarative, efficient, and flexible JavaScript library for building user interfaces. |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [halo](https://github.com/halo-dev/halo) | ✍ 一款现代化的开源博客/CMS系统。 |
 | [db1000n](https://github.com/Arriven/db1000n) | None |
-| [awesome-twitter-communities](https://github.com/mattn/awesome-twitter-communities) | Awesome Twitter Communities for Engineers |
+| [plasticity](https://github.com/nkallen/plasticity) | None |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [resistance](https://github.com/codez0mb1e/resistance) | Russia-2022: How not lose everything? |
+| [vita2hos](https://github.com/xerpi/vita2hos) | [WIP] PlayStation Vita to Horizon OS (Nintendo Switch OS) translation layer |
+| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
+| [lo](https://github.com/samber/lo) | 💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...) |
+| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
+| [rust-by-practice](https://github.com/sunface/rust-by-practice) | Practice Rust with typical examples, challenging exercises and small practical projects. |
+| [awesome-go](https://github.com/avelino/awesome-go) | A curated list of awesome Go frameworks, libraries and software |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
