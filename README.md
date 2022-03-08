@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [db1000n](https://github.com/Arriven/db1000n) | None |
-| [plasticity](https://github.com/nkallen/plasticity) | None |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [resistance](https://github.com/codez0mb1e/resistance) | Russia-2022: How not lose everything? |
-| [vita2hos](https://github.com/xerpi/vita2hos) | [WIP] PlayStation Vita to Horizon OS (Nintendo Switch OS) translation layer |
 | [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
-| [lo](https://github.com/samber/lo) | 💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...) |
 | [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
-| [rust-by-practice](https://github.com/sunface/rust-by-practice) | Practice Rust with typical examples, challenging exercises and small practical projects. |
-| [awesome-go](https://github.com/avelino/awesome-go) | A curated list of awesome Go frameworks, libraries and software |
+| [Rayon](https://github.com/Lakr233/Rayon) | yet another SSH machine manager |
+| [db1000n](https://github.com/Arriven/db1000n) | None |
+| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
+| [lo](https://github.com/samber/lo) | 💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...) |
+| [discord.js](https://github.com/discordjs/discord.js) | A powerful JavaScript library for interacting with the Discord API |
+| [resistance](https://github.com/codez0mb1e/resistance) | Pre-crisis Risk Management for Personal Finance |
+| [android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap) | 🗺 The 2022 Android Developer Roadmap suggests learning paths to understanding Android development. |
+| [nft-erc721-collection](https://github.com/hashlips-lab/nft-erc721-collection) | None |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
