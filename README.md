@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [rust-by-practice](https://github.com/sunface/rust-by-practice) | Practice Rust with challenging examples, exercises and projects to narrow the gap between beginner and skilled-dev. |
-| [lo](https://github.com/samber/lo) | 💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...) |
-| [skyline](https://github.com/skyline-emu/skyline) | Run Nintendo Switch homebrew & games on your Android device! |
-| [yao](https://github.com/YaoApp/yao) | Yao A low code engine to create web services and dashboard. |
-| [discord.py](https://github.com/Rapptz/discord.py) | An API wrapper for Discord written in Python. |
-| [sds-dsmovie](https://github.com/devsuperior/sds-dsmovie) | None |
-| [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page |
 | [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
-| [awesome-italia-remote](https://github.com/italiaremote/awesome-italia-remote) | A list of remote-friendly or full-remote companies that targets Italian talents. |
-| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
+| [yao](https://github.com/YaoApp/yao) | Yao A low code engine to create web services and dashboard. |
+| [lo](https://github.com/samber/lo) | 💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...) |
+| [BountyHunterInChina](https://github.com/J0o1ey/BountyHunterInChina) | 重生之我是赏金猎人系列，分享自己和团队在SRC、项目实战漏洞测试过程中的有趣案例 |
+| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
+| [socialclub-notification-blocker](https://github.com/Speyedr/socialclub-notification-blocker) | Next-generation firewall (NGFW) that supports blocking SocialClub Overlay notifications. |
+| [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page |
+| [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) | 🤓 Build your own (insert technology here) |
+| [marktext](https://github.com/marktext/marktext) | 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. |
+| [StyleSDF](https://github.com/royorel/StyleSDF) | None |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
