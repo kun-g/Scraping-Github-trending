@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [CVE-2022-0847-DirtyPipe-Exploit](https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit) | A root exploit for CVE-2022-0847 (Dirty Pipe) |
+| [skyline](https://github.com/skyline-emu/skyline) | Run Nintendo Switch homebrew & games on your Android device! |
+| [spaCy](https://github.com/explosion/spaCy) | 💫 Industrial-strength Natural Language Processing (NLP) in Python |
+| [linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) | Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers |
+| [rust-by-practice](https://github.com/sunface/rust-by-practice) | Practice Rust with challenging examples, exercises and projects to narrow the gap between beginner and skilled-dev. |
+| [sperm](https://github.com/darbra/sperm) | 浏览过的精彩逆向文章汇总，值得一看 |
 | [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
+| [python-cheatsheet](https://github.com/gto76/python-cheatsheet) | Comprehensive Python Cheatsheet |
+| [Code-LMs](https://github.com/VHellendoorn/Code-LMs) | Guide to using pre-trained large language models of source code |
 | [yao](https://github.com/YaoApp/yao) | Yao A low code engine to create web services and dashboard. |
-| [lo](https://github.com/samber/lo) | 💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...) |
-| [BountyHunterInChina](https://github.com/J0o1ey/BountyHunterInChina) | 重生之我是赏金猎人系列，分享自己和团队在SRC、项目实战漏洞测试过程中的有趣案例 |
-| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
-| [socialclub-notification-blocker](https://github.com/Speyedr/socialclub-notification-blocker) | Next-generation firewall (NGFW) that supports blocking SocialClub Overlay notifications. |
-| [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page |
-| [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) | 🤓 Build your own (insert technology here) |
-| [marktext](https://github.com/marktext/marktext) | 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. |
-| [StyleSDF](https://github.com/royorel/StyleSDF) | None |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
