@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [CVE-2022-0847-DirtyPipe-Exploit](https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit) | A root exploit for CVE-2022-0847 (Dirty Pipe) |
-| [skyline](https://github.com/skyline-emu/skyline) | Run Nintendo Switch homebrew & games on your Android device! |
-| [spaCy](https://github.com/explosion/spaCy) | 💫 Industrial-strength Natural Language Processing (NLP) in Python |
 | [linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) | Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers |
-| [rust-by-practice](https://github.com/sunface/rust-by-practice) | Practice Rust with challenging examples, exercises and projects to narrow the gap between beginner and skilled-dev. |
-| [sperm](https://github.com/darbra/sperm) | 浏览过的精彩逆向文章汇总，值得一看 |
+| [traitor](https://github.com/liamg/traitor) | ⬆️ ☠️ Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock |
+| [skyline](https://github.com/skyline-emu/skyline) | Run Nintendo Switch homebrew & games on your Android device! |
 | [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
-| [python-cheatsheet](https://github.com/gto76/python-cheatsheet) | Comprehensive Python Cheatsheet |
-| [Code-LMs](https://github.com/VHellendoorn/Code-LMs) | Guide to using pre-trained large language models of source code |
+| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
+| [material-ui](https://github.com/mui/material-ui) | MUI Core (formerly Material UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design. |
+| [learn-go-with-tests](https://github.com/quii/learn-go-with-tests) | Learn Go with test-driven development |
 | [yao](https://github.com/YaoApp/yao) | Yao A low code engine to create web services and dashboard. |
+| [Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) | 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars. |
+| [cypress](https://github.com/cypress-io/cypress) | Fast, easy and reliable testing for anything that runs in a browser. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
