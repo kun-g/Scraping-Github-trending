@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
 | [traitor](https://github.com/liamg/traitor) | ⬆️ ☠️ Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock |
 | [linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) | Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers |
-| [proposal-types-as-comments](https://github.com/giltayar/proposal-types-as-comments) | ECMAScript proposal for type syntax that is erased - Stage 0 |
-| [StyleNeRF](https://github.com/facebookresearch/StyleNeRF) | This is the open source implementation of the ICLR2022 paper "StyleNeRF: A Style-based 3D-Aware Generator for High-resolution Image Synthesis" |
-| [cypress](https://github.com/cypress-io/cypress) | Fast, easy and reliable testing for anything that runs in a browser. |
-| [ligolo](https://github.com/sysdream/ligolo) | Reverse Tunneling made easy for pentesters, by pentesters https://sysdream.com/ |
+| [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) | A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! |
+| [Ventoy](https://github.com/ventoy/Ventoy) | A new bootable USB solution. |
+| [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) | Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2 |
+| [basic-computer-games](https://github.com/coding-horror/basic-computer-games) | An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common programming languages |
 | [Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) | 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars. |
-| [Kingfisher](https://github.com/onevcat/Kingfisher) | A lightweight, pure-Swift library for downloading and caching images from the web. |
-| [ithaca](https://github.com/deepmind/ithaca) | Restoring and attributing ancient texts using deep neural networks |
-| [sperm](https://github.com/darbra/sperm) | 浏览过的精彩逆向文章汇总，值得一看 |
+| [arrow-datafusion](https://github.com/apache/arrow-datafusion) | Apache Arrow DataFusion and Ballista query engines |
+| [NeteaseCloudMusicTasks](https://github.com/chen310/NeteaseCloudMusicTasks) | 网易云音乐自动任务：刷等级、云贝、云豆等 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
