@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
-| [traitor](https://github.com/liamg/traitor) | ⬆️ ☠️ Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock |
-| [linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) | Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers |
+| [voidrice](https://github.com/LukeSmithxyz/voidrice) | My dotfiles (deployed by LARBS) |
 | [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) | A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! |
-| [Ventoy](https://github.com/ventoy/Ventoy) | A new bootable USB solution. |
-| [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) | Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2 |
-| [basic-computer-games](https://github.com/coding-horror/basic-computer-games) | An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common programming languages |
-| [Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) | 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars. |
-| [arrow-datafusion](https://github.com/apache/arrow-datafusion) | Apache Arrow DataFusion and Ballista query engines |
-| [NeteaseCloudMusicTasks](https://github.com/chen310/NeteaseCloudMusicTasks) | 网易云音乐自动任务：刷等级、云贝、云豆等 |
+| [squad303app](https://github.com/squad303/squad303app) | None |
+| [ColossalAI](https://github.com/hpcaitech/ColossalAI) | Colossal-AI: A Unified Deep Learning System for Large-Scale Parallel Training |
+| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A youtube-dl fork with additional features and fixes |
+| [iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world |
+| [SecLists](https://github.com/danielmiessler/SecLists) | SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. |
+| [Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot) | 我的超迷你机械臂机器人项目。 |
+| [smartknob](https://github.com/scottbez1/smartknob) | Haptic input knob with software-defined endstops and virtual detents |
+| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
