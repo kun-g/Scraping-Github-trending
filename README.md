@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [voidrice](https://github.com/LukeSmithxyz/voidrice) | My dotfiles (deployed by LARBS) |
-| [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) | A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! |
-| [squad303app](https://github.com/squad303/squad303app) | None |
-| [ColossalAI](https://github.com/hpcaitech/ColossalAI) | Colossal-AI: A Unified Deep Learning System for Large-Scale Parallel Training |
-| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A youtube-dl fork with additional features and fixes |
-| [iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world |
-| [SecLists](https://github.com/danielmiessler/SecLists) | SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. |
-| [Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot) | 我的超迷你机械臂机器人项目。 |
-| [smartknob](https://github.com/scottbez1/smartknob) | Haptic input knob with software-defined endstops and virtual detents |
-| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
+| [VancedManager](https://github.com/YTVanced/VancedManager) | Vanced Installer |
+| [VancedStore](https://github.com/YTVanced/VancedStore) | General Application Store with support for root apps and more |
+| [ElectronBot](https://github.com/peng-zhihui/ElectronBot) | None |
+| [NewPipe](https://github.com/TeamNewPipe/NewPipe) | A libre lightweight streaming front-end for Android. |
+| [mini-vue](https://github.com/cuixiaorui/mini-vue) | 实现最简 vue3 模型( Help you learn more efficiently vue3 source code ) |
+| [awesome-python](https://github.com/vinta/awesome-python) | A curated list of awesome Python frameworks, libraries, software and resources |
+| [hubfs](https://github.com/winfsp/hubfs) | File system for GitHub |
+| [flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) | Flipper Zero Firmware |
+| [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) | Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2 |
+| [Vanced](https://github.com/YTVanced/Vanced) | Vanced Issues/Docs repo |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
