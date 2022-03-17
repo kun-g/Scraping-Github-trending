@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [VancedManager](https://github.com/YTVanced/VancedManager) | Vanced Installer |
-| [VancedStore](https://github.com/YTVanced/VancedStore) | General Application Store with support for root apps and more |
-| [ElectronBot](https://github.com/peng-zhihui/ElectronBot) | None |
-| [NewPipe](https://github.com/TeamNewPipe/NewPipe) | A libre lightweight streaming front-end for Android. |
-| [mini-vue](https://github.com/cuixiaorui/mini-vue) | 实现最简 vue3 模型( Help you learn more efficiently vue3 source code ) |
-| [awesome-python](https://github.com/vinta/awesome-python) | A curated list of awesome Python frameworks, libraries, software and resources |
-| [hubfs](https://github.com/winfsp/hubfs) | File system for GitHub |
-| [flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) | Flipper Zero Firmware |
-| [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) | Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2 |
-| [Vanced](https://github.com/YTVanced/Vanced) | Vanced Issues/Docs repo |
+| [semana-javascript-expert06](https://github.com/ErickWendel/semana-javascript-expert06) | Todas as aulas da Semana JS Expert 6.0 - Spotify Radio |
+| [black](https://github.com/psf/black) | The uncompromising Python code formatter |
+| [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics |
+| [Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot) | 我的超迷你机械臂机器人项目。 |
+| [bhai-lang](https://github.com/DulLabs/bhai-lang) | A toy programming language written in Typescript |
+| [semanajsexpert-spotify-template](https://github.com/ErickWendel/semanajsexpert-spotify-template) | Layout inicial da SemanaJSExpert 06 |
+| [smartknob](https://github.com/scottbez1/smartknob) | Haptic input knob with software-defined endstops and virtual detents |
+| [VueTube](https://github.com/Frontesque/VueTube) | A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more) |
+| [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) | This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps. |
+| [Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Python - 100天从新手到大师 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
