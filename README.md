@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [semana-javascript-expert06](https://github.com/ErickWendel/semana-javascript-expert06) | Todas as aulas da Semana JS Expert 6.0 - Spotify Radio |
-| [black](https://github.com/psf/black) | The uncompromising Python code formatter |
-| [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics |
-| [Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot) | 我的超迷你机械臂机器人项目。 |
-| [bhai-lang](https://github.com/DulLabs/bhai-lang) | A toy programming language written in Typescript |
-| [semanajsexpert-spotify-template](https://github.com/ErickWendel/semanajsexpert-spotify-template) | Layout inicial da SemanaJSExpert 06 |
-| [smartknob](https://github.com/scottbez1/smartknob) | Haptic input knob with software-defined endstops and virtual detents |
+| [plasticity](https://github.com/nkallen/plasticity) | None |
 | [VueTube](https://github.com/Frontesque/VueTube) | A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more) |
-| [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) | This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps. |
-| [Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Python - 100天从新手到大师 |
+| [lo](https://github.com/samber/lo) | 💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...) |
+| [black](https://github.com/psf/black) | The uncompromising Python code formatter |
+| [bhai-lang](https://github.com/DulLabs/bhai-lang) | A toy programming language written in Typescript |
+| [awesome-python](https://github.com/vinta/awesome-python) | A curated list of awesome Python frameworks, libraries, software and resources |
+| [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics |
+| [devzat](https://github.com/quackduck/devzat) | The devs are over here at devzat, chat over SSH! |
+| [CodeEdit](https://github.com/CodeEditApp/CodeEdit) | CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. |
+| [tinyrenderer](https://github.com/ssloy/tinyrenderer) | A brief computer graphics / rendering course |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
