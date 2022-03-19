@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [plasticity](https://github.com/nkallen/plasticity) | None |
-| [VueTube](https://github.com/Frontesque/VueTube) | A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more) |
-| [lo](https://github.com/samber/lo) | 💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...) |
-| [black](https://github.com/psf/black) | The uncompromising Python code formatter |
-| [bhai-lang](https://github.com/DulLabs/bhai-lang) | A toy programming language written in Typescript |
-| [awesome-python](https://github.com/vinta/awesome-python) | A curated list of awesome Python frameworks, libraries, software and resources |
-| [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics |
-| [devzat](https://github.com/quackduck/devzat) | The devs are over here at devzat, chat over SSH! |
+| [lapce](https://github.com/lapce/lapce) | Lightning-fast and Powerful Code Editor written in Rust |
 | [CodeEdit](https://github.com/CodeEditApp/CodeEdit) | CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. |
-| [tinyrenderer](https://github.com/ssloy/tinyrenderer) | A brief computer graphics / rendering course |
+| [BITB](https://github.com/mrd0x/BITB) | Browser In The Browser (BITB) Templates |
+| [VueTube](https://github.com/Frontesque/VueTube) | A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more) |
+| [PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! |
+| [femas](https://github.com/polarismesh/femas) | Cloud native multi-runtime microservice framework |
+| [node-ipc](https://github.com/RIAEvangelist/node-ipc) | Inter Process Communication Module for node supporting Unix sockets, TCP, TLS, and UDP. Giving lightning speed on Linux, Mac, and Windows. Neural Networking in Node.JS |
+| [black](https://github.com/psf/black) | The uncompromising Python code formatter |
+| [ooot](https://github.com/blawar/ooot) | None |
+| [Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Python - 100天从新手到大师 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
