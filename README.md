@@ -25,16 +25,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [db1000n](https://github.com/Arriven/db1000n) | None |
-| [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
-| [yao](https://github.com/YaoApp/yao) | Yao A low code engine to create web services and dashboard. |
+| [Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot) | 我的超迷你机械臂机器人项目。 |
+| [plasticity](https://github.com/nkallen/plasticity) | None |
+| [NewPipe](https://github.com/TeamNewPipe/NewPipe) | A libre lightweight streaming front-end for Android. |
+| [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | A supercharged version of paperless: scan, index and archive all your physical documents |
 | [lapce](https://github.com/lapce/lapce) | Lightning-fast and Powerful Code Editor written in Rust |
-| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
-| [awesome-italia-remote](https://github.com/italiaremote/awesome-italia-remote) | A list of remote-friendly or full-remote companies that targets Italian talents. |
-| [type-challenges](https://github.com/type-challenges/type-challenges) | Collection of TypeScript type challenges with online judge |
-| [content](https://github.com/mdn/content) | The content behind MDN Web Docs |
-| [ColossalAI](https://github.com/hpcaitech/ColossalAI) | Colossal-AI: A Unified Deep Learning System for Large-Scale Parallel Training |
-| [Security-PPT](https://github.com/FeeiCN/Security-PPT) | Security-related Slide Presentation（大安全各领域各公司各会议分享的PPT） |
+| [traitor](https://github.com/liamg/traitor) | ⬆️ ☠️ Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock |
+| [GFPGAN](https://github.com/TencentARC/GFPGAN) | GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration. |
+| [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) | Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2 |
+| [react-flow](https://github.com/wbkd/react-flow) | Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams |
+| [discord.py](https://github.com/Rapptz/discord.py) | An API wrapper for Discord written in Python. |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
