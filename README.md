@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [lapce](https://github.com/lapce/lapce) | Lightning-fast and Powerful Code Editor written in Rust |
-| [CodeEdit](https://github.com/CodeEditApp/CodeEdit) | CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. |
-| [BITB](https://github.com/mrd0x/BITB) | Browser In The Browser (BITB) Templates |
-| [VueTube](https://github.com/Frontesque/VueTube) | A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more) |
-| [PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! |
-| [femas](https://github.com/polarismesh/femas) | Cloud native multi-runtime microservice framework |
+| [routeros-scanner](https://github.com/microsoft/routeros-scanner) | Tool to scan for RouterOS (Mikrotik) forensic artifacts and vulnerabilities. |
 | [node-ipc](https://github.com/RIAEvangelist/node-ipc) | Inter Process Communication Module for node supporting Unix sockets, TCP, TLS, and UDP. Giving lightning speed on Linux, Mac, and Windows. Neural Networking in Node.JS |
-| [black](https://github.com/psf/black) | The uncompromising Python code formatter |
-| [ooot](https://github.com/blawar/ooot) | None |
-| [Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Python - 100天从新手到大师 |
+| [CodeEdit](https://github.com/CodeEditApp/CodeEdit) | CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. |
+| [LawRefBook](https://github.com/RanKKI/LawRefBook) | 中华人民共和国法律手册 |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [lapce](https://github.com/lapce/lapce) | Lightning-fast and Powerful Code Editor written in Rust |
+| [blues-stack](https://github.com/remix-run/blues-stack) | The Remix Stack for deploying to Fly with PostgreSQL, authentication, testing, linting, formatting, etc. |
+| [peacenotwar](https://github.com/RIAEvangelist/peacenotwar) | None |
+| [PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! |
+| [h2e_technical_documentation](https://github.com/google/h2e_technical_documentation) | None |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
