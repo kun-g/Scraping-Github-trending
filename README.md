@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [CodeEdit](https://github.com/CodeEditApp/CodeEdit) | CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. |
-| [clash](https://github.com/Dreamacro/clash) | A rule-based tunnel in Go. |
 | [routeros-scanner](https://github.com/microsoft/routeros-scanner) | Tool to scan for RouterOS (Mikrotik) forensic artifacts and vulnerabilities. |
 | [ToolJet](https://github.com/ToolJet/ToolJet) | Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀 |
-| [lapce](https://github.com/lapce/lapce) | Lightning-fast and Powerful Code Editor written in Rust |
-| [AstroVim](https://github.com/kabinspace/AstroVim) | AstroVim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins |
+| [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) | A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app |
+| [imgui](https://github.com/ocornut/imgui) | Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies |
+| [clash](https://github.com/Dreamacro/clash) | A rule-based tunnel in Go. |
 | [bitcoin](https://github.com/bitcoin/bitcoin) | Bitcoin Core integration/staging tree |
-| [PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! |
-| [SteamTools](https://github.com/BeyondDimension/SteamTools) | 🛠「Steam++」是一个开源跨平台的多功能Steam工具箱。 |
-| [aptos-core](https://github.com/aptos-labs/aptos-core) | A layer 1 for everyone! |
+| [guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) | GUIA EXTENSO DE PROGRAMAÇÃO: |
+| [pokete](https://github.com/lxgr-linux/pokete) | A terminal based Pokemon like game |
+| [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) | 计算机自学指南 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
