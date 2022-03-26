@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [lowcode-engine](https://github.com/alibaba/lowcode-engine) | An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系 |
-| [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres database into a collaborative spreadsheet with REST APIs. |
+| [db1000n](https://github.com/Arriven/db1000n) | None |
 | [thefuck](https://github.com/nvbn/thefuck) | Magnificent app which corrects your previous console command. |
-| [amplication](https://github.com/amplication/amplication) | Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks. |
-| [Shipwright](https://github.com/HarbourMasters/Shipwright) | None |
-| [copilot-docs](https://github.com/github/copilot-docs) | Documentation for GitHub Copilot |
-| [HowToHunt](https://github.com/KathanP19/HowToHunt) | Tutorials and Things to Do while Hunting Vulnerability. |
+| [lowcode-engine](https://github.com/alibaba/lowcode-engine) | An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系 |
+| [poetry](https://github.com/python-poetry/poetry) | Python dependency management and packaging made easy. |
+| [Pass-fur-alle](https://github.com/jonkpirateboy/Pass-fur-alle) | Since Polisens web queueing solution for getting a passport sucks, and it is more or less impossible to book a time, I wrote this small python script. What it does is that it automates the searching for a bookable time. In the file you just change the constants to your information and away you go. :) |
 | [appwrite](https://github.com/appwrite/appwrite) | Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative. |
-| [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) | This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps. |
-| [arpchat](https://github.com/kognise/arpchat) | Answering the question nobody asked: what if you wanted to text your friends using only ARP? |
+| [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | A list of Free Software network services and web applications which can be hosted on your own servers |
+| [metarank](https://github.com/metarank/metarank) | A low code Machine Learning tool that personalizes product listings, articles, recommendations, and search results in order to boost sales. A friendly Learn-to-Rank engine |
+| [autocomplete](https://github.com/withfig/autocomplete) | Fig adds autocomplete to your terminal. |
+| [Shipwright](https://github.com/HarbourMasters/Shipwright) | None |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
