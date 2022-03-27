@@ -1,0 +1,302 @@
+[
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2492783",
+        "name": "Jan De Dobbeleer",
+        "repo": {
+            "description": "A prompt theme engine for any shell.",
+            "name": "oh-my-posh",
+            "url": "https://github.com/JanDeDobbeleer/oh-my-posh"
+        },
+        "sponsorUrl": "https://github.com/sponsors/JanDeDobbeleer",
+        "url": "https://github.com/JanDeDobbeleer",
+        "username": "JanDeDobbeleer"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/8456633",
+        "name": "Jesse Duffield",
+        "repo": {
+            "description": "simple terminal UI for git commands",
+            "name": "lazygit",
+            "url": "https://github.com/jesseduffield/lazygit"
+        },
+        "sponsorUrl": "https://github.com/sponsors/jesseduffield",
+        "url": "https://github.com/jesseduffield",
+        "username": "jesseduffield"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/22454918",
+        "name": "Akin",
+        "repo": {
+            "description": "A snazzy bufferline for Neovim",
+            "name": "bufferline.nvim",
+            "url": "https://github.com/akinsho/bufferline.nvim"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/akinsho",
+        "username": "akinsho"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/290976",
+        "name": "Vladimir Mihailenco",
+        "repo": {
+            "description": "msgpack.org[Go] MessagePack encoding for Golang",
+            "name": "msgpack",
+            "url": "https://github.com/vmihailenco/msgpack"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/vmihailenco",
+        "username": "vmihailenco"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/22963968",
+        "name": "Simon Lecoq",
+        "repo": {
+            "description": "\ud83d\udcca An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!",
+            "name": "metrics",
+            "url": "https://github.com/lowlighter/metrics"
+        },
+        "sponsorUrl": "https://github.com/sponsors/lowlighter",
+        "url": "https://github.com/lowlighter",
+        "username": "lowlighter"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/6755973",
+        "name": "Javier Su\u00e1rez",
+        "repo": {
+            "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+            "name": "maui-linux",
+            "url": "https://github.com/jsuarezruiz/maui-linux"
+        },
+        "sponsorUrl": "https://github.com/sponsors/jsuarezruiz",
+        "url": "https://github.com/jsuarezruiz",
+        "username": "jsuarezruiz"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/20084245",
+        "name": "Bohdan Ivashko",
+        "repo": {
+            "description": null,
+            "name": "db1000n",
+            "url": "https://github.com/Arriven/db1000n"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/Arriven",
+        "username": "Arriven"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/18365890",
+        "name": "Peter Evans",
+        "repo": {
+            "description": "A GitHub action to create a pull request for changes to your repository in the actions workspace",
+            "name": "create-pull-request",
+            "url": "https://github.com/peter-evans/create-pull-request"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/peter-evans",
+        "username": "peter-evans"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/8862627",
+        "name": "Bjerg",
+        "repo": {
+            "description": "A book on all things Foundry",
+            "name": "foundry-book",
+            "url": "https://github.com/onbjerg/foundry-book"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/onbjerg",
+        "username": "onbjerg"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/3705853",
+        "name": "Teemu R.",
+        "repo": {
+            "description": "Python library & console tool for controlling Xiaomi smart appliances",
+            "name": "python-miio",
+            "url": "https://github.com/rytilahti/python-miio"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/rytilahti",
+        "username": "rytilahti"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/663378",
+        "name": "Juliette",
+        "repo": {
+            "description": "Extended version of the Blueshoes PHP cheat sheet for variable type juggling",
+            "name": "PHP-cheat-sheet-extended",
+            "url": "https://github.com/jrfnl/PHP-cheat-sheet-extended"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/jrfnl",
+        "username": "jrfnl"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/533162",
+        "name": "Kevin Papst",
+        "repo": {
+            "description": "Kimai v2 is a web-based multiuser time-tracking application. Free for everyone: freelancers, agencies, companies, organizations - all can track their times, generate invoices and more. SaaS version available at https://www.kimai.cloud",
+            "name": "kimai2",
+            "url": "https://github.com/kevinpapst/kimai2"
+        },
+        "sponsorUrl": "https://github.com/sponsors/kevinpapst",
+        "url": "https://github.com/kevinpapst",
+        "username": "kevinpapst"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1810591",
+        "name": "Anthony Sottile",
+        "repo": {
+            "description": "A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.",
+            "name": "pyupgrade",
+            "url": "https://github.com/asottile/pyupgrade"
+        },
+        "sponsorUrl": "https://github.com/sponsors/asottile",
+        "url": "https://github.com/asottile",
+        "username": "asottile"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1416436",
+        "name": "Claud\u00e9ric Demers",
+        "repo": {
+            "description": "The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.",
+            "name": "dnd-kit",
+            "url": "https://github.com/clauderic/dnd-kit"
+        },
+        "sponsorUrl": "https://github.com/sponsors/clauderic",
+        "url": "https://github.com/clauderic",
+        "username": "clauderic"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/931655",
+        "name": "Suyeol Jeon",
+        "repo": {
+            "description": "\u2728 Super sweet syntactic sugar for Swift initializers",
+            "name": "Then",
+            "url": "https://github.com/devxoul/Then"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/devxoul",
+        "username": "devxoul"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/7288",
+        "name": "Ariya Hidayat",
+        "repo": {
+            "description": "Scriptable Headless Browser",
+            "name": "phantomjs",
+            "url": "https://github.com/ariya/phantomjs"
+        },
+        "sponsorUrl": "https://github.com/sponsors/ariya",
+        "url": "https://github.com/ariya",
+        "username": "ariya"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1753397",
+        "name": "Umed Khudoiberdiev",
+        "repo": {
+            "description": "Example of koa + typescript project using routing-controllers",
+            "name": "routing-controllers-koa-demo",
+            "url": "https://github.com/pleerock/routing-controllers-koa-demo"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/pleerock",
+        "username": "pleerock"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/11263900",
+        "name": "vn.py",
+        "repo": {
+            "description": "\u57fa\u4e8ePython\u7684\u5f00\u6e90\u91cf\u5316\u4ea4\u6613\u5e73\u53f0\u5f00\u53d1\u6846\u67b6",
+            "name": "vnpy",
+            "url": "https://github.com/vnpy/vnpy"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/vnpy",
+        "username": "vnpy"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1134738",
+        "name": "Amruth Pillai",
+        "repo": {
+            "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
+            "name": "Reactive-Resume",
+            "url": "https://github.com/AmruthPillai/Reactive-Resume"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/AmruthPillai",
+        "username": "AmruthPillai"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/11698668",
+        "name": "Logan McAnsh",
+        "repo": {
+            "description": "Fastify server request handler for Remix",
+            "name": "remix-fastify",
+            "url": "https://github.com/mcansh/remix-fastify"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/mcansh",
+        "username": "mcansh"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/5022927",
+        "name": "LoveSy",
+        "repo": {
+            "description": "\u54d4\u54e9\u6f2b\u6e38\uff0c\u89e3\u9664B\u7ad9\u5ba2\u6237\u7aef\u756a\u5267\u533a\u57df\u9650\u5236\u7684Xposed\u6a21\u5757\uff0c\u5e76\u4e14\u63d0\u4f9b\u5176\u4ed6\u5c0f\u529f\u80fd\u3002An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.",
+            "name": "BiliRoaming",
+            "url": "https://github.com/yujincheng08/BiliRoaming"
+        },
+        "sponsorUrl": "https://github.com/sponsors/yujincheng08",
+        "url": "https://github.com/yujincheng08",
+        "username": "yujincheng08"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/117777",
+        "name": "Wez Furlong",
+        "repo": {
+            "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust",
+            "name": "wezterm",
+            "url": "https://github.com/wez/wezterm"
+        },
+        "sponsorUrl": "https://github.com/sponsors/wez",
+        "url": "https://github.com/wez",
+        "username": "wez"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/14944147",
+        "name": "Steve Macenski",
+        "repo": {
+            "description": "Slam Toolbox for lifelong mapping and localization in potentially massive maps with ROS",
+            "name": "slam_toolbox",
+            "url": "https://github.com/SteveMacenski/slam_toolbox"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/SteveMacenski",
+        "username": "SteveMacenski"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/3576549",
+        "name": "Daniel Mart\u00ed",
+        "repo": {
+            "description": "A shell parser, formatter, and interpreter with bash support; includes shfmt",
+            "name": "sh",
+            "url": "https://github.com/mvdan/sh"
+        },
+        "sponsorUrl": "https://github.com/sponsors/mvdan",
+        "url": "https://github.com/mvdan",
+        "username": "mvdan"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/132108",
+        "name": "Emiliano Heyns",
+        "repo": {
+            "description": "Make Zotero effective for us LaTeX holdouts",
+            "name": "zotero-better-bibtex",
+            "url": "https://github.com/retorquere/zotero-better-bibtex"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/retorquere",
+        "username": "retorquere"
+    }
+]
