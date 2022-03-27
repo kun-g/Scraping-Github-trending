@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [db1000n](https://github.com/Arriven/db1000n) | None |
-| [thefuck](https://github.com/nvbn/thefuck) | Magnificent app which corrects your previous console command. |
-| [lowcode-engine](https://github.com/alibaba/lowcode-engine) | An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系 |
-| [poetry](https://github.com/python-poetry/poetry) | Python dependency management and packaging made easy. |
-| [Pass-fur-alle](https://github.com/jonkpirateboy/Pass-fur-alle) | Since Polisens web queueing solution for getting a passport sucks, and it is more or less impossible to book a time, I wrote this small python script. What it does is that it automates the searching for a bookable time. In the file you just change the constants to your information and away you go. :) |
-| [appwrite](https://github.com/appwrite/appwrite) | Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative. |
-| [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | A list of Free Software network services and web applications which can be hosted on your own servers |
-| [metarank](https://github.com/metarank/metarank) | A low code Machine Learning tool that personalizes product listings, articles, recommendations, and search results in order to boost sales. A friendly Learn-to-Rank engine |
-| [autocomplete](https://github.com/withfig/autocomplete) | Fig adds autocomplete to your terminal. |
-| [Shipwright](https://github.com/HarbourMasters/Shipwright) | None |
+| [v](https://github.com/vlang/v) | Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io |
+| [terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) | Terraform provider for Azure Resource Manager |
+| [revanced-patcher](https://github.com/ReVancedTeam/revanced-patcher) | Repo for the patcher used by ReVanced |
+| [azure-docs](https://github.com/MicrosoftDocs/azure-docs) | Open source documentation of Microsoft Azure |
+| [unredacter](https://github.com/BishopFox/unredacter) | Never ever ever use pixelation as a redaction technique |
+| [playwright](https://github.com/microsoft/playwright) | Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. |
+| [guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) | GUIA EXTENSO DE PROGRAMAÇÃO: |
+| [Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) | 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars. |
+| [kkndme_tianya](https://github.com/shengcaishizhan/kkndme_tianya) | 天涯 kkndme 神贴聊房价 |
+| [DirtyPipe-Android](https://github.com/polygraphene/DirtyPipe-Android) | Dirty Pipe root exploit for Android (Pixel 6) |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
