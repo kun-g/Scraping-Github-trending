@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [mianshiya-public](https://github.com/liyupi/mianshiya-public) | 干净免费的面试刷题网站，帮助大家拿到满意的 offer！💎 React 前端 + Node 后端 + 云开发全栈项目 by 程序员鱼皮 |
-| [instant-ngp](https://github.com/NVlabs/instant-ngp) | Instant neural graphics primitives: lightning fast NeRF and more |
-| [mall-cook](https://github.com/wangyuan389/mall-cook) | 商城低代码平台，可视化搭建H5、小程序多端商城 |
-| [copilot-docs](https://github.com/github/copilot-docs) | Documentation for GitHub Copilot |
 | [ecapture](https://github.com/ehids/ecapture) | capture SSL/TLS text content without CA cert by eBPF. |
-| [godot](https://github.com/godotengine/godot) | Godot Engine – Multi-platform 2D and 3D game engine |
-| [CS-Notes](https://github.com/CyC2018/CS-Notes) | 📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 |
-| [remix](https://github.com/remix-run/remix) | Build Better Websites. Create modern, resilient user experiences with web fundamentals. |
-| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
+| [neo](https://github.com/breakthecode2/neo) | A plugin that enables usage of cheatcodes in Break The Code 2 |
+| [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 📚 免费的计算机编程类中文书籍，欢迎投稿 |
+| [swift-async-algorithms](https://github.com/apple/swift-async-algorithms) | Async Algorithms for Swift |
 | [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+| [FinRL](https://github.com/AI4Finance-Foundation/FinRL) | FinRL: The first open-source project for financial reinforcement learning. Please star. 🔥 |
+| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
+| [godot](https://github.com/godotengine/godot) | Godot Engine – Multi-platform 2D and 3D game engine |
+| [mianshiya-public](https://github.com/liyupi/mianshiya-public) | 干净免费的面试刷题网站，帮助大家拿到满意的 offer！💎 React 前端 + Node 后端 + 云开发全栈项目 by 程序员鱼皮 |
+| [mall-cook](https://github.com/wangyuan389/mall-cook) | 商城低代码平台，可视化搭建H5、小程序多端商城 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
