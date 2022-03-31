@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [bullet_train](https://github.com/bullet-train-co/bullet_train) | The Open Source Ruby on Rails SaaS Framework |
 | [ecapture](https://github.com/ehids/ecapture) | capture SSL/TLS text content without CA cert by eBPF. |
-| [mall-cook](https://github.com/wangyuan389/mall-cook) | 商城低代码平台，可视化搭建H5、小程序多端商城 |
-| [swift-async-algorithms](https://github.com/apple/swift-async-algorithms) | Async Algorithms for Swift |
-| [picoshare](https://github.com/mtlynch/picoshare) | A minimalist, easy-to-host service for sharing images and other files |
-| [mianshiya-public](https://github.com/liyupi/mianshiya-public) | 干净免费的面试刷题网站，帮助大家拿到满意的 offer！💎 React 前端 + Node 后端 + 云开发全栈项目 by 程序员鱼皮 |
-| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
+| [moby](https://github.com/moby/moby) | Moby Project - a collaborative project for the container ecosystem to assemble container-based systems |
+| [copilot-docs](https://github.com/github/copilot-docs) | Documentation for GitHub Copilot |
+| [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk) | 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码 |
+| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
+| [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) | 10 Weeks, 20 Lessons, Data Science for All! |
+| [difftastic](https://github.com/Wilfred/difftastic) | a diff that understands syntax 🟥🟩 |
+| [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) | 📺 A place to discover the latest machine learning courses on YouTube. |
 | [hackingtool](https://github.com/Z4nzu/hackingtool) | ALL IN ONE Hacking Tool For Hackers |
-| [JD331](https://github.com/JD331/JD331) | None |
-| [eg3d](https://github.com/NVlabs/eg3d) | None |
+| [smartknob](https://github.com/scottbez1/smartknob) | Haptic input knob with software-defined endstops and virtual detents |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
