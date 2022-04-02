@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [difftastic](https://github.com/Wilfred/difftastic) | a diff that understands syntax 🟥🟩 |
-| [hackingtool](https://github.com/Z4nzu/hackingtool) | ALL IN ONE Hacking Tool For Hackers |
-| [spring-framework](https://github.com/spring-projects/spring-framework) | Spring Framework |
-| [smartknob](https://github.com/scottbez1/smartknob) | Haptic input knob with software-defined endstops and virtual detents |
-| [nvdiffrec](https://github.com/NVlabs/nvdiffrec) | Official code for the CVPR 2022 (oral) paper "Extracting Triangular 3D Models, Materials, and Lighting From Images". |
-| [react-portfolio-website](https://github.com/bobangajicsm/react-portfolio-website) | None |
+| [dagger](https://github.com/dagger/dagger) | A portable devkit for CI/CD pipelines |
+| [mimir](https://github.com/grafana/mimir) | Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. |
 | [helix](https://github.com/helix-editor/helix) | A post-modern modal text editor. |
-| [ecapture](https://github.com/ehids/ecapture) | capture SSL/TLS text content without CA cert by eBPF. |
-| [virtual-environments](https://github.com/actions/virtual-environments) | GitHub Actions virtual environments |
-| [spring-spel-0day-poc](https://github.com/hktalent/spring-spel-0day-poc) | spring-cloud / spring-cloud-function,spring.cloud.function.routing-expression,RCE,0day,0-day,POC,EXP |
+| [Alamofire](https://github.com/Alamofire/Alamofire) | Elegant HTTP Networking in Swift |
+| [hackingtool](https://github.com/Z4nzu/hackingtool) | ALL IN ONE Hacking Tool For Hackers |
+| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+| [SpringCore0day](https://github.com/craig/SpringCore0day) | SpringCore0day from https://share.vx-underground.org/ & some additional links |
+| [chibicc](https://github.com/rui314/chibicc) | A small C compiler |
+| [Spring4Shell-POC](https://github.com/BobTheShoplifter/Spring4Shell-POC) | Spring4Shell Proof Of Concept/Information CVE-2022-22965 |
+| [spring-rce-poc](https://github.com/Retrospected/spring-rce-poc) | None |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
