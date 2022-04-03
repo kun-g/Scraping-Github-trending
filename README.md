@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) | Investment Research for Everyone. |
+| [awair-uploader](https://github.com/Sheherezadhe/awair-uploader) | None |
 | [dagger](https://github.com/dagger/dagger) | A portable devkit for CI/CD pipelines |
+| [smartknob](https://github.com/scottbez1/smartknob) | Haptic input knob with software-defined endstops and virtual detents |
+| [local-spring-vuln-scanner](https://github.com/hillu/local-spring-vuln-scanner) | Simple local scanner for applications containing vulnerable Spring libraries |
 | [mimir](https://github.com/grafana/mimir) | Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. |
-| [helix](https://github.com/helix-editor/helix) | A post-modern modal text editor. |
-| [Alamofire](https://github.com/Alamofire/Alamofire) | Elegant HTTP Networking in Swift |
-| [hackingtool](https://github.com/Z4nzu/hackingtool) | ALL IN ONE Hacking Tool For Hackers |
+| [mastodon](https://github.com/mastodon/mastodon) | Your self-hosted, globally interconnected microblogging community |
 | [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
-| [SpringCore0day](https://github.com/craig/SpringCore0day) | SpringCore0day from https://share.vx-underground.org/ & some additional links |
-| [chibicc](https://github.com/rui314/chibicc) | A small C compiler |
-| [Spring4Shell-POC](https://github.com/BobTheShoplifter/Spring4Shell-POC) | Spring4Shell Proof Of Concept/Information CVE-2022-22965 |
-| [spring-rce-poc](https://github.com/Retrospected/spring-rce-poc) | None |
+| [Spring4Shell-POC](https://github.com/reznok/Spring4Shell-POC) | Dockerized Spring4Shell (CVE-2022-22965) PoC application and exploit |
+| [lila](https://github.com/lichess-org/lila) | ♞ lichess.org: the forever free, adless and open source chess server ♞ |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10

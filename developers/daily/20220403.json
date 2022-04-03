@@ -1,0 +1,290 @@
+[
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/303201",
+        "name": "James Newton-King",
+        "repo": {
+            "description": "Json.NET is a popular high-performance JSON framework for .NET",
+            "name": "Newtonsoft.Json",
+            "url": "https://github.com/JamesNK/Newtonsoft.Json"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/JamesNK",
+        "username": "JamesNK"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1927579",
+        "name": "Zoltan Kochan",
+        "repo": {
+            "description": "Creates a production preview of a package",
+            "name": "package-preview",
+            "url": "https://github.com/zkochan/package-preview"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/zkochan",
+        "username": "zkochan"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2721089",
+        "name": "Liam DeBeasi",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/liamdebeasi",
+        "username": "liamdebeasi"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/6026504",
+        "name": "Anthony Rappa",
+        "repo": {
+            "description": "A dynamic table component for Laravel Livewire - For Slack access, visit:",
+            "name": "laravel-livewire-tables",
+            "url": "https://github.com/rappasoft/laravel-livewire-tables"
+        },
+        "sponsorUrl": "https://github.com/sponsors/rappasoft",
+        "url": "https://github.com/rappasoft",
+        "username": "rappasoft"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1162160",
+        "name": "Rich Harris",
+        "repo": {
+            "description": "Straightforward project scaffolding",
+            "name": "degit",
+            "url": "https://github.com/Rich-Harris/degit"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/Rich-Harris",
+        "username": "Rich-Harris"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/408570",
+        "name": "Seth Vargo",
+        "repo": {
+            "description": "A Go library for parsing struct tags from environment variables.",
+            "name": "go-envconfig",
+            "url": "https://github.com/sethvargo/go-envconfig"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/sethvargo",
+        "username": "sethvargo"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/930215",
+        "name": "Dessalines",
+        "repo": {
+            "description": null,
+            "name": "essays",
+            "url": "https://github.com/dessalines/essays"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/dessalines",
+        "username": "dessalines"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1187060",
+        "name": "Liam Galvin",
+        "repo": {
+            "description": "\u2604\ufe0f Command line tool to help you use conventional commit messages (https://www.conventionalcommits.org)",
+            "name": "comet",
+            "url": "https://github.com/liamg/comet"
+        },
+        "sponsorUrl": "https://github.com/sponsors/liamg",
+        "url": "https://github.com/liamg",
+        "username": "liamg"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/14298799",
+        "name": "smartcontracts",
+        "repo": {
+            "description": "A book about Ethereum",
+            "name": "eth2-book",
+            "url": "https://github.com/smartcontracts/eth2-book"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/smartcontracts",
+        "username": "smartcontracts"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2946214",
+        "name": "Joe Chen",
+        "repo": {
+            "description": "\u300aThe Way to Go\u300b\u4e2d\u6587\u8bd1\u672c\uff0c\u4e2d\u6587\u6b63\u5f0f\u540d\u300aGo \u5165\u95e8\u6307\u5357\u300b",
+            "name": "the-way-to-go_ZH_CN",
+            "url": "https://github.com/unknwon/the-way-to-go_ZH_CN"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/unknwon",
+        "username": "unknwon"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/718941",
+        "name": "David Pedersen",
+        "repo": {
+            "description": "Real-time user experiences with server-rendered HTML",
+            "name": "axum-live-view",
+            "url": "https://github.com/davidpdrsn/axum-live-view"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/davidpdrsn",
+        "username": "davidpdrsn"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/14281572",
+        "name": "Erik Montnemery",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/emontnemery",
+        "username": "emontnemery"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/490574",
+        "name": "Daishi Kato",
+        "repo": {
+            "description": "State usage tracking with Proxies. Optimize re-renders for useState/useReducer, React Redux, Zustand and others.",
+            "name": "react-tracked",
+            "url": "https://github.com/dai-shi/react-tracked"
+        },
+        "sponsorUrl": "https://github.com/sponsors/dai-shi",
+        "url": "https://github.com/dai-shi",
+        "username": "dai-shi"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1148717",
+        "name": "Emil Ernerfeldt",
+        "repo": {
+            "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
+            "name": "egui",
+            "url": "https://github.com/emilk/egui"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/emilk",
+        "username": "emilk"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/12663778",
+        "name": "Me No Dev",
+        "repo": {
+            "description": "Async Web Server for ESP8266 and ESP32",
+            "name": "ESPAsyncWebServer",
+            "url": "https://github.com/me-no-dev/ESPAsyncWebServer"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/me-no-dev",
+        "username": "me-no-dev"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/4838076",
+        "name": "Danilo Woznica",
+        "repo": {
+            "description": "\u26aa SVG-Powered component to easily create skeleton loadings.",
+            "name": "react-content-loader",
+            "url": "https://github.com/danilowoz/react-content-loader"
+        },
+        "sponsorUrl": "https://github.com/sponsors/danilowoz",
+        "url": "https://github.com/danilowoz",
+        "username": "danilowoz"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/146378",
+        "name": "Christian Muehlhaeuser",
+        "repo": {
+            "description": "Disk Usage/Free Utility - a better 'df' alternative",
+            "name": "duf",
+            "url": "https://github.com/muesli/duf"
+        },
+        "sponsorUrl": "https://github.com/sponsors/muesli",
+        "url": "https://github.com/muesli",
+        "username": "muesli"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/216487",
+        "name": "Sam Alba",
+        "repo": {
+            "description": "Docker client library in Go",
+            "name": "dockerclient",
+            "url": "https://github.com/samalba/dockerclient"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/samalba",
+        "username": "samalba"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/7237365",
+        "name": "neverland",
+        "repo": {
+            "description": "A React modal with animations.",
+            "name": "rodal",
+            "url": "https://github.com/chenjiahan/rodal"
+        },
+        "sponsorUrl": "https://github.com/sponsors/chenjiahan",
+        "url": "https://github.com/chenjiahan",
+        "username": "chenjiahan"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/29597",
+        "name": "Brian Vaughn",
+        "repo": {
+            "description": "React components for efficiently rendering large lists and tabular data",
+            "name": "react-virtualized",
+            "url": "https://github.com/bvaughn/react-virtualized"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/bvaughn",
+        "username": "bvaughn"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/30030",
+        "name": "Samuel Williams",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/ioquatix",
+        "username": "ioquatix"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/22454918",
+        "name": "Akin",
+        "repo": {
+            "description": "A snazzy bufferline for Neovim",
+            "name": "bufferline.nvim",
+            "url": "https://github.com/akinsho/bufferline.nvim"
+        },
+        "sponsorUrl": "https://github.com/sponsors/akinsho",
+        "url": "https://github.com/akinsho",
+        "username": "akinsho"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1571086",
+        "name": "Shivam Mathur",
+        "repo": {
+            "description": "\ud83c\udf7a Homebrew tap for PHP 5.6 to 8.2. PHP 8.2 is a nightly build.",
+            "name": "homebrew-php",
+            "url": "https://github.com/shivammathur/homebrew-php"
+        },
+        "sponsorUrl": "https://github.com/sponsors/shivammathur",
+        "url": "https://github.com/shivammathur",
+        "username": "shivammathur"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/3974108",
+        "name": "Dongdong Tian",
+        "repo": {
+            "description": "\u8ddf\u6211\u4e00\u8d77\u5199Makefile\u91cd\u5236\u7248",
+            "name": "how-to-write-makefile",
+            "url": "https://github.com/seisman/how-to-write-makefile"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/seisman",
+        "username": "seisman"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/38700",
+        "name": "Mathias Fu\u00dfenegger",
+        "repo": {
+            "description": "Debug Adapter Protocol client implementation for Neovim (>= 0.5)",
+            "name": "nvim-dap",
+            "url": "https://github.com/mfussenegger/nvim-dap"
+        },
+        "sponsorUrl": "https://github.com/sponsors/mfussenegger",
+        "url": "https://github.com/mfussenegger",
+        "username": "mfussenegger"
+    }
+]
