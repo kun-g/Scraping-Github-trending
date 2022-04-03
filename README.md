@@ -25,16 +25,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [CodeEdit](https://github.com/CodeEditApp/CodeEdit) | CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. |
-| [BITB](https://github.com/mrd0x/BITB) | Browser In The Browser (BITB) Templates |
-| [appwrite](https://github.com/appwrite/appwrite) | Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative. |
+| [copilot-docs](https://github.com/github/copilot-docs) | Documentation for GitHub Copilot |
+| [ecapture](https://github.com/ehids/ecapture) | capture SSL/TLS text content without CA cert by eBPF. |
+| [smartknob](https://github.com/scottbez1/smartknob) | Haptic input knob with software-defined endstops and virtual detents |
+| [Pass-fur-alle](https://github.com/jonkpirateboy/Pass-fur-alle) | Since Polisens web queueing solution for getting a passport sucks, and it is more or less impossible to book a time, I wrote this small python script. What it does is that it automates the searching for a bookable time. In the file you just change the constants to your information and away you go. :) |
+| [instant-ngp](https://github.com/NVlabs/instant-ngp) | Instant neural graphics primitives: lightning fast NeRF and more |
+| [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk) | 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码 |
+| [v](https://github.com/vlang/v) | Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io |
 | [lowcode-engine](https://github.com/alibaba/lowcode-engine) | An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系 |
-| [aptos-core](https://github.com/aptos-labs/aptos-core) | A layer 1 for everyone! |
-| [budibase](https://github.com/Budibase/budibase) | Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀 |
-| [LawRefBook](https://github.com/RanKKI/LawRefBook) | 中华人民共和国法律手册 |
-| [vnpy](https://github.com/vnpy/vnpy) | 基于Python的开源量化交易平台开发框架 |
-| [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) | A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! |
-| [kubric](https://github.com/google-research/kubric) | A data generation pipeline for creating semi-realistic synthetic multi-object videos with rich annotations such as instance segmentation masks, depth maps, and optical flow. |
+| [the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks) | 经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wired magazines, free download and subscription for kindle, mobi、epub、pdf format. |
+| [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) | Script to remove Windows 10 bloatware. |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
