@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) | Investment Research for Everyone. |
-| [awair-uploader](https://github.com/Sheherezadhe/awair-uploader) | None |
-| [dagger](https://github.com/dagger/dagger) | A portable devkit for CI/CD pipelines |
-| [smartknob](https://github.com/scottbez1/smartknob) | Haptic input knob with software-defined endstops and virtual detents |
-| [local-spring-vuln-scanner](https://github.com/hillu/local-spring-vuln-scanner) | Simple local scanner for applications containing vulnerable Spring libraries |
-| [mimir](https://github.com/grafana/mimir) | Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. |
-| [mastodon](https://github.com/mastodon/mastodon) | Your self-hosted, globally interconnected microblogging community |
+| [OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) | Investment Research for Everyone, Anywhere. |
 | [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
-| [Spring4Shell-POC](https://github.com/reznok/Spring4Shell-POC) | Dockerized Spring4Shell (CVE-2022-22965) PoC application and exploit |
-| [lila](https://github.com/lichess-org/lila) | ♞ lichess.org: the forever free, adless and open source chess server ♞ |
+| [VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch) | Blocks Ads on Twitch.tv. |
+| [helix](https://github.com/helix-editor/helix) | A post-modern modal text editor. |
+| [awair-uploader](https://github.com/Sheherezadhe/awair-uploader) | None |
+| [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
+| [hackingtool](https://github.com/Z4nzu/hackingtool) | ALL IN ONE Hacking Tool For Hackers |
+| [tachiyomi](https://github.com/tachiyomiorg/tachiyomi) | Free and open source manga reader for Android. |
+| [frp](https://github.com/fatedier/frp) | A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. |
+| [reddit-place-script-2022](https://github.com/rdeepak2002/reddit-place-script-2022) | Script to draw an image onto r/place (https://www.reddit.com/r/place/) |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
