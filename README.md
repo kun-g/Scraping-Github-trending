@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) | Investment Research for Everyone, Anywhere. |
-| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
-| [VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch) | Blocks Ads on Twitch.tv. |
-| [helix](https://github.com/helix-editor/helix) | A post-modern modal text editor. |
-| [awair-uploader](https://github.com/Sheherezadhe/awair-uploader) | None |
-| [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
-| [hackingtool](https://github.com/Z4nzu/hackingtool) | ALL IN ONE Hacking Tool For Hackers |
-| [tachiyomi](https://github.com/tachiyomiorg/tachiyomi) | Free and open source manga reader for Android. |
-| [frp](https://github.com/fatedier/frp) | A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. |
 | [reddit-place-script-2022](https://github.com/rdeepak2002/reddit-place-script-2022) | Script to draw an image onto r/place (https://www.reddit.com/r/place/) |
+| [helix](https://github.com/helix-editor/helix) | A post-modern modal text editor. |
+| [OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) | Investment Research for Everyone, Anywhere. |
+| [kestra](https://github.com/kestra-io/kestra) | Kestra is an infinitely scalable opensource orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines. |
+| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+| [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Roadmap to becoming a developer in 2022 |
+| [qoi](https://github.com/phoboslab/qoi) | The “Quite OK Image Format” for fast, lossless image compression |
+| [Bot](https://github.com/PlaceNL/Bot) | De r/place bot voor r/PlaceNL. |
+| [pixel](https://github.com/placeDE/pixel) | None |
+| [YesPlayMusic](https://github.com/qier222/YesPlayMusic) | 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
