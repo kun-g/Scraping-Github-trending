@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [reddit-place-script-2022](https://github.com/rdeepak2002/reddit-place-script-2022) | Script to draw an image onto r/place (https://www.reddit.com/r/place/) |
-| [helix](https://github.com/helix-editor/helix) | A post-modern modal text editor. |
-| [OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) | Investment Research for Everyone, Anywhere. |
-| [kestra](https://github.com/kestra-io/kestra) | Kestra is an infinitely scalable opensource orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines. |
+| [prboom-plus-rt](https://github.com/sultim-t/prboom-plus-rt) | None |
+| [appsmith](https://github.com/appsmithorg/appsmith) | Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API. |
+| [subvenciones](https://github.com/JaimeObregon/subvenciones) | Volcado de la Base de Datos Nacional de Subvenciones (BDNS). |
 | [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
-| [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Roadmap to becoming a developer in 2022 |
-| [qoi](https://github.com/phoboslab/qoi) | The “Quite OK Image Format” for fast, lossless image compression |
-| [Bot](https://github.com/PlaceNL/Bot) | De r/place bot voor r/PlaceNL. |
-| [pixel](https://github.com/placeDE/pixel) | None |
-| [YesPlayMusic](https://github.com/qier222/YesPlayMusic) | 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux |
+| [Smap](https://github.com/s0md3v/Smap) | a drop-in replacement for Nmap powered by shodan.io |
+| [guiadofrontend](https://github.com/arthurspk/guiadofrontend) | Guia do Desenvolvedor Front-end |
+| [nvm](https://github.com/nvm-sh/nvm) | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
+| [spring4shell](https://github.com/NCSC-NL/spring4shell) | Operational information regarding the Spring4Shell vulnerability in the Spring Core Framework |
+| [HowToCook](https://github.com/Anduin2017/HowToCook) | 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only). |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
