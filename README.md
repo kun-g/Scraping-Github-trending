@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [reddit-place-script-2022](https://github.com/rdeepak2002/reddit-place-script-2022) | Script to draw an image onto r/place (https://www.reddit.com/r/place/) |
-| [prboom-plus-rt](https://github.com/sultim-t/prboom-plus-rt) | None |
-| [appsmith](https://github.com/appsmithorg/appsmith) | Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API. |
-| [subvenciones](https://github.com/JaimeObregon/subvenciones) | Volcado de la Base de Datos Nacional de Subvenciones (BDNS). |
-| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
-| [Smap](https://github.com/s0md3v/Smap) | a drop-in replacement for Nmap powered by shodan.io |
-| [guiadofrontend](https://github.com/arthurspk/guiadofrontend) | Guia do Desenvolvedor Front-end |
-| [nvm](https://github.com/nvm-sh/nvm) | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
-| [spring4shell](https://github.com/NCSC-NL/spring4shell) | Operational information regarding the Spring4Shell vulnerability in the Spring Core Framework |
+| [Pilot](https://github.com/BoomingTech/Pilot) | Pilot – mini game engine for games104 |
+| [imersao-7-codepix](https://github.com/codeedu/imersao-7-codepix) | None |
+| [azure-docs](https://github.com/MicrosoftDocs/azure-docs) | Open source documentation of Microsoft Azure |
+| [trufflehog](https://github.com/trufflesecurity/trufflehog) | Find credentials all over the place |
+| [personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) | 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2021 |
 | [HowToCook](https://github.com/Anduin2017/HowToCook) | 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only). |
+| [chrome_plus](https://github.com/shuax/chrome_plus) | Chrome 增强软件 |
+| [latent-diffusion](https://github.com/CompVis/latent-diffusion) | High-Resolution Image Synthesis with Latent Diffusion Models |
+| [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) | 🎬 人人影视bot，完全对接人人影视全部无删减资源 |
+| [appsmith](https://github.com/appsmithorg/appsmith) | Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
