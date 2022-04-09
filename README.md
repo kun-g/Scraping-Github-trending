@@ -13,7 +13,7 @@
 | [imersao-7-codepix](https://github.com/codeedu/imersao-7-codepix) | None |
 | [azure-docs](https://github.com/MicrosoftDocs/azure-docs) | Open source documentation of Microsoft Azure |
 | [trufflehog](https://github.com/trufflesecurity/trufflehog) | Find credentials all over the place |
-| [personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) | 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2021 |
+| [personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) | 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022 |
 | [HowToCook](https://github.com/Anduin2017/HowToCook) | 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only). |
 | [chrome_plus](https://github.com/shuax/chrome_plus) | Chrome 增强软件 |
 | [latent-diffusion](https://github.com/CompVis/latent-diffusion) | High-Resolution Image Synthesis with Latent Diffusion Models |
