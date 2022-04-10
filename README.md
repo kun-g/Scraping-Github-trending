@@ -42,13 +42,13 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [copilot-docs](https://github.com/github/copilot-docs) | Documentation for GitHub Copilot |
-| [lapce](https://github.com/lapce/lapce) | Lightning-fast and Powerful Code Editor written in Rust |
-| [lowcode-engine](https://github.com/alibaba/lowcode-engine) | An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系 |
-| [yao](https://github.com/YaoApp/yao) | Yao A low code engine to create web services and dashboard. |
+| [OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) | Investment Research for Everyone, Anywhere. |
 | [amplication](https://github.com/amplication/amplication) | Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks. |
-| [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
+| [lowcode-engine](https://github.com/alibaba/lowcode-engine) | An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系 |
+| [lapce](https://github.com/lapce/lapce) | Lightning-fast and Powerful Code Editor written in Rust |
+| [helix](https://github.com/helix-editor/helix) | A post-modern modal text editor. |
 | [Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot) | 我的超迷你机械臂机器人项目。 |
-| [OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) | Investment Research for Everyone. |
-| [chibicc](https://github.com/rui314/chibicc) | A small C compiler |
 | [appwrite](https://github.com/appwrite/appwrite) | Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative. |
+| [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | A community-supported supercharged version of paperless: scan, index and archive all your physical documents |
+| [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a spreadsheet with REST APIs. |
 <!-- END OF MONTHLY_TOP10_REPOS -->
