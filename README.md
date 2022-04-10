@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [Pilot](https://github.com/BoomingTech/Pilot) | Pilot – mini game engine for games104 |
-| [imersao-7-codepix](https://github.com/codeedu/imersao-7-codepix) | None |
-| [azure-docs](https://github.com/MicrosoftDocs/azure-docs) | Open source documentation of Microsoft Azure |
+| [papers-we-love](https://github.com/papers-we-love/papers-we-love) | Papers from the computer science community to read and discuss. |
+| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
+| [robFoodDD](https://github.com/lambda765/robFoodDD) | 辅助买菜 |
+| [DingDongHelper](https://github.com/Skykai521/DingDongHelper) | 叮咚买菜抢菜插件 |
 | [trufflehog](https://github.com/trufflesecurity/trufflehog) | Find credentials all over the place |
-| [personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) | 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022 |
-| [HowToCook](https://github.com/Anduin2017/HowToCook) | 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only). |
-| [chrome_plus](https://github.com/shuax/chrome_plus) | Chrome 增强软件 |
-| [latent-diffusion](https://github.com/CompVis/latent-diffusion) | High-Resolution Image Synthesis with Latent Diffusion Models |
+| [json](https://github.com/nlohmann/json) | JSON for Modern C++ |
+| [OpenMower](https://github.com/ClemensElflein/OpenMower) | Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots! |
+| [UniToon](https://github.com/yoship1639/UniToon) | Physically-based Toon Shader for game applications. Compliant with Unity standard rendering functions. It is not targeted to be multifunctional in order to keep performance, but to be universally usable. |
 | [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) | 🎬 人人影视bot，完全对接人人影视全部无删减资源 |
-| [appsmith](https://github.com/appsmithorg/appsmith) | Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API. |
+| [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) | 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2022) |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
