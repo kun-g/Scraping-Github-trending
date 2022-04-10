@@ -25,16 +25,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) | Investment Research for Everyone, Anywhere. |
 | [copilot-docs](https://github.com/github/copilot-docs) | Documentation for GitHub Copilot |
-| [ecapture](https://github.com/ehids/ecapture) | capture SSL/TLS text content without CA cert by eBPF. |
-| [smartknob](https://github.com/scottbez1/smartknob) | Haptic input knob with software-defined endstops and virtual detents |
-| [Pass-fur-alle](https://github.com/jonkpirateboy/Pass-fur-alle) | Since Polisens web queueing solution for getting a passport sucks, and it is more or less impossible to book a time, I wrote this small python script. What it does is that it automates the searching for a bookable time. In the file you just change the constants to your information and away you go. :) |
-| [instant-ngp](https://github.com/NVlabs/instant-ngp) | Instant neural graphics primitives: lightning fast NeRF and more |
-| [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk) | 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码 |
-| [v](https://github.com/vlang/v) | Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io |
-| [lowcode-engine](https://github.com/alibaba/lowcode-engine) | An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系 |
-| [the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks) | 经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wired magazines, free download and subscription for kindle, mobi、epub、pdf format. |
-| [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) | Script to remove Windows 10 bloatware. |
+| [papers-we-love](https://github.com/papers-we-love/papers-we-love) | Papers from the computer science community to read and discuss. |
+| [hackingtool](https://github.com/Z4nzu/hackingtool) | ALL IN ONE Hacking Tool For Hackers |
+| [appsmith](https://github.com/appsmithorg/appsmith) | Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API. |
+| [hackathon-starter](https://github.com/sahat/hackathon-starter) | A boilerplate for Node.js web applications |
+| [Javascript](https://github.com/TheAlgorithms/Javascript) | Algorithms implemented in JavaScript for beginners, following best practices. |
+| [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) | This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps. |
+| [redwood](https://github.com/redwoodjs/redwood) | The App Framework for Startups |
+| [json](https://github.com/nlohmann/json) | JSON for Modern C++ |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
