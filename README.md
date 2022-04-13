@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [bore](https://github.com/ekzhang/bore) | 🕳 bore is a simple CLI tool for making tunnels to localhost |
-| [papers-we-love](https://github.com/papers-we-love/papers-we-love) | Papers from the computer science community to read and discuss. |
 | [skyline](https://github.com/skyline-emu/skyline) | Run Nintendo Switch homebrew & games on your Android device! |
-| [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity |
-| [awesome-python](https://github.com/vinta/awesome-python) | A curated list of awesome Python frameworks, libraries, software and resources |
-| [bitcoin](https://github.com/bitcoin/bitcoin) | Bitcoin Core integration/staging tree |
-| [CodeEdit](https://github.com/CodeEditApp/CodeEdit) | CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) | Collection of malware source code for a variety of platforms in an array of different programming languages. |
 | [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) | This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps. |
+| [dingdong-helper](https://github.com/JannsenYang/dingdong-helper) | 叮咚自动下单 并发调用接口方式 多人高峰期实战反馈10秒以内成功 自动将购物车能买的商品全部下单 只需自行编辑购物车和最后支付即可 |
+| [iced](https://github.com/iced-rs/iced) | A cross-platform GUI library for Rust, inspired by Elm |
+| [NginxDay](https://github.com/AgainstTheWest/NginxDay) | Nginx 18.1 04/09/22 zero-day repo |
+| [a-little-game-called-mario](https://github.com/a-little-org-called-mario/a-little-game-called-mario) | open source collective hell game |
+| [guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) | GUIA EXTENSO DE PROGRAMAÇÃO: |
+| [papers-we-love](https://github.com/papers-we-love/papers-we-love) | Papers from the computer science community to read and discuss. |
+| [satellite-image-deep-learning](https://github.com/robmarkcole/satellite-image-deep-learning) | Resources for deep learning with satellite & aerial imagery |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
