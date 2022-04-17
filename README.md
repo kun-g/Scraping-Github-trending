@@ -41,14 +41,14 @@
 <!-- START OF MONTHLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [CodeEdit](https://github.com/CodeEditApp/CodeEdit) | CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. |
 | [copilot-docs](https://github.com/github/copilot-docs) | Documentation for GitHub Copilot |
-| [OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) | Investment Research for Everyone, Anywhere. |
+| [BITB](https://github.com/mrd0x/BITB) | Browser In The Browser (BITB) Templates |
+| [ecapture](https://github.com/ehids/ecapture) | capture SSL/TLS text content without CA cert by eBPF. |
 | [amplication](https://github.com/amplication/amplication) | Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks. |
+| [papers-we-love](https://github.com/papers-we-love/papers-we-love) | Papers from the computer science community to read and discuss. |
 | [lowcode-engine](https://github.com/alibaba/lowcode-engine) | An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系 |
-| [lapce](https://github.com/lapce/lapce) | Lightning-fast and Powerful Code Editor written in Rust |
-| [helix](https://github.com/helix-editor/helix) | A post-modern modal text editor. |
-| [Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot) | 我的超迷你机械臂机器人项目。 |
 | [appwrite](https://github.com/appwrite/appwrite) | Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative. |
-| [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | A community-supported supercharged version of paperless: scan, index and archive all your physical documents |
+| [routeros-scanner](https://github.com/microsoft/routeros-scanner) | Tool to scan for RouterOS (Mikrotik) forensic artifacts and vulnerabilities. |
 | [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a spreadsheet with REST APIs. |
 <!-- END OF MONTHLY_TOP10_REPOS -->
