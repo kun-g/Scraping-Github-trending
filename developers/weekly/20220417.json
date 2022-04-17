@@ -1,0 +1,294 @@
+[
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1478487",
+        "name": "Marten Seemann",
+        "repo": {
+            "description": "WebTransport implementation based on quic-go (https://datatracker.ietf.org/doc/draft-ietf-webtrans-http3/)",
+            "name": "webtransport-go",
+            "url": "https://github.com/marten-seemann/webtransport-go"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/marten-seemann",
+        "username": "marten-seemann"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/715491",
+        "name": "Boris Dayma",
+        "repo": {
+            "description": "DALL\u00b7E Mini - Generate images from a text prompt",
+            "name": "dalle-mini",
+            "url": "https://github.com/borisdayma/dalle-mini"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/borisdayma",
+        "username": "borisdayma"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1945",
+        "name": "Casey Rodarmor",
+        "repo": {
+            "description": "\ud83e\udd16 Just a command runner",
+            "name": "just",
+            "url": "https://github.com/casey/just"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/casey",
+        "username": "casey"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/34196005",
+        "name": "fatih",
+        "repo": {
+            "description": "A lightweight package for converting your labelme annotations into COCO object detection format.",
+            "name": "labelme2coco",
+            "url": "https://github.com/fcakyon/labelme2coco"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/fcakyon",
+        "username": "fcakyon"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1519870",
+        "name": "Dominic Gannaway",
+        "repo": {
+            "description": "Lightweight virtual DOM templating library",
+            "name": "t7",
+            "url": "https://github.com/trueadm/t7"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/trueadm",
+        "username": "trueadm"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/7413593",
+        "name": "Ariel Mashraki",
+        "repo": {
+            "description": "An overview of Go syntax and features.",
+            "name": "golang-cheat-sheet",
+            "url": "https://github.com/a8m/golang-cheat-sheet"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/a8m",
+        "username": "a8m"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/351529",
+        "name": "Leigh McCulloch",
+        "repo": {
+            "description": "A Vagrant provisioner for docker compose.",
+            "name": "vagrant-docker-compose",
+            "url": "https://github.com/leighmcculloch/vagrant-docker-compose"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/leighmcculloch",
+        "username": "leighmcculloch"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/477975",
+        "name": "Mike Cao",
+        "repo": {
+            "description": "Umami is a simple, fast, privacy-focused alternative to Google Analytics.",
+            "name": "umami",
+            "url": "https://github.com/mikecao/umami"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/mikecao",
+        "username": "mikecao"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/462317",
+        "name": "Adrienne Walker",
+        "repo": {
+            "description": "FFXIV JavaScript Raiding Overlay",
+            "name": "cactbot",
+            "url": "https://github.com/quisquous/cactbot"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/quisquous",
+        "username": "quisquous"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/71256",
+        "name": "Nathan Rajlich",
+        "repo": {
+            "description": "A barebones WebSocket client and server implementation written in 100% Java.",
+            "name": "Java-WebSocket",
+            "url": "https://github.com/TooTallNate/Java-WebSocket"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/TooTallNate",
+        "username": "TooTallNate"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1706326",
+        "name": "\u00c1lvaro",
+        "repo": {
+            "description": "fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple",
+            "name": "fullPage.js",
+            "url": "https://github.com/alvarotrigo/fullPage.js"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/alvarotrigo",
+        "username": "alvarotrigo"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2346494",
+        "name": "Romain Beaumont",
+        "repo": {
+            "description": "Easily turn large sets of image urls to an image dataset. Can download, resize and package 100M urls in 20h on one machine.",
+            "name": "img2dataset",
+            "url": "https://github.com/rom1504/img2dataset"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/rom1504",
+        "username": "rom1504"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/4178417",
+        "name": "Andy Zhang",
+        "repo": {
+            "description": "examples, best practices for k8s volumes on azure, AKS, acs-engine, helm, etc.",
+            "name": "demo",
+            "url": "https://github.com/andyzhangx/demo"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/andyzhangx",
+        "username": "andyzhangx"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/7277719",
+        "name": "Danielle For\u00e9",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/danrabbit",
+        "username": "danrabbit"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/710255",
+        "name": "Fran\u00e7ois Chollet",
+        "repo": {
+            "description": "Jupyter notebooks for the code samples of the book \"Deep Learning with Python\"",
+            "name": "deep-learning-with-python-notebooks",
+            "url": "https://github.com/fchollet/deep-learning-with-python-notebooks"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/fchollet",
+        "username": "fchollet"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/75337",
+        "name": "Ben Vanik",
+        "repo": {
+            "description": "Apple AirPlay client library for node.js",
+            "name": "node-airplay",
+            "url": "https://github.com/benvanik/node-airplay"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/benvanik",
+        "username": "benvanik"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/6286655",
+        "name": "Iskander (Alex) Sharipov",
+        "repo": {
+            "description": "Define and run pattern-based custom linting rules.",
+            "name": "go-ruleguard",
+            "url": "https://github.com/quasilyte/go-ruleguard"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/quasilyte",
+        "username": "quasilyte"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/32632186",
+        "name": "Philipp Schmid",
+        "repo": {
+            "description": "Enterprise Scale NLP with Hugging Face & SageMaker Workshop series",
+            "name": "huggingface-sagemaker-workshop-series",
+            "url": "https://github.com/philschmid/huggingface-sagemaker-workshop-series"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/philschmid",
+        "username": "philschmid"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1081115",
+        "name": "Simon Bennetts",
+        "repo": {
+            "description": "A list of open source web security scanners",
+            "name": "open-source-web-scanners",
+            "url": "https://github.com/psiinon/open-source-web-scanners"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/psiinon",
+        "username": "psiinon"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/634063",
+        "name": "Markus Olsson",
+        "repo": {
+            "description": "Reactive application debugger/visualizer for .NET",
+            "name": "RxSpy",
+            "url": "https://github.com/niik/RxSpy"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/niik",
+        "username": "niik"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/8366208",
+        "name": "Yair Morgenstern",
+        "repo": {
+            "description": "Open-source Android/Desktop remake of Civ V",
+            "name": "Unciv",
+            "url": "https://github.com/yairm210/Unciv"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/yairm210",
+        "username": "yairm210"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/5265989",
+        "name": "Aleksandr Bezobchuk",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/alexanderbez",
+        "username": "alexanderbez"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/676637",
+        "name": "Pengfei Ni",
+        "repo": {
+            "description": "Kubernetes Handbook \uff08Kubernetes\u6307\u5357\uff09 https://kubernetes.feisky.xyz",
+            "name": "kubernetes-handbook",
+            "url": "https://github.com/feiskyer/kubernetes-handbook"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/feiskyer",
+        "username": "feiskyer"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1450685",
+        "name": "Rick",
+        "repo": {
+            "description": "\u652f\u6301\u8fdc\u7a0b\u529e\u516c\u7684\u4e2d\u56fd\u516c\u53f8",
+            "name": "remote-jobs-in-china",
+            "url": "https://github.com/LinuxSuRen/remote-jobs-in-china"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/LinuxSuRen",
+        "username": "LinuxSuRen"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1148717",
+        "name": "Emil Ernerfeldt",
+        "repo": {
+            "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
+            "name": "egui",
+            "url": "https://github.com/emilk/egui"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/emilk",
+        "username": "emilk"
+    }
+]
