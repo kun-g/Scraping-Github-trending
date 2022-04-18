@@ -1,0 +1,278 @@
+[
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/7904185",
+        "name": "Lewis Russell",
+        "repo": {
+            "description": "Git integration for buffers",
+            "name": "gitsigns.nvim",
+            "url": "https://github.com/lewis6991/gitsigns.nvim"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/lewis6991",
+        "username": "lewis6991"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/988985",
+        "name": "Geoff Bourne",
+        "repo": {
+            "description": "Docker image that provides a Minecraft Server that will automatically download selected version at startup",
+            "name": "docker-minecraft-server",
+            "url": "https://github.com/itzg/docker-minecraft-server"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/itzg",
+        "username": "itzg"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1519870",
+        "name": "Dominic Gannaway",
+        "repo": {
+            "description": "Lightweight virtual DOM templating library",
+            "name": "t7",
+            "url": "https://github.com/trueadm/t7"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/trueadm",
+        "username": "trueadm"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/8862627",
+        "name": "Bjerg",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/onbjerg",
+        "username": "onbjerg"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/3797675",
+        "name": "Stefan Prodan",
+        "repo": {
+            "description": "Go microservice template for Kubernetes",
+            "name": "podinfo",
+            "url": "https://github.com/stefanprodan/podinfo"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/stefanprodan",
+        "username": "stefanprodan"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/130929",
+        "name": "Henrik Rydg\u00e5rd",
+        "repo": {
+            "description": "A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD \u2026",
+            "name": "ppsspp",
+            "url": "https://github.com/hrydgard/ppsspp"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/hrydgard",
+        "username": "hrydgard"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/357397",
+        "name": "yhirose",
+        "repo": {
+            "description": "A C++ header-only HTTP/HTTPS server and client library",
+            "name": "cpp-httplib",
+            "url": "https://github.com/yhirose/cpp-httplib"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/yhirose",
+        "username": "yhirose"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/4178417",
+        "name": "Andy Zhang",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/andyzhangx",
+        "username": "andyzhangx"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/63311",
+        "name": "Saleem Abdulrasool",
+        "repo": {
+            "description": "Swift example projects",
+            "name": "swift-cmake-examples",
+            "url": "https://github.com/compnerd/swift-cmake-examples"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/compnerd",
+        "username": "compnerd"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/772",
+        "name": "Alex Gaynor",
+        "repo": {
+            "description": "An attempt to answer the age old interview question \"What happens when you type google.com into your browser and press enter?\"",
+            "name": "what-happens-when",
+            "url": "https://github.com/alex/what-happens-when"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/alex",
+        "username": "alex"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1247578",
+        "name": "Dario Nieuwenhuis",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/Dirbaio",
+        "username": "Dirbaio"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1148717",
+        "name": "Emil Ernerfeldt",
+        "repo": {
+            "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
+            "name": "egui",
+            "url": "https://github.com/emilk/egui"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/emilk",
+        "username": "emilk"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1162160",
+        "name": "Rich Harris",
+        "repo": {
+            "description": "Straightforward project scaffolding",
+            "name": "degit",
+            "url": "https://github.com/Rich-Harris/degit"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/Rich-Harris",
+        "username": "Rich-Harris"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/185566",
+        "name": "Mattias Wadman",
+        "repo": {
+            "description": "jq for binary formats",
+            "name": "fq",
+            "url": "https://github.com/wader/fq"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/wader",
+        "username": "wader"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1478487",
+        "name": "Marten Seemann",
+        "repo": {
+            "description": "WebTransport implementation based on quic-go (https://datatracker.ietf.org/doc/draft-ietf-webtrans-http3/)",
+            "name": "webtransport-go",
+            "url": "https://github.com/marten-seemann/webtransport-go"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/marten-seemann",
+        "username": "marten-seemann"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/71256",
+        "name": "Nathan Rajlich",
+        "repo": {
+            "description": "A barebones WebSocket client and server implementation written in 100% Java.",
+            "name": "Java-WebSocket",
+            "url": "https://github.com/TooTallNate/Java-WebSocket"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/TooTallNate",
+        "username": "TooTallNate"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/454813",
+        "name": "Nick Craver",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/NickCraver",
+        "username": "NickCraver"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/443978",
+        "name": "Gabriel Volpe",
+        "repo": {
+            "description": "\ud83d\udc7e NixOS configuration",
+            "name": "nix-config",
+            "url": "https://github.com/gvolpe/nix-config"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/gvolpe",
+        "username": "gvolpe"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/330950",
+        "name": "Jameson Nash",
+        "repo": {
+            "description": "Utility for creating advisory pidfiles (lock files)",
+            "name": "Pidfile.jl",
+            "url": "https://github.com/vtjnash/Pidfile.jl"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/vtjnash",
+        "username": "vtjnash"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/82342",
+        "name": "R.I.Pienaar",
+        "repo": {
+            "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+            "name": "free-for-dev",
+            "url": "https://github.com/ripienaar/free-for-dev"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/ripienaar",
+        "username": "ripienaar"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/906600",
+        "name": "Jelle Zijlstra",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/JelleZijlstra",
+        "username": "JelleZijlstra"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1687847",
+        "name": "Paddy Xu",
+        "repo": {
+            "description": "Yet Another System Region and Language Simulator",
+            "name": "Locale-Emulator",
+            "url": "https://github.com/xupefei/Locale-Emulator"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/xupefei",
+        "username": "xupefei"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/634063",
+        "name": "Markus Olsson",
+        "repo": {
+            "description": "Automatically decreasing high performance thread safe counters. Perfect for rate throttling.",
+            "name": "frequency-counters",
+            "url": "https://github.com/niik/frequency-counters"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/niik",
+        "username": "niik"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/70381",
+        "name": "Charles Kerr",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/ckerr",
+        "username": "ckerr"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/962989",
+        "name": "pajlada",
+        "repo": {
+            "description": "C++ Settings library",
+            "name": "settings",
+            "url": "https://github.com/pajlada/settings"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/pajlada",
+        "username": "pajlada"
+    }
+]
