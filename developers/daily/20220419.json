@@ -1,0 +1,282 @@
+[
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/3797675",
+        "name": "Stefan Prodan",
+        "repo": {
+            "description": "Go microservice template for Kubernetes",
+            "name": "podinfo",
+            "url": "https://github.com/stefanprodan/podinfo"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/stefanprodan",
+        "username": "stefanprodan"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/82342",
+        "name": "R.I.Pienaar",
+        "repo": {
+            "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+            "name": "free-for-dev",
+            "url": "https://github.com/ripienaar/free-for-dev"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/ripienaar",
+        "username": "ripienaar"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2621",
+        "name": "Brad Fitzpatrick",
+        "repo": {
+            "description": "Go Memcached client library #golang",
+            "name": "gomemcache",
+            "url": "https://github.com/bradfitz/gomemcache"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/bradfitz",
+        "username": "bradfitz"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/7904185",
+        "name": "Lewis Russell",
+        "repo": {
+            "description": "Git integration for buffers",
+            "name": "gitsigns.nvim",
+            "url": "https://github.com/lewis6991/gitsigns.nvim"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/lewis6991",
+        "username": "lewis6991"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/988985",
+        "name": "Geoff Bourne",
+        "repo": {
+            "description": "Docker image that provides a Minecraft Server that will automatically download selected version at startup",
+            "name": "docker-minecraft-server",
+            "url": "https://github.com/itzg/docker-minecraft-server"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/itzg",
+        "username": "itzg"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/130929",
+        "name": "Henrik Rydg\u00e5rd",
+        "repo": {
+            "description": "A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD \u2026",
+            "name": "ppsspp",
+            "url": "https://github.com/hrydgard/ppsspp"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/hrydgard",
+        "username": "hrydgard"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/906600",
+        "name": "Jelle Zijlstra",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/JelleZijlstra",
+        "username": "JelleZijlstra"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/7413593",
+        "name": "Ariel Mashraki",
+        "repo": {
+            "description": "An overview of Go syntax and features.",
+            "name": "golang-cheat-sheet",
+            "url": "https://github.com/a8m/golang-cheat-sheet"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/a8m",
+        "username": "a8m"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/772",
+        "name": "Alex Gaynor",
+        "repo": {
+            "description": "An attempt to answer the age old interview question \"What happens when you type google.com into your browser and press enter?\"",
+            "name": "what-happens-when",
+            "url": "https://github.com/alex/what-happens-when"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/alex",
+        "username": "alex"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/65675",
+        "name": "Jose Diaz-Gonzalez",
+        "repo": {
+            "description": "backup a github user or organization",
+            "name": "python-github-backup",
+            "url": "https://github.com/josegonzalez/python-github-backup"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/josegonzalez",
+        "username": "josegonzalez"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/750081",
+        "name": "Yann Collet",
+        "repo": {
+            "description": "Extremely fast non-cryptographic hash algorithm",
+            "name": "xxHash",
+            "url": "https://github.com/Cyan4973/xxHash"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/Cyan4973",
+        "username": "Cyan4973"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1622880",
+        "name": "Luke Latham",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/guardrex",
+        "username": "guardrex"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/118015",
+        "name": "Ben Johnson",
+        "repo": {
+            "description": "Streaming replication for SQLite.",
+            "name": "litestream",
+            "url": "https://github.com/benbjohnson/litestream"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/benbjohnson",
+        "username": "benbjohnson"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/4178417",
+        "name": "Andy Zhang",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/andyzhangx",
+        "username": "andyzhangx"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1148717",
+        "name": "Emil Ernerfeldt",
+        "repo": {
+            "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
+            "name": "egui",
+            "url": "https://github.com/emilk/egui"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/emilk",
+        "username": "emilk"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/70381",
+        "name": "Charles Kerr",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/ckerr",
+        "username": "ckerr"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1169974",
+        "name": "Daniel van Flymen",
+        "repo": {
+            "description": "A simple Blockchain in Python",
+            "name": "blockchain",
+            "url": "https://github.com/dvf/blockchain"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/dvf",
+        "username": "dvf"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/330950",
+        "name": "Jameson Nash",
+        "repo": {
+            "description": "Utility for creating advisory pidfiles (lock files)",
+            "name": "Pidfile.jl",
+            "url": "https://github.com/vtjnash/Pidfile.jl"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/vtjnash",
+        "username": "vtjnash"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/14298799",
+        "name": "smartcontracts",
+        "repo": {
+            "description": "A book about Ethereum",
+            "name": "eth2-book",
+            "url": "https://github.com/smartcontracts/eth2-book"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/smartcontracts",
+        "username": "smartcontracts"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1519870",
+        "name": "Dominic Gannaway",
+        "repo": {
+            "description": "Lightweight virtual DOM templating library",
+            "name": "t7",
+            "url": "https://github.com/trueadm/t7"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/trueadm",
+        "username": "trueadm"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/13316262",
+        "name": "Michael Lingelbach",
+        "repo": {
+            "description": "A graveyard of broken dreams.",
+            "name": "nix-dotfiles",
+            "url": "https://github.com/mjlbach/nix-dotfiles"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/mjlbach",
+        "username": "mjlbach"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1299821",
+        "name": "Thomas Lov\u00e9n",
+        "repo": {
+            "description": "\ud83d\udd39 A Home Assistant integration to turn your browser into a controllable entity - and also an audio player",
+            "name": "hass-browser_mod",
+            "url": "https://github.com/thomasloven/hass-browser_mod"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/thomasloven",
+        "username": "thomasloven"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/24392180",
+        "name": "Orhun Parmaks\u0131z",
+        "repo": {
+            "description": "A more powerful alternative to sysctl(8) with a terminal user interface \ud83d\udc27",
+            "name": "systeroid",
+            "url": "https://github.com/orhun/systeroid"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/orhun",
+        "username": "orhun"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/8862627",
+        "name": "Bjerg",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/onbjerg",
+        "username": "onbjerg"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/21979",
+        "name": "Bo-Yi Wu",
+        "repo": {
+            "description": "GitHub Actions for executing remote ssh commands.",
+            "name": "ssh-action",
+            "url": "https://github.com/appleboy/ssh-action"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/appleboy",
+        "username": "appleboy"
+    }
+]
