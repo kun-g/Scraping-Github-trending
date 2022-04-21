@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [InvenTree](https://github.com/inventree/InvenTree) | Open Source Inventory Management System |
-| [sams](https://github.com/robGoods/sams) | 山姆抢购 |
-| [funNLP](https://github.com/fighting41love/funNLP) | 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术… |
+| [dagger](https://github.com/dagger/dagger) | A portable devkit for CI/CD pipelines |
 | [Leaflet](https://github.com/Leaflet/Leaflet) | 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦 |
 | [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) | 程序员延寿指南 | A programmer's guide to live longer |
+| [assets](https://github.com/trustwallet/assets) | A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens. |
+| [cal.com](https://github.com/calcom/cal.com) | Scheduling infrastructure for absolutely everyone. |
+| [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | Short JavaScript code snippets for all your development needs |
+| [aptos-core](https://github.com/aptos-labs/aptos-core) | A layer 1 for everyone! |
+| [InvenTree](https://github.com/inventree/InvenTree) | Open Source Inventory Management System |
 | [CVE-2022-29072](https://github.com/kagancapar/CVE-2022-29072) | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. |
-| [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) | 📺 A place to discover the latest machine learning courses on YouTube. |
-| [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) | Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more |
-| [memcached](https://github.com/memcached/memcached) | memcached development tree |
-| [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs. |
+| [locutus](https://github.com/freenet/locutus) | Declare your digital independence |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
