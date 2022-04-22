@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [dagger](https://github.com/dagger/dagger) | A portable devkit for CI/CD pipelines |
-| [Leaflet](https://github.com/Leaflet/Leaflet) | 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦 |
 | [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) | 程序员延寿指南 | A programmer's guide to live longer |
-| [assets](https://github.com/trustwallet/assets) | A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens. |
-| [cal.com](https://github.com/calcom/cal.com) | Scheduling infrastructure for absolutely everyone. |
-| [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | Short JavaScript code snippets for all your development needs |
-| [aptos-core](https://github.com/aptos-labs/aptos-core) | A layer 1 for everyone! |
+| [Grasscutter](https://github.com/Grasscutters/Grasscutter) | A server software reimplementation for a certain anime game. |
+| [ydb](https://github.com/ydb-platform/ydb) | YDB server (daemon) source code |
 | [InvenTree](https://github.com/inventree/InvenTree) | Open Source Inventory Management System |
-| [CVE-2022-29072](https://github.com/kagancapar/CVE-2022-29072) | 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area. |
-| [locutus](https://github.com/freenet/locutus) | Declare your digital independence |
+| [realm-swift](https://github.com/realm/realm-swift) | Realm is a mobile database: a replacement for Core Data & SQLite |
+| [localstack](https://github.com/localstack/localstack) | 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline! |
+| [PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection) | Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection. |
+| [Leaflet](https://github.com/Leaflet/Leaflet) | 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦 |
+| [libphonenumber](https://github.com/google/libphonenumber) | Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. |
+| [protobuf](https://github.com/protocolbuffers/protobuf) | Protocol Buffers - Google's data interchange format |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
