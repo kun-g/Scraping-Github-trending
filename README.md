@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) | 程序员延寿指南 | A programmer's guide to live longer |
+| [cal.com](https://github.com/calcom/cal.com) | Scheduling infrastructure for absolutely everyone. |
+| [gin](https://github.com/gin-gonic/gin) | Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. |
+| [BinAbsInspector](https://github.com/KeenSecurityLab/BinAbsInspector) | BinAbsInspector: Vulnerability Scanner for Binaries |
 | [Grasscutter](https://github.com/Grasscutters/Grasscutter) | A server software reimplementation for a certain anime game. |
-| [ydb](https://github.com/ydb-platform/ydb) | YDB server (daemon) source code |
-| [InvenTree](https://github.com/inventree/InvenTree) | Open Source Inventory Management System |
-| [realm-swift](https://github.com/realm/realm-swift) | Realm is a mobile database: a replacement for Core Data & SQLite |
+| [assets](https://github.com/trustwallet/assets) | A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens. |
 | [localstack](https://github.com/localstack/localstack) | 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline! |
-| [PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection) | Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection. |
-| [Leaflet](https://github.com/Leaflet/Leaflet) | 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦 |
-| [libphonenumber](https://github.com/google/libphonenumber) | Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. |
-| [protobuf](https://github.com/protocolbuffers/protobuf) | Protocol Buffers - Google's data interchange format |
+| [memray](https://github.com/bloomberg/memray) | Memray is a memory profiler for Python |
+| [ML-Notebooks](https://github.com/dair-ai/ML-Notebooks) | 🔥 A series of code examples for all sorts of machine learning tasks and applications. |
+| [Web-Attack-Cheat-Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet) | Web Attack Cheat Sheet |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
