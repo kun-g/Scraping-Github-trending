@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) | 程序员延寿指南 | A programmer's guide to live longer |
-| [cal.com](https://github.com/calcom/cal.com) | Scheduling infrastructure for absolutely everyone. |
-| [gin](https://github.com/gin-gonic/gin) | Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. |
-| [BinAbsInspector](https://github.com/KeenSecurityLab/BinAbsInspector) | BinAbsInspector: Vulnerability Scanner for Binaries |
 | [Grasscutter](https://github.com/Grasscutters/Grasscutter) | A server software reimplementation for a certain anime game. |
-| [assets](https://github.com/trustwallet/assets) | A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens. |
-| [localstack](https://github.com/localstack/localstack) | 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline! |
+| [jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com) | 🧩 Visualize your JSON data onto graphs seamlessly. |
+| [protobuf](https://github.com/protocolbuffers/protobuf) | Protocol Buffers - Google's data interchange format |
+| [cli](https://github.com/urfave/cli) | A simple, fast, and fun package for building command line apps in Go |
+| [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) | 程序员延寿指南 | A programmer's guide to live longer |
+| [SpringChallenge2022](https://github.com/CodinGame/SpringChallenge2022) | None |
 | [memray](https://github.com/bloomberg/memray) | Memray is a memory profiler for Python |
-| [ML-Notebooks](https://github.com/dair-ai/ML-Notebooks) | 🔥 A series of code examples for all sorts of machine learning tasks and applications. |
-| [Web-Attack-Cheat-Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet) | Web Attack Cheat Sheet |
+| [autocomplete](https://github.com/withfig/autocomplete) | Fig adds autocomplete to your terminal. |
+| [starship](https://github.com/starship/starship) | ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell! |
+| [Catch2](https://github.com/catchorg/Catch2) | A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch) |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
