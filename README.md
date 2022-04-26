@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks) | 经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wired magazines, free download and subscription for kindle, mobi、epub、pdf format. |
 | [Grasscutter](https://github.com/Grasscutters/Grasscutter) | A server software reimplementation for a certain anime game. |
-| [overgrowth](https://github.com/WolfireGames/overgrowth) | Open Source codebase of the game Overgrowth by Wolfire Games LLC |
-| [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. |
-| [starship](https://github.com/starship/starship) | ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell! |
-| [godot](https://github.com/godotengine/godot) | Godot Engine – Multi-platform 2D and 3D game engine |
-| [tachiyomi](https://github.com/tachiyomiorg/tachiyomi) | Free and open source manga reader for Android. |
-| [BlackBox](https://github.com/FBlackBox/BlackBox) | BlackBox is a virtual engine, it can clone and run virtual application on Android, users don't have to install APK file to run the application on devices. BlackBox control all virtual applications, so you can do anything you want by using BlackBox. |
-| [magic-trace](https://github.com/janestreet/magic-trace) | magic-trace collects and displays high-resolution traces of what a process is doing |
+| [fleet](https://github.com/dimensionhq/fleet) | 🚀 The blazing fast build tool for Rust. |
+| [hashcat](https://github.com/hashcat/hashcat) | World's fastest and most advanced password recovery utility |
+| [FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) | This is the release repository for Fan Control, a highly customizable fan controlling software for Windows. |
 | [GenshinData](https://github.com/Dimbreath/GenshinData) | Repository containing the game data for the game Genshin Impact. |
-| [Grasscutter-Protos](https://github.com/Grasscutters/Grasscutter-Protos) | Protobuf files for Grasscutter |
+| [spacedrive](https://github.com/spacedriveapp/spacedrive) | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. |
+| [project-layout](https://github.com/golang-standards/project-layout) | Standard Go Project Layout |
+| [starship](https://github.com/starship/starship) | ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell! |
+| [jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com) | 🧩 Visualize your JSON data onto graphs seamlessly. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
