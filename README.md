@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [hackingtool](https://github.com/Z4nzu/hackingtool) | ALL IN ONE Hacking Tool For Hackers |
 | [spacedrive](https://github.com/spacedriveapp/spacedrive) | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. |
-| [nuxt.js](https://github.com/nuxt/nuxt.js) | The Intuitive Vue(2) Framework |
-| [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. |
-| [overgrowth](https://github.com/WolfireGames/overgrowth) | Open Source codebase of the game Overgrowth by Wolfire Games LLC |
-| [the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks) | 经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wired magazines, free download and subscription for kindle, mobi、epub、pdf format. |
-| [NLP-progress](https://github.com/sebastianruder/NLP-progress) | Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks. |
-| [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) | A list of cool features of Git and GitHub. |
+| [python-week-2022](https://github.com/rochacbruno/python-week-2022) | Template Para a Python Week 2002 - 25 a 29 de Abril na Linux Tips |
+| [mastodon](https://github.com/mastodon/mastodon) | Your self-hosted, globally interconnected microblogging community |
+| [framework](https://github.com/nuxt/framework) | The Hybrid Vue(3) Framework. |
+| [weekly](https://github.com/ruanyf/weekly) | 科技爱好者周刊，每周五发布 |
+| [hashcat](https://github.com/hashcat/hashcat) | World's fastest and most advanced password recovery utility |
+| [CAD_Sketcher](https://github.com/hlorus/CAD_Sketcher) | Constraint-based geometry sketcher for blender |
+| [PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg) | Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks in Semantic Segmentation, Interactive Segmentation, Panoptic Segmentation, Image Matting, 3D Segmentation, etc. |
+| [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) | 30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take more than 100… |
 | [devops-exercises](https://github.com/bregman-arie/devops-exercises) | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions |
-| [video-subtitle-extractor](https://github.com/YaoFANGUK/video-subtitle-extractor) | 视频硬字幕提取，生成srt文件。无需申请第三方API，本地实现文本识别。基于深度学习的视频字幕提取框架，包含字幕区域检测、字幕内容提取。A GUI tool for extracting hard-coded subtitle (hardsub) from videos and generating srt files. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10

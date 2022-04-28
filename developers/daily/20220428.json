@@ -1,0 +1,278 @@
+[
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/303201",
+        "name": "James Newton-King",
+        "repo": {
+            "description": "Json.NET is a popular high-performance JSON framework for .NET",
+            "name": "Newtonsoft.Json",
+            "url": "https://github.com/JamesNK/Newtonsoft.Json"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/JamesNK",
+        "username": "JamesNK"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/119296",
+        "name": "Geoffroy Couprie",
+        "repo": {
+            "description": "Rust parser combinator framework",
+            "name": "nom",
+            "url": "https://github.com/Geal/nom"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/Geal",
+        "username": "Geal"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1134738",
+        "name": "Amruth Pillai",
+        "repo": {
+            "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. \u2026",
+            "name": "Reactive-Resume",
+            "url": "https://github.com/AmruthPillai/Reactive-Resume"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/AmruthPillai",
+        "username": "AmruthPillai"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/906600",
+        "name": "Jelle Zijlstra",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/JelleZijlstra",
+        "username": "JelleZijlstra"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1523305",
+        "name": "Kamil Og\u00f3rek",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/kamilogorek",
+        "username": "kamilogorek"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/710255",
+        "name": "Fran\u00e7ois Chollet",
+        "repo": {
+            "description": "Jupyter notebooks for the code samples of the book \"Deep Learning with Python\"",
+            "name": "deep-learning-with-python-notebooks",
+            "url": "https://github.com/fchollet/deep-learning-with-python-notebooks"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/fchollet",
+        "username": "fchollet"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/12663778",
+        "name": "Me No Dev",
+        "repo": {
+            "description": "Async Web Server for ESP8266 and ESP32",
+            "name": "ESPAsyncWebServer",
+            "url": "https://github.com/me-no-dev/ESPAsyncWebServer"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/me-no-dev",
+        "username": "me-no-dev"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/173661",
+        "name": "Alon Zakai",
+        "repo": {
+            "description": "Direct port of the Bullet physics engine to JavaScript using Emscripten",
+            "name": "ammo.js",
+            "url": "https://github.com/kripken/ammo.js"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/kripken",
+        "username": "kripken"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2644648",
+        "name": "Tyler James Leonhardt",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/TylerLeonhardt",
+        "username": "TylerLeonhardt"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/821670",
+        "name": "Jorge Niedbalski",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/niedbalski",
+        "username": "niedbalski"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/45696119",
+        "name": "Bruno D'Luka",
+        "repo": {
+            "description": "Implements Microsoft's Fluent Design System in Flutter.",
+            "name": "fluent_ui",
+            "url": "https://github.com/bdlukaa/fluent_ui"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/bdlukaa",
+        "username": "bdlukaa"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2621",
+        "name": "Brad Fitzpatrick",
+        "repo": {
+            "description": "Go Memcached client library #golang",
+            "name": "gomemcache",
+            "url": "https://github.com/bradfitz/gomemcache"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/bradfitz",
+        "username": "bradfitz"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/507615",
+        "name": "afc163",
+        "repo": {
+            "description": "A \ud83c\udde8\ud83c\uddf3 and \ud83c\uddfa\ud83c\uddf8 translate tool in your command line.",
+            "name": "fanyi",
+            "url": "https://github.com/afc163/fanyi"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/afc163",
+        "username": "afc163"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/8435071",
+        "name": "Fr\u00e9d\u00e9ric Collonval",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/fcollonval",
+        "username": "fcollonval"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/41567",
+        "name": "Kazuho Oku",
+        "repo": {
+            "description": "a header-file-only, JSON parser serializer in C++",
+            "name": "picojson",
+            "url": "https://github.com/kazuho/picojson"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/kazuho",
+        "username": "kazuho"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/326742",
+        "name": "Philip Walton",
+        "repo": {
+            "description": "A community-curated list of flexbox issues and cross-browser workarounds for them.",
+            "name": "flexbugs",
+            "url": "https://github.com/philipwalton/flexbugs"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/philipwalton",
+        "username": "philipwalton"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/159209",
+        "name": "Ahmet Alp Balkan",
+        "repo": {
+            "description": "Faster way to switch between clusters and namespaces in kubectl",
+            "name": "kubectx",
+            "url": "https://github.com/ahmetb/kubectx"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/ahmetb",
+        "username": "ahmetb"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/5492542",
+        "name": "\u5e74\u7cd5\u5c0f\u8c46\u6c64",
+        "repo": {
+            "description": "markdown preview plugin for (neo)vim",
+            "name": "markdown-preview.nvim",
+            "url": "https://github.com/iamcco/markdown-preview.nvim"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/iamcco",
+        "username": "iamcco"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/409321",
+        "name": "Kevin Lin",
+        "repo": {
+            "description": "This guide is an opinionated set of tips and best practices for working with the AWS Cloud Development Kit",
+            "name": "open-cdk",
+            "url": "https://github.com/kevinslin/open-cdk"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/kevinslin",
+        "username": "kevinslin"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/47395",
+        "name": "Alex Eagle",
+        "repo": {
+            "description": "\ud83d\udc0d\ud83c\udf3f\ud83d\udc9a Integrate MyPy type-checking into your Python Bazel builds",
+            "name": "bazel-mypy-integration",
+            "url": "https://github.com/alexeagle/bazel-mypy-integration"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/alexeagle",
+        "username": "alexeagle"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/944947",
+        "name": "Julien Schmidt",
+        "repo": {
+            "description": "A high performance HTTP request router that scales well",
+            "name": "httprouter",
+            "url": "https://github.com/julienschmidt/httprouter"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/julienschmidt",
+        "username": "julienschmidt"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/4616705",
+        "name": "Ian VanSchooten",
+        "repo": {
+            "description": "Enables the use of Chromatic Turbosnap in vite storybook projects",
+            "name": "vite-plugin-turbosnap",
+            "url": "https://github.com/IanVS/vite-plugin-turbosnap"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/IanVS",
+        "username": "IanVS"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/4660275",
+        "name": "Nikita Sobolev",
+        "repo": {
+            "description": "A curated list of cryptography resources and links.",
+            "name": "awesome-cryptography",
+            "url": "https://github.com/sobolevn/awesome-cryptography"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/sobolevn",
+        "username": "sobolevn"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/51083",
+        "name": "Nick O'Leary",
+        "repo": {
+            "description": "A client library for the Arduino Ethernet Shield that provides support for MQTT.",
+            "name": "pubsubclient",
+            "url": "https://github.com/knolleary/pubsubclient"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/knolleary",
+        "username": "knolleary"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/5511591",
+        "name": "Kazuaki Matsuo",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/KazuCocoa",
+        "username": "KazuCocoa"
+    }
+]
