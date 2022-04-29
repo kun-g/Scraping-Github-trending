@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [spacedrive](https://github.com/spacedriveapp/spacedrive) | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. |
-| [python-week-2022](https://github.com/rochacbruno/python-week-2022) | Template Para a Python Week 2002 - 25 a 29 de Abril na Linux Tips |
+| [atuin](https://github.com/ellie/atuin) | 🐢 Magical shell history |
+| [nuxt.js](https://github.com/nuxt/nuxt.js) | The Intuitive Vue(2) Framework |
 | [mastodon](https://github.com/mastodon/mastodon) | Your self-hosted, globally interconnected microblogging community |
-| [framework](https://github.com/nuxt/framework) | The Hybrid Vue(3) Framework. |
-| [weekly](https://github.com/ruanyf/weekly) | 科技爱好者周刊，每周五发布 |
-| [hashcat](https://github.com/hashcat/hashcat) | World's fastest and most advanced password recovery utility |
-| [CAD_Sketcher](https://github.com/hlorus/CAD_Sketcher) | Constraint-based geometry sketcher for blender |
-| [PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg) | Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks in Semantic Segmentation, Interactive Segmentation, Panoptic Segmentation, Image Matting, 3D Segmentation, etc. |
-| [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) | 30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take more than 100… |
-| [devops-exercises](https://github.com/bregman-arie/devops-exercises) | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions |
+| [PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! |
+| [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. |
+| [hackingtool](https://github.com/Z4nzu/hackingtool) | ALL IN ONE Hacking Tool For Hackers |
+| [python-week-2022](https://github.com/rochacbruno/python-week-2022) | Template Para a Python Week 2002 - 25 a 29 de Abril na LINUXTips |
+| [compress](https://github.com/klauspost/compress) | Optimized Go Compression Packages |
+| [annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) | 🧑‍🏫 50! Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10

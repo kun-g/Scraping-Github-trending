@@ -1,0 +1,286 @@
+[
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/17034772",
+        "name": "Jonatan K\u0142osko",
+        "repo": {
+            "description": "A tool simplifying the process of reconstructing Rubik's Cube solves.",
+            "name": "reconstructions",
+            "url": "https://github.com/jonatanklosko/reconstructions"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/jonatanklosko",
+        "username": "jonatanklosko"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2346494",
+        "name": "Romain Beaumont",
+        "repo": {
+            "description": "Easily turn large sets of image urls to an image dataset. Can download, resize and package 100M urls in 20h on one machine.",
+            "name": "img2dataset",
+            "url": "https://github.com/rom1504/img2dataset"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/rom1504",
+        "username": "rom1504"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/462317",
+        "name": "Adrienne Walker",
+        "repo": {
+            "description": "FFXIV JavaScript Raiding Overlay",
+            "name": "cactbot",
+            "url": "https://github.com/quisquous/cactbot"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/quisquous",
+        "username": "quisquous"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/22380829",
+        "name": "JJ Kasper",
+        "repo": {
+            "description": "A Next.js site using new SSG support with a Notion backed blog",
+            "name": "notion-blog",
+            "url": "https://github.com/ijjk/notion-blog"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/ijjk",
+        "username": "ijjk"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/899716",
+        "name": "Kirk Byers",
+        "repo": {
+            "description": "Multi-vendor library to simplify Paramiko SSH connections to network devices",
+            "name": "netmiko",
+            "url": "https://github.com/ktbyers/netmiko"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/ktbyers",
+        "username": "ktbyers"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/6655696",
+        "name": "Pierre-Louis",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/guidezpl",
+        "username": "guidezpl"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/163000",
+        "name": "Chris Lalancette",
+        "repo": {
+            "description": "Automated installation for guest images",
+            "name": "oz",
+            "url": "https://github.com/clalancette/oz"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/clalancette",
+        "username": "clalancette"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/303201",
+        "name": "James Newton-King",
+        "repo": {
+            "description": "Json.NET is a popular high-performance JSON framework for .NET",
+            "name": "Newtonsoft.Json",
+            "url": "https://github.com/JamesNK/Newtonsoft.Json"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/JamesNK",
+        "username": "JamesNK"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/306134",
+        "name": "William Candillon",
+        "repo": {
+            "description": "\u269b\ufe0f \ud83d\udcfa Projects from the \u201cCan it be done in React Native?\u201d YouTube series",
+            "name": "can-it-be-done-in-react-native",
+            "url": "https://github.com/wcandillon/can-it-be-done-in-react-native"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/wcandillon",
+        "username": "wcandillon"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/857609",
+        "name": "Adam Johnson",
+        "repo": {
+            "description": "Django app for handling the server headers required for Cross-Origin Resource Sharing (CORS)",
+            "name": "django-cors-headers",
+            "url": "https://github.com/adamchainz/django-cors-headers"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/adamchainz",
+        "username": "adamchainz"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/51083",
+        "name": "Nick O'Leary",
+        "repo": {
+            "description": "A client library for the Arduino Ethernet Shield that provides support for MQTT.",
+            "name": "pubsubclient",
+            "url": "https://github.com/knolleary/pubsubclient"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/knolleary",
+        "username": "knolleary"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/12663778",
+        "name": "Me No Dev",
+        "repo": {
+            "description": "Async Web Server for ESP8266 and ESP32",
+            "name": "ESPAsyncWebServer",
+            "url": "https://github.com/me-no-dev/ESPAsyncWebServer"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/me-no-dev",
+        "username": "me-no-dev"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/3282513",
+        "name": "Mark Saroufim",
+        "repo": {
+            "description": "Awesome utilities for performance profiling",
+            "name": "awesome-profiling",
+            "url": "https://github.com/msaroufim/awesome-profiling"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/msaroufim",
+        "username": "msaroufim"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/15182",
+        "name": "Eric Clemmons",
+        "repo": {
+            "description": "Option+Click React components in your browser to instantly open the source in VS Code",
+            "name": "click-to-component",
+            "url": "https://github.com/ericclemmons/click-to-component"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/ericclemmons",
+        "username": "ericclemmons"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/5421321",
+        "name": "Marcin G\u0119bala",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/maarcingebala",
+        "username": "maarcingebala"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/6939968",
+        "name": "Cosimo Lupo",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/anthrotype",
+        "username": "anthrotype"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/5106466",
+        "name": "Micha\u0142 Pierzcha\u0142a",
+        "repo": {
+            "description": "Jest configuration preset for Angular projects.",
+            "name": "jest-preset-angular",
+            "url": "https://github.com/thymikee/jest-preset-angular"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/thymikee",
+        "username": "thymikee"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/163582",
+        "name": "Yihui Xie",
+        "repo": {
+            "description": "Presentation Ninja \u5e7b\u706f\u5fcd\u8005 \u00b7 \u5199\u8f6e\u773c",
+            "name": "xaringan",
+            "url": "https://github.com/yihui/xaringan"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/yihui",
+        "username": "yihui"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/251987",
+        "name": "Tom Bamford",
+        "repo": {
+            "description": "Go SDK for Microsoft Graph",
+            "name": "hamilton",
+            "url": "https://github.com/manicminer/hamilton"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/manicminer",
+        "username": "manicminer"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2851492",
+        "name": "Florian Roth",
+        "repo": {
+            "description": "Loki - Simple IOC and Incident Response Scanner",
+            "name": "Loki",
+            "url": "https://github.com/Neo23x0/Loki"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/Neo23x0",
+        "username": "Neo23x0"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2621",
+        "name": "Brad Fitzpatrick",
+        "repo": {
+            "description": "Go Memcached client library #golang",
+            "name": "gomemcache",
+            "url": "https://github.com/bradfitz/gomemcache"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/bradfitz",
+        "username": "bradfitz"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/119296",
+        "name": "Geoffroy Couprie",
+        "repo": {
+            "description": "Rust parser combinator framework",
+            "name": "nom",
+            "url": "https://github.com/Geal/nom"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/Geal",
+        "username": "Geal"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/161631",
+        "name": "Tianon Gravi",
+        "repo": {
+            "description": "Simple Go-based setuid+setgid+setgroups+exec",
+            "name": "gosu",
+            "url": "https://github.com/tianon/gosu"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/tianon",
+        "username": "tianon"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1976582",
+        "name": "Kevin Ushey",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/kevinushey",
+        "username": "kevinushey"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/6354026",
+        "name": "Joe Tsai",
+        "repo": {
+            "description": "Daemon for creating a simple VPN over UDP.",
+            "name": "udptunnel",
+            "url": "https://github.com/dsnet/udptunnel"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/dsnet",
+        "username": "dsnet"
+    }
+]
