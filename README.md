@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [spacedrive](https://github.com/spacedriveapp/spacedrive) | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. |
-| [atuin](https://github.com/ellie/atuin) | 🐢 Magical shell history |
-| [nuxt.js](https://github.com/nuxt/nuxt.js) | The Intuitive Vue(2) Framework |
-| [mastodon](https://github.com/mastodon/mastodon) | Your self-hosted, globally interconnected microblogging community |
 | [PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! |
-| [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. |
-| [hackingtool](https://github.com/Z4nzu/hackingtool) | ALL IN ONE Hacking Tool For Hackers |
-| [python-week-2022](https://github.com/rochacbruno/python-week-2022) | Template Para a Python Week 2002 - 25 a 29 de Abril na LINUXTips |
-| [compress](https://github.com/klauspost/compress) | Optimized Go Compression Packages |
-| [annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) | 🧑‍🏫 50! Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠 |
+| [weekly](https://github.com/ruanyf/weekly) | 科技爱好者周刊，每周五发布 |
+| [angular](https://github.com/angular/angular) | The modern web developer’s platform |
+| [mastodon](https://github.com/mastodon/mastodon) | Your self-hosted, globally interconnected microblogging community |
+| [spacedrive](https://github.com/spacedriveapp/spacedrive) | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. |
+| [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) | 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly. |
+| [jsonhero-web](https://github.com/jsonhero-io/jsonhero-web) | JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀 |
+| [gradio](https://github.com/gradio-app/gradio) | Create UIs for your machine learning model in Python in 3 minutes |
+| [appsmith](https://github.com/appsmithorg/appsmith) | Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API. |
+| [wireit](https://github.com/google/wireit) | Wireit upgrades your npm scripts to make them smarter and more efficient. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
