@@ -25,16 +25,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [Grasscutter](https://github.com/Grasscutters/Grasscutter) | A server software reimplementation for a certain anime game. |
+| [overgrowth](https://github.com/WolfireGames/overgrowth) | Open Source codebase of the game Overgrowth by Wolfire Games LLC |
+| [the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks) | 经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wired magazines, free download and subscription for kindle, mobi、epub、pdf format. |
+| [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) | 程序员延寿指南 | A programmer's guide to live longer |
+| [mastodon](https://github.com/mastodon/mastodon) | Your self-hosted, globally interconnected microblogging community |
+| [textual](https://github.com/Textualize/textual) | Textual is a TUI (Text User Interface) framework for Python inspired by modern web development. |
 | [run](https://github.com/The-Run-Philosophy-Organization/run) | 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。 |
-| [lexical](https://github.com/facebook/lexical) | Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance. |
-| [httpie](https://github.com/httpie/httpie) | As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie |
-| [dingdong-helper](https://github.com/JannsenYang/dingdong-helper) | 叮咚自动下单 并发调用接口方式 多人高峰期实战反馈10秒以内成功 自动将购物车能买的商品全部下单 只需自行编辑购物车和最后支付即可 |
-| [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) | Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics |
-| [ddshop](https://github.com/zc2638/ddshop) | 叮咚买菜自动抢购（内附 其它团购途径，包含所有生活必需品及药品） |
-| [Leaflet](https://github.com/Leaflet/Leaflet) | 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦 |
-| [medusa](https://github.com/medusajs/medusa) | The open-source Shopify alternative ⚡️ |
-| [assets](https://github.com/trustwallet/assets) | A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens. |
-| [disco-diffusion](https://github.com/alembics/disco-diffusion) | None |
+| [jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com) | 🧩 Visualize your JSON data onto graphs seamlessly. |
+| [fastjson2](https://github.com/alibaba/fastjson2) | 🚄 FASTJSON2是FASTJSON项目的重要升级，目标是为下一个十年提供一个高性能的JSON库 |
+| [50projects50days](https://github.com/bradtraversy/50projects50days) | 50+ mini web projects using HTML, CSS & JS |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
