@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [Bandai-Namco-Research-Motiondataset](https://github.com/BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset) | This repository provides motion datasets collected by Bandai Namco Research Inc |
-| [tmagic-editor](https://github.com/Tencent/tmagic-editor) | None |
-| [inform](https://github.com/ganelson/inform) | The core software distribution for the Inform 7 programming language. |
-| [OpenRA](https://github.com/OpenRA/OpenRA) | Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X. |
-| [PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! |
-| [hand-write](https://github.com/why20021008/hand-write) | 模拟手写效果，节约时间。 |
-| [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) | 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly. |
+| [actual](https://github.com/actualbudget/actual) | A local-first personal finance system |
+| [actual-server](https://github.com/actualbudget/actual-server) | Actual's server |
+| [wireit](https://github.com/google/wireit) | Wireit upgrades your npm scripts to make them smarter and more efficient. |
 | [spacedrive](https://github.com/spacedriveapp/spacedrive) | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. |
-| [clash](https://github.com/Dreamacro/clash) | A rule-based tunnel in Go. |
-| [risingwave](https://github.com/singularity-data/risingwave) | RisingWave: the next-generation streaming database in the cloud. |
+| [weekly](https://github.com/ruanyf/weekly) | 科技爱好者周刊，每周五发布 |
+| [dingdong](https://github.com/gelove/dingdong) | 叮咚买菜助手, 直接下载并运行, 不需要安装环境, 不需要下载源码！！！ |
+| [gradio](https://github.com/gradio-app/gradio) | Create UIs for your machine learning model in Python in 3 minutes |
+| [HowToCook](https://github.com/Anduin2017/HowToCook) | 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only). |
+| [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) | Course Files for Complete Python 3 Bootcamp Course on Udemy |
+| [RedisInsight](https://github.com/RedisInsight/RedisInsight) | RedisInsight |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
