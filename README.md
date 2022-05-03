@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [pyscript](https://github.com/pyscript/pyscript) | None |
+| [dingdong-helper-node](https://github.com/Runc2333/dingdong-helper-node) | 叮咚买菜助手，使用iOS客户端原生API，支持高峰期下单、支持捡漏、支持多账号、支持webhook通知（需自行实现对端） |
+| [papers-we-love](https://github.com/papers-we-love/papers-we-love) | Papers from the computer science community to read and discuss. |
+| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
 | [actual](https://github.com/actualbudget/actual) | A local-first personal finance system |
 | [actual-server](https://github.com/actualbudget/actual-server) | Actual's server |
-| [wireit](https://github.com/google/wireit) | Wireit upgrades your npm scripts to make them smarter and more efficient. |
-| [spacedrive](https://github.com/spacedriveapp/spacedrive) | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. |
-| [weekly](https://github.com/ruanyf/weekly) | 科技爱好者周刊，每周五发布 |
-| [dingdong](https://github.com/gelove/dingdong) | 叮咚买菜助手, 直接下载并运行, 不需要安装环境, 不需要下载源码！！！ |
-| [gradio](https://github.com/gradio-app/gradio) | Create UIs for your machine learning model in Python in 3 minutes |
-| [HowToCook](https://github.com/Anduin2017/HowToCook) | 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only). |
-| [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) | Course Files for Complete Python 3 Bootcamp Course on Udemy |
-| [RedisInsight](https://github.com/RedisInsight/RedisInsight) | RedisInsight |
+| [The-Kaggle-Book](https://github.com/PacktPublishing/The-Kaggle-Book) | Code Repository for The Kaggle Book, Published by Packt Publishing |
+| [autocomplete](https://github.com/withfig/autocomplete) | Fig adds autocomplete to your terminal. |
+| [NewPipe](https://github.com/TeamNewPipe/NewPipe) | A libre lightweight streaming front-end for Android. |
+| [appsmith](https://github.com/appsmithorg/appsmith) | Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
