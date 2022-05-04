@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [pyscript](https://github.com/pyscript/pyscript) | None |
-| [dingdong-helper-node](https://github.com/Runc2333/dingdong-helper-node) | 叮咚买菜助手，使用iOS客户端原生API，支持高峰期下单、支持捡漏、支持多账号、支持webhook通知（需自行实现对端） |
+| [DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) | Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch |
 | [papers-we-love](https://github.com/papers-we-love/papers-we-love) | Papers from the computer science community to read and discuss. |
-| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
-| [actual](https://github.com/actualbudget/actual) | A local-first personal finance system |
-| [actual-server](https://github.com/actualbudget/actual-server) | Actual's server |
-| [The-Kaggle-Book](https://github.com/PacktPublishing/The-Kaggle-Book) | Code Repository for The Kaggle Book, Published by Packt Publishing |
-| [autocomplete](https://github.com/withfig/autocomplete) | Fig adds autocomplete to your terminal. |
-| [NewPipe](https://github.com/TeamNewPipe/NewPipe) | A libre lightweight streaming front-end for Android. |
 | [appsmith](https://github.com/appsmithorg/appsmith) | Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API. |
+| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
+| [pyodide](https://github.com/pyodide/pyodide) | Pyodide is a Python distribution for the browser and Node.js based on WebAssembly |
+| [dingdong-helper-node](https://github.com/Runc2333/dingdong-helper-node) | 叮咚买菜助手，使用iOS客户端原生API，支持高峰期下单、支持捡漏、支持多账号、支持webhook通知（需自行实现对端） |
+| [docs](https://github.com/github/docs) | The open-source repo for docs.github.com |
+| [microservices-architectured-app](https://github.com/saalikmubeen/microservices-architectured-app) | Event-driven microservices architectured e-commerce app created using Express, Typescript, Nats-Streaming and Next.js |
+| [complete-flutter-course](https://github.com/bizz84/complete-flutter-course) | Complete Flutter Course Bundle - Flutter eCommerce App |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
