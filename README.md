@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [pyscript](https://github.com/pyscript/pyscript) | None |
-| [DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) | Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch |
-| [papers-we-love](https://github.com/papers-we-love/papers-we-love) | Papers from the computer science community to read and discuss. |
-| [appsmith](https://github.com/appsmithorg/appsmith) | Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API. |
 | [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
-| [pyodide](https://github.com/pyodide/pyodide) | Pyodide is a Python distribution for the browser and Node.js based on WebAssembly |
-| [dingdong-helper-node](https://github.com/Runc2333/dingdong-helper-node) | 叮咚买菜助手，使用iOS客户端原生API，支持高峰期下单、支持捡漏、支持多账号、支持webhook通知（需自行实现对端） |
-| [docs](https://github.com/github/docs) | The open-source repo for docs.github.com |
-| [microservices-architectured-app](https://github.com/saalikmubeen/microservices-architectured-app) | Event-driven microservices architectured e-commerce app created using Express, Typescript, Nats-Streaming and Next.js |
-| [complete-flutter-course](https://github.com/bizz84/complete-flutter-course) | Complete Flutter Course Bundle - Flutter eCommerce App |
+| [Geographical-Adventures](https://github.com/SebLague/Geographical-Adventures) | None |
+| [pyscript](https://github.com/pyscript/pyscript) | None |
+| [zhao](https://github.com/programthink/zhao) | 【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵 |
+| [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all |
+| [bootstrap](https://github.com/twbs/bootstrap) | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. |
+| [mvt](https://github.com/mvt-project/mvt) | MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise. |
+| [simple-swiftui](https://github.com/twostraws/simple-swiftui) | A collection of small SwiftUI sample projects. |
+| [books](https://github.com/programthink/books) | 【编程随想】收藏的电子书清单（多个学科，含下载链接） |
+| [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 📚 免费的计算机编程类中文书籍，欢迎投稿 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
