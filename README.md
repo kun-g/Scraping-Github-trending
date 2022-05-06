@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [metaseq](https://github.com/facebookresearch/metaseq) | Repo for external large-scale work |
+| [GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022) | Join the GitHub Graduation Yearbook and "walk the stage" on June 11. |
 | [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
-| [Geographical-Adventures](https://github.com/SebLague/Geographical-Adventures) | None |
+| [smartknob](https://github.com/scottbez1/smartknob) | Haptic input knob with software-defined endstops and virtual detents |
+| [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity |
 | [pyscript](https://github.com/pyscript/pyscript) | None |
-| [zhao](https://github.com/programthink/zhao) | 【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵 |
-| [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all |
-| [bootstrap](https://github.com/twbs/bootstrap) | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. |
-| [mvt](https://github.com/mvt-project/mvt) | MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise. |
-| [simple-swiftui](https://github.com/twostraws/simple-swiftui) | A collection of small SwiftUI sample projects. |
-| [books](https://github.com/programthink/books) | 【编程随想】收藏的电子书清单（多个学科，含下载链接） |
-| [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 📚 免费的计算机编程类中文书籍，欢迎投稿 |
+| [deep-rl-class](https://github.com/huggingface/deep-rl-class) | This repo contain the syllabus of the Hugging Face Deep Reinforcement Learning Class. |
+| [GenshinData](https://github.com/Dimbreath/GenshinData) | Repository containing the game data for the game Genshin Impact. |
+| [Digital-Forensics-Guide](https://github.com/mikeroyal/Digital-Forensics-Guide) | Digital Forensics Guide |
+| [Grasscutter](https://github.com/Grasscutters/Grasscutter) | A server software reimplementation for a certain anime game. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
