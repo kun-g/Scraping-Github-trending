@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [metaseq](https://github.com/facebookresearch/metaseq) | Repo for external large-scale work |
-| [GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022) | Join the GitHub Graduation Yearbook and "walk the stage" on June 11. |
-| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
-| [smartknob](https://github.com/scottbez1/smartknob) | Haptic input knob with software-defined endstops and virtual detents |
-| [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity |
-| [pyscript](https://github.com/pyscript/pyscript) | None |
+| [tmagic-editor](https://github.com/Tencent/tmagic-editor) | None |
+| [Microsoft-3D-Movie-Maker](https://github.com/microsoft/Microsoft-3D-Movie-Maker) | This is the source code for the original Microsoft 3D Movie Maker released in 1995. This is not supported software. |
+| [zhao](https://github.com/programthink/zhao) | 【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵 |
+| [gin](https://github.com/gin-gonic/gin) | Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. |
 | [deep-rl-class](https://github.com/huggingface/deep-rl-class) | This repo contain the syllabus of the Hugging Face Deep Reinforcement Learning Class. |
-| [GenshinData](https://github.com/Dimbreath/GenshinData) | Repository containing the game data for the game Genshin Impact. |
+| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
 | [Digital-Forensics-Guide](https://github.com/mikeroyal/Digital-Forensics-Guide) | Digital Forensics Guide |
-| [Grasscutter](https://github.com/Grasscutters/Grasscutter) | A server software reimplementation for a certain anime game. |
+| [pyscript](https://github.com/pyscript/pyscript) | None |
+| [JavaGuide](https://github.com/Snailclimb/JavaGuide) | 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！ |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
