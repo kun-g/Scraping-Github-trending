@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [metaseq](https://github.com/facebookresearch/metaseq) | Repo for external large-scale work |
+| [FUCK-GFW](https://github.com/comwrg/FUCK-GFW) | 记录各个包管理器使用代理的方法, 因为GFW已经浪费了已经数不清的时间, FUCK GFW |
 | [tmagic-editor](https://github.com/Tencent/tmagic-editor) | None |
-| [Microsoft-3D-Movie-Maker](https://github.com/microsoft/Microsoft-3D-Movie-Maker) | This is the source code for the original Microsoft 3D Movie Maker released in 1995. This is not supported software. |
-| [zhao](https://github.com/programthink/zhao) | 【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵 |
-| [gin](https://github.com/gin-gonic/gin) | Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. |
-| [deep-rl-class](https://github.com/huggingface/deep-rl-class) | This repo contain the syllabus of the Hugging Face Deep Reinforcement Learning Class. |
-| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
-| [Digital-Forensics-Guide](https://github.com/mikeroyal/Digital-Forensics-Guide) | Digital Forensics Guide |
-| [pyscript](https://github.com/pyscript/pyscript) | None |
-| [JavaGuide](https://github.com/Snailclimb/JavaGuide) | 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！ |
+| [rustdesk](https://github.com/rustdesk/rustdesk) | Yet another remote desktop software |
+| [deno](https://github.com/denoland/deno) | A modern runtime for JavaScript and TypeScript. |
+| [easyexcel](https://github.com/alibaba/easyexcel) | 快速、简洁、解决大文件内存溢出的java处理Excel工具 |
+| [gogs](https://github.com/gogs/gogs) | Gogs is a painless self-hosted Git service |
+| [vscode](https://github.com/microsoft/vscode) | Visual Studio Code |
+| [go-by-example](https://github.com/wangkechun/go-by-example) | None |
+| [aptos-core](https://github.com/aptos-labs/aptos-core) | A layer 1 for everyone! |
+| [dive](https://github.com/wagoodman/dive) | A tool for exploring each layer in a docker image |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
