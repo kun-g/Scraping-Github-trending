@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [FUCK-GFW](https://github.com/comwrg/FUCK-GFW) | 记录各个包管理器使用代理的方法, 因为GFW已经浪费了已经数不清的时间, FUCK GFW |
+| [tauri](https://github.com/tauri-apps/tauri) | Build smaller, faster, and more secure desktop applications with a web frontend. |
+| [todomvc-vanillajs-2022](https://github.com/1Marc/todomvc-vanillajs-2022) | Vanilla JS TodoMVC App in 2022 |
 | [tmagic-editor](https://github.com/Tencent/tmagic-editor) | None |
-| [rustdesk](https://github.com/rustdesk/rustdesk) | Yet another remote desktop software |
-| [deno](https://github.com/denoland/deno) | A modern runtime for JavaScript and TypeScript. |
-| [easyexcel](https://github.com/alibaba/easyexcel) | 快速、简洁、解决大文件内存溢出的java处理Excel工具 |
+| [zhao](https://github.com/programthink/zhao) | 【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵 |
+| [ant-design](https://github.com/ant-design/ant-design) | An enterprise-class UI design language and React UI library |
+| [hysteria](https://github.com/HyNetwork/hysteria) | Hysteria is a feature-packed network utility optimized for networks of poor quality (e.g. satellite connections, congested public Wi-Fi, connecting from China to servers abroad) |
 | [gogs](https://github.com/gogs/gogs) | Gogs is a painless self-hosted Git service |
-| [vscode](https://github.com/microsoft/vscode) | Visual Studio Code |
+| [Babylon.js](https://github.com/BabylonJS/Babylon.js) | Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework. |
+| [neuron](https://github.com/emqx/neuron) | Open Source Industrial IoT Connectivity Server |
 | [go-by-example](https://github.com/wangkechun/go-by-example) | None |
-| [aptos-core](https://github.com/aptos-labs/aptos-core) | A layer 1 for everyone! |
-| [dive](https://github.com/wagoodman/dive) | A tool for exploring each layer in a docker image |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
