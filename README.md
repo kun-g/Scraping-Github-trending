@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
 | [tauri](https://github.com/tauri-apps/tauri) | Build smaller, faster, and more secure desktop applications with a web frontend. |
-| [todomvc-vanillajs-2022](https://github.com/1Marc/todomvc-vanillajs-2022) | Vanilla JS TodoMVC App in 2022 |
-| [tmagic-editor](https://github.com/Tencent/tmagic-editor) | None |
-| [zhao](https://github.com/programthink/zhao) | 【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵 |
-| [ant-design](https://github.com/ant-design/ant-design) | An enterprise-class UI design language and React UI library |
-| [hysteria](https://github.com/HyNetwork/hysteria) | Hysteria is a feature-packed network utility optimized for networks of poor quality (e.g. satellite connections, congested public Wi-Fi, connecting from China to servers abroad) |
-| [gogs](https://github.com/gogs/gogs) | Gogs is a painless self-hosted Git service |
-| [Babylon.js](https://github.com/BabylonJS/Babylon.js) | Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework. |
-| [neuron](https://github.com/emqx/neuron) | Open Source Industrial IoT Connectivity Server |
-| [go-by-example](https://github.com/wangkechun/go-by-example) | None |
+| [Grasscutter](https://github.com/Grasscutters/Grasscutter) | A server software reimplementation for a certain anime game. |
+| [alist](https://github.com/Xhofe/alist) | 🗂️A file list program that supports multiple storage, powered by Gin and React. / 一个支持多存储的文件列表程序，使用 Gin 和 React 。 |
+| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A youtube-dl fork with additional features and fixes |
+| [ML-Course-Notes](https://github.com/dair-ai/ML-Course-Notes) | 🎓 Sharing course notes on all topics related to machine learning, NLP, and AI. |
+| [go-project-example](https://github.com/Moonlight-Zhao/go-project-example) | None |
+| [virtual-bookshelf](https://github.com/petargyurov/virtual-bookshelf) | A simple bookshelf made in CSS, HTML and vanilla JS. |
+| [universal-android-debloater](https://github.com/0x192/universal-android-debloater) | Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device. |
+| [mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) | Free MLOps course from DataTalks.Club |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
