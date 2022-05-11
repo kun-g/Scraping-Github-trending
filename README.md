@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
-| [tauri](https://github.com/tauri-apps/tauri) | Build smaller, faster, and more secure desktop applications with a web frontend. |
-| [Grasscutter](https://github.com/Grasscutters/Grasscutter) | A server software reimplementation for a certain anime game. |
-| [alist](https://github.com/Xhofe/alist) | 🗂️A file list program that supports multiple storage, powered by Gin and React. / 一个支持多存储的文件列表程序，使用 Gin 和 React 。 |
-| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A youtube-dl fork with additional features and fixes |
+| [fastjson2](https://github.com/alibaba/fastjson2) | 🚄 FASTJSON2是FASTJSON项目的重要升级，目标是为下一个十年提供一个高性能的JSON库 |
+| [nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) | Community curated list of templates for the nuclei engine to find security vulnerabilities. |
 | [ML-Course-Notes](https://github.com/dair-ai/ML-Course-Notes) | 🎓 Sharing course notes on all topics related to machine learning, NLP, and AI. |
-| [go-project-example](https://github.com/Moonlight-Zhao/go-project-example) | None |
-| [virtual-bookshelf](https://github.com/petargyurov/virtual-bookshelf) | A simple bookshelf made in CSS, HTML and vanilla JS. |
-| [universal-android-debloater](https://github.com/0x192/universal-android-debloater) | Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device. |
 | [mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) | Free MLOps course from DataTalks.Club |
+| [NBMiner](https://github.com/NebuTech/NBMiner) | GPU Miner for ETH, RVN, BEAM, CFX, ZIL, AE, ERGO |
+| [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
+| [tesseract.js](https://github.com/naptha/tesseract.js) | Pure Javascript OCR for more than 100 Languages 📖🎉🖥 |
+| [awesome-compose](https://github.com/docker/awesome-compose) | Awesome Docker Compose samples |
+| [DeepLearning-MuLi-Notes](https://github.com/HIT-UG-Group/DeepLearning-MuLi-Notes) | Notes about courses Dive into Deep Learning by Mu Li |
+| [weron](https://github.com/pojntfx/weron) | Overlay networks based on WebRTC. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
