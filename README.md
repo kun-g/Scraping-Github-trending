@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [fastjson2](https://github.com/alibaba/fastjson2) | 🚄 FASTJSON2是FASTJSON项目的重要升级，目标是为下一个十年提供一个高性能的JSON库 |
+| [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices) |
+| [app-ideas](https://github.com/florinpop17/app-ideas) | A Collection of application ideas which can be used to improve your coding skills. |
+| [fastapi](https://github.com/tiangolo/fastapi) | FastAPI framework, high performance, easy to learn, fast to code, ready for production |
+| [googletest](https://github.com/google/googletest) | GoogleTest - Google Testing and Mocking Framework |
 | [nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) | Community curated list of templates for the nuclei engine to find security vulnerabilities. |
-| [ML-Course-Notes](https://github.com/dair-ai/ML-Course-Notes) | 🎓 Sharing course notes on all topics related to machine learning, NLP, and AI. |
-| [mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) | Free MLOps course from DataTalks.Club |
-| [NBMiner](https://github.com/NebuTech/NBMiner) | GPU Miner for ETH, RVN, BEAM, CFX, ZIL, AE, ERGO |
-| [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
-| [tesseract.js](https://github.com/naptha/tesseract.js) | Pure Javascript OCR for more than 100 Languages 📖🎉🖥 |
-| [awesome-compose](https://github.com/docker/awesome-compose) | Awesome Docker Compose samples |
+| [yn](https://github.com/purocean/yn) | A Hackable Markdown Note Application for Programmers. Version control, AI completion, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, plug-in, and macro replacement. |
 | [DeepLearning-MuLi-Notes](https://github.com/HIT-UG-Group/DeepLearning-MuLi-Notes) | Notes about courses Dive into Deep Learning by Mu Li |
-| [weron](https://github.com/pojntfx/weron) | Overlay networks based on WebRTC. |
+| [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) | Roadmap to becoming an Artificial Intelligence Expert in 2022 |
+| [caddy](https://github.com/caddyserver/caddy) | Fast, multi-platform web server with automatic HTTPS |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
