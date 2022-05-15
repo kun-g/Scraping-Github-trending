@@ -25,16 +25,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [Grasscutter](https://github.com/Grasscutters/Grasscutter) | A server software reimplementation for a certain anime game. |
-| [DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) | Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch |
+| [tmagic-editor](https://github.com/Tencent/tmagic-editor) | None |
+| [metaseq](https://github.com/facebookresearch/metaseq) | Repo for external large-scale work |
+| [pyscript](https://github.com/pyscript/pyscript) | None |
 | [zhao](https://github.com/programthink/zhao) | 【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵 |
-| [gno](https://github.com/gnolang/gno) | Gno language |
-| [spacedrive](https://github.com/spacedriveapp/spacedrive) | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. |
-| [mvt](https://github.com/mvt-project/mvt) | MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise. |
-| [GenshinData](https://github.com/Dimbreath/GenshinData) | Repository containing the game data for the game Genshin Impact. |
-| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
-| [appsmith](https://github.com/appsmithorg/appsmith) | Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API. |
-| [rustdesk](https://github.com/rustdesk/rustdesk) | Yet another remote desktop software |
+| [GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022) | Join the GitHub Graduation Yearbook and "walk the stage" on June 11. |
+| [Microsoft-3D-Movie-Maker](https://github.com/microsoft/Microsoft-3D-Movie-Maker) | This is the source code for the original Microsoft 3D Movie Maker released in 1995. This is not supported software. |
+| [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
+| [gogs](https://github.com/gogs/gogs) | Gogs is a painless self-hosted Git service |
+| [Grasscutter_Resources](https://github.com/Koko-boya/Grasscutter_Resources) | Combined Resource Folder from Multiple Sources of certain anime game |
+| [ddia](https://github.com/Vonng/ddia) | 《Designing Data-Intensive Application》DDIA中文翻译 |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
