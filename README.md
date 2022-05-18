@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [nowinandroid](https://github.com/android/nowinandroid) | A fully functional Android app built entirely with Kotlin and Jetpack Compose |
-| [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
-| [xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) | A shell script which checks your $HOME for unwanted files and directories. |
-| [jellyfin](https://github.com/jellyfin/jellyfin) | The Free Software Media System |
-| [run](https://github.com/The-Run-Philosophy-Organization/run) | 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。 |
-| [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics |
+| [mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) | Free MLOps course from DataTalks.Club |
+| [sql-generator](https://github.com/liyupi/sql-generator) | 🔨 用 JSON 来生成结构化的 SQL 语句，基于 Vue3 + TypeScript + Vite + Ant Design + MonacoEditor 实现，项目简单（重逻辑轻页面）、适合练手~ |
+| [Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) | Geeker Admin，基于 Vue3.2、TypeScript、Vite2、Pinia、Element-Plus 开发的一套后台管理框架。 |
+| [activate-linux](https://github.com/MrGlockenspiel/activate-linux) | The "Activate Windows" watermark ported to Linux |
 | [aptos-core](https://github.com/aptos-labs/aptos-core) | A layer 1 for everyone! |
-| [Flipper-IRDB](https://github.com/Lucaslhm/Flipper-IRDB) | A collective of different IRs for the Flipper |
-| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A youtube-dl fork with additional features and fixes |
-| [Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Python - 100天从新手到大师 |
+| [nowinandroid](https://github.com/android/nowinandroid) | A fully functional Android app built entirely with Kotlin and Jetpack Compose |
+| [beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) | This repository helps you to have a more beautiful and attractive github profile, and you can access a set of tools and guides for beautifying your github profile. 🚩 |
+| [HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator) | None |
+| [linux-insides](https://github.com/0xAX/linux-insides) | A little bit about a linux kernel |
+| [Aman-Barnwal-Leetcode-Solutions](https://github.com/Amanhacker/Aman-Barnwal-Leetcode-Solutions) | This repo contains my Leetcode Solutions question-wise ! |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
