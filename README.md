@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [sql-generator](https://github.com/liyupi/sql-generator) | 🔨 用 JSON 来生成结构化的 SQL 语句，基于 Vue3 + TypeScript + Vite + Ant Design + MonacoEditor 实现，项目简单（重逻辑轻页面）、适合练手~ |
 | [CodeEdit](https://github.com/CodeEditApp/CodeEdit) | CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. |
-| [mitmproxy](https://github.com/mitmproxy/mitmproxy) | An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers. |
-| [run](https://github.com/The-Run-Philosophy-Organization/run) | 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。 |
+| [zhenxun_bot](https://github.com/HibiKier/zhenxun_bot) | 基于 Nonebot2 和 go-cqhttp 开发，以 postgresql 作为数据库，非常可爱的绪山真寻bot |
+| [gofound](https://github.com/newpanjing/gofound) | GoFound GoLang Full text search go语言全文检索引擎 基于平衡二叉树+正排索引、倒排索引实现 可支持亿级数据，毫秒级查询。 使用简单，使用http接口，任何系统都可以使用。 |
+| [linux-insides](https://github.com/0xAX/linux-insides) | A little bit about a linux kernel |
 | [tetragon](https://github.com/cilium/tetragon) | eBPF-based Security Observability and Runtime Enforcement |
-| [aptos-core](https://github.com/aptos-labs/aptos-core) | A layer 1 for everyone! |
-| [activate-linux](https://github.com/MrGlockenspiel/activate-linux) | The "Activate Windows" watermark ported to Linux |
-| [kitex-examples](https://github.com/cloudwego/kitex-examples) | Examples for Kitex. |
-| [PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) | Easy-to-use and powerful NLP library with Awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications, including Neural Search, Question Answering, Information Extraction and Sentiment Analysis end-to-end system. |
+| [gin](https://github.com/gin-gonic/gin) | Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. |
+| [Runestone](https://github.com/simonbs/Runestone) | 📝 Performant plain text editor for iOS with syntax highlighting, line numbers, invisible characters and much more. |
+| [ColossalAI](https://github.com/hpcaitech/ColossalAI) | Colossal-AI: A Unified Deep Learning System for Big Model Era |
 | [beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) | This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐ |
+| [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
