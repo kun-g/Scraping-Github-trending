@@ -41,14 +41,14 @@
 <!-- START OF MONTHLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [run](https://github.com/The-Run-Philosophy-Organization/run) | 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。 |
-| [the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks) | 经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wired magazines, free download and subscription for kindle, mobi、epub、pdf format. |
-| [dingdong-helper](https://github.com/JannsenYang/dingdong-helper) | 叮咚自动下单 并发调用接口方式 多人高峰期实战反馈10秒以内成功 自动将购物车能买的商品全部下单 只需自行编辑购物车和最后支付即可 |
-| [disco-diffusion](https://github.com/alembics/disco-diffusion) | None |
-| [mastodon](https://github.com/mastodon/mastodon) | Your self-hosted, globally interconnected microblogging community |
-| [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all |
+| [Grasscutter](https://github.com/Grasscutters/Grasscutter) | A server software reimplementation for a certain anime game. |
+| [DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) | Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch |
 | [Geographical-Adventures](https://github.com/SebLague/Geographical-Adventures) | None |
-| [ddia](https://github.com/Vonng/ddia) | 《Designing Data-Intensive Application》DDIA中文翻译 |
-| [DALL-E](https://github.com/openai/DALL-E) | PyTorch package for the discrete VAE used for DALL·E. |
-| [pytube](https://github.com/pytube/pytube) | A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos. |
+| [overgrowth](https://github.com/WolfireGames/overgrowth) | Open Source codebase of the game Overgrowth by Wolfire Games LLC |
+| [the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks) | 经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wired magazines, free download and subscription for kindle, mobi、epub、pdf format. |
+| [run](https://github.com/The-Run-Philosophy-Organization/run) | 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。 |
+| [aptos-core](https://github.com/aptos-labs/aptos-core) | A layer 1 for everyone! |
+| [samples](https://github.com/flutter/samples) | A collection of Flutter examples and demos |
+| [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices) |
+| [linux-insides](https://github.com/0xAX/linux-insides) | A little bit about a linux kernel |
 <!-- END OF MONTHLY_TOP10_REPOS -->
