@@ -25,16 +25,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [tmagic-editor](https://github.com/Tencent/tmagic-editor) | None |
-| [metaseq](https://github.com/facebookresearch/metaseq) | Repo for external large-scale work |
-| [pyscript](https://github.com/pyscript/pyscript) | None |
-| [zhao](https://github.com/programthink/zhao) | 【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵 |
-| [GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022) | Join the GitHub Graduation Yearbook and "walk the stage" on June 11. |
-| [Microsoft-3D-Movie-Maker](https://github.com/microsoft/Microsoft-3D-Movie-Maker) | This is the source code for the original Microsoft 3D Movie Maker released in 1995. This is not supported software. |
-| [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
-| [gogs](https://github.com/gogs/gogs) | Gogs is a painless self-hosted Git service |
-| [Grasscutter_Resources](https://github.com/Koko-boya/Grasscutter_Resources) | Combined Resource Folder from Multiple Sources of certain anime game |
-| [ddia](https://github.com/Vonng/ddia) | 《Designing Data-Intensive Application》DDIA中文翻译 |
+| [nowinandroid](https://github.com/android/nowinandroid) | A fully functional Android app built entirely with Kotlin and Jetpack Compose |
+| [CodeEdit](https://github.com/CodeEditApp/CodeEdit) | CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. |
+| [ColossalAI](https://github.com/hpcaitech/ColossalAI) | Colossal-AI: A Unified Deep Learning System for Big Model Era |
+| [aptos-core](https://github.com/aptos-labs/aptos-core) | A layer 1 for everyone! |
+| [lapce](https://github.com/lapce/lapce) | Lightning-fast and Powerful Code Editor written in Rust |
+| [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
+| [samples](https://github.com/flutter/samples) | A collection of Flutter examples and demos |
+| [vosk-api](https://github.com/alphacep/vosk-api) | Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node |
+| [googletest](https://github.com/google/googletest) | GoogleTest - Google Testing and Mocking Framework |
+| [mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) | Automagically reverse-engineer REST APIs via capturing traffic |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
