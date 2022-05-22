@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [RSSAggregatorforWeb3](https://github.com/chainfeeds/RSSAggregatorforWeb3) | Bootstrapping your personal Web3 info hub from more than 500 RSS Feeds. |
-| [run](https://github.com/The-Run-Philosophy-Organization/run) | 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。 |
-| [CodeEdit](https://github.com/CodeEditApp/CodeEdit) | CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. |
+| [FairEmail](https://github.com/M66B/FairEmail) | Fully featured, open source, privacy friendly email app for Android |
 | [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [zhao](https://github.com/programthink/zhao) | 【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵 |
-| [what-happens-when-zh_CN](https://github.com/skyline75489/what-happens-when-zh_CN) | What-happens-when 的中文翻译，原仓库 https://github.com/alex/what-happens-when |
-| [GitHub520](https://github.com/521xueweihan/GitHub520) | 😘 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装） |
-| [GlobalMLBuildingFootprints](https://github.com/microsoft/GlobalMLBuildingFootprints) | Worldwide building footprints derived from satellite imagery |
-| [Catch2](https://github.com/catchorg/Catch2) | A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch) |
-| [Runestone](https://github.com/simonbs/Runestone) | 📝 Performant plain text editor for iOS with syntax highlighting, line numbers, invisible characters and much more. |
+| [v86](https://github.com/copy/v86) | x86 virtualization in your browser, recompiling x86 to wasm on the fly |
+| [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
+| [downkyi](https://github.com/leiurayer/downkyi) | 哔哩下载姬downkyi，B站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。 |
+| [CodeEdit](https://github.com/CodeEditApp/CodeEdit) | CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. |
+| [rustdesk](https://github.com/rustdesk/rustdesk) | Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. |
+| [GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022) | Join the GitHub Graduation Yearbook and "walk the stage" on June 11. |
+| [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) | Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more |
+| [Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) | Anime Girls Holding Programming Books |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
