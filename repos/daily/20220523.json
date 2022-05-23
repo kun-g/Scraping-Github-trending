@@ -1,0 +1,957 @@
+[
+    {
+        "author": "SerenityOS",
+        "avatar": "https://github.com/SerenityOS.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/547158",
+                "href": "https://github.com/jntrnr",
+                "username": "jntrnr"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5954907",
+                "href": "https://github.com/awesomekling",
+                "username": "awesomekling"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/19366641",
+                "href": "https://github.com/linusg",
+                "username": "linusg"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/14001776",
+                "href": "https://github.com/alimpfard",
+                "username": "alimpfard"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/28656157",
+                "href": "https://github.com/kleinesfilmroellchen",
+                "username": "kleinesfilmroellchen"
+            }
+        ],
+        "currentPeriodStars": 100,
+        "description": "The Jakt Programming Language",
+        "forks": 62,
+        "fullname": "SerenityOS/jakt",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "name": "jakt",
+        "stars": 629,
+        "url": "https://github.com/SerenityOS/jakt"
+    },
+    {
+        "author": "M66B",
+        "avatar": "https://github.com/M66B.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/259573",
+                "href": "https://github.com/M66B",
+                "username": "M66B"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2282799",
+                "href": "https://github.com/licaon-kter",
+                "username": "licaon-kter"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4938650",
+                "href": "https://github.com/Unpublished",
+                "username": "Unpublished"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8786949",
+                "href": "https://github.com/andreskrey",
+                "username": "andreskrey"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/55600187",
+                "href": "https://github.com/XSpielinbox",
+                "username": "XSpielinbox"
+            }
+        ],
+        "currentPeriodStars": 91,
+        "description": "Fully featured, open source, privacy friendly email app for Android",
+        "forks": 172,
+        "fullname": "M66B/FairEmail",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "name": "FairEmail",
+        "stars": 447,
+        "url": "https://github.com/M66B/FairEmail"
+    },
+    {
+        "author": "public-apis",
+        "avatar": "https://github.com/public-apis.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/50463866",
+                "href": "https://github.com/matheusfelipeog",
+                "username": "matheusfelipeog"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/15134885",
+                "href": "https://github.com/davemachado",
+                "username": "davemachado"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/36134699",
+                "href": "https://github.com/pawelborkar",
+                "username": "pawelborkar"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/246103",
+                "href": "https://github.com/jbrooksuk",
+                "username": "jbrooksuk"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1914165",
+                "href": "https://github.com/marekdano",
+                "username": "marekdano"
+            }
+        ],
+        "currentPeriodStars": 391,
+        "description": "A collective list of free APIs",
+        "forks": 22284,
+        "fullname": "public-apis/public-apis",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "public-apis",
+        "stars": 193164,
+        "url": "https://github.com/public-apis/public-apis"
+    },
+    {
+        "author": "spacedriveapp",
+        "avatar": "https://github.com/spacedriveapp.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/32987599",
+                "href": "https://github.com/jamiepine",
+                "username": "jamiepine"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/14191578",
+                "href": "https://github.com/Brendonovich",
+                "username": "Brendonovich"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/33473181",
+                "href": "https://github.com/maxichrome",
+                "username": "maxichrome"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/21004798",
+                "href": "https://github.com/oscartbeaumont",
+                "username": "oscartbeaumont"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/23714764",
+                "href": "https://github.com/KodingDev",
+                "username": "KodingDev"
+            }
+        ],
+        "currentPeriodStars": 117,
+        "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
+        "forks": 210,
+        "fullname": "spacedriveapp/spacedrive",
+        "language": "TypeScript",
+        "languageColor": "#2b7489",
+        "name": "spacedrive",
+        "stars": 9600,
+        "url": "https://github.com/spacedriveapp/spacedrive"
+    },
+    {
+        "author": "NationalSecurityAgency",
+        "avatar": "https://github.com/NationalSecurityAgency.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/48333017",
+                "href": "https://github.com/ghidra1",
+                "username": "ghidra1"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5378554",
+                "href": "https://github.com/ryanmkurtz",
+                "username": "ryanmkurtz"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/48328597",
+                "href": "https://github.com/dragonmacher",
+                "username": "dragonmacher"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/48966617",
+                "href": "https://github.com/ghidravore",
+                "username": "ghidravore"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/48068198",
+                "href": "https://github.com/caheckman",
+                "username": "caheckman"
+            }
+        ],
+        "currentPeriodStars": 25,
+        "description": "Ghidra is a software reverse engineering (SRE) framework",
+        "forks": 4263,
+        "fullname": "NationalSecurityAgency/ghidra",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "name": "ghidra",
+        "stars": 32722,
+        "url": "https://github.com/NationalSecurityAgency/ghidra"
+    },
+    {
+        "author": "rustdesk",
+        "avatar": "https://github.com/rustdesk.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/71636191",
+                "href": "https://github.com/rustdesk",
+                "username": "rustdesk"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/62206297",
+                "href": "https://github.com/Heap-Hop",
+                "username": "Heap-Hop"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/42061627",
+                "href": "https://github.com/open-trade",
+                "username": "open-trade"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/39793325",
+                "href": "https://github.com/Kingtous",
+                "username": "Kingtous"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/13586388",
+                "href": "https://github.com/fufesou",
+                "username": "fufesou"
+            }
+        ],
+        "currentPeriodStars": 604,
+        "description": "Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative.",
+        "forks": 1827,
+        "fullname": "rustdesk/rustdesk",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "name": "rustdesk",
+        "stars": 19332,
+        "url": "https://github.com/rustdesk/rustdesk"
+    },
+    {
+        "author": "MichaelCade",
+        "avatar": "https://github.com/MichaelCade.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/11822323",
+                "href": "https://github.com/MichaelCade",
+                "username": "MichaelCade"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/62959930",
+                "href": "https://github.com/devto-bot",
+                "username": "devto-bot"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7370576",
+                "href": "https://github.com/subineru",
+                "username": "subineru"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/22192242",
+                "href": "https://github.com/saintdle",
+                "username": "saintdle"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/56105622",
+                "href": "https://github.com/wenchaoh997",
+                "username": "wenchaoh997"
+            }
+        ],
+        "currentPeriodStars": 44,
+        "description": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.",
+        "forks": 2193,
+        "fullname": "MichaelCade/90DaysOfDevOps",
+        "language": "Shell",
+        "languageColor": "#89e051",
+        "name": "90DaysOfDevOps",
+        "stars": 12773,
+        "url": "https://github.com/MichaelCade/90DaysOfDevOps"
+    },
+    {
+        "author": "education",
+        "avatar": "https://github.com/education.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/97467892",
+                "href": "https://github.com/github-education",
+                "username": "github-education"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6633808",
+                "href": "https://github.com/elisemoe",
+                "username": "elisemoe"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6200135",
+                "href": "https://github.com/juanpflores",
+                "username": "juanpflores"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/96354369",
+                "href": "https://github.com/mlarasusan",
+                "username": "mlarasusan"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/43346471",
+                "href": "https://github.com/themagicalmammal",
+                "username": "themagicalmammal"
+            }
+        ],
+        "currentPeriodStars": 125,
+        "description": "Join the GitHub Graduation Yearbook and \"walk the stage\" on June 11.",
+        "forks": 6029,
+        "fullname": "education/GitHubGraduation-2022",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "name": "GitHubGraduation-2022",
+        "stars": 1080,
+        "url": "https://github.com/education/GitHubGraduation-2022"
+    },
+    {
+        "author": "ProjectOpenSea",
+        "avatar": "https://github.com/ProjectOpenSea.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/37939117",
+                "href": "https://github.com/0age",
+                "username": "0age"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6371847",
+                "href": "https://github.com/jameswenzel",
+                "username": "jameswenzel"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/33536922",
+                "href": "https://github.com/stephankmin",
+                "username": "stephankmin"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/39827493",
+                "href": "https://github.com/d1ll0n",
+                "username": "d1ll0n"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/35812202",
+                "href": "https://github.com/BCLeFevre",
+                "username": "BCLeFevre"
+            }
+        ],
+        "currentPeriodStars": 124,
+        "description": "Seaport is a marketplace protocol for safely and efficiently buying and selling NFTs.",
+        "forks": 51,
+        "fullname": "ProjectOpenSea/seaport",
+        "language": "Solidity",
+        "languageColor": "#AA6746",
+        "name": "seaport",
+        "stars": 480,
+        "url": "https://github.com/ProjectOpenSea/seaport"
+    },
+    {
+        "author": "ACM-Alexandria-SC",
+        "avatar": "https://github.com/ACM-Alexandria-SC.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/78346070",
+                "href": "https://github.com/Bassantyasser043",
+                "username": "Bassantyasser043"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/77025553",
+                "href": "https://github.com/MaiAhmedHussein",
+                "username": "MaiAhmedHussein"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/60438793",
+                "href": "https://github.com/Bazina",
+                "username": "Bazina"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/62356444",
+                "href": "https://github.com/Ammar000x",
+                "username": "Ammar000x"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/24529552",
+                "href": "https://github.com/moaz-eldefrawy",
+                "username": "moaz-eldefrawy"
+            }
+        ],
+        "currentPeriodStars": 52,
+        "description": null,
+        "forks": 101,
+        "fullname": "ACM-Alexandria-SC/Internships",
+        "language": null,
+        "languageColor": null,
+        "name": "Internships",
+        "stars": 496,
+        "url": "https://github.com/ACM-Alexandria-SC/Internships"
+    },
+    {
+        "author": "LSPosed",
+        "avatar": "https://github.com/LSPosed.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5022927",
+                "href": "https://github.com/yujincheng08",
+                "username": "yujincheng08"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/40033067",
+                "href": "https://github.com/Howard20181",
+                "username": "Howard20181"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/11155705",
+                "href": "https://github.com/zhongfly",
+                "username": "zhongfly"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/22417711",
+                "href": "https://github.com/okibcn",
+                "username": "okibcn"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/22587698",
+                "href": "https://github.com/pazhanir",
+                "username": "pazhanir"
+            }
+        ],
+        "currentPeriodStars": 145,
+        "description": "Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android)",
+        "forks": 79563,
+        "fullname": "LSPosed/MagiskOnWSA",
+        "language": null,
+        "languageColor": null,
+        "name": "MagiskOnWSA",
+        "stars": 13254,
+        "url": "https://github.com/LSPosed/MagiskOnWSA"
+    },
+    {
+        "author": "home-assistant",
+        "avatar": "https://github.com/home-assistant.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1444314",
+                "href": "https://github.com/balloob",
+                "username": "balloob"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/663432",
+                "href": "https://github.com/bdraco",
+                "username": "bdraco"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/195327",
+                "href": "https://github.com/frenck",
+                "username": "frenck"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/116184",
+                "href": "https://github.com/fabaff",
+                "username": "fabaff"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/14281572",
+                "href": "https://github.com/emontnemery",
+                "username": "emontnemery"
+            }
+        ],
+        "currentPeriodStars": 15,
+        "description": "\ud83c\udfe1 Open source home automation that puts local control and privacy first.",
+        "forks": 18290,
+        "fullname": "home-assistant/core",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "core",
+        "stars": 52669,
+        "url": "https://github.com/home-assistant/core"
+    },
+    {
+        "author": "codecrafters-io",
+        "avatar": "https://github.com/codecrafters-io.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1736595",
+                "href": "https://github.com/danistefanovic",
+                "username": "danistefanovic"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3149580",
+                "href": "https://github.com/sarupbanskota",
+                "username": "sarupbanskota"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/16154204",
+                "href": "https://github.com/bauripalash",
+                "username": "bauripalash"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8174740",
+                "href": "https://github.com/mstuttgart",
+                "username": "mstuttgart"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/478921",
+                "href": "https://github.com/jserv",
+                "username": "jserv"
+            }
+        ],
+        "currentPeriodStars": 203,
+        "description": "Master programming by recreating your favorite technologies from scratch.",
+        "forks": 13618,
+        "fullname": "codecrafters-io/build-your-own-x",
+        "language": null,
+        "languageColor": null,
+        "name": "build-your-own-x",
+        "stars": 141932,
+        "url": "https://github.com/codecrafters-io/build-your-own-x"
+    },
+    {
+        "author": "sharkdp",
+        "avatar": "https://github.com/sharkdp.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4209276",
+                "href": "https://github.com/sharkdp",
+                "username": "sharkdp"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2541726",
+                "href": "https://github.com/tmccombs",
+                "username": "tmccombs"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1692591",
+                "href": "https://github.com/tavianator",
+                "username": "tavianator"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/24716",
+                "href": "https://github.com/reima",
+                "username": "reima"
+            }
+        ],
+        "currentPeriodStars": 162,
+        "description": "A simple, fast and user-friendly alternative to 'find'",
+        "forks": 597,
+        "fullname": "sharkdp/fd",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "name": "fd",
+        "stars": 22786,
+        "url": "https://github.com/sharkdp/fd"
+    },
+    {
+        "author": "adrianhajdin",
+        "avatar": "https://github.com/adrianhajdin.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/70088342",
+                "href": "https://github.com/Mandeepsinghmar",
+                "username": "Mandeepsinghmar"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/24898559",
+                "href": "https://github.com/adrianhajdin",
+                "username": "adrianhajdin"
+            }
+        ],
+        "currentPeriodStars": 65,
+        "description": "This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a an admin dashboard app using React.js and Syncfusion",
+        "forks": 63,
+        "fullname": "adrianhajdin/project_syncfusion_dashboard",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "name": "project_syncfusion_dashboard",
+        "stars": 200,
+        "url": "https://github.com/adrianhajdin/project_syncfusion_dashboard"
+    },
+    {
+        "author": "WeChat-Big-Data-Challenge-2022",
+        "avatar": "https://github.com/WeChat-Big-Data-Challenge-2022.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/105417509",
+                "href": "https://github.com/WeChat-Big-Data-Challenge-2022",
+                "username": "WeChat-Big-Data-Challenge-2022"
+            }
+        ],
+        "currentPeriodStars": 18,
+        "description": "\u5fae\u4fe1\u5927\u8d5bbaseline",
+        "forks": 21,
+        "fullname": "WeChat-Big-Data-Challenge-2022/challenge",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "challenge",
+        "stars": 89,
+        "url": "https://github.com/WeChat-Big-Data-Challenge-2022/challenge"
+    },
+    {
+        "author": "CodeEditApp",
+        "avatar": "https://github.com/CodeEditApp.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/9460130",
+                "href": "https://github.com/lukepistrol",
+                "username": "lukepistrol"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/17158860",
+                "href": "https://github.com/pkasila",
+                "username": "pkasila"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1290461",
+                "href": "https://github.com/wdg",
+                "username": "wdg"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/806104",
+                "href": "https://github.com/austincondiff",
+                "username": "austincondiff"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/63672227",
+                "href": "https://github.com/nanashili",
+                "username": "nanashili"
+            }
+        ],
+        "currentPeriodStars": 324,
+        "description": "CodeEdit App for macOS \u2013 Elevate your code editing experience. Open source, free forever.",
+        "forks": 410,
+        "fullname": "CodeEditApp/CodeEdit",
+        "language": "Swift",
+        "languageColor": "#F05138",
+        "name": "CodeEdit",
+        "stars": 9578,
+        "url": "https://github.com/CodeEditApp/CodeEdit"
+    },
+    {
+        "author": "noisetorch",
+        "avatar": "https://github.com/noisetorch.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/680451",
+                "href": "https://github.com/lawl",
+                "username": "lawl"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1178490",
+                "href": "https://github.com/ZyanKLee",
+                "username": "ZyanKLee"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/545480",
+                "href": "https://github.com/cryptomilk",
+                "username": "cryptomilk"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/30902201",
+                "href": "https://github.com/legendofmiracles",
+                "username": "legendofmiracles"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/31447549",
+                "href": "https://github.com/chance-nelson",
+                "username": "chance-nelson"
+            }
+        ],
+        "currentPeriodStars": 28,
+        "description": "Real-time microphone noise suppression on Linux.",
+        "forks": 133,
+        "fullname": "noisetorch/NoiseTorch",
+        "language": "C",
+        "languageColor": "#555555",
+        "name": "NoiseTorch",
+        "stars": 6451,
+        "url": "https://github.com/noisetorch/NoiseTorch"
+    },
+    {
+        "author": "microsoft",
+        "avatar": "https://github.com/microsoft.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1450004",
+                "href": "https://github.com/jlooper",
+                "username": "jlooper"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/29026887",
+                "href": "https://github.com/ManuSquall",
+                "username": "ManuSquall"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/54913971",
+                "href": "https://github.com/San1ay",
+                "username": "San1ay"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3609003",
+                "href": "https://github.com/silverskyvicto",
+                "username": "silverskyvicto"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/64187129",
+                "href": "https://github.com/EugeneGohh",
+                "username": "EugeneGohh"
+            }
+        ],
+        "currentPeriodStars": 285,
+        "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+        "forks": 7402,
+        "fullname": "microsoft/Web-Dev-For-Beginners",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "name": "Web-Dev-For-Beginners",
+        "stars": 51154,
+        "url": "https://github.com/microsoft/Web-Dev-For-Beginners"
+    },
+    {
+        "author": "sunym1993",
+        "avatar": "https://github.com/sunym1993.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/25787738",
+                "href": "https://github.com/sunym1993",
+                "username": "sunym1993"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8627326",
+                "href": "https://github.com/edisonX-sudo",
+                "username": "edisonX-sudo"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/63941938",
+                "href": "https://github.com/colinxu2020",
+                "username": "colinxu2020"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/48762444",
+                "href": "https://github.com/Hola39e",
+                "username": "Hola39e"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/60927561",
+                "href": "https://github.com/hjdokr",
+                "username": "hjdokr"
+            }
+        ],
+        "currentPeriodStars": 28,
+        "description": "\u4f60\u7ba1\u8fd9\u7834\u73a9\u610f\u53eb\u64cd\u4f5c\u7cfb\u7edf\u6e90\u7801 \u2014 \u50cf\u5c0f\u8bf4\u4e00\u6837\u54c1\u8bfb Linux 0.11 \u6838\u5fc3\u4ee3\u7801",
+        "forks": 1284,
+        "fullname": "sunym1993/flash-linux0.11-talk",
+        "language": "HTML",
+        "languageColor": "#e34c26",
+        "name": "flash-linux0.11-talk",
+        "stars": 10481,
+        "url": "https://github.com/sunym1993/flash-linux0.11-talk"
+    },
+    {
+        "author": "ossu",
+        "avatar": "https://github.com/ossu.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4119931",
+                "href": "https://github.com/ericdouglas",
+                "username": "ericdouglas"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5695330",
+                "href": "https://github.com/joshmhanson",
+                "username": "joshmhanson"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/18407643",
+                "href": "https://github.com/waciumawanjohi",
+                "username": "waciumawanjohi"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/10495809",
+                "href": "https://github.com/mkghosh",
+                "username": "mkghosh"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4255997",
+                "href": "https://github.com/spamegg1",
+                "username": "spamegg1"
+            }
+        ],
+        "currentPeriodStars": 185,
+        "description": "\ud83c\udf93 Path to a free self-taught education in Computer Science!",
+        "forks": 15596,
+        "fullname": "ossu/computer-science",
+        "language": null,
+        "languageColor": null,
+        "name": "computer-science",
+        "stars": 113825,
+        "url": "https://github.com/ossu/computer-science"
+    },
+    {
+        "author": "MunGell",
+        "avatar": "https://github.com/MunGell.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/812976",
+                "href": "https://github.com/MunGell",
+                "username": "MunGell"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/12628112",
+                "href": "https://github.com/JefMari",
+                "username": "JefMari"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/12799326",
+                "href": "https://github.com/abhi18av",
+                "username": "abhi18av"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/202140",
+                "href": "https://github.com/polilluminato",
+                "username": "polilluminato"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1695613",
+                "href": "https://github.com/timothyis",
+                "username": "timothyis"
+            }
+        ],
+        "currentPeriodStars": 25,
+        "description": "A list of awesome beginners-friendly projects.",
+        "forks": 5641,
+        "fullname": "MunGell/awesome-for-beginners",
+        "language": null,
+        "languageColor": null,
+        "name": "awesome-for-beginners",
+        "stars": 40249,
+        "url": "https://github.com/MunGell/awesome-for-beginners"
+    },
+    {
+        "author": "microsoft",
+        "avatar": "https://github.com/microsoft.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/883973",
+                "href": "https://github.com/pavelfeldman",
+                "username": "pavelfeldman"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/9881434",
+                "href": "https://github.com/dgozman",
+                "username": "dgozman"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/746130",
+                "href": "https://github.com/aslushnikov",
+                "username": "aslushnikov"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/9798949",
+                "href": "https://github.com/yury-s",
+                "username": "yury-s"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/17984549",
+                "href": "https://github.com/mxschmitt",
+                "username": "mxschmitt"
+            }
+        ],
+        "currentPeriodStars": 49,
+        "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
+        "forks": 1732,
+        "fullname": "microsoft/playwright",
+        "language": "TypeScript",
+        "languageColor": "#2b7489",
+        "name": "playwright",
+        "stars": 38157,
+        "url": "https://github.com/microsoft/playwright"
+    },
+    {
+        "author": "KaTeX",
+        "avatar": "https://github.com/KaTeX.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/25180681",
+                "href": "https://github.com/renovate-bot",
+                "username": "renovate-bot"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/16403058",
+                "href": "https://github.com/ronkok",
+                "username": "ronkok"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2218736",
+                "href": "https://github.com/edemaine",
+                "username": "edemaine"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/888148",
+                "href": "https://github.com/ylemkimon",
+                "username": "ylemkimon"
+            }
+        ],
+        "currentPeriodStars": 17,
+        "description": "Fast math typesetting for the web.",
+        "forks": 1058,
+        "fullname": "KaTeX/KaTeX",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "name": "KaTeX",
+        "stars": 15268,
+        "url": "https://github.com/KaTeX/KaTeX"
+    },
+    {
+        "author": "3b1b",
+        "avatar": "https://github.com/3b1b.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/11601040",
+                "href": "https://github.com/3b1b",
+                "username": "3b1b"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/44120331",
+                "href": "https://github.com/TonyCrane",
+                "username": "TonyCrane"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/13440601",
+                "href": "https://github.com/bhbr",
+                "username": "bhbr"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/50232075",
+                "href": "https://github.com/YishiMichael",
+                "username": "YishiMichael"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/43117506",
+                "href": "https://github.com/eulertour",
+                "username": "eulertour"
+            }
+        ],
+        "currentPeriodStars": 20,
+        "description": "Animation engine for explanatory math videos",
+        "forks": 4872,
+        "fullname": "3b1b/manim",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "manim",
+        "stars": 44494,
+        "url": "https://github.com/3b1b/manim"
+    }
+]
