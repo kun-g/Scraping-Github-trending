@@ -11,14 +11,14 @@
 | :----: | :----: |
 | [bionic-reading](https://github.com/ansh/bionic-reading) | A Chrome Extension for Bionic Reading on ANY website! |
 | [jakt](https://github.com/SerenityOS/jakt) | The Jakt Programming Language |
+| [core](https://github.com/terra-money/core) | GO implementation of the Terra 2.0 Protocol |
+| [project_syncfusion_dashboard](https://github.com/adrianhajdin/project_syncfusion_dashboard) | This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a an admin dashboard app using React.js and Syncfusion |
 | [spacedrive](https://github.com/spacedriveapp/spacedrive) | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. |
 | [rustdesk](https://github.com/rustdesk/rustdesk) | Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [MagiskOnWSA](https://github.com/LSPosed/MagiskOnWSA) | Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android) |
-| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
-| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
-| [GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022) | Join the GitHub Graduation Yearbook and "walk the stage" on June 11. |
-| [sherlock](https://github.com/sherlock-project/sherlock) | 🔎 Hunt down social media accounts by username across social networks |
+| [fastjson](https://github.com/alibaba/fastjson) | A fast JSON parser/generator for Java. |
+| [PositronV3](https://github.com/KRALYN/PositronV3) | A upside-down, fast, portable, and compact 3D printer |
+| [123elf](https://github.com/taviso/123elf) | A native port of Lotus 1-2-3 to Linux. |
+| [Mathematics-for-ML](https://github.com/dair-ai/Mathematics-for-ML) | 🧮 A collection of resources to learn mathematics for machine learning |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
