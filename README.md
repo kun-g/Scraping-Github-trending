@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [bionic-reading](https://github.com/ansh/bionic-reading) | A Chrome Extension for Bionic Reading on ANY website! |
-| [jakt](https://github.com/SerenityOS/jakt) | The Jakt Programming Language |
+| [mujoco](https://github.com/deepmind/mujoco) | Multi-Joint dynamics with Contact. A general purpose physics simulator. |
 | [core](https://github.com/terra-money/core) | GO implementation of the Terra 2.0 Protocol |
-| [project_syncfusion_dashboard](https://github.com/adrianhajdin/project_syncfusion_dashboard) | This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a an admin dashboard app using React.js and Syncfusion |
 | [spacedrive](https://github.com/spacedriveapp/spacedrive) | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. |
-| [rustdesk](https://github.com/rustdesk/rustdesk) | Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. |
-| [fastjson](https://github.com/alibaba/fastjson) | A fast JSON parser/generator for Java. |
-| [PositronV3](https://github.com/KRALYN/PositronV3) | A upside-down, fast, portable, and compact 3D printer |
-| [123elf](https://github.com/taviso/123elf) | A native port of Lotus 1-2-3 to Linux. |
-| [Mathematics-for-ML](https://github.com/dair-ai/Mathematics-for-ML) | 🧮 A collection of resources to learn mathematics for machine learning |
+| [bionic-reading](https://github.com/ansh/bionic-reading) | A Chrome Extension for Bionic Reading on ANY website! |
+| [nocobase](https://github.com/nocobase/nocobase) | NocoBase is a scalability-first, open-source no-code/low-code development platform. |
+| [advanced-remix](https://github.com/kentcdodds/advanced-remix) | None |
+| [data-engineering-with-databricks](https://github.com/databricks-academy/data-engineering-with-databricks) | None |
+| [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) | 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly. |
+| [streamlit](https://github.com/streamlit/streamlit) | Streamlit — The fastest way to build data apps in Python |
+| [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) | 10 Weeks, 20 Lessons, Data Science for All! |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
