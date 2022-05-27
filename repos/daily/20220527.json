@@ -1,0 +1,872 @@
+[
+    {
+        "author": "PaddlePaddle",
+        "avatar": "https://github.com/PaddlePaddle.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3038472",
+                "href": "https://github.com/zh794390558",
+                "username": "zh794390558"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/87408988",
+                "href": "https://github.com/Jackwaterveg",
+                "username": "Jackwaterveg"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/24568452",
+                "href": "https://github.com/yt605155624",
+                "username": "yt605155624"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3064195",
+                "href": "https://github.com/kuke",
+                "username": "kuke"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/11361692",
+                "href": "https://github.com/Honei",
+                "username": "Honei"
+            }
+        ],
+        "currentPeriodStars": 150,
+        "description": "Easy-to-use Speech Toolkit including SOTA/Streaming ASR witch punctuation, influential TTS with text frontend, Speaker Verification System and End-to-End Speech Simultaneous Translation.",
+        "forks": 848,
+        "fullname": "PaddlePaddle/PaddleSpeech",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "name": "PaddleSpeech",
+        "stars": 3635,
+        "url": "https://github.com/PaddlePaddle/PaddleSpeech"
+    },
+    {
+        "author": "terra-money",
+        "avatar": "https://github.com/terra-money.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/20067525",
+                "href": "https://github.com/YunSuk-Yeo",
+                "username": "YunSuk-Yeo"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/11830048",
+                "href": "https://github.com/Vritra4",
+                "username": "Vritra4"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1264116",
+                "href": "https://github.com/hanjukim",
+                "username": "hanjukim"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/87997759",
+                "href": "https://github.com/evanorti",
+                "username": "evanorti"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6523434",
+                "href": "https://github.com/drewboswell",
+                "username": "drewboswell"
+            }
+        ],
+        "currentPeriodStars": 66,
+        "description": "GO implementation of the Terra 2.0 Protocol",
+        "forks": 27,
+        "fullname": "terra-money/core",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "name": "core",
+        "stars": 202,
+        "url": "https://github.com/terra-money/core"
+    },
+    {
+        "author": "payloadcms",
+        "avatar": "https://github.com/payloadcms.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6651896",
+                "href": "https://github.com/jmikrut",
+                "username": "jmikrut"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/65888",
+                "href": "https://github.com/denolfe",
+                "username": "denolfe"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6434612",
+                "href": "https://github.com/DanRibbens",
+                "username": "DanRibbens"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/30633324",
+                "href": "https://github.com/JarrodMFlesch",
+                "username": "JarrodMFlesch"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/15735305",
+                "href": "https://github.com/jacobsfletch",
+                "username": "jacobsfletch"
+            }
+        ],
+        "currentPeriodStars": 310,
+        "description": "Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB",
+        "forks": 87,
+        "fullname": "payloadcms/payload",
+        "language": "TypeScript",
+        "languageColor": "#2b7489",
+        "name": "payload",
+        "stars": 1752,
+        "url": "https://github.com/payloadcms/payload"
+    },
+    {
+        "author": "donnemartin",
+        "avatar": "https://github.com/donnemartin.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5458997",
+                "href": "https://github.com/donnemartin",
+                "username": "donnemartin"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3709715",
+                "href": "https://github.com/cclauss",
+                "username": "cclauss"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/171818",
+                "href": "https://github.com/satob",
+                "username": "satob"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7440735",
+                "href": "https://github.com/fluency03",
+                "username": "fluency03"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8622362",
+                "href": "https://github.com/sqrthree",
+                "username": "sqrthree"
+            }
+        ],
+        "currentPeriodStars": 142,
+        "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+        "forks": 33072,
+        "fullname": "donnemartin/system-design-primer",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "system-design-primer",
+        "stars": 181732,
+        "url": "https://github.com/donnemartin/system-design-primer"
+    },
+    {
+        "author": "facebook",
+        "avatar": "https://github.com/facebook.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/9906",
+                "href": "https://github.com/passy",
+                "username": "passy"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1820292",
+                "href": "https://github.com/mweststrate",
+                "username": "mweststrate"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/33116358",
+                "href": "https://github.com/traviscibot",
+                "username": "traviscibot"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/692011",
+                "href": "https://github.com/jknoxville",
+                "username": "jknoxville"
+            }
+        ],
+        "currentPeriodStars": 48,
+        "description": "A desktop debugging platform for mobile developers.",
+        "forks": 794,
+        "fullname": "facebook/flipper",
+        "language": "TypeScript",
+        "languageColor": "#2b7489",
+        "name": "flipper",
+        "stars": 11188,
+        "url": "https://github.com/facebook/flipper"
+    },
+    {
+        "author": "InoriRus",
+        "avatar": "https://github.com/InoriRus.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7149418",
+                "href": "https://github.com/InoriRus",
+                "username": "InoriRus"
+            }
+        ],
+        "currentPeriodStars": 90,
+        "description": "PS4 & PS5 emulator",
+        "forks": 23,
+        "fullname": "InoriRus/Kyty",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "name": "Kyty",
+        "stars": 605,
+        "url": "https://github.com/InoriRus/Kyty"
+    },
+    {
+        "author": "ml-tooling",
+        "avatar": "https://github.com/ml-tooling.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2852129",
+                "href": "https://github.com/LukasMasuch",
+                "username": "LukasMasuch"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/14859455",
+                "href": "https://github.com/JanKalkan",
+                "username": "JanKalkan"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/10517170",
+                "href": "https://github.com/FedericoGarza",
+                "username": "FedericoGarza"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/11547371",
+                "href": "https://github.com/aschonfeld",
+                "username": "aschonfeld"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/12899450",
+                "href": "https://github.com/creyesp",
+                "username": "creyesp"
+            }
+        ],
+        "currentPeriodStars": 152,
+        "description": "\ud83c\udfc6 A ranked list of awesome machine learning Python libraries. Updated weekly.",
+        "forks": 1541,
+        "fullname": "ml-tooling/best-of-ml-python",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "best-of-ml-python",
+        "stars": 10117,
+        "url": "https://github.com/ml-tooling/best-of-ml-python"
+    },
+    {
+        "author": "guchangan1",
+        "avatar": "https://github.com/guchangan1.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/54949079",
+                "href": "https://github.com/guchangan1",
+                "username": "guchangan1"
+            }
+        ],
+        "currentPeriodStars": 161,
+        "description": "\u672c\u9879\u76ee\u96c6\u6210\u4e86\u5168\u7f51\u4f18\u79c0\u7684\u653b\u9632\u5de5\u5177\u9879\u76ee\uff0c\u5305\u542b\u81ea\u52a8\u5316\u5229\u7528\uff0c\u5b50\u57df\u540d\u3001\u654f\u611f\u76ee\u5f55\u3001\u7aef\u53e3\u7b49\u626b\u63cf\uff0c\u5404\u5927\u4e2d\u95f4\u4ef6\uff0ccms\u6f0f\u6d1e\u5229\u7528\u5de5\u5177\u4ee5\u53ca\u5e94\u6025\u54cd\u5e94\u7b49\u8d44\u6599\u3002",
+        "forks": 141,
+        "fullname": "guchangan1/All-Defense-Tool",
+        "language": null,
+        "languageColor": null,
+        "name": "All-Defense-Tool",
+        "stars": 685,
+        "url": "https://github.com/guchangan1/All-Defense-Tool"
+    },
+    {
+        "author": "dair-ai",
+        "avatar": "https://github.com/dair-ai.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7049564",
+                "href": "https://github.com/omarsar",
+                "username": "omarsar"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/22795598",
+                "href": "https://github.com/gdalle",
+                "username": "gdalle"
+            }
+        ],
+        "currentPeriodStars": 608,
+        "description": "\ud83e\uddee A collection of resources to learn mathematics for machine learning",
+        "forks": 86,
+        "fullname": "dair-ai/Mathematics-for-ML",
+        "language": null,
+        "languageColor": null,
+        "name": "Mathematics-for-ML",
+        "stars": 1967,
+        "url": "https://github.com/dair-ai/Mathematics-for-ML"
+    },
+    {
+        "author": "dotnet",
+        "avatar": "https://github.com/dotnet.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/174281",
+                "href": "https://github.com/pranavkm",
+                "username": "pranavkm"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/23037549",
+                "href": "https://github.com/aspnetci",
+                "username": "aspnetci"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6431421",
+                "href": "https://github.com/dougbu",
+                "username": "dougbu"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1821173",
+                "href": "https://github.com/Tratcher",
+                "username": "Tratcher"
+            }
+        ],
+        "currentPeriodStars": 11,
+        "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+        "forks": 7872,
+        "fullname": "dotnet/aspnetcore",
+        "language": "C#",
+        "languageColor": "#178600",
+        "name": "aspnetcore",
+        "stars": 28473,
+        "url": "https://github.com/dotnet/aspnetcore"
+    },
+    {
+        "author": "singularity-data",
+        "avatar": "https://github.com/singularity-data.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4198311",
+                "href": "https://github.com/skyzh",
+                "username": "skyzh"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/9161438",
+                "href": "https://github.com/TennyZhuang",
+                "username": "TennyZhuang"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5791930",
+                "href": "https://github.com/lmatz",
+                "username": "lmatz"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/36908971",
+                "href": "https://github.com/BowenXiao1999",
+                "username": "BowenXiao1999"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/25862682",
+                "href": "https://github.com/BugenZhao",
+                "username": "BugenZhao"
+            }
+        ],
+        "currentPeriodStars": 107,
+        "description": "RisingWave: the next-generation streaming database in the cloud.",
+        "forks": 157,
+        "fullname": "singularity-data/risingwave",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "name": "risingwave",
+        "stars": 1943,
+        "url": "https://github.com/singularity-data/risingwave"
+    },
+    {
+        "author": "dotnet-presentations",
+        "avatar": "https://github.com/dotnet-presentations.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1676321",
+                "href": "https://github.com/jamesmontemagno",
+                "username": "jamesmontemagno"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/939291",
+                "href": "https://github.com/jfversluis",
+                "username": "jfversluis"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/68539",
+                "href": "https://github.com/jongalloway",
+                "username": "jongalloway"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/78577",
+                "href": "https://github.com/csharpfritz",
+                "username": "csharpfritz"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5375137",
+                "href": "https://github.com/PureWeen",
+                "username": "PureWeen"
+            }
+        ],
+        "currentPeriodStars": 34,
+        "description": "A full day workshop (.NET MAUI Workshop in a Box) on how to build apps with .NET MAUI for iOS, Android, macOS, and Windows",
+        "forks": 80,
+        "fullname": "dotnet-presentations/dotnet-maui-workshop",
+        "language": "C#",
+        "languageColor": "#178600",
+        "name": "dotnet-maui-workshop",
+        "stars": 547,
+        "url": "https://github.com/dotnet-presentations/dotnet-maui-workshop"
+    },
+    {
+        "author": "chakra-ui",
+        "avatar": "https://github.com/chakra-ui.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6916170",
+                "href": "https://github.com/segunadebayo",
+                "username": "segunadebayo"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1954752",
+                "href": "https://github.com/with-heart",
+                "username": "with-heart"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/16899513",
+                "href": "https://github.com/TimKolberger",
+                "username": "TimKolberger"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/29307652",
+                "href": "https://github.com/ljosberinn",
+                "username": "ljosberinn"
+            }
+        ],
+        "currentPeriodStars": 37,
+        "description": "\u26a1\ufe0f Simple, Modular & Accessible UI Components for your React Applications",
+        "forks": 2315,
+        "fullname": "chakra-ui/chakra-ui",
+        "language": "TypeScript",
+        "languageColor": "#2b7489",
+        "name": "chakra-ui",
+        "stars": 26269,
+        "url": "https://github.com/chakra-ui/chakra-ui"
+    },
+    {
+        "author": "deepmind",
+        "avatar": "https://github.com/deepmind.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2200217",
+                "href": "https://github.com/saran-t",
+                "username": "saran-t"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6387526",
+                "href": "https://github.com/yuvaltassa",
+                "username": "yuvaltassa"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/10518920",
+                "href": "https://github.com/kevinzakka",
+                "username": "kevinzakka"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7824441",
+                "href": "https://github.com/nimrod-gileadi",
+                "username": "nimrod-gileadi"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8644516",
+                "href": "https://github.com/erez-tom",
+                "username": "erez-tom"
+            }
+        ],
+        "currentPeriodStars": 122,
+        "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+        "forks": 313,
+        "fullname": "deepmind/mujoco",
+        "language": "C",
+        "languageColor": "#555555",
+        "name": "mujoco",
+        "stars": 4035,
+        "url": "https://github.com/deepmind/mujoco"
+    },
+    {
+        "author": "openai",
+        "avatar": "https://github.com/openai.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1999682",
+                "href": "https://github.com/adityaramesh",
+                "username": "adityaramesh"
+            }
+        ],
+        "currentPeriodStars": 34,
+        "description": "PyTorch package for the discrete VAE used for DALL\u00b7E.",
+        "forks": 960,
+        "fullname": "openai/DALL-E",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "DALL-E",
+        "stars": 5787,
+        "url": "https://github.com/openai/DALL-E"
+    },
+    {
+        "author": "trekhleb",
+        "avatar": "https://github.com/trekhleb.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3000285",
+                "href": "https://github.com/trekhleb",
+                "username": "trekhleb"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/14953640",
+                "href": "https://github.com/alexstulov",
+                "username": "alexstulov"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/29200109",
+                "href": "https://github.com/m-maksyutin",
+                "username": "m-maksyutin"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/13618860",
+                "href": "https://github.com/appleJax",
+                "username": "appleJax"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/29892368",
+                "href": "https://github.com/moshejs",
+                "username": "moshejs"
+            }
+        ],
+        "currentPeriodStars": 263,
+        "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+        "forks": 23498,
+        "fullname": "trekhleb/javascript-algorithms",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "name": "javascript-algorithms",
+        "stars": 141857,
+        "url": "https://github.com/trekhleb/javascript-algorithms"
+    },
+    {
+        "author": "SigmaHQ",
+        "avatar": "https://github.com/SigmaHQ.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2851492",
+                "href": "https://github.com/Neo23x0",
+                "username": "Neo23x0"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/62423083",
+                "href": "https://github.com/frack113",
+                "username": "frack113"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1845601",
+                "href": "https://github.com/thomaspatzke",
+                "username": "thomaspatzke"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/26856693",
+                "href": "https://github.com/w0rk3r",
+                "username": "w0rk3r"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/13090109",
+                "href": "https://github.com/yugoslavskiy",
+                "username": "yugoslavskiy"
+            }
+        ],
+        "currentPeriodStars": 8,
+        "description": "Generic Signature Format for SIEM Systems",
+        "forks": 1481,
+        "fullname": "SigmaHQ/sigma",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "sigma",
+        "stars": 5042,
+        "url": "https://github.com/SigmaHQ/sigma"
+    },
+    {
+        "author": "adrianhajdin",
+        "avatar": "https://github.com/adrianhajdin.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/70088342",
+                "href": "https://github.com/Mandeepsinghmar",
+                "username": "Mandeepsinghmar"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/24898559",
+                "href": "https://github.com/adrianhajdin",
+                "username": "adrianhajdin"
+            }
+        ],
+        "currentPeriodStars": 74,
+        "description": "This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a an admin dashboard app using React.js and Syncfusion",
+        "forks": 135,
+        "fullname": "adrianhajdin/project_syncfusion_dashboard",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "name": "project_syncfusion_dashboard",
+        "stars": 552,
+        "url": "https://github.com/adrianhajdin/project_syncfusion_dashboard"
+    },
+    {
+        "author": "lydiahallie",
+        "avatar": "https://github.com/lydiahallie.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/29451794",
+                "href": "https://github.com/lydiahallie",
+                "username": "lydiahallie"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/462513",
+                "href": "https://github.com/Tarabass",
+                "username": "Tarabass"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/17340718",
+                "href": "https://github.com/jakeherp",
+                "username": "jakeherp"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8035204",
+                "href": "https://github.com/tcoppin",
+                "username": "tcoppin"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1787867",
+                "href": "https://github.com/sexyoung",
+                "username": "sexyoung"
+            }
+        ],
+        "currentPeriodStars": 22,
+        "description": "A long list of (advanced) JavaScript questions, and their explanations \u2728",
+        "forks": 6174,
+        "fullname": "lydiahallie/javascript-questions",
+        "language": null,
+        "languageColor": null,
+        "name": "javascript-questions",
+        "stars": 44077,
+        "url": "https://github.com/lydiahallie/javascript-questions"
+    },
+    {
+        "author": "spring-projects",
+        "avatar": "https://github.com/spring-projects.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1263688",
+                "href": "https://github.com/jhoeller",
+                "username": "jhoeller"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/401908",
+                "href": "https://github.com/rstoyanchev",
+                "username": "rstoyanchev"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/104798",
+                "href": "https://github.com/sbrannen",
+                "username": "sbrannen"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/330665",
+                "href": "https://github.com/poutsma",
+                "username": "poutsma"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/490484",
+                "href": "https://github.com/snicoll",
+                "username": "snicoll"
+            }
+        ],
+        "currentPeriodStars": 24,
+        "description": "Spring Framework",
+        "forks": 33769,
+        "fullname": "spring-projects/spring-framework",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "name": "spring-framework",
+        "stars": 47838,
+        "url": "https://github.com/spring-projects/spring-framework"
+    },
+    {
+        "author": "golang",
+        "avatar": "https://github.com/golang.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/31506",
+                "href": "https://github.com/dsymonds",
+                "username": "dsymonds"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1846726",
+                "href": "https://github.com/balshetzer",
+                "username": "balshetzer"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6331106",
+                "href": "https://github.com/codyoss",
+                "username": "codyoss"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6554782",
+                "href": "https://github.com/poy",
+                "username": "poy"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/202895",
+                "href": "https://github.com/jacobsa",
+                "username": "jacobsa"
+            }
+        ],
+        "currentPeriodStars": 10,
+        "description": "GoMock is a mocking framework for the Go programming language.",
+        "forks": 527,
+        "fullname": "golang/mock",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "name": "mock",
+        "stars": 7309,
+        "url": "https://github.com/golang/mock"
+    },
+    {
+        "author": "lensapp",
+        "avatar": "https://github.com/lensapp.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/65916846",
+                "href": "https://github.com/actions-user",
+                "username": "actions-user"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8225332",
+                "href": "https://github.com/Nokel81",
+                "username": "Nokel81"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1446224",
+                "href": "https://github.com/jakolehm",
+                "username": "jakolehm"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/9607060",
+                "href": "https://github.com/aleksfront",
+                "username": "aleksfront"
+            }
+        ],
+        "currentPeriodStars": 10,
+        "description": "Lens - The way the world runs Kubernetes",
+        "forks": 920,
+        "fullname": "lensapp/lens",
+        "language": "TypeScript",
+        "languageColor": "#2b7489",
+        "name": "lens",
+        "stars": 17860,
+        "url": "https://github.com/lensapp/lens"
+    },
+    {
+        "author": "Speek-App",
+        "avatar": "https://github.com/Speek-App.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/98053512",
+                "href": "https://github.com/Speek-App",
+                "username": "Speek-App"
+            }
+        ],
+        "currentPeriodStars": 28,
+        "description": "Privacy focused messenger that doesn't trust anyone with your identity, your contact list, or your communications",
+        "forks": 45,
+        "fullname": "Speek-App/Speek",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "name": "Speek",
+        "stars": 413,
+        "url": "https://github.com/Speek-App/Speek"
+    },
+    {
+        "author": "Azure",
+        "avatar": "https://github.com/Azure.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/43390034",
+                "href": "https://github.com/swinner95",
+                "username": "swinner95"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/18446796",
+                "href": "https://github.com/rastala",
+                "username": "rastala"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/20194110",
+                "href": "https://github.com/harneetvirk",
+                "username": "harneetvirk"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/66646674",
+                "href": "https://github.com/amlrelsa-ms",
+                "username": "amlrelsa-ms"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4997940",
+                "href": "https://github.com/hning86",
+                "username": "hning86"
+            }
+        ],
+        "currentPeriodStars": 2,
+        "description": "Python notebooks with ML and deep learning examples with Azure Machine Learning Python SDK | Microsoft",
+        "forks": 2152,
+        "fullname": "Azure/MachineLearningNotebooks",
+        "language": "Jupyter Notebook",
+        "languageColor": "#DA5B0B",
+        "name": "MachineLearningNotebooks",
+        "stars": 3137,
+        "url": "https://github.com/Azure/MachineLearningNotebooks"
+    },
+    {
+        "author": "alibaba",
+        "avatar": "https://github.com/alibaba.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1166785",
+                "href": "https://github.com/wenshao",
+                "username": "wenshao"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/9109915",
+                "href": "https://github.com/VictorZeng",
+                "username": "VictorZeng"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/807508",
+                "href": "https://github.com/kimmking",
+                "username": "kimmking"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/32405587",
+                "href": "https://github.com/Omega-Ariston",
+                "username": "Omega-Ariston"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/16929939",
+                "href": "https://github.com/neil4dong",
+                "username": "neil4dong"
+            }
+        ],
+        "currentPeriodStars": 20,
+        "description": "A fast JSON parser/generator for Java.",
+        "forks": 6470,
+        "fullname": "alibaba/fastjson",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "name": "fastjson",
+        "stars": 24557,
+        "url": "https://github.com/alibaba/fastjson"
+    }
+]

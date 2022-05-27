@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [mujoco](https://github.com/deepmind/mujoco) | Multi-Joint dynamics with Contact. A general purpose physics simulator. |
+| [PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) | Easy-to-use Speech Toolkit including SOTA/Streaming ASR witch punctuation, influential TTS with text frontend, Speaker Verification System and End-to-End Speech Simultaneous Translation. |
 | [core](https://github.com/terra-money/core) | GO implementation of the Terra 2.0 Protocol |
-| [spacedrive](https://github.com/spacedriveapp/spacedrive) | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. |
-| [bionic-reading](https://github.com/ansh/bionic-reading) | A Chrome Extension for Bionic Reading on ANY website! |
-| [nocobase](https://github.com/nocobase/nocobase) | NocoBase is a scalability-first, open-source no-code/low-code development platform. |
-| [advanced-remix](https://github.com/kentcdodds/advanced-remix) | None |
-| [data-engineering-with-databricks](https://github.com/databricks-academy/data-engineering-with-databricks) | None |
+| [payload](https://github.com/payloadcms/payload) | Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB |
+| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+| [flipper](https://github.com/facebook/flipper) | A desktop debugging platform for mobile developers. |
+| [Kyty](https://github.com/InoriRus/Kyty) | PS4 & PS5 emulator |
 | [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) | 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly. |
-| [streamlit](https://github.com/streamlit/streamlit) | Streamlit — The fastest way to build data apps in Python |
-| [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) | 10 Weeks, 20 Lessons, Data Science for All! |
+| [All-Defense-Tool](https://github.com/guchangan1/All-Defense-Tool) | 本项目集成了全网优秀的攻防工具项目，包含自动化利用，子域名、敏感目录、端口等扫描，各大中间件，cms漏洞利用工具以及应急响应等资料。 |
+| [Mathematics-for-ML](https://github.com/dair-ai/Mathematics-for-ML) | 🧮 A collection of resources to learn mathematics for machine learning |
+| [aspnetcore](https://github.com/dotnet/aspnetcore) | ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
