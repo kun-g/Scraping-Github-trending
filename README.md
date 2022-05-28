@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) | Easy-to-use Speech Toolkit including SOTA/Streaming ASR witch punctuation, influential TTS with text frontend, Speaker Verification System and End-to-End Speech Simultaneous Translation. |
-| [core](https://github.com/terra-money/core) | GO implementation of the Terra 2.0 Protocol |
+| [GameShell](https://github.com/phyver/GameShell) | a game to learn (or teach) how to use standard commands in a Unix shell |
+| [PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) | Easy-to-use Speech Toolkit including SOTA/Streaming ASR with punctuation, influential TTS with text frontend, Speaker Verification System and End-to-End Speech Simultaneous Translation. |
+| [risingwave](https://github.com/singularity-data/risingwave) | RisingWave: the next-generation streaming database in the cloud. |
+| [lens](https://github.com/lensapp/lens) | Lens - The way the world runs Kubernetes |
+| [imagen-pytorch](https://github.com/lucidrains/imagen-pytorch) | Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch |
+| [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | List of Computer Science courses with video lectures. |
+| [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) | 健康学习到150岁 - 人体系统调优不完全指南 |
+| [copilot-docs](https://github.com/github/copilot-docs) | Documentation for GitHub Copilot |
+| [react](https://github.com/facebook/react) | A declarative, efficient, and flexible JavaScript library for building user interfaces. |
 | [payload](https://github.com/payloadcms/payload) | Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB |
-| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
-| [flipper](https://github.com/facebook/flipper) | A desktop debugging platform for mobile developers. |
-| [Kyty](https://github.com/InoriRus/Kyty) | PS4 & PS5 emulator |
-| [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) | 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly. |
-| [All-Defense-Tool](https://github.com/guchangan1/All-Defense-Tool) | 本项目集成了全网优秀的攻防工具项目，包含自动化利用，子域名、敏感目录、端口等扫描，各大中间件，cms漏洞利用工具以及应急响应等资料。 |
-| [Mathematics-for-ML](https://github.com/dair-ai/Mathematics-for-ML) | 🧮 A collection of resources to learn mathematics for machine learning |
-| [aspnetcore](https://github.com/dotnet/aspnetcore) | ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
