@@ -25,16 +25,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [nowinandroid](https://github.com/android/nowinandroid) | A fully functional Android app built entirely with Kotlin and Jetpack Compose |
+| [jakt](https://github.com/SerenityOS/jakt) | The Jakt Programming Language |
+| [PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) | Easy-to-use Speech Toolkit including SOTA/Streaming ASR with punctuation, influential TTS with text frontend, Speaker Verification System and End-to-End Speech Simultaneous Translation. |
+| [mujoco](https://github.com/deepmind/mujoco) | Multi-Joint dynamics with Contact. A general purpose physics simulator. |
+| [risingwave](https://github.com/singularity-data/risingwave) | RisingWave: the next-generation streaming database in the cloud. |
+| [lens](https://github.com/lensapp/lens) | Lens - The way the world runs Kubernetes |
+| [coreutils](https://github.com/uutils/coreutils) | Cross-platform Rust rewrite of the GNU coreutils |
+| [rustdesk](https://github.com/rustdesk/rustdesk) | Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices. |
+| [FairEmail](https://github.com/M66B/FairEmail) | Fully featured, open source, privacy friendly email app for Android |
 | [CodeEdit](https://github.com/CodeEditApp/CodeEdit) | CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. |
-| [ColossalAI](https://github.com/hpcaitech/ColossalAI) | Colossal-AI: A Unified Deep Learning System for Big Model Era |
-| [aptos-core](https://github.com/aptos-labs/aptos-core) | A layer 1 for everyone! |
-| [lapce](https://github.com/lapce/lapce) | Lightning-fast and Powerful Code Editor written in Rust |
-| [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
-| [samples](https://github.com/flutter/samples) | A collection of Flutter examples and demos |
-| [vosk-api](https://github.com/alphacep/vosk-api) | Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node |
-| [googletest](https://github.com/google/googletest) | GoogleTest - Google Testing and Mocking Framework |
-| [mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) | Automagically reverse-engineer REST APIs via capturing traffic |
+| [go-clean-template](https://github.com/evrone/go-clean-template) | Clean Architecture template for Golang services |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
