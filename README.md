@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [GameShell](https://github.com/phyver/GameShell) | a game to learn (or teach) how to use standard commands in a Unix shell |
-| [PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) | Easy-to-use Speech Toolkit including SOTA/Streaming ASR with punctuation, influential TTS with text frontend, Speaker Verification System and End-to-End Speech Simultaneous Translation. |
-| [risingwave](https://github.com/singularity-data/risingwave) | RisingWave: the next-generation streaming database in the cloud. |
-| [lens](https://github.com/lensapp/lens) | Lens - The way the world runs Kubernetes |
-| [imagen-pytorch](https://github.com/lucidrains/imagen-pytorch) | Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch |
-| [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | List of Computer Science courses with video lectures. |
-| [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) | 健康学习到150岁 - 人体系统调优不完全指南 |
-| [copilot-docs](https://github.com/github/copilot-docs) | Documentation for GitHub Copilot |
-| [react](https://github.com/facebook/react) | A declarative, efficient, and flexible JavaScript library for building user interfaces. |
 | [payload](https://github.com/payloadcms/payload) | Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB |
+| [copilot-docs](https://github.com/github/copilot-docs) | Documentation for GitHub Copilot |
+| [flipper](https://github.com/facebook/flipper) | A desktop debugging platform for mobile developers. |
+| [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
+| [CTI-fundamentals](https://github.com/curated-intel/CTI-fundamentals) | A collection of papers, blogs, and resources that make up the quintessential aspects of cyber threat intelligence |
+| [react](https://github.com/facebook/react) | A declarative, efficient, and flexible JavaScript library for building user interfaces. |
+| [zephyr](https://github.com/zephyrproject-rtos/zephyr) | Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures. |
+| [imagen-pytorch](https://github.com/lucidrains/imagen-pytorch) | Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch |
+| [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) | 健康学习到150岁 - 人体系统调优不完全指南 |
+| [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) | 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
