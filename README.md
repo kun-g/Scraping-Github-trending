@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [payload](https://github.com/payloadcms/payload) | Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB |
+| [paopao-ce](https://github.com/rocboss/paopao-ce) | 🔥A artistic "twitter like" community built on gin+zinc+vue+ts 清新文艺微社区 |
+| [hydra](https://github.com/hasinhayder/hydra) | Hydra is a zero-config API boilerplate with Laravel 9x + Laravel Sanctum that comes with an excellent user and role management API out of the box |
+| [lede](https://github.com/coolsnowwolf/lede) | Lean's OpenWrt source |
+| [bud](https://github.com/livebud/bud) | The Full-Stack Web Framework for Go |
 | [copilot-docs](https://github.com/github/copilot-docs) | Documentation for GitHub Copilot |
-| [flipper](https://github.com/facebook/flipper) | A desktop debugging platform for mobile developers. |
 | [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
-| [CTI-fundamentals](https://github.com/curated-intel/CTI-fundamentals) | A collection of papers, blogs, and resources that make up the quintessential aspects of cyber threat intelligence |
-| [react](https://github.com/facebook/react) | A declarative, efficient, and flexible JavaScript library for building user interfaces. |
-| [zephyr](https://github.com/zephyrproject-rtos/zephyr) | Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures. |
-| [imagen-pytorch](https://github.com/lucidrains/imagen-pytorch) | Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch |
-| [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) | 健康学习到150岁 - 人体系统调优不完全指南 |
-| [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) | 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly. |
+| [Grasscutter](https://github.com/Grasscutters/Grasscutter) | A server software reimplementation for a certain anime game. |
+| [payload](https://github.com/payloadcms/payload) | Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB |
+| [cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) | Cloudflare’s developer docs. |
+| [fansMedalHelper](https://github.com/XiaoMiku01/fansMedalHelper) | 新版B站粉丝牌助手 全自动升级粉丝牌 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
