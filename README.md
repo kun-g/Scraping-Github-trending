@@ -41,14 +41,14 @@
 <!-- START OF MONTHLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [pyscript](https://github.com/pyscript/pyscript) | Home Page: https://pyscript.net Examples: https://pyscript.net/examples |
 | [Grasscutter](https://github.com/Grasscutters/Grasscutter) | A server software reimplementation for a certain anime game. |
 | [rustdesk](https://github.com/rustdesk/rustdesk) | Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices. |
-| [spacedrive](https://github.com/spacedriveapp/spacedrive) | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. |
-| [DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) | Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch |
-| [aptos-core](https://github.com/aptos-labs/aptos-core) | A layer 1 for everyone! |
 | [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices) |
-| [fastjson2](https://github.com/alibaba/fastjson2) | 🚄 FASTJSON2是FASTJSON项目的重要升级，目标是为下一个十年提供一个高性能的JSON库 |
 | [mujoco](https://github.com/deepmind/mujoco) | Multi-Joint dynamics with Contact. A general purpose physics simulator. |
-| [googletest](https://github.com/google/googletest) | GoogleTest - Google Testing and Mocking Framework |
+| [aptos-core](https://github.com/aptos-labs/aptos-core) | A layer 1 for everyone! |
 | [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
+| [gno](https://github.com/gnolang/gno) | Gno language |
+| [data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) | Free Data Engineering course! |
+| [litestream](https://github.com/benbjohnson/litestream) | Streaming replication for SQLite. |
 <!-- END OF MONTHLY_TOP10_REPOS -->
