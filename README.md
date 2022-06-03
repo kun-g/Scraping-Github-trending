@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [Grasscutter](https://github.com/Grasscutters/Grasscutter) | A server software reimplementation for a certain anime game. |
-| [dragonfly](https://github.com/dragonflydb/dragonfly) | A modern replacement for Redis and Memcached |
+| [msdt-follina](https://github.com/JohnHammond/msdt-follina) | Codebase to generate an msdt-follina payload |
 | [system-design-resources](https://github.com/InterviewReady/system-design-resources) | These are the best resources for System Design on the Internet |
-| [python-patterns](https://github.com/faif/python-patterns) | A collection of design patterns/idioms in Python |
-| [CogVideo](https://github.com/THUDM/CogVideo) | Text-to-video generation. |
-| [HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) | 健康学习到150岁 - 人体系统调优不完全指南 |
-| [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) | 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace. |
 | [follina.py](https://github.com/chvancooten/follina.py) | POC to replicate the full 'Follina' Office RCE vulnerability for testing purposes |
-| [CodeIn10DSA](https://github.com/chaharnishant11/CodeIn10DSA) | None |
+| [DeepFaceLive](https://github.com/iperov/DeepFaceLive) | Real-time face swap for PC streaming or video calls |
+| [New-Grad-Positions-2023](https://github.com/coderQuad/New-Grad-Positions-2023) | A collection of New Grad full time roles in SWE, Quant, and PM. |
+| [machine-learning-interview](https://github.com/khangich/machine-learning-interview) | Machine Learning Interviews from FAANG, Snapchat, LinkedIn. I have offers from Snapchat, Coupang, Stitchfix etc. Blog: mlengineer.io. |
+| [DevSecOps](https://github.com/sottlmarek/DevSecOps) | Ultimate DevSecOps library |
+| [vagas](https://github.com/frontendbr/vagas) | 🔬 Espaço para divulgação de vagas para front-enders. |
 | [Summer2023-Internships](https://github.com/pittcsc/Summer2023-Internships) | Collection of Summer 2023 tech internships! |
+| [wtfpython](https://github.com/satwikkansal/wtfpython) | What the f*ck Python? 😱 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
