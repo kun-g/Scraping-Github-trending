@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [MarkovJunior](https://github.com/mxgmn/MarkovJunior) | Probabilistic PL based on pattern matching and constraint propagation, 148 examples |
 | [msdt-follina](https://github.com/JohnHammond/msdt-follina) | Codebase to generate an msdt-follina payload |
-| [system-design-resources](https://github.com/InterviewReady/system-design-resources) | These are the best resources for System Design on the Internet |
-| [follina.py](https://github.com/chvancooten/follina.py) | POC to replicate the full 'Follina' Office RCE vulnerability for testing purposes |
-| [DeepFaceLive](https://github.com/iperov/DeepFaceLive) | Real-time face swap for PC streaming or video calls |
+| [RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) | Create Reddit Videos with just✨ one command ✨ |
 | [New-Grad-Positions-2023](https://github.com/coderQuad/New-Grad-Positions-2023) | A collection of New Grad full time roles in SWE, Quant, and PM. |
+| [SensorsCalibration](https://github.com/PJLab-ADG/SensorsCalibration) | OpenCalib: A Multi-sensor Calibration Toolbox for Autonomous Driving |
 | [machine-learning-interview](https://github.com/khangich/machine-learning-interview) | Machine Learning Interviews from FAANG, Snapchat, LinkedIn. I have offers from Snapchat, Coupang, Stitchfix etc. Blog: mlengineer.io. |
-| [DevSecOps](https://github.com/sottlmarek/DevSecOps) | Ultimate DevSecOps library |
-| [vagas](https://github.com/frontendbr/vagas) | 🔬 Espaço para divulgação de vagas para front-enders. |
-| [Summer2023-Internships](https://github.com/pittcsc/Summer2023-Internships) | Collection of Summer 2023 tech internships! |
-| [wtfpython](https://github.com/satwikkansal/wtfpython) | What the f*ck Python? 😱 |
+| [lo](https://github.com/samber/lo) | 💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...) |
+| [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) | 中国程序员容易发音错误的单词 |
+| [50projects50days](https://github.com/bradtraversy/50projects50days) | 50+ mini web projects using HTML, CSS & JS |
+| [SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs) | 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
