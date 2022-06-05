@@ -25,16 +25,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [jakt](https://github.com/SerenityOS/jakt) | The Jakt Programming Language |
-| [PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) | Easy-to-use Speech Toolkit including SOTA/Streaming ASR with punctuation, influential TTS with text frontend, Speaker Verification System and End-to-End Speech Simultaneous Translation. |
-| [mujoco](https://github.com/deepmind/mujoco) | Multi-Joint dynamics with Contact. A general purpose physics simulator. |
-| [risingwave](https://github.com/singularity-data/risingwave) | RisingWave: the next-generation streaming database in the cloud. |
+| [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) | 30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take more than 100… |
+| [copilot-docs](https://github.com/github/copilot-docs) | Documentation for GitHub Copilot |
 | [lens](https://github.com/lensapp/lens) | Lens - The way the world runs Kubernetes |
-| [coreutils](https://github.com/uutils/coreutils) | Cross-platform Rust rewrite of the GNU coreutils |
-| [rustdesk](https://github.com/rustdesk/rustdesk) | Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices. |
-| [FairEmail](https://github.com/M66B/FairEmail) | Fully featured, open source, privacy friendly email app for Android |
-| [CodeEdit](https://github.com/CodeEditApp/CodeEdit) | CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. |
-| [go-clean-template](https://github.com/evrone/go-clean-template) | Clean Architecture template for Golang services |
+| [imagen-pytorch](https://github.com/lucidrains/imagen-pytorch) | Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch |
+| [helix](https://github.com/helix-editor/helix) | A post-modern modal text editor. |
+| [payload](https://github.com/payloadcms/payload) | Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB |
+| [DeepFaceLive](https://github.com/iperov/DeepFaceLive) | Real-time face swap for PC streaming or video calls |
+| [iina](https://github.com/iina/iina) | The modern video player for macOS. |
+| [50projects50days](https://github.com/bradtraversy/50projects50days) | 50+ mini web projects using HTML, CSS & JS |
+| [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) | 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace. |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
