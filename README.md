@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [50projects50days](https://github.com/bradtraversy/50projects50days) | 50+ mini web projects using HTML, CSS & JS |
 | [MarkovJunior](https://github.com/mxgmn/MarkovJunior) | Probabilistic PL based on pattern matching and constraint propagation, 148 examples |
-| [New-Grad-Positions-2023](https://github.com/coderQuad/New-Grad-Positions-2023) | A collection of New Grad full time roles in SWE, Quant, and PM. |
-| [lo](https://github.com/samber/lo) | 💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...) |
-| [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. |
-| [opencost](https://github.com/kubecost/opencost) | Cross-cloud cost allocation models for Kubernetes workloads |
-| [black](https://github.com/psf/black) | The uncompromising Python code formatter |
-| [iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world |
-| [DeepFaceLive](https://github.com/iperov/DeepFaceLive) | Real-time face swap for PC streaming or video calls |
+| [vulhub](https://github.com/vulhub/vulhub) | Pre-Built Vulnerable Environments Based on Docker-Compose |
+| [Marlin](https://github.com/MarlinFirmware/Marlin) | Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine. |
 | [RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) | Create Reddit Videos with just✨ one command ✨ |
-| [dowhy](https://github.com/py-why/dowhy) | DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical models and potential outcomes frameworks. |
+| [kajiya](https://github.com/EmbarkStudios/kajiya) | 💡 Experimental real-time global illumination renderer 🦀 |
+| [highway](https://github.com/google/highway) | Performance-portable, length-agnostic SIMD with runtime dispatch |
+| [instagram-scraper](https://github.com/arc298/instagram-scraper) | Scrapes an instagram user's photos and videos |
+| [mirror-leech-telegram-bot](https://github.com/anasty17/mirror-leech-telegram-bot) | Aria/qBittorrent Telegram mirror/leech bot |
+| [dalle-mini](https://github.com/borisdayma/dalle-mini) | DALL·E Mini - Generate images from a text prompt |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
