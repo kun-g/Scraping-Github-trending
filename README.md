@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [Paper](https://github.com/PaperMC/Paper) | High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies |
-| [nowinandroid](https://github.com/android/nowinandroid) | A fully functional Android app built entirely with Kotlin and Jetpack Compose |
+| [atom](https://github.com/atom/atom) | The hackable text editor |
+| [dalle-playground](https://github.com/saharmor/dalle-playground) | A playground to generate images from any text prompt based on OpenAI's DALL-E https://openai.com/blog/dall-e/ |
 | [dalle-mini](https://github.com/borisdayma/dalle-mini) | DALL·E Mini - Generate images from a text prompt |
-| [source-code-hunter](https://github.com/doocs/source-code-hunter) | 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等 |
-| [Cloud-DevOps-Learning-Resources](https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources) | This repo includes Books and imp notes related to GCP, Azure, AWS, Docker, K8s, and DevOps. More, exam and interview prep notes. |
-| [introduction-to-github](https://github.com/skills/introduction-to-github) | Get started using GitHub in less than an hour. |
-| [payload](https://github.com/payloadcms/payload) | Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB |
-| [dot](https://github.com/sensity-ai/dot) | The Deepfake Offensive Toolkit |
-| [onnxruntime](https://github.com/microsoft/onnxruntime) | ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator |
-| [realworld](https://github.com/gothinkster/realworld) | "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 |
+| [DALL-E](https://github.com/openai/DALL-E) | PyTorch package for the discrete VAE used for DALL·E. |
+| [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) | 10 Weeks, 20 Lessons, Data Science for All! |
+| [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all |
+| [papers-we-love](https://github.com/papers-we-love/papers-we-love) | Papers from the computer science community to read and discuss. |
+| [Hyprland](https://github.com/vaxerski/Hyprland) | Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks. |
+| [eg3d](https://github.com/NVlabs/eg3d) | None |
+| [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
