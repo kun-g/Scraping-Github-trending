@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [atom](https://github.com/atom/atom) | The hackable text editor |
-| [dalle-playground](https://github.com/saharmor/dalle-playground) | A playground to generate images from any text prompt based on OpenAI's DALL-E https://openai.com/blog/dall-e/ |
 | [dalle-mini](https://github.com/borisdayma/dalle-mini) | DALL·E Mini - Generate images from a text prompt |
+| [leetcode-master](https://github.com/youngyangyang04/leetcode-master) | 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀 |
 | [DALL-E](https://github.com/openai/DALL-E) | PyTorch package for the discrete VAE used for DALL·E. |
-| [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) | 10 Weeks, 20 Lessons, Data Science for All! |
-| [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all |
-| [papers-we-love](https://github.com/papers-we-love/papers-we-love) | Papers from the computer science community to read and discuss. |
-| [Hyprland](https://github.com/vaxerski/Hyprland) | Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks. |
-| [eg3d](https://github.com/NVlabs/eg3d) | None |
-| [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
+| [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) | ⚙️ NGINX config generator on steroids 💉 |
+| [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) | A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app |
+| [kratos](https://github.com/ory/kratos) | Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service. |
+| [dalle-playground](https://github.com/saharmor/dalle-playground) | A playground to generate images from any text prompt using DALL-E Mini and based on OpenAI's DALL-E https://openai.com/blog/dall-e/ |
+| [atom](https://github.com/atom/atom) | The hackable text editor |
+| [tensorflow](https://github.com/tensorflow/tensorflow) | An Open Source Machine Learning Framework for Everyone |
+| [computer-science](https://github.com/ossu/computer-science) | 🎓 Path to a free self-taught education in Computer Science! |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
