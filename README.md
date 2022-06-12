@@ -25,16 +25,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) | 30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take more than 100… |
-| [copilot-docs](https://github.com/github/copilot-docs) | Documentation for GitHub Copilot |
-| [lens](https://github.com/lensapp/lens) | Lens - The way the world runs Kubernetes |
-| [imagen-pytorch](https://github.com/lucidrains/imagen-pytorch) | Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch |
-| [helix](https://github.com/helix-editor/helix) | A post-modern modal text editor. |
-| [payload](https://github.com/payloadcms/payload) | Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB |
-| [DeepFaceLive](https://github.com/iperov/DeepFaceLive) | Real-time face swap for PC streaming or video calls |
-| [iina](https://github.com/iina/iina) | The modern video player for macOS. |
+| [dalle-mini](https://github.com/borisdayma/dalle-mini) | DALL·E Mini - Generate images from a text prompt |
 | [50projects50days](https://github.com/bradtraversy/50projects50days) | 50+ mini web projects using HTML, CSS & JS |
-| [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) | 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace. |
+| [MarkovJunior](https://github.com/mxgmn/MarkovJunior) | Probabilistic PL based on pattern matching and constraint propagation, 148 examples |
+| [RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) | Create Reddit Videos with just✨ one command ✨ |
+| [DeepFaceLive](https://github.com/iperov/DeepFaceLive) | Real-time face swap for PC streaming or video calls |
+| [DALL-E](https://github.com/openai/DALL-E) | PyTorch package for the discrete VAE used for DALL·E. |
+| [dalle-flow](https://github.com/jina-ai/dalle-flow) | A Human-in-the-Loop workflow for creating HD images from text |
+| [kratos](https://github.com/ory/kratos) | Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service. |
+| [AstroNvim](https://github.com/AstroNvim/AstroNvim) | AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins |
+| [lo](https://github.com/samber/lo) | 💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...) |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
