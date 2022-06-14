@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [dalle-mini](https://github.com/borisdayma/dalle-mini) | DALL·E Mini - Generate images from a text prompt |
-| [atom](https://github.com/atom/atom) | The hackable text editor |
-| [eg3d](https://github.com/NVlabs/eg3d) | None |
-| [DALL-E](https://github.com/openai/DALL-E) | PyTorch package for the discrete VAE used for DALL·E. |
-| [dalle-playground](https://github.com/saharmor/dalle-playground) | A playground to generate images from any text prompt using DALL-E Mini and based on OpenAI's DALL-E https://openai.com/blog/dall-e/ |
-| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
-| [leetcode-master](https://github.com/youngyangyang04/leetcode-master) | 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀 |
 | [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) | ⚙️ NGINX config generator on steroids 💉 |
-| [imagen-pytorch](https://github.com/lucidrains/imagen-pytorch) | Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch |
+| [core](https://github.com/home-assistant/core) | 🏡 Open source home automation that puts local control and privacy first. |
+| [dalle-mini](https://github.com/borisdayma/dalle-mini) | DALL·E Mini - Generate images from a text prompt |
+| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
+| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
+| [pingu](https://github.com/sheepla/pingu) | 🐧ping command but with pingu |
+| [project_fitness_app](https://github.com/adrianhajdin/project_fitness_app) | None |
+| [iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world |
 | [computer-science](https://github.com/ossu/computer-science) | 🎓 Path to a free self-taught education in Computer Science! |
+| [collaboration](https://github.com/TBD54566975/collaboration) | "Collaboration" - a word we made up which combines "Collaboration" and "Innovation". |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
