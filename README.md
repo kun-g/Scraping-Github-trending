@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) | ⚙️ NGINX config generator on steroids 💉 |
-| [core](https://github.com/home-assistant/core) | 🏡 Open source home automation that puts local control and privacy first. |
-| [dalle-mini](https://github.com/borisdayma/dalle-mini) | DALL·E Mini - Generate images from a text prompt |
-| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
+| [siyuan](https://github.com/siyuan-note/siyuan) | 📕 SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG. 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。Roadmap https://github.com/orgs/siyuan-note/projects/1 |
+| [svg-spinners](https://github.com/n3r4zzurr0/svg-spinners) | A collection of 24 x 24 dp SVG spinners! |
 | [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
-| [pingu](https://github.com/sheepla/pingu) | 🐧ping command but with pingu |
-| [project_fitness_app](https://github.com/adrianhajdin/project_fitness_app) | None |
-| [iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world |
-| [computer-science](https://github.com/ossu/computer-science) | 🎓 Path to a free self-taught education in Computer Science! |
-| [collaboration](https://github.com/TBD54566975/collaboration) | "Collaboration" - a word we made up which combines "Collaboration" and "Innovation". |
+| [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) | 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub. |
+| [Lorien](https://github.com/mbrlabs/Lorien) | Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot. |
+| [go-micro](https://github.com/asim/go-micro) | A Go microservices framework |
+| [leetcode-master](https://github.com/youngyangyang04/leetcode-master) | 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀 |
+| [100knocks-preprocess](https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess) | データサイエンス100本ノック（構造化データ加工編） |
+| [nest](https://github.com/nestjs/nest) | A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀 |
+| [redis](https://github.com/redis/redis) | Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
