@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [siyuan](https://github.com/siyuan-note/siyuan) | 📕 SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG. 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。Roadmap https://github.com/orgs/siyuan-note/projects/1 |
-| [svg-spinners](https://github.com/n3r4zzurr0/svg-spinners) | A collection of 24 x 24 dp SVG spinners! |
+| [pokete](https://github.com/lxgr-linux/pokete) | A terminal based Pokemon like game |
+| [ceresdb](https://github.com/CeresDB/ceresdb) | CeresDB is a high-performance, distributed, schema-less, cloud native time-series database that can handle both time-series and analytics workloads. |
+| [pingu](https://github.com/sheepla/pingu) | 🐧ping command but with pingu |
+| [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) | 程序员延寿指南 | A programmer's guide to live longer |
 | [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
-| [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) | 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub. |
-| [Lorien](https://github.com/mbrlabs/Lorien) | Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot. |
-| [go-micro](https://github.com/asim/go-micro) | A Go microservices framework |
-| [leetcode-master](https://github.com/youngyangyang04/leetcode-master) | 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀 |
-| [100knocks-preprocess](https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess) | データサイエンス100本ノック（構造化データ加工編） |
-| [nest](https://github.com/nestjs/nest) | A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀 |
-| [redis](https://github.com/redis/redis) | Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps. |
+| [BEVFormer](https://github.com/zhiqi-li/BEVFormer) | This is the official implementation of BEVFormer, a camera-only framework for autonomous driving perception, e.g., 3D object detection and semantic map segmentation. |
+| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
+| [svg-spinners](https://github.com/n3r4zzurr0/svg-spinners) | A collection of 24 x 24 dp SVG spinners! |
+| [t3](https://github.com/still-scene/t3) | A new tooll implementation with Dear ImGUI |
+| [raft](https://github.com/hashicorp/raft) | Golang implementation of the Raft consensus protocol |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
