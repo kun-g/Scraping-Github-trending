@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [pokete](https://github.com/lxgr-linux/pokete) | A terminal based Pokemon like game |
+| [oncall](https://github.com/grafana/oncall) | Developer-friendly incident response with brilliant Slack integration |
+| [ai-audio-startups](https://github.com/csteinmetz1/ai-audio-startups) | Community list of startups working with AI in audio and music technology |
+| [fresh](https://github.com/lucacasonato/fresh) | Preact, but super edgy |
 | [ceresdb](https://github.com/CeresDB/ceresdb) | CeresDB is a high-performance, distributed, schema-less, cloud native time-series database that can handle both time-series and analytics workloads. |
-| [pingu](https://github.com/sheepla/pingu) | 🐧ping command but with pingu |
 | [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) | 程序员延寿指南 | A programmer's guide to live longer |
-| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
-| [BEVFormer](https://github.com/zhiqi-li/BEVFormer) | This is the official implementation of BEVFormer, a camera-only framework for autonomous driving perception, e.g., 3D object detection and semantic map segmentation. |
-| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
-| [svg-spinners](https://github.com/n3r4zzurr0/svg-spinners) | A collection of 24 x 24 dp SVG spinners! |
-| [t3](https://github.com/still-scene/t3) | A new tooll implementation with Dear ImGUI |
-| [raft](https://github.com/hashicorp/raft) | Golang implementation of the Raft consensus protocol |
+| [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) | 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub. |
+| [pokete](https://github.com/lxgr-linux/pokete) | A terminal based Pokemon like game |
+| [spring-cloud-tencent](https://github.com/Tencent/spring-cloud-tencent) | Spring Cloud Tencent is a Spring Boot based Service Governance Framework provided by Tencent, including service discovery, traffic control, circuitbreak, ratelimit, config and so on. |
+| [eui](https://github.com/elastic/eui) | Elastic UI Framework 🙌 |
+| [seaport](https://github.com/ProjectOpenSea/seaport) | Seaport is a marketplace protocol for safely and efficiently buying and selling NFTs. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
