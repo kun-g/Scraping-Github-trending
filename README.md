@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [oncall](https://github.com/grafana/oncall) | Developer-friendly incident response with brilliant Slack integration |
-| [ai-audio-startups](https://github.com/csteinmetz1/ai-audio-startups) | Community list of startups working with AI in audio and music technology |
-| [fresh](https://github.com/lucacasonato/fresh) | Preact, but super edgy |
-| [ceresdb](https://github.com/CeresDB/ceresdb) | CeresDB is a high-performance, distributed, schema-less, cloud native time-series database that can handle both time-series and analytics workloads. |
-| [HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) | 程序员延寿指南 | A programmer's guide to live longer |
-| [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) | 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub. |
+| [tauri](https://github.com/tauri-apps/tauri) | Build smaller, faster, and more secure desktop applications with a web frontend. |
+| [bulletproof-react](https://github.com/alan2207/bulletproof-react) | 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications. |
 | [pokete](https://github.com/lxgr-linux/pokete) | A terminal based Pokemon like game |
-| [spring-cloud-tencent](https://github.com/Tencent/spring-cloud-tencent) | Spring Cloud Tencent is a Spring Boot based Service Governance Framework provided by Tencent, including service discovery, traffic control, circuitbreak, ratelimit, config and so on. |
 | [eui](https://github.com/elastic/eui) | Elastic UI Framework 🙌 |
-| [seaport](https://github.com/ProjectOpenSea/seaport) | Seaport is a marketplace protocol for safely and efficiently buying and selling NFTs. |
+| [interview-questions](https://github.com/YauhenKavalchuk/interview-questions) | Коллекция вопросов и ответов на собеседовании по веб-разработке (https://tinyurl.com/wxysrpsy) |
+| [coder-kung-fu](https://github.com/yanfeizhang/coder-kung-fu) | 开发内功修炼 |
+| [CogView2](https://github.com/THUDM/CogView2) | official code repo for paper "CogView2: Faster and Better Text-to-Image Generation via Hierarchical Transformers" |
+| [clap](https://github.com/free-audio/clap) | Audio Plugin API |
+| [PaddleClas](https://github.com/PaddlePaddle/PaddleClas) | A treasure chest for visual recognition powered by PaddlePaddle |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
