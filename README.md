@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [oncall](https://github.com/grafana/oncall) | Developer-friendly incident response with brilliant Slack integration |
-| [tauri](https://github.com/tauri-apps/tauri) | Build smaller, faster, and more secure desktop applications with a web frontend. |
-| [bulletproof-react](https://github.com/alan2207/bulletproof-react) | 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications. |
-| [pokete](https://github.com/lxgr-linux/pokete) | A terminal based Pokemon like game |
-| [eui](https://github.com/elastic/eui) | Elastic UI Framework 🙌 |
-| [interview-questions](https://github.com/YauhenKavalchuk/interview-questions) | Коллекция вопросов и ответов на собеседовании по веб-разработке (https://tinyurl.com/wxysrpsy) |
-| [coder-kung-fu](https://github.com/yanfeizhang/coder-kung-fu) | 开发内功修炼 |
-| [CogView2](https://github.com/THUDM/CogView2) | official code repo for paper "CogView2: Faster and Better Text-to-Image Generation via Hierarchical Transformers" |
+| [jak-project](https://github.com/open-goal/jak-project) | Reviving the language that brought us the Jak & Daxter Series |
+| [ToolJet](https://github.com/ToolJet/ToolJet) | Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀 |
+| [spacedrive](https://github.com/spacedriveapp/spacedrive) | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. |
 | [clap](https://github.com/free-audio/clap) | Audio Plugin API |
-| [PaddleClas](https://github.com/PaddlePaddle/PaddleClas) | A treasure chest for visual recognition powered by PaddlePaddle |
+| [Baileys](https://github.com/adiwajshing/Baileys) | Lightweight full-featured WhatsApp Web + Multi-Device API |
+| [rustdesk](https://github.com/rustdesk/rustdesk) | Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices. |
+| [mdserver-web](https://github.com/midoks/mdserver-web) | Simple Linux Panel |
+| [Grasscutter](https://github.com/Grasscutters/Grasscutter) | A server software reimplementation for a certain anime game. |
+| [tauri](https://github.com/tauri-apps/tauri) | Build smaller, faster, and more secure desktop applications with a web frontend. |
+| [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10

@@ -1,0 +1,290 @@
+[
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/11875",
+        "name": "Earle F. Philhower, III",
+        "repo": {
+            "description": "Raspberry Pi Pico Arduino core, for all RP2040 boards",
+            "name": "arduino-pico",
+            "url": "https://github.com/earlephilhower/arduino-pico"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/earlephilhower",
+        "username": "earlephilhower"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/750276",
+        "name": "Raine Revere",
+        "repo": {
+            "description": "Find newer versions of package dependencies than what your package.json allows",
+            "name": "npm-check-updates",
+            "url": "https://github.com/raineorshine/npm-check-updates"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/raineorshine",
+        "username": "raineorshine"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1609021",
+        "name": "David Sherret",
+        "repo": {
+            "description": "TypeScript Compiler API wrapper for static analysis and programmatic code changes.",
+            "name": "ts-morph",
+            "url": "https://github.com/dsherret/ts-morph"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/dsherret",
+        "username": "dsherret"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/11698668",
+        "name": "Logan McAnsh",
+        "repo": {
+            "description": "show off your sneaker collection",
+            "name": "snkrs",
+            "url": "https://github.com/mcansh/snkrs"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/mcansh",
+        "username": "mcansh"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1357927",
+        "name": "Maciej Walkowiak",
+        "repo": {
+            "description": "Sample OCR application build on the top of Spring Boot, Spring Cloud AWS and AWS Textract",
+            "name": "spring-cloud-aws-textract-ocr-sample",
+            "url": "https://github.com/maciejwalkowiak/spring-cloud-aws-textract-ocr-sample"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/maciejwalkowiak",
+        "username": "maciejwalkowiak"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/4977197",
+        "name": "Geoff Boeing",
+        "repo": {
+            "description": "OSMnx: Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.",
+            "name": "osmnx",
+            "url": "https://github.com/gboeing/osmnx"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/gboeing",
+        "username": "gboeing"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2211051",
+        "name": "Hari Sekhon",
+        "repo": {
+            "description": "750+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHu\u2026",
+            "name": "DevOps-Bash-tools",
+            "url": "https://github.com/HariSekhon/DevOps-Bash-tools"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/HariSekhon",
+        "username": "HariSekhon"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/240448",
+        "name": "Abiola Ibrahim",
+        "repo": {
+            "description": "Container runtimes on macOS (and Linux) with minimal setup",
+            "name": "colima",
+            "url": "https://github.com/abiosoft/colima"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/abiosoft",
+        "username": "abiosoft"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/27354907",
+        "name": "Shahed Nasser",
+        "repo": {
+            "description": "\ud83d\ude0e List of helpful resources added by the community for the community!",
+            "name": "awesome-resources",
+            "url": "https://github.com/shahednasser/awesome-resources"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/shahednasser",
+        "username": "shahednasser"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1096616",
+        "name": "Matthew Leibowitz",
+        "repo": {
+            "description": "Just a quick .NET MAUI sample showing some initial Lottie playback.",
+            "name": "SkiaSharpLottieSample",
+            "url": "https://github.com/mattleibow/SkiaSharpLottieSample"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/mattleibow",
+        "username": "mattleibow"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1820165",
+        "name": "Aidan Follestad",
+        "repo": {
+            "description": "\ud83d\ude0d A beautiful, fluid, and extensible dialogs API for Kotlin & Android.",
+            "name": "material-dialogs",
+            "url": "https://github.com/afollestad/material-dialogs"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/afollestad",
+        "username": "afollestad"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/35742643",
+        "name": "Jonny Borges",
+        "repo": {
+            "description": "Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get.",
+            "name": "getx",
+            "url": "https://github.com/jonataslaw/getx"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/jonataslaw",
+        "username": "jonataslaw"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/216089",
+        "name": "Olivier Halligon",
+        "repo": {
+            "description": "A Swift mixin for reusing views easily and in a type-safe way (UITableViewCells, UICollectionViewCells, custom UIViews, ViewControllers, \u2026",
+            "name": "Reusable",
+            "url": "https://github.com/AliSoftware/Reusable"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/AliSoftware",
+        "username": "AliSoftware"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/52673",
+        "name": "Marko Mikulicic",
+        "repo": {
+            "description": "Clojure IDE for the Acme text editor",
+            "name": "acmeclj",
+            "url": "https://github.com/mkmik/acmeclj"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/mkmik",
+        "username": "mkmik"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/174761",
+        "name": "Jeremy Ruston",
+        "repo": {
+            "description": "A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.",
+            "name": "TiddlyWiki5",
+            "url": "https://github.com/Jermolene/TiddlyWiki5"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/Jermolene",
+        "username": "Jermolene"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/5663952",
+        "name": "Klaus Post",
+        "repo": {
+            "description": "Optimized Go Compression Packages",
+            "name": "compress",
+            "url": "https://github.com/klauspost/compress"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/klauspost",
+        "username": "klauspost"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/136479",
+        "name": "Michael Hanke",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/mih",
+        "username": "mih"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/73870",
+        "name": "Paul Beusterien",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/paulb777",
+        "username": "paulb777"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/103941",
+        "name": "Brent Shaffer",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/bshaffer",
+        "username": "bshaffer"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/34196005",
+        "name": "fatih",
+        "repo": {
+            "description": "Packaged, Pytorch-based, easy to use, cross-platform version of the CRAFT text detector",
+            "name": "craft-text-detector",
+            "url": "https://github.com/fcakyon/craft-text-detector"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/fcakyon",
+        "username": "fcakyon"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/633843",
+        "name": "Jaime Pillora",
+        "repo": {
+            "description": "A fast TCP/UDP tunnel over HTTP",
+            "name": "chisel",
+            "url": "https://github.com/jpillora/chisel"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/jpillora",
+        "username": "jpillora"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/31920396",
+        "name": "Pavel Iakubovskii",
+        "repo": {
+            "description": "Segmentation models with pretrained backbones. PyTorch.",
+            "name": "segmentation_models.pytorch",
+            "url": "https://github.com/qubvel/segmentation_models.pytorch"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/qubvel",
+        "username": "qubvel"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1478487",
+        "name": "Marten Seemann",
+        "repo": {
+            "description": "WebTransport implementation based on quic-go (https://datatracker.ietf.org/doc/draft-ietf-webtrans-http3/)",
+            "name": "webtransport-go",
+            "url": "https://github.com/marten-seemann/webtransport-go"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/marten-seemann",
+        "username": "marten-seemann"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/6355099",
+        "name": "Horace He",
+        "repo": {
+            "description": "Udacity CS344 Introduction to Parallell Programming (https://classroom.udacity.com/courses/cs344), with assignments/materials updated to \u2026",
+            "name": "CS344_2021",
+            "url": "https://github.com/Chillee/CS344_2021"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/Chillee",
+        "username": "Chillee"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2253692",
+        "name": "Teppei Fukuda",
+        "repo": {
+            "description": "Simple command-line snippet manager, written in Go.",
+            "name": "pet",
+            "url": "https://github.com/knqyf263/pet"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/knqyf263",
+        "username": "knqyf263"
+    }
+]
