@@ -1,0 +1,294 @@
+[
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/21025159",
+        "name": "Joel",
+        "repo": {
+            "description": "Blazing fast concurrent HashMap for Rust.",
+            "name": "dashmap",
+            "url": "https://github.com/xacrimon/dashmap"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/xacrimon",
+        "username": "xacrimon"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1148717",
+        "name": "Emil Ernerfeldt",
+        "repo": {
+            "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
+            "name": "egui",
+            "url": "https://github.com/emilk/egui"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/emilk",
+        "username": "emilk"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/130929",
+        "name": "Henrik Rydg\u00e5rd",
+        "repo": {
+            "description": "A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD \u2026",
+            "name": "ppsspp",
+            "url": "https://github.com/hrydgard/ppsspp"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/hrydgard",
+        "username": "hrydgard"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/5663952",
+        "name": "Klaus Post",
+        "repo": {
+            "description": "Optimized Go Compression Packages",
+            "name": "compress",
+            "url": "https://github.com/klauspost/compress"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/klauspost",
+        "username": "klauspost"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/290976",
+        "name": "Vladimir Mihailenco",
+        "repo": {
+            "description": "Golang asynchronous task/job queue with Redis, SQS, IronMQ, and in-memory backends",
+            "name": "taskq",
+            "url": "https://github.com/vmihailenco/taskq"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/vmihailenco",
+        "username": "vmihailenco"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/8603085",
+        "name": "Hung Viet Nguyen",
+        "repo": {
+            "description": "Debug your Jest tests. Effortlessly.\ud83d\udee0\ud83d\uddbc",
+            "name": "jest-preview",
+            "url": "https://github.com/nvh95/jest-preview"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/nvh95",
+        "username": "nvh95"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/6986166",
+        "name": "Simon Basl\u00e9",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/simonbasle",
+        "username": "simonbasle"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/7413593",
+        "name": "Ariel Mashraki",
+        "repo": {
+            "description": "An overview of Go syntax and features.",
+            "name": "golang-cheat-sheet",
+            "url": "https://github.com/a8m/golang-cheat-sheet"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/a8m",
+        "username": "a8m"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/7054676",
+        "name": "Manjusaka",
+        "repo": {
+            "description": "\u20bf A guide (for humans!) to cryto-currencies and their algos.",
+            "name": "awesome-coins",
+            "url": "https://github.com/Zheaoli/awesome-coins"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/Zheaoli",
+        "username": "Zheaoli"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1478487",
+        "name": "Marten Seemann",
+        "repo": {
+            "description": "WebTransport implementation based on quic-go (https://datatracker.ietf.org/doc/draft-ietf-webtrans-http3/)",
+            "name": "webtransport-go",
+            "url": "https://github.com/marten-seemann/webtransport-go"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/marten-seemann",
+        "username": "marten-seemann"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/665810",
+        "name": "Alex Potsides",
+        "repo": {
+            "description": "A collection of utilities for making working with iterables more bearable",
+            "name": "it",
+            "url": "https://github.com/achingbrain/it"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/achingbrain",
+        "username": "achingbrain"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/6212603",
+        "name": "Asif Saif Uddin",
+        "repo": {
+            "description": "Django ORM built on top of SQLalchemy core 2.0 for seamless integration of SQLAlchemy with Django 4.1+ PostgreSQL 14+ only for now. [pre \u2026",
+            "name": "django-sqlalchemy",
+            "url": "https://github.com/auvipy/django-sqlalchemy"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/auvipy",
+        "username": "auvipy"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/20484159",
+        "name": "Lucas Serv\u00e9n Mar\u00edn",
+        "repo": {
+            "description": "Kilo is a multi-cloud network overlay built on WireGuard and designed for Kubernetes (k8s + wg = kg)",
+            "name": "kilo",
+            "url": "https://github.com/squat/kilo"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/squat",
+        "username": "squat"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/750276",
+        "name": "Raine Revere",
+        "repo": {
+            "description": "Find newer versions of package dependencies than what your package.json allows",
+            "name": "npm-check-updates",
+            "url": "https://github.com/raineorshine/npm-check-updates"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/raineorshine",
+        "username": "raineorshine"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/9113740",
+        "name": "Lee Robinson",
+        "repo": {
+            "description": "\u2728 My portfolio built with Next.js, Tailwind, Prisma, and Vercel.",
+            "name": "leerob.io",
+            "url": "https://github.com/leerob/leerob.io"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/leerob",
+        "username": "leerob"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/67496",
+        "name": "Josh Bleecher Snyder",
+        "repo": {
+            "description": "impl generates method stubs for implementing an interface.",
+            "name": "impl",
+            "url": "https://github.com/josharian/impl"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/josharian",
+        "username": "josharian"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1158253",
+        "name": "M\u00e1ximo Mussini",
+        "repo": {
+            "description": "\u26a1\ufe0f Vite.js in Ruby, bringing joy to your JavaScript experience",
+            "name": "vite_ruby",
+            "url": "https://github.com/ElMassimo/vite_ruby"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/ElMassimo",
+        "username": "ElMassimo"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/20051258",
+        "name": "Lucas Fernandes Nogueira",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/lucasfernog",
+        "username": "lucasfernog"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/75337",
+        "name": "Ben Vanik",
+        "repo": {
+            "description": "An advanced WebGL debugging toolkit",
+            "name": "WebGL-Inspector",
+            "url": "https://github.com/benvanik/WebGL-Inspector"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/benvanik",
+        "username": "benvanik"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/316371",
+        "name": "Liran Tal",
+        "repo": {
+            "description": "The largest Node.js CLI Apps best practices list \u2728",
+            "name": "nodejs-cli-apps-best-practices",
+            "url": "https://github.com/lirantal/nodejs-cli-apps-best-practices"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/lirantal",
+        "username": "lirantal"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1424596",
+        "name": "Mick Vleeshouwer",
+        "repo": {
+            "description": "Nest Protect integration for Home Assistant. This will allow you to integrate your smoke, heat, co and occupancy status real-time in HA.",
+            "name": "ha-nest-protect",
+            "url": "https://github.com/iMicknl/ha-nest-protect"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/iMicknl",
+        "username": "iMicknl"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1288904",
+        "name": "Philip Rideout",
+        "repo": {
+            "description": "generate 3D wireframes as vector art",
+            "name": "svg3d",
+            "url": "https://github.com/prideout/svg3d"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/prideout",
+        "username": "prideout"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/283842",
+        "name": "Nolan Lawson",
+        "repo": {
+            "description": "A tool for finding memory leaks in web apps",
+            "name": "fuite",
+            "url": "https://github.com/nolanlawson/fuite"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/nolanlawson",
+        "username": "nolanlawson"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/308610",
+        "name": "Jason R. Coombs",
+        "repo": {
+            "description": "Correctly generate plurals, ordinals, indefinite articles; convert numbers to words",
+            "name": "inflect",
+            "url": "https://github.com/jaraco/inflect"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/jaraco",
+        "username": "jaraco"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1699414",
+        "name": "Andre Weissflog",
+        "repo": {
+            "description": "minimal cross-platform standalone C headers",
+            "name": "sokol",
+            "url": "https://github.com/floooh/sokol"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/floooh",
+        "username": "floooh"
+    }
+]
