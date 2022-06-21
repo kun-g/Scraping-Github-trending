@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [ante](https://github.com/jfecher/ante) | A safe, easy systems language |
-| [spacedrive](https://github.com/spacedriveapp/spacedrive) | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. |
-| [ToolJet](https://github.com/ToolJet/ToolJet) | Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀 |
-| [v2ray-core](https://github.com/v2fly/v2ray-core) | A platform for building proxies to bypass network restrictions. |
-| [foundry](https://github.com/foundry-rs/foundry) | Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust. |
-| [fyne](https://github.com/fyne-io/fyne) | Cross platform GUI in Go inspired by Material Design |
-| [bitcoin](https://github.com/bitcoin/bitcoin) | Bitcoin Core integration/staging tree |
-| [tauri](https://github.com/tauri-apps/tauri) | Build smaller, faster, and more secure desktop applications with a web frontend. |
+| [Telegram-X](https://github.com/TGX-Android/Telegram-X) | The main repository of Telegram X — official alternative Telegram client for Android. Check out the $25,000 contest in the pinned issue. |
 | [RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) | Create Reddit Videos with just✨ one command ✨ |
-| [clap](https://github.com/free-audio/clap) | Audio Plugin API |
+| [ToolJet](https://github.com/ToolJet/ToolJet) | Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀 |
+| [spacedrive](https://github.com/spacedriveapp/spacedrive) | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. |
+| [jak-project](https://github.com/open-goal/jak-project) | Reviving the language that brought us the Jak & Daxter Series |
+| [revanced-patches](https://github.com/revanced/revanced-patches) | 🧩 Official patches maintained by ReVanced |
+| [HowToCook](https://github.com/Anduin2017/HowToCook) | 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only). |
+| [readyset](https://github.com/readysettech/readyset) | ReadySet is a lightweight SQL caching engine written in Rust that helps developers enhance the performance and scalability of existing applications. |
+| [nvim-basic-ide](https://github.com/LunarVim/nvim-basic-ide) | This is my attempt at a basic stable starting point for a Neovim IDE. |
+| [ante](https://github.com/jfecher/ante) | A safe, easy systems language |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
