@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [Telegram-X](https://github.com/TGX-Android/Telegram-X) | The main repository of Telegram X — official alternative Telegram client for Android. Check out the $25,000 contest in the pinned issue. |
-| [RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) | Create Reddit Videos with just✨ one command ✨ |
+| [dooit](https://github.com/kraanzu/dooit) | A TUI todo manager |
+| [a-picture-is-worth-a-1000-words](https://github.com/girliemac/a-picture-is-worth-a-1000-words) | I am trying to describe complex matters in simple doodles! |
+| [IOC-golang](https://github.com/alibaba/IOC-golang) | 一款服务于 Go 开发者的依赖注入框架，方便搭建任何 Go 应用。 A Golang depenedency injection framework, helps developers to build any go application. |
 | [ToolJet](https://github.com/ToolJet/ToolJet) | Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀 |
-| [spacedrive](https://github.com/spacedriveapp/spacedrive) | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. |
-| [jak-project](https://github.com/open-goal/jak-project) | Reviving the language that brought us the Jak & Daxter Series |
-| [revanced-patches](https://github.com/revanced/revanced-patches) | 🧩 Official patches maintained by ReVanced |
-| [HowToCook](https://github.com/Anduin2017/HowToCook) | 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only). |
-| [readyset](https://github.com/readysettech/readyset) | ReadySet is a lightweight SQL caching engine written in Rust that helps developers enhance the performance and scalability of existing applications. |
-| [nvim-basic-ide](https://github.com/LunarVim/nvim-basic-ide) | This is my attempt at a basic stable starting point for a Neovim IDE. |
 | [ante](https://github.com/jfecher/ante) | A safe, easy systems language |
+| [nvim-basic-ide](https://github.com/LunarVim/nvim-basic-ide) | This is my attempt at a basic stable starting point for a Neovim IDE. |
+| [hardhat](https://github.com/NomicFoundation/hardhat) | Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. Get Solidity stack traces & console.log. |
+| [AllAboutBugBounty](https://github.com/daffainfo/AllAboutBugBounty) | All about bug bounty (bypasses, payloads, and etc) |
+| [spacedrive](https://github.com/spacedriveapp/spacedrive) | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. |
+| [bolt](https://github.com/dblalock/bolt) | 10x faster matrix and vector operations |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
