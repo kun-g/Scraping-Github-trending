@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [dooit](https://github.com/kraanzu/dooit) | A TUI todo manager |
+| [diagrams](https://github.com/mingrammer/diagrams) | 🎨 Diagram as Code for prototyping cloud system architectures |
+| [nomad](https://github.com/hashicorp/nomad) | Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. |
+| [lexical](https://github.com/facebook/lexical) | Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance. |
 | [a-picture-is-worth-a-1000-words](https://github.com/girliemac/a-picture-is-worth-a-1000-words) | I am trying to describe complex matters in simple doodles! |
-| [IOC-golang](https://github.com/alibaba/IOC-golang) | 一款服务于 Go 开发者的依赖注入框架，方便搭建任何 Go 应用。 A Golang depenedency injection framework, helps developers to build any go application. |
-| [ToolJet](https://github.com/ToolJet/ToolJet) | Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀 |
-| [ante](https://github.com/jfecher/ante) | A safe, easy systems language |
-| [nvim-basic-ide](https://github.com/LunarVim/nvim-basic-ide) | This is my attempt at a basic stable starting point for a Neovim IDE. |
-| [hardhat](https://github.com/NomicFoundation/hardhat) | Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. Get Solidity stack traces & console.log. |
-| [AllAboutBugBounty](https://github.com/daffainfo/AllAboutBugBounty) | All about bug bounty (bypasses, payloads, and etc) |
-| [spacedrive](https://github.com/spacedriveapp/spacedrive) | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. |
-| [bolt](https://github.com/dblalock/bolt) | 10x faster matrix and vector operations |
+| [FSCalendar](https://github.com/WenchaoD/FSCalendar) | A fully customizable iOS calendar library, compatible with Objective-C and Swift |
+| [prefect](https://github.com/PrefectHQ/prefect) | The easiest way to automate your data |
+| [Polyformer](https://github.com/Reiten966/Polyformer) | Polyformer is an open-source project that aims to recycle plastics into FDM filaments |
+| [hcl](https://github.com/hashicorp/hcl) | HCL is the HashiCorp configuration language. |
+| [Summer2023-Internships](https://github.com/pittcsc/Summer2023-Internships) | Collection of Summer 2023 tech internships! |
+| [SOC-Analyst-Diploma](https://github.com/Technawi/SOC-Analyst-Diploma) | None |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
