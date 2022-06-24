@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [diagrams](https://github.com/mingrammer/diagrams) | 🎨 Diagram as Code for prototyping cloud system architectures |
 | [nomad](https://github.com/hashicorp/nomad) | Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. |
-| [lexical](https://github.com/facebook/lexical) | Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance. |
-| [a-picture-is-worth-a-1000-words](https://github.com/girliemac/a-picture-is-worth-a-1000-words) | I am trying to describe complex matters in simple doodles! |
-| [FSCalendar](https://github.com/WenchaoD/FSCalendar) | A fully customizable iOS calendar library, compatible with Objective-C and Swift |
-| [prefect](https://github.com/PrefectHQ/prefect) | The easiest way to automate your data |
-| [Polyformer](https://github.com/Reiten966/Polyformer) | Polyformer is an open-source project that aims to recycle plastics into FDM filaments |
-| [hcl](https://github.com/hashicorp/hcl) | HCL is the HashiCorp configuration language. |
-| [Summer2023-Internships](https://github.com/pittcsc/Summer2023-Internships) | Collection of Summer 2023 tech internships! |
-| [SOC-Analyst-Diploma](https://github.com/Technawi/SOC-Analyst-Diploma) | None |
+| [hertz](https://github.com/cloudwego/hertz) | A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices. |
+| [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) | The OpenAPI Specification Repository |
+| [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | List of Computer Science courses with video lectures. |
+| [diagrams](https://github.com/mingrammer/diagrams) | 🎨 Diagram as Code for prototyping cloud system architectures |
+| [composer](https://github.com/mosaicml/composer) | train neural networks up to 7x faster |
+| [3-weeks-Google-Prep](https://github.com/LeadCoding/3-weeks-Google-Prep) | None |
+| [firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) | Firebase iOS SDK |
+| [copilot-docs](https://github.com/github/copilot-docs) | Documentation for GitHub Copilot |
+| [dotfiles](https://github.com/rxyhn/dotfiles) | My awesomewm dotfiles for awesome people! ✨ |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
