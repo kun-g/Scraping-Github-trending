@@ -25,16 +25,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [dalle-mini](https://github.com/borisdayma/dalle-mini) | DALL·E Mini - Generate images from a text prompt |
-| [dalle-playground](https://github.com/saharmor/dalle-playground) | A playground to generate images from any text prompt using DALL-E Mini and based on OpenAI's DALL-E https://openai.com/blog/dall-e/ |
-| [DALL-E](https://github.com/openai/DALL-E) | PyTorch package for the discrete VAE used for DALL·E. |
-| [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) | ⚙️ NGINX config generator on steroids 💉 |
-| [bulletproof-react](https://github.com/alan2207/bulletproof-react) | 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications. |
-| [siyuan](https://github.com/siyuan-note/siyuan) | 📕 SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG. 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。Roadmap https://github.com/orgs/siyuan-note/projects/1 |
-| [Hyprland](https://github.com/vaxerski/Hyprland) | Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks. |
-| [jax](https://github.com/google/jax) | Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more |
-| [dalle-flow](https://github.com/jina-ai/dalle-flow) | A Human-in-the-Loop workflow for creating HD images from text |
-| [folly](https://github.com/facebook/folly) | An open-source C++ library developed and used at Facebook. |
+| [spring-cloud-tencent](https://github.com/Tencent/spring-cloud-tencent) | Spring Cloud Tencent is a Spring Boot based Service Governance Framework provided by Tencent, including service discovery, traffic control, circuitbreak, ratelimit, config and so on. |
+| [ToolJet](https://github.com/ToolJet/ToolJet) | Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀 |
+| [t3](https://github.com/still-scene/t3) | Tooll 3 is an open source software to create realtime motion graphics. |
+| [jak-project](https://github.com/open-goal/jak-project) | Reviving the language that brought us the Jak & Daxter Series |
+| [dotfiles](https://github.com/rxyhn/dotfiles) | My awesomewm dotfiles for awesome people! ✨ |
+| [spacedrive](https://github.com/spacedriveapp/spacedrive) | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. |
+| [ecapture](https://github.com/ehids/ecapture) | capture SSL/TLS text content without CA cert using eBPF. supports Linux x86_64/Aarch64, Android(GKI) Aarch64. |
+| [nomad](https://github.com/hashicorp/nomad) | Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. |
+| [qwik](https://github.com/BuilderIO/qwik) | The HTML-first framework. Initialize apps of any size with < 1kb JS |
+| [clap](https://github.com/free-audio/clap) | Audio Plugin API |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
