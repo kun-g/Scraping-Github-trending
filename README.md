@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [nomad](https://github.com/hashicorp/nomad) | Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. |
-| [hertz](https://github.com/cloudwego/hertz) | A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices. |
+| [TVBoxOSC](https://github.com/CatVodTVOfficial/TVBoxOSC) | None |
+| [dolt](https://github.com/dolthub/dolt) | Dolt – It's Git for Data |
+| [YOLOv6](https://github.com/meituan/YOLOv6) | YOLOv6: a single-stage object detection framework dedicated to industrial applications. |
+| [spring-cloud-tencent](https://github.com/Tencent/spring-cloud-tencent) | Spring Cloud Tencent is a Spring Boot based Service Governance Framework provided by Tencent, including service discovery, traffic control, circuitbreak, ratelimit, config and so on. |
+| [milvus](https://github.com/milvus-io/milvus) | Vector database for scalable similarity search and AI applications. |
 | [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) | The OpenAPI Specification Repository |
-| [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | List of Computer Science courses with video lectures. |
-| [diagrams](https://github.com/mingrammer/diagrams) | 🎨 Diagram as Code for prototyping cloud system architectures |
-| [composer](https://github.com/mosaicml/composer) | train neural networks up to 7x faster |
-| [3-weeks-Google-Prep](https://github.com/LeadCoding/3-weeks-Google-Prep) | None |
-| [firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) | Firebase iOS SDK |
-| [copilot-docs](https://github.com/github/copilot-docs) | Documentation for GitHub Copilot |
-| [dotfiles](https://github.com/rxyhn/dotfiles) | My awesomewm dotfiles for awesome people! ✨ |
+| [YaLM-100B](https://github.com/yandex/YaLM-100B) | Pretrained language model with 100B parameters |
+| [t3](https://github.com/still-scene/t3) | Tooll 3 is an open source software to create realtime motion graphics. |
+| [d3](https://github.com/d3/d3) | Bring data to life with SVG, Canvas and HTML. 📊📈🎉 |
+| [RFIA-bill](https://github.com/responsible-financial-innovation-act22/RFIA-bill) | None |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
