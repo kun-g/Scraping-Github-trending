@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [TVBoxOSC](https://github.com/CatVodTVOfficial/TVBoxOSC) | None |
-| [dolt](https://github.com/dolthub/dolt) | Dolt – It's Git for Data |
-| [YOLOv6](https://github.com/meituan/YOLOv6) | YOLOv6: a single-stage object detection framework dedicated to industrial applications. |
 | [spring-cloud-tencent](https://github.com/Tencent/spring-cloud-tencent) | Spring Cloud Tencent is a Spring Boot based Service Governance Framework provided by Tencent, including service discovery, traffic control, circuitbreak, ratelimit, config and so on. |
-| [milvus](https://github.com/milvus-io/milvus) | Vector database for scalable similarity search and AI applications. |
-| [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) | The OpenAPI Specification Repository |
-| [YaLM-100B](https://github.com/yandex/YaLM-100B) | Pretrained language model with 100B parameters |
-| [t3](https://github.com/still-scene/t3) | Tooll 3 is an open source software to create realtime motion graphics. |
-| [d3](https://github.com/d3/d3) | Bring data to life with SVG, Canvas and HTML. 📊📈🎉 |
-| [RFIA-bill](https://github.com/responsible-financial-innovation-act22/RFIA-bill) | None |
+| [TVBoxOSC](https://github.com/CatVodTVOfficial/TVBoxOSC) | None |
+| [YOLOv6](https://github.com/meituan/YOLOv6) | YOLOv6: a single-stage object detection framework dedicated to industrial applications. |
+| [android_builder](https://github.com/Wsine/android_builder) | None |
+| [freed](https://github.com/YuanHsing/freed) | None |
+| [cdk-bill-bot](https://github.com/cremich/cdk-bill-bot) | The serverless cost optimization bot |
+| [smartknob](https://github.com/scottbez1/smartknob) | Haptic input knob with software-defined endstops and virtual detents |
+| [toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) | To Be Top Javaer - Java工程师成神之路 |
+| [numpy-100](https://github.com/rougier/numpy-100) | 100 numpy exercises (with solutions) |
+| [ioredis](https://github.com/luin/ioredis) | 🚀 A robust, performance-focused, and full-featured Redis client for Node.js. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
