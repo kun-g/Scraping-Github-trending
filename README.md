@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [spring-cloud-tencent](https://github.com/Tencent/spring-cloud-tencent) | Spring Cloud Tencent is a Spring Boot based Service Governance Framework provided by Tencent, including service discovery, traffic control, circuitbreak, ratelimit, config and so on. |
-| [TVBoxOSC](https://github.com/CatVodTVOfficial/TVBoxOSC) | None |
+| [TVBoxOSC](https://github.com/CatVodTVOfficial/TVBoxOSC) | 开发阶段请不要提没有意义的PR，也不要用PR来提意见！ |
 | [YOLOv6](https://github.com/meituan/YOLOv6) | YOLOv6: a single-stage object detection framework dedicated to industrial applications. |
-| [android_builder](https://github.com/Wsine/android_builder) | None |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [gophish](https://github.com/gophish/gophish) | Open-Source Phishing Toolkit |
+| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
+| [python-patterns](https://github.com/faif/python-patterns) | A collection of design patterns/idioms in Python |
+| [xlite](https://github.com/x2bool/xlite) | SQLite extension to query Excel (.xlsx, .xls, .ods) files as virtual tables |
 | [freed](https://github.com/YuanHsing/freed) | None |
-| [cdk-bill-bot](https://github.com/cremich/cdk-bill-bot) | The serverless cost optimization bot |
-| [smartknob](https://github.com/scottbez1/smartknob) | Haptic input knob with software-defined endstops and virtual detents |
-| [toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) | To Be Top Javaer - Java工程师成神之路 |
-| [numpy-100](https://github.com/rougier/numpy-100) | 100 numpy exercises (with solutions) |
-| [ioredis](https://github.com/luin/ioredis) | 🚀 A robust, performance-focused, and full-featured Redis client for Node.js. |
+| [Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google) | 《Software Engineering at Google》的中文翻译版本 |
+| [devops-exercises](https://github.com/bregman-arie/devops-exercises) | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
