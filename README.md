@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [YOLOv6](https://github.com/meituan/YOLOv6) | YOLOv6: a single-stage object detection framework dedicated to industrial applications. |
-| [VirtualBuddy](https://github.com/insidegui/VirtualBuddy) | Virtualize macOS 12 and later on Apple Silicon |
 | [devops-exercises](https://github.com/bregman-arie/devops-exercises) | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions |
-| [core](https://github.com/opensumi/core) | 🚀 A framework helps you quickly build Cloud or Desktop IDE products. |
+| [azureml-examples](https://github.com/Azure/azureml-examples) | Official community-driven Azure Machine Learning examples, tested with GitHub Actions. |
 | [Rust](https://github.com/TheAlgorithms/Rust) | All Algorithms implemented in Rust |
-| [TVBoxOSC](https://github.com/CatVodTVOfficial/TVBoxOSC) | 开发阶段请不要提没有意义的PR，也不要用PR来提意见！ |
-| [awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) | A list of search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty and more |
-| [hackingtool](https://github.com/Z4nzu/hackingtool) | ALL IN ONE Hacking Tool For Hackers |
-| [TVBoxOSC](https://github.com/o0HalfLife0o/TVBoxOSC) | None |
-| [python-patterns](https://github.com/faif/python-patterns) | A collection of design patterns/idioms in Python |
+| [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project-based tutorials |
+| [folly](https://github.com/facebook/folly) | An open-source C++ library developed and used at Facebook. |
+| [WEF](https://github.com/D3Ext/WEF) | Wi-Fi Exploitation Framework |
+| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
+| [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | A collection of various awesome lists for hackers, pentesters and security researchers |
+| [YOLOv6](https://github.com/meituan/YOLOv6) | YOLOv6: a single-stage object detection framework dedicated to industrial applications. |
+| [Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google) | 《Software Engineering at Google》的中文翻译版本 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
