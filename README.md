@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [devops-exercises](https://github.com/bregman-arie/devops-exercises) | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions |
+| [delta](https://github.com/delta-io/delta) | An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs for Scala, Java, Rust, Ruby, and Python. |
+| [fresh](https://github.com/denoland/fresh) | The next-gen web framework. |
 | [azureml-examples](https://github.com/Azure/azureml-examples) | Official community-driven Azure Machine Learning examples, tested with GitHub Actions. |
-| [Rust](https://github.com/TheAlgorithms/Rust) | All Algorithms implemented in Rust |
-| [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project-based tutorials |
+| [ML-Course-Notes](https://github.com/dair-ai/ML-Course-Notes) | 🎓 Sharing course notes on all topics related to machine learning, NLP, and AI. |
+| [awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) | A list of search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty and more |
+| [qq](https://github.com/qq8e/qq) | 8亿QQ绑定数据泄露查询源码，附送数据。不定期更新下载地址 关注越多送的越多 |
+| [devops-exercises](https://github.com/bregman-arie/devops-exercises) | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions |
 | [folly](https://github.com/facebook/folly) | An open-source C++ library developed and used at Facebook. |
-| [WEF](https://github.com/D3Ext/WEF) | Wi-Fi Exploitation Framework |
-| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
-| [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | A collection of various awesome lists for hackers, pentesters and security researchers |
-| [YOLOv6](https://github.com/meituan/YOLOv6) | YOLOv6: a single-stage object detection framework dedicated to industrial applications. |
-| [Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google) | 《Software Engineering at Google》的中文翻译版本 |
+| [storybook](https://github.com/storybookjs/storybook) | 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more! |
+| [yolov7](https://github.com/jinfagang/yolov7) | 🔥🔥🔥🔥 YOLO with Transformers and Instance Segmentation, with TensorRT acceleration! 🔥🔥🔥 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
