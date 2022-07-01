@@ -29,14 +29,14 @@
                 "username": "scottsand-db"
             }
         ],
-        "currentPeriodStars": 26,
+        "currentPeriodStars": 88,
         "description": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs for Scala, Java, Rust, Ruby, and Python.",
-        "forks": 1080,
+        "forks": 1081,
         "fullname": "delta-io/delta",
         "language": "Scala",
         "languageColor": "#c22d40",
         "name": "delta",
-        "stars": 4601,
+        "stars": 4610,
         "url": "https://github.com/delta-io/delta"
     },
     {
@@ -69,14 +69,14 @@
                 "username": "bartlomieju"
             }
         ],
-        "currentPeriodStars": 607,
+        "currentPeriodStars": 902,
         "description": "The next-gen web framework.",
         "forks": 133,
         "fullname": "denoland/fresh",
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "fresh",
-        "stars": 4602,
+        "stars": 4639,
         "url": "https://github.com/denoland/fresh"
     },
     {
@@ -109,14 +109,14 @@
                 "username": "yuanzhuangyuanzhuang"
             }
         ],
-        "currentPeriodStars": 82,
+        "currentPeriodStars": 70,
         "description": "Official community-driven Azure Machine Learning examples, tested with GitHub Actions.",
-        "forks": 421,
+        "forks": 423,
         "fullname": "Azure/azureml-examples",
         "language": "Jupyter Notebook",
         "languageColor": "#DA5B0B",
         "name": "azureml-examples",
-        "stars": 614,
+        "stars": 616,
         "url": "https://github.com/Azure/azureml-examples"
     },
     {
@@ -134,14 +134,14 @@
                 "username": "goodhamgupta"
             }
         ],
-        "currentPeriodStars": 69,
+        "currentPeriodStars": 85,
         "description": "\ud83c\udf93 Sharing course notes on all topics related to machine learning, NLP, and AI.",
-        "forks": 422,
+        "forks": 424,
         "fullname": "dair-ai/ML-Course-Notes",
         "language": null,
         "languageColor": null,
         "name": "ML-Course-Notes",
-        "stars": 2930,
+        "stars": 2938,
         "url": "https://github.com/dair-ai/ML-Course-Notes"
     },
     {
@@ -154,19 +154,34 @@
                 "username": "edoardottt"
             },
             {
+                "avatar": "https://avatars.githubusercontent.com/u/76926119",
+                "href": "https://github.com/FeljxFeljx",
+                "username": "FeljxFeljx"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/49001713",
+                "href": "https://github.com/fx-w",
+                "username": "fx-w"
+            },
+            {
                 "avatar": "https://avatars.githubusercontent.com/u/57014148",
                 "href": "https://github.com/Gr1mmie",
                 "username": "Gr1mmie"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/108027835",
+                "href": "https://github.com/TLC-10",
+                "username": "TLC-10"
             }
         ],
-        "currentPeriodStars": 600,
+        "currentPeriodStars": 364,
         "description": "A list of search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty and more",
         "forks": 103,
         "fullname": "edoardottt/awesome-hacker-search-engines",
         "language": null,
         "languageColor": null,
         "name": "awesome-hacker-search-engines",
-        "stars": 1925,
+        "stars": 1950,
         "url": "https://github.com/edoardottt/awesome-hacker-search-engines"
     },
     {
@@ -179,14 +194,14 @@
                 "username": "qq8e"
             }
         ],
-        "currentPeriodStars": 30,
+        "currentPeriodStars": 83,
         "description": "8\u4ebfQQ\u7ed1\u5b9a\u6570\u636e\u6cc4\u9732\u67e5\u8be2\u6e90\u7801\uff0c\u9644\u9001\u6570\u636e\u3002\u4e0d\u5b9a\u671f\u66f4\u65b0\u4e0b\u8f7d\u5730\u5740 \u5173\u6ce8\u8d8a\u591a\u9001\u7684\u8d8a\u591a",
-        "forks": 162,
+        "forks": 166,
         "fullname": "qq8e/qq",
         "language": "CSS",
         "languageColor": "#563d7c",
         "name": "qq",
-        "stars": 513,
+        "stars": 521,
         "url": "https://github.com/qq8e/qq"
     },
     {
@@ -219,14 +234,14 @@
                 "username": "adrianfusco"
             }
         ],
-        "currentPeriodStars": 451,
+        "currentPeriodStars": 306,
         "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
-        "forks": 5705,
+        "forks": 5708,
         "fullname": "bregman-arie/devops-exercises",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "devops-exercises",
-        "stars": 27251,
+        "stars": 27266,
         "url": "https://github.com/bregman-arie/devops-exercises"
     },
     {
@@ -259,14 +274,14 @@
                 "username": "dmm-fb"
             }
         ],
-        "currentPeriodStars": 45,
+        "currentPeriodStars": 67,
         "description": "An open-source C++ library developed and used at Facebook.",
         "forks": 4706,
         "fullname": "facebook/folly",
         "language": "C++",
         "languageColor": "#f34b7d",
         "name": "folly",
-        "stars": 22398,
+        "stars": 22400,
         "url": "https://github.com/facebook/folly"
     },
     {
@@ -299,14 +314,14 @@
                 "username": "tmeasday"
             }
         ],
-        "currentPeriodStars": 54,
+        "currentPeriodStars": 111,
         "description": "\ud83d\udcd3 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!",
-        "forks": 7474,
+        "forks": 7475,
         "fullname": "storybookjs/storybook",
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "storybook",
-        "stars": 72210,
+        "stars": 72219,
         "url": "https://github.com/storybookjs/storybook"
     },
     {
@@ -339,14 +354,14 @@
                 "username": "Laughing-q"
             }
         ],
-        "currentPeriodStars": 68,
+        "currentPeriodStars": 93,
         "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25 YOLO with Transformers and Instance Segmentation, with TensorRT acceleration! \ud83d\udd25\ud83d\udd25\ud83d\udd25",
         "forks": 221,
         "fullname": "jinfagang/yolov7",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "yolov7",
-        "stars": 1400,
+        "stars": 1406,
         "url": "https://github.com/jinfagang/yolov7"
     },
     {
@@ -379,14 +394,14 @@
                 "username": "LiuL0703"
             }
         ],
-        "currentPeriodStars": 58,
+        "currentPeriodStars": 62,
         "description": "\u524d\u7aef\u7cbe\u8bfb\u5468\u520a\u3002\u5e2e\u4f60\u7406\u89e3\u6700\u524d\u6cbf\u3001\u5b9e\u7528\u7684\u6280\u672f\u3002",
         "forks": 2309,
         "fullname": "ascoders/weekly",
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "weekly",
-        "stars": 19465,
+        "stars": 19474,
         "url": "https://github.com/ascoders/weekly"
     },
     {
@@ -404,14 +419,14 @@
                 "username": "ultrazar"
             }
         ],
-        "currentPeriodStars": 114,
+        "currentPeriodStars": 205,
         "description": "Wi-Fi Exploitation Framework",
         "forks": 74,
         "fullname": "D3Ext/WEF",
         "language": "Hack",
         "languageColor": "#878787",
         "name": "WEF",
-        "stars": 829,
+        "stars": 839,
         "url": "https://github.com/D3Ext/WEF"
     },
     {
@@ -444,14 +459,14 @@
                 "username": "mcansh"
             }
         ],
-        "currentPeriodStars": 71,
+        "currentPeriodStars": 90,
         "description": "Build Better Websites. Create modern, resilient user experiences with web fundamentals.",
         "forks": 1386,
         "fullname": "remix-run/remix",
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "remix",
-        "stars": 17625,
+        "stars": 17635,
         "url": "https://github.com/remix-run/remix"
     },
     {
@@ -484,14 +499,14 @@
                 "username": "StephaneDelcroix"
             }
         ],
-        "currentPeriodStars": 13,
+        "currentPeriodStars": 43,
         "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
         "forks": 949,
         "fullname": "dotnet/maui",
         "language": "C#",
         "languageColor": "#178600",
         "name": "maui",
-        "stars": 16043,
+        "stars": 16047,
         "url": "https://github.com/dotnet/maui"
     },
     {
@@ -519,14 +534,14 @@
                 "username": "Nitwel"
             }
         ],
-        "currentPeriodStars": 36,
+        "currentPeriodStars": 110,
         "description": "The Modern Data Stack \ud83d\udc30 \u2014 Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.",
         "forks": 1907,
         "fullname": "directus/directus",
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "directus",
-        "stars": 16639,
+        "stars": 16646,
         "url": "https://github.com/directus/directus"
     },
     {
@@ -544,14 +559,14 @@
                 "username": "atorkmabrains"
             }
         ],
-        "currentPeriodStars": 12,
+        "currentPeriodStars": 57,
         "description": "List of awesome open source hardware projects",
         "forks": 7,
         "fullname": "aolofsson/awesome-opensource-hardware",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "awesome-opensource-hardware",
-        "stars": 122,
+        "stars": 128,
         "url": "https://github.com/aolofsson/awesome-opensource-hardware"
     },
     {
@@ -564,14 +579,14 @@
                 "username": "GrowingGit"
             }
         ],
-        "currentPeriodStars": 28,
+        "currentPeriodStars": 49,
         "description": "\ud83c\udde8\ud83c\uddf3 GitHub\u4e2d\u6587\u6392\u884c\u699c\uff0c\u5404\u8bed\u8a00\u5206\u8bbe\u300c\u8f6f\u4ef6 | \u8d44\u6599\u300d\u699c\u5355\uff0c\u7cbe\u51c6\u5b9a\u4f4d\u4e2d\u6587\u597d\u9879\u76ee\u3002\u5404\u53d6\u6240\u9700\uff0c\u9ad8\u6548\u5b66\u4e60\u3002",
         "forks": 6767,
         "fullname": "GrowingGit/GitHub-Chinese-Top-Charts",
         "language": "Java",
         "languageColor": "#b07219",
         "name": "GitHub-Chinese-Top-Charts",
-        "stars": 46747,
+        "stars": 46754,
         "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts"
     },
     {
@@ -604,14 +619,14 @@
                 "username": "sundowndev"
             }
         ],
-        "currentPeriodStars": 268,
+        "currentPeriodStars": 249,
         "description": "A collection of various awesome lists for hackers, pentesters and security researchers",
         "forks": 7963,
         "fullname": "Hack-with-Github/Awesome-Hacking",
         "language": null,
         "languageColor": null,
         "name": "Awesome-Hacking",
-        "stars": 52388,
+        "stars": 52400,
         "url": "https://github.com/Hack-with-Github/Awesome-Hacking"
     },
     {
@@ -644,14 +659,14 @@
                 "username": "saintdle"
             }
         ],
-        "currentPeriodStars": 15,
+        "currentPeriodStars": 58,
         "description": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.",
         "forks": 2529,
         "fullname": "MichaelCade/90DaysOfDevOps",
         "language": "Shell",
         "languageColor": "#89e051",
         "name": "90DaysOfDevOps",
-        "stars": 13952,
+        "stars": 13958,
         "url": "https://github.com/MichaelCade/90DaysOfDevOps"
     },
     {
@@ -684,14 +699,14 @@
                 "username": "sexyoung"
             }
         ],
-        "currentPeriodStars": 31,
+        "currentPeriodStars": 166,
         "description": "A long list of (advanced) JavaScript questions, and their explanations \u2728",
         "forks": 6318,
         "fullname": "lydiahallie/javascript-questions",
         "language": null,
         "languageColor": null,
         "name": "javascript-questions",
-        "stars": 45133,
+        "stars": 45153,
         "url": "https://github.com/lydiahallie/javascript-questions"
     },
     {
@@ -724,14 +739,14 @@
                 "username": "styfle"
             }
         ],
-        "currentPeriodStars": 68,
+        "currentPeriodStars": 133,
         "description": "The React Framework",
-        "forks": 19069,
+        "forks": 19071,
         "fullname": "vercel/next.js",
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "next.js",
-        "stars": 88888,
+        "stars": 88900,
         "url": "https://github.com/vercel/next.js"
     },
     {
@@ -764,14 +779,14 @@
                 "username": "rupa"
             }
         ],
-        "currentPeriodStars": 308,
+        "currentPeriodStars": 275,
         "description": "min(DALL\u00b7E) is a minimal implementation of DALL\u00b7E Mini in PyTorch",
-        "forks": 129,
+        "forks": 130,
         "fullname": "kuprel/min-dalle",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "min-dalle",
-        "stars": 2288,
+        "stars": 2298,
         "url": "https://github.com/kuprel/min-dalle"
     },
     {
@@ -804,14 +819,14 @@
                 "username": "woopstar"
             }
         ],
-        "currentPeriodStars": 2,
+        "currentPeriodStars": 32,
         "description": "Deploy a Production Ready Kubernetes Cluster",
         "forks": 5307,
         "fullname": "kubernetes-sigs/kubespray",
         "language": "Jinja",
         "languageColor": "#a52a22",
         "name": "kubespray",
-        "stars": 12486,
+        "stars": 12487,
         "url": "https://github.com/kubernetes-sigs/kubespray"
     },
     {
@@ -844,14 +859,14 @@
                 "username": "LemonBoy"
             }
         ],
-        "currentPeriodStars": 115,
+        "currentPeriodStars": 116,
         "description": "The official Vim repository",
         "forks": 4249,
         "fullname": "vim/vim",
         "language": "Vim script",
         "languageColor": "#199f4b",
         "name": "vim",
-        "stars": 27634,
+        "stars": 27640,
         "url": "https://github.com/vim/vim"
     },
     {
@@ -884,14 +899,14 @@
                 "username": "FingerLiu"
             }
         ],
-        "currentPeriodStars": 227,
+        "currentPeriodStars": 291,
         "description": "\u300aSoftware Engineering at Google\u300b\u7684\u4e2d\u6587\u7ffb\u8bd1\u7248\u672c",
-        "forks": 162,
+        "forks": 164,
         "fullname": "qiangmzsx/Software-Engineering-at-Google",
         "language": "HTML",
         "languageColor": "#e34c26",
         "name": "Software-Engineering-at-Google",
-        "stars": 1246,
+        "stars": 1257,
         "url": "https://github.com/qiangmzsx/Software-Engineering-at-Google"
     }
 ]
