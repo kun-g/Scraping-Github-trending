@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [delta](https://github.com/delta-io/delta) | An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs for Scala, Java, Rust, Ruby, and Python. |
 | [fresh](https://github.com/denoland/fresh) | The next-gen web framework. |
-| [azureml-examples](https://github.com/Azure/azureml-examples) | Official community-driven Azure Machine Learning examples, tested with GitHub Actions. |
-| [ML-Course-Notes](https://github.com/dair-ai/ML-Course-Notes) | 🎓 Sharing course notes on all topics related to machine learning, NLP, and AI. |
-| [awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) | A list of search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty and more |
-| [qq](https://github.com/qq8e/qq) | 8亿QQ绑定数据泄露查询源码，附送数据。不定期更新下载地址 关注越多送的越多 |
-| [devops-exercises](https://github.com/bregman-arie/devops-exercises) | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions |
-| [folly](https://github.com/facebook/folly) | An open-source C++ library developed and used at Facebook. |
-| [storybook](https://github.com/storybookjs/storybook) | 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more! |
-| [yolov7](https://github.com/jinfagang/yolov7) | 🔥🔥🔥🔥 YOLO with Transformers and Instance Segmentation, with TensorRT acceleration! 🔥🔥🔥 |
+| [code-jam-qualifier-9](https://github.com/python-discord/code-jam-qualifier-9) | Qualifier for Python Discord Code Jam 9 - Summer 2022 |
+| [micropython](https://github.com/micropython/micropython) | MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems |
+| [vite-plugin](https://github.com/laravel/vite-plugin) | Laravel plugin for Vite. |
+| [subway](https://github.com/libevm/subway) | A practical example on how to perform sandwich attacks on Ethereum |
+| [aave-liquidation](https://github.com/ialberquilla/aave-liquidation) | Liquidation Aave protocol example |
+| [apebot](https://github.com/duckdegen/apebot) | None |
+| [uniswap-arbitrage-analysis](https://github.com/ccyanxyz/uniswap-arbitrage-analysis) | Uniswap arbitrage problem analysis |
+| [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) | Roadmap to becoming an Artificial Intelligence Expert in 2022 |
+| [PDFPatcher](https://github.com/wmjordan/PDFPatcher) | PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
