@@ -25,16 +25,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [spring-cloud-tencent](https://github.com/Tencent/spring-cloud-tencent) | Spring Cloud Tencent is a Spring Boot based Service Governance Framework provided by Tencent, including service discovery, traffic control, circuitbreak, ratelimit, config and so on. |
-| [ToolJet](https://github.com/ToolJet/ToolJet) | Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀 |
+| [YOLOv6](https://github.com/meituan/YOLOv6) | YOLOv6: a single-stage object detection framework dedicated to industrial applications. |
+| [TVBoxOSC](https://github.com/CatVodTVOfficial/TVBoxOSC) | 开发阶段请不要提没有意义的PR，也不要用PR来提意见！ |
+| [fresh](https://github.com/denoland/fresh) | The next-gen web framework. |
 | [t3](https://github.com/still-scene/t3) | Tooll 3 is an open source software to create realtime motion graphics. |
-| [jak-project](https://github.com/open-goal/jak-project) | Reviving the language that brought us the Jak & Daxter Series |
-| [dotfiles](https://github.com/rxyhn/dotfiles) | My awesomewm dotfiles for awesome people! ✨ |
-| [spacedrive](https://github.com/spacedriveapp/spacedrive) | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. |
-| [ecapture](https://github.com/ehids/ecapture) | capture SSL/TLS text content without CA cert using eBPF. supports Linux x86_64/Aarch64, Android(GKI) Aarch64. |
-| [nomad](https://github.com/hashicorp/nomad) | Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. |
-| [qwik](https://github.com/BuilderIO/qwik) | The HTML-first framework. Initialize apps of any size with < 1kb JS |
-| [clap](https://github.com/free-audio/clap) | Audio Plugin API |
+| [core](https://github.com/opensumi/core) | 🚀 A framework helps you quickly build Cloud or Desktop IDE products. |
+| [delta](https://github.com/delta-io/delta) | An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs for Scala, Java, Rust, Ruby, and Python. |
+| [spring-cloud-tencent](https://github.com/Tencent/spring-cloud-tencent) | Spring Cloud Tencent is a Spring Boot based Service Governance Framework provided by Tencent, including service discovery, traffic control, circuitbreak, ratelimit, config and so on. |
+| [vim](https://github.com/vim/vim) | The official Vim repository |
+| [devops-exercises](https://github.com/bregman-arie/devops-exercises) | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions |
+| [hackingtool](https://github.com/Z4nzu/hackingtool) | ALL IN ONE Hacking Tool For Hackers |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
