@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [fresh](https://github.com/denoland/fresh) | The next-gen web framework. |
-| [code-jam-qualifier-9](https://github.com/python-discord/code-jam-qualifier-9) | Qualifier for Python Discord Code Jam 9 - Summer 2022 |
-| [micropython](https://github.com/micropython/micropython) | MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems |
-| [vite-plugin](https://github.com/laravel/vite-plugin) | Laravel plugin for Vite. |
-| [subway](https://github.com/libevm/subway) | A practical example on how to perform sandwich attacks on Ethereum |
-| [aave-liquidation](https://github.com/ialberquilla/aave-liquidation) | Liquidation Aave protocol example |
-| [apebot](https://github.com/duckdegen/apebot) | None |
-| [uniswap-arbitrage-analysis](https://github.com/ccyanxyz/uniswap-arbitrage-analysis) | Uniswap arbitrage problem analysis |
-| [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) | Roadmap to becoming an Artificial Intelligence Expert in 2022 |
-| [PDFPatcher](https://github.com/wmjordan/PDFPatcher) | PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等 |
+| [v](https://github.com/vlang/v) | Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io |
+| [flash-list](https://github.com/Shopify/flash-list) | A better list for React Native |
+| [starrocks](https://github.com/StarRocks/starrocks) | StarRocks is a next-gen sub-second MPP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query. |
+| [rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022) | [2022开源操作系统训练营](https://learningos.github.io/rust-based-os-comp2022/) |
+| [ml-pen-and-paper-exercises](https://github.com/michaelgutmann/ml-pen-and-paper-exercises) | Pen and paper exercises in machine learning |
+| [qq](https://github.com/qq8e/qq) | 8亿QQ绑定数据泄露查询源码，附送数据。不定期更新下载地址 关注越多送的越多 |
+| [if-im-gone](https://github.com/christophercalm/if-im-gone) | A cheat sheet for if I am somehow incapacitated. |
+| [aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) | 阿里云盘 WebDAV 服务 |
+| [delta](https://github.com/delta-io/delta) | An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs for Scala, Java, Rust, Ruby, and Python. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
