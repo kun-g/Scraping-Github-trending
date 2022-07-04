@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [fresh](https://github.com/denoland/fresh) | The next-gen web framework. |
-| [v](https://github.com/vlang/v) | Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io |
-| [flash-list](https://github.com/Shopify/flash-list) | A better list for React Native |
-| [starrocks](https://github.com/StarRocks/starrocks) | StarRocks is a next-gen sub-second MPP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query. |
-| [rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022) | [2022开源操作系统训练营](https://learningos.github.io/rust-based-os-comp2022/) |
-| [ml-pen-and-paper-exercises](https://github.com/michaelgutmann/ml-pen-and-paper-exercises) | Pen and paper exercises in machine learning |
-| [qq](https://github.com/qq8e/qq) | 8亿QQ绑定数据泄露查询源码，附送数据。不定期更新下载地址 关注越多送的越多 |
-| [if-im-gone](https://github.com/christophercalm/if-im-gone) | A cheat sheet for if I am somehow incapacitated. |
+| [searxng](https://github.com/searxng/searxng) | SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled. |
 | [aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) | 阿里云盘 WebDAV 服务 |
-| [delta](https://github.com/delta-io/delta) | An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs for Scala, Java, Rust, Ruby, and Python. |
+| [fresh](https://github.com/denoland/fresh) | The next-gen web framework. |
+| [flash-list](https://github.com/Shopify/flash-list) | A better list for React Native |
+| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+| [headscale](https://github.com/juanfont/headscale) | An open source, self-hosted implementation of the Tailscale control server |
+| [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | Short JavaScript code snippets for all your development needs |
+| [professional-programming](https://github.com/charlax/professional-programming) | A collection of full-stack resources for programmers. |
+| [subway](https://github.com/libevm/subway) | A practical example on how to perform sandwich attacks on Ethereum |
+| [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | A collection of (mostly) technical things every software developer should know about |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
