@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [searxng](https://github.com/searxng/searxng) | SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled. |
-| [aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) | 阿里云盘 WebDAV 服务 |
-| [fresh](https://github.com/denoland/fresh) | The next-gen web framework. |
-| [flash-list](https://github.com/Shopify/flash-list) | A better list for React Native |
+| [SMSBoom](https://github.com/WhaleFell/SMSBoom) | 短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！高一美术生开发全网首发！！ |
+| [PicoBoot](https://github.com/webhdx/PicoBoot) | Raspberry Pi Pico (RP2040) based IPL replacement modchip for GameCube |
 | [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
-| [headscale](https://github.com/juanfont/headscale) | An open source, self-hosted implementation of the Tailscale control server |
 | [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | Short JavaScript code snippets for all your development needs |
-| [professional-programming](https://github.com/charlax/professional-programming) | A collection of full-stack resources for programmers. |
-| [subway](https://github.com/libevm/subway) | A practical example on how to perform sandwich attacks on Ethereum |
+| [aws-nuke](https://github.com/rebuy-de/aws-nuke) | Nuke a whole AWS account and delete all its resources. |
 | [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | A collection of (mostly) technical things every software developer should know about |
+| [RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) | Create Reddit Videos with just✨ one command ✨ |
+| [you-get](https://github.com/soimort/you-get) | ⏬ Dumb downloader that scrapes the web |
+| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A youtube-dl fork with additional features and fixes |
+| [searx](https://github.com/searx/searx) | Privacy-respecting metasearch engine |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
