@@ -15,7 +15,7 @@
 | [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | A collection of (mostly) technical things every software developer should know about |
 | [PicoBoot](https://github.com/webhdx/PicoBoot) | Raspberry Pi Pico (RP2040) based IPL replacement modchip for GameCube |
 | [you-get](https://github.com/soimort/you-get) | ⏬ Dumb downloader that scrapes the web |
-| [create-t3-app](https://github.com/t3-oss/create-t3-app) | CLI to scaffold a starting project using the t3 stack |
+| [create-t3-app](https://github.com/t3-oss/create-t3-app) | Quickest way to start a new web app with full stack typesafety |
 | [awesome-mac](https://github.com/jaywcjlove/awesome-mac) |  Now we have become very big, Different from the original idea. Collect premium software in various categories. |
 | [searxng-docker](https://github.com/searxng/searxng-docker) | The docker-compose files for setting up a SearXNG instance with docker. |
 | [sherlock](https://github.com/sherlock-project/sherlock) | 🔎 Hunt down social media accounts by username across social networks |

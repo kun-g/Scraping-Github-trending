@@ -9,6 +9,11 @@
                 "username": "WhaleFell"
             },
             {
+                "avatar": "https://avatars.githubusercontent.com/u/108498345",
+                "href": "https://github.com/fwder",
+                "username": "fwder"
+            },
+            {
                 "avatar": "https://avatars.githubusercontent.com/u/73371677",
                 "href": "https://github.com/FannieMC",
                 "username": "FannieMC"
@@ -19,24 +24,19 @@
                 "username": "weclont"
             },
             {
-                "avatar": "https://avatars.githubusercontent.com/u/108498345",
-                "href": "https://github.com/fwder",
-                "username": "fwder"
-            },
-            {
-                "avatar": "https://avatars.githubusercontent.com/u/53000648",
-                "href": "https://github.com/e5u",
-                "username": "e5u"
+                "avatar": "https://avatars.githubusercontent.com/u/32081405",
+                "href": "https://github.com/NERVEbing",
+                "username": "NERVEbing"
             }
         ],
         "currentPeriodStars": 698,
         "description": "\u77ed\u4fe1\u8f70\u70b8/\u77ed\u4fe1\u6d4b\u538b/ | \u4e00\u4e2a\u5065\u58ee\u514d\u8d39\u7684python\u77ed\u4fe1\u8f70\u70b8\u7a0b\u5e8f\uff0c\u4e13\u95e8\u70b8\u574f\u86cb\u86cb\uff0c\u767e\u4e07\u63a5\u53e3\uff0c\u591a\u7ebf\u7a0b\u5168\u81ea\u52a8\u6dfb\u52a0\u6709\u6548\u63a5\u53e3\uff0c\u652f\u6301\u5f02\u6b65\u534f\u7a0b\u767e\u4e07\u5e76\u53d1\uff0c\u5168\u514d\u8d39\u7684\u77ed\u4fe1\u8f70\u70b8\u5de5\u5177\uff01\uff01\u9ad8\u4e00\u7f8e\u672f\u751f\u5f00\u53d1\u5168\u7f51\u9996\u53d1\uff01\uff01",
-        "forks": 638,
+        "forks": 653,
         "fullname": "WhaleFell/SMSBoom",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "SMSBoom",
-        "stars": 2784,
+        "stars": 2823,
         "url": "https://github.com/WhaleFell/SMSBoom"
     },
     {
@@ -76,7 +76,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "searxng",
-        "stars": 1777,
+        "stars": 1790,
         "url": "https://github.com/searxng/searxng"
     },
     {
@@ -109,14 +109,14 @@
                 "username": "dynamitechetan"
             }
         ],
-        "currentPeriodStars": 119,
+        "currentPeriodStars": 125,
         "description": "All Algorithms implemented in Python",
-        "forks": 36105,
+        "forks": 36106,
         "fullname": "TheAlgorithms/Python",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "Python",
-        "stars": 139665,
+        "stars": 139681,
         "url": "https://github.com/TheAlgorithms/Python"
     },
     {
@@ -149,14 +149,14 @@
                 "username": "aalhour"
             }
         ],
-        "currentPeriodStars": 435,
+        "currentPeriodStars": 441,
         "description": "A collection of (mostly) technical things every software developer should know about",
-        "forks": 5453,
+        "forks": 5454,
         "fullname": "mtdvio/every-programmer-should-know",
         "language": null,
         "languageColor": null,
         "name": "every-programmer-should-know",
-        "stars": 55598,
+        "stars": 55641,
         "url": "https://github.com/mtdvio/every-programmer-should-know"
     },
     {
@@ -167,16 +167,21 @@
                 "avatar": "https://avatars.githubusercontent.com/u/10212760",
                 "href": "https://github.com/webhdx",
                 "username": "webhdx"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/34090514",
+                "href": "https://github.com/kjuno",
+                "username": "kjuno"
             }
         ],
-        "currentPeriodStars": 88,
+        "currentPeriodStars": 89,
         "description": "Raspberry Pi Pico (RP2040) based IPL replacement modchip for GameCube",
         "forks": 31,
         "fullname": "webhdx/PicoBoot",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "PicoBoot",
-        "stars": 439,
+        "stars": 444,
         "url": "https://github.com/webhdx/PicoBoot"
     },
     {
@@ -211,12 +216,12 @@
         ],
         "currentPeriodStars": 189,
         "description": "\u23ec Dumb downloader that scrapes the web",
-        "forks": 8965,
+        "forks": 8966,
         "fullname": "soimort/you-get",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "you-get",
-        "stars": 44624,
+        "stars": 44645,
         "url": "https://github.com/soimort/you-get"
     },
     {
@@ -249,14 +254,14 @@
                 "username": "Dhravya"
             }
         ],
-        "currentPeriodStars": 285,
-        "description": "CLI to scaffold a starting project using the t3 stack",
-        "forks": 61,
+        "currentPeriodStars": 293,
+        "description": "Quickest way to start a new web app with full stack typesafety",
+        "forks": 64,
         "fullname": "t3-oss/create-t3-app",
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "create-t3-app",
-        "stars": 1830,
+        "stars": 1852,
         "url": "https://github.com/t3-oss/create-t3-app"
     },
     {
@@ -284,14 +289,14 @@
                 "username": "heldev"
             }
         ],
-        "currentPeriodStars": 165,
+        "currentPeriodStars": 175,
         "description": "\uf8ff Now we have become very big, Different from the original idea. Collect premium software in various categories.",
-        "forks": 5387,
+        "forks": 5388,
         "fullname": "jaywcjlove/awesome-mac",
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "awesome-mac",
-        "stars": 50406,
+        "stars": 50438,
         "url": "https://github.com/jaywcjlove/awesome-mac"
     },
     {
@@ -324,14 +329,14 @@
                 "username": "k2s"
             }
         ],
-        "currentPeriodStars": 23,
+        "currentPeriodStars": 25,
         "description": "The docker-compose files for setting up a SearXNG instance with docker.",
-        "forks": 39,
+        "forks": 41,
         "fullname": "searxng/searxng-docker",
         "language": "Shell",
         "languageColor": "#89e051",
         "name": "searxng-docker",
-        "stars": 138,
+        "stars": 141,
         "url": "https://github.com/searxng/searxng-docker"
     },
     {
@@ -364,14 +369,14 @@
                 "username": "roopeshvs"
             }
         ],
-        "currentPeriodStars": 167,
+        "currentPeriodStars": 168,
         "description": "\ud83d\udd0e Hunt down social media accounts by username across social networks",
         "forks": 3829,
         "fullname": "sherlock-project/sherlock",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "sherlock",
-        "stars": 32957,
+        "stars": 32968,
         "url": "https://github.com/sherlock-project/sherlock"
     },
     {
@@ -404,14 +409,14 @@
                 "username": "iamsivin"
             }
         ],
-        "currentPeriodStars": 88,
+        "currentPeriodStars": 103,
         "description": "Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. \ud83d\udd25\ud83d\udcac",
         "forks": 1637,
         "fullname": "chatwoot/chatwoot",
         "language": "Ruby",
         "languageColor": "#701516",
         "name": "chatwoot",
-        "stars": 12896,
+        "stars": 12909,
         "url": "https://github.com/chatwoot/chatwoot"
     },
     {
@@ -444,14 +449,14 @@
                 "username": "bikeshedder"
             }
         ],
-        "currentPeriodStars": 155,
+        "currentPeriodStars": 158,
         "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
         "forks": 501,
         "fullname": "solidjs/solid",
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "solid",
-        "stars": 20033,
+        "stars": 20046,
         "url": "https://github.com/solidjs/solid"
     },
     {
@@ -464,14 +469,14 @@
                 "username": "kwea123"
             }
         ],
-        "currentPeriodStars": 39,
+        "currentPeriodStars": 42,
         "description": "Instant-ngp in pytorch+cuda trained with pytorch-lightning (high quality with high speed, with only few lines of legible code)",
         "forks": 8,
         "fullname": "kwea123/ngp_pl",
         "language": "Jupyter Notebook",
         "languageColor": "#DA5B0B",
         "name": "ngp_pl",
-        "stars": 190,
+        "stars": 193,
         "url": "https://github.com/kwea123/ngp_pl"
     },
     {
@@ -489,29 +494,29 @@
                 "username": "xushanpu123"
             },
             {
-                "avatar": "https://avatars.githubusercontent.com/u/48611913",
-                "href": "https://github.com/yuoo655",
-                "username": "yuoo655"
-            },
-            {
                 "avatar": "https://avatars.githubusercontent.com/u/1469712",
                 "href": "https://github.com/xyongcn",
                 "username": "xyongcn"
             },
             {
-                "avatar": "https://avatars.githubusercontent.com/u/10803535",
-                "href": "https://github.com/eastfisher",
-                "username": "eastfisher"
+                "avatar": "https://avatars.githubusercontent.com/u/48611913",
+                "href": "https://github.com/yuoo655",
+                "username": "yuoo655"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5176695",
+                "href": "https://github.com/qobilidop",
+                "username": "qobilidop"
             }
         ],
         "currentPeriodStars": 86,
         "description": "[2022\u5f00\u6e90\u64cd\u4f5c\u7cfb\u7edf\u8bad\u7ec3\u8425](https://learningos.github.io/rust-based-os-comp2022/)",
-        "forks": 38,
+        "forks": 40,
         "fullname": "LearningOS/rust-based-os-comp2022",
         "language": "Rust",
         "languageColor": "#dea584",
         "name": "rust-based-os-comp2022",
-        "stars": 586,
+        "stars": 601,
         "url": "https://github.com/LearningOS/rust-based-os-comp2022"
     },
     {
@@ -544,14 +549,14 @@
                 "username": "Trinityyi"
             }
         ],
-        "currentPeriodStars": 230,
+        "currentPeriodStars": 231,
         "description": "Short JavaScript code snippets for all your development needs",
         "forks": 10341,
         "fullname": "30-seconds/30-seconds-of-code",
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "30-seconds-of-code",
-        "stars": 98352,
+        "stars": 98364,
         "url": "https://github.com/30-seconds/30-seconds-of-code"
     },
     {
@@ -584,14 +589,14 @@
                 "username": "trflynn89"
             }
         ],
-        "currentPeriodStars": 43,
+        "currentPeriodStars": 45,
         "description": "The Serenity Operating System \ud83d\udc1e",
-        "forks": 2197,
+        "forks": 2196,
         "fullname": "SerenityOS/serenity",
         "language": "C++",
         "languageColor": "#f34b7d",
         "name": "serenity",
-        "stars": 20331,
+        "stars": 20335,
         "url": "https://github.com/SerenityOS/serenity"
     },
     {
@@ -624,14 +629,14 @@
                 "username": "mstuttgart"
             }
         ],
-        "currentPeriodStars": 190,
+        "currentPeriodStars": 207,
         "description": "Master programming by recreating your favorite technologies from scratch.",
-        "forks": 14038,
+        "forks": 14039,
         "fullname": "codecrafters-io/build-your-own-x",
         "language": null,
         "languageColor": null,
         "name": "build-your-own-x",
-        "stars": 147385,
+        "stars": 147398,
         "url": "https://github.com/codecrafters-io/build-your-own-x"
     },
     {
@@ -664,14 +669,14 @@
                 "username": "wwqgtxx"
             }
         ],
-        "currentPeriodStars": 59,
+        "currentPeriodStars": 67,
         "description": "YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported. Documentation: https://yolox.readthedocs.io/",
-        "forks": 1606,
+        "forks": 1607,
         "fullname": "Megvii-BaseDetection/YOLOX",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "YOLOX",
-        "stars": 6872,
+        "stars": 6879,
         "url": "https://github.com/Megvii-BaseDetection/YOLOX"
     },
     {
@@ -704,14 +709,14 @@
                 "username": "D8H"
             }
         ],
-        "currentPeriodStars": 72,
+        "currentPeriodStars": 77,
         "description": "\ud83c\udfae GDevelop is an open-source, cross-platform game engine designed to be used by everyone.",
-        "forks": 536,
+        "forks": 537,
         "fullname": "4ian/GDevelop",
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "GDevelop",
-        "stars": 3810,
+        "stars": 3825,
         "url": "https://github.com/4ian/GDevelop"
     },
     {
@@ -744,14 +749,14 @@
                 "username": "amit2103"
             }
         ],
-        "currentPeriodStars": 30,
+        "currentPeriodStars": 31,
         "description": "Just Announced - \"Learn Spring Security OAuth\":",
-        "forks": 49572,
+        "forks": 49573,
         "fullname": "eugenp/tutorials",
         "language": "Java",
         "languageColor": "#b07219",
         "name": "tutorials",
-        "stars": 31103,
+        "stars": 31108,
         "url": "https://github.com/eugenp/tutorials"
     },
     {
@@ -784,14 +789,14 @@
                 "username": "tiwai"
             }
         ],
-        "currentPeriodStars": 88,
+        "currentPeriodStars": 95,
         "description": "Linux kernel source tree",
-        "forks": 43606,
+        "forks": 43608,
         "fullname": "torvalds/linux",
         "language": "C",
         "languageColor": "#555555",
         "name": "linux",
-        "stars": 134229,
+        "stars": 134241,
         "url": "https://github.com/torvalds/linux"
     },
     {
@@ -864,14 +869,14 @@
                 "username": "lukechilds"
             }
         ],
-        "currentPeriodStars": 45,
+        "currentPeriodStars": 49,
         "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
         "forks": 6275,
         "fullname": "nvm-sh/nvm",
         "language": "Shell",
         "languageColor": "#89e051",
         "name": "nvm",
-        "stars": 59105,
+        "stars": 59114,
         "url": "https://github.com/nvm-sh/nvm"
     },
     {
@@ -904,14 +909,14 @@
                 "username": "flysmart"
             }
         ],
-        "currentPeriodStars": 85,
+        "currentPeriodStars": 94,
         "description": "\ud83d\ude80AI\u62df\u58f0: 5\u79d2\u5185\u514b\u9686\u60a8\u7684\u58f0\u97f3\u5e76\u751f\u6210\u4efb\u610f\u8bed\u97f3\u5185\u5bb9 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
-        "forks": 3255,
+        "forks": 3259,
         "fullname": "babysor/MockingBird",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "MockingBird",
-        "stars": 22281,
+        "stars": 22307,
         "url": "https://github.com/babysor/MockingBird"
     },
     {
@@ -926,12 +931,12 @@
         ],
         "currentPeriodStars": 58,
         "description": "\u5343\u53e4\u524d\u7aef\u56fe\u6587\u6559\u7a0b\uff0c\u8d85\u8be6\u7ec6\u7684\u524d\u7aef\u5165\u95e8\u5230\u8fdb\u9636\u5b66\u4e60\u7b14\u8bb0\u3002\u4ece\u96f6\u5f00\u59cb\u5b66\u524d\u7aef\uff0c\u505a\u4e00\u540d\u7cbe\u81f4\u4f18\u96c5\u7684\u524d\u7aef\u5de5\u7a0b\u5e08\u3002",
-        "forks": 5478,
+        "forks": 5479,
         "fullname": "qianguyihao/Web",
         "language": null,
         "languageColor": null,
         "name": "Web",
-        "stars": 20608,
+        "stars": 20617,
         "url": "https://github.com/qianguyihao/Web"
     }
 ]
