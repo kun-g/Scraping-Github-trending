@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [SMSBoom](https://github.com/WhaleFell/SMSBoom) | 短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！高一美术生开发全网首发！！ |
-| [PicoBoot](https://github.com/webhdx/PicoBoot) | Raspberry Pi Pico (RP2040) based IPL replacement modchip for GameCube |
-| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
-| [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | Short JavaScript code snippets for all your development needs |
-| [aws-nuke](https://github.com/rebuy-de/aws-nuke) | Nuke a whole AWS account and delete all its resources. |
+| [searxng](https://github.com/searxng/searxng) | SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled. |
+| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
 | [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | A collection of (mostly) technical things every software developer should know about |
-| [RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) | Create Reddit Videos with just✨ one command ✨ |
+| [PicoBoot](https://github.com/webhdx/PicoBoot) | Raspberry Pi Pico (RP2040) based IPL replacement modchip for GameCube |
 | [you-get](https://github.com/soimort/you-get) | ⏬ Dumb downloader that scrapes the web |
-| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A youtube-dl fork with additional features and fixes |
-| [searx](https://github.com/searx/searx) | Privacy-respecting metasearch engine |
+| [create-t3-app](https://github.com/t3-oss/create-t3-app) | CLI to scaffold a starting project using the t3 stack |
+| [awesome-mac](https://github.com/jaywcjlove/awesome-mac) |  Now we have become very big, Different from the original idea. Collect premium software in various categories. |
+| [searxng-docker](https://github.com/searxng/searxng-docker) | The docker-compose files for setting up a SearXNG instance with docker. |
+| [sherlock](https://github.com/sherlock-project/sherlock) | 🔎 Hunt down social media accounts by username across social networks |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
