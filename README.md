@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [SMSBoom](https://github.com/WhaleFell/SMSBoom) | 短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！高一美术生开发全网首发！！ |
-| [searxng](https://github.com/searxng/searxng) | SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled. |
-| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
-| [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | A collection of (mostly) technical things every software developer should know about |
-| [PicoBoot](https://github.com/webhdx/PicoBoot) | Raspberry Pi Pico (RP2040) based IPL replacement modchip for GameCube |
-| [you-get](https://github.com/soimort/you-get) | ⏬ Dumb downloader that scrapes the web |
-| [create-t3-app](https://github.com/t3-oss/create-t3-app) | Quickest way to start a new web app with full stack typesafety |
-| [awesome-mac](https://github.com/jaywcjlove/awesome-mac) |  Now we have become very big, Different from the original idea. Collect premium software in various categories. |
-| [searxng-docker](https://github.com/searxng/searxng-docker) | The docker-compose files for setting up a SearXNG instance with docker. |
+| [SMSBoom](https://github.com/OpenEthan/SMSBoom) | 短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！ |
+| [ladybird](https://github.com/awesomekling/ladybird) | Ladybird web browser |
 | [sherlock](https://github.com/sherlock-project/sherlock) | 🔎 Hunt down social media accounts by username across social networks |
+| [youperiod.app](https://github.com/getify/youperiod.app) | YouPeriod.app -- the privacy-first period tracking app |
+| [create-t3-app](https://github.com/t3-oss/create-t3-app) | Quickest way to start a new web app with full stack typesafety |
+| [functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) | Jargon from the functional programming world in simple terms! |
+| [Bug_Bounty_writeups](https://github.com/alexbieber/Bug_Bounty_writeups) | BUG BOUNTY WRITEUPS - OWASP TOP 10 🔴🔴🔴🔴✔ |
+| [google-ctf](https://github.com/google/google-ctf) | Google CTF |
+| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
+| [secret-regex-list](https://github.com/h33tlit/secret-regex-list) | List of regex for scraping secret API keys and juicy information. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
