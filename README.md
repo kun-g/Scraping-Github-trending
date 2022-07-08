@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [bun](https://github.com/Jarred-Sumner/bun) | Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. |
+| [pamspy](https://github.com/citronneur/pamspy) | Credentials Dumper for Linux using eBPF |
+| [MockingBird](https://github.com/babysor/MockingBird) | 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time |
+| [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | A collection of (mostly) technical things every software developer should know about |
 | [SMSBoom](https://github.com/OpenEthan/SMSBoom) | 短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！ |
-| [ladybird](https://github.com/awesomekling/ladybird) | Ladybird web browser |
 | [sherlock](https://github.com/sherlock-project/sherlock) | 🔎 Hunt down social media accounts by username across social networks |
-| [youperiod.app](https://github.com/getify/youperiod.app) | YouPeriod.app -- the privacy-first period tracking app |
-| [create-t3-app](https://github.com/t3-oss/create-t3-app) | Quickest way to start a new web app with full stack typesafety |
-| [functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) | Jargon from the functional programming world in simple terms! |
-| [Bug_Bounty_writeups](https://github.com/alexbieber/Bug_Bounty_writeups) | BUG BOUNTY WRITEUPS - OWASP TOP 10 🔴🔴🔴🔴✔ |
-| [google-ctf](https://github.com/google/google-ctf) | Google CTF |
-| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
-| [secret-regex-list](https://github.com/h33tlit/secret-regex-list) | List of regex for scraping secret API keys and juicy information. |
+| [rust-by-practice](https://github.com/sunface/rust-by-practice) | Learning Rust By Practice, narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects. |
+| [secretflow](https://github.com/secretflow/secretflow) | A unified framework for privacy-preserving data analysis and machine learning |
+| [ladybird](https://github.com/awesomekling/ladybird) | Ladybird web browser |
+| [hybridclr](https://github.com/focus-creative-games/hybridclr) | HybridCLR是一个特性完整、零成本、高性能、低内存的近乎完美的Unity全平台原生c#热更方案。 HybridCLR is a fully featured, zero-cost, high-performance, low-memory solution for Unity's all-platform native c# hotfix |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
