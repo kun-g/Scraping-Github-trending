@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [bun](https://github.com/Jarred-Sumner/bun) | Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. |
-| [pamspy](https://github.com/citronneur/pamspy) | Credentials Dumper for Linux using eBPF |
-| [MockingBird](https://github.com/babysor/MockingBird) | 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time |
-| [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | A collection of (mostly) technical things every software developer should know about |
-| [SMSBoom](https://github.com/OpenEthan/SMSBoom) | 短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！ |
+| [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics |
 | [sherlock](https://github.com/sherlock-project/sherlock) | 🔎 Hunt down social media accounts by username across social networks |
 | [rust-by-practice](https://github.com/sunface/rust-by-practice) | Learning Rust By Practice, narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects. |
-| [secretflow](https://github.com/secretflow/secretflow) | A unified framework for privacy-preserving data analysis and machine learning |
-| [ladybird](https://github.com/awesomekling/ladybird) | Ladybird web browser |
-| [hybridclr](https://github.com/focus-creative-games/hybridclr) | HybridCLR是一个特性完整、零成本、高性能、低内存的近乎完美的Unity全平台原生c#热更方案。 HybridCLR is a fully featured, zero-cost, high-performance, low-memory solution for Unity's all-platform native c# hotfix |
+| [massCode](https://github.com/massCodeIO/massCode) | Next version of massCode. A free and open source code snippets manager for developers |
+| [yolov7](https://github.com/jinfagang/yolov7) | 🔥🔥🔥🔥 YOLO with Transformers and Instance Segmentation, with TensorRT acceleration! 🔥🔥🔥 |
+| [fairseq](https://github.com/facebookresearch/fairseq) | Facebook AI Research Sequence-to-Sequence Toolkit written in Python. |
+| [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
+| [vscode-infracost](https://github.com/infracost/vscode-infracost) | See cost estimates for Terraform right in your editor💰📉 |
+| [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | A collection of (mostly) technical things every software developer should know about |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
