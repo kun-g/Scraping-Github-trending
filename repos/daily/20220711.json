@@ -9,29 +9,34 @@
                 "username": "ganigeorgiev"
             },
             {
-                "avatar": "https://avatars.githubusercontent.com/u/24355695",
-                "href": "https://github.com/brams-dev",
-                "username": "brams-dev"
-            },
-            {
                 "avatar": "https://avatars.githubusercontent.com/u/43366254",
                 "href": "https://github.com/ValleyZw",
                 "username": "ValleyZw"
             },
             {
+                "avatar": "https://avatars.githubusercontent.com/u/24355695",
+                "href": "https://github.com/brams-dev",
+                "username": "brams-dev"
+            },
+            {
                 "avatar": "https://avatars.githubusercontent.com/u/49444980",
                 "href": "https://github.com/dpthegrey",
                 "username": "dpthegrey"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/58992960",
+                "href": "https://github.com/egor-romanov",
+                "username": "egor-romanov"
             }
         ],
-        "currentPeriodStars": 1061,
+        "currentPeriodStars": 906,
         "description": "Open Source realtime backend in 1 file",
-        "forks": 97,
+        "forks": 100,
         "fullname": "pocketbase/pocketbase",
         "language": "Go",
         "languageColor": "#00ADD8",
         "name": "pocketbase",
-        "stars": 4144,
+        "stars": 4223,
         "url": "https://github.com/pocketbase/pocketbase"
     },
     {
@@ -49,6 +54,11 @@
                 "username": "hanford"
             },
             {
+                "avatar": "https://avatars.githubusercontent.com/u/70155278",
+                "href": "https://github.com/evanwashere",
+                "username": "evanwashere"
+            },
+            {
                 "avatar": "https://avatars.githubusercontent.com/u/790659",
                 "href": "https://github.com/alexkuz",
                 "username": "alexkuz"
@@ -57,21 +67,16 @@
                 "avatar": "https://avatars.githubusercontent.com/u/63742054",
                 "href": "https://github.com/Nutlope",
                 "username": "Nutlope"
-            },
-            {
-                "avatar": "https://avatars.githubusercontent.com/u/70155278",
-                "href": "https://github.com/evanwashere",
-                "username": "evanwashere"
             }
         ],
-        "currentPeriodStars": 2219,
+        "currentPeriodStars": 1381,
         "description": "Incredibly fast JavaScript runtime, bundler, transpiler and package manager \u2013 all in one.",
-        "forks": 353,
+        "forks": 355,
         "fullname": "oven-sh/bun",
         "language": "Zig",
         "languageColor": "#ec915c",
         "name": "bun",
-        "stars": 20111,
+        "stars": 20236,
         "url": "https://github.com/oven-sh/bun"
     },
     {
@@ -104,14 +109,14 @@
                 "username": "mstuttgart"
             }
         ],
-        "currentPeriodStars": 385,
+        "currentPeriodStars": 368,
         "description": "Master programming by recreating your favorite technologies from scratch.",
-        "forks": 14178,
+        "forks": 14180,
         "fullname": "codecrafters-io/build-your-own-x",
         "language": null,
         "languageColor": null,
         "name": "build-your-own-x",
-        "stars": 149094,
+        "stars": 149114,
         "url": "https://github.com/codecrafters-io/build-your-own-x"
     },
     {
@@ -144,14 +149,14 @@
                 "username": "kdeldycke"
             }
         ],
-        "currentPeriodStars": 297,
+        "currentPeriodStars": 275,
         "description": "\ud83d\ude0e Awesome lists about all kinds of interesting topics",
-        "forks": 23746,
+        "forks": 23749,
         "fullname": "sindresorhus/awesome",
         "language": null,
         "languageColor": null,
         "name": "awesome",
-        "stars": 208817,
+        "stars": 208836,
         "url": "https://github.com/sindresorhus/awesome"
     },
     {
@@ -174,14 +179,14 @@
                 "username": "marcocampos"
             }
         ],
-        "currentPeriodStars": 177,
+        "currentPeriodStars": 181,
         "description": "\ud83d\udcda A curated list of papers for Software Engineers",
-        "forks": 25,
+        "forks": 28,
         "fullname": "facundoolano/software-papers",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "software-papers",
-        "stars": 1074,
+        "stars": 1115,
         "url": "https://github.com/facundoolano/software-papers"
     },
     {
@@ -214,14 +219,14 @@
                 "username": "marekdano"
             }
         ],
-        "currentPeriodStars": 281,
+        "currentPeriodStars": 345,
         "description": "A collective list of free APIs",
         "forks": 22999,
         "fullname": "public-apis/public-apis",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "public-apis",
-        "stars": 200449,
+        "stars": 200472,
         "url": "https://github.com/public-apis/public-apis"
     },
     {
@@ -254,14 +259,14 @@
                 "username": "kadhirash"
             }
         ],
-        "currentPeriodStars": 178,
+        "currentPeriodStars": 220,
         "description": "\ud83d\udcda Freely available programming books",
-        "forks": 49525,
+        "forks": 49526,
         "fullname": "EbookFoundation/free-programming-books",
         "language": null,
         "languageColor": null,
         "name": "free-programming-books",
-        "stars": 239325,
+        "stars": 239339,
         "url": "https://github.com/EbookFoundation/free-programming-books"
     },
     {
@@ -294,14 +299,14 @@
                 "username": "Mattraks"
             }
         ],
-        "currentPeriodStars": 19,
+        "currentPeriodStars": 18,
         "description": "Lean's OpenWrt source",
-        "forks": 17615,
+        "forks": 17616,
         "fullname": "coolsnowwolf/lede",
         "language": "C",
         "languageColor": "#555555",
         "name": "lede",
-        "stars": 22123,
+        "stars": 22124,
         "url": "https://github.com/coolsnowwolf/lede"
     },
     {
@@ -329,14 +334,14 @@
                 "username": "Ghassen-Chaabouni"
             }
         ],
-        "currentPeriodStars": 94,
+        "currentPeriodStars": 112,
         "description": "The Deepfake Offensive Toolkit",
         "forks": 159,
         "fullname": "sensity-ai/dot",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "dot",
-        "stars": 2541,
+        "stars": 2547,
         "url": "https://github.com/sensity-ai/dot"
     },
     {
@@ -369,14 +374,14 @@
                 "username": "Skarlett"
             }
         ],
-        "currentPeriodStars": 289,
+        "currentPeriodStars": 202,
         "description": "Learning Rust By Practice, narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects.",
-        "forks": 242,
+        "forks": 244,
         "fullname": "sunface/rust-by-practice",
         "language": "Rust",
         "languageColor": "#dea584",
         "name": "rust-by-practice",
-        "stars": 4642,
+        "stars": 4664,
         "url": "https://github.com/sunface/rust-by-practice"
     },
     {
@@ -411,12 +416,12 @@
         ],
         "currentPeriodStars": 100,
         "description": "List of Computer Science courses with video lectures.",
-        "forks": 5747,
+        "forks": 5748,
         "fullname": "Developer-Y/cs-video-courses",
         "language": null,
         "languageColor": null,
         "name": "cs-video-courses",
-        "stars": 38875,
+        "stars": 38879,
         "url": "https://github.com/Developer-Y/cs-video-courses"
     },
     {
@@ -439,14 +444,14 @@
                 "username": "MaleNurse"
             }
         ],
-        "currentPeriodStars": 8,
+        "currentPeriodStars": 31,
         "description": "WIFI / LAN intruder detector. Check the devices connected and alert you with unknown devices. It also warns of the disconnection of \"always connected\" devices",
-        "forks": 95,
+        "forks": 96,
         "fullname": "pucherot/Pi.Alert",
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "Pi.Alert",
-        "stars": 1000,
+        "stars": 1014,
         "url": "https://github.com/pucherot/Pi.Alert"
     },
     {
@@ -476,12 +481,12 @@
         ],
         "currentPeriodStars": 165,
         "description": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.",
-        "forks": 10504,
+        "forks": 10506,
         "fullname": "h5bp/Front-end-Developer-Interview-Questions",
         "language": "Nunjucks",
         "languageColor": "#3d8137",
         "name": "Front-end-Developer-Interview-Questions",
-        "stars": 54057,
+        "stars": 54060,
         "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions"
     },
     {
@@ -509,14 +514,14 @@
                 "username": "alexprut"
             }
         ],
-        "currentPeriodStars": 224,
+        "currentPeriodStars": 199,
         "description": "\ud83d\udcaf Curated interview preparation materials for busy engineers",
         "forks": 10035,
         "fullname": "yangshun/tech-interview-handbook",
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "tech-interview-handbook",
-        "stars": 73925,
+        "stars": 73935,
         "url": "https://github.com/yangshun/tech-interview-handbook"
     },
     {
@@ -549,14 +554,14 @@
                 "username": "jacobsalmela"
             }
         ],
-        "currentPeriodStars": 16,
+        "currentPeriodStars": 66,
         "description": "A black hole for Internet advertisements",
-        "forks": 2297,
+        "forks": 2298,
         "fullname": "pi-hole/pi-hole",
         "language": "Shell",
         "languageColor": "#89e051",
         "name": "pi-hole",
-        "stars": 36930,
+        "stars": 36945,
         "url": "https://github.com/pi-hole/pi-hole"
     },
     {
@@ -589,14 +594,14 @@
                 "username": "feiyun0112"
             }
         ],
-        "currentPeriodStars": 19,
+        "currentPeriodStars": 59,
         "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
-        "forks": 7727,
+        "forks": 7728,
         "fullname": "microsoft/ML-For-Beginners",
         "language": "Jupyter Notebook",
         "languageColor": "#DA5B0B",
         "name": "ML-For-Beginners",
-        "stars": 39086,
+        "stars": 39096,
         "url": "https://github.com/microsoft/ML-For-Beginners"
     },
     {
@@ -609,14 +614,14 @@
                 "username": "antonreshetov"
             }
         ],
-        "currentPeriodStars": 216,
+        "currentPeriodStars": 120,
         "description": "Next version of massCode. A free and open source code snippets manager for developers",
         "forks": 46,
         "fullname": "massCodeIO/massCode",
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "massCode",
-        "stars": 2144,
+        "stars": 2171,
         "url": "https://github.com/massCodeIO/massCode"
     },
     {
@@ -649,14 +654,14 @@
                 "username": "Minhir"
             }
         ],
-        "currentPeriodStars": 6,
+        "currentPeriodStars": 23,
         "description": null,
-        "forks": 20,
+        "forks": 21,
         "fullname": "All-Cups/aicup22",
         "language": "Java",
         "languageColor": "#b07219",
         "name": "aicup22",
-        "stars": 45,
+        "stars": 46,
         "url": "https://github.com/All-Cups/aicup22"
     },
     {
@@ -689,14 +694,14 @@
                 "username": "Zelophed"
             }
         ],
-        "currentPeriodStars": 14,
+        "currentPeriodStars": 23,
         "description": "[Forge Mod] Building Tools and Aesthetic Technology",
         "forks": 455,
         "fullname": "Creators-of-Create/Create",
         "language": "Java",
         "languageColor": "#b07219",
         "name": "Create",
-        "stars": 1241,
+        "stars": 1248,
         "url": "https://github.com/Creators-of-Create/Create"
     },
     {
@@ -729,14 +734,14 @@
                 "username": "fedeci"
             }
         ],
-        "currentPeriodStars": 76,
+        "currentPeriodStars": 129,
         "description": "Fig adds autocomplete to your terminal.",
-        "forks": 4407,
+        "forks": 4408,
         "fullname": "withfig/autocomplete",
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "autocomplete",
-        "stars": 18839,
+        "stars": 18860,
         "url": "https://github.com/withfig/autocomplete"
     },
     {
@@ -769,14 +774,14 @@
                 "username": "sjenning"
             }
         ],
-        "currentPeriodStars": 7,
+        "currentPeriodStars": 12,
         "description": "Hyperscale OpenShift - clusters with hosted control planes",
         "forks": 117,
         "fullname": "openshift/hypershift",
         "language": "Go",
         "languageColor": "#00ADD8",
         "name": "hypershift",
-        "stars": 213,
+        "stars": 218,
         "url": "https://github.com/openshift/hypershift"
     },
     {
@@ -789,14 +794,14 @@
                 "username": "HarmJ0y"
             }
         ],
-        "currentPeriodStars": 35,
+        "currentPeriodStars": 36,
         "description": "The Token Stealer",
         "forks": 34,
         "fullname": "GhostPack/Koh",
         "language": "C#",
         "languageColor": "#178600",
         "name": "Koh",
-        "stars": 264,
+        "stars": 269,
         "url": "https://github.com/GhostPack/Koh"
     },
     {
@@ -829,14 +834,14 @@
                 "username": "emontnemery"
             }
         ],
-        "currentPeriodStars": 18,
+        "currentPeriodStars": 46,
         "description": "\ud83c\udfe1 Open source home automation that puts local control and privacy first.",
         "forks": 18781,
         "fullname": "home-assistant/core",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "core",
-        "stars": 53845,
+        "stars": 53851,
         "url": "https://github.com/home-assistant/core"
     },
     {
@@ -869,14 +874,14 @@
                 "username": "Yu-Jack"
             }
         ],
-        "currentPeriodStars": 95,
+        "currentPeriodStars": 115,
         "description": "\u300aSoftware Engineering at Google\u300b\u7684\u4e2d\u6587\u7ffb\u8bd1\u7248\u672c",
-        "forks": 257,
+        "forks": 259,
         "fullname": "qiangmzsx/Software-Engineering-at-Google",
         "language": "HTML",
         "languageColor": "#e34c26",
         "name": "Software-Engineering-at-Google",
-        "stars": 2072,
+        "stars": 2079,
         "url": "https://github.com/qiangmzsx/Software-Engineering-at-Google"
     },
     {
@@ -909,14 +914,14 @@
                 "username": "fabacab"
             }
         ],
-        "currentPeriodStars": 253,
+        "currentPeriodStars": 288,
         "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
         "forks": 6016,
         "fullname": "awesome-selfhosted/awesome-selfhosted",
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "awesome-selfhosted",
-        "stars": 94245,
+        "stars": 94260,
         "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
     }
 ]
