@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [pocketbase](https://github.com/pocketbase/pocketbase) | Open Source realtime backend in 1 file |
-| [yolov7](https://github.com/WongKinYiu/yolov7) | Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors |
-| [aicup22](https://github.com/All-Cups/aicup22) | None |
-| [awesome-python](https://github.com/vinta/awesome-python) | A curated list of awesome Python frameworks, libraries, software and resources |
+| [bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. |
 | [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. |
-| [rust-by-practice](https://github.com/sunface/rust-by-practice) | Learning Rust By Practice, narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects. |
-| [Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google) | 《Software Engineering at Google》的中文翻译版本 |
+| [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics |
+| [software-papers](https://github.com/facundoolano/software-papers) | 📚 A curated list of papers for Software Engineers |
 | [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) | A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore. |
-| [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | List of Computer Science courses with video lectures. |
+| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
+| [lede](https://github.com/coolsnowwolf/lede) | Lean's OpenWrt source |
+| [dot](https://github.com/sensity-ai/dot) | The Deepfake Offensive Toolkit |
+| [rust-by-practice](https://github.com/sunface/rust-by-practice) | Learning Rust By Practice, narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
