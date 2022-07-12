@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [pocketbase](https://github.com/pocketbase/pocketbase) | Open Source realtime backend in 1 file |
-| [bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. |
-| [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. |
-| [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics |
-| [software-papers](https://github.com/facundoolano/software-papers) | 📚 A curated list of papers for Software Engineers |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | A list of useful payloads and bypass for Web Application Security and Pentest/CTF |
 | [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
-| [lede](https://github.com/coolsnowwolf/lede) | Lean's OpenWrt source |
-| [dot](https://github.com/sensity-ai/dot) | The Deepfake Offensive Toolkit |
-| [rust-by-practice](https://github.com/sunface/rust-by-practice) | Learning Rust By Practice, narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects. |
+| [TiltedEvolution](https://github.com/tiltedphoques/TiltedEvolution) | Skyrim and Fallout 4 mod to play online! |
+| [pi-hole](https://github.com/pi-hole/pi-hole) | A black hole for Internet advertisements |
+| [sioyek](https://github.com/ahrm/sioyek) | Sioyek is a PDF viewer designed for reading research papers and technical books. |
+| [autocomplete](https://github.com/withfig/autocomplete) | Fig adds autocomplete to your terminal. |
+| [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) | A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore. |
+| [Summer2023-Internships](https://github.com/pittcsc/Summer2023-Internships) | Collection of Summer 2023 tech internships! |
+| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
