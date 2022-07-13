@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [pocketbase](https://github.com/pocketbase/pocketbase) | Open Source realtime backend in 1 file |
-| [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | A list of useful payloads and bypass for Web Application Security and Pentest/CTF |
 | [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
-| [TiltedEvolution](https://github.com/tiltedphoques/TiltedEvolution) | Skyrim and Fallout 4 mod to play online! |
-| [pi-hole](https://github.com/pi-hole/pi-hole) | A black hole for Internet advertisements |
-| [sioyek](https://github.com/ahrm/sioyek) | Sioyek is a PDF viewer designed for reading research papers and technical books. |
-| [autocomplete](https://github.com/withfig/autocomplete) | Fig adds autocomplete to your terminal. |
-| [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) | A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore. |
-| [Summer2023-Internships](https://github.com/pittcsc/Summer2023-Internships) | Collection of Summer 2023 tech internships! |
-| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
+| [software-papers](https://github.com/facundoolano/software-papers) | 📚 A curated list of papers for Software Engineers |
+| [Exposure_HongSenlian](https://github.com/PoaceaeTriticum/Exposure_HongSenlian) | A database of violations of Hong Senlian, a researcher at Peking University School of Pharmacy. |
+| [PlayCover](https://github.com/PlayCover/PlayCover) | Community fork of PlayCover |
+| [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all |
+| [mall4cloud](https://github.com/gz-yami/mall4cloud) | ⭐️⭐️⭐️ Springcloud商城 O2O商城 小程序商城 PC商城 H5商城 APP商城 Java商城 分销商城 多用户商城 uniapp商城 微服务商城 |
+| [pocketbase](https://github.com/pocketbase/pocketbase) | Open Source realtime backend in 1 file |
+| [Awesome-Transformer-Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention) | An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites |
+| [renovate](https://github.com/renovatebot/renovate) | Universal dependency update tool that fits into your workflows. |
+| [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
