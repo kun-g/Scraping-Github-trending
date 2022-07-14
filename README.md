@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
-| [software-papers](https://github.com/facundoolano/software-papers) | 📚 A curated list of papers for Software Engineers |
-| [Exposure_HongSenlian](https://github.com/PoaceaeTriticum/Exposure_HongSenlian) | A database of violations of Hong Senlian, a researcher at Peking University School of Pharmacy. |
+| [bulletproof-react](https://github.com/alan2207/bulletproof-react) | 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications. |
+| [streamx](https://github.com/streamxhub/streamx) | Make stream processing easier! Flink & Spark development scaffold, The original intention of StreamX is to make the development of Flink easier. StreamX focuses on the management of development phases and tasks. Our ultimate goal is to build a one-stop big data solution integrating stream processing, batch processing, data warehouse and data laker. |
 | [PlayCover](https://github.com/PlayCover/PlayCover) | Community fork of PlayCover |
-| [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all |
-| [mall4cloud](https://github.com/gz-yami/mall4cloud) | ⭐️⭐️⭐️ Springcloud商城 O2O商城 小程序商城 PC商城 H5商城 APP商城 Java商城 分销商城 多用户商城 uniapp商城 微服务商城 |
-| [pocketbase](https://github.com/pocketbase/pocketbase) | Open Source realtime backend in 1 file |
-| [Awesome-Transformer-Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention) | An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites |
-| [renovate](https://github.com/renovatebot/renovate) | Universal dependency update tool that fits into your workflows. |
-| [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. |
+| [sui](https://github.com/MystenLabs/sui) | Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language |
+| [ivy](https://github.com/unifyai/ivy) | The Unified Machine Learning Framework |
+| [sds-dsmeta](https://github.com/devsuperior/sds-dsmeta) | None |
+| [zfile](https://github.com/zhaojun1998/zfile) | 在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai |
+| [DINO](https://github.com/IDEACVR/DINO) | Official implementation of the paper "DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection" |
+| [awesome-learning](https://github.com/afontcu/awesome-learning) | A curated list of awesome learning material |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
