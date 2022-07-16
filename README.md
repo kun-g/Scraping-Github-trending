@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [mall4cloud](https://github.com/gz-yami/mall4cloud) | ⭐️⭐️⭐️ Springcloud商城 O2O商城 小程序商城 PC商城 H5商城 APP商城 Java商城 分销商城 多用户商城 uniapp商城 微服务商城 |
-| [PlayCover](https://github.com/PlayCover/PlayCover) | Community fork of PlayCover |
-| [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) | This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps. |
-| [vuejs-forge-boilerplate](https://github.com/vueschool/vuejs-forge-boilerplate) | Boilerplate Code for the Vue.js Forge Conference |
-| [flutter-tips-and-tricks](https://github.com/bizz84/flutter-tips-and-tricks) | My Flutter Tips & Tricks on Twitter 👇 |
-| [GPU-Puzzles](https://github.com/srush/GPU-Puzzles) | Solve puzzles. Learn CUDA. |
-| [frontend-developer-resources](https://github.com/mrcodedev/frontend-developer-resources) | Recursos gratuitos para empezar a ser un Frontend Developer o ampliar conocimientos |
-| [springcloud-learning](https://github.com/macrozheng/springcloud-learning) | 一套涵盖大部分核心组件使用的Spring Cloud教程，包括Spring Cloud Alibaba及分布式事务Seata，基于Spring Cloud Greenwich及SpringBoot 2.1.7。篇篇精华，涵盖大部分应用场景。 |
-| [Flipper](https://github.com/UberGuidoZ/Flipper) | Playground (and dump) of stuff I make or modify for the Flipper Zero |
-| [OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) | Investment Research for Everyone, Anywhere. |
+| [kkndme_tianya](https://github.com/shengcaishizhan/kkndme_tianya) | 天涯 kkndme 神贴聊房价 |
+| [ivy](https://github.com/unifyai/ivy) | The Unified Machine Learning Framework |
+| [doris](https://github.com/apache/doris) | Apache Doris is an MPP-based interactive SQL data warehousing for reporting and analysis. |
+| [sbom-tool](https://github.com/microsoft/sbom-tool) | The SBOM tool is a highly scalable and enterprise ready tool to create SPDX 2.2 compatible SBOMs for any variety of artifacts. |
+| [trpc](https://github.com/trpc/trpc) | 🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy. |
+| [how-web-works](https://github.com/vasanthk/how-web-works) | What happens behind the scenes when we type www.google.com in a browser? |
+| [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity |
+| [JavaScript](https://github.com/TheAlgorithms/JavaScript) | Algorithms and Data Structures implemented in JavaScript for beginners, following best practices. |
+| [Akebi-GC](https://github.com/Akebi-Group/Akebi-GC) | The great software for some game that exploiting anime girls (and boys). |
+| [sui](https://github.com/MystenLabs/sui) | Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
