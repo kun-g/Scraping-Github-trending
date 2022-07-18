@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [trpc](https://github.com/trpc/trpc) | 🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy. |
+| [rustlings](https://github.com/rust-lang/rustlings) | 🦀 Small exercises to get you used to reading and writing Rust code! |
+| [logto](https://github.com/logto-io/logto) | 🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign-in, with extendable multi-language support. |
+| [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. |
 | [GPU-Puzzles](https://github.com/srush/GPU-Puzzles) | Solve puzzles. Learn CUDA. |
-| [shardingsphere](https://github.com/apache/shardingsphere) | Ecosystem to transform any database into a distributed database system, and enhance it with sharding, elastic scaling, encryption features & more |
-| [sarama](https://github.com/Shopify/sarama) | Sarama is a Go library for Apache Kafka. |
-| [sbom-tool](https://github.com/microsoft/sbom-tool) | The SBOM tool is a highly scalable and enterprise ready tool to create SPDX 2.2 compatible SBOMs for any variety of artifacts. |
-| [nomad](https://github.com/hashicorp/nomad) | Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. |
-| [springcloud-learning](https://github.com/macrozheng/springcloud-learning) | 一套涵盖大部分核心组件使用的Spring Cloud教程，包括Spring Cloud Alibaba及分布式事务Seata，基于Spring Cloud Greenwich及SpringBoot 2.1.7。篇篇精华，涵盖大部分应用场景。 |
-| [how-web-works](https://github.com/vasanthk/how-web-works) | What happens behind the scenes when we type www.google.com in a browser? |
-| [iscsicpl_bypassUAC](https://github.com/hackerhouse-opensource/iscsicpl_bypassUAC) | UAC bypass for x64 Windows 7 - 11 |
-| [stakewars-iii](https://github.com/near/stakewars-iii) | Stake Wars: Episode 3 challenges and place to report issues |
+| [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites |
+| [cosmopolitan](https://github.com/jart/cosmopolitan) | build-once run-anywhere c library |
+| [JavaScript](https://github.com/TheAlgorithms/JavaScript) | Algorithms and Data Structures implemented in JavaScript for beginners, following best practices. |
+| [trpc](https://github.com/trpc/trpc) | 🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy. |
+| [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) | 📺 A place to discover the latest machine learning courses on YouTube. |
+| [typoraCracker](https://github.com/fossabot/typoraCracker) | A patch and keygen tools for typora. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
