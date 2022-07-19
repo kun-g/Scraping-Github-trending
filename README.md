@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | Short JavaScript code snippets for all your development needs |
 | [rustlings](https://github.com/rust-lang/rustlings) | 🦀 Small exercises to get you used to reading and writing Rust code! |
-| [logto](https://github.com/logto-io/logto) | 🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign-in, with extendable multi-language support. |
+| [wails](https://github.com/wailsapp/wails) | Create beautiful applications using Go |
+| [freqtrade](https://github.com/freqtrade/freqtrade) | Free, open source crypto trading bot |
+| [docs](https://github.com/github/docs) | The open-source repo for docs.github.com |
 | [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. |
-| [GPU-Puzzles](https://github.com/srush/GPU-Puzzles) | Solve puzzles. Learn CUDA. |
-| [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites |
-| [cosmopolitan](https://github.com/jart/cosmopolitan) | build-once run-anywhere c library |
-| [JavaScript](https://github.com/TheAlgorithms/JavaScript) | Algorithms and Data Structures implemented in JavaScript for beginners, following best practices. |
-| [trpc](https://github.com/trpc/trpc) | 🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy. |
-| [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) | 📺 A place to discover the latest machine learning courses on YouTube. |
-| [typoraCracker](https://github.com/fossabot/typoraCracker) | A patch and keygen tools for typora. |
+| [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | List of Computer Science courses with video lectures. |
+| [professional-programming](https://github.com/charlax/professional-programming) | A collection of full-stack resources for programmers. |
+| [awesome-tips](https://github.com/jbhuang0604/awesome-tips) | None |
+| [logto](https://github.com/logto-io/logto) | 🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign-in, with extendable multi-language support. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
