@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | Short JavaScript code snippets for all your development needs |
-| [rustlings](https://github.com/rust-lang/rustlings) | 🦀 Small exercises to get you used to reading and writing Rust code! |
-| [wails](https://github.com/wailsapp/wails) | Create beautiful applications using Go |
-| [freqtrade](https://github.com/freqtrade/freqtrade) | Free, open source crypto trading bot |
-| [docs](https://github.com/github/docs) | The open-source repo for docs.github.com |
-| [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. |
-| [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | List of Computer Science courses with video lectures. |
-| [professional-programming](https://github.com/charlax/professional-programming) | A collection of full-stack resources for programmers. |
-| [awesome-tips](https://github.com/jbhuang0604/awesome-tips) | None |
 | [logto](https://github.com/logto-io/logto) | 🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign-in, with extendable multi-language support. |
+| [ML-Course-Notes](https://github.com/dair-ai/ML-Course-Notes) | 🎓 Sharing course notes on all topics related to machine learning, NLP, and AI. |
+| [lensm](https://github.com/loov/lensm) | Go assembly and source viewer |
+| [domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) | Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included |
+| [rustlings](https://github.com/rust-lang/rustlings) | 🦀 Small exercises to get you used to reading and writing Rust code! |
+| [discord.js](https://github.com/discordjs/discord.js) | A powerful JavaScript library for interacting with the Discord API |
+| [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | Short JavaScript code snippets for all your development needs |
+| [HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator) | None |
+| [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) | 🎆Interactive Online Platform that Visualizes Algorithms from Code |
+| [professional-programming](https://github.com/charlax/professional-programming) | A collection of full-stack resources for programmers. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
