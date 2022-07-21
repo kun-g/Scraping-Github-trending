@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. |
+| [vault](https://github.com/hashicorp/vault) | A tool for secrets management, encryption as a service, and privileged access management |
 | [logto](https://github.com/logto-io/logto) | 🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign-in, with extendable multi-language support. |
-| [ML-Course-Notes](https://github.com/dair-ai/ML-Course-Notes) | 🎓 Sharing course notes on all topics related to machine learning, NLP, and AI. |
-| [lensm](https://github.com/loov/lensm) | Go assembly and source viewer |
-| [domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) | Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included |
-| [rustlings](https://github.com/rust-lang/rustlings) | 🦀 Small exercises to get you used to reading and writing Rust code! |
-| [discord.js](https://github.com/discordjs/discord.js) | A powerful JavaScript library for interacting with the Discord API |
+| [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. |
+| [folly](https://github.com/facebook/folly) | An open-source C++ library developed and used at Facebook. |
+| [realworld](https://github.com/gothinkster/realworld) | "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 |
 | [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | Short JavaScript code snippets for all your development needs |
-| [HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator) | None |
-| [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) | 🎆Interactive Online Platform that Visualizes Algorithms from Code |
+| [domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) | Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included |
 | [professional-programming](https://github.com/charlax/professional-programming) | A collection of full-stack resources for programmers. |
+| [XMem](https://github.com/hkchengrex/XMem) | [ECCV 2022] XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
