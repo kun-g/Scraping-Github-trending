@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [big-react](https://github.com/BetaSu/big-react) | 跟着我，从0实现React18 |
-| [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) | 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. |
-| [flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) | Flipper Zero firmware source code |
-| [awesome-python](https://github.com/vinta/awesome-python) | A curated list of awesome Python frameworks, libraries, software and resources |
+| [components](https://github.com/cloudscape-design/components) | React components for Cloudscape Design System |
 | [yuindex](https://github.com/liyupi/yuindex) | ✨ 新项目 - 极客范儿的浏览器主页 💻 Vue 3 + Node.js 全栈项目，自实现 web 终端 + 命令系统 |
-| [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) | 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。 |
+| [big-react](https://github.com/BetaSu/big-react) | 跟着我，从0实现React18 |
+| [mason.nvim](https://github.com/williamboman/mason.nvim) | Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters. |
+| [MLE-Flashcards](https://github.com/b7leung/MLE-Flashcards) | 200+ detailed flashcards useful for reviewing topics in machine learning, computer vision, and computer science. |
+| [fastbook](https://github.com/fastai/fastbook) | The fastai book, published as Jupyter Notebooks |
+| [50projects50days](https://github.com/bradtraversy/50projects50days) | 50+ mini web projects using HTML, CSS & JS |
+| [Azure_Workshop](https://github.com/mandiant/Azure_Workshop) | None |
+| [awesome-privacy](https://github.com/Lissy93/awesome-privacy) | 🦄 A curated list of privacy & security-focused software and services |
 | [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk) | 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码 |
-| [carbon-lang](https://github.com/carbon-language/carbon-lang) | Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README) |
-| [chibicc](https://github.com/rui314/chibicc) | A small C compiler |
-| [code-server](https://github.com/coder/code-server) | VS Code in the browser |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
