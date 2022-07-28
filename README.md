@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [components](https://github.com/cloudscape-design/components) | React components for Cloudscape Design System |
-| [yuindex](https://github.com/liyupi/yuindex) | ✨ 新项目 - 极客范儿的浏览器主页 💻 Vue 3 + Node.js 全栈项目，自实现 web 终端 + 命令系统 |
-| [big-react](https://github.com/BetaSu/big-react) | 跟着我，从0实现React18 |
-| [mason.nvim](https://github.com/williamboman/mason.nvim) | Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters. |
-| [MLE-Flashcards](https://github.com/b7leung/MLE-Flashcards) | 200+ detailed flashcards useful for reviewing topics in machine learning, computer vision, and computer science. |
-| [fastbook](https://github.com/fastai/fastbook) | The fastai book, published as Jupyter Notebooks |
-| [50projects50days](https://github.com/bradtraversy/50projects50days) | 50+ mini web projects using HTML, CSS & JS |
-| [Azure_Workshop](https://github.com/mandiant/Azure_Workshop) | None |
-| [awesome-privacy](https://github.com/Lissy93/awesome-privacy) | 🦄 A curated list of privacy & security-focused software and services |
+| [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) | 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. |
+| [aptos-core](https://github.com/aptos-labs/aptos-core) | A layer 1 for everyone! |
 | [flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk) | 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码 |
+| [big-react](https://github.com/BetaSu/big-react) | 跟着我，从0实现React18 |
+| [awesome-privacy](https://github.com/Lissy93/awesome-privacy) | 🦄 A curated list of privacy & security-focused software and services |
+| [Awesome-RCE-techniques](https://github.com/p0dalirius/Awesome-RCE-techniques) | Awesome list of step by step techniques to achieve Remote Code Execution on various apps! |
+| [flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) | Flipper Zero firmware source code |
+| [rustdesk](https://github.com/rustdesk/rustdesk) | Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime. |
+| [Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) | 收集整理 GitHub 上高质量、有趣的开源项目。 |
+| [mason.nvim](https://github.com/williamboman/mason.nvim) | Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
