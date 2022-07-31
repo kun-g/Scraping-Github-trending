@@ -41,14 +41,14 @@
 <!-- START OF MONTHLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [YOLOv6](https://github.com/meituan/YOLOv6) | YOLOv6: a single-stage object detection framework dedicated to industrial applications. |
-| [fresh](https://github.com/denoland/fresh) | The next-gen web framework. |
+| [SMSBoom](https://github.com/OpenEthan/SMSBoom) | 短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！ |
 | [OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) | Investment Research for Everyone, Anywhere. |
+| [sui](https://github.com/MystenLabs/sui) | Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language |
+| [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) | 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. |
+| [Flipper](https://github.com/UberGuidoZ/Flipper) | Playground (and dump) of stuff I make or modify for the Flipper Zero |
+| [yolov7](https://github.com/jinfagang/yolov7) | 🔥🔥🔥🔥 (Earlier YOLOv7 not official one) YOLO with Transformers and Instance Segmentation, with TensorRT acceleration! 🔥🔥🔥 |
 | [fairseq](https://github.com/facebookresearch/fairseq) | Facebook AI Research Sequence-to-Sequence Toolkit written in Python. |
-| [zig](https://github.com/ziglang/zig) | General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. |
-| [ivy](https://github.com/unifyai/ivy) | The Unified Machine Learning Framework |
+| [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) | 🎆Interactive Online Platform that Visualizes Algorithms from Code |
+| [fresh](https://github.com/denoland/fresh) | The next-gen web framework. |
 | [rustlings](https://github.com/rust-lang/rustlings) | 🦀 Small exercises to get you used to reading and writing Rust code! |
-| [bulletproof-react](https://github.com/alan2207/bulletproof-react) | 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications. |
-| [spring-cloud-tencent](https://github.com/Tencent/spring-cloud-tencent) | Spring Cloud Tencent is a Spring Boot based Service Governance Framework provided by Tencent. |
-| [t3](https://github.com/still-scene/t3) | Tooll 3 is an open source software to create realtime motion graphics. |
 <!-- END OF MONTHLY_TOP10_REPOS -->
