@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [HelloWord-Keyboard](https://github.com/peng-zhihui/HelloWord-Keyboard) | None |
-| [million](https://github.com/aidenybai/million) | Virtual DOM into the future! ✨🦁🚀✨ |
-| [nsq](https://github.com/nsqio/nsq) | A realtime distributed messaging platform |
-| [GFPGAN](https://github.com/TencentARC/GFPGAN) | GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration. |
-| [shenyu](https://github.com/apache/shenyu) | Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance. |
-| [WebM-Maker-Thing-Idk](https://github.com/OIRNOIR/WebM-Maker-Thing-Idk) | This is a simple tool to allow you to create WebM files with changing aspect ratios. |
 | [CodeEdit](https://github.com/CodeEditApp/CodeEdit) | CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. |
-| [minetest](https://github.com/minetest/minetest) | Minetest is an open source voxel game engine with easy modding and game creation |
-| [Cybersecurity-Resources](https://github.com/Nickyie/Cybersecurity-Resources) | A Library of various cybersecurity resources |
-| [scan4all](https://github.com/hktalent/scan4all) | Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty... |
+| [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity |
+| [sqlite-zstd](https://github.com/phiresky/sqlite-zstd) | Transparent dictionary-based row-level compression for SQLite |
+| [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) | 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace. |
+| [PurC](https://github.com/HVML/PurC) | The prime HVML interpreter for C Language. |
+| [react-native-skia](https://github.com/Shopify/react-native-skia) | High-performance React Native Graphics using Skia |
+| [million](https://github.com/aidenybai/million) | Virtual DOM into the future! ✨🦁🚀✨ |
+| [HelloWord-Keyboard](https://github.com/peng-zhihui/HelloWord-Keyboard) | None |
+| [lyra](https://github.com/nearform/lyra) | 🌌 Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript. |
+| [linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) | Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
