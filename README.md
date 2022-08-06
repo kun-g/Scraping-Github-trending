@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [fauxpilot](https://github.com/moyix/fauxpilot) | FauxPilot - an open-source GitHub Copilot server |
+| [kaolin-wisp](https://github.com/NVIDIAGameWorks/kaolin-wisp) | NVIDIA Kaolin Wisp is a PyTorch library powered by NVIDIA Kaolin Core to work with neural fields (including NeRFs, NGLOD, instant-ngp and VQAD). |
+| [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Roadmap to becoming a developer in 2022 |
 | [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity |
-| [Cybersecurity-Resources](https://github.com/Nickyie/Cybersecurity-Resources) | A Library of various cybersecurity resources |
+| [protections-artifacts](https://github.com/elastic/protections-artifacts) | Elastic Security detection content for Endpoint |
+| [2022-HW-POC](https://github.com/sobinge/2022-HW-POC) | 2022 护网行动 POC 整理 |
 | [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) | 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace. |
-| [million](https://github.com/aidenybai/million) | Virtual DOM into the future! ✨🦁🚀✨ |
-| [eqwalizer](https://github.com/WhatsApp/eqwalizer) | A type-checker for Erlang |
-| [GFPGAN](https://github.com/TencentARC/GFPGAN) | GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration. |
 | [Wallpapers](https://github.com/antoniosarosi/Wallpapers) | None |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [nsq](https://github.com/nsqio/nsq) | A realtime distributed messaging platform |
-| [lyra](https://github.com/nearform/lyra) | 🌌 Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript. |
+| [CodeEdit](https://github.com/CodeEditApp/CodeEdit) | CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. |
+| [OmegaFold](https://github.com/HeliXonProtein/OmegaFold) | OmegaFold Release Code |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
