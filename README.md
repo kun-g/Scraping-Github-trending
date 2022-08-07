@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [AFFiNE](https://github.com/toeverything/AFFiNE) | There can be more than Notion and Miro. Affine is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. |
+| [multinerf](https://github.com/google-research/multinerf) | A Code Release for Mip-NeRF 360, Ref-NeRF, and RawNeRF |
+| [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
 | [fauxpilot](https://github.com/moyix/fauxpilot) | FauxPilot - an open-source GitHub Copilot server |
+| [public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) | Curated list of public penetration test reports released by several consulting firms and academic security groups |
+| [PersistenceSniper](https://github.com/last-byte/PersistenceSniper) | Powershell script that can be used by Blue Teams, Incident Responders and System Administrators to hunt persistences implanted in Windows machines. |
+| [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) | List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!! |
 | [kaolin-wisp](https://github.com/NVIDIAGameWorks/kaolin-wisp) | NVIDIA Kaolin Wisp is a PyTorch library powered by NVIDIA Kaolin Core to work with neural fields (including NeRFs, NGLOD, instant-ngp and VQAD). |
 | [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Roadmap to becoming a developer in 2022 |
-| [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity |
-| [protections-artifacts](https://github.com/elastic/protections-artifacts) | Elastic Security detection content for Endpoint |
-| [2022-HW-POC](https://github.com/sobinge/2022-HW-POC) | 2022 护网行动 POC 整理 |
-| [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) | 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace. |
-| [Wallpapers](https://github.com/antoniosarosi/Wallpapers) | None |
-| [CodeEdit](https://github.com/CodeEditApp/CodeEdit) | CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. |
-| [OmegaFold](https://github.com/HeliXonProtein/OmegaFold) | OmegaFold Release Code |
+| [stable-diffusion](https://github.com/pesser/stable-diffusion) | None |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
