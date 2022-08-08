@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [AFFiNE](https://github.com/toeverything/AFFiNE) | There can be more than Notion and Miro. Affine is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. |
-| [multinerf](https://github.com/google-research/multinerf) | A Code Release for Mip-NeRF 360, Ref-NeRF, and RawNeRF |
-| [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
-| [fauxpilot](https://github.com/moyix/fauxpilot) | FauxPilot - an open-source GitHub Copilot server |
-| [public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) | Curated list of public penetration test reports released by several consulting firms and academic security groups |
-| [PersistenceSniper](https://github.com/last-byte/PersistenceSniper) | Powershell script that can be used by Blue Teams, Incident Responders and System Administrators to hunt persistences implanted in Windows machines. |
-| [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) | List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!! |
+| [UTM](https://github.com/utmapp/UTM) | Virtual machines for iOS and macOS |
 | [kaolin-wisp](https://github.com/NVIDIAGameWorks/kaolin-wisp) | NVIDIA Kaolin Wisp is a PyTorch library powered by NVIDIA Kaolin Core to work with neural fields (including NeRFs, NGLOD, instant-ngp and VQAD). |
-| [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Roadmap to becoming a developer in 2022 |
-| [stable-diffusion](https://github.com/pesser/stable-diffusion) | None |
+| [terminal](https://github.com/microsoft/terminal) | The new Windows Terminal and the original Windows console host, all in the same place! |
+| [discoart](https://github.com/jina-ai/discoart) | Create Disco Diffusion artworks in one line |
+| [models](https://github.com/martinshkreli/models) | stock market models - have fun |
+| [ParlAI](https://github.com/facebookresearch/ParlAI) | A framework for training and evaluating AI models on a variety of openly available dialogue datasets. |
+| [exer_log](https://github.com/KalleHallden/exer_log) | None |
+| [public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) | Curated list of public penetration test reports released by several consulting firms and academic security groups |
+| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
