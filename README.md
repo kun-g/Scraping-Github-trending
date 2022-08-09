@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [AFFiNE](https://github.com/toeverything/AFFiNE) | There can be more than Notion and Miro. Affine is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. |
-| [UTM](https://github.com/utmapp/UTM) | Virtual machines for iOS and macOS |
-| [kaolin-wisp](https://github.com/NVIDIAGameWorks/kaolin-wisp) | NVIDIA Kaolin Wisp is a PyTorch library powered by NVIDIA Kaolin Core to work with neural fields (including NeRFs, NGLOD, instant-ngp and VQAD). |
-| [terminal](https://github.com/microsoft/terminal) | The new Windows Terminal and the original Windows console host, all in the same place! |
-| [discoart](https://github.com/jina-ai/discoart) | Create Disco Diffusion artworks in one line |
-| [models](https://github.com/martinshkreli/models) | stock market models - have fun |
-| [ParlAI](https://github.com/facebookresearch/ParlAI) | A framework for training and evaluating AI models on a variety of openly available dialogue datasets. |
-| [exer_log](https://github.com/KalleHallden/exer_log) | None |
-| [public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) | Curated list of public penetration test reports released by several consulting firms and academic security groups |
-| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
+| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
+| [iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world |
+| [Ventoy](https://github.com/ventoy/Ventoy) | A new bootable USB solution. |
+| [Marlin](https://github.com/MarlinFirmware/Marlin) | Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine. |
+| [clash](https://github.com/Dreamacro/clash) | A rule-based tunnel in Go. |
+| [guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) | GUIA EXTENSO DE PROGRAMAÇÃO: |
+| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+| [MHDDoS](https://github.com/MatrixTM/MHDDoS) | Best DDoS Attack Script Python3, (Cyber / DDos) Attack With 56 Methods |
+| [create-t3-app](https://github.com/t3-oss/create-t3-app) | Quickest way to start a new web app with full stack typesafety |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
