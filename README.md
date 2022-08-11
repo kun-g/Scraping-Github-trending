@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [AFFiNE](https://github.com/toeverything/AFFiNE) | There can be more than Notion and Miro. Affine is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. |
-| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
-| [iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world |
-| [Ventoy](https://github.com/ventoy/Ventoy) | A new bootable USB solution. |
-| [Marlin](https://github.com/MarlinFirmware/Marlin) | Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine. |
-| [clash](https://github.com/Dreamacro/clash) | A rule-based tunnel in Go. |
-| [guiadevbrasil](https://github.com/arthurspk/guiadevbrasil) | GUIA EXTENSO DE PROGRAMAÇÃO: |
-| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+| [cmdk](https://github.com/pacocoursey/cmdk) | Fast, unstyled command menu React component. |
+| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
+| [system-design-resources](https://github.com/InterviewReady/system-design-resources) | These are the best resources for System Design on the Internet |
+| [mev_bundle_generator](https://github.com/Alcibiades-Capital/mev_bundle_generator) | A MEV bundle generator written in Rust |
+| [dotfiles-public](https://github.com/craftzdog/dotfiles-public) | My personal dotfiles |
+| [graphql-engine](https://github.com/hasura/graphql-engine) | Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events. |
+| [applied-ml](https://github.com/eugeneyan/applied-ml) | 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production. |
 | [MHDDoS](https://github.com/MatrixTM/MHDDoS) | Best DDoS Attack Script Python3, (Cyber / DDos) Attack With 56 Methods |
-| [create-t3-app](https://github.com/t3-oss/create-t3-app) | Quickest way to start a new web app with full stack typesafety |
+| [unblob](https://github.com/onekey-sec/unblob) | Extract files from any kind of container formats |
+| [TamperingSyscalls](https://github.com/rad9800/TamperingSyscalls) | None |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
