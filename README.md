@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [cmdk](https://github.com/pacocoursey/cmdk) | Fast, unstyled command menu React component. |
-| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
-| [system-design-resources](https://github.com/InterviewReady/system-design-resources) | These are the best resources for System Design on the Internet |
-| [mev_bundle_generator](https://github.com/Alcibiades-Capital/mev_bundle_generator) | A MEV bundle generator written in Rust |
+| [astro](https://github.com/withastro/astro) | Build faster websites with Astro's next-gen island architecture 🏝✨ |
+| [novu](https://github.com/novuhq/novu) | 🚀 The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, content management, and much more... |
+| [annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) | 🧑‍🏫 59 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠 |
+| [engine-sim](https://github.com/ange-yaghi/engine-sim) | Combustion engine simulator that generates realistic audio. |
+| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+| [dragonfly](https://github.com/dragonflydb/dragonfly) | A modern replacement for Redis and Memcached |
 | [dotfiles-public](https://github.com/craftzdog/dotfiles-public) | My personal dotfiles |
-| [graphql-engine](https://github.com/hasura/graphql-engine) | Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events. |
+| [paper2gui](https://github.com/Baiyuetribe/paper2gui) | Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术 |
 | [applied-ml](https://github.com/eugeneyan/applied-ml) | 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production. |
-| [MHDDoS](https://github.com/MatrixTM/MHDDoS) | Best DDoS Attack Script Python3, (Cyber / DDos) Attack With 56 Methods |
-| [unblob](https://github.com/onekey-sec/unblob) | Extract files from any kind of container formats |
-| [TamperingSyscalls](https://github.com/rad9800/TamperingSyscalls) | None |
+| [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 12 Weeks, 24 Lessons, AI for All! |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
