@@ -25,16 +25,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [ImHex](https://github.com/WerWolv/ImHex) | 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. |
-| [gum](https://github.com/charmbracelet/gum) | A tool for glamorous shell scripts 🎀 |
-| [userver](https://github.com/userver-framework/userver) | The C++ Asynchronous Framework (beta) |
-| [CodeEdit](https://github.com/CodeEditApp/CodeEdit) | CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. |
-| [tabler](https://github.com/tabler/tabler) | Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap |
-| [lotion](https://github.com/Dashibase/lotion) | An open-source Notion UI built with Vue 3 |
-| [engineeringladders](https://github.com/jorgef/engineeringladders) | A framework for Engineering Managers |
-| [minetest](https://github.com/minetest/minetest) | Minetest is an open source voxel game engine with easy modding and game creation |
-| [GFPGAN](https://github.com/TencentARC/GFPGAN) | GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration. |
-| [react-native-skia](https://github.com/Shopify/react-native-skia) | High-performance React Native Graphics using Skia |
+| [AFFiNE](https://github.com/toeverything/AFFiNE) | There can be more than Notion and Miro. Affine is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. |
+| [novu](https://github.com/novuhq/novu) | 🚀 The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, content management, and much more... |
+| [dragonfly](https://github.com/dragonflydb/dragonfly) | A modern replacement for Redis and Memcached |
+| [astro](https://github.com/withastro/astro) | Build faster websites with Astro's next-gen island architecture 🏝✨ |
+| [fauxpilot](https://github.com/moyix/fauxpilot) | FauxPilot - an open-source GitHub Copilot server |
+| [MHDDoS](https://github.com/MatrixTM/MHDDoS) | Best DDoS Attack Script Python3, (Cyber / DDos) Attack With 56 Methods |
+| [discoart](https://github.com/jina-ai/discoart) | Create Disco Diffusion artworks in one line |
+| [latent-diffusion](https://github.com/CompVis/latent-diffusion) | High-Resolution Image Synthesis with Latent Diffusion Models |
+| [Ventoy](https://github.com/ventoy/Ventoy) | A new bootable USB solution. |
+| [stable-diffusion](https://github.com/pesser/stable-diffusion) | None |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
