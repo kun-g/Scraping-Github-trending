@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [com.unity.demoteam.hair](https://github.com/Unity-Technologies/com.unity.demoteam.hair) | An integrated solution for authoring / importing / simulating / rendering strand-based hair in Unity. |
+| [ofrak](https://github.com/redballoonsecurity/ofrak) | OFRAK: unpack, modify, and repack binaries. |
+| [novu](https://github.com/novuhq/novu) | 🚀 The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, content management, and much more... |
+| [juicefs](https://github.com/juicedata/juicefs) | JuiceFS is a distributed POSIX file system built on top of Redis and S3. |
 | [stable-diffusion](https://github.com/CompVis/stable-diffusion) | None |
-| [engine-sim](https://github.com/ange-yaghi/engine-sim) | Combustion engine simulator that generates realistic audio. |
 | [astro](https://github.com/withastro/astro) | Build faster websites with Astro's next-gen island architecture 🏝✨ |
-| [dotfiles-public](https://github.com/craftzdog/dotfiles-public) | My personal dotfiles |
+| [engine-sim](https://github.com/ange-yaghi/engine-sim) | Combustion engine simulator that generates realistic audio. |
 | [dragonfly](https://github.com/dragonflydb/dragonfly) | A modern replacement for Redis and Memcached |
-| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
-| [fluentui-emoji](https://github.com/microsoft/fluentui-emoji) | None |
-| [ocsf-schema](https://github.com/ocsf/ocsf-schema) | OCSF Schema |
-| [Mindustry](https://github.com/Anuken/Mindustry) | The automation tower defense RTS |
-| [paper2gui](https://github.com/Baiyuetribe/paper2gui) | Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术 |
+| [Operator-Mono](https://github.com/keyding/Operator-Mono) | A nice code font |
+| [flutter-tips-and-tricks](https://github.com/vandadnp/flutter-tips-and-tricks) | A Collection of Flutter and Dart Tips and Tricks |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
