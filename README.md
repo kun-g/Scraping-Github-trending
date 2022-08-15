@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [com.unity.demoteam.hair](https://github.com/Unity-Technologies/com.unity.demoteam.hair) | An integrated solution for authoring / importing / simulating / rendering strand-based hair in Unity. |
-| [ofrak](https://github.com/redballoonsecurity/ofrak) | OFRAK: unpack, modify, and repack binaries. |
-| [novu](https://github.com/novuhq/novu) | 🚀 The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, content management, and much more... |
-| [juicefs](https://github.com/juicedata/juicefs) | JuiceFS is a distributed POSIX file system built on top of Redis and S3. |
+| [NewPipe](https://github.com/TeamNewPipe/NewPipe) | A libre lightweight streaming front-end for Android. |
 | [stable-diffusion](https://github.com/CompVis/stable-diffusion) | None |
-| [astro](https://github.com/withastro/astro) | Build faster websites with Astro's next-gen island architecture 🏝✨ |
-| [engine-sim](https://github.com/ange-yaghi/engine-sim) | Combustion engine simulator that generates realistic audio. |
-| [dragonfly](https://github.com/dragonflydb/dragonfly) | A modern replacement for Redis and Memcached |
-| [Operator-Mono](https://github.com/keyding/Operator-Mono) | A nice code font |
-| [flutter-tips-and-tricks](https://github.com/vandadnp/flutter-tips-and-tricks) | A Collection of Flutter and Dart Tips and Tricks |
+| [Summer2023-Internships](https://github.com/pittcsc/Summer2023-Internships) | Collection of Summer 2023 tech internships! |
+| [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) | A C# port of shadowsocks |
+| [roc](https://github.com/roc-lang/roc) | Roc is a language for making delightful software. |
+| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
+| [PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! |
+| [python-keylogger](https://github.com/davidbombal/python-keylogger) | None |
+| [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) | Graphic notes on Gilbert Strang's "Linear Algebra for Everyone" |
+| [Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Python - 100天从新手到大师 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
