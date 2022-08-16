@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [NewPipe](https://github.com/TeamNewPipe/NewPipe) | A libre lightweight streaming front-end for Android. |
 | [stable-diffusion](https://github.com/CompVis/stable-diffusion) | None |
-| [Summer2023-Internships](https://github.com/pittcsc/Summer2023-Internships) | Collection of Summer 2023 tech internships! |
-| [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) | A C# port of shadowsocks |
-| [roc](https://github.com/roc-lang/roc) | Roc is a language for making delightful software. |
-| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
-| [PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! |
-| [python-keylogger](https://github.com/davidbombal/python-keylogger) | None |
+| [PathOfBuilding](https://github.com/PathOfBuildingCommunity/PathOfBuilding) | Offline build planner for Path of Exile. |
+| [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
+| [phaser](https://github.com/photonstorm/phaser) | Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering. |
+| [bitcoin](https://github.com/bitcoin/bitcoin) | Bitcoin Core integration/staging tree |
+| [rustle](https://github.com/pintariching/rustle) | Svelte compiler rewritten in Rust |
 | [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) | Graphic notes on Gilbert Strang's "Linear Algebra for Everyone" |
-| [Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Python - 100天从新手到大师 |
+| [javascript-questions](https://github.com/lydiahallie/javascript-questions) | A long list of (advanced) JavaScript questions, and their explanations ✨ |
+| [weixin](https://github.com/q164749/weixin) | 微信公众号推送模板消息 |
+| [sui](https://github.com/MystenLabs/sui) | Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
