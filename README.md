@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [stable-diffusion](https://github.com/CompVis/stable-diffusion) | None |
-| [PathOfBuilding](https://github.com/PathOfBuildingCommunity/PathOfBuilding) | Offline build planner for Path of Exile. |
+| [OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) | Investment Research for Everyone, Anywhere. |
+| [erg](https://github.com/erg-lang/erg) | A Python-compatible statically typed language |
+| [python-keylogger](https://github.com/davidbombal/python-keylogger) | None |
 | [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
-| [phaser](https://github.com/photonstorm/phaser) | Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering. |
-| [bitcoin](https://github.com/bitcoin/bitcoin) | Bitcoin Core integration/staging tree |
-| [rustle](https://github.com/pintariching/rustle) | Svelte compiler rewritten in Rust |
+| [echo](https://github.com/labstack/echo) | High performance, minimalist Go web framework |
+| [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) | None |
 | [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) | Graphic notes on Gilbert Strang's "Linear Algebra for Everyone" |
-| [javascript-questions](https://github.com/lydiahallie/javascript-questions) | A long list of (advanced) JavaScript questions, and their explanations ✨ |
-| [weixin](https://github.com/q164749/weixin) | 微信公众号推送模板消息 |
-| [sui](https://github.com/MystenLabs/sui) | Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language |
+| [learn-awesome-gamedev](https://github.com/notpresident35/learn-awesome-gamedev) | A curated collection of game development resources |
+| [reveal.js](https://github.com/hakimel/reveal.js) | The HTML Presentation Framework |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
