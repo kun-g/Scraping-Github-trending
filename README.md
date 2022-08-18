@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [headscale](https://github.com/juanfont/headscale) | An open source, self-hosted implementation of the Tailscale control server |
+| [imersao9](https://github.com/codeedu/imersao9) | None |
 | [stable-diffusion](https://github.com/CompVis/stable-diffusion) | None |
-| [OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) | Investment Research for Everyone, Anywhere. |
-| [erg](https://github.com/erg-lang/erg) | A Python-compatible statically typed language |
-| [python-keylogger](https://github.com/davidbombal/python-keylogger) | None |
+| [Pow](https://github.com/movingparts-io/Pow) | Delightful Transitions for SwiftUI |
+| [disco-diffusion](https://github.com/alembics/disco-diffusion) | None |
+| [curriculo](https://github.com/engenheiracoelho/curriculo) | Esse repositório tem o objetivo de te ajudar a criar um bom currículo |
+| [rofi](https://github.com/adi1090x/rofi) | A huge collection of Rofi based custom Applets, Launchers & Powermenus. |
+| [phaser](https://github.com/photonstorm/phaser) | Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering. |
+| [Burp2Malleable](https://github.com/CodeXTF2/Burp2Malleable) | Quick python utility I wrote to turn HTTP requests from burp suite into Cobalt Strike Malleable C2 profiles |
 | [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
-| [echo](https://github.com/labstack/echo) | High performance, minimalist Go web framework |
-| [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) | None |
-| [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) | Graphic notes on Gilbert Strang's "Linear Algebra for Everyone" |
-| [learn-awesome-gamedev](https://github.com/notpresident35/learn-awesome-gamedev) | A curated collection of game development resources |
-| [reveal.js](https://github.com/hakimel/reveal.js) | The HTML Presentation Framework |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
