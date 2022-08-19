@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [headscale](https://github.com/juanfont/headscale) | An open source, self-hosted implementation of the Tailscale control server |
-| [imersao9](https://github.com/codeedu/imersao9) | None |
-| [stable-diffusion](https://github.com/CompVis/stable-diffusion) | None |
-| [Pow](https://github.com/movingparts-io/Pow) | Delightful Transitions for SwiftUI |
-| [disco-diffusion](https://github.com/alembics/disco-diffusion) | None |
-| [curriculo](https://github.com/engenheiracoelho/curriculo) | Esse repositório tem o objetivo de te ajudar a criar um bom currículo |
-| [rofi](https://github.com/adi1090x/rofi) | A huge collection of Rofi based custom Applets, Launchers & Powermenus. |
-| [phaser](https://github.com/photonstorm/phaser) | Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering. |
-| [Burp2Malleable](https://github.com/CodeXTF2/Burp2Malleable) | Quick python utility I wrote to turn HTTP requests from burp suite into Cobalt Strike Malleable C2 profiles |
-| [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
+| [Proton](https://github.com/ValveSoftware/Proton) | Compatibility tool for Steam Play based on Wine and additional components |
+| [system-design](https://github.com/karanpratapsingh/system-design) | Learn how to design systems at scale and prepare for system design interviews |
+| [Sonic-Mania-Decompilation](https://github.com/Rubberduckycooly/Sonic-Mania-Decompilation) | None |
+| [azure-docs](https://github.com/MicrosoftDocs/azure-docs) | Open source documentation of Microsoft Azure |
+| [og-aws](https://github.com/open-guides/og-aws) | 📙 Amazon Web Services — a practical guide |
+| [yoloair](https://github.com/iscyy/yoloair) | 🔥🔥🔥YOLOAir：Including YOLOv5, YOLOv7, Transformer, YOLOX, YOLOR and other networks... Support to improve backbone, head, loss, IoU, NMS...The original version was created based on YOLOv5 |
+| [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | 💯 Curated coding interview preparation materials for busy software engineers |
+| [ml-neuman](https://github.com/apple/ml-neuman) | Official repository of NeuMan: Neural Human Radiance Field from a Single Video (ECCV 2022) |
+| [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) | 🛁 Clean Code concepts adapted for JavaScript |
+| [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) | ✅ The Node.js best practices list (August 2022) |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
