@@ -1,0 +1,298 @@
+[
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/3797675",
+        "name": "Stefan Prodan",
+        "repo": {
+            "description": "Go microservice template for Kubernetes",
+            "name": "podinfo",
+            "url": "https://github.com/stefanprodan/podinfo"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/stefanprodan",
+        "username": "stefanprodan"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1945",
+        "name": "Casey Rodarmor",
+        "repo": {
+            "description": "\ud83e\udd16 Just a command runner",
+            "name": "just",
+            "url": "https://github.com/casey/just"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/casey",
+        "username": "casey"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/406394",
+        "name": "Evan Wallace",
+        "repo": {
+            "description": "An extremely fast JavaScript and CSS bundler and minifier",
+            "name": "esbuild",
+            "url": "https://github.com/evanw/esbuild"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/evanw",
+        "username": "evanw"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/308610",
+        "name": "Jason R. Coombs",
+        "repo": {
+            "description": null,
+            "name": "keyring",
+            "url": "https://github.com/jaraco/keyring"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/jaraco",
+        "username": "jaraco"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/306134",
+        "name": "William Candillon",
+        "repo": {
+            "description": "\u269b\ufe0f \ud83d\udcfa Projects from the \u201cCan it be done in React Native?\u201d YouTube series",
+            "name": "can-it-be-done-in-react-native",
+            "url": "https://github.com/wcandillon/can-it-be-done-in-react-native"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/wcandillon",
+        "username": "wcandillon"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1162160",
+        "name": "Rich Harris",
+        "repo": {
+            "description": "Straightforward project scaffolding",
+            "name": "degit",
+            "url": "https://github.com/Rich-Harris/degit"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/Rich-Harris",
+        "username": "Rich-Harris"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/9019397",
+        "name": "Aleksandra",
+        "repo": {
+            "description": "Inspect your zustand store in React DevTools \ud83d\udc3b\u269b\ufe0f",
+            "name": "simple-zustand-devtools",
+            "url": "https://github.com/beerose/simple-zustand-devtools"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/beerose",
+        "username": "beerose"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/17892",
+        "name": "Matt Raible",
+        "repo": {
+            "description": null,
+            "name": "okta-spring-boot-saml-example",
+            "url": "https://github.com/mraible/okta-spring-boot-saml-example"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/mraible",
+        "username": "mraible"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/19343",
+        "name": "Andrey Sitnik",
+        "repo": {
+            "description": "A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript",
+            "name": "nanoid",
+            "url": "https://github.com/ai/nanoid"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/ai",
+        "username": "ai"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/25263378",
+        "name": "Michael Bui",
+        "repo": {
+            "description": "A Flutter plugin for displaying local notifications on Android, iOS, macOS and Linux",
+            "name": "flutter_local_notifications",
+            "url": "https://github.com/MaikuB/flutter_local_notifications"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/MaikuB",
+        "username": "MaikuB"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/119296",
+        "name": "Geoffroy Couprie",
+        "repo": {
+            "description": "Rust parser combinator framework",
+            "name": "nom",
+            "url": "https://github.com/Geal/nom"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/Geal",
+        "username": "Geal"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/25567304",
+        "name": "Philip Rebohle",
+        "repo": {
+            "description": "Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine",
+            "name": "dxvk",
+            "url": "https://github.com/doitsujin/dxvk"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/doitsujin",
+        "username": "doitsujin"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/275001",
+        "name": "dgtlmoon",
+        "repo": {
+            "description": "changedetection.io - The best and simplest self-hosted free open source website change detection tracking, monitoring and notification se\u2026",
+            "name": "changedetection.io",
+            "url": "https://github.com/dgtlmoon/changedetection.io"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/dgtlmoon",
+        "username": "dgtlmoon"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/7904185",
+        "name": "Lewis Russell",
+        "repo": {
+            "description": "Git integration for buffers",
+            "name": "gitsigns.nvim",
+            "url": "https://github.com/lewis6991/gitsigns.nvim"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/lewis6991",
+        "username": "lewis6991"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/118015",
+        "name": "Ben Johnson",
+        "repo": {
+            "description": "Streaming replication for SQLite.",
+            "name": "litestream",
+            "url": "https://github.com/benbjohnson/litestream"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/benbjohnson",
+        "username": "benbjohnson"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/271950",
+        "name": "Jonathan Dick",
+        "repo": {
+            "description": "Barcode Scanning for MAUI?",
+            "name": "ZXing.Net.Maui",
+            "url": "https://github.com/Redth/ZXing.Net.Maui"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/Redth",
+        "username": "Redth"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2036909",
+        "name": "Payton Swick",
+        "repo": {
+            "description": "Find undefined and unused variables with the PHP Codesniffer static analysis tool.",
+            "name": "phpcs-variable-analysis",
+            "url": "https://github.com/sirbrillig/phpcs-variable-analysis"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/sirbrillig",
+        "username": "sirbrillig"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/11263900",
+        "name": "vn.py",
+        "repo": {
+            "description": "\u57fa\u4e8ePython\u7684\u5f00\u6e90\u91cf\u5316\u4ea4\u6613\u5e73\u53f0\u5f00\u53d1\u6846\u67b6",
+            "name": "vnpy",
+            "url": "https://github.com/vnpy/vnpy"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/vnpy",
+        "username": "vnpy"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/3674760",
+        "name": "Roman Gershman",
+        "repo": {
+            "description": "A modern framework for backend development based on io_uring Linux interface",
+            "name": "helio",
+            "url": "https://github.com/romange/helio"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/romange",
+        "username": "romange"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1450685",
+        "name": "Rick",
+        "repo": {
+            "description": "\u652f\u6301\u8fdc\u7a0b\u529e\u516c\u7684\u4e2d\u56fd\u516c\u53f8",
+            "name": "remote-jobs-in-china",
+            "url": "https://github.com/LinuxSuRen/remote-jobs-in-china"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/LinuxSuRen",
+        "username": "LinuxSuRen"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1478487",
+        "name": "Marten Seemann",
+        "repo": {
+            "description": "WebTransport implementation based on quic-go (https://datatracker.ietf.org/doc/draft-ietf-webtrans-http3/)",
+            "name": "webtransport-go",
+            "url": "https://github.com/marten-seemann/webtransport-go"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/marten-seemann",
+        "username": "marten-seemann"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2256941",
+        "name": "Leonard Hecker",
+        "repo": {
+            "description": "A powerful duplicate file finder and an enhanced fork of 'fdupes'.",
+            "name": "jdupes",
+            "url": "https://github.com/lhecker/jdupes"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/lhecker",
+        "username": "lhecker"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1247578",
+        "name": "Dario Nieuwenhuis",
+        "repo": {
+            "description": "Reverse-COBS encoding",
+            "name": "rcobs",
+            "url": "https://github.com/Dirbaio/rcobs"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/Dirbaio",
+        "username": "Dirbaio"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/4178417",
+        "name": "Andy Zhang",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/andyzhangx",
+        "username": "andyzhangx"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/35742643",
+        "name": "Jonny Borges",
+        "repo": {
+            "description": "Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get.",
+            "name": "getx",
+            "url": "https://github.com/jonataslaw/getx"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/jonataslaw",
+        "username": "jonataslaw"
+    }
+]
