@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [blizzless-diiis](https://github.com/blizzless/blizzless-diiis) | Fully-functional open-source server implementation for Diablo 3 |
-| [mev-boost-relay](https://github.com/flashbots/mev-boost-relay) | Flashbots Eth2/mev-boost relay |
+| [azure-docs](https://github.com/MicrosoftDocs/azure-docs) | Open source documentation of Microsoft Azure |
 | [system-design](https://github.com/karanpratapsingh/system-design) | Learn how to design systems at scale and prepare for system design interviews |
-| [javascript](https://github.com/airbnb/javascript) | JavaScript Style Guide |
-| [helang](https://github.com/kifuan/helang) | 何语言，次世代赛博编程语言。 |
-| [og-aws](https://github.com/open-guides/og-aws) | 📙 Amazon Web Services — a practical guide |
+| [kit](https://github.com/sveltejs/kit) | The fastest way to build Svelte apps |
+| [supabase](https://github.com/supabase/supabase) | The open source Firebase alternative. Follow to stay updated about our public Beta. |
+| [blizzless-diiis](https://github.com/blizzless/blizzless-diiis) | Fully-functional open-source server implementation for Diablo 3 |
 | [fmt](https://github.com/fmtlib/fmt) | A modern formatting library |
-| [ravynos](https://github.com/ravynsoft/ravynos) | A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS) |
-| [RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) | Create Reddit Videos with just✨ one command ✨ |
-| [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) | ✅ The Node.js best practices list (August 2022) |
+| [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) | A curated list of awesome computer vision resources |
+| [helang](https://github.com/kifuan/helang) | 何语言，次世代赛博编程语言。 |
+| [javascript](https://github.com/airbnb/javascript) | JavaScript Style Guide |
+| [zinc](https://github.com/zinclabs/zinc) | ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
