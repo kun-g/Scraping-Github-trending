@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [azure-docs](https://github.com/MicrosoftDocs/azure-docs) | Open source documentation of Microsoft Azure |
-| [system-design](https://github.com/karanpratapsingh/system-design) | Learn how to design systems at scale and prepare for system design interviews |
-| [kit](https://github.com/sveltejs/kit) | The fastest way to build Svelte apps |
 | [supabase](https://github.com/supabase/supabase) | The open source Firebase alternative. Follow to stay updated about our public Beta. |
+| [aptos-core](https://github.com/aptos-labs/aptos-core) | A layer 1 for everyone! |
+| [system-design](https://github.com/karanpratapsingh/system-design) | Learn how to design systems at scale and prepare for system design interviews |
 | [blizzless-diiis](https://github.com/blizzless/blizzless-diiis) | Fully-functional open-source server implementation for Diablo 3 |
-| [fmt](https://github.com/fmtlib/fmt) | A modern formatting library |
-| [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) | A curated list of awesome computer vision resources |
-| [helang](https://github.com/kifuan/helang) | 何语言，次世代赛博编程语言。 |
+| [jina](https://github.com/jina-ai/jina) | Build cross-modal and multimodal applications on the cloud · Neural Search · Creative AI · Cloud Native |
 | [javascript](https://github.com/airbnb/javascript) | JavaScript Style Guide |
-| [zinc](https://github.com/zinclabs/zinc) | ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. |
+| [data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews) | Data science interview questions and answers |
+| [mlbookcamp-code](https://github.com/alexeygrigorev/mlbookcamp-code) | The code from the Machine Learning Bookcamp book and a free course based on the book |
+| [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) | A curated list of awesome computer vision resources |
+| [rust](https://github.com/rust-lang/rust) | Empowering everyone to build reliable and efficient software. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
