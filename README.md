@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [supabase](https://github.com/supabase/supabase) | The open source Firebase alternative. Follow to stay updated about our public Beta. |
+| [zinc](https://github.com/zinclabs/zinc) | ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. |
 | [aptos-core](https://github.com/aptos-labs/aptos-core) | A layer 1 for everyone! |
-| [system-design](https://github.com/karanpratapsingh/system-design) | Learn how to design systems at scale and prepare for system design interviews |
-| [blizzless-diiis](https://github.com/blizzless/blizzless-diiis) | Fully-functional open-source server implementation for Diablo 3 |
-| [jina](https://github.com/jina-ai/jina) | Build cross-modal and multimodal applications on the cloud · Neural Search · Creative AI · Cloud Native |
 | [javascript](https://github.com/airbnb/javascript) | JavaScript Style Guide |
-| [data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews) | Data science interview questions and answers |
-| [mlbookcamp-code](https://github.com/alexeygrigorev/mlbookcamp-code) | The code from the Machine Learning Bookcamp book and a free course based on the book |
-| [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) | A curated list of awesome computer vision resources |
-| [rust](https://github.com/rust-lang/rust) | Empowering everyone to build reliable and efficient software. |
+| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+| [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites |
+| [Grasscutter](https://github.com/Grasscutters/Grasscutter) | A server software reimplementation for a certain anime game. |
+| [supabase](https://github.com/supabase/supabase) | The open source Firebase alternative. Follow to stay updated about our public Beta. |
+| [cosmopolitan](https://github.com/jart/cosmopolitan) | build-once run-anywhere c library |
+| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
+| [Pokedex](https://github.com/skydoves/Pokedex) | 🗡️ Pokedex demonstrates modern Android development with Hilt, Material Motion, Coroutines, Flow, Jetpack (Room, ViewModel) based on MVVM architecture. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
