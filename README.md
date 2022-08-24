@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [zinc](https://github.com/zinclabs/zinc) | ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. |
-| [aptos-core](https://github.com/aptos-labs/aptos-core) | A layer 1 for everyone! |
+| [diffusers](https://github.com/huggingface/diffusers) | 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch |
+| [stable-diffusion](https://github.com/CompVis/stable-diffusion) | None |
+| [surrealdb](https://github.com/surrealdb/surrealdb) | A scalable, distributed, collaborative, document-graph database, for the realtime web |
+| [Rust](https://github.com/TheAlgorithms/Rust) | All Algorithms implemented in Rust |
+| [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | List of Computer Science courses with video lectures. |
+| [weixin_tuisong](https://github.com/erwanjun/weixin_tuisong) | 基于猪咪不是猪老哥制作的微信公众号推送教程 |
+| [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) | ⭐️ Companies that don't have a broken hiring process |
+| [Sandman](https://github.com/Idov31/Sandman) | Sandman is a NTP based backdoor for red team engagements in hardened networks. |
+| [system-design](https://github.com/karanpratapsingh/system-design) | Learn how to design systems at scale and prepare for system design interviews |
 | [javascript](https://github.com/airbnb/javascript) | JavaScript Style Guide |
-| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
-| [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites |
-| [Grasscutter](https://github.com/Grasscutters/Grasscutter) | A server software reimplementation for a certain anime game. |
-| [supabase](https://github.com/supabase/supabase) | The open source Firebase alternative. Follow to stay updated about our public Beta. |
-| [cosmopolitan](https://github.com/jart/cosmopolitan) | build-once run-anywhere c library |
-| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
-| [Pokedex](https://github.com/skydoves/Pokedex) | 🗡️ Pokedex demonstrates modern Android development with Hilt, Material Motion, Coroutines, Flow, Jetpack (Room, ViewModel) based on MVVM architecture. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
