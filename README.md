@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [surrealdb](https://github.com/surrealdb/surrealdb) | A scalable, distributed, collaborative, document-graph database, for the realtime web |
-| [diffusers](https://github.com/huggingface/diffusers) | 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch |
-| [stable-diffusion](https://github.com/CompVis/stable-diffusion) | None |
-| [UnityPerformanceTuningBible](https://github.com/CyberAgentGameEntertainment/UnityPerformanceTuningBible) | Unity Performance Tuning knowledge book |
-| [zinc](https://github.com/zinclabs/zinc) | ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. |
-| [textual_inversion](https://github.com/rinongal/textual_inversion) | None |
+| [semana-frontend-mundo-invertido](https://github.com/digitalinnovationone/semana-frontend-mundo-invertido) | Página com theme switcher utilizando HTML, CSS e JavaScript, além de integrar um formulário de inscrição com um banco de dados Firebase. |
+| [multinerf](https://github.com/google-research/multinerf) | A Code Release for Mip-NeRF 360, Ref-NeRF, and RawNeRF |
 | [daily_morning](https://github.com/rxrw/daily_morning) | 给别人家的女朋友发早安 |
-| [DirtyCred](https://github.com/Markakd/DirtyCred) | None |
-| [headway](https://github.com/headwaymaps/headway) | Self-hostable maps stack, powered by OpenStreetMap. |
-| [Rust](https://github.com/TheAlgorithms/Rust) | All Algorithms implemented in Rust |
+| [leetcode](https://github.com/doocs/leetcode) | 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解 |
+| [Akebi-GC](https://github.com/Akebi-Group/Akebi-GC) | The great software for some game that exploiting anime girls (and boys). |
+| [first-contributions](https://github.com/firstcontributions/first-contributions) | 🚀✨ Help beginners to contribute to open source projects |
+| [surrealdb](https://github.com/surrealdb/surrealdb) | A scalable, distributed, collaborative, document-graph database, for the realtime web |
+| [awk](https://github.com/onetrueawk/awk) | One true awk |
+| [rustle](https://github.com/pintariching/rustle) | Svelte compiler rewritten in Rust |
+| [paper2gui](https://github.com/Baiyuetribe/paper2gui) | Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
