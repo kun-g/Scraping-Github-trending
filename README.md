@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [Cemu](https://github.com/cemu-project/Cemu) | Cemu is a Wii U emulator |
-| [daily_morning](https://github.com/rxrw/daily_morning) | 给别人家的女朋友发早安 |
+| [beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) | An interactive TypeScript tutorial for beginners |
 | [leetcode](https://github.com/doocs/leetcode) | 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解 |
-| [multinerf](https://github.com/google-research/multinerf) | A Code Release for Mip-NeRF 360, Ref-NeRF, and RawNeRF |
-| [FFXIVQuickLauncher](https://github.com/goatcorp/FFXIVQuickLauncher) | Custom launcher for FFXIV |
-| [beginners-typescript](https://github.com/total-typescript/beginners-typescript) | 18 interactive exercises for TypeScript beginners |
-| [sakana](https://github.com/itorr/sakana) | 🐟「Sakana!」石蒜虚拟器 |
-| [stable-diffusion-ui](https://github.com/cmdr2/stable-diffusion-ui) | A simple way to install and use Stable Diffusion on your own computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image. |
-| [run](https://github.com/The-Run-Philosophy-Organization/run) | 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。 |
-| [daily_reminder](https://github.com/limoest/daily_reminder) | 微信公众号全自动每日推送 |
+| [guava](https://github.com/google/guava) | Google core libraries for Java |
+| [sidekick](https://github.com/runsidekick/sidekick) | Free and open-source live application debugger. Like chrome dev tools but for your backend |
+| [TypeScript](https://github.com/microsoft/TypeScript) | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. |
+| [hoaxshell](https://github.com/t3l3machus/hoaxshell) | An unconventional Windows reverse shell, currently undetected by Microsoft Defender and various other AV solutions, solely based on http(s) traffic. |
+| [weekly](https://github.com/ascoders/weekly) | 前端精读周刊。帮你理解最前沿、实用的技术。 |
+| [Cemu](https://github.com/cemu-project/Cemu) | Cemu is a Wii U emulator |
+| [pocketbase](https://github.com/pocketbase/pocketbase) | Open Source realtime backend in 1 file |
+| [milvus](https://github.com/milvus-io/milvus) | Vector database for scalable similarity search and AI applications. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
