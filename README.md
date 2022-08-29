@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) | An interactive TypeScript tutorial for beginners |
+| [divkit](https://github.com/divkit/divkit) | DivKit is an open source Server-Driven UI (SDUI) framework. SDUI is a an emerging technique that leverage the server to build the user interfaces of their mobile app |
 | [leetcode](https://github.com/doocs/leetcode) | 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解 |
-| [guava](https://github.com/google/guava) | Google core libraries for Java |
-| [sidekick](https://github.com/runsidekick/sidekick) | Free and open-source live application debugger. Like chrome dev tools but for your backend |
-| [TypeScript](https://github.com/microsoft/TypeScript) | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. |
-| [hoaxshell](https://github.com/t3l3machus/hoaxshell) | An unconventional Windows reverse shell, currently undetected by Microsoft Defender and various other AV solutions, solely based on http(s) traffic. |
-| [weekly](https://github.com/ascoders/weekly) | 前端精读周刊。帮你理解最前沿、实用的技术。 |
-| [Cemu](https://github.com/cemu-project/Cemu) | Cemu is a Wii U emulator |
-| [pocketbase](https://github.com/pocketbase/pocketbase) | Open Source realtime backend in 1 file |
-| [milvus](https://github.com/milvus-io/milvus) | Vector database for scalable similarity search and AI applications. |
+| [100-go-mistakes](https://github.com/teivah/100-go-mistakes) | Source code and community space of 📖 100 Go Mistakes |
+| [daily_morning](https://github.com/rxrw/daily_morning) | 给别人家的女朋友发早安 |
+| [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
+| [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI |
+| [crawlee](https://github.com/apify/crawlee) | Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast. |
+| [GFPGAN](https://github.com/TencentARC/GFPGAN) | GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration. |
+| [devbox](https://github.com/jetpack-io/devbox) | Instant, easy, predictable shells and containers. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
