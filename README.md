@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch! |
 | [life_code](https://github.com/hunar4321/life_code) | A simple program to simulate attraction/reuplsion forces between many particles |
-| [beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) | An interactive TypeScript tutorial for beginners |
-| [jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com) | 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch! |
-| [FISSURE](https://github.com/ainfosec/FISSURE) | The RF and reverse engineering framework for everyone |
-| [free-for-dev](https://github.com/ripienaar/free-for-dev) | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev |
-| [cloud-developer](https://github.com/udacity/cloud-developer) | content for Udacity's cloud developer nanodegree |
-| [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI |
+| [stable_diffusion.openvino](https://github.com/bes-dev/stable_diffusion.openvino) | None |
 | [upscayl](https://github.com/upscayl/upscayl) | 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy. |
-| [SMSBoom](https://github.com/OpenEthan/SMSBoom) | 短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！ |
-| [divkit](https://github.com/divkit/divkit) | DivKit is an open source Server-Driven UI (SDUI) framework. SDUI is a an emerging technique that leverage the server to build the user interfaces of their mobile app |
+| [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI |
+| [DeepFaceLab](https://github.com/iperov/DeepFaceLab) | DeepFaceLab is the leading software for creating deepfakes. |
+| [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all |
+| [free-for-dev](https://github.com/ripienaar/free-for-dev) | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev |
+| [FISSURE](https://github.com/ainfosec/FISSURE) | The RF and reverse engineering framework for everyone |
+| [edicao-04-level-1](https://github.com/cwi-reset/edicao-04-level-1) | None |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
