@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch! |
-| [life_code](https://github.com/hunar4321/life_code) | A simple program to simulate attraction/reuplsion forces between many particles |
 | [stable_diffusion.openvino](https://github.com/bes-dev/stable_diffusion.openvino) | None |
-| [upscayl](https://github.com/upscayl/upscayl) | 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy. |
-| [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI |
-| [DeepFaceLab](https://github.com/iperov/DeepFaceLab) | DeepFaceLab is the leading software for creating deepfakes. |
-| [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all |
+| [CodeEdit](https://github.com/CodeEditApp/CodeEdit) | CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. |
+| [engine-sim](https://github.com/ange-yaghi/engine-sim) | Combustion engine simulator that generates realistic audio. |
+| [VPhysics-Jolt](https://github.com/Joshua-Ashton/VPhysics-Jolt) | Volt (VPhysics Jolt) is a replacement physics module for the Source Engine. |
+| [sd-enable-textual-inversion](https://github.com/hlky/sd-enable-textual-inversion) | Copy these files to your stable-diffusion to enable text-inversion |
+| [jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch! |
+| [bazuka](https://github.com/zeeka-network/bazuka) | Rust implementation of Zeeka protocol |
 | [free-for-dev](https://github.com/ripienaar/free-for-dev) | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev |
-| [FISSURE](https://github.com/ainfosec/FISSURE) | The RF and reverse engineering framework for everyone |
-| [edicao-04-level-1](https://github.com/cwi-reset/edicao-04-level-1) | None |
+| [stable-diffusion-old](https://github.com/magnusviri/stable-diffusion-old) | Placeholder for the old Stable Diffusion Mac version |
+| [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | A list of Free Software network services and web applications which can be hosted on your own servers |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
