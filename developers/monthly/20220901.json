@@ -1,0 +1,302 @@
+[
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/5425387",
+        "name": "Ben V. Brown",
+        "repo": {
+            "description": "Open Source Soldering Iron firmware for Miniware and Pinecil",
+            "name": "IronOS",
+            "url": "https://github.com/Ralim/IronOS"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/Ralim",
+        "username": "Ralim"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/506592",
+        "name": "Dimitri Sabadie",
+        "repo": {
+            "description": "The power of trees at your fingertips.",
+            "name": "mind.nvim",
+            "url": "https://github.com/phaazon/mind.nvim"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/phaazon",
+        "username": "phaazon"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1148717",
+        "name": "Emil Ernerfeldt",
+        "repo": {
+            "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
+            "name": "egui",
+            "url": "https://github.com/emilk/egui"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/emilk",
+        "username": "emilk"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/4196",
+        "name": "Hadley Wickham",
+        "repo": {
+            "description": "R for data science: a book",
+            "name": "r4ds",
+            "url": "https://github.com/hadley/r4ds"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/hadley",
+        "username": "hadley"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/3797675",
+        "name": "Stefan Prodan",
+        "repo": {
+            "description": "Go microservice template for Kubernetes",
+            "name": "podinfo",
+            "url": "https://github.com/stefanprodan/podinfo"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/stefanprodan",
+        "username": "stefanprodan"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/663432",
+        "name": "J. Nick Koston",
+        "repo": {
+            "description": "Home Assistant Yale Access Bluetooth",
+            "name": "hass-yalexs-ble",
+            "url": "https://github.com/bdraco/hass-yalexs-ble"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/bdraco",
+        "username": "bdraco"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/24528715",
+        "name": "Jason2866",
+        "repo": {
+            "description": "Tasmota Flasher for ESP8266 and ESP32",
+            "name": "ESP_Flasher",
+            "url": "https://github.com/Jason2866/ESP_Flasher"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/Jason2866",
+        "username": "Jason2866"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/7904185",
+        "name": "Lewis Russell",
+        "repo": {
+            "description": "Git integration for buffers",
+            "name": "gitsigns.nvim",
+            "url": "https://github.com/lewis6991/gitsigns.nvim"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/lewis6991",
+        "username": "lewis6991"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/26864830",
+        "name": "Anton Lozhkov",
+        "repo": {
+            "description": null,
+            "name": "stable-diffusion",
+            "url": "https://github.com/anton-l/stable-diffusion"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/anton-l",
+        "username": "anton-l"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/12907710",
+        "name": "RangiLyu",
+        "repo": {
+            "description": "NanoDet-Plus\u26a1Super fast and lightweight anchor-free object detection model. \ud83d\udd25Only 980 KB(int8) / 1.8MB (fp16) and run 97FPS on cellphone\ud83d\udd25",
+            "name": "nanodet",
+            "url": "https://github.com/RangiLyu/nanodet"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/RangiLyu",
+        "username": "RangiLyu"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1106629",
+        "name": "Arseny Kapoulkine",
+        "repo": {
+            "description": "Mesh optimization library that makes meshes smaller and faster to render",
+            "name": "meshoptimizer",
+            "url": "https://github.com/zeux/meshoptimizer"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/zeux",
+        "username": "zeux"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/19784933",
+        "name": "Amin Alaee",
+        "repo": {
+            "description": "SQLAlchemy Admin for FastAPI and Starlette",
+            "name": "sqladmin",
+            "url": "https://github.com/aminalaee/sqladmin"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/aminalaee",
+        "username": "aminalaee"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1483922",
+        "name": "Hamel Husain",
+        "repo": {
+            "description": "Code For Medium Article: \"How To Create Natural Language Semantic Search for Arbitrary Objects With Deep\u00a0Learning\"",
+            "name": "code_search",
+            "url": "https://github.com/hamelsmu/code_search"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/hamelsmu",
+        "username": "hamelsmu"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/406394",
+        "name": "Evan Wallace",
+        "repo": {
+            "description": "An extremely fast JavaScript and CSS bundler and minifier",
+            "name": "esbuild",
+            "url": "https://github.com/evanw/esbuild"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/evanw",
+        "username": "evanw"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/27354907",
+        "name": "Shahed Nasser",
+        "repo": {
+            "description": "\ud83d\ude0e List of helpful resources added by the community for the community!",
+            "name": "awesome-resources",
+            "url": "https://github.com/shahednasser/awesome-resources"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/shahednasser",
+        "username": "shahednasser"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/30958850",
+        "name": "Janosh Riebesell",
+        "repo": {
+            "description": "Awesome resources on normalizing flows.",
+            "name": "awesome-normalizing-flows",
+            "url": "https://github.com/janosh/awesome-normalizing-flows"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/janosh",
+        "username": "janosh"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/306134",
+        "name": "William Candillon",
+        "repo": {
+            "description": "\u269b\ufe0f \ud83d\udcfa Projects from the \u201cCan it be done in React Native?\u201d YouTube series",
+            "name": "can-it-be-done-in-react-native",
+            "url": "https://github.com/wcandillon/can-it-be-done-in-react-native"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/wcandillon",
+        "username": "wcandillon"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/30766535",
+        "name": "jomjol",
+        "repo": {
+            "description": null,
+            "name": "AI-on-the-edge-device",
+            "url": "https://github.com/jomjol/AI-on-the-edge-device"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/jomjol",
+        "username": "jomjol"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/41671631",
+        "name": "Raphael",
+        "repo": {
+            "description": "neovim lsp plugin",
+            "name": "lspsaga.nvim",
+            "url": "https://github.com/glepnir/lspsaga.nvim"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/glepnir",
+        "username": "glepnir"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/3705853",
+        "name": "Teemu R.",
+        "repo": {
+            "description": "Python library & console tool for controlling Xiaomi smart appliances",
+            "name": "python-miio",
+            "url": "https://github.com/rytilahti/python-miio"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/rytilahti",
+        "username": "rytilahti"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/8176128",
+        "name": "Muntashir Al-Islam",
+        "repo": {
+            "description": "A full-featured package manager and viewer for Android",
+            "name": "AppManager",
+            "url": "https://github.com/MuntashirAkon/AppManager"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/MuntashirAkon",
+        "username": "MuntashirAkon"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/34928425",
+        "name": "Paco",
+        "repo": {
+            "description": "Fast, unstyled command menu React component.",
+            "name": "cmdk",
+            "url": "https://github.com/pacocoursey/cmdk"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/pacocoursey",
+        "username": "pacocoursey"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/35128",
+        "name": "chencheng (\u4e91\u8c26)",
+        "repo": {
+            "description": "\ud83d\udc22 A collection of awesome browser-side JavaScript libraries, resources and shiny things.",
+            "name": "awesome-javascript",
+            "url": "https://github.com/sorrycc/awesome-javascript"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/sorrycc",
+        "username": "sorrycc"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/16267321",
+        "name": "Zeeshan Ahmad",
+        "repo": {
+            "description": "Learn regex the easy way",
+            "name": "learn-regex",
+            "url": "https://github.com/ziishaned/learn-regex"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/ziishaned",
+        "username": "ziishaned"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/308610",
+        "name": "Jason R. Coombs",
+        "repo": {
+            "description": null,
+            "name": "keyring",
+            "url": "https://github.com/jaraco/keyring"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/jaraco",
+        "username": "jaraco"
+    }
+]
