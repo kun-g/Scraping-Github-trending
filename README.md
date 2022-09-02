@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [stable_diffusion.openvino](https://github.com/bes-dev/stable_diffusion.openvino) | None |
 | [CodeEdit](https://github.com/CodeEditApp/CodeEdit) | CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. |
-| [engine-sim](https://github.com/ange-yaghi/engine-sim) | Combustion engine simulator that generates realistic audio. |
+| [swift-book](https://github.com/apple/swift-book) | The Swift Programming Language book |
+| [sqlmodel](https://github.com/tiangolo/sqlmodel) | SQL databases in Python, designed for simplicity, compatibility, and robustness. |
+| [kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap) | None |
+| [doris](https://github.com/apache/doris) | Apache Doris is an easy-to-use, high performance and unified analytics database. |
+| [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
+| [poetry](https://github.com/python-poetry/poetry) | Python dependency management and packaging made easy. |
+| [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all |
 | [VPhysics-Jolt](https://github.com/Joshua-Ashton/VPhysics-Jolt) | Volt (VPhysics Jolt) is a replacement physics module for the Source Engine. |
-| [sd-enable-textual-inversion](https://github.com/hlky/sd-enable-textual-inversion) | Copy these files to your stable-diffusion to enable text-inversion |
-| [jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch! |
-| [bazuka](https://github.com/zeeka-network/bazuka) | Rust implementation of Zeeka protocol |
-| [free-for-dev](https://github.com/ripienaar/free-for-dev) | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev |
-| [stable-diffusion-old](https://github.com/magnusviri/stable-diffusion-old) | Placeholder for the old Stable Diffusion Mac version |
-| [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | A list of Free Software network services and web applications which can be hosted on your own servers |
+| [googletest](https://github.com/google/googletest) | GoogleTest - Google Testing and Mocking Framework |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
