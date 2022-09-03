@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [CodeEdit](https://github.com/CodeEditApp/CodeEdit) | CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. |
-| [swift-book](https://github.com/apple/swift-book) | The Swift Programming Language book |
-| [sqlmodel](https://github.com/tiangolo/sqlmodel) | SQL databases in Python, designed for simplicity, compatibility, and robustness. |
+| [helix](https://github.com/helix-editor/helix) | A post-modern modal text editor. |
+| [motionity](https://github.com/alyssaxuu/motionity) | The web-based motion graphics editor for everyone 📽 |
+| [awesome-compose](https://github.com/docker/awesome-compose) | Awesome Docker Compose samples |
+| [a-picture-is-worth-a-1000-words](https://github.com/girliemac/a-picture-is-worth-a-1000-words) | I am trying to describe complex matters in simple doodles! |
+| [vault](https://github.com/hashicorp/vault) | A tool for secrets management, encryption as a service, and privileged access management |
+| [flutter-wonderous-app](https://github.com/gskinnerTeam/flutter-wonderous-app) | A showcase app for the Flutter SDK. Wonderous will educate and entertain as you uncover information about some of the most famous structures in the world. |
+| [nest](https://github.com/nestjs/nest) | A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀 |
 | [kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap) | None |
-| [doris](https://github.com/apache/doris) | Apache Doris is an easy-to-use, high performance and unified analytics database. |
-| [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
-| [poetry](https://github.com/python-poetry/poetry) | Python dependency management and packaging made easy. |
-| [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all |
-| [VPhysics-Jolt](https://github.com/Joshua-Ashton/VPhysics-Jolt) | Volt (VPhysics Jolt) is a replacement physics module for the Source Engine. |
-| [googletest](https://github.com/google/googletest) | GoogleTest - Google Testing and Mocking Framework |
+| [cs220](https://github.com/kaist-cp/cs220) | None |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
