@@ -25,16 +25,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [stable-diffusion-webui](https://github.com/hlky/stable-diffusion-webui) | Stable Diffusion web UI |
+| [beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) | An interactive TypeScript tutorial for beginners |
+| [100-go-mistakes](https://github.com/teivah/100-go-mistakes) | Source code and community space of 📖 100 Go Mistakes |
 | [stable-diffusion](https://github.com/CompVis/stable-diffusion) | None |
+| [CodeEdit](https://github.com/CodeEditApp/CodeEdit) | CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. |
+| [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all |
+| [SMSBoom](https://github.com/OpenEthan/SMSBoom) | 短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！ |
 | [diffusers](https://github.com/huggingface/diffusers) | 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch |
-| [system-design](https://github.com/karanpratapsingh/system-design) | Learn how to design systems at scale and prepare for system design interviews |
-| [Rust](https://github.com/TheAlgorithms/Rust) | All Algorithms implemented in Rust |
-| [zinc](https://github.com/zinclabs/zinc) | ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. |
-| [leetcode](https://github.com/doocs/leetcode) | 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解 |
-| [multinerf](https://github.com/google-research/multinerf) | A Code Release for Mip-NeRF 360, Ref-NeRF, and RawNeRF |
-| [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) | None |
-| [blizzless-diiis](https://github.com/blizzless/blizzless-diiis) | Fully-functional open-source server implementation for Diablo 3 |
-| [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) | Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration. |
+| [sliver](https://github.com/BishopFox/sliver) | Adversary Emulation Framework |
+| [daily_morning](https://github.com/rxrw/daily_morning) | 给别人家的女朋友发早安 |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
