@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [valence](https://github.com/valence-rs/valence) | A Rust framework for building Minecraft servers. |
-| [CyberChef](https://github.com/gchq/CyberChef) | The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis |
+| [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI |
+| [unreal-rust](https://github.com/MaikKlein/unreal-rust) | Rust integration for Unreal Engine 5 |
 | [lapce](https://github.com/lapce/lapce) | Lightning-fast and Powerful Code Editor written in Rust |
-| [a-picture-is-worth-a-1000-words](https://github.com/girliemac/a-picture-is-worth-a-1000-words) | I am trying to describe complex matters in simple doodles! |
-| [deep-learning-for-image-processing](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing) | deep learning for image processing including classification and object-detection etc. |
-| [BLACKHAT_USA2022](https://github.com/Mr-xn/BLACKHAT_USA2022) | BLACKHAT USA2022 PDF Public |
-| [EasyCV](https://github.com/alibaba/EasyCV) | An all-in-one toolkit for computer vision |
+| [copy-dialog-lunar-lander](https://github.com/Sanakan8472/copy-dialog-lunar-lander) | Play lunar lander in you windows file copy dialog |
+| [conference-app-2022](https://github.com/DroidKaigi/conference-app-2022) | The Official Conference App for DroidKaigi 2022 |
+| [beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) | An interactive TypeScript tutorial for beginners |
+| [airflow](https://github.com/apache/airflow) | Apache Airflow - A platform to programmatically author, schedule, and monitor workflows |
 | [mlbookcamp-code](https://github.com/alexeygrigorev/mlbookcamp-code) | The code from the Machine Learning Bookcamp book and a free course based on the book |
-| [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics |
-| [weekly](https://github.com/ruanyf/weekly) | 科技爱好者周刊，每周五发布 |
+| [kubeapps](https://github.com/vmware-tanzu/kubeapps) | A web-based UI for deploying and managing applications in Kubernetes clusters |
+| [EvilnoVNC](https://github.com/JoelGMSec/EvilnoVNC) | Ready to go Phishing Platform |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
