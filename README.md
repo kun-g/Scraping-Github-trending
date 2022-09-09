@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity |
+| [stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui) | Stable Diffusion web UI |
+| [Monocraft](https://github.com/IdreesInc/Monocraft) | A programming font based on the typeface used in Minecraft |
+| [difftastic](https://github.com/Wilfred/difftastic) | a structural diff that understands syntax 🟥🟩 |
+| [incubator-streampark](https://github.com/apache/incubator-streampark) | StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform |
+| [fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) | FastAPI Best Practices and Conventions we used @ hi.peerlink.me |
+| [flutter-wonderous-app](https://github.com/gskinnerTeam/flutter-wonderous-app) | A showcase app for the Flutter SDK. Wonderous will educate and entertain as you uncover information about some of the most famous structures in the world. |
+| [valence](https://github.com/valence-rs/valence) | A Rust framework for building Minecraft servers. |
 | [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI |
-| [unreal-rust](https://github.com/MaikKlein/unreal-rust) | Rust integration for Unreal Engine 5 |
-| [lapce](https://github.com/lapce/lapce) | Lightning-fast and Powerful Code Editor written in Rust |
-| [copy-dialog-lunar-lander](https://github.com/Sanakan8472/copy-dialog-lunar-lander) | Play lunar lander in you windows file copy dialog |
-| [conference-app-2022](https://github.com/DroidKaigi/conference-app-2022) | The Official Conference App for DroidKaigi 2022 |
-| [beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) | An interactive TypeScript tutorial for beginners |
-| [airflow](https://github.com/apache/airflow) | Apache Airflow - A platform to programmatically author, schedule, and monitor workflows |
-| [mlbookcamp-code](https://github.com/alexeygrigorev/mlbookcamp-code) | The code from the Machine Learning Bookcamp book and a free course based on the book |
-| [kubeapps](https://github.com/vmware-tanzu/kubeapps) | A web-based UI for deploying and managing applications in Kubernetes clusters |
-| [EvilnoVNC](https://github.com/JoelGMSec/EvilnoVNC) | Ready to go Phishing Platform |
+| [stable-diffusion](https://github.com/CompVis/stable-diffusion) | None |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
