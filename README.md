@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity |
-| [stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui) | Stable Diffusion web UI |
-| [Monocraft](https://github.com/IdreesInc/Monocraft) | A programming font based on the typeface used in Minecraft |
-| [difftastic](https://github.com/Wilfred/difftastic) | a structural diff that understands syntax 🟥🟩 |
-| [incubator-streampark](https://github.com/apache/incubator-streampark) | StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform |
-| [fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) | FastAPI Best Practices and Conventions we used @ hi.peerlink.me |
-| [flutter-wonderous-app](https://github.com/gskinnerTeam/flutter-wonderous-app) | A showcase app for the Flutter SDK. Wonderous will educate and entertain as you uncover information about some of the most famous structures in the world. |
-| [valence](https://github.com/valence-rs/valence) | A Rust framework for building Minecraft servers. |
 | [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI |
-| [stable-diffusion](https://github.com/CompVis/stable-diffusion) | None |
+| [ParallelsDesktopCrack](https://github.com/somebasj/ParallelsDesktopCrack) | Parallels Desktop for mac Crack |
+| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+| [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity |
+| [appshark](https://github.com/bytedance/appshark) | None |
+| [YOLOv6](https://github.com/meituan/YOLOv6) | YOLOv6: a single-stage object detection framework dedicated to industrial applications. |
+| [immich](https://github.com/immich-app/immich) | Self-hosted photo and video backup solution directly from your mobile phone. |
+| [ros-robotics-companies](https://github.com/vmayoral/ros-robotics-companies) | A list of robotics companies using the Robot Operating System (ROS and ROS 2). |
+| [astro](https://github.com/withastro/astro) | Build faster websites with Astro's next-gen island architecture 🏝✨ |
+| [kkndme_tianya](https://github.com/shengcaishizhan/kkndme_tianya) | 天涯 kkndme 神贴聊房价 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
