@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI |
 | [ParallelsDesktopCrack](https://github.com/somebasj/ParallelsDesktopCrack) | Parallels Desktop for mac Crack |
-| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+| [jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch! |
 | [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity |
-| [appshark](https://github.com/bytedance/appshark) | None |
-| [YOLOv6](https://github.com/meituan/YOLOv6) | YOLOv6: a single-stage object detection framework dedicated to industrial applications. |
-| [immich](https://github.com/immich-app/immich) | Self-hosted photo and video backup solution directly from your mobile phone. |
-| [ros-robotics-companies](https://github.com/vmayoral/ros-robotics-companies) | A list of robotics companies using the Robot Operating System (ROS and ROS 2). |
-| [astro](https://github.com/withastro/astro) | Build faster websites with Astro's next-gen island architecture 🏝✨ |
-| [kkndme_tianya](https://github.com/shengcaishizhan/kkndme_tianya) | 天涯 kkndme 神贴聊房价 |
+| [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI |
+| [incubator-streampark](https://github.com/apache/incubator-streampark) | StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform |
+| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
+| [OpenRadioss](https://github.com/OpenRadioss/OpenRadioss) | OpenRadioss is a powerful, industry-proven finite element solver for dynamic event analysis |
+| [professional-programming](https://github.com/charlax/professional-programming) | A collection of full-stack resources for programmers. |
+| [akka](https://github.com/akka/akka) | Build highly concurrent, distributed, and resilient message-driven applications on the JVM |
+| [taichi](https://github.com/taichi-dev/taichi) | Productive & portable high-performance programming in Python. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
