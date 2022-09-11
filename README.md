@@ -41,14 +41,14 @@
 <!-- START OF MONTHLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [AFFiNE](https://github.com/toeverything/AFFiNE) | There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. |
+| [stable-diffusion](https://github.com/CompVis/stable-diffusion) | None |
 | [diffusers](https://github.com/huggingface/diffusers) | 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch |
-| [astro](https://github.com/withastro/astro) | Build faster websites with Astro's next-gen island architecture 🏝✨ |
-| [fauxpilot](https://github.com/moyix/fauxpilot) | FauxPilot - an open-source GitHub Copilot server |
-| [novu](https://github.com/novuhq/novu) | 🚀 The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, content management, and much more... |
+| [engine-sim](https://github.com/ange-yaghi/engine-sim) | Combustion engine simulator that generates realistic audio. |
+| [multinerf](https://github.com/google-research/multinerf) | A Code Release for Mip-NeRF 360, Ref-NeRF, and RawNeRF |
 | [CodeEdit](https://github.com/CodeEditApp/CodeEdit) | CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. |
-| [aptos-core](https://github.com/aptos-labs/aptos-core) | A layer 1 for everyone! |
 | [leetcode](https://github.com/doocs/leetcode) | 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解 |
-| [HelloWord-Keyboard](https://github.com/peng-zhihui/HelloWord-Keyboard) | None |
-| [dragonfly](https://github.com/dragonflydb/dragonfly) | A modern replacement for Redis and Memcached |
+| [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) | Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration. |
+| [astro](https://github.com/withastro/astro) | Build faster websites with Astro's next-gen island architecture 🏝✨ |
+| [wujie](https://github.com/Tencent/wujie) | 极致的微前端框架 |
+| [aptos-core](https://github.com/aptos-labs/aptos-core) | A layer 1 for everyone! |
 <!-- END OF MONTHLY_TOP10_REPOS -->
