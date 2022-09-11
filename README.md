@@ -25,16 +25,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [stable-diffusion-webui](https://github.com/hlky/stable-diffusion-webui) | Stable Diffusion web UI |
-| [beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) | An interactive TypeScript tutorial for beginners |
-| [100-go-mistakes](https://github.com/teivah/100-go-mistakes) | Source code and community space of 📖 100 Go Mistakes |
+| [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI |
+| [jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch! |
+| [lapce](https://github.com/lapce/lapce) | Lightning-fast and Powerful Code Editor written in Rust |
 | [stable-diffusion](https://github.com/CompVis/stable-diffusion) | None |
-| [CodeEdit](https://github.com/CodeEditApp/CodeEdit) | CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. |
-| [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all |
-| [SMSBoom](https://github.com/OpenEthan/SMSBoom) | 短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！ |
-| [diffusers](https://github.com/huggingface/diffusers) | 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch |
-| [sliver](https://github.com/BishopFox/sliver) | Adversary Emulation Framework |
-| [daily_morning](https://github.com/rxrw/daily_morning) | 给别人家的女朋友发早安 |
+| [stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui) | Stable Diffusion web UI |
+| [beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) | An interactive TypeScript tutorial for beginners |
+| [CyberChef](https://github.com/gchq/CyberChef) | The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis |
+| [CLIP](https://github.com/openai/CLIP) | Contrastive Language-Image Pretraining |
+| [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) | Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration. |
+| [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
