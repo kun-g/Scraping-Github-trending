@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI |
+| [stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui) | Stable Diffusion web UI |
 | [ParallelsDesktopCrack](https://github.com/somebasj/ParallelsDesktopCrack) | Parallels Desktop for mac Crack |
 | [jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch! |
-| [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity |
-| [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI |
-| [incubator-streampark](https://github.com/apache/incubator-streampark) | StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform |
+| [surrealdb](https://github.com/surrealdb/surrealdb) | A scalable, distributed, collaborative, document-graph database, for the realtime web |
+| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A youtube-dl fork with additional features and fixes |
+| [termux-app](https://github.com/termux/termux-app) | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
 | [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
-| [OpenRadioss](https://github.com/OpenRadioss/OpenRadioss) | OpenRadioss is a powerful, industry-proven finite element solver for dynamic event analysis |
-| [professional-programming](https://github.com/charlax/professional-programming) | A collection of full-stack resources for programmers. |
-| [akka](https://github.com/akka/akka) | Build highly concurrent, distributed, and resilient message-driven applications on the JVM |
-| [taichi](https://github.com/taichi-dev/taichi) | Productive & portable high-performance programming in Python. |
+| [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | A collection of (mostly) technical things every software developer should know about |
+| [mev_bundle_generator](https://github.com/Alcibiades-Capital/mev_bundle_generator) | A MEV bundle generator written in Rust |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
