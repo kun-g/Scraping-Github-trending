@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [pocketbase](https://github.com/pocketbase/pocketbase) | Open Source realtime backend in 1 file |
+| [techguide](https://github.com/alura/techguide) | TechGuide main repository with the code that guides your tech carrer! |
 | [Charts](https://github.com/danielgindi/Charts) | Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart. |
+| [ethereum-org-website](https://github.com/ethereum/ethereum-org-website) | Ethereum.org is a primary online resource for the Ethereum community. |
+| [revanced-manager](https://github.com/revanced/revanced-manager) | 💊 The official ReVanced Manager |
+| [react-router](https://github.com/remix-run/react-router) | Declarative routing for React |
+| [PaddleHub](https://github.com/PaddlePaddle/PaddleHub) | Awesome pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving) |
+| [byob](https://github.com/malwaredllc/byob) | An open-source post-exploitation framework for students, researchers and developers. |
 | [surrealdb](https://github.com/surrealdb/surrealdb) | A scalable, distributed, collaborative, document-graph database, for the realtime web |
-| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
-| [ladybird](https://github.com/SerenityOS/ladybird) | Ladybird web browser |
-| [diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) | Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed. |
-| [nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) | Neural Networks: Zero to Hero |
-| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
-| [compose-rules](https://github.com/twitter/compose-rules) | Static checks to aid with a healthy adoption of Compose |
-| [n8n](https://github.com/n8n-io/n8n) | Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services. |
-| [system-design-resources](https://github.com/InterviewReady/system-design-resources) | These are the best resources for System Design on the Internet |
+| [weekly](https://github.com/ascoders/weekly) | 前端精读周刊。帮你理解最前沿、实用的技术。 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
