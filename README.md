@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [pocketbase](https://github.com/pocketbase/pocketbase) | Open Source realtime backend in 1 file |
-| [techguide](https://github.com/alura/techguide) | TechGuide main repository with the code that guides your tech carrer! |
-| [Charts](https://github.com/danielgindi/Charts) | Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart. |
-| [ethereum-org-website](https://github.com/ethereum/ethereum-org-website) | Ethereum.org is a primary online resource for the Ethereum community. |
-| [revanced-manager](https://github.com/revanced/revanced-manager) | 💊 The official ReVanced Manager |
-| [react-router](https://github.com/remix-run/react-router) | Declarative routing for React |
-| [PaddleHub](https://github.com/PaddlePaddle/PaddleHub) | Awesome pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving) |
-| [byob](https://github.com/malwaredllc/byob) | An open-source post-exploitation framework for students, researchers and developers. |
 | [surrealdb](https://github.com/surrealdb/surrealdb) | A scalable, distributed, collaborative, document-graph database, for the realtime web |
+| [surrealdb](https://github.com/surrealdb/surrealdb) | A scalable, distributed, collaborative, document-graph database, for the realtime web |
+| [memlab](https://github.com/facebookincubator/memlab) | A framework for finding JavaScript memory leaks and analyzing heap snapshots |
+| [notes](https://github.com/nuttyartist/notes) | Note-taking application, write down your thoughts. |
+| [notes](https://github.com/nuttyartist/notes) | Note-taking application, write down your thoughts. |
+| [Charts](https://github.com/danielgindi/Charts) | Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart. |
 | [weekly](https://github.com/ascoders/weekly) | 前端精读周刊。帮你理解最前沿、实用的技术。 |
+| [Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) | 即时通讯IM |
+| [Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) | 即时通讯IM |
+| [revanced-manager](https://github.com/revanced/revanced-manager) | 💊 The official ReVanced Manager |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
