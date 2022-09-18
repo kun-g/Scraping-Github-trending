@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [surrealdb](https://github.com/surrealdb/surrealdb) | A scalable, distributed, collaborative, document-graph database, for the realtime web |
-| [surrealdb](https://github.com/surrealdb/surrealdb) | A scalable, distributed, collaborative, document-graph database, for the realtime web |
-| [memlab](https://github.com/facebookincubator/memlab) | A framework for finding JavaScript memory leaks and analyzing heap snapshots |
+| [ylgy](https://github.com/zc2638/ylgy) | 羊了个羊 通关程序，支持无限通关 |
+| [a-sheep-assistant](https://github.com/Lcry/a-sheep-assistant) | 羊了个羊助手，羊了个羊一键闯关，本项目仅用于学习研究使用，请勿将本项目的任何内容用于商业或非法目的，否则后果自负。更多好玩黑科技关注作者公众号： 《码上有效率》，口令羊了个羊 |
+| [milvus](https://github.com/milvus-io/milvus) | Vector database for scalable similarity search and AI applications. |
+| [ethereum-org-website](https://github.com/ethereum/ethereum-org-website) | Ethereum.org is a primary online resource for the Ethereum community. |
 | [notes](https://github.com/nuttyartist/notes) | Note-taking application, write down your thoughts. |
-| [notes](https://github.com/nuttyartist/notes) | Note-taking application, write down your thoughts. |
-| [Charts](https://github.com/danielgindi/Charts) | Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart. |
+| [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | The communications platform that puts data protection first. |
+| [penpot](https://github.com/penpot/penpot) | Penpot - The Open-Source design & prototyping platform |
+| [yanglegeyang](https://github.com/george-jiang-wow/yanglegeyang) | 羊了个羊在线版 |
+| [surrealdb](https://github.com/surrealdb/surrealdb) | A scalable, distributed, collaborative, document-graph database, for the realtime web |
 | [weekly](https://github.com/ascoders/weekly) | 前端精读周刊。帮你理解最前沿、实用的技术。 |
-| [Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) | 即时通讯IM |
-| [Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) | 即时通讯IM |
-| [revanced-manager](https://github.com/revanced/revanced-manager) | 💊 The official ReVanced Manager |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
