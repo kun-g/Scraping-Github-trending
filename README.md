@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [ylgy](https://github.com/zc2638/ylgy) | 羊了个羊 通关程序，支持无限通关 |
-| [a-sheep-assistant](https://github.com/Lcry/a-sheep-assistant) | 羊了个羊助手，羊了个羊一键闯关，本项目仅用于学习研究使用，请勿将本项目的任何内容用于商业或非法目的，否则后果自负。更多好玩黑科技关注作者公众号： 《码上有效率》，口令羊了个羊 |
-| [milvus](https://github.com/milvus-io/milvus) | Vector database for scalable similarity search and AI applications. |
-| [ethereum-org-website](https://github.com/ethereum/ethereum-org-website) | Ethereum.org is a primary online resource for the Ethereum community. |
-| [notes](https://github.com/nuttyartist/notes) | Note-taking application, write down your thoughts. |
-| [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | The communications platform that puts data protection first. |
 | [penpot](https://github.com/penpot/penpot) | Penpot - The Open-Source design & prototyping platform |
-| [yanglegeyang](https://github.com/george-jiang-wow/yanglegeyang) | 羊了个羊在线版 |
+| [notes](https://github.com/nuttyartist/notes) | Note-taking application, write down your thoughts. |
 | [surrealdb](https://github.com/surrealdb/surrealdb) | A scalable, distributed, collaborative, document-graph database, for the realtime web |
-| [weekly](https://github.com/ascoders/weekly) | 前端精读周刊。帮你理解最前沿、实用的技术。 |
+| [Flipper](https://github.com/UberGuidoZ/Flipper) | Playground (and dump) of stuff I make or modify for the Flipper Zero |
+| [milvus](https://github.com/milvus-io/milvus) | Vector database for scalable similarity search and AI applications. |
+| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+| [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics |
+| [a-sheep-assistant](https://github.com/Lcry/a-sheep-assistant) | 羊了个羊助手，羊了个羊一键闯关，本项目仅用于学习研究使用，请勿将本项目的任何内容用于商业或非法目的，否则后果自负。保姆级学习教程关注作者公众号： 《码上有效率》，口令羊了个羊 |
+| [yanglegeyang](https://github.com/Selina1981/yanglegeyang) | 羊了个羊通关助手（java稳定版）全网唯一，禁止盗版！羊了个羊助手，羊了个羊一键闯关。 |
+| [ylgy](https://github.com/zc2638/ylgy) | 羊了个羊 通关程序，支持无限通关 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
