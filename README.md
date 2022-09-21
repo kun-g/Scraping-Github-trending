@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [cppfront](https://github.com/hsutter/cppfront) | A personal experimental C++ Syntax 2 -> Syntax 1 compiler |
-| [penpot](https://github.com/penpot/penpot) | Penpot - The Open-Source design & prototyping platform |
-| [revanced-manager](https://github.com/revanced/revanced-manager) | 💊 The official ReVanced Manager |
-| [a-sheep-assistant](https://github.com/Lcry/a-sheep-assistant) | 羊了个羊助手，羊了个羊一键闯关，本项目仅用于学习研究使用，请勿将本项目的任何内容用于商业或非法目的，否则后果自负。保姆级学习教程关注作者公众号： 《码上有效率》，口令羊了个羊 |
-| [godot](https://github.com/godotengine/godot) | Godot Engine – Multi-platform 2D and 3D game engine |
-| [create-t3-app](https://github.com/t3-oss/create-t3-app) | Quickest way to start a new web app with full stack typesafety |
-| [dream-textures](https://github.com/carson-katri/dream-textures) | Stable Diffusion built-in to the Blender shader editor |
 | [milvus](https://github.com/milvus-io/milvus) | Vector database for scalable similarity search and AI applications. |
+| [aws-cdk](https://github.com/aws/aws-cdk) | The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code |
+| [YangLeGeYang](https://github.com/SwaggyMacro/YangLeGeYang) | 免抓包版本，羊了个羊 小助手，羊了个羊一键通关，自动获取Token，羊了个羊辅助，本项目仅用于学习研究使用，请勿将本项目的任何内容用于商业或非法目的，否则后果自负。 |
+| [cppfront](https://github.com/hsutter/cppfront) | A personal experimental C++ Syntax 2 -> Syntax 1 compiler |
 | [yulegeyu](https://github.com/liyupi/yulegeyu) | 羊了个羊纯前端实现版【鱼了个鱼】，自定义关卡+图案+无限道具，可在线玩：https://yulegeyu.cn |
-| [devops-exercises](https://github.com/bregman-arie/devops-exercises) | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions |
+| [imaginAIry](https://github.com/brycedrennan/imaginAIry) | AI imagined images. Pythonic generation of stable diffusion images. |
+| [pe-bear](https://github.com/hasherezade/pe-bear) | Portable Executable reversing tool with a friendly GUI |
+| [dream-textures](https://github.com/carson-katri/dream-textures) | Stable Diffusion built-in to the Blender shader editor |
+| [unilang](https://github.com/linuxdeepin/unilang) | None |
+| [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | List of Computer Science courses with video lectures. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
