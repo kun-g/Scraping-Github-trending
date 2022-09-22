@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [milvus](https://github.com/milvus-io/milvus) | Vector database for scalable similarity search and AI applications. |
-| [aws-cdk](https://github.com/aws/aws-cdk) | The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code |
-| [YangLeGeYang](https://github.com/SwaggyMacro/YangLeGeYang) | 免抓包版本，羊了个羊 小助手，羊了个羊一键通关，自动获取Token，羊了个羊辅助，本项目仅用于学习研究使用，请勿将本项目的任何内容用于商业或非法目的，否则后果自负。 |
-| [cppfront](https://github.com/hsutter/cppfront) | A personal experimental C++ Syntax 2 -> Syntax 1 compiler |
 | [yulegeyu](https://github.com/liyupi/yulegeyu) | 羊了个羊纯前端实现版【鱼了个鱼】，自定义关卡+图案+无限道具，可在线玩：https://yulegeyu.cn |
-| [imaginAIry](https://github.com/brycedrennan/imaginAIry) | AI imagined images. Pythonic generation of stable diffusion images. |
-| [pe-bear](https://github.com/hasherezade/pe-bear) | Portable Executable reversing tool with a friendly GUI |
+| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
 | [dream-textures](https://github.com/carson-katri/dream-textures) | Stable Diffusion built-in to the Blender shader editor |
-| [unilang](https://github.com/linuxdeepin/unilang) | None |
-| [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | List of Computer Science courses with video lectures. |
+| [interview-resources](https://github.com/nas5w/interview-resources) | A non-overwhelming list of resources for tech interviews. |
+| [devops-exercises](https://github.com/bregman-arie/devops-exercises) | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions |
+| [imaginAIry](https://github.com/brycedrennan/imaginAIry) | AI imagined images. Pythonic generation of stable diffusion images. |
+| [pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning) | Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course. |
+| [I-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Dont-Care-About-Cookies) | Debloated fork of the extension "I don't care about cookies" (WIP) |
+| [profanity](https://github.com/johguse/profanity) | Vanity address generator for Ethereum |
+| [jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch! |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
