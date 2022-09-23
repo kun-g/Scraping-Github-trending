@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [yulegeyu](https://github.com/liyupi/yulegeyu) | 羊了个羊纯前端实现版【鱼了个鱼】，自定义关卡+图案+无限道具，可在线玩：https://yulegeyu.cn |
-| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
-| [dream-textures](https://github.com/carson-katri/dream-textures) | Stable Diffusion built-in to the Blender shader editor |
-| [interview-resources](https://github.com/nas5w/interview-resources) | A non-overwhelming list of resources for tech interviews. |
-| [devops-exercises](https://github.com/bregman-arie/devops-exercises) | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions |
-| [imaginAIry](https://github.com/brycedrennan/imaginAIry) | AI imagined images. Pythonic generation of stable diffusion images. |
-| [pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning) | Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course. |
+| [wasmtime](https://github.com/bytecodealliance/wasmtime) | A fast and secure runtime for WebAssembly |
+| [learngo](https://github.com/inancgumus/learngo) | 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes |
+| [arrow](https://github.com/apache/arrow) | Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing |
+| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
 | [I-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Dont-Care-About-Cookies) | Debloated fork of the extension "I don't care about cookies" (WIP) |
-| [profanity](https://github.com/johguse/profanity) | Vanity address generator for Ethereum |
-| [jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch! |
+| [nifi](https://github.com/apache/nifi) | Apache NiFi |
+| [JavaScript](https://github.com/TheAlgorithms/JavaScript) | Algorithms and Data Structures implemented in JavaScript for beginners, following best practices. |
+| [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | 💯 Curated coding interview preparation materials for busy software engineers |
+| [OnBoarding](https://github.com/Launch-X-Latam/OnBoarding) | None |
+| [mmyolo](https://github.com/open-mmlab/mmyolo) | OpenMMLab YOLO series toolbox and benchmark |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
