@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [wasmtime](https://github.com/bytecodealliance/wasmtime) | A fast and secure runtime for WebAssembly |
-| [learngo](https://github.com/inancgumus/learngo) | 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes |
-| [arrow](https://github.com/apache/arrow) | Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing |
-| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
-| [I-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Dont-Care-About-Cookies) | Debloated fork of the extension "I don't care about cookies" (WIP) |
-| [nifi](https://github.com/apache/nifi) | Apache NiFi |
-| [JavaScript](https://github.com/TheAlgorithms/JavaScript) | Algorithms and Data Structures implemented in JavaScript for beginners, following best practices. |
-| [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | 💯 Curated coding interview preparation materials for busy software engineers |
-| [OnBoarding](https://github.com/Launch-X-Latam/OnBoarding) | None |
+| [whisper](https://github.com/openai/whisper) | None |
+| [LockBit-Black-Builder](https://github.com/3xp0rt/LockBit-Black-Builder) | None |
 | [mmyolo](https://github.com/open-mmlab/mmyolo) | OpenMMLab YOLO series toolbox and benchmark |
+| [advanced-java](https://github.com/doocs/advanced-java) | 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识 |
+| [swift-snapshot-testing](https://github.com/pointfreeco/swift-snapshot-testing) | 📸 Delightful Swift snapshot testing. |
+| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
+| [TDungeon](https://github.com/cassiozen/TDungeon) | TDungeon is a small adventure game that runs in the Typescript type system |
+| [desktop](https://github.com/desktop/desktop) | Simple collaboration from your desktop |
+| [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) | 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained |
+| [qwik](https://github.com/BuilderIO/qwik) | The HTML-first framework. Instant apps of any size with ~ 1kb JS |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
