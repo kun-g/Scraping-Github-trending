@@ -25,16 +25,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [penpot](https://github.com/penpot/penpot) | Penpot - The Open-Source design & prototyping platform |
+| [a-sheep-assistant](https://github.com/Lcry/a-sheep-assistant) | 🐑 羊了个羊助手，羊了个羊一键闯关，本项目仅用于学习研究使用，请勿将本项目的任何内容用于商业或非法目的，否则后果自负。保姆级学习教程关注作者公众号： 《码上有效率》，口令羊了个羊 |
+| [notes](https://github.com/nuttyartist/notes) | Note-taking application, write down your thoughts. |
+| [memlab](https://github.com/facebookincubator/memlab) | A framework for finding JavaScript memory leaks and analyzing heap snapshots |
 | [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI |
-| [Charts](https://github.com/danielgindi/Charts) | Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart. |
-| [Charts](https://github.com/danielgindi/Charts) | Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart. |
-| [jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch! |
-| [jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch! |
-| [pocketbase](https://github.com/pocketbase/pocketbase) | Open Source realtime backend in 1 file |
-| [pocketbase](https://github.com/pocketbase/pocketbase) | Open Source realtime backend in 1 file |
-| [surrealdb](https://github.com/surrealdb/surrealdb) | A scalable, distributed, collaborative, document-graph database, for the realtime web |
-| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
-| [lapce](https://github.com/lapce/lapce) | Lightning-fast and Powerful Code Editor written in Rust |
+| [milvus](https://github.com/milvus-io/milvus) | Vector database for scalable similarity search and AI applications. |
+| [Flipper](https://github.com/UberGuidoZ/Flipper) | Playground (and dump) of stuff I make or modify for the Flipper Zero |
+| [wasmtime](https://github.com/bytecodealliance/wasmtime) | A fast and secure runtime for WebAssembly |
+| [cloudfox](https://github.com/BishopFox/cloudfox) | Automating situational awareness for cloud penetration tests. |
+| [qwik](https://github.com/BuilderIO/qwik) | The HTML-first framework. Instant apps of any size with ~ 1kb JS |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
