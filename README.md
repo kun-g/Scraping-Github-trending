@@ -42,13 +42,13 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [stable-diffusion](https://github.com/CompVis/stable-diffusion) | A latent text-to-image diffusion model |
-| [diffusers](https://github.com/huggingface/diffusers) | 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch |
-| [system-design](https://github.com/karanpratapsingh/system-design) | Learn how to design systems at scale and prepare for system design interviews |
+| [beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) | An interactive TypeScript tutorial for beginners |
+| [surrealdb](https://github.com/surrealdb/surrealdb) | A scalable, distributed, collaborative, document-graph database, for the realtime web |
 | [lapce](https://github.com/lapce/lapce) | Lightning-fast and Powerful Code Editor written in Rust |
-| [latent-diffusion](https://github.com/CompVis/latent-diffusion) | High-Resolution Image Synthesis with Latent Diffusion Models |
-| [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) | Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration. |
-| [leetcode](https://github.com/doocs/leetcode) | 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解 |
+| [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) | None |
+| [100-go-mistakes](https://github.com/teivah/100-go-mistakes) | Source code and community space of 📖 100 Go Mistakes. |
 | [CodeEdit](https://github.com/CodeEditApp/CodeEdit) | CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. |
-| [multinerf](https://github.com/google-research/multinerf) | A Code Release for Mip-NeRF 360, Ref-NeRF, and RawNeRF |
-| [serenity](https://github.com/SerenityOS/serenity) | The Serenity Operating System 🐞 |
+| [latent-diffusion](https://github.com/CompVis/latent-diffusion) | High-Resolution Image Synthesis with Latent Diffusion Models |
+| [stability-sdk](https://github.com/Stability-AI/stability-sdk) | SDK for interacting with stability.ai APIs (e.g. stable diffusion inference) |
+| [helix](https://github.com/helix-editor/helix) | A post-modern modal text editor. |
 <!-- END OF MONTHLY_TOP10_REPOS -->
