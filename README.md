@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [whisper](https://github.com/openai/whisper) | None |
-| [LockBit-Black-Builder](https://github.com/3xp0rt/LockBit-Black-Builder) | None |
-| [mmyolo](https://github.com/open-mmlab/mmyolo) | OpenMMLab YOLO series toolbox and benchmark |
 | [advanced-java](https://github.com/doocs/advanced-java) | 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识 |
+| [learngo](https://github.com/inancgumus/learngo) | 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes |
 | [swift-snapshot-testing](https://github.com/pointfreeco/swift-snapshot-testing) | 📸 Delightful Swift snapshot testing. |
-| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
-| [TDungeon](https://github.com/cassiozen/TDungeon) | TDungeon is a small adventure game that runs in the Typescript type system |
-| [desktop](https://github.com/desktop/desktop) | Simple collaboration from your desktop |
-| [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) | 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained |
-| [qwik](https://github.com/BuilderIO/qwik) | The HTML-first framework. Instant apps of any size with ~ 1kb JS |
+| [dub](https://github.com/steven-tey/dub) | An open-source link shortener with built-in analytics + free custom domains. |
+| [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) | This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps. |
+| [OnBoarding](https://github.com/Launch-X-Latam/OnBoarding) | None |
+| [detrex](https://github.com/IDEA-Research/detrex) | IDEA Open Source Toolbox for Transformer Based Object Detection Algorithms |
+| [Catch2](https://github.com/catchorg/Catch2) | A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch) |
+| [wasmtime](https://github.com/bytecodealliance/wasmtime) | A fast and secure runtime for WebAssembly |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
