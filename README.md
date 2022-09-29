@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [Dreambooth-Stable-Diffusion](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion) | Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) with Stable Diffusion |
-| [langcc](https://github.com/jzimmerman/langcc) | langcc: A Next-Generation Compiler Compiler |
-| [tensorstore](https://github.com/google/tensorstore) | Library for reading and writing large multi-dimensional arrays. |
-| [GET3D](https://github.com/nv-tlabs/GET3D) | None |
-| [advanced-java](https://github.com/doocs/advanced-java) | 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识 |
-| [system-design](https://github.com/karanpratapsingh/system-design) | Learn how to design systems at scale and prepare for system design interviews |
-| [sing-box](https://github.com/SagerNet/sing-box) | The universal proxy platform |
+| [azure-docs](https://github.com/MicrosoftDocs/azure-docs) | Open source documentation of Microsoft Azure |
+| [RxSwift](https://github.com/ReactiveX/RxSwift) | Reactive Programming in Swift |
 | [first-contributions](https://github.com/firstcontributions/first-contributions) | 🚀✨ Help beginners to contribute to open source projects |
-| [UnstableFusion](https://github.com/ahrm/UnstableFusion) | A Stable Diffusion desktop frontend with inpainting, img2img and more! |
-| [wordpress-wasm](https://github.com/WordPress/wordpress-wasm) | Run WordPress in the browser thanks to WebAssembly magic |
+| [setfit](https://github.com/huggingface/setfit) | Efficient few-shot learning with Sentence Transformers |
+| [GET3D](https://github.com/nv-tlabs/GET3D) | None |
+| [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. |
+| [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
+| [googletest](https://github.com/google/googletest) | GoogleTest - Google Testing and Mocking Framework |
+| [linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) | Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
