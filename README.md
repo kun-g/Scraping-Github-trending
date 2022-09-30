@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [Dreambooth-Stable-Diffusion](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion) | Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) with Stable Diffusion |
-| [azure-docs](https://github.com/MicrosoftDocs/azure-docs) | Open source documentation of Microsoft Azure |
-| [RxSwift](https://github.com/ReactiveX/RxSwift) | Reactive Programming in Swift |
+| [workerd](https://github.com/cloudflare/workerd) | The JavaScript / Wasm runtime that powers Cloudflare Workers |
+| [cypress](https://github.com/cypress-io/cypress) | Fast, easy and reliable testing for anything that runs in a browser. |
+| [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | List of Computer Science courses with video lectures. |
+| [MOOS](https://github.com/nifanfa/MOOS) | C# x64 operating system programming with the .NET native ahead-of-time compilation technology. |
+| [Akebi-GC](https://github.com/Taiga74164/Akebi-GC) | Genshin cheat for OS/CN 3.0 |
+| [Freeze](https://github.com/optiv/Freeze) | Freeze is a payload toolkit for bypassing EDRs using suspended processes, direct syscalls, and alternative execution methods |
+| [MemoryPack](https://github.com/Cysharp/MemoryPack) | Zero encoding extreme performance binary serializer for C#. |
+| [data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) | Free Data Engineering course! |
 | [first-contributions](https://github.com/firstcontributions/first-contributions) | 🚀✨ Help beginners to contribute to open source projects |
-| [setfit](https://github.com/huggingface/setfit) | Efficient few-shot learning with Sentence Transformers |
-| [GET3D](https://github.com/nv-tlabs/GET3D) | None |
-| [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. |
-| [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
-| [googletest](https://github.com/google/googletest) | GoogleTest - Google Testing and Mocking Framework |
-| [linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) | Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers |
+| [Sub](https://github.com/anaer/Sub) | 自用clash订阅链接 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
