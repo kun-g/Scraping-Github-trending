@@ -41,14 +41,14 @@
 <!-- START OF MONTHLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI |
+| [jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch! |
 | [stable-diffusion](https://github.com/CompVis/stable-diffusion) | A latent text-to-image diffusion model |
-| [beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) | An interactive TypeScript tutorial for beginners |
-| [surrealdb](https://github.com/surrealdb/surrealdb) | A scalable, distributed, collaborative, document-graph database, for the realtime web |
 | [lapce](https://github.com/lapce/lapce) | Lightning-fast and Powerful Code Editor written in Rust |
+| [surrealdb](https://github.com/surrealdb/surrealdb) | A scalable, distributed, collaborative, document-graph database, for the realtime web |
+| [stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui) | Stable Diffusion web UI |
+| [qwik](https://github.com/BuilderIO/qwik) | The HTML-first framework. Instant apps of any size with ~ 1kb JS |
 | [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) | None |
-| [100-go-mistakes](https://github.com/teivah/100-go-mistakes) | Source code and community space of 📖 100 Go Mistakes. |
-| [CodeEdit](https://github.com/CodeEditApp/CodeEdit) | CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. |
-| [latent-diffusion](https://github.com/CompVis/latent-diffusion) | High-Resolution Image Synthesis with Latent Diffusion Models |
 | [stability-sdk](https://github.com/Stability-AI/stability-sdk) | SDK for interacting with stability.ai APIs (e.g. stable diffusion inference) |
 | [helix](https://github.com/helix-editor/helix) | A post-modern modal text editor. |
 <!-- END OF MONTHLY_TOP10_REPOS -->
