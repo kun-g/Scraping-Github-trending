@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [workerd](https://github.com/cloudflare/workerd) | The JavaScript / Wasm runtime that powers Cloudflare Workers |
-| [cypress](https://github.com/cypress-io/cypress) | Fast, easy and reliable testing for anything that runs in a browser. |
-| [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | List of Computer Science courses with video lectures. |
-| [MOOS](https://github.com/nifanfa/MOOS) | C# x64 operating system programming with the .NET native ahead-of-time compilation technology. |
-| [Akebi-GC](https://github.com/Taiga74164/Akebi-GC) | Genshin cheat for OS/CN 3.0 |
-| [Freeze](https://github.com/optiv/Freeze) | Freeze is a payload toolkit for bypassing EDRs using suspended processes, direct syscalls, and alternative execution methods |
-| [MemoryPack](https://github.com/Cysharp/MemoryPack) | Zero encoding extreme performance binary serializer for C#. |
-| [data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) | Free Data Engineering course! |
+| [googletest](https://github.com/google/googletest) | GoogleTest - Google Testing and Mocking Framework |
 | [first-contributions](https://github.com/firstcontributions/first-contributions) | 🚀✨ Help beginners to contribute to open source projects |
-| [Sub](https://github.com/anaer/Sub) | 自用clash订阅链接 |
+| [RxSwift](https://github.com/ReactiveX/RxSwift) | Reactive Programming in Swift |
+| [refurb](https://github.com/dosisod/refurb) | A tool for refurbishing and modernizing Python codebases |
+| [list-infosec-encyclopedia](https://github.com/GoVanguard/list-infosec-encyclopedia) | A list of information security related awesome lists and other resources. |
+| [workerd](https://github.com/cloudflare/workerd) | The JavaScript / Wasm runtime that powers Cloudflare Workers |
+| [Core](https://github.com/WeAreMahsaAmini/Core) | Woman, life, freedom |
+| [How-to-run](https://github.com/lidangzzz/How-to-run) | 立党老师的润学（零基础转码/移民/留学/海外创业/永居）笔记 |
+| [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) | 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. |
+| [typescript-generics-workshop](https://github.com/total-typescript/typescript-generics-workshop) | Interactive tutorial on using generics in TypeScript |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
