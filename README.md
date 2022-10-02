@@ -50,5 +50,5 @@
 | [qwik](https://github.com/BuilderIO/qwik) | The HTML-first framework. Instant apps of any size with ~ 1kb JS |
 | [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) | None |
 | [stability-sdk](https://github.com/Stability-AI/stability-sdk) | SDK for interacting with stability.ai APIs (e.g. stable diffusion inference) |
-| [helix](https://github.com/helix-editor/helix) | A post-modern modal text editor. |
+| [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) | 🚀一个用来深入学习并实战 Spring Boot 的项目。 |
 <!-- END OF MONTHLY_TOP10_REPOS -->
