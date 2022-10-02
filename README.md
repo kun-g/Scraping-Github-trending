@@ -25,16 +25,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [penpot](https://github.com/penpot/penpot) | Penpot - The Open-Source design & prototyping platform |
-| [a-sheep-assistant](https://github.com/Lcry/a-sheep-assistant) | 🐑 羊了个羊助手，羊了个羊一键闯关，本项目仅用于学习研究使用，请勿将本项目的任何内容用于商业或非法目的，否则后果自负。保姆级学习教程关注作者公众号： 《码上有效率》，口令羊了个羊 |
-| [notes](https://github.com/nuttyartist/notes) | Note-taking application, write down your thoughts. |
-| [memlab](https://github.com/facebookincubator/memlab) | A framework for finding JavaScript memory leaks and analyzing heap snapshots |
-| [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI |
-| [milvus](https://github.com/milvus-io/milvus) | Vector database for scalable similarity search and AI applications. |
-| [Flipper](https://github.com/UberGuidoZ/Flipper) | Playground (and dump) of stuff I make or modify for the Flipper Zero |
-| [wasmtime](https://github.com/bytecodealliance/wasmtime) | A fast and secure runtime for WebAssembly |
-| [cloudfox](https://github.com/BishopFox/cloudfox) | Automating situational awareness for cloud penetration tests. |
+| [Dreambooth-Stable-Diffusion](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion) | Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) with Stable Diffusion |
+| [whisper](https://github.com/openai/whisper) | Robust Speech Recognition via Large-Scale Weak Supervision |
+| [advanced-java](https://github.com/doocs/advanced-java) | 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识 |
+| [first-contributions](https://github.com/firstcontributions/first-contributions) | 🚀✨ Help beginners to contribute to open source projects |
+| [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) | 🚀一个用来深入学习并实战 Spring Boot 的项目。 |
 | [qwik](https://github.com/BuilderIO/qwik) | The HTML-first framework. Instant apps of any size with ~ 1kb JS |
+| [stability-sdk](https://github.com/Stability-AI/stability-sdk) | SDK for interacting with stability.ai APIs (e.g. stable diffusion inference) |
+| [learngo](https://github.com/inancgumus/learngo) | ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs. |
+| [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI |
+| [googletest](https://github.com/google/googletest) | GoogleTest - Google Testing and Mocking Framework |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
