@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) | An interactive TypeScript tutorial for beginners |
+| [penpot](https://github.com/penpot/penpot) | Penpot - The Open-Source design & prototyping platform |
+| [cypress](https://github.com/cypress-io/cypress) | Fast, easy and reliable testing for anything that runs in a browser. |
 | [googletest](https://github.com/google/googletest) | GoogleTest - Google Testing and Mocking Framework |
-| [first-contributions](https://github.com/firstcontributions/first-contributions) | 🚀✨ Help beginners to contribute to open source projects |
-| [RxSwift](https://github.com/ReactiveX/RxSwift) | Reactive Programming in Swift |
-| [refurb](https://github.com/dosisod/refurb) | A tool for refurbishing and modernizing Python codebases |
-| [list-infosec-encyclopedia](https://github.com/GoVanguard/list-infosec-encyclopedia) | A list of information security related awesome lists and other resources. |
-| [workerd](https://github.com/cloudflare/workerd) | The JavaScript / Wasm runtime that powers Cloudflare Workers |
-| [Core](https://github.com/WeAreMahsaAmini/Core) | Woman, life, freedom |
-| [How-to-run](https://github.com/lidangzzz/How-to-run) | 立党老师的润学（零基础转码/移民/留学/海外创业/永居）笔记 |
-| [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) | 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. |
-| [typescript-generics-workshop](https://github.com/total-typescript/typescript-generics-workshop) | Interactive tutorial on using generics in TypeScript |
+| [make-a-video-pytorch](https://github.com/lucidrains/make-a-video-pytorch) | Implementation of Make-A-Video, new SOTA text to video generator from Meta AI, in Pytorch |
+| [Transformers-Tutorials](https://github.com/NielsRogge/Transformers-Tutorials) | This repository contains demos I made with the Transformers library by HuggingFace. |
+| [GET3D](https://github.com/nv-tlabs/GET3D) | None |
+| [tecnologistas-contra-bolsonaro](https://github.com/inspiradanacomputacao/tecnologistas-contra-bolsonaro) | Manifesto de Pessoas Tecnologistas contra Bolsonaro |
+| [Laser_control](https://github.com/Ildaron/Laser_control) | Open-Source Laser for control mosquito, weed, and pest |
+| [react-portofolio-with-tailwind](https://github.com/developedbyed/react-portofolio-with-tailwind) | None |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
