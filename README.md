@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [stablediffusion-infinity](https://github.com/lkwq007/stablediffusion-infinity) | Outpainting with Stable Diffusion on an infinite canvas |
 | [beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) | An interactive TypeScript tutorial for beginners |
-| [penpot](https://github.com/penpot/penpot) | Penpot - The Open-Source design & prototyping platform |
-| [cypress](https://github.com/cypress-io/cypress) | Fast, easy and reliable testing for anything that runs in a browser. |
-| [googletest](https://github.com/google/googletest) | GoogleTest - Google Testing and Mocking Framework |
-| [make-a-video-pytorch](https://github.com/lucidrains/make-a-video-pytorch) | Implementation of Make-A-Video, new SOTA text to video generator from Meta AI, in Pytorch |
-| [Transformers-Tutorials](https://github.com/NielsRogge/Transformers-Tutorials) | This repository contains demos I made with the Transformers library by HuggingFace. |
-| [GET3D](https://github.com/nv-tlabs/GET3D) | None |
-| [tecnologistas-contra-bolsonaro](https://github.com/inspiradanacomputacao/tecnologistas-contra-bolsonaro) | Manifesto de Pessoas Tecnologistas contra Bolsonaro |
-| [Laser_control](https://github.com/Ildaron/Laser_control) | Open-Source Laser for control mosquito, weed, and pest |
-| [react-portofolio-with-tailwind](https://github.com/developedbyed/react-portofolio-with-tailwind) | None |
+| [first-contributions](https://github.com/firstcontributions/first-contributions) | 🚀✨ Help beginners to contribute to open source projects |
+| [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) | Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes. |
+| [docs](https://github.com/github/docs) | The open-source repo for docs.github.com |
+| [bips](https://github.com/bitcoin/bips) | Bitcoin Improvement Proposals |
+| [ToolJet](https://github.com/ToolJet/ToolJet) | Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀 |
+| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
+| [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Interactive roadmaps, guides and other educational content to help developers grow in their careers. |
+| [Havoc](https://github.com/HavocFramework/Havoc) | The Havoc Framework |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
