@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [stablediffusion-infinity](https://github.com/lkwq007/stablediffusion-infinity) | Outpainting with Stable Diffusion on an infinite canvas |
-| [beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) | An interactive TypeScript tutorial for beginners |
-| [first-contributions](https://github.com/firstcontributions/first-contributions) | 🚀✨ Help beginners to contribute to open source projects |
 | [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) | Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes. |
+| [iced](https://github.com/iced-rs/iced) | A cross-platform GUI library for Rust, inspired by Elm |
+| [sherlock](https://github.com/sherlock-project/sherlock) | 🔎 Hunt down social media accounts by username across social networks |
+| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
+| [novu](https://github.com/novuhq/novu) | ⭐ A fully functional real-time notification center for your web and react apps. The only open-source notifications infrastructure that manages multi-channel content, scheduled notifications, digest engine, user preferences, and delivers Email, SMS, Push and Chat notifications using a single API. ⚡ |
 | [docs](https://github.com/github/docs) | The open-source repo for docs.github.com |
-| [bips](https://github.com/bitcoin/bips) | Bitcoin Improvement Proposals |
-| [ToolJet](https://github.com/ToolJet/ToolJet) | Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀 |
-| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
-| [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Interactive roadmaps, guides and other educational content to help developers grow in their careers. |
-| [Havoc](https://github.com/HavocFramework/Havoc) | The Havoc Framework |
+| [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI |
+| [first-contributions](https://github.com/firstcontributions/first-contributions) | 🚀✨ Help beginners to contribute to open source projects |
+| [password-generator](https://github.com/midudev/password-generator) | Best password generator agnostic to framework |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
