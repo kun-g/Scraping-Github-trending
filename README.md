@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
-| [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) | Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes. |
-| [first-contributions](https://github.com/firstcontributions/first-contributions) | 🚀✨ Help beginners to contribute to open source projects |
-| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
-| [CodeEdit](https://github.com/CodeEditApp/CodeEdit) | CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. |
-| [Ghost](https://github.com/TryGhost/Ghost) | Turn your audience into a business. Publishing, memberships, subscriptions and newsletters. |
-| [signoz](https://github.com/SigNoz/signoz) | SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥. 👉 Open source Application Performance Monitoring (APM) & Observability tool |
-| [maigret](https://github.com/soxoj/maigret) | 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites |
-| [recursos-datos](https://github.com/FernandaCader/recursos-datos) | Recopilación de recursos de ciencias de datos por parte de la comunidad Datos Para Todos |
-| [ToolJet](https://github.com/ToolJet/ToolJet) | Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀 |
+| [AITemplate](https://github.com/facebookincubator/AITemplate) | AITemplate is a Python framework which renders neural network into high performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU) and MatrixCore (AMD GPU) inference. |
+| [black](https://github.com/psf/black) | The uncompromising Python code formatter |
+| [postgres-wasm](https://github.com/snaplet/postgres-wasm) | A PostgresQL server running in your browser |
+| [PS5-4.03-Kernel-Exploit](https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit) | An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW/4.50FW |
+| [noice.nvim](https://github.com/folke/noice.nvim) | 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu. |
+| [iced](https://github.com/iced-rs/iced) | A cross-platform GUI library for Rust, inspired by Elm |
+| [ios15-tweaks](https://github.com/itsnebulalol/ios15-tweaks) | List of supported, partially supported, and unsupported *non-rootless* tweaks for iOS 15. |
+| [grpc](https://github.com/grpc/grpc) | The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#) |
+| [v86](https://github.com/copy/v86) | x86 virtualization in your browser, recompiling x86 to wasm on the fly |
+| [App](https://github.com/Expensify/App) | Welcome to New Expensify: a complete re-imagination of financial collaboration, centered around chat. Help us build the next generation of Expensify by sharing feedback and contributing to the code. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
