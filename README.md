@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [AITemplate](https://github.com/facebookincubator/AITemplate) | AITemplate is a Python framework which renders neural network into high performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU) and MatrixCore (AMD GPU) inference. |
+| [libsql](https://github.com/libsql/libsql) | libSQL is a fork of SQLite that is both Open Source, and Open Contributions. |
+| [remote-jobs](https://github.com/remoteintech/remote-jobs) | A list of semi to fully remote-friendly companies (jobs) in tech. |
 | [black](https://github.com/psf/black) | The uncompromising Python code formatter |
+| [AITemplate](https://github.com/facebookincubator/AITemplate) | AITemplate is a Python framework which renders neural network into high performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU) and MatrixCore (AMD GPU) inference. |
+| [bbs](https://github.com/net4people/bbs) | Forum for discussing Internet censorship circumvention |
+| [cheat-sheets](https://github.com/xcad2k/cheat-sheets) | This is my personal knowledge-base. Here you'll find code-snippets, technical documentation, and command reference for various tools, and technologies. |
 | [postgres-wasm](https://github.com/snaplet/postgres-wasm) | A PostgresQL server running in your browser |
-| [PS5-4.03-Kernel-Exploit](https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit) | An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW/4.50FW |
-| [noice.nvim](https://github.com/folke/noice.nvim) | 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu. |
-| [iced](https://github.com/iced-rs/iced) | A cross-platform GUI library for Rust, inspired by Elm |
-| [ios15-tweaks](https://github.com/itsnebulalol/ios15-tweaks) | List of supported, partially supported, and unsupported *non-rootless* tweaks for iOS 15. |
-| [grpc](https://github.com/grpc/grpc) | The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#) |
-| [v86](https://github.com/copy/v86) | x86 virtualization in your browser, recompiling x86 to wasm on the fly |
-| [App](https://github.com/Expensify/App) | Welcome to New Expensify: a complete re-imagination of financial collaboration, centered around chat. Help us build the next generation of Expensify by sharing feedback and contributing to the code. |
+| [awesome-diagramming](https://github.com/shubhamgrg04/awesome-diagramming) | A curated collection of diagramming tools used by leading software engineering teams |
+| [haystack](https://github.com/deepset-ai/haystack) | 🔍 Haystack is an open source NLP framework that leverages pre-trained Transformer models. It enables developers to quickly implement production-ready semantic search, question answering, summarization and document ranking for a wide range of NLP applications. |
+| [palera1n](https://github.com/palera1n/palera1n) | iOS 15.0-15.3.1 tethered checkm8 "jailbreak" (rootless is 15.0-15.7 semi-tethered, no tweaks) |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
