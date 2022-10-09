@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) | A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion. |
+| [black](https://github.com/psf/black) | The uncompromising Python code formatter |
 | [libsql](https://github.com/libsql/libsql) | libSQL is a fork of SQLite that is both Open Source, and Open Contributions. |
 | [remote-jobs](https://github.com/remoteintech/remote-jobs) | A list of semi to fully remote-friendly companies (jobs) in tech. |
-| [black](https://github.com/psf/black) | The uncompromising Python code formatter |
-| [AITemplate](https://github.com/facebookincubator/AITemplate) | AITemplate is a Python framework which renders neural network into high performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU) and MatrixCore (AMD GPU) inference. |
-| [bbs](https://github.com/net4people/bbs) | Forum for discussing Internet censorship circumvention |
-| [cheat-sheets](https://github.com/xcad2k/cheat-sheets) | This is my personal knowledge-base. Here you'll find code-snippets, technical documentation, and command reference for various tools, and technologies. |
-| [postgres-wasm](https://github.com/snaplet/postgres-wasm) | A PostgresQL server running in your browser |
-| [awesome-diagramming](https://github.com/shubhamgrg04/awesome-diagramming) | A curated collection of diagramming tools used by leading software engineering teams |
-| [haystack](https://github.com/deepset-ai/haystack) | 🔍 Haystack is an open source NLP framework that leverages pre-trained Transformer models. It enables developers to quickly implement production-ready semantic search, question answering, summarization and document ranking for a wide range of NLP applications. |
-| [palera1n](https://github.com/palera1n/palera1n) | iOS 15.0-15.3.1 tethered checkm8 "jailbreak" (rootless is 15.0-15.7 semi-tethered, no tweaks) |
+| [pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning) | Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course. |
+| [OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) | Investment Research for Everyone, Anywhere. |
+| [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI |
+| [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 🔥 Open Source Airtable Alternative |
+| [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | List of Computer Science courses with video lectures. |
+| [react-use](https://github.com/streamich/react-use) | React Hooks — 👍 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
