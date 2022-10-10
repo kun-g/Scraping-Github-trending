@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) | A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion. |
-| [black](https://github.com/psf/black) | The uncompromising Python code formatter |
-| [libsql](https://github.com/libsql/libsql) | libSQL is a fork of SQLite that is both Open Source, and Open Contributions. |
-| [remote-jobs](https://github.com/remoteintech/remote-jobs) | A list of semi to fully remote-friendly companies (jobs) in tech. |
-| [pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning) | Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course. |
-| [OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) | Investment Research for Everyone, Anywhere. |
 | [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI |
+| [type-challenges](https://github.com/type-challenges/type-challenges) | Collection of TypeScript type challenges with online judge |
+| [maigret](https://github.com/soxoj/maigret) | 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites |
+| [stable-diffusion](https://github.com/CompVis/stable-diffusion) | A latent text-to-image diffusion model |
+| [GFPGAN](https://github.com/TencentARC/GFPGAN) | GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration. |
+| [remote-jobs](https://github.com/remoteintech/remote-jobs) | A list of semi to fully remote-friendly companies (jobs) in tech. |
+| [CrossAttentionControl](https://github.com/bloc97/CrossAttentionControl) | Unofficial implementation of "Prompt-to-Prompt Image Editing with Cross Attention Control" with Stable Diffusion |
+| [transmission](https://github.com/transmission/transmission) | Official Transmission BitTorrent client repository |
+| [libsql](https://github.com/libsql/libsql) | libSQL is a fork of SQLite that is both Open Source, and Open Contributions. |
 | [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 🔥 Open Source Airtable Alternative |
-| [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | List of Computer Science courses with video lectures. |
-| [react-use](https://github.com/streamich/react-use) | React Hooks — 👍 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
