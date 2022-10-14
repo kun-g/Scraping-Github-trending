@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [create-react-app](https://github.com/facebook/create-react-app) | Set up a modern web app by running one command. |
-| [serenity](https://github.com/SerenityOS/serenity) | The Serenity Operating System 🐞 |
-| [advanced-patterns-workshop](https://github.com/total-typescript/advanced-patterns-workshop) | An interactive TypeScript repo on advanced patterns (WIP) |
-| [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI |
+| [novelai-bot](https://github.com/koishijs/novelai-bot) | Generate images by NovelAI | 基于 NovelAI 的画图机器人 |
 | [slash](https://github.com/toss/slash) | A collection of TypeScript/JavaScript packages to build high-quality web services. |
-| [ICE_TEA_BIOS](https://github.com/neineit/ICE_TEA_BIOS) | The BIOS Code from project C970 |
-| [500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) | 500 AI Machine learning Deep learning Computer vision NLP Projects with code |
-| [personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) | 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022 |
-| [learngo](https://github.com/inancgumus/learngo) | ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs. |
-| [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections. |
+| [InboxSDK](https://github.com/InboxSDK/InboxSDK) | The InboxSDK lets you build apps for Gmail. |
+| [hoaxshell](https://github.com/t3l3machus/hoaxshell) | An unconventional Windows reverse shell, currently undetected by Microsoft Defender and various other AV solutions, solely based on http(s) traffic. |
+| [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) | Atmosphère is a work-in-progress customized firmware for the Nintendo Switch. |
+| [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI |
+| [nerfacc](https://github.com/KAIR-BAIR/nerfacc) | A General NeRF Acceleration Toolbox in PyTorch. |
+| [Fyrox](https://github.com/FyroxEngine/Fyrox) | 3D and 2D game engine written in Rust |
+| [nomad](https://github.com/hashicorp/nomad) | Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. |
+| [program](https://github.com/codinasion/program) | An open source codebase for sharing programming solutions. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10

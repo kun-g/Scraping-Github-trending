@@ -1,0 +1,278 @@
+[
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/53356347",
+        "name": "Azure SDK Bot",
+        "repo": {
+            "description": "\u2615\ufe0f Azure SDK for Java API documentation repository. Content here is mostly auto-generated.",
+            "name": "azure-docs-sdk-java",
+            "url": "https://github.com/azure-sdk/azure-docs-sdk-java"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/azure-sdk",
+        "username": "azure-sdk"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/108725",
+        "name": "fsouza",
+        "repo": {
+            "description": "Google Cloud Storage emulator & testing library.",
+            "name": "fake-gcs-server",
+            "url": "https://github.com/fsouza/fake-gcs-server"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/fsouza",
+        "username": "fsouza"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/173661",
+        "name": "Alon Zakai",
+        "repo": {
+            "description": "Direct port of the Bullet physics engine to JavaScript using Emscripten",
+            "name": "ammo.js",
+            "url": "https://github.com/kripken/ammo.js"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/kripken",
+        "username": "kripken"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/19343",
+        "name": "Andrey Sitnik",
+        "repo": {
+            "description": "A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript",
+            "name": "nanoid",
+            "url": "https://github.com/ai/nanoid"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/ai",
+        "username": "ai"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1309177",
+        "name": "Charlie Marsh",
+        "repo": {
+            "description": "An extremely fast Python linter, written in Rust.",
+            "name": "ruff",
+            "url": "https://github.com/charliermarsh/ruff"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/charliermarsh",
+        "username": "charliermarsh"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/10853349",
+        "name": "Alberto Rodr\u00edguez",
+        "repo": {
+            "description": "Simple, flexible, interactive & powerful charts, maps and gauges for .Net, LiveCharts2 can now practically run everywhere Maui, Uno Platf\u2026",
+            "name": "LiveCharts2",
+            "url": "https://github.com/beto-rodriguez/LiveCharts2"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/beto-rodriguez",
+        "username": "beto-rodriguez"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/62628408",
+        "name": "Victor Eke",
+        "repo": {
+            "description": "A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. \ud83d\udc9c",
+            "name": "portfolio-ideas",
+            "url": "https://github.com/Evavic44/portfolio-ideas"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/Evavic44",
+        "username": "Evavic44"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1192342",
+        "name": "Pavlos Ratis",
+        "repo": {
+            "description": "A curated list of Site Reliability and Production Engineering resources.",
+            "name": "awesome-sre",
+            "url": "https://github.com/dastergon/awesome-sre"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/dastergon",
+        "username": "dastergon"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2946214",
+        "name": "Joe Chen",
+        "repo": {
+            "description": "\u300aThe Way to Go\u300b\u4e2d\u6587\u8bd1\u672c\uff0c\u4e2d\u6587\u6b63\u5f0f\u540d\u300aGo \u5165\u95e8\u6307\u5357\u300b",
+            "name": "the-way-to-go_ZH_CN",
+            "url": "https://github.com/unknwon/the-way-to-go_ZH_CN"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/unknwon",
+        "username": "unknwon"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/26859204",
+        "name": "lewtun",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/lewtun",
+        "username": "lewtun"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/10746682",
+        "name": "Sandeep Somavarapu",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/sandy081",
+        "username": "sandy081"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/6354026",
+        "name": "Joe Tsai",
+        "repo": {
+            "description": "Daemon for creating a simple VPN over UDP.",
+            "name": "udptunnel",
+            "url": "https://github.com/dsnet/udptunnel"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/dsnet",
+        "username": "dsnet"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/12949268",
+        "name": "Lukas Taegert-Atkinson",
+        "repo": {
+            "description": "Marks side-effects in module initialization that would interfere with tree-shaking",
+            "name": "eslint-plugin-tree-shaking",
+            "url": "https://github.com/lukastaegert/eslint-plugin-tree-shaking"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/lukastaegert",
+        "username": "lukastaegert"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/10718366",
+        "name": "metonym",
+        "repo": {
+            "description": "Accessible, fuzzy search typeahead component",
+            "name": "svelte-typeahead",
+            "url": "https://github.com/metonym/svelte-typeahead"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/metonym",
+        "username": "metonym"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2403652",
+        "name": "Michael Telatynski",
+        "repo": {
+            "description": "Automatically exported from code.google.com/p/arudino-maxmatrix-library",
+            "name": "arudino-maxmatrix-library",
+            "url": "https://github.com/t3chguy/arudino-maxmatrix-library"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/t3chguy",
+        "username": "t3chguy"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/159209",
+        "name": "Ahmet Alp Balkan",
+        "repo": {
+            "description": "Faster way to switch between clusters and namespaces in kubectl",
+            "name": "kubectx",
+            "url": "https://github.com/ahmetb/kubectx"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/ahmetb",
+        "username": "ahmetb"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/9113740",
+        "name": "Lee Robinson",
+        "repo": {
+            "description": "\u2728 My portfolio built with Next.js, Tailwind, Prisma, and Vercel.",
+            "name": "leerob.io",
+            "url": "https://github.com/leerob/leerob.io"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/leerob",
+        "username": "leerob"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1430078",
+        "name": "Arthur Vickers",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/ajcvickers",
+        "username": "ajcvickers"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/6945922",
+        "name": "Matthias Fey",
+        "repo": {
+            "description": "PyTorch Extension Library of Optimized Scatter Operations",
+            "name": "pytorch_scatter",
+            "url": "https://github.com/rusty1s/pytorch_scatter"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/rusty1s",
+        "username": "rusty1s"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/359395",
+        "name": "\u8ff7\u6e21",
+        "repo": {
+            "description": "\ud83d\udcda \u514d\u8d39\u7684\u8ba1\u7b97\u673a\u7f16\u7a0b\u7c7b\u4e2d\u6587\u4e66\u7c4d\uff0c\u6b22\u8fce\u6295\u7a3f",
+            "name": "free-programming-books-zh_CN",
+            "url": "https://github.com/justjavac/free-programming-books-zh_CN"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/justjavac",
+        "username": "justjavac"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/290976",
+        "name": "Vladimir Mihailenco",
+        "repo": {
+            "description": "msgpack.org[Go] MessagePack encoding for Golang",
+            "name": "msgpack",
+            "url": "https://github.com/vmihailenco/msgpack"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/vmihailenco",
+        "username": "vmihailenco"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/733326",
+        "name": "Sylvestre Ledru",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/sylvestre",
+        "username": "sylvestre"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/279701",
+        "name": "Michael Carroll",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/mjcarroll",
+        "username": "mjcarroll"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/28673",
+        "name": "Dustin J. Mitchell",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/djmitche",
+        "username": "djmitche"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2182307",
+        "name": "Jyoti Puri",
+        "repo": {
+            "description": "A Wysiwyg editor build on top of ReactJS and DraftJS. https://jpuri.github.io/react-draft-wysiwyg",
+            "name": "react-draft-wysiwyg",
+            "url": "https://github.com/jpuri/react-draft-wysiwyg"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/jpuri",
+        "username": "jpuri"
+    }
+]
