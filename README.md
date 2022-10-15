@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [configure-aws-credentials](https://github.com/aws-actions/configure-aws-credentials) | Configure AWS credential environment variables for use in other GitHub Actions. |
 | [novelai-bot](https://github.com/koishijs/novelai-bot) | Generate images by NovelAI | 基于 NovelAI 的画图机器人 |
-| [slash](https://github.com/toss/slash) | A collection of TypeScript/JavaScript packages to build high-quality web services. |
-| [InboxSDK](https://github.com/InboxSDK/InboxSDK) | The InboxSDK lets you build apps for Gmail. |
-| [hoaxshell](https://github.com/t3l3machus/hoaxshell) | An unconventional Windows reverse shell, currently undetected by Microsoft Defender and various other AV solutions, solely based on http(s) traffic. |
-| [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) | Atmosphère is a work-in-progress customized firmware for the Nintendo Switch. |
-| [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI |
-| [nerfacc](https://github.com/KAIR-BAIR/nerfacc) | A General NeRF Acceleration Toolbox in PyTorch. |
-| [Fyrox](https://github.com/FyroxEngine/Fyrox) | 3D and 2D game engine written in Rust |
-| [nomad](https://github.com/hashicorp/nomad) | Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. |
-| [program](https://github.com/codinasion/program) | An open source codebase for sharing programming solutions. |
+| [Betty](https://github.com/holbertonschool/Betty) | Holberton-style C code checker written in Perl |
+| [aspnetcore](https://github.com/dotnet/aspnetcore) | ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux. |
+| [concurrency-programming-via-rust](https://github.com/smallnest/concurrency-programming-via-rust) | None |
+| [azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net) | This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net. |
+| [wazuh](https://github.com/wazuh/wazuh) | Wazuh - The Open Source Security Platform |
+| [awesome-devblog](https://github.com/awesome-devblog/awesome-devblog) | 어썸데브블로그. 국내 개발/기술 블로그 모음(only 실명으로). |
+| [swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) | A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind. |
+| [react-router](https://github.com/remix-run/react-router) | Declarative routing for React |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
