@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [configure-aws-credentials](https://github.com/aws-actions/configure-aws-credentials) | Configure AWS credential environment variables for use in other GitHub Actions. |
-| [novelai-bot](https://github.com/koishijs/novelai-bot) | Generate images by NovelAI | 基于 NovelAI 的画图机器人 |
 | [Betty](https://github.com/holbertonschool/Betty) | Holberton-style C code checker written in Perl |
+| [folly](https://github.com/facebook/folly) | An open-source C++ library developed and used at Facebook. |
 | [aspnetcore](https://github.com/dotnet/aspnetcore) | ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux. |
-| [concurrency-programming-via-rust](https://github.com/smallnest/concurrency-programming-via-rust) | None |
-| [azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net) | This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net. |
-| [wazuh](https://github.com/wazuh/wazuh) | Wazuh - The Open Source Security Platform |
-| [awesome-devblog](https://github.com/awesome-devblog/awesome-devblog) | 어썸데브블로그. 국내 개발/기술 블로그 모음(only 실명으로). |
-| [swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) | A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind. |
-| [react-router](https://github.com/remix-run/react-router) | Declarative routing for React |
+| [preguntas-entrevista-react](https://github.com/midudev/preguntas-entrevista-react) | Preguntas típicas sobre React para entrevistas de trabajo ⚛️ |
+| [run](https://github.com/The-Run-Philosophy-Organization/run) | 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。 |
+| [system-design-resources](https://github.com/InterviewReady/system-design-resources) | These are the best resources for System Design on the Internet |
+| [ignite-lab-design-system](https://github.com/rocketseat-education/ignite-lab-design-system) | Projeto desenvolvido durante o Ignite Lab 03 |
+| [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) | Reproduce DeFi hack incidents using Foundry. |
+| [weekly](https://github.com/ruanyf/weekly) | 科技爱好者周刊，每周五发布 |
+| [novelai-bot](https://github.com/koishijs/novelai-bot) | Generate images by NovelAI | 基于 NovelAI 的画图机器人 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
