@@ -25,16 +25,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [first-contributions](https://github.com/firstcontributions/first-contributions) | 🚀✨ Help beginners to contribute to open source projects |
-| [ToolJet](https://github.com/ToolJet/ToolJet) | Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀 |
-| [stablediffusion-infinity](https://github.com/lkwq007/stablediffusion-infinity) | Outpainting with Stable Diffusion on an infinite canvas |
-| [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) | Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes. |
 | [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI |
-| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
-| [docs](https://github.com/github/docs) | The open-source repo for docs.github.com |
-| [bsc](https://github.com/bnb-chain/bsc) | A BNB Smart Chain client based on the go-ethereum fork |
-| [Ghost](https://github.com/TryGhost/Ghost) | Turn your audience into a business. Publishing, memberships, subscriptions and newsletters. |
-| [novu](https://github.com/novuhq/novu) | ⭐ A fully functional real-time notification center for your web and react apps. The only open-source notifications infrastructure that manages multi-channel content, scheduled notifications, digest engine, user preferences, and delivers Email, SMS, Push and Chat notifications using a single API. ⚡ |
+| [stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) | A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion. |
+| [cheat-sheets](https://github.com/xcad2k/cheat-sheets) | This is my personal knowledge-base. Here you'll find code-snippets, technical documentation, and command reference for various tools, and technologies. |
+| [NotepadNext](https://github.com/dail8859/NotepadNext) | A cross-platform, reimplementation of Notepad++ |
+| [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 🔥 Open Source Airtable Alternative |
+| [GFPGAN](https://github.com/TencentARC/GFPGAN) | GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration. |
+| [wagtail](https://github.com/wagtail/wagtail) | A Django content management system focused on flexibility and user experience |
+| [libsql](https://github.com/libsql/libsql) | libSQL is a fork of SQLite that is both Open Source, and Open Contributions. |
+| [learngo](https://github.com/inancgumus/learngo) | ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs. |
+| [VToonify](https://github.com/williamyang1991/VToonify) | [SIGGRAPH Asia 2022] VToonify: Controllable High-Resolution Portrait Video Style Transfer |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
