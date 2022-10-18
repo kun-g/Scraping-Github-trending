@@ -1,0 +1,282 @@
+[
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/16662357",
+        "name": "jdhao",
+        "repo": {
+            "description": "A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...",
+            "name": "nvim-config",
+            "url": "https://github.com/jdhao/nvim-config"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/jdhao",
+        "username": "jdhao"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/6942",
+        "name": "Tom Payne",
+        "repo": {
+            "description": "Manage your dotfiles across multiple diverse machines, securely.",
+            "name": "chezmoi",
+            "url": "https://github.com/twpayne/chezmoi"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/twpayne",
+        "username": "twpayne"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/13757818",
+        "name": "Kris N\u00f3va",
+        "repo": {
+            "description": "Convert Kubernetes YAML to Golang",
+            "name": "naml",
+            "url": "https://github.com/krisnova/naml"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/krisnova",
+        "username": "krisnova"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/130929",
+        "name": "Henrik Rydg\u00e5rd",
+        "repo": {
+            "description": "A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD \u2026",
+            "name": "ppsspp",
+            "url": "https://github.com/hrydgard/ppsspp"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/hrydgard",
+        "username": "hrydgard"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/7396244",
+        "name": "van Hauser",
+        "repo": {
+            "description": "hydra",
+            "name": "thc-hydra",
+            "url": "https://github.com/vanhauser-thc/thc-hydra"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/vanhauser-thc",
+        "username": "vanhauser-thc"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1309177",
+        "name": "Charlie Marsh",
+        "repo": {
+            "description": "An extremely fast Python linter, written in Rust.",
+            "name": "ruff",
+            "url": "https://github.com/charliermarsh/ruff"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/charliermarsh",
+        "username": "charliermarsh"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/6281704",
+        "name": "Igor Pe\u010dovnik",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/igorpecovnik",
+        "username": "igorpecovnik"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/315810",
+        "name": "Michael Waskom",
+        "repo": {
+            "description": "Statistical data visualization in Python",
+            "name": "seaborn",
+            "url": "https://github.com/mwaskom/seaborn"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/mwaskom",
+        "username": "mwaskom"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/7142025",
+        "name": "Jacob Gadikian",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/faddat",
+        "username": "faddat"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/7009300",
+        "name": "Iman khoshabi",
+        "repo": {
+            "description": "FL Chart is a highly customizable Flutter chart library that supports Line Chart, Bar Chart, Pie Chart, Scatter Chart, and Radar Chart.",
+            "name": "fl_chart",
+            "url": "https://github.com/imaNNeoFighT/fl_chart"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/imaNNeoFighT",
+        "username": "imaNNeoFighT"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/13170022",
+        "name": "Evgenii",
+        "repo": {
+            "description": "Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java,\u2026",
+            "name": "linkedin-skill-assessments-quizzes",
+            "url": "https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/Ebazhanov",
+        "username": "Ebazhanov"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/11875",
+        "name": "Earle F. Philhower, III",
+        "repo": {
+            "description": "Arduino library to play MOD, WAV, FLAC, MIDI, RTTTL, MP3, and AAC files on I2S DACs or with a software emulated delta-sigma DAC on the ES\u2026",
+            "name": "ESP8266Audio",
+            "url": "https://github.com/earlephilhower/ESP8266Audio"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/earlephilhower",
+        "username": "earlephilhower"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/729697",
+        "name": "Ayke",
+        "repo": {
+            "description": "Server that acts like a lightweight/headless Chromecast that only includes YouTube (for the time being)",
+            "name": "plaincast",
+            "url": "https://github.com/aykevl/plaincast"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/aykevl",
+        "username": "aykevl"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/857609",
+        "name": "Adam Johnson",
+        "repo": {
+            "description": "Extensions for using Django with htmx.",
+            "name": "django-htmx",
+            "url": "https://github.com/adamchainz/django-htmx"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/adamchainz",
+        "username": "adamchainz"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/6945922",
+        "name": "Matthias Fey",
+        "repo": {
+            "description": "PyTorch Extension Library of Optimized Scatter Operations",
+            "name": "pytorch_scatter",
+            "url": "https://github.com/rusty1s/pytorch_scatter"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/rusty1s",
+        "username": "rusty1s"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/68384",
+        "name": "Kevin Galligan",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/kpgalligan",
+        "username": "kpgalligan"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/30733348",
+        "name": "Na'aman Hirschfeld",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/Goldziher",
+        "username": "Goldziher"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/16480203",
+        "name": "Rapha\u00ebl",
+        "repo": {
+            "description": "Information gathering & OSINT framework for phone numbers",
+            "name": "phoneinfoga",
+            "url": "https://github.com/sundowndev/phoneinfoga"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/sundowndev",
+        "username": "sundowndev"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/182219",
+        "name": "Nick Raienko",
+        "repo": {
+            "description": "A collection of awesome things regarding React ecosystem",
+            "name": "awesome-react",
+            "url": "https://github.com/enaqx/awesome-react"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/enaqx",
+        "username": "enaqx"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1699414",
+        "name": "Andre Weissflog",
+        "repo": {
+            "description": "minimal cross-platform standalone C headers",
+            "name": "sokol",
+            "url": "https://github.com/floooh/sokol"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/floooh",
+        "username": "floooh"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/12663778",
+        "name": "Me No Dev",
+        "repo": {
+            "description": "Async Web Server for ESP8266 and ESP32",
+            "name": "ESPAsyncWebServer",
+            "url": "https://github.com/me-no-dev/ESPAsyncWebServer"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/me-no-dev",
+        "username": "me-no-dev"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/17733746",
+        "name": "CloudWebRTC",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/cloudwebrtc",
+        "username": "cloudwebrtc"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/528677",
+        "name": "Krasimir Tsonev",
+        "repo": {
+            "description": "A free book that talks about design patterns/techniques used while developing with React.",
+            "name": "react-in-patterns",
+            "url": "https://github.com/krasimir/react-in-patterns"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/krasimir",
+        "username": "krasimir"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/41671631",
+        "name": "Raphael",
+        "repo": {
+            "description": "neovim lsp plugin",
+            "name": "lspsaga.nvim",
+            "url": "https://github.com/glepnir/lspsaga.nvim"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/glepnir",
+        "username": "glepnir"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/83390",
+        "name": "Dotan J. Nahum",
+        "repo": {
+            "description": "Awesome React Native components, news, tools, and learning material!",
+            "name": "awesome-react-native",
+            "url": "https://github.com/jondot/awesome-react-native"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/jondot",
+        "username": "jondot"
+    }
+]
