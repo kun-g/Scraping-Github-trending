@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [dragonfly](https://github.com/dragonflydb/dragonfly) | A modern replacement for Redis and Memcached |
-| [frankenphp](https://github.com/dunglas/frankenphp) | The modern PHP app server |
+| [prompt-to-prompt](https://github.com/google/prompt-to-prompt) | None |
+| [Pake](https://github.com/tw93/Pake) | 🤱🏻 很简单的用 Rust 打包网页生成很小的 Mac App 🤱🏻 A simple way to package a web page with Rust to create Mac App. |
 | [RedEye](https://github.com/cisagov/RedEye) | RedEye is a visual analytic tool supporting Red & Blue Team operations |
-| [realworld](https://github.com/gothinkster/realworld) | "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 |
+| [miniob](https://github.com/oceanbase/miniob) | None |
+| [tabby](https://github.com/Eugeny/tabby) | A terminal for a more modern age |
+| [bocker](https://github.com/p8952/bocker) | Docker implemented in around 100 lines of bash |
 | [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | List of Computer Science courses with video lectures. |
-| [frui](https://github.com/fruiframework/frui) | A developer-friendly framework for building user interfaces in Rust |
-| [run](https://github.com/The-Run-Philosophy-Organization/run) | 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。 |
-| [penpot](https://github.com/penpot/penpot) | Penpot - The Open-Source design & prototyping platform |
-| [logseq](https://github.com/logseq/logseq) | A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap |
-| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
+| [AWSome-Pentesting](https://github.com/pop3ret/AWSome-Pentesting) | My cheatsheet notes to pentest AWS infrastructure |
+| [weekly](https://github.com/ruanyf/weekly) | 科技爱好者周刊，每周五发布 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
