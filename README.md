@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [explorer-lab-01](https://github.com/rocketseat-education/explorer-lab-01) | None |
+| [aptos-core](https://github.com/aptos-labs/aptos-core) | A layer 1 for everyone! |
+| [kanal](https://github.com/fereidani/kanal) | The fast sync and async channel that Rust deserves |
+| [javtube-sdk-go](https://github.com/javtube/javtube-sdk-go) | Just Another Video Tube SDK in Golang. |
+| [sparrow-kata](https://github.com/AmbiML/sparrow-kata) | Project Sparrow: KataOS |
+| [lucide](https://github.com/lucide-icons/lucide) | Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons. |
 | [dragonfly](https://github.com/dragonflydb/dragonfly) | A modern replacement for Redis and Memcached |
-| [prompt-to-prompt](https://github.com/google/prompt-to-prompt) | None |
-| [Pake](https://github.com/tw93/Pake) | 🤱🏻 很简单的用 Rust 打包网页生成很小的 Mac App 🤱🏻 A simple way to package a web page with Rust to create Mac App. |
-| [RedEye](https://github.com/cisagov/RedEye) | RedEye is a visual analytic tool supporting Red & Blue Team operations |
-| [miniob](https://github.com/oceanbase/miniob) | None |
-| [tabby](https://github.com/Eugeny/tabby) | A terminal for a more modern age |
-| [bocker](https://github.com/p8952/bocker) | Docker implemented in around 100 lines of bash |
-| [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | List of Computer Science courses with video lectures. |
-| [AWSome-Pentesting](https://github.com/pop3ret/AWSome-Pentesting) | My cheatsheet notes to pentest AWS infrastructure |
-| [weekly](https://github.com/ruanyf/weekly) | 科技爱好者周刊，每周五发布 |
+| [china-ex](https://github.com/itorr/china-ex) | 🇨🇳「中国制霸生成器」中国三十四省份制霸标记工具 |
+| [sparrow-manifest](https://github.com/AmbiML/sparrow-manifest) | Project Sparrow: Repo Materials |
+| [vlmcsd](https://github.com/Wind4/vlmcsd) | KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin) |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
