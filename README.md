@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [explorer-lab-01](https://github.com/rocketseat-education/explorer-lab-01) | None |
 | [aptos-core](https://github.com/aptos-labs/aptos-core) | A layer 1 for everyone! |
-| [kanal](https://github.com/fereidani/kanal) | The fast sync and async channel that Rust deserves |
-| [javtube-sdk-go](https://github.com/javtube/javtube-sdk-go) | Just Another Video Tube SDK in Golang. |
-| [sparrow-kata](https://github.com/AmbiML/sparrow-kata) | Project Sparrow: KataOS |
-| [lucide](https://github.com/lucide-icons/lucide) | Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons. |
-| [dragonfly](https://github.com/dragonflydb/dragonfly) | A modern replacement for Redis and Memcached |
-| [china-ex](https://github.com/itorr/china-ex) | 🇨🇳「中国制霸生成器」中国三十四省份制霸标记工具 |
+| [pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) | None |
+| [PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) | A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC) |
+| [explorer-lab-01](https://github.com/rocketseat-education/explorer-lab-01) | None |
 | [sparrow-manifest](https://github.com/AmbiML/sparrow-manifest) | Project Sparrow: Repo Materials |
-| [vlmcsd](https://github.com/Wind4/vlmcsd) | KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin) |
+| [sui](https://github.com/MystenLabs/sui) | Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language |
+| [metabase](https://github.com/metabase/metabase) | The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋 |
+| [preguntas-entrevista-react](https://github.com/midudev/preguntas-entrevista-react) | Preguntas típicas sobre React para entrevistas de trabajo ⚛️ |
+| [prompt-to-prompt](https://github.com/google/prompt-to-prompt) | None |
+| [Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) | 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
