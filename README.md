@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [aptos-core](https://github.com/aptos-labs/aptos-core) | A layer 1 for everyone! |
-| [pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) | None |
-| [PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) | A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC) |
-| [explorer-lab-01](https://github.com/rocketseat-education/explorer-lab-01) | None |
-| [sparrow-manifest](https://github.com/AmbiML/sparrow-manifest) | Project Sparrow: Repo Materials |
+| [pocket-casts-android](https://github.com/Automattic/pocket-casts-android) | Pocket Casts Android 🎧 |
+| [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | 🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。 |
+| [stable-diffusion](https://github.com/runwayml/stable-diffusion) | Latent Text-to-Image Diffusion |
+| [snarkOS](https://github.com/AleoHQ/snarkOS) | A Decentralized Operating System for Zero-Knowledge Applications |
+| [imersao10](https://github.com/codeedu/imersao10) | None |
+| [Charts](https://github.com/danielgindi/Charts) | Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart. |
 | [sui](https://github.com/MystenLabs/sui) | Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language |
-| [metabase](https://github.com/metabase/metabase) | The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋 |
-| [preguntas-entrevista-react](https://github.com/midudev/preguntas-entrevista-react) | Preguntas típicas sobre React para entrevistas de trabajo ⚛️ |
-| [prompt-to-prompt](https://github.com/google/prompt-to-prompt) | None |
-| [Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) | 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars. |
+| [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) | This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps. |
+| [strapi](https://github.com/strapi/strapi) | 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
