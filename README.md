@@ -43,12 +43,12 @@
 | :----: | :----: |
 | [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI |
 | [Dreambooth-Stable-Diffusion](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion) | Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) with Stable Diffusion |
-| [qwik](https://github.com/BuilderIO/qwik) | The HTML-first framework. Instant apps of any size with ~ 1kb JS |
-| [penpot](https://github.com/penpot/penpot) | Penpot - The Open-Source design & prototyping platform |
+| [whisper](https://github.com/openai/whisper) | Robust Speech Recognition via Large-Scale Weak Supervision |
 | [first-contributions](https://github.com/firstcontributions/first-contributions) | 🚀✨ Help beginners to contribute to open source projects |
-| [a-sheep-assistant](https://github.com/Lcry/a-sheep-assistant) | 🐑 羊了个羊助手，羊了个羊一键闯关，本项目仅用于学习研究使用，请勿将本项目的任何内容用于商业或非法目的，否则后果自负。保姆级学习教程关注作者公众号： 《码上有效率》，口令羊了个羊 |
-| [stability-sdk](https://github.com/Stability-AI/stability-sdk) | SDK for interacting with stability.ai APIs (e.g. stable diffusion inference) |
+| [qwik](https://github.com/BuilderIO/qwik) | The HTML-first framework. Instant apps of any size with ~ 1kb JS |
 | [iced](https://github.com/iced-rs/iced) | A cross-platform GUI library for Rust, inspired by Elm |
-| [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) | 🚀一个用来深入学习并实战 Spring Boot 的项目。 |
-| [jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch! |
+| [stability-sdk](https://github.com/Stability-AI/stability-sdk) | SDK for interacting with stability.ai APIs (e.g. stable diffusion inference) |
+| [learngo](https://github.com/inancgumus/learngo) | ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs. |
+| [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) | Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes. |
+| [helix](https://github.com/helix-editor/helix) | A post-modern modal text editor. |
 <!-- END OF MONTHLY_TOP10_REPOS -->
