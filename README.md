@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [aptos-core](https://github.com/aptos-labs/aptos-core) | A layer 1 for everyone! |
-| [pocket-casts-android](https://github.com/Automattic/pocket-casts-android) | Pocket Casts Android 🎧 |
-| [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | 🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。 |
 | [stable-diffusion](https://github.com/runwayml/stable-diffusion) | Latent Text-to-Image Diffusion |
-| [snarkOS](https://github.com/AleoHQ/snarkOS) | A Decentralized Operating System for Zero-Knowledge Applications |
-| [imersao10](https://github.com/codeedu/imersao10) | None |
-| [Charts](https://github.com/danielgindi/Charts) | Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart. |
-| [sui](https://github.com/MystenLabs/sui) | Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language |
+| [PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! |
+| [aptos-core](https://github.com/aptos-labs/aptos-core) | A layer 1 for everyone! |
+| [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices) |
+| [pocket-casts-ios](https://github.com/Automattic/pocket-casts-ios) | Pocket Casts iOS app 🎧 |
+| [pocket-casts-android](https://github.com/Automattic/pocket-casts-android) | Pocket Casts Android 🎧 |
+| [Web3-Security-Library](https://github.com/immunefi-team/Web3-Security-Library) | Information about web3 security and programming tutorials/tools |
 | [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) | This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps. |
-| [strapi](https://github.com/strapi/strapi) | 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first. |
+| [awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting) | AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） |
+| [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) | ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
