@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [stable-diffusion](https://github.com/runwayml/stable-diffusion) | Latent Text-to-Image Diffusion |
-| [PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! |
-| [aptos-core](https://github.com/aptos-labs/aptos-core) | A layer 1 for everyone! |
-| [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices) |
-| [pocket-casts-ios](https://github.com/Automattic/pocket-casts-ios) | Pocket Casts iOS app 🎧 |
 | [pocket-casts-android](https://github.com/Automattic/pocket-casts-android) | Pocket Casts Android 🎧 |
-| [Web3-Security-Library](https://github.com/immunefi-team/Web3-Security-Library) | Information about web3 security and programming tutorials/tools |
-| [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) | This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps. |
-| [awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting) | AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） |
+| [pocket-casts-ios](https://github.com/Automattic/pocket-casts-ios) | Pocket Casts iOS app 🎧 |
+| [sui](https://github.com/MystenLabs/sui) | Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language |
 | [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) | ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解 |
+| [PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! |
+| [rustdesk](https://github.com/rustdesk/rustdesk) | Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime. |
+| [windows95](https://github.com/felixrieseberg/windows95) | 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows. |
+| [Xray-core](https://github.com/XTLS/Xray-core) | Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration. |
+| [starkscan-verifier](https://github.com/starkscan/starkscan-verifier) | Verify Cairo contracts on Starkscan in 1 miute. |
+| [Flipper](https://github.com/UberGuidoZ/Flipper) | Playground (and dump) of stuff I make or modify for the Flipper Zero |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
