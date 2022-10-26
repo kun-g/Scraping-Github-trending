@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [sui](https://github.com/MystenLabs/sui) | Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language |
-| [telemint](https://github.com/TelegramMessenger/telemint) | Telegram Auction Platform smart contracts |
-| [pocket-casts-android](https://github.com/Automattic/pocket-casts-android) | Pocket Casts Android 🎧 |
+| [textual](https://github.com/Textualize/textual) | Textual is a TUI (Text User Interface) framework for Python inspired by modern web development. |
+| [windows95](https://github.com/felixrieseberg/windows95) | 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows. |
 | [guac](https://github.com/guacsec/guac) | None |
 | [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) | ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解 |
-| [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) | None |
+| [transit-lang-cmp](https://github.com/losvedir/transit-lang-cmp) | Programming language comparison by reimplementing the same transit data app |
+| [Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) | Self-Hosting Guide. Learn all about locally hosting(on premises & private web servers) and managing software applications by yourself or your organization. |
 | [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page |
-| [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) | A curated list of software and architecture related design patterns. |
-| [pocket-casts-ios](https://github.com/Automattic/pocket-casts-ios) | Pocket Casts iOS app 🎧 |
-| [textual](https://github.com/Textualize/textual) | Textual is a TUI (Text User Interface) framework for Python inspired by modern web development. |
+| [outstatic](https://github.com/avitorio/outstatic) | Outstatic - A static CMS for Next.js |
+| [sui](https://github.com/MystenLabs/sui) | Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language |
+| [linux-command](https://github.com/jaywcjlove/linux-command) | Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
