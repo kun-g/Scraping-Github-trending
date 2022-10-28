@@ -29,14 +29,14 @@
                 "username": "brentyi"
             }
         ],
-        "currentPeriodStars": 91,
+        "currentPeriodStars": 110,
         "description": "A collaboration friendly studio for NeRFs",
         "forks": 86,
         "fullname": "nerfstudio-project/nerfstudio",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "nerfstudio",
-        "stars": 1727,
+        "stars": 1738,
         "url": "https://github.com/nerfstudio-project/nerfstudio"
     },
     {
@@ -49,14 +49,14 @@
                 "username": "Steeeephen"
             }
         ],
-        "currentPeriodStars": 85,
+        "currentPeriodStars": 122,
         "description": "Bumble's Private Detector - a pretrained model for detecting lewd images",
         "forks": 46,
         "fullname": "bumble-tech/private-detector",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "private-detector",
-        "stars": 687,
+        "stars": 698,
         "url": "https://github.com/bumble-tech/private-detector"
     },
     {
@@ -89,14 +89,14 @@
                 "username": "tknickman"
             }
         ],
-        "currentPeriodStars": 2656,
+        "currentPeriodStars": 1216,
         "description": "Incremental bundler and build system optimized for JavaScript\u00a0and TypeScript, written in Rust \u2013 including Turborepo and Turbopack.",
-        "forks": 803,
+        "forks": 805,
         "fullname": "vercel/turbo",
         "language": "Rust",
         "languageColor": "#dea584",
         "name": "turbo",
-        "stars": 14266,
+        "stars": 14318,
         "url": "https://github.com/vercel/turbo"
     },
     {
@@ -129,14 +129,14 @@
                 "username": "aichy126"
             }
         ],
-        "currentPeriodStars": 453,
+        "currentPeriodStars": 705,
         "description": "An open-source knowledge based community software. You can use it to quickly build your Q&A community for product technical support, customer support, user communication, and more.",
-        "forks": 138,
+        "forks": 140,
         "fullname": "answerdev/answer",
         "language": "Go",
         "languageColor": "#00ADD8",
         "name": "answer",
-        "stars": 2502,
+        "stars": 2542,
         "url": "https://github.com/answerdev/answer"
     },
     {
@@ -169,14 +169,14 @@
                 "username": "adrianfusco"
             }
         ],
-        "currentPeriodStars": 79,
+        "currentPeriodStars": 98,
         "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
         "forks": 6979,
         "fullname": "bregman-arie/devops-exercises",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "devops-exercises",
-        "stars": 32074,
+        "stars": 32088,
         "url": "https://github.com/bregman-arie/devops-exercises"
     },
     {
@@ -209,14 +209,14 @@
                 "username": "driscollis"
             }
         ],
-        "currentPeriodStars": 383,
+        "currentPeriodStars": 217,
         "description": "Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.",
         "forks": 424,
         "fullname": "Textualize/textual",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "textual",
-        "stars": 15210,
+        "stars": 15225,
         "url": "https://github.com/Textualize/textual"
     },
     {
@@ -227,6 +227,11 @@
                 "avatar": "https://avatars.githubusercontent.com/u/110583491",
                 "href": "https://github.com/TheLastBen",
                 "username": "TheLastBen"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1039354",
+                "href": "https://github.com/Maw-Fox",
+                "username": "Maw-Fox"
             },
             {
                 "avatar": "https://avatars.githubusercontent.com/u/22278673",
@@ -242,21 +247,16 @@
                 "avatar": "https://avatars.githubusercontent.com/u/79735340",
                 "href": "https://github.com/swcrazyfan",
                 "username": "swcrazyfan"
-            },
-            {
-                "avatar": "https://avatars.githubusercontent.com/u/23648",
-                "href": "https://github.com/skorokithakis",
-                "username": "skorokithakis"
             }
         ],
-        "currentPeriodStars": 136,
+        "currentPeriodStars": 156,
         "description": "fast-stable-diffusion, +25-50% speed increase + memory efficient + DreamBooth",
         "forks": 123,
         "fullname": "TheLastBen/fast-stable-diffusion",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "fast-stable-diffusion",
-        "stars": 1372,
+        "stars": 1383,
         "url": "https://github.com/TheLastBen/fast-stable-diffusion"
     },
     {
@@ -289,14 +289,14 @@
                 "username": "ibeauregard"
             }
         ],
-        "currentPeriodStars": 59,
+        "currentPeriodStars": 57,
         "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
         "forks": 308,
         "fullname": "ageron/handson-ml3",
         "language": "Jupyter Notebook",
         "languageColor": "#DA5B0B",
         "name": "handson-ml3",
-        "stars": 886,
+        "stars": 891,
         "url": "https://github.com/ageron/handson-ml3"
     },
     {
@@ -329,14 +329,14 @@
                 "username": "styfle"
             }
         ],
-        "currentPeriodStars": 223,
+        "currentPeriodStars": 269,
         "description": "The React Framework",
-        "forks": 20849,
+        "forks": 20850,
         "fullname": "vercel/next.js",
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "next.js",
-        "stars": 94858,
+        "stars": 94872,
         "url": "https://github.com/vercel/next.js"
     },
     {
@@ -369,14 +369,14 @@
                 "username": "naeluh"
             }
         ],
-        "currentPeriodStars": 80,
+        "currentPeriodStars": 120,
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "forks": 6519,
         "fullname": "trimstray/the-book-of-secret-knowledge",
         "language": null,
         "languageColor": null,
         "name": "the-book-of-secret-knowledge",
-        "stars": 81012,
+        "stars": 81027,
         "url": "https://github.com/trimstray/the-book-of-secret-knowledge"
     },
     {
@@ -409,14 +409,14 @@
                 "username": "stepan0904"
             }
         ],
-        "currentPeriodStars": 424,
+        "currentPeriodStars": 375,
         "description": "Master the command line, in one page",
         "forks": 11995,
         "fullname": "jlevy/the-art-of-command-line",
         "language": null,
         "languageColor": null,
         "name": "the-art-of-command-line",
-        "stars": 114261,
+        "stars": 114275,
         "url": "https://github.com/jlevy/the-art-of-command-line"
     },
     {
@@ -449,14 +449,14 @@
                 "username": "diabeticpilot"
             }
         ],
-        "currentPeriodStars": 112,
+        "currentPeriodStars": 124,
         "description": "Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) by way of Textual Inversion (https://arxiv.org/abs/2208.01618) for Stable Diffusion (https://arxiv.org/abs/2112.10752). Tweaks focused on training faces, objects, and styles.",
         "forks": 258,
         "fullname": "JoePenna/Dreambooth-Stable-Diffusion",
         "language": "Jupyter Notebook",
         "languageColor": "#DA5B0B",
         "name": "Dreambooth-Stable-Diffusion",
-        "stars": 1782,
+        "stars": 1792,
         "url": "https://github.com/JoePenna/Dreambooth-Stable-Diffusion"
     },
     {
@@ -489,14 +489,14 @@
                 "username": "nelsam"
             }
         ],
-        "currentPeriodStars": 15,
+        "currentPeriodStars": 21,
         "description": "A toolkit with common assertions and mocks that plays nicely with the standard library",
         "forks": 1354,
         "fullname": "stretchr/testify",
         "language": "Go",
         "languageColor": "#00ADD8",
         "name": "testify",
-        "stars": 18032,
+        "stars": 18033,
         "url": "https://github.com/stretchr/testify"
     },
     {
@@ -529,7 +529,7 @@
                 "username": "msyyc"
             }
         ],
-        "currentPeriodStars": 8,
+        "currentPeriodStars": 21,
         "description": "The source for REST API specifications for Microsoft Azure.",
         "forks": 4021,
         "fullname": "Azure/azure-rest-api-specs",
@@ -559,24 +559,24 @@
                 "username": "Kingtous"
             },
             {
-                "avatar": "https://avatars.githubusercontent.com/u/99897242",
-                "href": "https://github.com/asur4s",
-                "username": "asur4s"
-            },
-            {
                 "avatar": "https://avatars.githubusercontent.com/u/13586388",
                 "href": "https://github.com/fufesou",
                 "username": "fufesou"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/99897242",
+                "href": "https://github.com/asur4s",
+                "username": "asur4s"
             }
         ],
-        "currentPeriodStars": 112,
+        "currentPeriodStars": 129,
         "description": "Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.",
-        "forks": 2723,
+        "forks": 2725,
         "fullname": "rustdesk/rustdesk",
         "language": "Rust",
         "languageColor": "#dea584",
         "name": "rustdesk",
-        "stars": 31294,
+        "stars": 31311,
         "url": "https://github.com/rustdesk/rustdesk"
     },
     {
@@ -594,14 +594,14 @@
                 "username": "freev2"
             }
         ],
-        "currentPeriodStars": 40,
+        "currentPeriodStars": 51,
         "description": "\u7ffb\u5899\u3001\u514d\u8d39\u7ffb\u5899\u3001\u514d\u8d39\u79d1\u5b66\u4e0a\u7f51\u3001\u514d\u8d39\u8282\u70b9\u3001\u514d\u8d39\u68af\u5b50\u3001\u514d\u8d39ss/v2ray/trojan\u8282\u70b9\u3001\u84dd\u706f\u3001\u8c37\u6b4c\u5546\u5e97\u3001\u7ffb\u5899\u68af\u5b50",
-        "forks": 5005,
+        "forks": 5006,
         "fullname": "freefq/free",
         "language": null,
         "languageColor": null,
         "name": "free",
-        "stars": 24985,
+        "stars": 24992,
         "url": "https://github.com/freefq/free"
     },
     {
@@ -624,14 +624,14 @@
                 "username": "Youssef1313"
             }
         ],
-        "currentPeriodStars": 3,
+        "currentPeriodStars": 9,
         "description": "Sample code referenced by the .NET documentation",
         "forks": 4339,
         "fullname": "dotnet/samples",
         "language": "C#",
         "languageColor": "#178600",
         "name": "samples",
-        "stars": 2457,
+        "stars": 2460,
         "url": "https://github.com/dotnet/samples"
     },
     {
@@ -664,14 +664,14 @@
                 "username": "MonsterChenzhuo"
             }
         ],
-        "currentPeriodStars": 1,
+        "currentPeriodStars": 25,
         "description": "StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform",
         "forks": 606,
         "fullname": "apache/incubator-streampark",
         "language": "Vue",
         "languageColor": "#41b883",
         "name": "incubator-streampark",
-        "stars": 2604,
+        "stars": 2609,
         "url": "https://github.com/apache/incubator-streampark"
     },
     {
@@ -699,14 +699,14 @@
                 "username": "daheige"
             }
         ],
-        "currentPeriodStars": 14,
+        "currentPeriodStars": 32,
         "description": "The fantastic ORM library for Golang, aims to be developer friendly",
         "forks": 3368,
         "fullname": "go-gorm/gorm",
         "language": "Go",
         "languageColor": "#00ADD8",
         "name": "gorm",
-        "stars": 30147,
+        "stars": 30152,
         "url": "https://github.com/go-gorm/gorm"
     },
     {
@@ -739,14 +739,14 @@
                 "username": "WillWang1998"
             }
         ],
-        "currentPeriodStars": 13,
+        "currentPeriodStars": 21,
         "description": "A collection of New Grad full time roles in SWE, Quant, and PM.",
-        "forks": 710,
+        "forks": 709,
         "fullname": "coderQuad/New-Grad-Positions-2023",
         "language": null,
         "languageColor": null,
         "name": "New-Grad-Positions-2023",
-        "stars": 5183,
+        "stars": 5184,
         "url": "https://github.com/coderQuad/New-Grad-Positions-2023"
     },
     {
@@ -774,14 +774,14 @@
                 "username": "js-kyle"
             }
         ],
-        "currentPeriodStars": 34,
+        "currentPeriodStars": 46,
         "description": "\u2705 The Node.js best practices list (November 2022)",
         "forks": 8548,
         "fullname": "goldbergyoni/nodebestpractices",
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "nodebestpractices",
-        "stars": 82566,
+        "stars": 82571,
         "url": "https://github.com/goldbergyoni/nodebestpractices"
     },
     {
@@ -814,14 +814,14 @@
                 "username": "sebmarkbage"
             }
         ],
-        "currentPeriodStars": 74,
+        "currentPeriodStars": 89,
         "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
-        "forks": 40802,
+        "forks": 40804,
         "fullname": "facebook/react",
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "react",
-        "stars": 196835,
+        "stars": 196842,
         "url": "https://github.com/facebook/react"
     },
     {
@@ -849,14 +849,14 @@
                 "username": "renovate-bot"
             }
         ],
-        "currentPeriodStars": 14,
+        "currentPeriodStars": 16,
         "description": "Type-safe Redis client for Golang",
         "forks": 1909,
         "fullname": "go-redis/redis",
         "language": "Go",
         "languageColor": "#00ADD8",
         "name": "redis",
-        "stars": 15725,
+        "stars": 15726,
         "url": "https://github.com/go-redis/redis"
     },
     {
@@ -889,14 +889,14 @@
                 "username": "sammy-SC"
             }
         ],
-        "currentPeriodStars": 30,
+        "currentPeriodStars": 48,
         "description": "A framework for building native applications using React",
         "forks": 22532,
         "fullname": "facebook/react-native",
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "react-native",
-        "stars": 105513,
+        "stars": 105517,
         "url": "https://github.com/facebook/react-native"
     },
     {
@@ -929,14 +929,14 @@
                 "username": "julianocosta89"
             }
         ],
-        "currentPeriodStars": 21,
+        "currentPeriodStars": 28,
         "description": "OpenTelemetry Community Demo Application",
         "forks": 129,
         "fullname": "open-telemetry/opentelemetry-demo",
         "language": "Erlang",
         "languageColor": "#B83998",
         "name": "opentelemetry-demo",
-        "stars": 311,
+        "stars": 314,
         "url": "https://github.com/open-telemetry/opentelemetry-demo"
     }
 ]
