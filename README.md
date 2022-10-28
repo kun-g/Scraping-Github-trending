@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [answer](https://github.com/answerdev/answer) | An open-source knowledge based community software. You can use it to quickly build your Q&A community for product technical support, customer support, user communication, and more. |
-| [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page |
-| [sonic](https://github.com/valeriansaliou/sonic) | 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM. |
-| [ToolJet](https://github.com/ToolJet/ToolJet) | Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀 |
-| [Dreambooth-Stable-Diffusion](https://github.com/JoePenna/Dreambooth-Stable-Diffusion) | Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) by way of Textual Inversion (https://arxiv.org/abs/2208.01618) for Stable Diffusion (https://arxiv.org/abs/2112.10752). Tweaks focused on training faces, objects, and styles. |
+| [nerfstudio](https://github.com/nerfstudio-project/nerfstudio) | A collaboration friendly studio for NeRFs |
+| [private-detector](https://github.com/bumble-tech/private-detector) | Bumble's Private Detector - a pretrained model for detecting lewd images |
 | [turbo](https://github.com/vercel/turbo) | Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack. |
-| [OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) | Experience macOS just like before |
-| [terrascan](https://github.com/tenable/terrascan) | Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure. |
-| [Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) | Self-Hosting Guide. Learn all about locally hosting(on premises & private web servers) and managing software applications by yourself or your organization. |
+| [answer](https://github.com/answerdev/answer) | An open-source knowledge based community software. You can use it to quickly build your Q&A community for product technical support, customer support, user communication, and more. |
+| [devops-exercises](https://github.com/bregman-arie/devops-exercises) | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions |
 | [textual](https://github.com/Textualize/textual) | Textual is a TUI (Text User Interface) framework for Python inspired by modern web development. |
+| [fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) | fast-stable-diffusion, +25-50% speed increase + memory efficient + DreamBooth |
+| [handson-ml3](https://github.com/ageron/handson-ml3) | A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2. |
+| [next.js](https://github.com/vercel/next.js) | The React Framework |
+| [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
