@@ -1,0 +1,286 @@
+[
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1560587",
+        "name": "Jan-Otto Kr\u00f6pke",
+        "repo": {
+            "description": "A helm plugin that help manage secrets with Git workflow and store them anywhere",
+            "name": "helm-secrets",
+            "url": "https://github.com/jkroepke/helm-secrets"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/jkroepke",
+        "username": "jkroepke"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/53356347",
+        "name": "Azure SDK Bot",
+        "repo": {
+            "description": "Android client SDKs for Microsoft Azure",
+            "name": "azure-sdk-for-android",
+            "url": "https://github.com/azure-sdk/azure-sdk-for-android"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/azure-sdk",
+        "username": "azure-sdk"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/658",
+        "name": "Stephen Celis",
+        "repo": {
+            "description": "A type-safe, Swift-language layer over SQLite3.",
+            "name": "SQLite.swift",
+            "url": "https://github.com/stephencelis/SQLite.swift"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/stephencelis",
+        "username": "stephencelis"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/46429",
+        "name": "Kudo Chien",
+        "repo": {
+            "description": "Opt-in V8 runtime for React Native Android",
+            "name": "react-native-v8",
+            "url": "https://github.com/Kudo/react-native-v8"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/Kudo",
+        "username": "Kudo"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/339286",
+        "name": "Jason Quense",
+        "repo": {
+            "description": "Dead simple Object schema validation",
+            "name": "yup",
+            "url": "https://github.com/jquense/yup"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/jquense",
+        "username": "jquense"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1309177",
+        "name": "Charlie Marsh",
+        "repo": {
+            "description": "An extremely fast Python linter, written in Rust.",
+            "name": "ruff",
+            "url": "https://github.com/charliermarsh/ruff"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/charliermarsh",
+        "username": "charliermarsh"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/17786731",
+        "name": "Hans-Kristian Arntzen",
+        "repo": {
+            "description": "Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation.",
+            "name": "vkd3d-proton",
+            "url": "https://github.com/HansKristian-Work/vkd3d-proton"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/HansKristian-Work",
+        "username": "HansKristian-Work"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/67496",
+        "name": "Josh Bleecher Snyder",
+        "repo": {
+            "description": "Intern Go strings",
+            "name": "intern",
+            "url": "https://github.com/josharian/intern"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/josharian",
+        "username": "josharian"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/278432",
+        "name": "Pahud Hsieh",
+        "repo": {
+            "description": "Get outputs and AWS SSM parameters from cross-region AWS CloudFormation stacks.",
+            "name": "cdk-remote-stack",
+            "url": "https://github.com/pahud/cdk-remote-stack"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/pahud",
+        "username": "pahud"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/24528715",
+        "name": "Jason2866",
+        "repo": {
+            "description": "Tasmota unofficial firmware builds. Install via Tasmota WebInstaller",
+            "name": "Tasmota-specials",
+            "url": "https://github.com/Jason2866/Tasmota-specials"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/Jason2866",
+        "username": "Jason2866"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/408570",
+        "name": "Seth Vargo",
+        "repo": {
+            "description": "Go library for retrying with configurable backoffs",
+            "name": "go-retry",
+            "url": "https://github.com/sethvargo/go-retry"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/sethvargo",
+        "username": "sethvargo"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/124599",
+        "name": "shadcn",
+        "repo": {
+            "description": "An open source application built using the new router, server components and everything new in Next.js 13.",
+            "name": "taxonomy",
+            "url": "https://github.com/shadcn/taxonomy"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/shadcn",
+        "username": "shadcn"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/621232",
+        "name": "\u0130nan\u00e7 G\u00fcm\u00fc\u015f",
+        "repo": {
+            "description": "\u2764\ufe0f 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. \ud83d\ude80 Learn Go by fixing 1000+ tiny programs.",
+            "name": "learngo",
+            "url": "https://github.com/inancgumus/learngo"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/inancgumus",
+        "username": "inancgumus"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/12515440",
+        "name": "Alexander Veysov",
+        "repo": {
+            "description": "Silero VAD: pre-trained enterprise-grade Voice Activity Detector, Language Classifier and Spoken Number Detector",
+            "name": "silero-vad",
+            "url": "https://github.com/snakers4/silero-vad"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/snakers4",
+        "username": "snakers4"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/58298",
+        "name": "Dain Sundstrom",
+        "repo": {
+            "description": "Port of LevelDB to Java",
+            "name": "leveldb",
+            "url": "https://github.com/dain/leveldb"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/dain",
+        "username": "dain"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2946214",
+        "name": "Joe Chen",
+        "repo": {
+            "description": "\u300aThe Way to Go\u300b\u4e2d\u6587\u8bd1\u672c\uff0c\u4e2d\u6587\u6b63\u5f0f\u540d\u300aGo \u5165\u95e8\u6307\u5357\u300b",
+            "name": "the-way-to-go_ZH_CN",
+            "url": "https://github.com/unknwon/the-way-to-go_ZH_CN"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/unknwon",
+        "username": "unknwon"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1095328",
+        "name": "Dmitry Vyukov",
+        "repo": {
+            "description": "Randomized testing for Go",
+            "name": "go-fuzz",
+            "url": "https://github.com/dvyukov/go-fuzz"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/dvyukov",
+        "username": "dvyukov"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/275001",
+        "name": "dgtlmoon",
+        "repo": {
+            "description": "changedetection.io - The best and simplest self-hosted free open source website change detection tracking, monitoring and notification se\u2026",
+            "name": "changedetection.io",
+            "url": "https://github.com/dgtlmoon/changedetection.io"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/dgtlmoon",
+        "username": "dgtlmoon"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1478487",
+        "name": "Marten Seemann",
+        "repo": {
+            "description": "WebTransport implementation based on quic-go (https://datatracker.ietf.org/doc/draft-ietf-webtrans-http3/)",
+            "name": "webtransport-go",
+            "url": "https://github.com/marten-seemann/webtransport-go"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/marten-seemann",
+        "username": "marten-seemann"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/25608335",
+        "name": "Bolaji Olajide",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/BolajiOlajide",
+        "username": "BolajiOlajide"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/233360",
+        "name": "Tit Petric",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/titpetric",
+        "username": "titpetric"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/417134",
+        "name": "Franco Victorio",
+        "repo": {
+            "description": "A collection of EVM puzzles",
+            "name": "evm-puzzles",
+            "url": "https://github.com/fvictorio/evm-puzzles"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/fvictorio",
+        "username": "fvictorio"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/602478",
+        "name": "Emanuele Stoppa",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/ematipico",
+        "username": "ematipico"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/3605364",
+        "name": "Rick Anderson",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/Rick-Anderson",
+        "username": "Rick-Anderson"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/682840",
+        "name": "Tab Atkins Jr.",
+        "repo": {
+            "description": "\ud83d\udeb2 A preprocessor for anyone writing specifications that converts source files into actual specs.",
+            "name": "bikeshed",
+            "url": "https://github.com/tabatkins/bikeshed"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/tabatkins",
+        "username": "tabatkins"
+    }
+]

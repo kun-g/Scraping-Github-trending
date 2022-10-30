@@ -9,15 +9,15 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [taxonomy](https://github.com/shadcn/taxonomy) | An open source application built using the new router, server components and everything new in Next.js 13. |
-| [answer](https://github.com/answerdev/answer) | An open-source knowledge based community software. You can use it to quickly build your Q&A community for product technical support, customer support, user communication, and more. |
+| [vhs](https://github.com/charmbracelet/vhs) | Your CLI home video recorder 📼 |
+| [bitsail](https://github.com/bytedance/bitsail) | BitSail is a distributed high-performance data integration engine which supports batch, streaming and incremental scenarios. BitSail is widely used to synchronize hundreds of trillions of data every day. |
 | [pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) | A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards. |
+| [bolsonaro2turno](https://github.com/alvaroreis/bolsonaro2turno) | Gere seu flyer personalizado com seu nome de apoio ao Bolsonaro para o segundo turno das eleições brasileira |
+| [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) | Checklist of the most important security countermeasures when designing, testing, and releasing your API |
+| [app-playground](https://github.com/vercel/app-playground) | https://app-dir.vercel.app/ |
+| [taxonomy](https://github.com/shadcn/taxonomy) | An open source application built using the new router, server components and everything new in Next.js 13. |
 | [turbo](https://github.com/vercel/turbo) | Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack. |
-| [ToolJet](https://github.com/ToolJet/ToolJet) | Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀 |
-| [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. |
-| [devops-resources](https://github.com/bregman-arie/devops-resources) | DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP |
-| [gas-puzzles](https://github.com/RareSkills/gas-puzzles) | A sequence of smart contracts to practice gas optimization. These are used as practice assignments for RareSkills.io and the Udemy Gas Optimization Course |
-| [jetlinks-community](https://github.com/jetlinks/jetlinks-community) | JetLinks 基于Java8,Spring Boot 2.x ,WebFlux,Netty,Vert.x,Reactor等开发, 是一个全响应式的企业级物联网平台。支持统一物模型管理,多种设备,多种厂家,统一管理。统一设备连接管理,多协议适配(TCP,MQTT,UDP,CoAP,HTTP等),屏蔽网络编程复杂性,灵活接入不同厂家不同协议等设备。实时数据处理,设备告警,消息通知,数据转发。地理位置,数据可视化等。能帮助你快速建立物联网相关业务系统。 |
+| [sismo-protocol](https://github.com/sismo-core/sismo-protocol) | Contracts of the Sismo Attestation Protocol |
 | [googletest](https://github.com/google/googletest) | GoogleTest - Google Testing and Mocking Framework |
 <!-- END OF DAILY_TOP10_REPOS -->
 
