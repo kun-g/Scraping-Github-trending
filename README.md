@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [stc](https://github.com/dudykr/stc) | Speedy TypeScript type checker |
 | [vhs](https://github.com/charmbracelet/vhs) | Your CLI home video recorder 📼 |
-| [bitsail](https://github.com/bytedance/bitsail) | BitSail is a distributed high-performance data integration engine which supports batch, streaming and incremental scenarios. BitSail is widely used to synchronize hundreds of trillions of data every day. |
 | [pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) | A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards. |
+| [imgui](https://github.com/ocornut/imgui) | Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies |
+| [acme.sh](https://github.com/acmesh-official/acme.sh) | A pure Unix shell script implementing ACME client protocol |
+| [mastodon](https://github.com/mastodon/mastodon) | Your self-hosted, globally interconnected microblogging community |
 | [bolsonaro2turno](https://github.com/alvaroreis/bolsonaro2turno) | Gere seu flyer personalizado com seu nome de apoio ao Bolsonaro para o segundo turno das eleições brasileira |
-| [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) | Checklist of the most important security countermeasures when designing, testing, and releasing your API |
-| [app-playground](https://github.com/vercel/app-playground) | https://app-dir.vercel.app/ |
-| [taxonomy](https://github.com/shadcn/taxonomy) | An open source application built using the new router, server components and everything new in Next.js 13. |
-| [turbo](https://github.com/vercel/turbo) | Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack. |
-| [sismo-protocol](https://github.com/sismo-core/sismo-protocol) | Contracts of the Sismo Attestation Protocol |
-| [googletest](https://github.com/google/googletest) | GoogleTest - Google Testing and Mocking Framework |
+| [computer-science](https://github.com/ossu/computer-science) | 🎓 Path to a free self-taught education in Computer Science! |
+| [kaggle-solutions](https://github.com/faridrashidi/kaggle-solutions) | 🏅 Collection of Kaggle Solutions and Ideas 🏅 |
+| [jellyfin](https://github.com/jellyfin/jellyfin) | The Free Software Media System |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10

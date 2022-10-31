@@ -1,0 +1,286 @@
+[
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1309177",
+        "name": "Charlie Marsh",
+        "repo": {
+            "description": "An extremely fast Python linter, written in Rust.",
+            "name": "ruff",
+            "url": "https://github.com/charliermarsh/ruff"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/charliermarsh",
+        "username": "charliermarsh"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/278432",
+        "name": "Pahud Hsieh",
+        "repo": {
+            "description": "Get outputs and AWS SSM parameters from cross-region AWS CloudFormation stacks.",
+            "name": "cdk-remote-stack",
+            "url": "https://github.com/pahud/cdk-remote-stack"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/pahud",
+        "username": "pahud"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/29931815",
+        "name": "Donny/\uac15\ub3d9\uc724",
+        "repo": {
+            "description": "\uac1c\ubc1c\uc790\uc6a9 \ub85c\ub4dc\ub9f5",
+            "name": "devmap",
+            "url": "https://github.com/kdy1/devmap"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/kdy1",
+        "username": "kdy1"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/8050659",
+        "name": "Munif Tanjim",
+        "repo": {
+            "description": "UI Component Library for Neovim.",
+            "name": "nui.nvim",
+            "url": "https://github.com/MunifTanjim/nui.nvim"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/MunifTanjim",
+        "username": "MunifTanjim"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/70381",
+        "name": "Charles Kerr",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/ckerr",
+        "username": "ckerr"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2345875",
+        "name": "Bram Gerritsen",
+        "repo": {
+            "description": "Custom component to calculate estimated power consumption of lights and other appliances",
+            "name": "homeassistant-powercalc",
+            "url": "https://github.com/bramstroker/homeassistant-powercalc"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/bramstroker",
+        "username": "bramstroker"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/25608335",
+        "name": "Bolaji Olajide",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/BolajiOlajide",
+        "username": "BolajiOlajide"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/118015",
+        "name": "Ben Johnson",
+        "repo": {
+            "description": "Streaming replication for SQLite.",
+            "name": "litestream",
+            "url": "https://github.com/benbjohnson/litestream"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/benbjohnson",
+        "username": "benbjohnson"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/16816",
+        "name": "Brian Smith",
+        "repo": {
+            "description": "Safe, fast, small crypto using Rust",
+            "name": "ring",
+            "url": "https://github.com/briansmith/ring"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/briansmith",
+        "username": "briansmith"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/17786731",
+        "name": "Hans-Kristian Arntzen",
+        "repo": {
+            "description": "Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation.",
+            "name": "vkd3d-proton",
+            "url": "https://github.com/HansKristian-Work/vkd3d-proton"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/HansKristian-Work",
+        "username": "HansKristian-Work"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/5663952",
+        "name": "Klaus Post",
+        "repo": {
+            "description": "Optimized Go Compression Packages",
+            "name": "compress",
+            "url": "https://github.com/klauspost/compress"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/klauspost",
+        "username": "klauspost"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/10578275",
+        "name": "Otacilio Saraiva Maia Neto",
+        "repo": {
+            "description": "A curated list of awesome Hacktoberfest 2022 repositories, guides and resources",
+            "name": "awesome-hacktoberfest-2022",
+            "url": "https://github.com/OtacilioN/awesome-hacktoberfest-2022"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/OtacilioN",
+        "username": "OtacilioN"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/140370",
+        "name": "Thibault Duplessis",
+        "repo": {
+            "description": "My beloved Linux dot files for zsh, tmux, git, tig, vim, mpd, mutt, rtorrent, weechat, xmonad, urxvt, vimperator, ranger...",
+            "name": "dotfiles",
+            "url": "https://github.com/ornicar/dotfiles"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/ornicar",
+        "username": "ornicar"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1945",
+        "name": "Casey Rodarmor",
+        "repo": {
+            "description": "\ud83e\udd16 Just a command runner",
+            "name": "just",
+            "url": "https://github.com/casey/just"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/casey",
+        "username": "casey"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/11875",
+        "name": "Earle F. Philhower, III",
+        "repo": {
+            "description": "Raspberry Pi Pico Arduino core, for all RP2040 boards",
+            "name": "arduino-pico",
+            "url": "https://github.com/earlephilhower/arduino-pico"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/earlephilhower",
+        "username": "earlephilhower"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/3605364",
+        "name": "Rick Anderson",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/Rick-Anderson",
+        "username": "Rick-Anderson"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/6945922",
+        "name": "Matthias Fey",
+        "repo": {
+            "description": "PyTorch Extension Library of Optimized Autograd Sparse Matrix Operations",
+            "name": "pytorch_sparse",
+            "url": "https://github.com/rusty1s/pytorch_sparse"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/rusty1s",
+        "username": "rusty1s"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/27475",
+        "name": "Mateusz Paprocki",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/mattpap",
+        "username": "mattpap"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/36594527",
+        "name": "MishManners\u00ae\u2122",
+        "repo": {
+            "description": "App for providing dietary requirements \ud83c\udf4d on cute cards in different languages",
+            "name": "mish-friendly-food",
+            "url": "https://github.com/mishmanners/mish-friendly-food"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/mishmanners",
+        "username": "mishmanners"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/685609",
+        "name": "NachoSoto",
+        "repo": {
+            "description": "UIImageView for rendering data asynchronously, with composable renderers and caches",
+            "name": "AsyncImageView",
+            "url": "https://github.com/NachoSoto/AsyncImageView"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/NachoSoto",
+        "username": "NachoSoto"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/3257156",
+        "name": "Stefano Gottardo",
+        "repo": {
+            "description": "InputStream based Netflix plugin for Kodi",
+            "name": "plugin.video.netflix",
+            "url": "https://github.com/CastagnaIT/plugin.video.netflix"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/CastagnaIT",
+        "username": "CastagnaIT"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/32437151",
+        "name": "Nathan Raw",
+        "repo": {
+            "description": "Create \ud83d\udd25 videos with Stable Diffusion by exploring the latent space and morphing between text prompts",
+            "name": "stable-diffusion-videos",
+            "url": "https://github.com/nateraw/stable-diffusion-videos"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/nateraw",
+        "username": "nateraw"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/6942",
+        "name": "Tom Payne",
+        "repo": {
+            "description": "Manage your dotfiles across multiple diverse machines, securely.",
+            "name": "chezmoi",
+            "url": "https://github.com/twpayne/chezmoi"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/twpayne",
+        "username": "twpayne"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/7413593",
+        "name": "Ariel Mashraki",
+        "repo": {
+            "description": "An overview of Go syntax and features.",
+            "name": "golang-cheat-sheet",
+            "url": "https://github.com/a8m/golang-cheat-sheet"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/a8m",
+        "username": "a8m"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/130929",
+        "name": "Henrik Rydg\u00e5rd",
+        "repo": {
+            "description": "A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD \u2026",
+            "name": "ppsspp",
+            "url": "https://github.com/hrydgard/ppsspp"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/hrydgard",
+        "username": "hrydgard"
+    }
+]
