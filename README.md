@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [stc](https://github.com/dudykr/stc) | Speedy TypeScript type checker |
-| [vhs](https://github.com/charmbracelet/vhs) | Your CLI home video recorder 📼 |
-| [pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) | A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards. |
 | [imgui](https://github.com/ocornut/imgui) | Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies |
-| [acme.sh](https://github.com/acmesh-official/acme.sh) | A pure Unix shell script implementing ACME client protocol |
 | [mastodon](https://github.com/mastodon/mastodon) | Your self-hosted, globally interconnected microblogging community |
-| [bolsonaro2turno](https://github.com/alvaroreis/bolsonaro2turno) | Gere seu flyer personalizado com seu nome de apoio ao Bolsonaro para o segundo turno das eleições brasileira |
-| [computer-science](https://github.com/ossu/computer-science) | 🎓 Path to a free self-taught education in Computer Science! |
-| [kaggle-solutions](https://github.com/faridrashidi/kaggle-solutions) | 🏅 Collection of Kaggle Solutions and Ideas 🏅 |
+| [dev-environment-files](https://github.com/josean-dev/dev-environment-files) | None |
 | [jellyfin](https://github.com/jellyfin/jellyfin) | The Free Software Media System |
+| [Dreambooth-Stable-Diffusion](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion) | Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) with Stable Diffusion |
+| [awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) | Ready to use data science templates, organized by tools to jumpstart your projects and data products in minutes. 😎 published by the Naas community. |
+| [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) | 📺 Discover the latest machine learning / AI courses on YouTube. |
+| [stc](https://github.com/dudykr/stc) | Speedy TypeScript type checker |
+| [taxonomy](https://github.com/shadcn/taxonomy) | An open source application built using the new router, server components and everything new in Next.js 13. |
+| [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) | Roadmap to becoming an Artificial Intelligence Expert in 2022 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
