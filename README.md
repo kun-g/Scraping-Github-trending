@@ -42,13 +42,13 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI |
-| [stablediffusion-infinity](https://github.com/lkwq007/stablediffusion-infinity) | Outpainting with Stable Diffusion on an infinite canvas |
-| [iced](https://github.com/iced-rs/iced) | A cross-platform GUI library for Rust, inspired by Elm |
 | [turbo](https://github.com/vercel/turbo) | Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack. |
-| [first-contributions](https://github.com/firstcontributions/first-contributions) | 🚀✨ Help beginners to contribute to open source projects |
-| [ToolJet](https://github.com/ToolJet/ToolJet) | Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀 |
-| [Dreambooth-Stable-Diffusion](https://github.com/JoePenna/Dreambooth-Stable-Diffusion) | Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) by way of Textual Inversion (https://arxiv.org/abs/2208.01618) for Stable Diffusion (https://arxiv.org/abs/2112.10752). Tweaks focused on training faces, objects, and styles. |
-| [textual](https://github.com/Textualize/textual) | Textual is a TUI (Text User Interface) framework for Python inspired by modern web development. |
+| [Havoc](https://github.com/HavocFramework/Havoc) | The Havoc Framework |
+| [iced](https://github.com/iced-rs/iced) | A cross-platform GUI library for Rust, inspired by Elm |
 | [rembg](https://github.com/danielgatis/rembg) | Rembg is a tool to remove images background. |
+| [textual](https://github.com/Textualize/textual) | Textual is a TUI (Text User Interface) framework for Python inspired by modern web development. |
+| [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 🔥 Open Source Airtable Alternative |
+| [stablediffusion-infinity](https://github.com/lkwq007/stablediffusion-infinity) | Outpainting with Stable Diffusion on an infinite canvas |
+| [GFPGAN](https://github.com/TencentARC/GFPGAN) | GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration. |
 | [qwik](https://github.com/BuilderIO/qwik) | The HTML-first framework. Instant apps of any size with ~ 1kb JS |
 <!-- END OF MONTHLY_TOP10_REPOS -->
