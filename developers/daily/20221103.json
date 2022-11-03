@@ -1,0 +1,294 @@
+[
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1309177",
+        "name": "Charlie Marsh",
+        "repo": {
+            "description": "An extremely fast Python linter, written in Rust.",
+            "name": "ruff",
+            "url": "https://github.com/charliermarsh/ruff"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/charliermarsh",
+        "username": "charliermarsh"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/6942",
+        "name": "Tom Payne",
+        "repo": {
+            "description": "Manage your dotfiles across multiple diverse machines, securely.",
+            "name": "chezmoi",
+            "url": "https://github.com/twpayne/chezmoi"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/twpayne",
+        "username": "twpayne"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/10363352",
+        "name": "Goooler",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/Goooler",
+        "username": "Goooler"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/462317",
+        "name": "Adrienne Walker",
+        "repo": {
+            "description": "FFXIV JavaScript Raiding Overlay",
+            "name": "cactbot",
+            "url": "https://github.com/quisquous/cactbot"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/quisquous",
+        "username": "quisquous"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/772",
+        "name": "Alex Gaynor",
+        "repo": {
+            "description": "An attempt to answer the age old interview question \"What happens when you type google.com into your browser and press enter?\"",
+            "name": "what-happens-when",
+            "url": "https://github.com/alex/what-happens-when"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/alex",
+        "username": "alex"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1162160",
+        "name": "Rich Harris",
+        "repo": {
+            "description": "Straightforward project scaffolding",
+            "name": "degit",
+            "url": "https://github.com/Rich-Harris/degit"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/Rich-Harris",
+        "username": "Rich-Harris"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/6945922",
+        "name": "Matthias Fey",
+        "repo": {
+            "description": "PyTorch Extension Library of Optimized Scatter Operations",
+            "name": "pytorch_scatter",
+            "url": "https://github.com/rusty1s/pytorch_scatter"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/rusty1s",
+        "username": "rusty1s"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/185566",
+        "name": "Mattias Wadman",
+        "repo": {
+            "description": "jq for binary formats",
+            "name": "fq",
+            "url": "https://github.com/wader/fq"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/wader",
+        "username": "wader"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2721089",
+        "name": "Liam DeBeasi",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/liamdebeasi",
+        "username": "liamdebeasi"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/7415984",
+        "name": "Nico Domino",
+        "repo": {
+            "description": "\ud83d\udcee Self hosted bookmarking app",
+            "name": "briefkasten",
+            "url": "https://github.com/ndom91/briefkasten"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/ndom91",
+        "username": "ndom91"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/5663952",
+        "name": "Klaus Post",
+        "repo": {
+            "description": "Optimized Go Compression Packages",
+            "name": "compress",
+            "url": "https://github.com/klauspost/compress"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/klauspost",
+        "username": "klauspost"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/161631",
+        "name": "Tianon Gravi",
+        "repo": {
+            "description": "Simple Go-based setuid+setgid+setgroups+exec",
+            "name": "gosu",
+            "url": "https://github.com/tianon/gosu"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/tianon",
+        "username": "tianon"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/27354907",
+        "name": "Shahed Nasser",
+        "repo": {
+            "description": "\ud83d\ude0e List of helpful resources added by the community for the community!",
+            "name": "awesome-resources",
+            "url": "https://github.com/shahednasser/awesome-resources"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/shahednasser",
+        "username": "shahednasser"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/216089",
+        "name": "Olivier Halligon",
+        "repo": {
+            "description": "A Swift mixin for reusing views easily and in a type-safe way (UITableViewCells, UICollectionViewCells, custom UIViews, ViewControllers, \u2026",
+            "name": "Reusable",
+            "url": "https://github.com/AliSoftware/Reusable"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/AliSoftware",
+        "username": "AliSoftware"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2346494",
+        "name": "Romain Beaumont",
+        "repo": {
+            "description": "Easily compute clip embeddings and build a clip retrieval system with them",
+            "name": "clip-retrieval",
+            "url": "https://github.com/rom1504/clip-retrieval"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/rom1504",
+        "username": "rom1504"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1041292",
+        "name": "Laurent Mazare",
+        "repo": {
+            "description": "Rust bindings for the C++ api of PyTorch.",
+            "name": "tch-rs",
+            "url": "https://github.com/LaurentMazare/tch-rs"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/LaurentMazare",
+        "username": "LaurentMazare"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/30958850",
+        "name": "Janosh Riebesell",
+        "repo": {
+            "description": "Awesome examples of SvelteKit in the wild",
+            "name": "awesome-sveltekit",
+            "url": "https://github.com/janosh/awesome-sveltekit"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/janosh",
+        "username": "janosh"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1225294",
+        "name": "Filippo Valsorda",
+        "repo": {
+            "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+            "name": "mkcert",
+            "url": "https://github.com/FiloSottile/mkcert"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/FiloSottile",
+        "username": "FiloSottile"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/57786711",
+        "name": "phuocng",
+        "repo": {
+            "description": "A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!",
+            "name": "csslayout",
+            "url": "https://github.com/phuocng/csslayout"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/phuocng",
+        "username": "phuocng"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2621",
+        "name": "Brad Fitzpatrick",
+        "repo": {
+            "description": "Go Memcached client library #golang",
+            "name": "gomemcache",
+            "url": "https://github.com/bradfitz/gomemcache"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/bradfitz",
+        "username": "bradfitz"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/507615",
+        "name": "afc163",
+        "repo": {
+            "description": "A \ud83c\udde8\ud83c\uddf3 and \ud83c\uddfa\ud83c\uddf8 translate tool in your command line.",
+            "name": "fanyi",
+            "url": "https://github.com/afc163/fanyi"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/afc163",
+        "username": "afc163"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/315810",
+        "name": "Michael Waskom",
+        "repo": {
+            "description": "Statistical data visualization in Python",
+            "name": "seaborn",
+            "url": "https://github.com/mwaskom/seaborn"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/mwaskom",
+        "username": "mwaskom"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1084226",
+        "name": "Yos Riady",
+        "repo": {
+            "description": "\ud83d\udcda A collection of useful resources for building RESTful HTTP+JSON APIs.",
+            "name": "api-development-tools",
+            "url": "https://github.com/yosriady/api-development-tools"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/yosriady",
+        "username": "yosriady"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/18511905",
+        "name": "MistEO",
+        "repo": {
+            "description": "\u300a\u660e\u65e5\u65b9\u821f\u300b\u5e15\u62c9\u65af Bot",
+            "name": "Pallas-Bot",
+            "url": "https://github.com/MistEO/Pallas-Bot"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/MistEO",
+        "username": "MistEO"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/275001",
+        "name": "dgtlmoon",
+        "repo": {
+            "description": "changedetection.io - The best and simplest self-hosted free open source website change detection tracking, monitoring and notification se\u2026",
+            "name": "changedetection.io",
+            "url": "https://github.com/dgtlmoon/changedetection.io"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/dgtlmoon",
+        "username": "dgtlmoon"
+    }
+]
