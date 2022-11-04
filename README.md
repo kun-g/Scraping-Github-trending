@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [quark-design](https://github.com/hellof2e/quark-design) | Next generation Frontend component library, it can be used in any framework or no framework at the same time.(下一代前端组件库，它可以同时在任意框架或无框架中使用。) |
-| [remix](https://github.com/remix-run/remix) | Build Better Websites. Create modern, resilient user experiences with web fundamentals. |
-| [OpenSSL-2022](https://github.com/NCSC-NL/OpenSSL-2022) | Operational information regarding CVE-2022-3602 and CVE-2022-3786, two vulnerabilities in OpenSSL 3 |
-| [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) | Roadmap to becoming an Artificial Intelligence Expert in 2022 |
-| [NewPipe](https://github.com/TeamNewPipe/NewPipe) | A libre lightweight streaming front-end for Android. |
+| [refine](https://github.com/refinedev/refine) | Build your React-based CRUD applications, without constraints. |
+| [lama-cleaner](https://github.com/Sanster/lama-cleaner) | Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures. |
 | [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | 💯 Curated coding interview preparation materials for busy software engineers |
-| [s3crets_scanner](https://github.com/Eilonh/s3crets_scanner) | None |
-| [openssl](https://github.com/openssl/openssl) | TLS/SSL and crypto library |
-| [mastodon](https://github.com/mastodon/mastodon) | Your self-hosted, globally interconnected microblogging community |
+| [DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) | DevOps Roadmap for 2022. with learning resources |
+| [sing-box](https://github.com/SagerNet/sing-box) | The universal proxy platform |
+| [machine-learning-interview-enlightener](https://github.com/alirezadir/machine-learning-interview-enlightener) | This repo is meant to serve as a guide for Machine Learning/AI technical interviews. |
+| [OpenSSL-2022](https://github.com/NCSC-NL/OpenSSL-2022) | Operational information regarding CVE-2022-3602 and CVE-2022-3786, two vulnerabilities in OpenSSL 3 |
 | [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
+| [KT-companion](https://github.com/jamealg/KT-companion) | A hiking and backpacking trail companion progressive web app |
+| [Akebi-GC](https://github.com/Taiga74164/Akebi-GC) | Akebi Genshin Cheat source for OS/CN 3.0 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
