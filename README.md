@@ -43,12 +43,12 @@
 | :----: | :----: |
 | [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI |
 | [turbo](https://github.com/vercel/turbo) | Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack. |
-| [Havoc](https://github.com/HavocFramework/Havoc) | The Havoc Framework |
-| [iced](https://github.com/iced-rs/iced) | A cross-platform GUI library for Rust, inspired by Elm |
-| [rembg](https://github.com/danielgatis/rembg) | Rembg is a tool to remove images background. |
+| [mastodon](https://github.com/mastodon/mastodon) | Your self-hosted, globally interconnected microblogging community |
 | [textual](https://github.com/Textualize/textual) | Textual is a TUI (Text User Interface) framework for Python inspired by modern web development. |
-| [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 🔥 Open Source Airtable Alternative |
-| [stablediffusion-infinity](https://github.com/lkwq007/stablediffusion-infinity) | Outpainting with Stable Diffusion on an infinite canvas |
-| [GFPGAN](https://github.com/TencentARC/GFPGAN) | GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration. |
-| [qwik](https://github.com/BuilderIO/qwik) | The HTML-first framework. Instant apps of any size with ~ 1kb JS |
+| [nerfstudio](https://github.com/nerfstudio-project/nerfstudio) | A collaboration friendly studio for NeRFs |
+| [rembg](https://github.com/danielgatis/rembg) | Rembg is a tool to remove images background. |
+| [dragonfly](https://github.com/dragonflydb/dragonfly) | A modern replacement for Redis and Memcached |
+| [linux-command](https://github.com/jaywcjlove/linux-command) | Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux |
+| [WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) | 我最近在重新学solidity，巩固一下细节，也写一个“WTF Solidity极简入门”，供小白们使用，每周更新1-3讲。官网: https://wtf.academy |
+| [material-web](https://github.com/material-components/material-web) | Material Design Web Components |
 <!-- END OF MONTHLY_TOP10_REPOS -->
