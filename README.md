@@ -25,16 +25,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [stc](https://github.com/dudykr/stc) | Speedy TypeScript type checker |
+| [taxonomy](https://github.com/shadcn/taxonomy) | An open source application built using the new router, server components and everything new in Next.js 13. |
+| [vhs](https://github.com/charmbracelet/vhs) | Your CLI home video recorder 📼 |
+| [openssl](https://github.com/openssl/openssl) | TLS/SSL and crypto library |
+| [jeecg-boot](https://github.com/jeecgboot/jeecg-boot) | ⭐️「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。 |
+| [mastodon](https://github.com/mastodon/mastodon) | Your self-hosted, globally interconnected microblogging community |
+| [lama-cleaner](https://github.com/Sanster/lama-cleaner) | Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures. |
+| [jellyfin](https://github.com/jellyfin/jellyfin) | The Free Software Media System |
+| [encodec](https://github.com/facebookresearch/encodec) | State-of-the-art deep learning based audio codec supporting both mono 24 kHz audio and stereo 48 kHz audio. |
 | [turbo](https://github.com/vercel/turbo) | Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack. |
-| [textual](https://github.com/Textualize/textual) | Textual is a TUI (Text User Interface) framework for Python inspired by modern web development. |
-| [pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) | A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards. |
-| [pocket-casts-android](https://github.com/Automattic/pocket-casts-android) | Pocket Casts Android 🎧 |
-| [sui](https://github.com/MystenLabs/sui) | Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language |
-| [pocket-casts-ios](https://github.com/Automattic/pocket-casts-ios) | Pocket Casts iOS app 🎧 |
-| [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) | ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解 |
-| [stable-diffusion](https://github.com/runwayml/stable-diffusion) | Latent Text-to-Image Diffusion |
-| [fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) | fast-stable-diffusion, +25-50% speed increase + memory efficient + DreamBooth |
-| [aptos-core](https://github.com/aptos-labs/aptos-core) | A layer 1 for everyone! |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10

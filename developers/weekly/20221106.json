@@ -1,0 +1,302 @@
+[
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1309177",
+        "name": "Charlie Marsh",
+        "repo": {
+            "description": "An extremely fast Python linter, written in Rust.",
+            "name": "ruff",
+            "url": "https://github.com/charliermarsh/ruff"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/charliermarsh",
+        "username": "charliermarsh"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2345875",
+        "name": "Bram Gerritsen",
+        "repo": {
+            "description": "Custom component to calculate estimated power consumption of lights and other appliances",
+            "name": "homeassistant-powercalc",
+            "url": "https://github.com/bramstroker/homeassistant-powercalc"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/bramstroker",
+        "username": "bramstroker"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/37772591",
+        "name": "Andrei Pechkurov",
+        "repo": {
+            "description": "Concurrent data structures for Go",
+            "name": "xsync",
+            "url": "https://github.com/puzpuzpuz/xsync"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/puzpuzpuz",
+        "username": "puzpuzpuz"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/6942",
+        "name": "Tom Payne",
+        "repo": {
+            "description": "Manage your dotfiles across multiple diverse machines, securely.",
+            "name": "chezmoi",
+            "url": "https://github.com/twpayne/chezmoi"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/twpayne",
+        "username": "twpayne"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/5663952",
+        "name": "Klaus Post",
+        "repo": {
+            "description": "Optimized Go Compression Packages",
+            "name": "compress",
+            "url": "https://github.com/klauspost/compress"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/klauspost",
+        "username": "klauspost"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/72895",
+        "name": "George Hotz",
+        "repo": {
+            "description": "You like pytorch? You like micrograd? You love tinygrad! \u2764\ufe0f",
+            "name": "tinygrad",
+            "url": "https://github.com/geohot/tinygrad"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/geohot",
+        "username": "geohot"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/154109",
+        "name": "Jesse Glick",
+        "repo": {
+            "description": "Simple tool to attach to a Java VM and kill an individual thread.",
+            "name": "jkillthread",
+            "url": "https://github.com/jglick/jkillthread"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/jglick",
+        "username": "jglick"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/16816",
+        "name": "Brian Smith",
+        "repo": {
+            "description": "Safe, fast, small crypto using Rust",
+            "name": "ring",
+            "url": "https://github.com/briansmith/ring"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/briansmith",
+        "username": "briansmith"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1560587",
+        "name": "Jan-Otto Kr\u00f6pke",
+        "repo": {
+            "description": "A helm plugin that help manage secrets with Git workflow and store them anywhere",
+            "name": "helm-secrets",
+            "url": "https://github.com/jkroepke/helm-secrets"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/jkroepke",
+        "username": "jkroepke"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/731464",
+        "name": "Erez Shinan",
+        "repo": {
+            "description": "Utilities for run-time type validation and multiple dispatch",
+            "name": "runtype",
+            "url": "https://github.com/erezsh/runtype"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/erezsh",
+        "username": "erezsh"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/366330",
+        "name": "Jeremy Kahn",
+        "repo": {
+            "description": "A peer-to-peer chat app that is serverless, decentralized, and ephemeral",
+            "name": "chitchatter",
+            "url": "https://github.com/jeremyckahn/chitchatter"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/jeremyckahn",
+        "username": "jeremyckahn"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/7413593",
+        "name": "Ariel Mashraki",
+        "repo": {
+            "description": "An overview of Go syntax and features.",
+            "name": "golang-cheat-sheet",
+            "url": "https://github.com/a8m/golang-cheat-sheet"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/a8m",
+        "username": "a8m"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1041292",
+        "name": "Laurent Mazare",
+        "repo": {
+            "description": "Rust bindings for the C++ api of PyTorch.",
+            "name": "tch-rs",
+            "url": "https://github.com/LaurentMazare/tch-rs"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/LaurentMazare",
+        "username": "LaurentMazare"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/10363352",
+        "name": "Goooler",
+        "repo": {
+            "description": "\u7528\u4e8e\u5c4f\u853d\u4e00\u4e9b1024\u7ad9\u8fa3\u9e21\u5e7f\u544a\u7684 hosts \u6587\u4ef6",
+            "name": "1024_hosts",
+            "url": "https://github.com/Goooler/1024_hosts"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/Goooler",
+        "username": "Goooler"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/22380829",
+        "name": "JJ Kasper",
+        "repo": {
+            "description": "A Next.js site using new SSG support with a Notion backed blog",
+            "name": "notion-blog",
+            "url": "https://github.com/ijjk/notion-blog"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/ijjk",
+        "username": "ijjk"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/275001",
+        "name": "dgtlmoon",
+        "repo": {
+            "description": "changedetection.io - The best and simplest self-hosted free open source website change detection tracking, monitoring and notification se\u2026",
+            "name": "changedetection.io",
+            "url": "https://github.com/dgtlmoon/changedetection.io"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/dgtlmoon",
+        "username": "dgtlmoon"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/5555347",
+        "name": "Costa Huang",
+        "repo": {
+            "description": "High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, T\u2026",
+            "name": "cleanrl",
+            "url": "https://github.com/vwxyzjn/cleanrl"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/vwxyzjn",
+        "username": "vwxyzjn"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/26209401",
+        "name": "t11s",
+        "repo": {
+            "description": "Modern, opinionated, and gas optimized building blocks for smart contract development.",
+            "name": "solmate",
+            "url": "https://github.com/transmissions11/solmate"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/transmissions11",
+        "username": "transmissions11"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/6945922",
+        "name": "Matthias Fey",
+        "repo": {
+            "description": "PyTorch Extension Library of Optimized Scatter Operations",
+            "name": "pytorch_scatter",
+            "url": "https://github.com/rusty1s/pytorch_scatter"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/rusty1s",
+        "username": "rusty1s"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/3048342",
+        "name": "sinclairzx81",
+        "repo": {
+            "description": "JSON Schema Type Builder with Static Type Resolution for TypeScript",
+            "name": "typebox",
+            "url": "https://github.com/sinclairzx81/typebox"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/sinclairzx81",
+        "username": "sinclairzx81"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/4616906",
+        "name": "Henry Schreiner",
+        "repo": {
+            "description": "In class",
+            "name": "se-for-sci-example",
+            "url": "https://github.com/henryiii/se-for-sci-example"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/henryiii",
+        "username": "henryiii"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/507615",
+        "name": "afc163",
+        "repo": {
+            "description": "A \ud83c\udde8\ud83c\uddf3 and \ud83c\uddfa\ud83c\uddf8 translate tool in your command line.",
+            "name": "fanyi",
+            "url": "https://github.com/afc163/fanyi"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/afc163",
+        "username": "afc163"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/8050659",
+        "name": "Munif Tanjim",
+        "repo": {
+            "description": "UI Component Library for Neovim.",
+            "name": "nui.nvim",
+            "url": "https://github.com/MunifTanjim/nui.nvim"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/MunifTanjim",
+        "username": "MunifTanjim"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/7608904",
+        "name": "James Lamb",
+        "repo": {
+            "description": "Like R CMD check, but for Python package distributions.",
+            "name": "pydistcheck",
+            "url": "https://github.com/jameslamb/pydistcheck"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/jameslamb",
+        "username": "jameslamb"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/57786711",
+        "name": "phuocng",
+        "repo": {
+            "description": "A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!",
+            "name": "csslayout",
+            "url": "https://github.com/phuocng/csslayout"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/phuocng",
+        "username": "phuocng"
+    }
+]
