@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [stash](https://github.com/stashapp/stash) | An organizer for your porn, written in Go |
 | [mastodon](https://github.com/mastodon/mastodon) | Your self-hosted, globally interconnected microblogging community |
+| [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) | 🎆Interactive Online Platform that Visualizes Algorithms from Code |
+| [Mubert-Text-to-Music](https://github.com/MubertAI/Mubert-Text-to-Music) | A simple notebook demonstrating prompt-based music generation via Mubert API |
+| [stash](https://github.com/stashapp/stash) | An organizer for your porn, written in Go |
+| [react-native](https://github.com/facebook/react-native) | A framework for building native applications using React |
+| [nlwcopa-mobile-components](https://github.com/rodrigorgtic/nlwcopa-mobile-components) | ⚽ NLW Copa - Componentes do App Mobile. |
+| [surrealdb](https://github.com/surrealdb/surrealdb) | A scalable, distributed, collaborative, document-graph database, for the realtime web |
+| [helix](https://github.com/helix-editor/helix) | A post-modern modal text editor. |
 | [tinygrad](https://github.com/geohot/tinygrad) | You like pytorch? You like micrograd? You love tinygrad! ❤️ |
-| [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity |
-| [higress](https://github.com/alibaba/higress) | Next-generation Cloud Native Gateway |
-| [ghidra](https://github.com/NationalSecurityAgency/ghidra) | Ghidra is a software reverse engineering (SRE) framework |
-| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
-| [diffusion-models-class](https://github.com/huggingface/diffusion-models-class) | Materials for the Hugging Face Diffusion Models Course |
-| [typer](https://github.com/tiangolo/typer) | Typer, build great CLIs. Easy to code. Based on Python type hints. |
-| [spacedrive](https://github.com/spacedriveapp/spacedrive) | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. |
+| [core](https://github.com/home-assistant/core) | 🏡 Open source home automation that puts local control and privacy first. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
