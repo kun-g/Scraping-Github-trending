@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [mastodon](https://github.com/mastodon/mastodon) | Your self-hosted, globally interconnected microblogging community |
-| [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) | 🎆Interactive Online Platform that Visualizes Algorithms from Code |
-| [Mubert-Text-to-Music](https://github.com/MubertAI/Mubert-Text-to-Music) | A simple notebook demonstrating prompt-based music generation via Mubert API |
 | [stash](https://github.com/stashapp/stash) | An organizer for your porn, written in Go |
-| [react-native](https://github.com/facebook/react-native) | A framework for building native applications using React |
-| [nlwcopa-mobile-components](https://github.com/rodrigorgtic/nlwcopa-mobile-components) | ⚽ NLW Copa - Componentes do App Mobile. |
-| [surrealdb](https://github.com/surrealdb/surrealdb) | A scalable, distributed, collaborative, document-graph database, for the realtime web |
-| [helix](https://github.com/helix-editor/helix) | A post-modern modal text editor. |
-| [tinygrad](https://github.com/geohot/tinygrad) | You like pytorch? You like micrograd? You love tinygrad! ❤️ |
-| [core](https://github.com/home-assistant/core) | 🏡 Open source home automation that puts local control and privacy first. |
+| [Mubert-Text-to-Music](https://github.com/MubertAI/Mubert-Text-to-Music) | A simple notebook demonstrating prompt-based music generation via Mubert API |
+| [lenster](https://github.com/lensterxyz/lenster) | Lenster is a decentralized, and permissionless social media app built with Lens Protocol 🌿 |
+| [higress](https://github.com/alibaba/higress) | Next-generation Cloud Native Gateway |
+| [devops-exercises](https://github.com/bregman-arie/devops-exercises) | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions |
+| [mastodon](https://github.com/mastodon/mastodon) | Your self-hosted, globally interconnected microblogging community |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [operator-filter-registry](https://github.com/ProjectOpenSea/operator-filter-registry) | None |
+| [Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands) | Ultimate list of Linux bash commands |
+| [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) | 🛁 Clean Code concepts adapted for JavaScript |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
