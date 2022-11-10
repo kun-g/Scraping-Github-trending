@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [stash](https://github.com/stashapp/stash) | An organizer for your porn, written in Go |
+| [katana](https://github.com/projectdiscovery/katana) | A next-generation crawling and spidering framework. |
+| [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) | Network-wide ads & trackers blocking DNS server |
 | [Mubert-Text-to-Music](https://github.com/MubertAI/Mubert-Text-to-Music) | A simple notebook demonstrating prompt-based music generation via Mubert API |
-| [lenster](https://github.com/lensterxyz/lenster) | Lenster is a decentralized, and permissionless social media app built with Lens Protocol 🌿 |
-| [higress](https://github.com/alibaba/higress) | Next-generation Cloud Native Gateway |
-| [devops-exercises](https://github.com/bregman-arie/devops-exercises) | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions |
-| [mastodon](https://github.com/mastodon/mastodon) | Your self-hosted, globally interconnected microblogging community |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [operator-filter-registry](https://github.com/ProjectOpenSea/operator-filter-registry) | None |
-| [Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands) | Ultimate list of Linux bash commands |
-| [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) | 🛁 Clean Code concepts adapted for JavaScript |
+| [health-code-index](https://github.com/ilovexjp/health-code-index) | 健康码模拟 - 索引 |
+| [ntfy](https://github.com/binwiederhier/ntfy) | Send push notifications to your phone or desktop using PUT/POST |
+| [run](https://github.com/The-Run-Philosophy-Organization/run) | 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。 |
+| [memphis-broker](https://github.com/memphisdev/memphis-broker) | Memphis is an Open-Source, Real-Time Data Processing Platform |
+| [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) | A curated list of software and architecture related design patterns. |
+| [Mediator](https://github.com/martinothamar/Mediator) | A high performance implementation of Mediator pattern in .NET using source generators. |
+| [-3D](https://github.com/Kaiser-DMr/-3D) | 李洵爱心跳动代码 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
