@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [health-code-index](https://github.com/ilovexjp/health-code-index) | 健康码模拟 - 索引 |
-| [ColossalAI](https://github.com/hpcaitech/ColossalAI) | Colossal-AI: A Unified Deep Learning System for Big Model Era |
-| [m3u](https://github.com/YanG-1989/m3u) | None |
-| [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) | 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace. |
 | [katana](https://github.com/projectdiscovery/katana) | A next-generation crawling and spidering framework. |
-| [run](https://github.com/The-Run-Philosophy-Organization/run) | 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。 |
 | [ntfy](https://github.com/binwiederhier/ntfy) | Send push notifications to your phone or desktop using PUT/POST |
-| [PhysX](https://github.com/NVIDIA-Omniverse/PhysX) | NVIDIA PhysX SDK |
-| [cozo](https://github.com/cozodb/cozo) | A general-purpose, transactional, relational database that uses Datalog and focuses on graph data and algorithms |
-| [router](https://github.com/TanStack/router) | 🤖 Type-safe router w/ built-in caching & URL state management for JS/TS, React, Preact, Solid, Vue, Svelte and Angular |
+| [run](https://github.com/The-Run-Philosophy-Organization/run) | 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。 |
+| [ColossalAI](https://github.com/hpcaitech/ColossalAI) | Colossal-AI: A Unified Deep Learning System for Big Model Era |
+| [solid-start](https://github.com/solidjs/solid-start) | SolidStart, the Solid app framework |
+| [maui](https://github.com/dotnet/maui) | .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop. |
+| [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) | Network-wide ads & trackers blocking DNS server |
+| [autocut](https://github.com/mli/autocut) | 用文本编辑器剪视频 |
+| [tools](https://github.com/rome/tools) | Unified developer tools for JavaScript, TypeScript, and the web |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
