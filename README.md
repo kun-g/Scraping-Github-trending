@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [health-code-index](https://github.com/ilovexjp/health-code-index) | 健康码模拟 - 索引 |
-| [katana](https://github.com/projectdiscovery/katana) | A next-generation crawling and spidering framework. |
-| [ntfy](https://github.com/binwiederhier/ntfy) | Send push notifications to your phone or desktop using PUT/POST |
-| [run](https://github.com/The-Run-Philosophy-Organization/run) | 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。 |
-| [ColossalAI](https://github.com/hpcaitech/ColossalAI) | Colossal-AI: A Unified Deep Learning System for Big Model Era |
-| [solid-start](https://github.com/solidjs/solid-start) | SolidStart, the Solid app framework |
-| [maui](https://github.com/dotnet/maui) | .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop. |
-| [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) | Network-wide ads & trackers blocking DNS server |
-| [autocut](https://github.com/mli/autocut) | 用文本编辑器剪视频 |
+| [twitter-archive-parser](https://github.com/timhutton/twitter-archive-parser) | Python code to parse a Twitter archive and output in various ways |
+| [eight-dollars](https://github.com/wseagar/eight-dollars) | A browser extension that shows twitter blue vs real verified users |
+| [sonic](https://github.com/go-sonic/sonic) | Sonic is a blogging platform developed by Go. Simple and powerful |
+| [ekreta-src](https://github.com/skidoodle/ekreta-src) | ekreta src |
+| [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) | 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace. |
+| [mona-sans](https://github.com/github/mona-sans) | Mona Sans, a variable font from GitHub |
+| [awesome-python](https://github.com/vinta/awesome-python) | A curated list of awesome Python frameworks, libraries, software and resources |
+| [RedditWritesCode](https://github.com/RedditWritesCode/RedditWritesCode) | The mirror of the series "The most upvoted comment picks the next line of code" on Reddit by https://www.reddit.com/user/AggravatingCorner133/ |
 | [tools](https://github.com/rome/tools) | Unified developer tools for JavaScript, TypeScript, and the web |
+| [lama-cleaner](https://github.com/Sanster/lama-cleaner) | Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
