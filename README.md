@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [twitter-archive-parser](https://github.com/timhutton/twitter-archive-parser) | Python code to parse a Twitter archive and output in various ways |
+| [Hyprland](https://github.com/hyprwm/Hyprland) | Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks. |
+| [bevy](https://github.com/bevyengine/bevy) | A refreshingly simple data-driven game engine built in Rust |
+| [Ryujinx](https://github.com/Ryujinx/Ryujinx) | Experimental Nintendo Switch Emulator written in C# |
+| [axum](https://github.com/tokio-rs/axum) | Ergonomic and modular web framework built with Tokio, Tower, and Hyper |
 | [eight-dollars](https://github.com/wseagar/eight-dollars) | A browser extension that shows twitter blue vs real verified users |
-| [sonic](https://github.com/go-sonic/sonic) | Sonic is a blogging platform developed by Go. Simple and powerful |
-| [ekreta-src](https://github.com/skidoodle/ekreta-src) | ekreta src |
-| [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) | 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace. |
-| [mona-sans](https://github.com/github/mona-sans) | Mona Sans, a variable font from GitHub |
-| [awesome-python](https://github.com/vinta/awesome-python) | A curated list of awesome Python frameworks, libraries, software and resources |
-| [RedditWritesCode](https://github.com/RedditWritesCode/RedditWritesCode) | The mirror of the series "The most upvoted comment picks the next line of code" on Reddit by https://www.reddit.com/user/AggravatingCorner133/ |
-| [tools](https://github.com/rome/tools) | Unified developer tools for JavaScript, TypeScript, and the web |
-| [lama-cleaner](https://github.com/Sanster/lama-cleaner) | Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures. |
+| [snarkOS](https://github.com/AleoHQ/snarkOS) | A Decentralized Operating System for ZK Applications |
+| [reference](https://github.com/jaywcjlove/reference) | 为开发人员分享快速参考备忘清单(速查表) |
+| [Mindustry](https://github.com/Anuken/Mindustry) | The automation tower defense RTS |
+| [rembg](https://github.com/danielgatis/rembg) | Rembg is a tool to remove images background. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
