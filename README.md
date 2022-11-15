@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [twitter-archive-parser](https://github.com/timhutton/twitter-archive-parser) | Python code to parse a Twitter archive and output in various ways |
-| [Hyprland](https://github.com/hyprwm/Hyprland) | Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks. |
-| [bevy](https://github.com/bevyengine/bevy) | A refreshingly simple data-driven game engine built in Rust |
-| [Ryujinx](https://github.com/Ryujinx/Ryujinx) | Experimental Nintendo Switch Emulator written in C# |
-| [axum](https://github.com/tokio-rs/axum) | Ergonomic and modular web framework built with Tokio, Tower, and Hyper |
-| [eight-dollars](https://github.com/wseagar/eight-dollars) | A browser extension that shows twitter blue vs real verified users |
-| [snarkOS](https://github.com/AleoHQ/snarkOS) | A Decentralized Operating System for ZK Applications |
 | [reference](https://github.com/jaywcjlove/reference) | 为开发人员分享快速参考备忘清单(速查表) |
-| [Mindustry](https://github.com/Anuken/Mindustry) | The automation tower defense RTS |
-| [rembg](https://github.com/danielgatis/rembg) | Rembg is a tool to remove images background. |
+| [imgui](https://github.com/ocornut/imgui) | Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies |
+| [bevy](https://github.com/bevyengine/bevy) | A refreshingly simple data-driven game engine built in Rust |
+| [type-challenges](https://github.com/type-challenges/type-challenges) | Collection of TypeScript type challenges with online judge |
+| [Ryujinx](https://github.com/Ryujinx/Ryujinx) | Experimental Nintendo Switch Emulator written in C# |
+| [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics |
+| [dotfiles](https://github.com/ChristianLempa/dotfiles) | This contain my personal config files. Here you'll find configs, customizations, themes, and whatever I need to personalize my Linux and mac OS experience. |
+| [mpv](https://github.com/mpv-player/mpv) | 🎥 Command line video player |
+| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
