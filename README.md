@@ -9,15 +9,15 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [twitter-archive-parser](https://github.com/timhutton/twitter-archive-parser) | Python code to parse a Twitter archive and output in various ways |
-| [reference](https://github.com/jaywcjlove/reference) | 为开发人员分享快速参考备忘清单(速查表) |
-| [imgui](https://github.com/ocornut/imgui) | Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies |
-| [bevy](https://github.com/bevyengine/bevy) | A refreshingly simple data-driven game engine built in Rust |
+| [gdextension](https://github.com/godot-rust/gdextension) | None |
 | [type-challenges](https://github.com/type-challenges/type-challenges) | Collection of TypeScript type challenges with online judge |
+| [KeepAliveE5](https://github.com/vcheckzen/KeepAliveE5) | None |
+| [palera1n](https://github.com/palera1n/palera1n) | iOS 15.0-15.7.1 (semi-)tethered checkm8 "jailbreak" |
+| [reference](https://github.com/jaywcjlove/reference) | 为开发人员分享快速参考备忘清单(速查表) |
 | [Ryujinx](https://github.com/Ryujinx/Ryujinx) | Experimental Nintendo Switch Emulator written in C# |
+| [Bug-bounty](https://github.com/sehno/Bug-bounty) | Ressources for bug bounty hunting |
 | [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics |
-| [dotfiles](https://github.com/ChristianLempa/dotfiles) | This contain my personal config files. Here you'll find configs, customizations, themes, and whatever I need to personalize my Linux and mac OS experience. |
-| [mpv](https://github.com/mpv-player/mpv) | 🎥 Command line video player |
+| [helm](https://github.com/helm/helm) | The Kubernetes Package Manager |
 | [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
 <!-- END OF DAILY_TOP10_REPOS -->
 

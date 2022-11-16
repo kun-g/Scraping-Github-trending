@@ -1,0 +1,294 @@
+[
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/283842",
+        "name": "Nolan Lawson",
+        "repo": {
+            "description": "Alternative web client for Mastodon",
+            "name": "pinafore",
+            "url": "https://github.com/nolanlawson/pinafore"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/nolanlawson",
+        "username": "nolanlawson"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1309177",
+        "name": "Charlie Marsh",
+        "repo": {
+            "description": "An extremely fast Python linter, written in Rust.",
+            "name": "ruff",
+            "url": "https://github.com/charliermarsh/ruff"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/charliermarsh",
+        "username": "charliermarsh"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/22450188",
+        "name": "atomiks",
+        "repo": {
+            "description": "Tooltip, popover, dropdown, and menu library",
+            "name": "tippyjs",
+            "url": "https://github.com/atomiks/tippyjs"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/atomiks",
+        "username": "atomiks"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2345875",
+        "name": "Bram Gerritsen",
+        "repo": {
+            "description": "Custom component to calculate estimated power consumption of lights and other appliances",
+            "name": "homeassistant-powercalc",
+            "url": "https://github.com/bramstroker/homeassistant-powercalc"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/bramstroker",
+        "username": "bramstroker"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/95136",
+        "name": "David Fowler",
+        "repo": {
+            "description": "ASP.NET Core API with JWT authentication and authorization",
+            "name": "TodoApi",
+            "url": "https://github.com/davidfowl/TodoApi"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/davidfowl",
+        "username": "davidfowl"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/7413593",
+        "name": "Ariel Mashraki",
+        "repo": {
+            "description": "An overview of Go syntax and features.",
+            "name": "golang-cheat-sheet",
+            "url": "https://github.com/a8m/golang-cheat-sheet"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/a8m",
+        "username": "a8m"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1755071",
+        "name": "Adrian Garcia Badaracco",
+        "repo": {
+            "description": "Python wrapper for Rust's httparse HTTP parser",
+            "name": "httparse",
+            "url": "https://github.com/adriangb/httparse"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/adriangb",
+        "username": "adriangb"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/8050659",
+        "name": "Munif Tanjim",
+        "repo": {
+            "description": "UI Component Library for Neovim.",
+            "name": "nui.nvim",
+            "url": "https://github.com/MunifTanjim/nui.nvim"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/MunifTanjim",
+        "username": "MunifTanjim"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/7241",
+        "name": "Massimiliano Pippi",
+        "repo": {
+            "description": "Send Datadog metrics and events from GitHub workflows",
+            "name": "datadog",
+            "url": "https://github.com/masci/datadog"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/masci",
+        "username": "masci"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/131818",
+        "name": "Jordan Sissel",
+        "repo": {
+            "description": "fake keyboard/mouse input, window management, and more",
+            "name": "xdotool",
+            "url": "https://github.com/jordansissel/xdotool"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/jordansissel",
+        "username": "jordansissel"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/6945922",
+        "name": "Matthias Fey",
+        "repo": {
+            "description": "PyTorch Extension Library of Optimized Scatter Operations",
+            "name": "pytorch_scatter",
+            "url": "https://github.com/rusty1s/pytorch_scatter"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/rusty1s",
+        "username": "rusty1s"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/130929",
+        "name": "Henrik Rydg\u00e5rd",
+        "repo": {
+            "description": "A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD \u2026",
+            "name": "ppsspp",
+            "url": "https://github.com/hrydgard/ppsspp"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/hrydgard",
+        "username": "hrydgard"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2346494",
+        "name": "Romain Beaumont",
+        "repo": {
+            "description": "Easily turn large sets of image urls to an image dataset. Can download, resize and package 100M urls in 20h on one machine.",
+            "name": "img2dataset",
+            "url": "https://github.com/rom1504/img2dataset"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/rom1504",
+        "username": "rom1504"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/29597",
+        "name": "Brian Vaughn",
+        "repo": {
+            "description": "React components for efficiently rendering large lists and tabular data",
+            "name": "react-window",
+            "url": "https://github.com/bvaughn/react-window"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/bvaughn",
+        "username": "bvaughn"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/536312",
+        "name": "Philip O'Toole",
+        "repo": {
+            "description": "Pure Go SQL parser\u2014not production ready",
+            "name": "sql",
+            "url": "https://github.com/otoolep/sql"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/otoolep",
+        "username": "otoolep"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/352067",
+        "name": "Andreas Kl\u00f6ckner",
+        "repo": {
+            "description": "Full-screen console debugger for Python",
+            "name": "pudb",
+            "url": "https://github.com/inducer/pudb"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/inducer",
+        "username": "inducer"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/53356347",
+        "name": "Azure SDK Bot",
+        "repo": {
+            "description": "Microsoft Azure SDK for JavaScript (NodeJS & Browser)",
+            "name": "azure-sdk-for-js",
+            "url": "https://github.com/azure-sdk/azure-sdk-for-js"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/azure-sdk",
+        "username": "azure-sdk"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/275001",
+        "name": "dgtlmoon",
+        "repo": {
+            "description": "changedetection.io - The best and simplest self-hosted free open source website change detection tracking, monitoring and notification se\u2026",
+            "name": "changedetection.io",
+            "url": "https://github.com/dgtlmoon/changedetection.io"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/dgtlmoon",
+        "username": "dgtlmoon"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1148717",
+        "name": "Emil Ernerfeldt",
+        "repo": {
+            "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
+            "name": "egui",
+            "url": "https://github.com/emilk/egui"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/emilk",
+        "username": "emilk"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1450685",
+        "name": "Rick",
+        "repo": {
+            "description": "\u652f\u6301\u8fdc\u7a0b\u529e\u516c\u7684\u4e2d\u56fd\u516c\u53f8",
+            "name": "remote-jobs-in-china",
+            "url": "https://github.com/LinuxSuRen/remote-jobs-in-china"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/LinuxSuRen",
+        "username": "LinuxSuRen"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/306134",
+        "name": "William Candillon",
+        "repo": {
+            "description": "\u269b\ufe0f \ud83d\udcfa Projects from the \u201cCan it be done in React Native?\u201d YouTube series",
+            "name": "can-it-be-done-in-react-native",
+            "url": "https://github.com/wcandillon/can-it-be-done-in-react-native"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/wcandillon",
+        "username": "wcandillon"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/7775707",
+        "name": "nitrocode",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/nitrocode",
+        "username": "nitrocode"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/611784",
+        "name": "Connor Tumbleson",
+        "repo": {
+            "description": "A tool for reverse engineering Android apk files",
+            "name": "Apktool",
+            "url": "https://github.com/iBotPeaches/Apktool"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/iBotPeaches",
+        "username": "iBotPeaches"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/5889274",
+        "name": "Vectorized",
+        "repo": {
+            "description": "Optimized and flexible version of OpenSea's operator filterer",
+            "name": "closedsea",
+            "url": "https://github.com/Vectorized/closedsea"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/Vectorized",
+        "username": "Vectorized"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/5486389",
+        "name": "Thomas Eizinger",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/thomaseizinger",
+        "username": "thomaseizinger"
+    }
+]
