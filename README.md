@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [gdextension](https://github.com/godot-rust/gdextension) | None |
-| [type-challenges](https://github.com/type-challenges/type-challenges) | Collection of TypeScript type challenges with online judge |
-| [KeepAliveE5](https://github.com/vcheckzen/KeepAliveE5) | None |
-| [palera1n](https://github.com/palera1n/palera1n) | iOS 15.0-15.7.1 (semi-)tethered checkm8 "jailbreak" |
 | [reference](https://github.com/jaywcjlove/reference) | 为开发人员分享快速参考备忘清单(速查表) |
-| [Ryujinx](https://github.com/Ryujinx/Ryujinx) | Experimental Nintendo Switch Emulator written in C# |
-| [Bug-bounty](https://github.com/sehno/Bug-bounty) | Ressources for bug bounty hunting |
-| [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics |
-| [helm](https://github.com/helm/helm) | The Kubernetes Package Manager |
-| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
+| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
+| [palera1n](https://github.com/palera1n/palera1n) | iOS 15.0-15.7.1 (semi-)tethered checkm8 "jailbreak" |
+| [openblocks](https://github.com/openblocks-dev/openblocks) | ✨ The open-source Retool alternative |
+| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+| [how-web-works](https://github.com/vasanthk/how-web-works) | What happens behind the scenes when we type www.google.com in a browser? |
+| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
+| [project-guidelines](https://github.com/elsewhencode/project-guidelines) | A set of best practices for JavaScript projects |
+| [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. |
+| [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project-based tutorials |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
