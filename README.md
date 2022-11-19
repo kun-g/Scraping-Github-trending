@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [greptimedb](https://github.com/GreptimeTeam/greptimedb) | GreptimeDB, an open-source, cloud-native, distributed time-series database. |
-| [sapling](https://github.com/facebook/sapling) | A Scalable, User-Friendly Source Control System. |
-| [firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) | Firebase SDK for Apple App Development |
-| [o-poder-do-js-recursos](https://github.com/maateusilva/o-poder-do-js-recursos) | None |
-| [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) | Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL |
 | [galai](https://github.com/paperswithcode/galai) | Model API for GALACTICA |
-| [smiley-sans](https://github.com/atelier-anchor/smiley-sans) | 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体 |
+| [sapling](https://github.com/facebook/sapling) | A Scalable, User-Friendly Source Control System. |
+| [angular-cli](https://github.com/angular/angular-cli) | CLI tool for Angular |
+| [reference](https://github.com/jaywcjlove/reference) | 为开发人员分享快速参考备忘清单(速查表) |
+| [kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path) | A roadmap to learn Kubernetes from scratch (Beginner to Advanced level) |
+| [Versatile-Diffusion](https://github.com/SHI-Labs/Versatile-Diffusion) | Versatile Diffusion: Text, Images and Variations All in One Diffusion Model, 2022 |
+| [backend-cheats](https://github.com/cheatsnake/backend-cheats) | 🔰 Шпаргалка по бэкенду с картинками и не только |
+| [framework](https://github.com/nuxt/framework) | The Intuitive Web Framework, based on Vue 3. |
 | [angular](https://github.com/angular/angular) | The modern web developer’s platform |
-| [gdextension](https://github.com/godot-rust/gdextension) | None |
-| [palera1n](https://github.com/palera1n/palera1n) | iOS 15.0-15.7.1 (semi-)tethered checkm8 "jailbreak" |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
