@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [greptimedb](https://github.com/GreptimeTeam/greptimedb) | GreptimeDB, an open-source, cloud-native, distributed time-series database. |
-| [galai](https://github.com/paperswithcode/galai) | Model API for GALACTICA |
-| [sapling](https://github.com/facebook/sapling) | A Scalable, User-Friendly Source Control System. |
 | [angular-cli](https://github.com/angular/angular-cli) | CLI tool for Angular |
-| [reference](https://github.com/jaywcjlove/reference) | 为开发人员分享快速参考备忘清单(速查表) |
-| [kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path) | A roadmap to learn Kubernetes from scratch (Beginner to Advanced level) |
-| [Versatile-Diffusion](https://github.com/SHI-Labs/Versatile-Diffusion) | Versatile Diffusion: Text, Images and Variations All in One Diffusion Model, 2022 |
-| [backend-cheats](https://github.com/cheatsnake/backend-cheats) | 🔰 Шпаргалка по бэкенду с картинками и не только |
-| [framework](https://github.com/nuxt/framework) | The Intuitive Web Framework, based on Vue 3. |
 | [angular](https://github.com/angular/angular) | The modern web developer’s platform |
+| [greptimedb](https://github.com/GreptimeTeam/greptimedb) | GreptimeDB, an open-source, cloud-native, distributed time-series database. |
+| [sapling](https://github.com/facebook/sapling) | A Scalable, User-Friendly Source Control System. |
+| [framework](https://github.com/nuxt/framework) | The Intuitive Web Framework, based on Vue 3. |
+| [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) | ⚙️ NGINX config generator on steroids 💉 |
+| [galai](https://github.com/paperswithcode/galai) | Model API for GALACTICA |
+| [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project-based tutorials |
+| [ant-design](https://github.com/ant-design/ant-design) | An enterprise-class UI design language and React UI library |
+| [awesome-cto](https://github.com/kuchin/awesome-cto) | A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
