@@ -43,12 +43,12 @@
 | :----: | :----: |
 | [mastodon](https://github.com/mastodon/mastodon) | Your self-hosted, globally interconnected microblogging community |
 | [turbo](https://github.com/vercel/turbo) | Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo. |
-| [stash](https://github.com/stashapp/stash) | An organizer for your porn, written in Go |
-| [sui](https://github.com/MystenLabs/sui) | Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language |
+| [tinygrad](https://github.com/geohot/tinygrad) | You like pytorch? You like micrograd? You love tinygrad! ❤️ |
+| [pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) | A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards. |
 | [lama-cleaner](https://github.com/Sanster/lama-cleaner) | Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures. |
-| [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI |
+| [sui](https://github.com/MystenLabs/sui) | Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language |
+| [linux-command](https://github.com/jaywcjlove/linux-command) | Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux |
+| [tools](https://github.com/rome/tools) | Unified developer tools for JavaScript, TypeScript, and the web |
 | [textual](https://github.com/Textualize/textual) | Textual is a TUI (Text User Interface) framework for Python inspired by modern web development. |
-| [run](https://github.com/The-Run-Philosophy-Organization/run) | 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。 |
-| [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) | ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解 |
-| [dragonfly](https://github.com/dragonflydb/dragonfly) | A modern replacement for Redis and Memcached |
+| [ColossalAI](https://github.com/hpcaitech/ColossalAI) | Colossal-AI: A Unified Deep Learning System for Big Model Era |
 <!-- END OF MONTHLY_TOP10_REPOS -->
