@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [angular-cli](https://github.com/angular/angular-cli) | CLI tool for Angular |
-| [angular](https://github.com/angular/angular) | The modern web developer’s platform |
-| [greptimedb](https://github.com/GreptimeTeam/greptimedb) | GreptimeDB, an open-source, cloud-native, distributed time-series database. |
-| [sapling](https://github.com/facebook/sapling) | A Scalable, User-Friendly Source Control System. |
-| [framework](https://github.com/nuxt/framework) | The Intuitive Web Framework, based on Vue 3. |
-| [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) | ⚙️ NGINX config generator on steroids 💉 |
-| [galai](https://github.com/paperswithcode/galai) | Model API for GALACTICA |
+| [memos](https://github.com/usememos/memos) | An open-source, self-hosted memo hub with knowledge management and collaboration. |
+| [whisper.cpp](https://github.com/ggerganov/whisper.cpp) | Port of OpenAI's Whisper model in C/C++ |
+| [sui](https://github.com/MystenLabs/sui) | Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language |
 | [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project-based tutorials |
-| [ant-design](https://github.com/ant-design/ant-design) | An enterprise-class UI design language and React UI library |
-| [awesome-cto](https://github.com/kuchin/awesome-cto) | A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups |
+| [sapling](https://github.com/facebook/sapling) | A Scalable, User-Friendly Source Control System. |
+| [DiffusionDet](https://github.com/ShoufaChen/DiffusionDet) | PyTorch implementation of DiffusionDet (https://arxiv.org/abs/2211.09788) |
+| [mastodon](https://github.com/mastodon/mastodon) | Your self-hosted, globally interconnected microblogging community |
+| [openpilot](https://github.com/commaai/openpilot) | openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models. |
+| [clash](https://github.com/Dreamacro/clash) | A rule-based tunnel in Go. |
+| [Blue-Team-Notes](https://github.com/Purp1eW0lf/Blue-Team-Notes) | You didn't think I'd go and leave the blue team out, right? |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
