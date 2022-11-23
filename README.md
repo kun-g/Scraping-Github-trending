@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [memos](https://github.com/usememos/memos) | An open-source, self-hosted memo hub with knowledge management and collaboration. |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [MastodonCompose](https://github.com/AndroidDev-social/MastodonCompose) | 🐘 Mastodon client for Android, iOS and Desktop (JVM) |
+| [FlagAI](https://github.com/FlagAI-Open/FlagAI) | FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model. |
+| [taxonomy](https://github.com/shadcn/taxonomy) | An open source application built using the new router, server components and everything new in Next.js 13. |
 | [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) | 计算机自学指南 |
-| [takahe](https://github.com/andrewgodwin/takahe) | An ActivityPub/Fediverse server |
-| [metatext](https://github.com/metabolist/metatext) | A free, open-source iOS Mastodon client. |
-| [DiffusionDet](https://github.com/ShoufaChen/DiffusionDet) | PyTorch implementation of DiffusionDet (https://arxiv.org/abs/2211.09788) |
-| [sui](https://github.com/MystenLabs/sui) | Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language |
-| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
-| [devenv](https://github.com/cachix/devenv) | Fast, Declarative, Reproducible, and Composable Developer Environments |
-| [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) | 🎆Interactive Online Platform that Visualizes Algorithms from Code |
-| [whisper.cpp](https://github.com/ggerganov/whisper.cpp) | Port of OpenAI's Whisper model in C/C++ |
-| [Flipper](https://github.com/UberGuidoZ/Flipper) | Playground (and dump) of stuff I make or modify for the Flipper Zero |
+| [router](https://github.com/TanStack/router) | 🤖 Type-safe router w/ built-in caching & URL state management for JS/TS, React, Preact, Solid, Vue, Svelte and Angular |
+| [openpilot](https://github.com/commaai/openpilot) | openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models. |
+| [cli](https://github.com/teaxyz/cli) | the unified package manager (brew2) |
+| [GCTI](https://github.com/chronicle/GCTI) | None |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
