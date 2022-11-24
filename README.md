@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [memos](https://github.com/usememos/memos) | An open-source, self-hosted memo hub with knowledge management and collaboration. |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [MastodonCompose](https://github.com/AndroidDev-social/MastodonCompose) | 🐘 Mastodon client for Android, iOS and Desktop (JVM) |
-| [FlagAI](https://github.com/FlagAI-Open/FlagAI) | FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model. |
+| [tabnews.com.br](https://github.com/filipedeschamps/tabnews.com.br) | Conteúdos de valor concreto para quem vive de programação e tecnologia. |
+| [DiffusionDet](https://github.com/ShoufaChen/DiffusionDet) | PyTorch implementation of DiffusionDet (https://arxiv.org/abs/2211.09788) |
+| [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics |
 | [taxonomy](https://github.com/shadcn/taxonomy) | An open source application built using the new router, server components and everything new in Next.js 13. |
+| [notebooks](https://github.com/roboflow-ai/notebooks) | Set of Jupyter Notebooks linked to Roboflow Blogpost and used in our YouTube videos. |
+| [choiceof.dev](https://github.com/bdebon/choiceof.dev) | Developers have to cope with pretty hard choices every day. This is a collection of the most complex and funny choices. What will be yours? |
 | [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) | 计算机自学指南 |
-| [router](https://github.com/TanStack/router) | 🤖 Type-safe router w/ built-in caching & URL state management for JS/TS, React, Preact, Solid, Vue, Svelte and Angular |
-| [openpilot](https://github.com/commaai/openpilot) | openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models. |
-| [cli](https://github.com/teaxyz/cli) | the unified package manager (brew2) |
-| [GCTI](https://github.com/chronicle/GCTI) | None |
+| [InfoSec-Black-Friday](https://github.com/0x90n/InfoSec-Black-Friday) | All the deals for InfoSec related software/tools this Black Friday |
+| [Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals) | Black Friday Deals for macOS / iOS Software & Books |
+| [osint-brazuca-regex](https://github.com/osintbrazuca/osint-brazuca-regex) | Repositório criado com intuito de reunir expressões regulares dentro do contexto Brasil |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
