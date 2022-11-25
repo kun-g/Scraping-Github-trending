@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [tabnews.com.br](https://github.com/filipedeschamps/tabnews.com.br) | Conteúdos de valor concreto para quem vive de programação e tecnologia. |
-| [DiffusionDet](https://github.com/ShoufaChen/DiffusionDet) | PyTorch implementation of DiffusionDet (https://arxiv.org/abs/2211.09788) |
-| [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics |
-| [taxonomy](https://github.com/shadcn/taxonomy) | An open source application built using the new router, server components and everything new in Next.js 13. |
-| [notebooks](https://github.com/roboflow-ai/notebooks) | Set of Jupyter Notebooks linked to Roboflow Blogpost and used in our YouTube videos. |
+| [d2](https://github.com/terrastruct/d2) | D2 is a modern diagram scripting language that turns text to diagrams. |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch! |
 | [choiceof.dev](https://github.com/bdebon/choiceof.dev) | Developers have to cope with pretty hard choices every day. This is a collection of the most complex and funny choices. What will be yours? |
-| [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) | 计算机自学指南 |
-| [InfoSec-Black-Friday](https://github.com/0x90n/InfoSec-Black-Friday) | All the deals for InfoSec related software/tools this Black Friday |
-| [Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals) | Black Friday Deals for macOS / iOS Software & Books |
-| [osint-brazuca-regex](https://github.com/osintbrazuca/osint-brazuca-regex) | Repositório criado com intuito de reunir expressões regulares dentro do contexto Brasil |
+| [diplomacy_cicero](https://github.com/facebookresearch/diplomacy_cicero) | Code for Cicero, an AI agent that plays the game of Diplomacy with open-domain natural language negotiation. |
+| [Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) | Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc. |
+| [Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) | 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵 |
+| [new-pac](https://github.com/Alvin9999/new-pac) | 翻墙-科学上网、免费翻墙、免费科学上网、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，免费自由上网、fanqiang、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网 |
+| [hutool](https://github.com/dromara/hutool) | 🍬A set of tools that keep Java sweet. |
+| [leptos](https://github.com/gbj/leptos) | Build fast web applications with Rust. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
