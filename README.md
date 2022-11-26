@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [d2](https://github.com/terrastruct/d2) | D2 is a modern diagram scripting language that turns text to diagrams. |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch! |
-| [choiceof.dev](https://github.com/bdebon/choiceof.dev) | Developers have to cope with pretty hard choices every day. This is a collection of the most complex and funny choices. What will be yours? |
-| [diplomacy_cicero](https://github.com/facebookresearch/diplomacy_cicero) | Code for Cicero, an AI agent that plays the game of Diplomacy with open-domain natural language negotiation. |
+| [novu](https://github.com/novuhq/novu) | The Open-Source Notifications Platform. Add a working notification center to your app in minutes. 🚀 |
+| [finch](https://github.com/runfinch/finch) | The Finch CLI an open source client for container development |
+| [TodoApi](https://github.com/davidfowl/TodoApi) | ASP.NET Core API with JWT authentication and authorization |
 | [Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) | Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc. |
-| [Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) | 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵 |
-| [new-pac](https://github.com/Alvin9999/new-pac) | 翻墙-科学上网、免费翻墙、免费科学上网、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，免费自由上网、fanqiang、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网 |
-| [hutool](https://github.com/dromara/hutool) | 🍬A set of tools that keep Java sweet. |
-| [leptos](https://github.com/gbj/leptos) | Build fast web applications with Rust. |
+| [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page |
+| [diplomacy_cicero](https://github.com/facebookresearch/diplomacy_cicero) | Code for Cicero, an AI agent that plays the game of Diplomacy with open-domain natural language negotiation. |
+| [tabnews.com.br](https://github.com/filipedeschamps/tabnews.com.br) | Conteúdos de valor concreto para quem vive de programação e tecnologia. |
+| [open_clip](https://github.com/mlfoundations/open_clip) | An open source implementation of CLIP. |
+| [buzz](https://github.com/chidiwilliams/buzz) | Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper. |
+| [Hello-Python](https://github.com/mouredev/Hello-Python) | Python desde cero |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
