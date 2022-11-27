@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [novu](https://github.com/novuhq/novu) | The Open-Source Notifications Platform. Add a working notification center to your app in minutes. 🚀 |
-| [finch](https://github.com/runfinch/finch) | The Finch CLI an open source client for container development |
-| [TodoApi](https://github.com/davidfowl/TodoApi) | ASP.NET Core API with JWT authentication and authorization |
-| [Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) | Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc. |
+| [stablediffusion](https://github.com/Stability-AI/stablediffusion) | High-Resolution Image Synthesis with Latent Diffusion Models |
+| [TDengine](https://github.com/taosdata/TDengine) | TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps. |
+| [maui](https://github.com/dotnet/maui) | .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop. |
+| [awesome-go](https://github.com/avelino/awesome-go) | A curated list of awesome Go frameworks, libraries and software |
+| [playPiano](https://github.com/gulihua10010/playPiano) | Java弹奏钢琴乐曲 |
 | [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page |
-| [diplomacy_cicero](https://github.com/facebookresearch/diplomacy_cicero) | Code for Cicero, an AI agent that plays the game of Diplomacy with open-domain natural language negotiation. |
-| [tabnews.com.br](https://github.com/filipedeschamps/tabnews.com.br) | Conteúdos de valor concreto para quem vive de programação e tecnologia. |
-| [open_clip](https://github.com/mlfoundations/open_clip) | An open source implementation of CLIP. |
-| [buzz](https://github.com/chidiwilliams/buzz) | Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper. |
-| [Hello-Python](https://github.com/mouredev/Hello-Python) | Python desde cero |
+| [sniffnet](https://github.com/GyulyVGC/sniffnet) | Cross-platform application to monitor your network traffic with ease |
+| [cairo](https://github.com/starkware-libs/cairo) | Cairo is the first Turing-complete language for creating provable programs for general computation. |
+| [novu](https://github.com/novuhq/novu) | The Open-Source Notifications Platform. Add a working notification center to your app in minutes. 🚀 |
+| [Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) | Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
