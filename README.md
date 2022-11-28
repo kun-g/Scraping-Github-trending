@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [stablediffusion](https://github.com/Stability-AI/stablediffusion) | High-Resolution Image Synthesis with Latent Diffusion Models |
 | [TDengine](https://github.com/taosdata/TDengine) | TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps. |
-| [maui](https://github.com/dotnet/maui) | .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop. |
-| [awesome-go](https://github.com/avelino/awesome-go) | A curated list of awesome Go frameworks, libraries and software |
-| [playPiano](https://github.com/gulihua10010/playPiano) | Java弹奏钢琴乐曲 |
+| [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI |
+| [torchscale](https://github.com/microsoft/torchscale) | Transformers at any scale |
+| [clash](https://github.com/Dreamacro/clash) | A rule-based tunnel in Go. |
+| [MirrorX](https://github.com/MirrorX-Desktop/MirrorX) | Secure, Fast and Light remote desktop & file manager tool powered by Tauri and egui. |
 | [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page |
-| [sniffnet](https://github.com/GyulyVGC/sniffnet) | Cross-platform application to monitor your network traffic with ease |
-| [cairo](https://github.com/starkware-libs/cairo) | Cairo is the first Turing-complete language for creating provable programs for general computation. |
-| [novu](https://github.com/novuhq/novu) | The Open-Source Notifications Platform. Add a working notification center to your app in minutes. 🚀 |
-| [Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) | Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc. |
+| [TodoApi](https://github.com/davidfowl/TodoApi) | ASP.NET Core API with JWT authentication and authorization |
+| [stash](https://github.com/stashapp/stash) | An organizer for your porn, written in Go |
+| [java-design-patterns](https://github.com/iluwatar/java-design-patterns) | Design patterns implemented in Java |
+| [playPiano](https://github.com/gulihua10010/playPiano) | Java弹奏钢琴乐曲 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
