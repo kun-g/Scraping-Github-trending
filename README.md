@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [TDengine](https://github.com/taosdata/TDengine) | TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps. |
-| [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI |
 | [torchscale](https://github.com/microsoft/torchscale) | Transformers at any scale |
-| [clash](https://github.com/Dreamacro/clash) | A rule-based tunnel in Go. |
-| [MirrorX](https://github.com/MirrorX-Desktop/MirrorX) | Secure, Fast and Light remote desktop & file manager tool powered by Tauri and egui. |
-| [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page |
-| [TodoApi](https://github.com/davidfowl/TodoApi) | ASP.NET Core API with JWT authentication and authorization |
-| [stash](https://github.com/stashapp/stash) | An organizer for your porn, written in Go |
+| [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI |
 | [java-design-patterns](https://github.com/iluwatar/java-design-patterns) | Design patterns implemented in Java |
-| [playPiano](https://github.com/gulihua10010/playPiano) | Java弹奏钢琴乐曲 |
+| [mindsdb](https://github.com/mindsdb/mindsdb) | In-Database Machine Learning |
+| [TodoApi](https://github.com/davidfowl/TodoApi) | Todo application with ASP.NET Core Blazor WASM, Minimal APIs and Authentication |
+| [JavaScript30](https://github.com/wesbos/JavaScript30) | 30 Day Vanilla JS Challenge |
+| [awesome-cto](https://github.com/kuchin/awesome-cto) | A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups |
+| [professional-programming](https://github.com/charlax/professional-programming) | A collection of learning resources for curious software engineers |
+| [godot](https://github.com/godotengine/godot) | Godot Engine – Multi-platform 2D and 3D game engine |
+| [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
