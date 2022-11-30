@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [torchscale](https://github.com/microsoft/torchscale) | Transformers at any scale |
-| [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI |
-| [java-design-patterns](https://github.com/iluwatar/java-design-patterns) | Design patterns implemented in Java |
-| [mindsdb](https://github.com/mindsdb/mindsdb) | In-Database Machine Learning |
-| [TodoApi](https://github.com/davidfowl/TodoApi) | Todo application with ASP.NET Core Blazor WASM, Minimal APIs and Authentication |
-| [JavaScript30](https://github.com/wesbos/JavaScript30) | 30 Day Vanilla JS Challenge |
+| [mangle](https://github.com/google/mangle) | None |
+| [rune](https://github.com/google/rune) | Rune is a programming language developed to test ideas for improving security and efficiency. |
 | [awesome-cto](https://github.com/kuchin/awesome-cto) | A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups |
-| [professional-programming](https://github.com/charlax/professional-programming) | A collection of learning resources for curious software engineers |
-| [godot](https://github.com/godotengine/godot) | Godot Engine – Multi-platform 2D and 3D game engine |
-| [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
+| [whisper.cpp](https://github.com/ggerganov/whisper.cpp) | Port of OpenAI's Whisper model in C/C++ |
+| [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) | 计算机自学指南 |
+| [Voron-Tap](https://github.com/VoronDesign/Voron-Tap) | None |
+| [diffusion-models-class](https://github.com/huggingface/diffusion-models-class) | Materials for the Hugging Face Diffusion Models Course |
+| [bulletproof-react](https://github.com/alan2207/bulletproof-react) | 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications. |
+| [stash](https://github.com/stashapp/stash) | An organizer for your porn, written in Go |
+| [hackingtool](https://github.com/Z4nzu/hackingtool) | ALL IN ONE Hacking Tool For Hackers |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
