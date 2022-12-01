@@ -43,12 +43,12 @@
 | :----: | :----: |
 | [mastodon](https://github.com/mastodon/mastodon) | Your self-hosted, globally interconnected microblogging community |
 | [stash](https://github.com/stashapp/stash) | An organizer for your porn, written in Go |
-| [taxonomy](https://github.com/shadcn/taxonomy) | An open source application built using the new router, server components and everything new in Next.js 13. |
 | [tinygrad](https://github.com/geohot/tinygrad) | You like pytorch? You like micrograd? You love tinygrad! ❤️ |
-| [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) | 🎆Interactive Online Platform that Visualizes Algorithms from Code |
+| [Ryujinx](https://github.com/Ryujinx/Ryujinx) | Experimental Nintendo Switch Emulator written in C# |
+| [whisper.cpp](https://github.com/ggerganov/whisper.cpp) | Port of OpenAI's Whisper model in C/C++ |
 | [lama-cleaner](https://github.com/Sanster/lama-cleaner) | Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures. |
 | [ColossalAI](https://github.com/hpcaitech/ColossalAI) | Colossal-AI: A Unified Deep Learning System for Big Model Era |
-| [vhs](https://github.com/charmbracelet/vhs) | Your CLI home video recorder 📼 |
 | [tools](https://github.com/rome/tools) | Unified developer tools for JavaScript, TypeScript, and the web |
-| [jeecg-boot](https://github.com/jeecgboot/jeecg-boot) | ⭐️「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。 |
+| [palera1n](https://github.com/palera1n/palera1n) | iOS 15.0-15.7.1 (semi-)tethered checkm8 "jailbreak" |
+| [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page |
 <!-- END OF MONTHLY_TOP10_REPOS -->
