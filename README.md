@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [leptos](https://github.com/gbj/leptos) | Build fast web applications with Rust. |
-| [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) | 计算机自学指南 |
-| [awesome-cto](https://github.com/kuchin/awesome-cto) | A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups |
-| [diffusion-models-class](https://github.com/huggingface/diffusion-models-class) | Materials for the Hugging Face Diffusion Models Course |
-| [hackingtool](https://github.com/Z4nzu/hackingtool) | ALL IN ONE Hacking Tool For Hackers |
+| [go-coffeeshop](https://github.com/thangchung/go-coffeeshop) | ☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment |
+| [folly](https://github.com/facebook/folly) | An open-source C++ library developed and used at Facebook. |
 | [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) | 🔗 Some useful websites for programmers. |
+| [jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch! |
+| [snarkOS](https://github.com/AleoHQ/snarkOS) | A Decentralized Operating System for ZK Applications |
+| [xManager-Spotify](https://github.com/xManager-v2/xManager-Spotify) | An android application where you can manage and install all versions of the spotify app. |
+| [accompanist](https://github.com/google/accompanist) | A collection of extension libraries for Jetpack Compose |
 | [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | The communications platform that puts data protection first. |
-| [grafana](https://github.com/grafana/grafana) | The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. |
-| [cheat.sh](https://github.com/chubin/cheat.sh) | the only cheat sheet you need |
-| [awesome-forensics](https://github.com/cugu/awesome-forensics) | A curated list of awesome forensic analysis tools and resources |
+| [BetterDisplay](https://github.com/waydabber/BetterDisplay) | Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, dummy displays, PIP and lots more! |
+| [mmyolo](https://github.com/open-mmlab/mmyolo) | OpenMMLab YOLO series toolbox and benchmark |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
