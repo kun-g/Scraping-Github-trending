@@ -42,13 +42,13 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [mastodon](https://github.com/mastodon/mastodon) | Your self-hosted, globally interconnected microblogging community |
-| [stash](https://github.com/stashapp/stash) | An organizer for your porn, written in Go |
-| [tinygrad](https://github.com/geohot/tinygrad) | You like pytorch? You like micrograd? You love tinygrad! ❤️ |
-| [Ryujinx](https://github.com/Ryujinx/Ryujinx) | Experimental Nintendo Switch Emulator written in C# |
 | [whisper.cpp](https://github.com/ggerganov/whisper.cpp) | Port of OpenAI's Whisper model in C/C++ |
-| [lama-cleaner](https://github.com/Sanster/lama-cleaner) | Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures. |
+| [Ryujinx](https://github.com/Ryujinx/Ryujinx) | Experimental Nintendo Switch Emulator written in C# |
 | [ColossalAI](https://github.com/hpcaitech/ColossalAI) | Colossal-AI: A Unified Deep Learning System for Big Model Era |
 | [tools](https://github.com/rome/tools) | Unified developer tools for JavaScript, TypeScript, and the web |
+| [tinygrad](https://github.com/geohot/tinygrad) | You like pytorch? You like micrograd? You love tinygrad! ❤️ |
 | [palera1n](https://github.com/palera1n/palera1n) | iOS 15.0-15.7.1 (semi-)tethered checkm8 "jailbreak" |
+| [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) | ⚙️ NGINX config generator on steroids 💉 |
 | [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page |
+| [diagrams](https://github.com/mingrammer/diagrams) | 🎨 Diagram as Code for prototyping cloud system architectures |
 <!-- END OF MONTHLY_TOP10_REPOS -->
