@@ -25,15 +25,15 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [memos](https://github.com/usememos/memos) | An open-source, self-hosted memo hub with knowledge management and collaboration. |
-| [cheat.sh](https://github.com/chubin/cheat.sh) | the only cheat sheet you need |
 | [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) | 计算机自学指南 |
-| [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. |
-| [sapling](https://github.com/facebook/sapling) | A Scalable, User-Friendly Source Control System. |
-| [mastodon](https://github.com/mastodon/mastodon) | Your self-hosted, globally interconnected microblogging community |
-| [jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch! |
-| [iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world |
-| [Flipper](https://github.com/UberGuidoZ/Flipper) | Playground (and dump) of stuff I make or modify for the Flipper Zero |
+| [leptos](https://github.com/gbj/leptos) | Build fast web applications with Rust. |
+| [stablediffusion](https://github.com/Stability-AI/stablediffusion) | High-Resolution Image Synthesis with Latent Diffusion Models |
+| [TodoApi](https://github.com/davidfowl/TodoApi) | Todo application with ASP.NET Core Blazor WASM, Minimal APIs and Authentication |
+| [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) | A modern and customizable python UI-library based on Tkinter |
+| [finch](https://github.com/runfinch/finch) | The Finch CLI an open source client for container development |
+| [folly](https://github.com/facebook/folly) | An open-source C++ library developed and used at Facebook. |
+| [Ryujinx](https://github.com/Ryujinx/Ryujinx) | Experimental Nintendo Switch Emulator written in C# |
+| [act](https://github.com/nektos/act) | Run your GitHub Actions locally 🚀 |
 | [whisper.cpp](https://github.com/ggerganov/whisper.cpp) | Port of OpenAI's Whisper model in C/C++ |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
