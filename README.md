@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) | Stable Diffusion with Core ML on Apple Silicon |
+| [InvokeAI](https://github.com/invoke-ai/InvokeAI) | This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, and multiple features and other enhancements. For more info, see the website link below. |
 | [go-coffeeshop](https://github.com/thangchung/go-coffeeshop) | ☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment |
 | [folly](https://github.com/facebook/folly) | An open-source C++ library developed and used at Facebook. |
-| [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) | 🔗 Some useful websites for programmers. |
-| [jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch! |
+| [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) | 计算机自学指南 |
+| [engineering-management](https://github.com/charlax/engineering-management) | A collection of inspiring resources related to engineering management and tech leadership |
+| [cal.com](https://github.com/calcom/cal.com) | Scheduling infrastructure for absolutely everyone. |
+| [hackingtool](https://github.com/Z4nzu/hackingtool) | ALL IN ONE Hacking Tool For Hackers |
+| [awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) | A collection of awesome resources related to the yearly Advent of Code challenge. |
 | [snarkOS](https://github.com/AleoHQ/snarkOS) | A Decentralized Operating System for ZK Applications |
-| [xManager-Spotify](https://github.com/xManager-v2/xManager-Spotify) | An android application where you can manage and install all versions of the spotify app. |
-| [accompanist](https://github.com/google/accompanist) | A collection of extension libraries for Jetpack Compose |
-| [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | The communications platform that puts data protection first. |
-| [BetterDisplay](https://github.com/waydabber/BetterDisplay) | Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, dummy displays, PIP and lots more! |
-| [mmyolo](https://github.com/open-mmlab/mmyolo) | OpenMMLab YOLO series toolbox and benchmark |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
