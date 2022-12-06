@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [InvokeAI](https://github.com/invoke-ai/InvokeAI) | This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, and multiple features and other enhancements. For more info, see the website link below. |
-| [ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) | Stable Diffusion with Core ML on Apple Silicon |
-| [snarkOS](https://github.com/AleoHQ/snarkOS) | A Decentralized Operating System for ZK Applications |
-| [misskey](https://github.com/misskey-dev/misskey) | 🌎 An interplanetary microblogging platform 🚀 |
-| [klipper](https://github.com/Klipper3d/klipper) | Klipper is a 3d-printer firmware |
+| [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) | Node.js client for the unofficial ChatGPT API. |
+| [bettercap](https://github.com/bettercap/bettercap) | The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks. |
+| [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) | ChatGPT for Mac, living in your menubar. |
 | [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) | 计算机自学指南 |
-| [whatsapp-gpt](https://github.com/danielgross/whatsapp-gpt) | None |
-| [awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) | 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新 |
-| [Book4_Power-of-Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix) | Book_4_《矩阵力量》 | 鸢尾花书：从加减乘除到机器学习；本册有，584幅图，81个代码文件，其中18个Streamlit App；状态：清华社五审五校中；Github稿件基本稳定，欢迎提意见，会及时修改 |
-| [go-coffeeshop](https://github.com/thangchung/go-coffeeshop) | ☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment |
+| [Ventoy](https://github.com/ventoy/Ventoy) | A new bootable USB solution. |
+| [Docker-OSX](https://github.com/sickcodes/Docker-OSX) | Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers. |
+| [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites |
+| [ChatGPT](https://github.com/acheong08/ChatGPT) | Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API. |
+| [xbb](https://github.com/liu673cn/xbb) | biubiu播放器 |
+| [chatgpt-api](https://github.com/taranjeet/chatgpt-api) | This repo is unofficial ChatGPT api. It is based on Daniel Gross's WhatsApp GPT |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
