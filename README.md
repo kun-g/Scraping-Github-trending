@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) | Node.js client for the unofficial ChatGPT API. |
-| [bettercap](https://github.com/bettercap/bettercap) | The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks. |
-| [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) | ChatGPT for Mac, living in your menubar. |
-| [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) | 计算机自学指南 |
-| [Ventoy](https://github.com/ventoy/Ventoy) | A new bootable USB solution. |
-| [Docker-OSX](https://github.com/sickcodes/Docker-OSX) | Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers. |
-| [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites |
+| [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) | A browser extension to display ChatGPT response alongside Google Search results |
+| [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) | A VSCode extension that allows you to use ChatGPT |
 | [ChatGPT](https://github.com/acheong08/ChatGPT) | Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API. |
-| [xbb](https://github.com/liu673cn/xbb) | biubiu播放器 |
-| [chatgpt-api](https://github.com/taranjeet/chatgpt-api) | This repo is unofficial ChatGPT api. It is based on Daniel Gross's WhatsApp GPT |
+| [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) | ChatGPT for Mac, living in your menubar. |
+| [monica](https://github.com/monicahq/monica) | Personal CRM. Remember everything about your friends, family and business relationships. |
+| [aoc-gpt](https://github.com/max-sixty/aoc-gpt) | Solve Advent of Code puzzles with GPT-3 |
+| [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) | Node.js client for the unofficial ChatGPT API. |
+| [chatGPT-telegram-bot](https://github.com/altryne/chatGPT-telegram-bot) | This is a very early attempt at having chatGPT work within a telegram bot |
+| [chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) | Run your own GPTChat Telegram bot, with a single command! |
+| [CS-Base](https://github.com/xiaolincoder/CS-Base) | 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
