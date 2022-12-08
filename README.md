@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) | A browser extension to display ChatGPT response alongside Google Search results |
-| [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) | A VSCode extension that allows you to use ChatGPT |
+| [PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) | ⚡️ TLS-based ChatGPT API with auto token regeneration, conversation tracking, proxy support and more. |
 | [ChatGPT](https://github.com/acheong08/ChatGPT) | Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API. |
+| [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) | Node.js client for the unofficial ChatGPT API. 🔥 |
 | [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) | ChatGPT for Mac, living in your menubar. |
-| [monica](https://github.com/monicahq/monica) | Personal CRM. Remember everything about your friends, family and business relationships. |
-| [aoc-gpt](https://github.com/max-sixty/aoc-gpt) | Solve Advent of Code puzzles with GPT-3 |
-| [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) | Node.js client for the unofficial ChatGPT API. |
-| [chatGPT-telegram-bot](https://github.com/altryne/chatGPT-telegram-bot) | This is a very early attempt at having chatGPT work within a telegram bot |
-| [chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) | Run your own GPTChat Telegram bot, with a single command! |
+| [Gepetto](https://github.com/JusticeRage/Gepetto) | IDA plugin which queries OpenAI's davinci-003 language model to speed up reverse-engineering |
+| [chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension) | A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet. |
 | [CS-Base](https://github.com/xiaolincoder/CS-Base) | 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com |
+| [ChineseAiDungeonChatGPT](https://github.com/bupticybee/ChineseAiDungeonChatGPT) | 中文版的ai地牢，直接使用的openai的ChatGPT api作为讲故事的模型。 |
+| [chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper) | API for interacting with ChatGPT using Python and from Shell. |
+| [chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) | Run your own GPTChat Telegram bot, with a single command! |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
