@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) | ⚡️ TLS-based ChatGPT API with auto token regeneration, conversation tracking, proxy support and more. |
+| [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) | Use ChatGPT On Wechat via wechaty |
 | [ChatGPT](https://github.com/acheong08/ChatGPT) | Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API. |
-| [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) | Node.js client for the unofficial ChatGPT API. 🔥 |
-| [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) | ChatGPT for Mac, living in your menubar. |
-| [Gepetto](https://github.com/JusticeRage/Gepetto) | IDA plugin which queries OpenAI's davinci-003 language model to speed up reverse-engineering |
-| [chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension) | A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet. |
-| [CS-Base](https://github.com/xiaolincoder/CS-Base) | 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com |
+| [whisper.cpp](https://github.com/ggerganov/whisper.cpp) | Port of OpenAI's Whisper model in C/C++ |
+| [whisper](https://github.com/openai/whisper) | Robust Speech Recognition via Large-Scale Weak Supervision |
 | [ChineseAiDungeonChatGPT](https://github.com/bupticybee/ChineseAiDungeonChatGPT) | 中文版的ai地牢，直接使用的openai的ChatGPT api作为讲故事的模型。 |
-| [chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper) | API for interacting with ChatGPT using Python and from Shell. |
-| [chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) | Run your own GPTChat Telegram bot, with a single command! |
+| [architecture-templates](https://github.com/android/architecture-templates) | None |
+| [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
+| [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) | Node.js client for the unofficial ChatGPT API. 🔥 |
+| [PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) | ⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more. |
+| [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) | ⭐️ Companies that don't have a broken hiring process |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
