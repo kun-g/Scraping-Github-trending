@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) | Use ChatGPT On Wechat via wechaty |
-| [whisper.cpp](https://github.com/ggerganov/whisper.cpp) | Port of OpenAI's Whisper model in C/C++ |
-| [react-router](https://github.com/remix-run/react-router) | Declarative routing for React |
-| [ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot) | ChatGPT for wechat |
-| [reth](https://github.com/paradigmxyz/reth) | Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust |
 | [wechatbot](https://github.com/869413421/wechatbot) | 为个人微信接入ChatGPT |
-| [PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) | ⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more. |
-| [surrealdb](https://github.com/surrealdb/surrealdb) | A scalable, distributed, collaborative, document-graph database, for the realtime web |
-| [chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension) | A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet. |
+| [codon](https://github.com/exaloop/codon) | A high-performance, zero-overhead, extensible Python compiler using LLVM |
+| [leetcode](https://github.com/doocs/leetcode) | 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解 |
+| [cli](https://github.com/teaxyz/cli) | the unified package manager (brew2) |
 | [Hippy](https://github.com/Tencent/Hippy) | Hippy is designed to easily build cross-platform dynamic apps. 👏 |
+| [lora](https://github.com/cloneofsimo/lora) | Using Low-rank adaptation to quickly fine-tune diffusion models. |
+| [ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot) | ChatGPT for wechat |
+| [PathOfBuilding](https://github.com/PathOfBuildingCommunity/PathOfBuilding) | Offline build planner for Path of Exile. |
+| [surrealdb](https://github.com/surrealdb/surrealdb) | A scalable, distributed, collaborative, document-graph database, for the realtime web |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
