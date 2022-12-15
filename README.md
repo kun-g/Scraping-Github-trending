@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [photoshot](https://github.com/shinework/photoshot) | None |
-| [wechat-bot](https://github.com/wangrongding/wechat-bot) | 🤖一个基于OpenAi ChatGPT + WeChaty 实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等... |
-| [engine-sim](https://github.com/ange-yaghi/engine-sim) | Combustion engine simulator that generates realistic audio. |
 | [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | This repo includes ChatGPT promt curation to use ChatGPT better. |
-| [openwechat](https://github.com/eatmoreapple/openwechat) | golang版微信SDK |
-| [chatgpt-android](https://github.com/skydoves/chatgpt-android) | 📱 ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose. |
-| [uptime-kuma](https://github.com/louislam/uptime-kuma) | A fancy self-hosted monitoring tool |
-| [pytorch_forward_forward](https://github.com/mohammadpz/pytorch_forward_forward) | Implementation of Hinton's forward-forward (FF) algorithm - an alternative to back-propagation |
-| [nitda-blockchain-scholarship](https://github.com/calistus-igwilo/nitda-blockchain-scholarship) | Course materials for the NITDA Blockchain Scholarship |
-| [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) | Use ChatGPT On Wechat via wechaty |
+| [lora](https://github.com/cloneofsimo/lora) | Using Low-rank adaptation to quickly fine-tune diffusion models. |
+| [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) | 计算机自学指南 |
+| [polars](https://github.com/pola-rs/polars) | Fast multi-threaded, hybrid-streaming DataFrame library in Rust | Python | Node.js |
+| [palera1n](https://github.com/palera1n/palera1n) | iOS 15.0-16.2 (semi-)tethered checkm8 jailbreak |
+| [directus](https://github.com/directus/directus) | The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database. |
+| [fairseq](https://github.com/facebookresearch/fairseq) | Facebook AI Research Sequence-to-Sequence Toolkit written in Python. |
+| [sqlean](https://github.com/nalgeon/sqlean) | The ultimate set of SQLite extensions |
+| [JdBuyer](https://github.com/zas023/JdBuyer) | 京东抢购自动下单助手，GUI 支持 Windows 和 macOS |
+| [pytudes](https://github.com/norvig/pytudes) | Python programs, usually short, of considerable difficulty, to perfect particular skills. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
