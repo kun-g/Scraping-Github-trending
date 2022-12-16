@@ -1,0 +1,286 @@
+[
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/5702664",
+        "name": "Ross Wightman",
+        "repo": {
+            "description": "PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, Mo\u2026",
+            "name": "pytorch-image-models",
+            "url": "https://github.com/rwightman/pytorch-image-models"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/rwightman",
+        "username": "rwightman"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/303201",
+        "name": "James Newton-King",
+        "repo": {
+            "description": "Json.NET is a popular high-performance JSON framework for .NET",
+            "name": "Newtonsoft.Json",
+            "url": "https://github.com/JamesNK/Newtonsoft.Json"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/JamesNK",
+        "username": "JamesNK"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/27354907",
+        "name": "Shahed Nasser",
+        "repo": {
+            "description": "Code for Medusa B2B tutorial",
+            "name": "medusa-b2b",
+            "url": "https://github.com/shahednasser/medusa-b2b"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/shahednasser",
+        "username": "shahednasser"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/456674",
+        "name": "Andrew Gallant",
+        "repo": {
+            "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+            "name": "ripgrep",
+            "url": "https://github.com/BurntSushi/ripgrep"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/BurntSushi",
+        "username": "BurntSushi"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1162160",
+        "name": "Rich Harris",
+        "repo": {
+            "description": "Straightforward project scaffolding",
+            "name": "degit",
+            "url": "https://github.com/Rich-Harris/degit"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/Rich-Harris",
+        "username": "Rich-Harris"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/3070389",
+        "name": "Norbert de Langen",
+        "repo": {
+            "description": "Require global variables",
+            "name": "global",
+            "url": "https://github.com/ndelangen/global"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/ndelangen",
+        "username": "ndelangen"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/249515",
+        "name": "Ha Thach",
+        "repo": {
+            "description": "An open source cross-platform USB stack for embedded system",
+            "name": "tinyusb",
+            "url": "https://github.com/hathach/tinyusb"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/hathach",
+        "username": "hathach"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/7413593",
+        "name": "Ariel Mashraki",
+        "repo": {
+            "description": "An overview of Go syntax and features.",
+            "name": "golang-cheat-sheet",
+            "url": "https://github.com/a8m/golang-cheat-sheet"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/a8m",
+        "username": "a8m"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/900523",
+        "name": "James Henry",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/JamesHenry",
+        "username": "JamesHenry"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/53356347",
+        "name": "Azure SDK Bot",
+        "repo": {
+            "description": "\u2615\ufe0f Azure SDK for Java API documentation repository. Content here is mostly auto-generated.",
+            "name": "azure-docs-sdk-java",
+            "url": "https://github.com/azure-sdk/azure-docs-sdk-java"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/azure-sdk",
+        "username": "azure-sdk"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/6011991",
+        "name": "Adam Sitnik",
+        "repo": {
+            "description": "A curated list of awesome .NET Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors\u2026",
+            "name": "awesome-dot-net-performance",
+            "url": "https://github.com/adamsitnik/awesome-dot-net-performance"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/adamsitnik",
+        "username": "adamsitnik"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/14009",
+        "name": "Leonid Bugaev",
+        "repo": {
+            "description": "GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your \u2026",
+            "name": "goreplay",
+            "url": "https://github.com/buger/goreplay"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/buger",
+        "username": "buger"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/29597",
+        "name": "Brian Vaughn",
+        "repo": {
+            "description": "React components for efficiently rendering large lists and tabular data",
+            "name": "react-virtualized",
+            "url": "https://github.com/bvaughn/react-virtualized"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/bvaughn",
+        "username": "bvaughn"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/46275",
+        "name": "Bob Nystrom",
+        "repo": {
+            "description": "Repository for the book \"Crafting Interpreters\"",
+            "name": "craftinginterpreters",
+            "url": "https://github.com/munificent/craftinginterpreters"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/munificent",
+        "username": "munificent"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/69536",
+        "name": "Ben Frederickson",
+        "repo": {
+            "description": "Sampling profiler for Python programs",
+            "name": "py-spy",
+            "url": "https://github.com/benfred/py-spy"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/benfred",
+        "username": "benfred"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/110123",
+        "name": "Paul Querna",
+        "repo": {
+            "description": "TOTP library for Go",
+            "name": "otp",
+            "url": "https://github.com/pquerna/otp"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/pquerna",
+        "username": "pquerna"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/11609620",
+        "name": "Niek Palm",
+        "repo": {
+            "description": "Generate docs for GitHub actions",
+            "name": "action-docs",
+            "url": "https://github.com/npalm/action-docs"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/npalm",
+        "username": "npalm"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1430078",
+        "name": "Arthur Vickers",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/ajcvickers",
+        "username": "ajcvickers"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1561955",
+        "name": "Miguel \u00c1ngel Dur\u00e1n",
+        "repo": {
+            "description": "Preguntas t\u00edpicas sobre React para entrevistas de trabajo \u269b\ufe0f",
+            "name": "preguntas-entrevista-react",
+            "url": "https://github.com/midudev/preguntas-entrevista-react"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/midudev",
+        "username": "midudev"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/17786731",
+        "name": "Hans-Kristian Arntzen",
+        "repo": {
+            "description": "Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation.",
+            "name": "vkd3d-proton",
+            "url": "https://github.com/HansKristian-Work/vkd3d-proton"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/HansKristian-Work",
+        "username": "HansKristian-Work"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1148717",
+        "name": "Emil Ernerfeldt",
+        "repo": {
+            "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
+            "name": "egui",
+            "url": "https://github.com/emilk/egui"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/emilk",
+        "username": "emilk"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/94284",
+        "name": "Evgeni Golov",
+        "repo": {
+            "description": "pure JS WiFi QR Code Generator",
+            "name": "qifi",
+            "url": "https://github.com/evgeni/qifi"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/evgeni",
+        "username": "evgeni"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/24469546",
+        "name": "Kyrielin",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/honkinglin",
+        "username": "honkinglin"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/611613",
+        "name": "Dominik G.",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/dominikg",
+        "username": "dominikg"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2902918",
+        "name": "Roman Khavronenko",
+        "repo": {
+            "description": "Http benchmark (kinda ab) with autoadjustment and charts based on fasthttp library",
+            "name": "fasthttploader",
+            "url": "https://github.com/hagen1778/fasthttploader"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/hagen1778",
+        "username": "hagen1778"
+    }
+]

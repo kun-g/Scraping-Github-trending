@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [blink](https://github.com/jart/blink) | tiniest x86-64-linux emulator |
+| [terminal](https://github.com/microsoft/terminal) | The new Windows Terminal and the original Windows console host, all in the same place! |
+| [noulith](https://github.com/betaveros/noulith) | *slaps roof of [programming language]* this bad boy can fit so much [syntax sugar] into it |
+| [playwright](https://github.com/microsoft/playwright) | Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. |
 | [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | This repo includes ChatGPT promt curation to use ChatGPT better. |
-| [lora](https://github.com/cloneofsimo/lora) | Using Low-rank adaptation to quickly fine-tune diffusion models. |
-| [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) | 计算机自学指南 |
-| [polars](https://github.com/pola-rs/polars) | Fast multi-threaded, hybrid-streaming DataFrame library in Rust | Python | Node.js |
-| [palera1n](https://github.com/palera1n/palera1n) | iOS 15.0-16.2 (semi-)tethered checkm8 jailbreak |
-| [directus](https://github.com/directus/directus) | The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database. |
-| [fairseq](https://github.com/facebookresearch/fairseq) | Facebook AI Research Sequence-to-Sequence Toolkit written in Python. |
-| [sqlean](https://github.com/nalgeon/sqlean) | The ultimate set of SQLite extensions |
-| [JdBuyer](https://github.com/zas023/JdBuyer) | 京东抢购自动下单助手，GUI 支持 Windows 和 macOS |
-| [pytudes](https://github.com/norvig/pytudes) | Python programs, usually short, of considerable difficulty, to perfect particular skills. |
+| [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | 🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。 |
+| [skypilot](https://github.com/skypilot-org/skypilot) | SkyPilot is a framework for easily running machine learning workloads on any cloud through a unified interface. |
+| [docked](https://github.com/rails/docked) | Running Rails from Docker for easy start to development |
+| [lossless-cut](https://github.com/mifi/lossless-cut) | The swiss army knife of lossless video/audio editing |
+| [xina520_official_jailbreak](https://github.com/jacksight/xina520_official_jailbreak) | This is the official download website for xina520's jailbreak (temporary) |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
