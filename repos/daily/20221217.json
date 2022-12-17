@@ -1,0 +1,882 @@
+[
+    {
+        "author": "google",
+        "avatar": "https://github.com/google.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/106129829",
+                "href": "https://github.com/another-rex",
+                "username": "another-rex"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/759062",
+                "href": "https://github.com/oliverchang",
+                "username": "oliverchang"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3151613",
+                "href": "https://github.com/G-Rath",
+                "username": "G-Rath"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/25180681",
+                "href": "https://github.com/renovate-bot",
+                "username": "renovate-bot"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/31844",
+                "href": "https://github.com/abhisek",
+                "username": "abhisek"
+            }
+        ],
+        "currentPeriodStars": 326,
+        "description": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
+        "forks": 78,
+        "fullname": "google/osv-scanner",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "name": "osv-scanner",
+        "stars": 1278,
+        "url": "https://github.com/google/osv-scanner"
+    },
+    {
+        "author": "dudykr",
+        "avatar": "https://github.com/dudykr.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/29931815",
+                "href": "https://github.com/kdy1",
+                "username": "kdy1"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/34997667",
+                "href": "https://github.com/littledivy",
+                "username": "littledivy"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/18101008",
+                "href": "https://github.com/camc314",
+                "username": "camc314"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/49502170",
+                "href": "https://github.com/iheyunfei",
+                "username": "iheyunfei"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/49385012",
+                "href": "https://github.com/hyp3rflow",
+                "username": "hyp3rflow"
+            }
+        ],
+        "currentPeriodStars": 73,
+        "description": "Speedy TypeScript type checker",
+        "forks": 104,
+        "fullname": "dudykr/stc",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "name": "stc",
+        "stars": 3550,
+        "url": "https://github.com/dudykr/stc"
+    },
+    {
+        "author": "Jxck-S",
+        "avatar": "https://github.com/Jxck-S.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/20673070",
+                "href": "https://github.com/Jxck-S",
+                "username": "Jxck-S"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7267438",
+                "href": "https://github.com/Seth10001",
+                "username": "Seth10001"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7630968",
+                "href": "https://github.com/makrsmark",
+                "username": "makrsmark"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/79069172",
+                "href": "https://github.com/rcbonz",
+                "username": "rcbonz"
+            }
+        ],
+        "currentPeriodStars": 58,
+        "description": "Notify If a selected plane has taken off or landed using OpenSky or ADS-B Exchange data. Compares older data to newer data to determine if a landing or takeoff has occurred. As well as nav modes, emergency squawk and resolution advisory notifications. Can output to Twitter, Discord, and Pushbullet",
+        "forks": 425,
+        "fullname": "Jxck-S/plane-notify",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "plane-notify",
+        "stars": 2170,
+        "url": "https://github.com/Jxck-S/plane-notify"
+    },
+    {
+        "author": "GrowingGit",
+        "avatar": "https://github.com/GrowingGit.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/21018904",
+                "href": "https://github.com/GrowingGit",
+                "username": "GrowingGit"
+            }
+        ],
+        "currentPeriodStars": 604,
+        "description": "\ud83c\udde8\ud83c\uddf3 GitHub\u4e2d\u6587\u6392\u884c\u699c\uff0c\u5404\u8bed\u8a00\u5206\u8bbe\u300c\u8f6f\u4ef6 | \u8d44\u6599\u300d\u699c\u5355\uff0c\u7cbe\u51c6\u5b9a\u4f4d\u4e2d\u6587\u597d\u9879\u76ee\u3002\u5404\u53d6\u6240\u9700\uff0c\u9ad8\u6548\u5b66\u4e60\u3002",
+        "forks": 7820,
+        "fullname": "GrowingGit/GitHub-Chinese-Top-Charts",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "name": "GitHub-Chinese-Top-Charts",
+        "stars": 53754,
+        "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts"
+    },
+    {
+        "author": "sveltejs",
+        "avatar": "https://github.com/sveltejs.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1162160",
+                "href": "https://github.com/Rich-Harris",
+                "username": "Rich-Harris"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/322311",
+                "href": "https://github.com/benmccann",
+                "username": "benmccann"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5968653",
+                "href": "https://github.com/dummdidumm",
+                "username": "dummdidumm"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8156777",
+                "href": "https://github.com/ignatiusmb",
+                "username": "ignatiusmb"
+            }
+        ],
+        "currentPeriodStars": 101,
+        "description": "web development, streamlined",
+        "forks": 1088,
+        "fullname": "sveltejs/kit",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "name": "kit",
+        "stars": 11836,
+        "url": "https://github.com/sveltejs/kit"
+    },
+    {
+        "author": "DovAmir",
+        "avatar": "https://github.com/DovAmir.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2938156",
+                "href": "https://github.com/DovAmir",
+                "username": "DovAmir"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/846943",
+                "href": "https://github.com/LeoColomb",
+                "username": "LeoColomb"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/54952497",
+                "href": "https://github.com/stjepanjurekovic",
+                "username": "stjepanjurekovic"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/754849",
+                "href": "https://github.com/cy6erskunk",
+                "username": "cy6erskunk"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/11990726",
+                "href": "https://github.com/zufardhiyaulhaq",
+                "username": "zufardhiyaulhaq"
+            }
+        ],
+        "currentPeriodStars": 361,
+        "description": "A curated list of software and architecture related design patterns.",
+        "forks": 1840,
+        "fullname": "DovAmir/awesome-design-patterns",
+        "language": null,
+        "languageColor": null,
+        "name": "awesome-design-patterns",
+        "stars": 22155,
+        "url": "https://github.com/DovAmir/awesome-design-patterns"
+    },
+    {
+        "author": "jlevy",
+        "avatar": "https://github.com/jlevy.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2058167",
+                "href": "https://github.com/jlevy",
+                "username": "jlevy"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1614009",
+                "href": "https://github.com/petk",
+                "username": "petk"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8098452",
+                "href": "https://github.com/Psycho7",
+                "username": "Psycho7"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2622152",
+                "href": "https://github.com/ceoaliongroo",
+                "username": "ceoaliongroo"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1155336",
+                "href": "https://github.com/stepan0904",
+                "username": "stepan0904"
+            }
+        ],
+        "currentPeriodStars": 175,
+        "description": "Master the command line, in one page",
+        "forks": 12513,
+        "fullname": "jlevy/the-art-of-command-line",
+        "language": null,
+        "languageColor": null,
+        "name": "the-art-of-command-line",
+        "stars": 122580,
+        "url": "https://github.com/jlevy/the-art-of-command-line"
+    },
+    {
+        "author": "zas023",
+        "avatar": "https://github.com/zas023.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/16275016",
+                "href": "https://github.com/zas023",
+                "username": "zas023"
+            }
+        ],
+        "currentPeriodStars": 71,
+        "description": "\u4eac\u4e1c\u62a2\u8d2d\u81ea\u52a8\u4e0b\u5355\u52a9\u624b\uff0cGUI \u652f\u6301 Windows \u548c macOS",
+        "forks": 242,
+        "fullname": "zas023/JdBuyer",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "JdBuyer",
+        "stars": 914,
+        "url": "https://github.com/zas023/JdBuyer"
+    },
+    {
+        "author": "Samsar4",
+        "avatar": "https://github.com/Samsar4.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3259997",
+                "href": "https://github.com/Samsar4",
+                "username": "Samsar4"
+            }
+        ],
+        "currentPeriodStars": 103,
+        "description": "Practical Ethical Hacking Labs \ud83d\udde1\ud83d\udee1",
+        "forks": 202,
+        "fullname": "Samsar4/Ethical-Hacking-Labs",
+        "language": null,
+        "languageColor": null,
+        "name": "Ethical-Hacking-Labs",
+        "stars": 654,
+        "url": "https://github.com/Samsar4/Ethical-Hacking-Labs"
+    },
+    {
+        "author": "microsoft",
+        "avatar": "https://github.com/microsoft.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1450004",
+                "href": "https://github.com/jlooper",
+                "username": "jlooper"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/29026887",
+                "href": "https://github.com/ManuSquall",
+                "username": "ManuSquall"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/54913971",
+                "href": "https://github.com/San1ay",
+                "username": "San1ay"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3609003",
+                "href": "https://github.com/silverskyvicto",
+                "username": "silverskyvicto"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/64187129",
+                "href": "https://github.com/EugeneGohh",
+                "username": "EugeneGohh"
+            }
+        ],
+        "currentPeriodStars": 70,
+        "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+        "forks": 9563,
+        "fullname": "microsoft/Web-Dev-For-Beginners",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "name": "Web-Dev-For-Beginners",
+        "stars": 61316,
+        "url": "https://github.com/microsoft/Web-Dev-For-Beginners"
+    },
+    {
+        "author": "trekhleb",
+        "avatar": "https://github.com/trekhleb.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3000285",
+                "href": "https://github.com/trekhleb",
+                "username": "trekhleb"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/14953640",
+                "href": "https://github.com/alexstulov",
+                "username": "alexstulov"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/29200109",
+                "href": "https://github.com/m-maksyutin",
+                "username": "m-maksyutin"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/13618860",
+                "href": "https://github.com/appleJax",
+                "username": "appleJax"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2787876",
+                "href": "https://github.com/albertstill",
+                "username": "albertstill"
+            }
+        ],
+        "currentPeriodStars": 82,
+        "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+        "forks": 26094,
+        "fullname": "trekhleb/javascript-algorithms",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "name": "javascript-algorithms",
+        "stars": 156979,
+        "url": "https://github.com/trekhleb/javascript-algorithms"
+    },
+    {
+        "author": "mtdvio",
+        "avatar": "https://github.com/mtdvio.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1062491",
+                "href": "https://github.com/mr-mig",
+                "username": "mr-mig"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/24626419",
+                "href": "https://github.com/YellowFoxH4XOR",
+                "username": "YellowFoxH4XOR"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2732120",
+                "href": "https://github.com/espozbob",
+                "username": "espozbob"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/29834520",
+                "href": "https://github.com/wa008",
+                "username": "wa008"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/9625273",
+                "href": "https://github.com/diendv96",
+                "username": "diendv96"
+            }
+        ],
+        "currentPeriodStars": 143,
+        "description": "A collection of (mostly) technical things every software developer should know about",
+        "forks": 6283,
+        "fullname": "mtdvio/every-programmer-should-know",
+        "language": null,
+        "languageColor": null,
+        "name": "every-programmer-should-know",
+        "stars": 66151,
+        "url": "https://github.com/mtdvio/every-programmer-should-know"
+    },
+    {
+        "author": "alibaba",
+        "avatar": "https://github.com/alibaba.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/38515034",
+                "href": "https://github.com/dyuyang",
+                "username": "dyuyang"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/115977247",
+                "href": "https://github.com/xuxijie",
+                "username": "xuxijie"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/590717",
+                "href": "https://github.com/ruijieguo",
+                "username": "ruijieguo"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/9464805",
+                "href": "https://github.com/lixuefeng123",
+                "username": "lixuefeng123"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/13583768",
+                "href": "https://github.com/alibaba-oss",
+                "username": "alibaba-oss"
+            }
+        ],
+        "currentPeriodStars": 15,
+        "description": null,
+        "forks": 170,
+        "fullname": "alibaba/havenask",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "name": "havenask",
+        "stars": 862,
+        "url": "https://github.com/alibaba/havenask"
+    },
+    {
+        "author": "skypilot-org",
+        "avatar": "https://github.com/skypilot-org.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6753189",
+                "href": "https://github.com/Michaelvll",
+                "username": "Michaelvll"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/592670",
+                "href": "https://github.com/concretevitamin",
+                "username": "concretevitamin"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1206058",
+                "href": "https://github.com/infwinston",
+                "username": "infwinston"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/20640975",
+                "href": "https://github.com/michaelzhiluo",
+                "username": "michaelzhiluo"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4416605",
+                "href": "https://github.com/romilbhardwaj",
+                "username": "romilbhardwaj"
+            }
+        ],
+        "currentPeriodStars": 235,
+        "description": "SkyPilot is a framework for easily running machine learning workloads on any cloud through a unified interface.",
+        "forks": 50,
+        "fullname": "skypilot-org/skypilot",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "skypilot",
+        "stars": 1151,
+        "url": "https://github.com/skypilot-org/skypilot"
+    },
+    {
+        "author": "coinspect",
+        "avatar": "https://github.com/coinspect.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/108370058",
+                "href": "https://github.com/nine-december",
+                "username": "nine-december"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3151940",
+                "href": "https://github.com/joaquinlpereyra",
+                "username": "joaquinlpereyra"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/425833",
+                "href": "https://github.com/donequis",
+                "username": "donequis"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/58338020",
+                "href": "https://github.com/tiassumpcao",
+                "username": "tiassumpcao"
+            }
+        ],
+        "currentPeriodStars": 71,
+        "description": "Learn & Contribute on previously exploited vulnerabilities across several EVM projects.",
+        "forks": 22,
+        "fullname": "coinspect/learn-evm-attacks",
+        "language": "Solidity",
+        "languageColor": "#AA6746",
+        "name": "learn-evm-attacks",
+        "stars": 286,
+        "url": "https://github.com/coinspect/learn-evm-attacks"
+    },
+    {
+        "author": "ossu",
+        "avatar": "https://github.com/ossu.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7672473",
+                "href": "https://github.com/eneskemalergin",
+                "username": "eneskemalergin"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/18407643",
+                "href": "https://github.com/waciumawanjohi",
+                "username": "waciumawanjohi"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4119931",
+                "href": "https://github.com/ericdouglas",
+                "username": "ericdouglas"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/9327721",
+                "href": "https://github.com/Adrianzo",
+                "username": "Adrianzo"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2154218",
+                "href": "https://github.com/AndyZhuang",
+                "username": "AndyZhuang"
+            }
+        ],
+        "currentPeriodStars": 89,
+        "description": "\ud83d\udd2c Path to a free self-taught education in Bioinformatics!",
+        "forks": 648,
+        "fullname": "ossu/bioinformatics",
+        "language": null,
+        "languageColor": null,
+        "name": "bioinformatics",
+        "stars": 3370,
+        "url": "https://github.com/ossu/bioinformatics"
+    },
+    {
+        "author": "nvm-sh",
+        "avatar": "https://github.com/nvm-sh.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/45469",
+                "href": "https://github.com/ljharb",
+                "username": "ljharb"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3691490",
+                "href": "https://github.com/PeterDaveHello",
+                "username": "PeterDaveHello"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/89353",
+                "href": "https://github.com/creationix",
+                "username": "creationix"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/351038",
+                "href": "https://github.com/koenpunt",
+                "username": "koenpunt"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2123375",
+                "href": "https://github.com/lukechilds",
+                "username": "lukechilds"
+            }
+        ],
+        "currentPeriodStars": 35,
+        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+        "forks": 6713,
+        "fullname": "nvm-sh/nvm",
+        "language": "Shell",
+        "languageColor": "#89e051",
+        "name": "nvm",
+        "stars": 63323,
+        "url": "https://github.com/nvm-sh/nvm"
+    },
+    {
+        "author": "nostr-protocol",
+        "avatar": "https://github.com/nostr-protocol.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1653275",
+                "href": "https://github.com/fiatjaf",
+                "username": "fiatjaf"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/57707",
+                "href": "https://github.com/scsibug",
+                "username": "scsibug"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/65864",
+                "href": "https://github.com/melvincarvalho",
+                "username": "melvincarvalho"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/18631614",
+                "href": "https://github.com/hieblmi",
+                "username": "hieblmi"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3998",
+                "href": "https://github.com/srid",
+                "username": "srid"
+            }
+        ],
+        "currentPeriodStars": 151,
+        "description": "a truly censorship-resistant alternative to Twitter that has a chance of working",
+        "forks": 66,
+        "fullname": "nostr-protocol/nostr",
+        "language": null,
+        "languageColor": null,
+        "name": "nostr",
+        "stars": 2012,
+        "url": "https://github.com/nostr-protocol/nostr"
+    },
+    {
+        "author": "rocketseat-education",
+        "avatar": "https://github.com/rocketseat-education.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/50633599",
+                "href": "https://github.com/EliasGcf",
+                "username": "EliasGcf"
+            }
+        ],
+        "currentPeriodStars": 91,
+        "description": "Microsservi\u00e7o de notifica\u00e7\u00f5es desenvolvido no Ignite Lab 04 de Node.js",
+        "forks": 61,
+        "fullname": "rocketseat-education/ignite-lab-nodejs",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "ignite-lab-nodejs",
+        "stars": 192,
+        "url": "https://github.com/rocketseat-education/ignite-lab-nodejs"
+    },
+    {
+        "author": "forthespada",
+        "avatar": "https://github.com/forthespada.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/44971298",
+                "href": "https://github.com/forthespada",
+                "username": "forthespada"
+            }
+        ],
+        "currentPeriodStars": 64,
+        "description": "\ud83d\udd25\ud83d\udd25\u8d85\u8fc71000\u672c\u7684\u8ba1\u7b97\u673a\u7ecf\u5178\u4e66\u7c4d\u3001\u4e2a\u4eba\u7b14\u8bb0\u8d44\u6599\u4ee5\u53ca\u672c\u4eba\u5728\u5404\u5e73\u53f0\u53d1\u8868\u6587\u7ae0\u4e2d\u6240\u6d89\u53ca\u7684\u8d44\u6e90\u7b49\u3002\u4e66\u7c4d\u8d44\u6e90\u5305\u62ecC/C++\u3001Java\u3001Python\u3001Go\u8bed\u8a00\u3001\u6570\u636e\u7ed3\u6784\u4e0e\u7b97\u6cd5\u3001\u64cd\u4f5c\u7cfb\u7edf\u3001\u540e\u7aef\u67b6\u6784\u3001\u8ba1\u7b97\u673a\u7cfb\u7edf\u77e5\u8bc6\u3001\u6570\u636e\u5e93\u3001\u8ba1\u7b97\u673a\u7f51\u7edc\u3001\u8bbe\u8ba1\u6a21\u5f0f\u3001\u524d\u7aef\u3001\u6c47\u7f16\u4ee5\u53ca\u6821\u62db\u793e\u62db\u5404\u79cd\u9762\u7ecf~",
+        "forks": 2484,
+        "fullname": "forthespada/CS-Books",
+        "language": null,
+        "languageColor": null,
+        "name": "CS-Books",
+        "stars": 10245,
+        "url": "https://github.com/forthespada/CS-Books"
+    },
+    {
+        "author": "microsoft",
+        "avatar": "https://github.com/microsoft.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/189190",
+                "href": "https://github.com/DHowett",
+                "username": "DHowett"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/18356694",
+                "href": "https://github.com/zadjii-msft",
+                "username": "zadjii-msft"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/18221333",
+                "href": "https://github.com/miniksa",
+                "username": "miniksa"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2256941",
+                "href": "https://github.com/lhecker",
+                "username": "lhecker"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/11050425",
+                "href": "https://github.com/carlos-zamora",
+                "username": "carlos-zamora"
+            }
+        ],
+        "currentPeriodStars": 144,
+        "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+        "forks": 7603,
+        "fullname": "microsoft/terminal",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "name": "terminal",
+        "stars": 86568,
+        "url": "https://github.com/microsoft/terminal"
+    },
+    {
+        "author": "pola-rs",
+        "avatar": "https://github.com/pola-rs.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3023000",
+                "href": "https://github.com/ritchie46",
+                "username": "ritchie46"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3502351",
+                "href": "https://github.com/stinodego",
+                "username": "stinodego"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/11277667",
+                "href": "https://github.com/zundertj",
+                "username": "zundertj"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2613171",
+                "href": "https://github.com/alexander-beedie",
+                "username": "alexander-beedie"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1299177",
+                "href": "https://github.com/ghuls",
+                "username": "ghuls"
+            }
+        ],
+        "currentPeriodStars": 115,
+        "description": "Fast multi-threaded, hybrid-streaming DataFrame library in Rust | Python | Node.js",
+        "forks": 552,
+        "fullname": "pola-rs/polars",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "name": "polars",
+        "stars": 10304,
+        "url": "https://github.com/pola-rs/polars"
+    },
+    {
+        "author": "kuchin",
+        "avatar": "https://github.com/kuchin.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/87963",
+                "href": "https://github.com/kuchin",
+                "username": "kuchin"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/30328618",
+                "href": "https://github.com/darigovresearch",
+                "username": "darigovresearch"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/550550",
+                "href": "https://github.com/maximveksler",
+                "username": "maximveksler"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/40428556",
+                "href": "https://github.com/MohamedBsh",
+                "username": "MohamedBsh"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2861",
+                "href": "https://github.com/neiled",
+                "username": "neiled"
+            }
+        ],
+        "currentPeriodStars": 55,
+        "description": "A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups",
+        "forks": 994,
+        "fullname": "kuchin/awesome-cto",
+        "language": null,
+        "languageColor": null,
+        "name": "awesome-cto",
+        "stars": 18197,
+        "url": "https://github.com/kuchin/awesome-cto"
+    },
+    {
+        "author": "mui",
+        "avatar": "https://github.com/mui.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3165635",
+                "href": "https://github.com/oliviertassinari",
+                "username": "oliviertassinari"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/16926049",
+                "href": "https://github.com/dmtrKovalenko",
+                "username": "dmtrKovalenko"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/12292047",
+                "href": "https://github.com/eps1lon",
+                "username": "eps1lon"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2007468",
+                "href": "https://github.com/hai-cea",
+                "username": "hai-cea"
+            }
+        ],
+        "currentPeriodStars": 33,
+        "description": "MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.",
+        "forks": 28692,
+        "fullname": "mui/material-ui",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "name": "material-ui",
+        "stars": 83275,
+        "url": "https://github.com/mui/material-ui"
+    },
+    {
+        "author": "SoftwareBrothers",
+        "avatar": "https://github.com/SoftwareBrothers.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/825861",
+                "href": "https://github.com/wojtek-krysiak",
+                "username": "wojtek-krysiak"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/32174276",
+                "href": "https://github.com/semantic-release-bot",
+                "username": "semantic-release-bot"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/16668924",
+                "href": "https://github.com/dziraf",
+                "username": "dziraf"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/45283919",
+                "href": "https://github.com/frontkickit",
+                "username": "frontkickit"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1126055",
+                "href": "https://github.com/michlask",
+                "username": "michlask"
+            }
+        ],
+        "currentPeriodStars": 36,
+        "description": "AdminJS is an admin panel for apps written in node.js",
+        "forks": 490,
+        "fullname": "SoftwareBrothers/adminjs",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "adminjs",
+        "stars": 6380,
+        "url": "https://github.com/SoftwareBrothers/adminjs"
+    }
+]

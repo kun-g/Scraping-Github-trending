@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [blink](https://github.com/jart/blink) | tiniest x86-64-linux emulator |
-| [terminal](https://github.com/microsoft/terminal) | The new Windows Terminal and the original Windows console host, all in the same place! |
-| [noulith](https://github.com/betaveros/noulith) | *slaps roof of [programming language]* this bad boy can fit so much [syntax sugar] into it |
-| [playwright](https://github.com/microsoft/playwright) | Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. |
-| [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | This repo includes ChatGPT promt curation to use ChatGPT better. |
+| [osv-scanner](https://github.com/google/osv-scanner) | Vulnerability scanner written in Go which uses the data provided by https://osv.dev |
+| [stc](https://github.com/dudykr/stc) | Speedy TypeScript type checker |
+| [plane-notify](https://github.com/Jxck-S/plane-notify) | Notify If a selected plane has taken off or landed using OpenSky or ADS-B Exchange data. Compares older data to newer data to determine if a landing or takeoff has occurred. As well as nav modes, emergency squawk and resolution advisory notifications. Can output to Twitter, Discord, and Pushbullet |
 | [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | 🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。 |
-| [skypilot](https://github.com/skypilot-org/skypilot) | SkyPilot is a framework for easily running machine learning workloads on any cloud through a unified interface. |
-| [docked](https://github.com/rails/docked) | Running Rails from Docker for easy start to development |
-| [lossless-cut](https://github.com/mifi/lossless-cut) | The swiss army knife of lossless video/audio editing |
-| [xina520_official_jailbreak](https://github.com/jacksight/xina520_official_jailbreak) | This is the official download website for xina520's jailbreak (temporary) |
+| [kit](https://github.com/sveltejs/kit) | web development, streamlined |
+| [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) | A curated list of software and architecture related design patterns. |
+| [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page |
+| [JdBuyer](https://github.com/zas023/JdBuyer) | 京东抢购自动下单助手，GUI 支持 Windows 和 macOS |
+| [Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs) | Practical Ethical Hacking Labs 🗡🛡 |
+| [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
