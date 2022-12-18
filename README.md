@@ -42,13 +42,13 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [whisper.cpp](https://github.com/ggerganov/whisper.cpp) | Port of OpenAI's Whisper model in C/C++ |
-| [reference](https://github.com/jaywcjlove/reference) | 为开发人员分享快速参考备忘清单(速查表) |
-| [mastodon](https://github.com/mastodon/mastodon) | Your self-hosted, globally interconnected microblogging community |
-| [memos](https://github.com/usememos/memos) | An open-source, self-hosted memo hub with knowledge management and socialization. |
-| [Ryujinx](https://github.com/Ryujinx/Ryujinx) | Experimental Nintendo Switch Emulator written in C# |
+| [cheat.sh](https://github.com/chubin/cheat.sh) | the only cheat sheet you need |
 | [leptos](https://github.com/gbj/leptos) | Build fast web applications with Rust. |
-| [palera1n](https://github.com/palera1n/palera1n) | iOS 15.0-15.7.1 (semi-)tethered checkm8 jailbreak |
-| [snarkOS](https://github.com/AleoHQ/snarkOS) | A Decentralized Operating System for ZK Applications |
-| [ant-design](https://github.com/ant-design/ant-design) | An enterprise-class UI design language and React UI library |
-| [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) | 🎆Interactive Online Platform that Visualizes Algorithms from Code |
+| [memos](https://github.com/usememos/memos) | An open-source, self-hosted memo hub with knowledge management and socialization. |
+| [TodoApi](https://github.com/davidfowl/TodoApi) | Todo application with ASP.NET Core Blazor WASM, Minimal APIs and Authentication |
+| [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) | A modern and customizable python UI-library based on Tkinter |
+| [langchain](https://github.com/hwchase17/langchain) | ⚡ Building applications with LLMs through composability ⚡ |
+| [Ryujinx](https://github.com/Ryujinx/Ryujinx) | Experimental Nintendo Switch Emulator written in C# |
+| [InvokeAI](https://github.com/invoke-ai/InvokeAI) | This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, and multiple features and other enhancements. For more info, see the website link below. |
+| [Book4_Power-of-Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix) | Book_4_《矩阵力量》 | 鸢尾花书：从加减乘除到机器学习；本册有，584幅图，81个代码文件，其中18个Streamlit App；状态：清华社五审五校中；Github稿件基本稳定，欢迎提意见，会及时修改 |
 <!-- END OF MONTHLY_TOP10_REPOS -->
