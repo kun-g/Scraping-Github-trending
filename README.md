@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [osv-scanner](https://github.com/google/osv-scanner) | Vulnerability scanner written in Go which uses the data provided by https://osv.dev |
-| [stc](https://github.com/dudykr/stc) | Speedy TypeScript type checker |
-| [plane-notify](https://github.com/Jxck-S/plane-notify) | Notify If a selected plane has taken off or landed using OpenSky or ADS-B Exchange data. Compares older data to newer data to determine if a landing or takeoff has occurred. As well as nav modes, emergency squawk and resolution advisory notifications. Can output to Twitter, Discord, and Pushbullet |
+| [ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) | Neovim plugin for interacting with OpenAI GPT-3 chatbot, providing an easy interface for exploring GPT-3 and NLP. |
+| [mastodon](https://github.com/mastodon/mastodon) | Your self-hosted, globally interconnected microblogging community |
 | [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | 🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。 |
-| [kit](https://github.com/sveltejs/kit) | web development, streamlined |
-| [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) | A curated list of software and architecture related design patterns. |
-| [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page |
-| [JdBuyer](https://github.com/zas023/JdBuyer) | 京东抢购自动下单助手，GUI 支持 Windows 和 macOS |
-| [Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs) | Practical Ethical Hacking Labs 🗡🛡 |
-| [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
+| [chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk) | ChatGPT机器人在钉钉群聊中交互 |
+| [osv-scanner](https://github.com/google/osv-scanner) | Vulnerability scanner written in Go which uses the data provided by https://osv.dev |
+| [hello-algo](https://github.com/krahets/hello-algo) | 《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书 |
+| [riffusion-app](https://github.com/hmartiro/riffusion-app) | Stable diffusion for real-time music generation |
+| [init.lua](https://github.com/ThePrimeagen/init.lua) | None |
+| [riffusion-inference](https://github.com/hmartiro/riffusion-inference) | Stable diffusion for real-time music generation |
+| [dream-textures](https://github.com/carson-katri/dream-textures) | Stable Diffusion built-in to the Blender shader editor |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
