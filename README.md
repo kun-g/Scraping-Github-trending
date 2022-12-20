@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) | A launch point for your personal nvim configuration |
+| [mastodon](https://github.com/mastodon/mastodon) | Your self-hosted, globally interconnected microblogging community |
+| [ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) | Neovim plugin for interacting with OpenAI GPT-3 chatbot, providing an easy interface for exploring GPT-3 and NLP. |
+| [hello-algo](https://github.com/krahets/hello-algo) | 《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书 |
+| [MuseScore](https://github.com/musescore/MuseScore) | MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests! |
 | [dream-textures](https://github.com/carson-katri/dream-textures) | Stable Diffusion built-in to the Blender shader editor |
 | [init.lua](https://github.com/ThePrimeagen/init.lua) | None |
-| [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | 🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。 |
-| [stable-diffusion-ui](https://github.com/cmdr2/stable-diffusion-ui) | Easiest 1-click way to install and use Stable Diffusion on your own computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image. |
-| [kit](https://github.com/sveltejs/kit) | web development, streamlined |
-| [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) | A launch point for your personal nvim configuration |
-| [forma](https://github.com/google/forma) | An efficient vector-graphics renderer |
-| [ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) | Neovim plugin for interacting with OpenAI GPT-3 chatbot, providing an easy interface for exploring GPT-3 and NLP. |
-| [pytudes](https://github.com/norvig/pytudes) | Python programs, usually short, of considerable difficulty, to perfect particular skills. |
-| [MuseScore](https://github.com/musescore/MuseScore) | MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests! |
+| [security-study-plan](https://github.com/jassics/security-study-plan) | Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on... |
+| [JdBuyer](https://github.com/zas023/JdBuyer) | 京东抢购自动下单助手，GUI 支持 Windows 和 macOS |
+| [apk.sh](https://github.com/ax/apk.sh) | apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
