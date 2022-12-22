@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [pocketbase](https://github.com/pocketbase/pocketbase) | Open Source realtime backend in 1 file |
+| [hello-algo](https://github.com/krahets/hello-algo) | 《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书 |
+| [openai-cookbook](https://github.com/openai/openai-cookbook) | Examples and guides for using the OpenAI API |
 | [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) | A launch point for your personal nvim configuration |
-| [TodoApi](https://github.com/davidfowl/TodoApi) | Todo application with ASP.NET Core Blazor WASM, Minimal APIs and Authentication |
-| [phoneinfoga](https://github.com/sundowndev/phoneinfoga) | Information gathering framework for phone numbers |
+| [spec](https://github.com/score-spec/spec) | The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between environments. |
+| [custom-diffusion](https://github.com/adobe-research/custom-diffusion) | Custom Diffusion: Multi-Concept Customization of Text-to-Image Diffusion |
 | [security-study-plan](https://github.com/jassics/security-study-plan) | Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on... |
-| [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project-based tutorials |
-| [JdBuyer](https://github.com/zas023/JdBuyer) | 京东抢购自动下单助手，GUI 支持 Windows 和 macOS |
-| [realworld](https://github.com/gothinkster/realworld) | "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 |
-| [vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin) | 🔥 ✨✨ ✨ Vue3+Vite4+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端） |
-| [mastodon](https://github.com/mastodon/mastodon) | Your self-hosted, globally interconnected microblogging community |
-| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
+| [d2](https://github.com/terrastruct/d2) | D2 is a modern diagram scripting language that turns text to diagrams. |
+| [zstd](https://github.com/facebook/zstd) | Zstandard - Fast real-time compression algorithm |
+| [CodeFormer](https://github.com/sczhou/CodeFormer) | [NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
