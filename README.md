@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [pocketbase](https://github.com/pocketbase/pocketbase) | Open Source realtime backend in 1 file |
-| [hello-algo](https://github.com/krahets/hello-algo) | 《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书 |
-| [openai-cookbook](https://github.com/openai/openai-cookbook) | Examples and guides for using the OpenAI API |
-| [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) | A launch point for your personal nvim configuration |
-| [spec](https://github.com/score-spec/spec) | The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between environments. |
-| [custom-diffusion](https://github.com/adobe-research/custom-diffusion) | Custom Diffusion: Multi-Concept Customization of Text-to-Image Diffusion |
+| [point-e](https://github.com/openai/point-e) | Point cloud diffusion for 3D model synthesis |
+| [Galaxy-Bugbounty-Checklist](https://github.com/0xmaximus/Galaxy-Bugbounty-Checklist) | Tips and Tutorials for Bug Bounty and also Penetration Tests. |
 | [security-study-plan](https://github.com/jassics/security-study-plan) | Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on... |
-| [d2](https://github.com/terrastruct/d2) | D2 is a modern diagram scripting language that turns text to diagrams. |
-| [zstd](https://github.com/facebook/zstd) | Zstandard - Fast real-time compression algorithm |
-| [CodeFormer](https://github.com/sczhou/CodeFormer) | [NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer |
+| [illa-builder](https://github.com/illacloud/illa-builder) | An open-source low-code Platform for Developers. |
+| [spec](https://github.com/score-spec/spec) | The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between environments. |
+| [lazy.nvim](https://github.com/folke/lazy.nvim) | 💤 A modern plugin manager for Neovim |
+| [openai-cookbook](https://github.com/openai/openai-cookbook) | Examples and guides for using the OpenAI API |
+| [router](https://github.com/TanStack/router) | 🤖 Type-safe router w/ built-in caching & URL state management for JS/TS, React, Preact, Solid, Vue, Svelte and Angular |
+| [realworld](https://github.com/gothinkster/realworld) | "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 |
+| [vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin) | 🔥 ✨✨ ✨ Vue3+Vite4+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端） |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
