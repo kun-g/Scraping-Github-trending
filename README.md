@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [point-e](https://github.com/openai/point-e) | Point cloud diffusion for 3D model synthesis |
-| [Galaxy-Bugbounty-Checklist](https://github.com/0xmaximus/Galaxy-Bugbounty-Checklist) | Tips and Tutorials for Bug Bounty and also Penetration Tests. |
-| [security-study-plan](https://github.com/jassics/security-study-plan) | Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on... |
-| [illa-builder](https://github.com/illacloud/illa-builder) | An open-source low-code Platform for Developers. |
-| [spec](https://github.com/score-spec/spec) | The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between environments. |
+| [pocketbase](https://github.com/pocketbase/pocketbase) | Open Source realtime backend in 1 file |
+| [custom-diffusion](https://github.com/adobe-research/custom-diffusion) | Custom Diffusion: Multi-Concept Customization of Text-to-Image Diffusion |
+| [portable-secret](https://github.com/mprimi/portable-secret) | Better privacy without special software |
+| [CV-CUDA](https://github.com/CVCUDA/CV-CUDA) | CV-CUDA™ is an open-source, graphics processing unit (GPU)-accelerated library for cloud-scale image processing and computer vision. |
+| [m3u](https://github.com/YanG-1989/m3u) | None |
+| [Auto-Photoshop-StableDiffusion-Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) | A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using Automatic1111-sd-webui as a backend. |
 | [lazy.nvim](https://github.com/folke/lazy.nvim) | 💤 A modern plugin manager for Neovim |
-| [openai-cookbook](https://github.com/openai/openai-cookbook) | Examples and guides for using the OpenAI API |
-| [router](https://github.com/TanStack/router) | 🤖 Type-safe router w/ built-in caching & URL state management for JS/TS, React, Preact, Solid, Vue, Svelte and Angular |
-| [realworld](https://github.com/gothinkster/realworld) | "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 |
-| [vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin) | 🔥 ✨✨ ✨ Vue3+Vite4+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端） |
+| [go-profiler-notes](https://github.com/DataDog/go-profiler-notes) | felixge's notes on the various go profiling methods that are available. |
+| [JDspyder](https://github.com/BlackWatch0/JDspyder) | 京东预约&抢购脚本，可以自定义商品链接 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
