@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [point-e](https://github.com/openai/point-e) | Point cloud diffusion for 3D model synthesis |
-| [pocketbase](https://github.com/pocketbase/pocketbase) | Open Source realtime backend in 1 file |
-| [custom-diffusion](https://github.com/adobe-research/custom-diffusion) | Custom Diffusion: Multi-Concept Customization of Text-to-Image Diffusion |
-| [portable-secret](https://github.com/mprimi/portable-secret) | Better privacy without special software |
-| [CV-CUDA](https://github.com/CVCUDA/CV-CUDA) | CV-CUDA™ is an open-source, graphics processing unit (GPU)-accelerated library for cloud-scale image processing and computer vision. |
-| [m3u](https://github.com/YanG-1989/m3u) | None |
-| [Auto-Photoshop-StableDiffusion-Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) | A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using Automatic1111-sd-webui as a backend. |
+| [comprehensive-rust](https://github.com/google/comprehensive-rust) | None |
 | [lazy.nvim](https://github.com/folke/lazy.nvim) | 💤 A modern plugin manager for Neovim |
-| [go-profiler-notes](https://github.com/DataDog/go-profiler-notes) | felixge's notes on the various go profiling methods that are available. |
-| [JDspyder](https://github.com/BlackWatch0/JDspyder) | 京东预约&抢购脚本，可以自定义商品链接 |
+| [docked](https://github.com/rails/docked) | Running Rails from Docker for easy start to development |
+| [illa-builder](https://github.com/illacloud/illa-builder) | An open-source low-code Platform for Developers. |
+| [maui](https://github.com/dotnet/maui) | .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop. |
+| [Math](https://github.com/TapXWorld/Math) | 人教版小学到大学数学 |
+| [CV-CUDA](https://github.com/CVCUDA/CV-CUDA) | CV-CUDA™ is an open-source, graphics processing unit (GPU)-accelerated library for cloud-scale image processing and computer vision. |
+| [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
+| [Hello-Python](https://github.com/mouredev/Hello-Python) | Python desde cero |
+| [kitty](https://github.com/kovidgoyal/kitty) | Cross-platform, fast, feature-rich, GPU based terminal |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
