@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [asm_book](https://github.com/pkivolowitz/asm_book) | A book teaching assembly language programming on the ARM 64 bit ISA. Along the way, good programming practices and insights into code development are offer which apply directly to higher level languages. |
+| [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | This repo includes ChatGPT promt curation to use ChatGPT better. |
+| [uptime-kuma](https://github.com/louislam/uptime-kuma) | A fancy self-hosted monitoring tool |
 | [comprehensive-rust](https://github.com/google/comprehensive-rust) | None |
-| [lazy.nvim](https://github.com/folke/lazy.nvim) | 💤 A modern plugin manager for Neovim |
-| [docked](https://github.com/rails/docked) | Running Rails from Docker for easy start to development |
-| [illa-builder](https://github.com/illacloud/illa-builder) | An open-source low-code Platform for Developers. |
-| [maui](https://github.com/dotnet/maui) | .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop. |
-| [Math](https://github.com/TapXWorld/Math) | 人教版小学到大学数学 |
-| [CV-CUDA](https://github.com/CVCUDA/CV-CUDA) | CV-CUDA™ is an open-source, graphics processing unit (GPU)-accelerated library for cloud-scale image processing and computer vision. |
-| [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
+| [obs-studio](https://github.com/obsproject/obs-studio) | OBS Studio - Free and open source software for live streaming and screen recording |
+| [project_openai_codex](https://github.com/adrianhajdin/project_openai_codex) | None |
+| [best_AI_papers_2022](https://github.com/louisfb01/best_AI_papers_2022) | A curated list of the latest breakthroughs in AI (in 2022) by release date with a clear video explanation, link to a more in-depth article, and code. |
 | [Hello-Python](https://github.com/mouredev/Hello-Python) | Python desde cero |
-| [kitty](https://github.com/kovidgoyal/kitty) | Cross-platform, fast, feature-rich, GPU based terminal |
+| [ParallelsDesktopCrack](https://github.com/dreamncn/ParallelsDesktopCrack) | None |
+| [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) | This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
