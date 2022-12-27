@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [asm_book](https://github.com/pkivolowitz/asm_book) | A book teaching assembly language programming on the ARM 64 bit ISA. Along the way, good programming practices and insights into code development are offer which apply directly to higher level languages. |
-| [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | This repo includes ChatGPT promt curation to use ChatGPT better. |
-| [uptime-kuma](https://github.com/louislam/uptime-kuma) | A fancy self-hosted monitoring tool |
-| [comprehensive-rust](https://github.com/google/comprehensive-rust) | None |
-| [obs-studio](https://github.com/obsproject/obs-studio) | OBS Studio - Free and open source software for live streaming and screen recording |
+| [mini-lsm](https://github.com/skyzh/mini-lsm) | A tutorial of building an LSM-Tree storage engine in a week! (WIP) |
 | [project_openai_codex](https://github.com/adrianhajdin/project_openai_codex) | None |
 | [best_AI_papers_2022](https://github.com/louisfb01/best_AI_papers_2022) | A curated list of the latest breakthroughs in AI (in 2022) by release date with a clear video explanation, link to a more in-depth article, and code. |
-| [Hello-Python](https://github.com/mouredev/Hello-Python) | Python desde cero |
+| [annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) | 🧑‍🏫 59 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠 |
+| [comprehensive-rust](https://github.com/google/comprehensive-rust) | This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone. |
+| [Data-science](https://github.com/khuyentran1401/Data-science) | Collection of useful data science topics along with code and articles |
 | [ParallelsDesktopCrack](https://github.com/dreamncn/ParallelsDesktopCrack) | None |
-| [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) | This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps. |
+| [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
+| [fheroes2](https://github.com/ihhub/fheroes2) | fheroes2 is a recreation of Heroes of Might and Magic II game engine |
+| [gpt-discord-bot](https://github.com/openai/gpt-discord-bot) | Example Discord bot written in Python that uses the completions API to have conversations with the `text-davinci-003` model, and the moderations API to filter the messages. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
