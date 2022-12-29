@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [comprehensive-rust](https://github.com/google/comprehensive-rust) | This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone. |
 | [Open-Assistant](https://github.com/LAION-AI/Open-Assistant) | None |
-| [mini-lsm](https://github.com/skyzh/mini-lsm) | A tutorial of building an LSM-Tree storage engine in a week! (WIP) |
 | [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) | Reproduce DeFi hacked incidents using Foundry. |
-| [project_openai_codex](https://github.com/adrianhajdin/project_openai_codex) | None |
-| [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | This repo includes ChatGPT promt curation to use ChatGPT better. |
-| [best_AI_papers_2022](https://github.com/louisfb01/best_AI_papers_2022) | A curated list of the latest breakthroughs in AI (in 2022) by release date with a clear video explanation, link to a more in-depth article, and code. |
-| [Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning) | this repository accompanies the book "Grokking Deep Learning" |
-| [PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) | Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM |
-| [asm_book](https://github.com/pkivolowitz/asm_book) | A book teaching assembly language programming on the ARM 64 bit ISA. Along the way, good programming practices and insights into code development are offered which apply directly to higher level languages. |
+| [ChatGPT-API-server](https://github.com/ChatGPT-Hackers/ChatGPT-API-server) | API server for ChatGPT |
+| [ChatGPT](https://github.com/lencx/ChatGPT) | 🤖 ChatGPT Desktop Application (Mac, Windows and Linux) |
+| [mini-lsm](https://github.com/skyzh/mini-lsm) | A tutorial of building an LSM-Tree storage engine in a week! (WIP) |
+| [retos-programacion-2023](https://github.com/mouredev/retos-programacion-2023) | Ejercicios de código semanales en 2023 de la comunidad MoureDev para practicar lógica en cualquier lenguaje de programación. |
+| [rtl_433](https://github.com/merbanan/rtl_433) | Program to decode radio transmissions from devices on the ISM bands (and other frequencies) |
+| [codon](https://github.com/exaloop/codon) | A high-performance, zero-overhead, extensible Python compiler using LLVM |
+| [ChatGPT](https://github.com/acheong08/ChatGPT) | Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API. |
+| [Havoc](https://github.com/HavocFramework/Havoc) | The Havoc Framework. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
