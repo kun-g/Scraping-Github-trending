@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [Open-Assistant](https://github.com/LAION-AI/Open-Assistant) | None |
-| [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) | Reproduce DeFi hacked incidents using Foundry. |
-| [ChatGPT-API-server](https://github.com/ChatGPT-Hackers/ChatGPT-API-server) | API server for ChatGPT |
-| [ChatGPT](https://github.com/lencx/ChatGPT) | 🤖 ChatGPT Desktop Application (Mac, Windows and Linux) |
-| [mini-lsm](https://github.com/skyzh/mini-lsm) | A tutorial of building an LSM-Tree storage engine in a week! (WIP) |
-| [retos-programacion-2023](https://github.com/mouredev/retos-programacion-2023) | Ejercicios de código semanales en 2023 de la comunidad MoureDev para practicar lógica en cualquier lenguaje de programación. |
-| [rtl_433](https://github.com/merbanan/rtl_433) | Program to decode radio transmissions from devices on the ISM bands (and other frequencies) |
-| [codon](https://github.com/exaloop/codon) | A high-performance, zero-overhead, extensible Python compiler using LLVM |
-| [ChatGPT](https://github.com/acheong08/ChatGPT) | Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API. |
-| [Havoc](https://github.com/HavocFramework/Havoc) | The Havoc Framework. |
+| [ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) | Stable Diffusion with Core ML on Apple Silicon |
+| [awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) | 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新 |
+| [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) | A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! |
+| [microfeed](https://github.com/microfeed/microfeed) | a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls. |
+| [excalidraw](https://github.com/excalidraw/excalidraw) | Virtual whiteboard for sketching hand-drawn like diagrams |
+| [HENlo](https://github.com/TheOfficialFloW/HENlo) | WebKit+Kernel exploit chain for all PS Vita firmwares |
+| [tesseract](https://github.com/tesseract-ocr/tesseract) | Tesseract Open Source OCR Engine (main repository) |
+| [WDBFontOverwrite](https://github.com/zhuowei/WDBFontOverwrite) | Proof-of-concept app to overwrite fonts on iOS using CVE-2022-46689. |
+| [novu](https://github.com/novuhq/novu) | The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
