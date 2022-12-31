@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [Open-Assistant](https://github.com/LAION-AI/Open-Assistant) | None |
-| [ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) | Stable Diffusion with Core ML on Apple Silicon |
+| [PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) | Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM |
+| [Open-Assistant](https://github.com/LAION-AI/Open-Assistant) | OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so. |
 | [awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) | 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新 |
+| [ChatGPT](https://github.com/lencx/ChatGPT) | 🤖 ChatGPT Desktop Application (Mac, Windows and Linux) |
 | [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) | A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! |
-| [microfeed](https://github.com/microfeed/microfeed) | a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls. |
-| [excalidraw](https://github.com/excalidraw/excalidraw) | Virtual whiteboard for sketching hand-drawn like diagrams |
-| [HENlo](https://github.com/TheOfficialFloW/HENlo) | WebKit+Kernel exploit chain for all PS Vita firmwares |
-| [tesseract](https://github.com/tesseract-ocr/tesseract) | Tesseract Open Source OCR Engine (main repository) |
-| [WDBFontOverwrite](https://github.com/zhuowei/WDBFontOverwrite) | Proof-of-concept app to overwrite fonts on iOS using CVE-2022-46689. |
-| [novu](https://github.com/novuhq/novu) | The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀 |
+| [ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) | Stable Diffusion with Core ML on Apple Silicon |
+| [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) | A browser extension to display ChatGPT response alongside search engine results |
+| [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page |
+| [ai-notes](https://github.com/sw-yx/ai-notes) | notes for my AI studies, writing, and product brainstorming |
+| [alist](https://github.com/alist-org/alist) | 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
