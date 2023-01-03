@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [zlib-searcher](https://github.com/zlib-searcher/zlib-searcher) | search zlib/libgen index to get ipfs_cid. |
 | [Open-Assistant](https://github.com/LAION-AI/Open-Assistant) | OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so. |
+| [awesome-python](https://github.com/vinta/awesome-python) | A curated list of awesome Python frameworks, libraries, software and resources |
+| [v2rayNG](https://github.com/2dust/v2rayNG) | A V2Ray client for Android, support Xray core and v2fly core |
 | [nanoGPT](https://github.com/karpathy/nanoGPT) | The simplest, fastest repository for training/finetuning medium-sized GPTs. |
-| [CodeFormer](https://github.com/sczhou/CodeFormer) | [NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer |
-| [unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) | Flipper Zero Unleashed Firmware |
-| [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites |
-| [osv-scanner](https://github.com/google/osv-scanner) | Vulnerability scanner written in Go which uses the data provided by https://osv.dev |
-| [polars](https://github.com/pola-rs/polars) | Fast multi-threaded, hybrid-streaming DataFrame library in Rust | Python | Node.js |
-| [tortoise-tts](https://github.com/neonbjb/tortoise-tts) | A multi-voice TTS system trained with an emphasis on quality |
+| [exploitation-course](https://github.com/ashemery/exploitation-course) | Offensive Software Exploitation Course |
+| [sre-interview-prep-guide](https://github.com/mxssl/sre-interview-prep-guide) | Site Reliability Engineer Interview Preparation Guide |
 | [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | List of Computer Science courses with video lectures. |
-| [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | 🐙 Guide and resources for prompt engineering |
+| [hackingtool](https://github.com/Z4nzu/hackingtool) | ALL IN ONE Hacking Tool For Hackers |
+| [crux-top-lists](https://github.com/zakird/crux-top-lists) | Downloadable snapshots of the Chrome Top Million Websites pulled from public CrUX data in BigQuery. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
