@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [stack-roadmap](https://github.com/easychen/stack-roadmap) | 方糖全栈路线图2023，为「从螺丝钉到一人企业」补全技能栈 |
-| [hackingtool](https://github.com/Z4nzu/hackingtool) | ALL IN ONE Hacking Tool For Hackers |
+| [mall4cloud](https://github.com/gz-yami/mall4cloud) | ⭐️⭐️⭐️ Springcloud商城 O2O商城 小程序商城 PC商城 H5商城 APP商城 Java商城 分销商城 多用户商城 uniapp商城 微服务商城 |
+| [ColossalAI](https://github.com/hpcaitech/ColossalAI) | Colossal-AI: A Unified Deep Learning System for Big Model Era |
+| [conc](https://github.com/sourcegraph/conc) | Better structured concurrency for go |
+| [MathAnimation](https://github.com/ambrosiogabe/MathAnimation) | A simple C++/OpenGL application to create quick and dirty mathematically accurate animations |
+| [protobuf](https://github.com/protocolbuffers/protobuf) | Protocol Buffers - Google's data interchange format |
+| [spec](https://github.com/score-spec/spec) | The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between environments. |
 | [papers-we-love](https://github.com/papers-we-love/papers-we-love) | Papers from the computer science community to read and discuss. |
-| [awesome-python](https://github.com/vinta/awesome-python) | A curated list of awesome Python frameworks, libraries, software and resources |
-| [nanoGPT](https://github.com/karpathy/nanoGPT) | The simplest, fastest repository for training/finetuning medium-sized GPTs. |
-| [lens](https://github.com/lensapp/lens) | Lens - The way the world runs Kubernetes |
-| [stat_rethinking_2023](https://github.com/rmcelreath/stat_rethinking_2023) | Statistical Rethinking Course for Jan-Mar 2023 |
-| [zlib-searcher](https://github.com/zlib-searcher/zlib-searcher) | search zlib/libgen index |
-| [GFPGAN](https://github.com/TencentARC/GFPGAN) | GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration. |
-| [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project-based tutorials |
+| [12306](https://github.com/testerSunshine/12306) | 12306智能刷票，订票 |
+| [OpenLens](https://github.com/MuhammedKalkan/OpenLens) | OpenLens Binary Build Repository |
+| [hackingtool](https://github.com/Z4nzu/hackingtool) | ALL IN ONE Hacking Tool For Hackers |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
