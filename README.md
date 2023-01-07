@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [mall4cloud](https://github.com/gz-yami/mall4cloud) | ⭐️⭐️⭐️ Springcloud商城 O2O商城 小程序商城 PC商城 H5商城 APP商城 Java商城 分销商城 多用户商城 uniapp商城 微服务商城 |
-| [ColossalAI](https://github.com/hpcaitech/ColossalAI) | Colossal-AI: A Unified Deep Learning System for Big Model Era |
-| [conc](https://github.com/sourcegraph/conc) | Better structured concurrency for go |
-| [MathAnimation](https://github.com/ambrosiogabe/MathAnimation) | A simple C++/OpenGL application to create quick and dirty mathematically accurate animations |
+| [blink](https://github.com/jart/blink) | tiniest x86-64-linux emulator |
+| [jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch! |
+| [terminal](https://github.com/microsoft/terminal) | The new Windows Terminal and the original Windows console host, all in the same place! |
+| [kings-league-project](https://github.com/midudev/kings-league-project) | API y website de la Kings League Infojobs por temas didácticos |
 | [protobuf](https://github.com/protocolbuffers/protobuf) | Protocol Buffers - Google's data interchange format |
-| [spec](https://github.com/score-spec/spec) | The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between environments. |
-| [papers-we-love](https://github.com/papers-we-love/papers-we-love) | Papers from the computer science community to read and discuss. |
-| [12306](https://github.com/testerSunshine/12306) | 12306智能刷票，订票 |
-| [OpenLens](https://github.com/MuhammedKalkan/OpenLens) | OpenLens Binary Build Repository |
-| [hackingtool](https://github.com/Z4nzu/hackingtool) | ALL IN ONE Hacking Tool For Hackers |
+| [recharts](https://github.com/recharts/recharts) | Redefined chart library built with React and D3 |
+| [minGPT](https://github.com/karpathy/minGPT) | A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training |
+| [hello-git](https://github.com/mouredev/hello-git) | Curso para aprender a trabajar con el sistema de control de versiones Git y la plataforma GitHub desde cero y para principiantes. Elaborado durante las emisiones en directo desde Twitch de MoureDev. |
+| [framework](https://github.com/laravel/framework) | The Laravel Framework. |
+| [preguntas-entrevista-react](https://github.com/midudev/preguntas-entrevista-react) | Preguntas típicas sobre React para entrevistas de trabajo ⚛️ |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
