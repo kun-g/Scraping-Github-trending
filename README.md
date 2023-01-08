@@ -41,14 +41,14 @@
 <!-- START OF MONTHLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) | Stable Diffusion with Core ML on Apple Silicon |
-| [openai-python](https://github.com/openai/openai-python) | None |
-| [InvokeAI](https://github.com/invoke-ai/InvokeAI) | This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, and multiple features and other enhancements. For more info, see the website link below. |
-| [whisper.cpp](https://github.com/ggerganov/whisper.cpp) | Port of OpenAI's Whisper model in C/C++ |
+| [openai-cookbook](https://github.com/openai/openai-cookbook) | Examples and guides for using the OpenAI API |
+| [JdBuyer](https://github.com/zas023/JdBuyer) | 京东抢购自动下单助手，GUI 支持 Windows 和 macOS |
+| [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) | Use ChatGPT On Wechat via wechaty |
+| [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) | Node.js client for the unofficial ChatGPT API. 🔥 |
+| [ChatGPT](https://github.com/acheong08/ChatGPT) | Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API. |
 | [dream-textures](https://github.com/carson-katri/dream-textures) | Stable Diffusion built-in to the Blender shader editor |
+| [phoneinfoga](https://github.com/sundowndev/phoneinfoga) | Information gathering framework for phone numbers |
 | [uptime-kuma](https://github.com/louislam/uptime-kuma) | A fancy self-hosted monitoring tool |
-| [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) | 计算机自学指南 |
-| [stablediffusion](https://github.com/Stability-AI/stablediffusion) | High-Resolution Image Synthesis with Latent Diffusion Models |
-| [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | 🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。 |
-| [awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) | 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新 |
+| [MuseScore](https://github.com/musescore/MuseScore) | MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests! |
+| [hackingtool](https://github.com/Z4nzu/hackingtool) | ALL IN ONE Hacking Tool For Hackers |
 <!-- END OF MONTHLY_TOP10_REPOS -->
