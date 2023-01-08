@@ -1,0 +1,302 @@
+[
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/29597",
+        "name": "Brian Vaughn",
+        "repo": {
+            "description": null,
+            "name": "react-resizable-panels",
+            "url": "https://github.com/bvaughn/react-resizable-panels"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/bvaughn",
+        "username": "bvaughn"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/4993799",
+        "name": "str4d",
+        "repo": {
+            "description": "A simple, secure and modern encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.",
+            "name": "rage",
+            "url": "https://github.com/str4d/rage"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/str4d",
+        "username": "str4d"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/5635139",
+        "name": "Maximilian Roos",
+        "repo": {
+            "description": "Solve Advent of Code puzzles with GPT-3",
+            "name": "aoc-gpt",
+            "url": "https://github.com/max-sixty/aoc-gpt"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/max-sixty",
+        "username": "max-sixty"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/50960678",
+        "name": "osy",
+        "repo": {
+            "description": "Launch JIT enabled iOS app with a second iOS device",
+            "name": "Jitterbug",
+            "url": "https://github.com/osy/Jitterbug"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/osy",
+        "username": "osy"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/658",
+        "name": "Stephen Celis",
+        "repo": {
+            "description": "A type-safe, Swift-language layer over SQLite3.",
+            "name": "SQLite.swift",
+            "url": "https://github.com/stephencelis/SQLite.swift"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/stephencelis",
+        "username": "stephencelis"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/178777",
+        "name": "Terence Parr",
+        "repo": {
+            "description": "A python library for decision tree visualization and model interpretation.",
+            "name": "dtreeviz",
+            "url": "https://github.com/parrt/dtreeviz"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/parrt",
+        "username": "parrt"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/857609",
+        "name": "Adam Johnson",
+        "repo": {
+            "description": "Django app for handling the server headers required for Cross-Origin Resource Sharing (CORS)",
+            "name": "django-cors-headers",
+            "url": "https://github.com/adamchainz/django-cors-headers"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/adamchainz",
+        "username": "adamchainz"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1309177",
+        "name": "Charlie Marsh",
+        "repo": {
+            "description": "An extremely fast Python linter, written in Rust.",
+            "name": "ruff",
+            "url": "https://github.com/charliermarsh/ruff"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/charliermarsh",
+        "username": "charliermarsh"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/8264887",
+        "name": "Leandro von Werra",
+        "repo": {
+            "description": "Train transformer language models with reinforcement learning.",
+            "name": "trl",
+            "url": "https://github.com/lvwerra/trl"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/lvwerra",
+        "username": "lvwerra"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/11875",
+        "name": "Earle F. Philhower, III",
+        "repo": {
+            "description": "Raspberry Pi Pico Arduino core, for all RP2040 boards",
+            "name": "arduino-pico",
+            "url": "https://github.com/earlephilhower/arduino-pico"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/earlephilhower",
+        "username": "earlephilhower"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/241512",
+        "name": "Max Horn",
+        "repo": {
+            "description": "GAP - Groups, Algorithms, Programming - a System for Computational Discrete Algebra",
+            "name": "gap",
+            "url": "https://github.com/fingolfin/gap"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/fingolfin",
+        "username": "fingolfin"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/32437151",
+        "name": "Nathan Raw",
+        "repo": {
+            "description": "Create \ud83d\udd25 videos with Stable Diffusion by exploring the latent space and morphing between text prompts",
+            "name": "stable-diffusion-videos",
+            "url": "https://github.com/nateraw/stable-diffusion-videos"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/nateraw",
+        "username": "nateraw"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/6942",
+        "name": "Tom Payne",
+        "repo": {
+            "description": "Manage your dotfiles across multiple diverse machines, securely.",
+            "name": "chezmoi",
+            "url": "https://github.com/twpayne/chezmoi"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/twpayne",
+        "username": "twpayne"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/20745048",
+        "name": "Luca Palmieri",
+        "repo": {
+            "description": "A source code generator for building APIs and web applications with Rust.",
+            "name": "pavex",
+            "url": "https://github.com/LukeMathWalker/pavex"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/LukeMathWalker",
+        "username": "LukeMathWalker"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1633844",
+        "name": "d8ahazard",
+        "repo": {
+            "description": null,
+            "name": "sd_dreambooth_extension",
+            "url": "https://github.com/d8ahazard/sd_dreambooth_extension"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/d8ahazard",
+        "username": "d8ahazard"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/28986134",
+        "name": "Steven Tey",
+        "repo": {
+            "description": "An open-source link shortener with built-in analytics + free custom domains.",
+            "name": "dub",
+            "url": "https://github.com/steven-tey/dub"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/steven-tey",
+        "username": "steven-tey"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/5555347",
+        "name": "Costa Huang",
+        "repo": {
+            "description": "High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, T\u2026",
+            "name": "cleanrl",
+            "url": "https://github.com/vwxyzjn/cleanrl"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/vwxyzjn",
+        "username": "vwxyzjn"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/339286",
+        "name": "Jason Quense",
+        "repo": {
+            "description": "Dead simple Object schema validation",
+            "name": "yup",
+            "url": "https://github.com/jquense/yup"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/jquense",
+        "username": "jquense"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1945",
+        "name": "Casey Rodarmor",
+        "repo": {
+            "description": "\ud83e\udd16 Just a command runner",
+            "name": "just",
+            "url": "https://github.com/casey/just"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/casey",
+        "username": "casey"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/14009",
+        "name": "Leonid Bugaev",
+        "repo": {
+            "description": "GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your \u2026",
+            "name": "goreplay",
+            "url": "https://github.com/buger/goreplay"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/buger",
+        "username": "buger"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/18511905",
+        "name": "MistEO",
+        "repo": {
+            "description": "\u300a\u660e\u65e5\u65b9\u821f\u300b\u5e15\u62c9\u65af Bot",
+            "name": "Pallas-Bot",
+            "url": "https://github.com/MistEO/Pallas-Bot"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/MistEO",
+        "username": "MistEO"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/55068936",
+        "name": "Siddhant Khare",
+        "repo": {
+            "description": "This NodeJS project uses an Amazon Scraper to make getting Amazon products easily from the comfort of your console! No more waiting for A\u2026",
+            "name": "Amazon_CLI",
+            "url": "https://github.com/Siddhant-K-code/Amazon_CLI"
+        },
+        "sponsorUrl": "https://github.com/sponsors/Siddhant-K-code",
+        "url": "https://github.com/Siddhant-K-code",
+        "username": "Siddhant-K-code"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/506592",
+        "name": "Dimitri Sabadie",
+        "repo": {
+            "description": "The power of trees at your fingertips.",
+            "name": "mind.nvim",
+            "url": "https://github.com/phaazon/mind.nvim"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/phaazon",
+        "username": "phaazon"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/4196",
+        "name": "Hadley Wickham",
+        "repo": {
+            "description": "R for data science: a book",
+            "name": "r4ds",
+            "url": "https://github.com/hadley/r4ds"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/hadley",
+        "username": "hadley"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/13110571",
+        "name": "Michal Strehovsk\u00fd",
+        "repo": {
+            "description": "Demo of the potential of C# for systems programming with the .NET native ahead-of-time compilation technology.",
+            "name": "zerosharp",
+            "url": "https://github.com/MichalStrehovsky/zerosharp"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/MichalStrehovsky",
+        "username": "MichalStrehovsky"
+    }
+]
