@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [blink](https://github.com/jart/blink) | tiniest x86-64-linux emulator |
-| [jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch! |
-| [terminal](https://github.com/microsoft/terminal) | The new Windows Terminal and the original Windows console host, all in the same place! |
-| [kings-league-project](https://github.com/midudev/kings-league-project) | API y website de la Kings League Infojobs por temas didácticos |
-| [protobuf](https://github.com/protocolbuffers/protobuf) | Protocol Buffers - Google's data interchange format |
-| [recharts](https://github.com/recharts/recharts) | Redefined chart library built with React and D3 |
+| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
 | [minGPT](https://github.com/karpathy/minGPT) | A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training |
-| [hello-git](https://github.com/mouredev/hello-git) | Curso para aprender a trabajar con el sistema de control de versiones Git y la plataforma GitHub desde cero y para principiantes. Elaborado durante las emisiones en directo desde Twitch de MoureDev. |
-| [framework](https://github.com/laravel/framework) | The Laravel Framework. |
-| [preguntas-entrevista-react](https://github.com/midudev/preguntas-entrevista-react) | Preguntas típicas sobre React para entrevistas de trabajo ⚛️ |
+| [toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) | 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准Java 程序员进阶之路😄 |
+| [conc](https://github.com/sourcegraph/conc) | Better structured concurrency for go |
+| [proxy](https://github.com/WhatsApp/proxy) | This repository contains the WhatsApp proxy implementation for users to host their own proxy infrastructure to connect to WhatsApp for chat (VoIP and media upload/download not currently proxied) |
+| [Pake](https://github.com/tw93/Pake) | 🤱🏻 Simply make any web page a desktop application using Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App |
+| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
+| [jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch! |
+| [kings-league-project](https://github.com/midudev/kings-league-project) | API y website de la Kings League Infojobs por temas didácticos |
+| [BugChecker](https://github.com/vitoplantamura/BugChecker) | SoftICE-like kernel debugger for Windows 11 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
