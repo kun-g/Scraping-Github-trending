@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [minGPT](https://github.com/karpathy/minGPT) | A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training |
-| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
-| [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
-| [proxy](https://github.com/WhatsApp/proxy) | This repository contains the WhatsApp proxy implementation for users to host their own proxy infrastructure to connect to WhatsApp for chat (VoIP and media upload/download not currently proxied) |
-| [new-year-new-me](https://github.com/ProgrammingHero1/new-year-new-me) | None |
-| [visa-sponsers-companies-for-iranians](https://github.com/komeilmehranfar/visa-sponsers-companies-for-iranians) | None |
-| [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) | 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么 |
-| [Internships](https://github.com/ACM-Alexandria-SC/Internships) | None |
+| [openai-cookbook](https://github.com/openai/openai-cookbook) | Examples and guides for using the OpenAI API |
 | [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [proxy](https://github.com/WhatsApp/proxy) | This repository contains the WhatsApp proxy implementation for users to host their own proxy infrastructure to connect to WhatsApp for chat (VoIP and media upload/download not currently proxied) |
+| [LinkFree](https://github.com/EddieHubCommunity/LinkFree) | Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe. |
+| [minGPT](https://github.com/karpathy/minGPT) | A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training |
 | [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
+| [Xray-core](https://github.com/XTLS/Xray-core) | Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration. |
+| [PiOS](https://github.com/pi-apps/PiOS) | None |
+| [GLM-130B](https://github.com/THUDM/GLM-130B) | GLM-130B: An Open Bilingual Pre-Trained Model |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
