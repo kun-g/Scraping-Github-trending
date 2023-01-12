@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [openai-cookbook](https://github.com/openai/openai-cookbook) | Examples and guides for using the OpenAI API |
+| [go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) | A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker. |
+| [swift-dependencies](https://github.com/pointfreeco/swift-dependencies) | A dependency management library inspired by SwiftUI's "environment." |
 | [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
-| [chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension) | A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet. |
-| [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | List of Computer Science courses with video lectures. |
-| [Clean-Code-Notes](https://github.com/JuanCrg90/Clean-Code-Notes) | My notes of Clean Code book |
 | [sismo-protocol](https://github.com/sismo-core/sismo-protocol) | Contracts of the Sismo Attestation Protocol |
-| [cdc-file-transfer](https://github.com/google/cdc-file-transfer) | Tools for synching and streaming files from Windows to Linux |
-| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
-| [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) | 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么 |
-| [unilm](https://github.com/microsoft/unilm) | Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities |
+| [whatsapp-gpt](https://github.com/danielgross/whatsapp-gpt) | None |
+| [openai-cookbook](https://github.com/openai/openai-cookbook) | Examples and guides for using the OpenAI API |
+| [Clean-Code-Notes](https://github.com/JuanCrg90/Clean-Code-Notes) | My notes of Clean Code book |
+| [DynamicCow](https://github.com/matteozappia/DynamicCow) | Enable Dynamic Island on every device that is running iOS 16.0 to 16.1.2 using the MacDirtyCow exploit. |
+| [twemoji](https://github.com/twitter/twemoji) | Emoji for everyone. https://twemoji.twitter.com/ |
+| [LinkFree](https://github.com/EddieHubCommunity/LinkFree) | Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
