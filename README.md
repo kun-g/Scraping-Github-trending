@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) | A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker. |
+| [ultralytics](https://github.com/ultralytics/ultralytics) | YOLOv8 🚀 in PyTorch > ONNX > CoreML > TFLite |
+| [nanoGPT](https://github.com/karpathy/nanoGPT) | The simplest, fastest repository for training/finetuning medium-sized GPTs. |
+| [ImHex](https://github.com/WerWolv/ImHex) | 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. |
+| [adrenaline](https://github.com/shobrook/adrenaline) | An AI-powered debugger |
 | [swift-dependencies](https://github.com/pointfreeco/swift-dependencies) | A dependency management library inspired by SwiftUI's "environment." |
-| [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
+| [gpt_index](https://github.com/jerryjliu/gpt_index) | An index created by GPT to organize external information and answer queries! |
 | [sismo-protocol](https://github.com/sismo-core/sismo-protocol) | Contracts of the Sismo Attestation Protocol |
-| [whatsapp-gpt](https://github.com/danielgross/whatsapp-gpt) | None |
-| [openai-cookbook](https://github.com/openai/openai-cookbook) | Examples and guides for using the OpenAI API |
-| [Clean-Code-Notes](https://github.com/JuanCrg90/Clean-Code-Notes) | My notes of Clean Code book |
-| [DynamicCow](https://github.com/matteozappia/DynamicCow) | Enable Dynamic Island on every device that is running iOS 16.0 to 16.1.2 using the MacDirtyCow exploit. |
-| [twemoji](https://github.com/twitter/twemoji) | Emoji for everyone. https://twemoji.twitter.com/ |
-| [LinkFree](https://github.com/EddieHubCommunity/LinkFree) | Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe. |
+| [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | 🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。 |
+| [lama-cleaner](https://github.com/Sanster/lama-cleaner) | Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures. |
+| [go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) | A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
