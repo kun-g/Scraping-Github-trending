@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [duelyst](https://github.com/open-duelyst/duelyst) | Duelyst is a digital collectible card game and turn-based strategy hybrid, developed by Counterplay Games. |
 | [ultralytics](https://github.com/ultralytics/ultralytics) | YOLOv8 🚀 in PyTorch > ONNX > CoreML > TFLite |
-| [nanoGPT](https://github.com/karpathy/nanoGPT) | The simplest, fastest repository for training/finetuning medium-sized GPTs. |
+| [ToolJet](https://github.com/ToolJet/ToolJet) | Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀 |
 | [ImHex](https://github.com/WerWolv/ImHex) | 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. |
 | [adrenaline](https://github.com/shobrook/adrenaline) | An AI-powered debugger |
 | [swift-dependencies](https://github.com/pointfreeco/swift-dependencies) | A dependency management library inspired by SwiftUI's "environment." |
-| [gpt_index](https://github.com/jerryjliu/gpt_index) | An index created by GPT to organize external information and answer queries! |
-| [sismo-protocol](https://github.com/sismo-core/sismo-protocol) | Contracts of the Sismo Attestation Protocol |
-| [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | 🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。 |
-| [lama-cleaner](https://github.com/Sanster/lama-cleaner) | Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures. |
 | [go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) | A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker. |
+| [Clipboard](https://github.com/Slackadays/Clipboard) | 📋 Cut, copy, and paste anything, anywhere, all from the terminal. Quick, easy, and unified. |
+| [nanoGPT](https://github.com/karpathy/nanoGPT) | The simplest, fastest repository for training/finetuning medium-sized GPTs. |
+| [lama-cleaner](https://github.com/Sanster/lama-cleaner) | Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
