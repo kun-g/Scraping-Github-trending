@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [duelyst](https://github.com/open-duelyst/duelyst) | Duelyst is a digital collectible card game and turn-based strategy hybrid, developed by Counterplay Games. |
 | [ultralytics](https://github.com/ultralytics/ultralytics) | YOLOv8 🚀 in PyTorch > ONNX > CoreML > TFLite |
-| [ToolJet](https://github.com/ToolJet/ToolJet) | Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀 |
-| [ImHex](https://github.com/WerWolv/ImHex) | 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. |
+| [Clipboard](https://github.com/Slackadays/Clipboard) | 📋 Cut, copy, and paste anything, anywhere, all from the terminal. Quick, easy, and pretty. |
+| [duelyst](https://github.com/open-duelyst/duelyst) | Duelyst is a digital collectible card game and turn-based strategy hybrid, developed by Counterplay Games. |
+| [pytorch](https://github.com/pytorch/pytorch) | Tensors and Dynamic neural networks in Python with strong GPU acceleration |
+| [elk](https://github.com/elk-zone/elk) | A nimble Mastodon web client |
+| [101-rs](https://github.com/tweedegolf/101-rs) | A Rust university course |
+| [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page |
+| [CodeFormer](https://github.com/sczhou/CodeFormer) | [NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer |
+| [wildebeest](https://github.com/cloudflare/wildebeest) | Wildebeest is an ActivityPub and Mastodon-compatible server |
 | [adrenaline](https://github.com/shobrook/adrenaline) | An AI-powered debugger |
-| [swift-dependencies](https://github.com/pointfreeco/swift-dependencies) | A dependency management library inspired by SwiftUI's "environment." |
-| [go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) | A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker. |
-| [Clipboard](https://github.com/Slackadays/Clipboard) | 📋 Cut, copy, and paste anything, anywhere, all from the terminal. Quick, easy, and unified. |
-| [nanoGPT](https://github.com/karpathy/nanoGPT) | The simplest, fastest repository for training/finetuning medium-sized GPTs. |
-| [lama-cleaner](https://github.com/Sanster/lama-cleaner) | Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
