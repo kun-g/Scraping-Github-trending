@@ -1,0 +1,290 @@
+[
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/11875",
+        "name": "Earle F. Philhower, III",
+        "repo": {
+            "description": "Raspberry Pi Pico Arduino core, for all RP2040 boards",
+            "name": "arduino-pico",
+            "url": "https://github.com/earlephilhower/arduino-pico"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/earlephilhower",
+        "username": "earlephilhower"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/28986134",
+        "name": "Steven Tey",
+        "repo": {
+            "description": "An opinionated collection of components, hooks, and utilities for your Next.js project.",
+            "name": "precedent",
+            "url": "https://github.com/steven-tey/precedent"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/steven-tey",
+        "username": "steven-tey"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/41671631",
+        "name": "Raphael",
+        "repo": {
+            "description": "neovim lsp plugin",
+            "name": "lspsaga.nvim",
+            "url": "https://github.com/glepnir/lspsaga.nvim"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/glepnir",
+        "username": "glepnir"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/12672732",
+        "name": "Florian",
+        "repo": {
+            "description": "MQTT gateway for ESP8266, ESP32, Sonoff RF Bridge or Arduino with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, Bluet\u2026",
+            "name": "OpenMQTTGateway",
+            "url": "https://github.com/1technophile/OpenMQTTGateway"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/1technophile",
+        "username": "1technophile"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2036909",
+        "name": "Payton Swick",
+        "repo": {
+            "description": "Easier spies, stubs, and mocks for PHP testing",
+            "name": "spies",
+            "url": "https://github.com/sirbrillig/spies"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/sirbrillig",
+        "username": "sirbrillig"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/515813",
+        "name": "Sam Clegg",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/sbc100",
+        "username": "sbc100"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/22450188",
+        "name": "atomiks",
+        "repo": {
+            "description": "Tooltip, popover, dropdown, and menu library",
+            "name": "tippyjs",
+            "url": "https://github.com/atomiks/tippyjs"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/atomiks",
+        "username": "atomiks"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/6945922",
+        "name": "Matthias Fey",
+        "repo": {
+            "description": "PyTorch Extension Library of Optimized Scatter Operations",
+            "name": "pytorch_scatter",
+            "url": "https://github.com/rusty1s/pytorch_scatter"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/rusty1s",
+        "username": "rusty1s"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/17786731",
+        "name": "Hans-Kristian Arntzen",
+        "repo": {
+            "description": "Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation.",
+            "name": "vkd3d-proton",
+            "url": "https://github.com/HansKristian-Work/vkd3d-proton"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/HansKristian-Work",
+        "username": "HansKristian-Work"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1935246",
+        "name": "Yagiz Nizipli",
+        "repo": {
+            "description": "Spec compliant URL state machine for Rust",
+            "name": "url",
+            "url": "https://github.com/anonrig/url"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/anonrig",
+        "username": "anonrig"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1309177",
+        "name": "Charlie Marsh",
+        "repo": {
+            "description": "An extremely fast Python linter, written in Rust.",
+            "name": "ruff",
+            "url": "https://github.com/charliermarsh/ruff"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/charliermarsh",
+        "username": "charliermarsh"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/5635139",
+        "name": "Maximilian Roos",
+        "repo": {
+            "description": "Solve Advent of Code puzzles with GPT-3",
+            "name": "aoc-gpt",
+            "url": "https://github.com/max-sixty/aoc-gpt"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/max-sixty",
+        "username": "max-sixty"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/10589913",
+        "name": "Serhii Kulykov",
+        "repo": {
+            "description": "A curated list of awesome Web Components resources.",
+            "name": "awesome-web-components",
+            "url": "https://github.com/web-padawan/awesome-web-components"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/web-padawan",
+        "username": "web-padawan"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1075694",
+        "name": "hiroki osame",
+        "repo": {
+            "description": "\u26a1\ufe0f Speed up your Webpack build with esbuild",
+            "name": "esbuild-loader",
+            "url": "https://github.com/privatenumber/esbuild-loader"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/privatenumber",
+        "username": "privatenumber"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2345875",
+        "name": "Bram Gerritsen",
+        "repo": {
+            "description": "Custom component to calculate estimated power consumption of lights and other appliances",
+            "name": "homeassistant-powercalc",
+            "url": "https://github.com/bramstroker/homeassistant-powercalc"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/bramstroker",
+        "username": "bramstroker"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/7142025",
+        "name": "Jacob Gadikian",
+        "repo": {
+            "description": "Seed node for Tendermint based chains",
+            "name": "tenderseed",
+            "url": "https://github.com/faddat/tenderseed"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/faddat",
+        "username": "faddat"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/35128",
+        "name": "chencheng (\u4e91\u8c26)",
+        "repo": {
+            "description": "\ud83d\udc22 A collection of awesome browser-side JavaScript libraries, resources and shiny things.",
+            "name": "awesome-javascript",
+            "url": "https://github.com/sorrycc/awesome-javascript"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/sorrycc",
+        "username": "sorrycc"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/28480705",
+        "name": "MichaIng",
+        "repo": {
+            "description": "Lightweight justice for your single-board computer!",
+            "name": "DietPi",
+            "url": "https://github.com/MichaIng/DietPi"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/MichaIng",
+        "username": "MichaIng"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1112056",
+        "name": "Ansgar Mertens",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/ansgarm",
+        "username": "ansgarm"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2851492",
+        "name": "Florian Roth",
+        "repo": {
+            "description": "Loki - Simple IOC and Incident Response Scanner",
+            "name": "Loki",
+            "url": "https://github.com/Neo23x0/Loki"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/Neo23x0",
+        "username": "Neo23x0"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/804684",
+        "name": "Marcel Pociot",
+        "repo": {
+            "description": "A VSCode extension that allows you to use ChatGPT",
+            "name": "chatgpt-vscode",
+            "url": "https://github.com/mpociot/chatgpt-vscode"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/mpociot",
+        "username": "mpociot"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/5069736",
+        "name": "Charles Tapley Hoyt",
+        "repo": {
+            "description": "A cookiecutter package for an enlightened python package",
+            "name": "cookiecutter-snekpack",
+            "url": "https://github.com/cthoyt/cookiecutter-snekpack"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/cthoyt",
+        "username": "cthoyt"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/35742643",
+        "name": "Jonny Borges",
+        "repo": {
+            "description": "Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get.",
+            "name": "getx",
+            "url": "https://github.com/jonataslaw/getx"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/jonataslaw",
+        "username": "jonataslaw"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1101242",
+        "name": "raulk",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/raulk",
+        "username": "raulk"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/21230295",
+        "name": "Michael Davis",
+        "repo": {
+            "description": "My daily-driver build of the Helix editor",
+            "name": "helix",
+            "url": "https://github.com/the-mikedavis/helix"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/the-mikedavis",
+        "username": "the-mikedavis"
+    }
+]

@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [ultralytics](https://github.com/ultralytics/ultralytics) | YOLOv8 🚀 in PyTorch > ONNX > CoreML > TFLite |
-| [Clipboard](https://github.com/Slackadays/Clipboard) | 📋 Cut, copy, and paste anything, anywhere, all from the terminal. Quick, easy, and pretty. |
-| [duelyst](https://github.com/open-duelyst/duelyst) | Duelyst is a digital collectible card game and turn-based strategy hybrid, developed by Counterplay Games. |
-| [pytorch](https://github.com/pytorch/pytorch) | Tensors and Dynamic neural networks in Python with strong GPU acceleration |
-| [elk](https://github.com/elk-zone/elk) | A nimble Mastodon web client |
-| [101-rs](https://github.com/tweedegolf/101-rs) | A Rust university course |
-| [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page |
+| [Docker-OSX](https://github.com/sickcodes/Docker-OSX) | Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers. |
 | [CodeFormer](https://github.com/sczhou/CodeFormer) | [NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer |
+| [novu](https://github.com/novuhq/novu) | The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀 |
+| [leptos](https://github.com/leptos-rs/leptos) | Build fast web applications with Rust. |
+| [Clipboard](https://github.com/Slackadays/Clipboard) | 📋 Cut, copy, and paste anything, anywhere, all from the terminal. Quick, easy, and pretty. |
+| [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections. |
+| [blink](https://github.com/jart/blink) | tiniest x86-64-linux emulator |
+| [Ventoy](https://github.com/ventoy/Ventoy) | A new bootable USB solution. |
+| [elk](https://github.com/elk-zone/elk) | A nimble Mastodon web client |
 | [wildebeest](https://github.com/cloudflare/wildebeest) | Wildebeest is an ActivityPub and Mastodon-compatible server |
-| [adrenaline](https://github.com/shobrook/adrenaline) | An AI-powered debugger |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
