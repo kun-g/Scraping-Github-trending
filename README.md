@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page |
-| [hyperswitch](https://github.com/juspay/hyperswitch) | An Open Source Financial Switch to make Payments fast, reliable and affordable |
-| [novu](https://github.com/novuhq/novu) | The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀 |
+| [data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) | Free Data Engineering course! |
+| [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | ⚡ Dynamically generated stats for your github readmes |
 | [kit](https://github.com/sveltejs/kit) | web development, streamlined |
-| [Docker-OSX](https://github.com/sickcodes/Docker-OSX) | Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers. |
-| [go-by-example](https://github.com/wangkechun/go-by-example) | None |
-| [VToonify](https://github.com/williamyang1991/VToonify) | [SIGGRAPH Asia 2022] VToonify: Controllable High-Resolution Portrait Video Style Transfer |
-| [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections. |
-| [precedent](https://github.com/steven-tey/precedent) | An opinionated collection of components, hooks, and utilities for your Next.js project. |
-| [ai-collection](https://github.com/ai-collection/ai-collection) | A collection of generative AI applications |
+| [go-project-example](https://github.com/Moonlight-Zhao/go-project-example) | None |
+| [MDE-PowerBI-Templates](https://github.com/microsoft/MDE-PowerBI-Templates) | A respository for MDATP PowerBI Templates |
+| [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 12 Weeks, 24 Lessons, AI for All! |
+| [kings-league-project](https://github.com/midudev/kings-league-project) | API y website de la Kings League Infojobs por temas didácticos |
+| [ML-Papers-Explained](https://github.com/dair-ai/ML-Papers-Explained) | Explanation to key concepts in ML |
+| [ai-collection](https://github.com/ai-collection/ai-collection) | The Generative AI Landscape - A List of Awesome Generative AI Applications |
+| [DEVOPS-WORLD](https://github.com/annfelix/DEVOPS-WORLD) | None |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
