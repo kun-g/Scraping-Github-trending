@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) | Free Data Engineering course! |
-| [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | ⚡ Dynamically generated stats for your github readmes |
-| [kit](https://github.com/sveltejs/kit) | web development, streamlined |
-| [go-project-example](https://github.com/Moonlight-Zhao/go-project-example) | None |
-| [MDE-PowerBI-Templates](https://github.com/microsoft/MDE-PowerBI-Templates) | A respository for MDATP PowerBI Templates |
-| [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 12 Weeks, 24 Lessons, AI for All! |
-| [kings-league-project](https://github.com/midudev/kings-league-project) | API y website de la Kings League Infojobs por temas didácticos |
-| [ML-Papers-Explained](https://github.com/dair-ai/ML-Papers-Explained) | Explanation to key concepts in ML |
-| [ai-collection](https://github.com/ai-collection/ai-collection) | The Generative AI Landscape - A List of Awesome Generative AI Applications |
+| [TVBoxOSC](https://github.com/CatVodTVOfficial/TVBoxOSC) | 真的没有QQ群、QQ频道、论坛。打包分发注意开源协议，保留出处，不守规矩就不要搞。 |
+| [langchain](https://github.com/hwchase17/langchain) | ⚡ Building applications with LLMs through composability ⚡ |
+| [hyperswitch](https://github.com/juspay/hyperswitch) | An Open Source Financial Switch to make Payments fast, reliable and affordable |
+| [KeyDecoder](https://github.com/MaximeBeasse/KeyDecoder) | KeyDecoder app lets you use your smartphone or tablet to decode your mechanical keys in seconds. |
+| [nlw-setup-ignite](https://github.com/rocketseat-education/nlw-setup-ignite) | Aplicação desenvolvida durante o NLW Setup - Ignite |
+| [immersive-translate](https://github.com/immersive-translate/immersive-translate) | Next immersive translator, only for release new version |
 | [DEVOPS-WORLD](https://github.com/annfelix/DEVOPS-WORLD) | None |
+| [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 12 Weeks, 24 Lessons, AI for All! |
+| [mosint](https://github.com/alpkeskin/mosint) | An automated e-mail OSINT tool |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
