@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) | Free Data Engineering course! |
-| [TVBoxOSC](https://github.com/CatVodTVOfficial/TVBoxOSC) | 真的没有QQ群、QQ频道、论坛。打包分发注意开源协议，保留出处，不守规矩就不要搞。 |
-| [langchain](https://github.com/hwchase17/langchain) | ⚡ Building applications with LLMs through composability ⚡ |
-| [hyperswitch](https://github.com/juspay/hyperswitch) | An Open Source Financial Switch to make Payments fast, reliable and affordable |
-| [KeyDecoder](https://github.com/MaximeBeasse/KeyDecoder) | KeyDecoder app lets you use your smartphone or tablet to decode your mechanical keys in seconds. |
+| [woo-besluit-broncode-digid-app](https://github.com/MinBZK/woo-besluit-broncode-digid-app) | None |
 | [nlw-setup-ignite](https://github.com/rocketseat-education/nlw-setup-ignite) | Aplicação desenvolvida durante o NLW Setup - Ignite |
-| [immersive-translate](https://github.com/immersive-translate/immersive-translate) | Next immersive translator, only for release new version |
+| [data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) | Free Data Engineering course! |
+| [langchain](https://github.com/hwchase17/langchain) | ⚡ Building applications with LLMs through composability ⚡ |
 | [DEVOPS-WORLD](https://github.com/annfelix/DEVOPS-WORLD) | None |
+| [aprendiendo-react](https://github.com/midudev/aprendiendo-react) | Curso para aprender React desde cero |
+| [vall-e](https://github.com/enhuiz/vall-e) | An unofficial PyTorch implementation of the audio LM VALL-E, WIP |
 | [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 12 Weeks, 24 Lessons, AI for All! |
-| [mosint](https://github.com/alpkeskin/mosint) | An automated e-mail OSINT tool |
+| [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. |
+| [TVBoxOSC](https://github.com/CatVodTVOfficial/TVBoxOSC) | 真的没有QQ群、QQ频道、论坛。打包分发注意开源协议，保留出处，不守规矩就不要搞。 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
