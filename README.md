@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [woo-besluit-broncode-digid-app](https://github.com/MinBZK/woo-besluit-broncode-digid-app) | None |
-| [nlw-setup-ignite](https://github.com/rocketseat-education/nlw-setup-ignite) | Aplicação desenvolvida durante o NLW Setup - Ignite |
-| [data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) | Free Data Engineering course! |
+| [folly](https://github.com/facebook/folly) | An open-source C++ library developed and used at Facebook. |
+| [ng-video-lecture](https://github.com/karpathy/ng-video-lecture) | None |
 | [langchain](https://github.com/hwchase17/langchain) | ⚡ Building applications with LLMs through composability ⚡ |
-| [DEVOPS-WORLD](https://github.com/annfelix/DEVOPS-WORLD) | None |
-| [aprendiendo-react](https://github.com/midudev/aprendiendo-react) | Curso para aprender React desde cero |
-| [vall-e](https://github.com/enhuiz/vall-e) | An unofficial PyTorch implementation of the audio LM VALL-E, WIP |
-| [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 12 Weeks, 24 Lessons, AI for All! |
-| [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. |
-| [TVBoxOSC](https://github.com/CatVodTVOfficial/TVBoxOSC) | 真的没有QQ群、QQ频道、论坛。打包分发注意开源协议，保留出处，不守规矩就不要搞。 |
+| [QuestPDF](https://github.com/QuestPDF/QuestPDF) | QuestPDF is a modern open-source .NET library for PDF document generation. Offering comprehensive layout engine powered by concise and discoverable C# Fluent API. Easily generate PDF reports, invoices, exports, etc. |
+| [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) | A curated list of software and architecture related design patterns. |
+| [nlw-setup-ignite](https://github.com/rocketseat-education/nlw-setup-ignite) | Aplicação desenvolvida durante o NLW Setup - Ignite |
+| [OpenRV](https://github.com/AcademySoftwareFoundation/OpenRV) | None |
+| [IceCubesApp](https://github.com/Dimillian/IceCubesApp) | A SwiftUI Mastodon client |
+| [wtfjs](https://github.com/denysdovhan/wtfjs) | 🤪 A list of funny and tricky JavaScript examples |
+| [data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) | Free Data Engineering course! |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
