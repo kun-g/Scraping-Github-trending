@@ -25,16 +25,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [nanoGPT](https://github.com/karpathy/nanoGPT) | The simplest, fastest repository for training/finetuning medium-sized GPTs. |
-| [whatsapp-gpt](https://github.com/danielgross/whatsapp-gpt) | None |
-| [conc](https://github.com/sourcegraph/conc) | Better structured concurrency for go |
-| [minGPT](https://github.com/karpathy/minGPT) | A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training |
-| [openai-cookbook](https://github.com/openai/openai-cookbook) | Examples and guides for using the OpenAI API |
-| [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
-| [proxy](https://github.com/WhatsApp/proxy) | This repository contains the WhatsApp proxy implementation for users to host their own proxy infrastructure to connect to WhatsApp for chat (VoIP and media upload/download not currently proxied) |
+| [data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) | Free Data Engineering course! |
+| [Docker-OSX](https://github.com/sickcodes/Docker-OSX) | Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers. |
+| [langchain](https://github.com/hwchase17/langchain) | ⚡ Building applications with LLMs through composability ⚡ |
 | [gpt_index](https://github.com/jerryjliu/gpt_index) | An index created by GPT to organize external information and answer queries! |
 | [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | ⚡ Dynamically generated stats for your github readmes |
-| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
+| [folly](https://github.com/facebook/folly) | An open-source C++ library developed and used at Facebook. |
+| [ultralytics](https://github.com/ultralytics/ultralytics) | YOLOv8 🚀 in PyTorch > ONNX > CoreML > TFLite |
+| [imessage-exporter](https://github.com/ReagentX/imessage-exporter) | Export MacOS iMessage data + run iMessage Diagnostics |
+| [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 12 Weeks, 24 Lessons, AI for All! |
+| [CodeFormer](https://github.com/sczhou/CodeFormer) | [NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
