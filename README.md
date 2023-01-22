@@ -41,14 +41,14 @@
 <!-- START OF MONTHLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) | Free Data Engineering course! |
+| [comprehensive-rust](https://github.com/google/comprehensive-rust) | This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone. |
 | [openai-cookbook](https://github.com/openai/openai-cookbook) | Examples and guides for using the OpenAI API |
-| [hello-algo](https://github.com/krahets/hello-algo) | 《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书。提供 Java, C++, Python, Go, JS, TS, C# 源代码。 |
-| [JdBuyer](https://github.com/zas023/JdBuyer) | 京东抢购自动下单助手，GUI 支持 Windows 和 macOS |
-| [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | This repo includes ChatGPT prompt curation to use ChatGPT better. |
 | [minGPT](https://github.com/karpathy/minGPT) | A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training |
-| [phoneinfoga](https://github.com/sundowndev/phoneinfoga) | Information gathering framework for phone numbers |
-| [osv-scanner](https://github.com/google/osv-scanner) | Vulnerability scanner written in Go which uses the data provided by https://osv.dev |
-| [hackingtool](https://github.com/Z4nzu/hackingtool) | ALL IN ONE Hacking Tool For Hackers |
+| [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | This repo includes ChatGPT prompt curation to use ChatGPT better. |
 | [tortoise-tts](https://github.com/neonbjb/tortoise-tts) | A multi-voice TTS system trained with an emphasis on quality |
-| [MuseScore](https://github.com/musescore/MuseScore) | MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests! |
+| [gpt_index](https://github.com/jerryjliu/gpt_index) | An index created by GPT to organize external information and answer queries! |
+| [hackingtool](https://github.com/Z4nzu/hackingtool) | ALL IN ONE Hacking Tool For Hackers |
+| [papers-we-love](https://github.com/papers-we-love/papers-we-love) | Papers from the computer science community to read and discuss. |
+| [whatsapp-gpt](https://github.com/danielgross/whatsapp-gpt) | None |
 <!-- END OF MONTHLY_TOP10_REPOS -->

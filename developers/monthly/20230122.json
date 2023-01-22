@@ -1,0 +1,302 @@
+[
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1309177",
+        "name": "Charlie Marsh",
+        "repo": {
+            "description": "An extremely fast Python linter, written in Rust.",
+            "name": "ruff",
+            "url": "https://github.com/charliermarsh/ruff"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/charliermarsh",
+        "username": "charliermarsh"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/41671631",
+        "name": "Raphael",
+        "repo": {
+            "description": "neovim lsp plugin",
+            "name": "lspsaga.nvim",
+            "url": "https://github.com/glepnir/lspsaga.nvim"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/glepnir",
+        "username": "glepnir"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/14009",
+        "name": "Leonid Bugaev",
+        "repo": {
+            "description": "GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your \u2026",
+            "name": "goreplay",
+            "url": "https://github.com/buger/goreplay"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/buger",
+        "username": "buger"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1653275",
+        "name": "fiatjaf",
+        "repo": {
+            "description": "A Nostr relay server framework.",
+            "name": "relayer",
+            "url": "https://github.com/fiatjaf/relayer"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/fiatjaf",
+        "username": "fiatjaf"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/178777",
+        "name": "Terence Parr",
+        "repo": {
+            "description": "A python library for decision tree visualization and model interpretation.",
+            "name": "dtreeviz",
+            "url": "https://github.com/parrt/dtreeviz"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/parrt",
+        "username": "parrt"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/11875",
+        "name": "Earle F. Philhower, III",
+        "repo": {
+            "description": "Raspberry Pi Pico Arduino core, for all RP2040 boards",
+            "name": "arduino-pico",
+            "url": "https://github.com/earlephilhower/arduino-pico"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/earlephilhower",
+        "username": "earlephilhower"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/249515",
+        "name": "Ha Thach",
+        "repo": {
+            "description": "An open source cross-platform USB stack for embedded system",
+            "name": "tinyusb",
+            "url": "https://github.com/hathach/tinyusb"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/hathach",
+        "username": "hathach"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/5635139",
+        "name": "Maximilian Roos",
+        "repo": {
+            "description": "Solve Advent of Code puzzles with GPT-3",
+            "name": "aoc-gpt",
+            "url": "https://github.com/max-sixty/aoc-gpt"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/max-sixty",
+        "username": "max-sixty"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/5702664",
+        "name": "Ross Wightman",
+        "repo": {
+            "description": "PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, Mo\u2026",
+            "name": "pytorch-image-models",
+            "url": "https://github.com/rwightman/pytorch-image-models"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/rwightman",
+        "username": "rwightman"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/22450188",
+        "name": "atomiks",
+        "repo": {
+            "description": "Tooltip, popover, dropdown, and menu library",
+            "name": "tippyjs",
+            "url": "https://github.com/atomiks/tippyjs"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/atomiks",
+        "username": "atomiks"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/658",
+        "name": "Stephen Celis",
+        "repo": {
+            "description": "A type-safe, Swift-language layer over SQLite3.",
+            "name": "SQLite.swift",
+            "url": "https://github.com/stephencelis/SQLite.swift"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/stephencelis",
+        "username": "stephencelis"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/4993799",
+        "name": "str4d",
+        "repo": {
+            "description": "A simple, secure and modern encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.",
+            "name": "rage",
+            "url": "https://github.com/str4d/rage"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/str4d",
+        "username": "str4d"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/36258159",
+        "name": "Antonio Cheong",
+        "repo": {
+            "description": "Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.",
+            "name": "ChatGPT",
+            "url": "https://github.com/acheong08/ChatGPT"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/acheong08",
+        "username": "acheong08"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/240448",
+        "name": "Abiola Ibrahim",
+        "repo": {
+            "description": "Container runtimes on macOS (and Linux) with minimal setup",
+            "name": "colima",
+            "url": "https://github.com/abiosoft/colima"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/abiosoft",
+        "username": "abiosoft"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/53356347",
+        "name": "Azure SDK Bot",
+        "repo": {
+            "description": "\u2615\ufe0f Azure SDK for Java API documentation repository. Content here is mostly auto-generated.",
+            "name": "azure-docs-sdk-java",
+            "url": "https://github.com/azure-sdk/azure-docs-sdk-java"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/azure-sdk",
+        "username": "azure-sdk"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1945",
+        "name": "Casey Rodarmor",
+        "repo": {
+            "description": "\ud83e\udd16 Just a command runner",
+            "name": "just",
+            "url": "https://github.com/casey/just"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/casey",
+        "username": "casey"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/44761321",
+        "name": "RealityBoy",
+        "repo": {
+            "description": "\ud83d\udd25 \u2728\u2728 \u2728 Vue3+Vite4+Element-Plus+TypeScript\u7f16\u5199\u7684\u4e00\u6b3e\u540e\u53f0\u7ba1\u7406\u7cfb\u7edf\uff08\u517c\u5bb9\u79fb\u52a8\u7aef\uff09",
+            "name": "vue-pure-admin",
+            "url": "https://github.com/xiaoxian521/vue-pure-admin"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/xiaoxian521",
+        "username": "xiaoxian521"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/2008794",
+        "name": "John Kerl",
+        "repo": {
+            "description": "Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON",
+            "name": "miller",
+            "url": "https://github.com/johnkerl/miller"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/johnkerl",
+        "username": "johnkerl"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/6929565",
+        "name": "Bu Kinoshita",
+        "repo": {
+            "description": "Generate beautiful random gradients",
+            "name": "random-gradient",
+            "url": "https://github.com/bukinoshita/random-gradient"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/bukinoshita",
+        "username": "bukinoshita"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/14026360",
+        "name": "Himself65",
+        "repo": {
+            "description": null,
+            "name": "json-viewer",
+            "url": "https://github.com/Himself65/json-viewer"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/Himself65",
+        "username": "Himself65"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/8264887",
+        "name": "Leandro von Werra",
+        "repo": {
+            "description": "Train transformer language models with reinforcement learning.",
+            "name": "trl",
+            "url": "https://github.com/lvwerra/trl"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/lvwerra",
+        "username": "lvwerra"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/7189118",
+        "name": "Stephan Seitz",
+        "repo": {
+            "description": null,
+            "name": "nvim-dap-virtual-text",
+            "url": "https://github.com/theHamsta/nvim-dap-virtual-text"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/theHamsta",
+        "username": "theHamsta"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/857609",
+        "name": "Adam Johnson",
+        "repo": {
+            "description": "Django app for handling the server headers required for Cross-Origin Resource Sharing (CORS)",
+            "name": "django-cors-headers",
+            "url": "https://github.com/adamchainz/django-cors-headers"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/adamchainz",
+        "username": "adamchainz"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/7415984",
+        "name": "Nico Domino",
+        "repo": {
+            "description": "\ud83d\udcee Self hosted bookmarking app",
+            "name": "briefkasten",
+            "url": "https://github.com/ndom91/briefkasten"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/ndom91",
+        "username": "ndom91"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/8050659",
+        "name": "Munif Tanjim",
+        "repo": {
+            "description": "UI Component Library for Neovim.",
+            "name": "nui.nvim",
+            "url": "https://github.com/MunifTanjim/nui.nvim"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/MunifTanjim",
+        "username": "MunifTanjim"
+    }
+]
