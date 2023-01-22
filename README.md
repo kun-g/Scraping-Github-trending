@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [folly](https://github.com/facebook/folly) | An open-source C++ library developed and used at Facebook. |
+| [instruct-pix2pix](https://github.com/timothybrooks/instruct-pix2pix) | None |
+| [xstudio](https://github.com/AcademySoftwareFoundation/xstudio) | None |
 | [ng-video-lecture](https://github.com/karpathy/ng-video-lecture) | None |
-| [langchain](https://github.com/hwchase17/langchain) | ⚡ Building applications with LLMs through composability ⚡ |
-| [QuestPDF](https://github.com/QuestPDF/QuestPDF) | QuestPDF is a modern open-source .NET library for PDF document generation. Offering comprehensive layout engine powered by concise and discoverable C# Fluent API. Easily generate PDF reports, invoices, exports, etc. |
+| [massa](https://github.com/massalabs/massa) | The Decentralized and Scaled Blockchain |
+| [folly](https://github.com/facebook/folly) | An open-source C++ library developed and used at Facebook. |
+| [tuning_playbook](https://github.com/google-research/tuning_playbook) | A playbook for systematically maximizing the performance of deep learning models. |
+| [awk-raycaster](https://github.com/TheMozg/awk-raycaster) | Pseudo-3D shooter written completely in gawk using raycasting technique |
 | [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) | A curated list of software and architecture related design patterns. |
-| [nlw-setup-ignite](https://github.com/rocketseat-education/nlw-setup-ignite) | Aplicação desenvolvida durante o NLW Setup - Ignite |
-| [OpenRV](https://github.com/AcademySoftwareFoundation/OpenRV) | None |
 | [IceCubesApp](https://github.com/Dimillian/IceCubesApp) | A SwiftUI Mastodon client |
-| [wtfjs](https://github.com/denysdovhan/wtfjs) | 🤪 A list of funny and tricky JavaScript examples |
-| [data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) | Free Data Engineering course! |
+| [ChatRWKV](https://github.com/BlinkDL/ChatRWKV) | ChatRWKV is like ChatGPT but powered by the RWKV (100% RNN) language model, and open source. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
