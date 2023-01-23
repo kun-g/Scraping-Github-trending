@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [instruct-pix2pix](https://github.com/timothybrooks/instruct-pix2pix) | None |
-| [xstudio](https://github.com/AcademySoftwareFoundation/xstudio) | None |
-| [ng-video-lecture](https://github.com/karpathy/ng-video-lecture) | None |
-| [massa](https://github.com/massalabs/massa) | The Decentralized and Scaled Blockchain |
-| [folly](https://github.com/facebook/folly) | An open-source C++ library developed and used at Facebook. |
 | [tuning_playbook](https://github.com/google-research/tuning_playbook) | A playbook for systematically maximizing the performance of deep learning models. |
-| [awk-raycaster](https://github.com/TheMozg/awk-raycaster) | Pseudo-3D shooter written completely in gawk using raycasting technique |
-| [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) | A curated list of software and architecture related design patterns. |
+| [instruct-pix2pix](https://github.com/timothybrooks/instruct-pix2pix) | None |
+| [pynecone](https://github.com/pynecone-io/pynecone) | 🕸 Web apps in pure Python 🐍 |
+| [ng-video-lecture](https://github.com/karpathy/ng-video-lecture) | None |
+| [nuxt](https://github.com/nuxt/nuxt) | Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3. |
 | [IceCubesApp](https://github.com/Dimillian/IceCubesApp) | A SwiftUI Mastodon client |
-| [ChatRWKV](https://github.com/BlinkDL/ChatRWKV) | ChatRWKV is like ChatGPT but powered by the RWKV (100% RNN) language model, and open source. |
+| [gpt_index](https://github.com/jerryjliu/gpt_index) | An index created by GPT to organize external information and answer queries! |
+| [DeepFaceLive](https://github.com/iperov/DeepFaceLive) | Real-time face swap for PC streaming or video calls |
+| [cal.com](https://github.com/calcom/cal.com) | Scheduling infrastructure for absolutely everyone. |
+| [openai-cookbook](https://github.com/openai/openai-cookbook) | Examples and guides for using the OpenAI API |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
