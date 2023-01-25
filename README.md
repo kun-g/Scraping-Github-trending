@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [instruct-pix2pix](https://github.com/timothybrooks/instruct-pix2pix) | None |
+| [imaginAIry](https://github.com/brycedrennan/imaginAIry) | AI imagined images. Pythonic generation of stable diffusion images. |
+| [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
 | [LazyVim](https://github.com/LazyVim/LazyVim) | Neovim config for the lazy |
-| [tuning_playbook](https://github.com/google-research/tuning_playbook) | A playbook for systematically maximizing the performance of deep learning models. |
-| [ng-video-lecture](https://github.com/karpathy/ng-video-lecture) | None |
 | [octosuite](https://github.com/bellingcat/octosuite) | Advanced Github OSINT Framework |
-| [mage-ai](https://github.com/mage-ai/mage-ai) | 🧙 The modern replacement for Airflow. |
-| [nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) | Neural Networks: Zero to Hero |
+| [wildebeest](https://github.com/cloudflare/wildebeest) | Wildebeest is an ActivityPub and Mastodon-compatible server |
+| [instruct-pix2pix](https://github.com/timothybrooks/instruct-pix2pix) | None |
+| [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) | 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么 |
 | [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | List of Computer Science courses with video lectures. |
-| [ui](https://github.com/shadcn/ui) | UI components that you can copy and paste into your apps. Built using Radix UI and Tailwind CSS. |
-| [comprehensive-rust](https://github.com/google/comprehensive-rust) | This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone. |
+| [Hyprland](https://github.com/hyprwm/Hyprland) | Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks. |
+| [tuning_playbook](https://github.com/google-research/tuning_playbook) | A playbook for systematically maximizing the performance of deep learning models. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
