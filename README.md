@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [imaginAIry](https://github.com/brycedrennan/imaginAIry) | AI imagined images. Pythonic generation of stable diffusion images. |
 | [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
 | [LazyVim](https://github.com/LazyVim/LazyVim) | Neovim config for the lazy |
-| [octosuite](https://github.com/bellingcat/octosuite) | Advanced Github OSINT Framework |
-| [wildebeest](https://github.com/cloudflare/wildebeest) | Wildebeest is an ActivityPub and Mastodon-compatible server |
-| [instruct-pix2pix](https://github.com/timothybrooks/instruct-pix2pix) | None |
-| [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) | 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么 |
-| [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | List of Computer Science courses with video lectures. |
-| [Hyprland](https://github.com/hyprwm/Hyprland) | Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks. |
-| [tuning_playbook](https://github.com/google-research/tuning_playbook) | A playbook for systematically maximizing the performance of deep learning models. |
+| [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs |
+| [material-design-icons](https://github.com/google/material-design-icons) | Material Design icons by Google |
+| [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
+| [backend-GPT](https://github.com/TheAppleTucker/backend-GPT) | None |
+| [mojxml2geojson](https://github.com/JDA-DM/mojxml2geojson) | 法務省登記所備付地図データ（地図XML）をGeoJSONに変換するコンバータ |
+| [ui](https://github.com/shadcn/ui) | Beautifully designed components built with Radix UI and Tailwind CSS. |
+| [nuxt](https://github.com/nuxt/nuxt) | Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3. |
+| [git-sim](https://github.com/initialcommit-com/git-sim) | Visually simulate Git operations in your own repos with a single terminal command. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
