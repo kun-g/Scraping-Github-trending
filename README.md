@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
-| [LazyVim](https://github.com/LazyVim/LazyVim) | Neovim config for the lazy |
-| [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs |
-| [material-design-icons](https://github.com/google/material-design-icons) | Material Design icons by Google |
+| [ui](https://github.com/shadcn/ui) | Beautifully designed components built with Radix UI and Tailwind CSS. |
 | [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
 | [backend-GPT](https://github.com/TheAppleTucker/backend-GPT) | None |
-| [mojxml2geojson](https://github.com/JDA-DM/mojxml2geojson) | 法務省登記所備付地図データ（地図XML）をGeoJSONに変換するコンバータ |
-| [ui](https://github.com/shadcn/ui) | Beautifully designed components built with Radix UI and Tailwind CSS. |
-| [nuxt](https://github.com/nuxt/nuxt) | Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3. |
-| [git-sim](https://github.com/initialcommit-com/git-sim) | Visually simulate Git operations in your own repos with a single terminal command. |
+| [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
+| [material-design-icons](https://github.com/google/material-design-icons) | Material Design icons by Google |
+| [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs |
+| [Automatiza-o](https://github.com/DaviMarta/Automatiza-o) | None |
+| [comprehensive-rust](https://github.com/google/comprehensive-rust) | This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone. |
+| [nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) | Neural Networks: Zero to Hero |
+| [PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
