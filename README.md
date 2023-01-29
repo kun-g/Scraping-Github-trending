@@ -42,13 +42,13 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) | Free Data Engineering course! |
-| [comprehensive-rust](https://github.com/google/comprehensive-rust) | This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone. |
 | [openai-cookbook](https://github.com/openai/openai-cookbook) | Examples and guides for using the OpenAI API |
+| [imaginAIry](https://github.com/brycedrennan/imaginAIry) | AI imagined images. Pythonic generation of stable diffusion images. |
+| [gpt_index](https://github.com/jerryjliu/gpt_index) | GPT Index is a project consisting of a set of data structures designed to make it easier to use large external knowledge bases with LLMs. |
+| [Open-Assistant](https://github.com/LAION-AI/Open-Assistant) | OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so. |
 | [minGPT](https://github.com/karpathy/minGPT) | A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training |
-| [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | This repo includes ChatGPT prompt curation to use ChatGPT better. |
+| [ChatGPT](https://github.com/lencx/ChatGPT) | 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) |
 | [tortoise-tts](https://github.com/neonbjb/tortoise-tts) | A multi-voice TTS system trained with an emphasis on quality |
-| [gpt_index](https://github.com/jerryjliu/gpt_index) | An index created by GPT to organize external information and answer queries! |
+| [langchain](https://github.com/hwchase17/langchain) | ⚡ Building applications with LLMs through composability ⚡ |
 | [hackingtool](https://github.com/Z4nzu/hackingtool) | ALL IN ONE Hacking Tool For Hackers |
-| [papers-we-love](https://github.com/papers-we-love/papers-we-love) | Papers from the computer science community to read and discuss. |
-| [whatsapp-gpt](https://github.com/danielgross/whatsapp-gpt) | None |
 <!-- END OF MONTHLY_TOP10_REPOS -->
