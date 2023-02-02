@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [carbonyl](https://github.com/fathyb/carbonyl) | Chromium running inside your terminal |
-| [localsend](https://github.com/localsend/localsend) | An open source cross-platform alternative to AirDrop |
+| [ord](https://github.com/casey/ord) | 👁‍🗨 Rare and exotic sats |
+| [winget-cli](https://github.com/microsoft/winget-cli) | Windows Package Manager CLI (aka winget) |
+| [helm](https://github.com/helm/helm) | The Kubernetes Package Manager |
+| [apitable](https://github.com/apitable/apitable) | 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. |
+| [fish-shell](https://github.com/fish-shell/fish-shell) | The user-friendly command line shell. |
 | [devops-exercises](https://github.com/bregman-arie/devops-exercises) | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions |
-| [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. |
-| [mindsdb](https://github.com/mindsdb/mindsdb) | In-Database Machine Learning |
-| [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. |
-| [PhoneSploit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro) | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. |
-| [JavaGuide](https://github.com/Snailclimb/JavaGuide) | 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！ |
-| [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project-based tutorials |
-| [SpringBoot-Scan](https://github.com/AabyssZG/SpringBoot-Scan) | 针对SpringBoot的开源渗透框架，以及高危漏洞利用工具 |
+| [From-0-to-Research-Scientist-resources-guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide) | Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation. |
+| [notepad--](https://github.com/cxasm/notepad--) | 一个支持windows/linux/mac的文本编辑器，目标是要替换notepad++，来自中国。 |
+| [kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path) | A roadmap to learn Kubernetes from scratch (Beginner to Advanced level) |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
