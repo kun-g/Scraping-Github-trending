@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [carbonyl](https://github.com/fathyb/carbonyl) | Chromium running inside your terminal |
-| [ord](https://github.com/casey/ord) | 👁‍🗨 Rare and exotic sats |
-| [winget-cli](https://github.com/microsoft/winget-cli) | Windows Package Manager CLI (aka winget) |
-| [helm](https://github.com/helm/helm) | The Kubernetes Package Manager |
+| [zelda3](https://github.com/snesrev/zelda3) | None |
 | [apitable](https://github.com/apitable/apitable) | 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. |
-| [fish-shell](https://github.com/fish-shell/fish-shell) | The user-friendly command line shell. |
+| [winget-cli](https://github.com/microsoft/winget-cli) | Windows Package Manager CLI (aka winget) |
 | [devops-exercises](https://github.com/bregman-arie/devops-exercises) | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions |
-| [From-0-to-Research-Scientist-resources-guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide) | Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation. |
-| [notepad--](https://github.com/cxasm/notepad--) | 一个支持windows/linux/mac的文本编辑器，目标是要替换notepad++，来自中国。 |
-| [kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path) | A roadmap to learn Kubernetes from scratch (Beginner to Advanced level) |
+| [Git-Heat-Map](https://github.com/jmforsythe/Git-Heat-Map) | None |
+| [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. |
+| [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections. |
+| [hello-algo](https://github.com/krahets/hello-algo) | 《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书，支持 Java, C++, Python, Go, JS, TS, C#, Swift 等语言。 |
+| [carbonyl](https://github.com/fathyb/carbonyl) | Chromium running inside your terminal |
+| [nostr](https://github.com/nostr-protocol/nostr) | a truly censorship-resistant alternative to Twitter that has a chance of working |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
