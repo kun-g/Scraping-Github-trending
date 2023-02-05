@@ -24,14 +24,14 @@
                 "username": "sdub18"
             }
         ],
-        "currentPeriodStars": 268,
+        "currentPeriodStars": 150,
         "description": "iOS nostr client",
-        "forks": 152,
+        "forks": 153,
         "fullname": "damus-io/damus",
         "language": "Swift",
         "languageColor": "#F05138",
         "name": "damus",
-        "stars": 1065,
+        "stars": 1073,
         "url": "https://github.com/damus-io/damus"
     },
     {
@@ -64,14 +64,14 @@
                 "username": "snyk-bot"
             }
         ],
-        "currentPeriodStars": 43,
+        "currentPeriodStars": 50,
         "description": "A Nostr Relay written in TypeScript",
-        "forks": 67,
+        "forks": 68,
         "fullname": "Cameri/nostream",
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "nostream",
-        "stars": 305,
+        "stars": 313,
         "url": "https://github.com/Cameri/nostream"
     },
     {
@@ -104,14 +104,14 @@
                 "username": "yuyoyuppe"
             }
         ],
-        "currentPeriodStars": 211,
+        "currentPeriodStars": 221,
         "description": "Windows system utilities to maximize productivity",
         "forks": 4955,
         "fullname": "microsoft/PowerToys",
         "language": "C#",
         "languageColor": "#178600",
         "name": "PowerToys",
-        "stars": 85932,
+        "stars": 85948,
         "url": "https://github.com/microsoft/PowerToys"
     },
     {
@@ -144,14 +144,14 @@
                 "username": "srid"
             }
         ],
-        "currentPeriodStars": 239,
+        "currentPeriodStars": 252,
         "description": "a truly censorship-resistant alternative to Twitter that has a chance of working",
         "forks": 160,
         "fullname": "nostr-protocol/nostr",
         "language": null,
         "languageColor": null,
         "name": "nostr",
-        "stars": 5575,
+        "stars": 5585,
         "url": "https://github.com/nostr-protocol/nostr"
     },
     {
@@ -164,14 +164,14 @@
                 "username": "A-poc"
             }
         ],
-        "currentPeriodStars": 137,
+        "currentPeriodStars": 160,
         "description": "Tools and Techniques for Red Team / Penetration Testing",
-        "forks": 221,
+        "forks": 222,
         "fullname": "A-poc/RedTeam-Tools",
         "language": null,
         "languageColor": null,
         "name": "RedTeam-Tools",
-        "stars": 1901,
+        "stars": 1922,
         "url": "https://github.com/A-poc/RedTeam-Tools"
     },
     {
@@ -194,14 +194,14 @@
                 "username": "MasterYuan418"
             }
         ],
-        "currentPeriodStars": 98,
+        "currentPeriodStars": 105,
         "description": "ChatRWKV is like ChatGPT but powered by the RWKV (100% RNN) language model, and open source.",
         "forks": 54,
         "fullname": "BlinkDL/ChatRWKV",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "ChatRWKV",
-        "stars": 1147,
+        "stars": 1151,
         "url": "https://github.com/BlinkDL/ChatRWKV"
     },
     {
@@ -212,6 +212,11 @@
                 "avatar": "https://avatars.githubusercontent.com/u/7049564",
                 "href": "https://github.com/omarsar",
                 "username": "omarsar"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/35760593",
+                "href": "https://github.com/JamesZhutheThird",
+                "username": "JamesZhutheThird"
             },
             {
                 "avatar": "https://avatars.githubusercontent.com/u/42948753",
@@ -227,21 +232,16 @@
                 "avatar": "https://avatars.githubusercontent.com/u/832917",
                 "href": "https://github.com/ss18",
                 "username": "ss18"
-            },
-            {
-                "avatar": "https://avatars.githubusercontent.com/u/1570963",
-                "href": "https://github.com/dominiksipowicz",
-                "username": "dominiksipowicz"
             }
         ],
-        "currentPeriodStars": 142,
+        "currentPeriodStars": 141,
         "description": "\ud83d\udc19 Guide and resources for prompt engineering",
         "forks": 113,
         "fullname": "dair-ai/Prompt-Engineering-Guide",
         "language": null,
         "languageColor": null,
         "name": "Prompt-Engineering-Guide",
-        "stars": 2309,
+        "stars": 2316,
         "url": "https://github.com/dair-ai/Prompt-Engineering-Guide"
     },
     {
@@ -274,14 +274,14 @@
                 "username": "Blackcat308"
             }
         ],
-        "currentPeriodStars": 140,
+        "currentPeriodStars": 141,
         "description": "\u5982\u4f55\u57fa\u4e8eK8s(Kubernetes)\u90e8\u7f72\u6210PaaS/DevOps(\u4e00\u5957\u5b8c\u6574\u7684\u8f6f\u4ef6\u7814\u53d1\u548c\u90e8\u7f72\u5e73\u53f0)--\u6559\u7a0b/\u5b66\u4e60(\u5b9e\u6218\u4ee3\u7801/\u6b22\u8fce\u8ba8\u8bba/\u5927\u91cf\u6ce8\u91ca/\u64cd\u4f5c\u914d\u56fe)\uff0c\u4f60\u5c06\u4e60\u5f97\u90e8\u7f72\u5982\uff1aK8S(Kubernetes)\u3001Dashboard\u3001Harbor\u3001Jenkins\u3001\u672c\u5730Gitlab\u3001Apollo\u6846\u67b6\u3001Promtheus\u3001Grafana\u3001Spinnaker\u7b49\u3002",
         "forks": 822,
         "fullname": "ben1234560/k8s_PaaS",
         "language": "Shell",
         "languageColor": "#89e051",
         "name": "k8s_PaaS",
-        "stars": 2725,
+        "stars": 2730,
         "url": "https://github.com/ben1234560/k8s_PaaS"
     },
     {
@@ -314,14 +314,14 @@
                 "username": "spamegg1"
             }
         ],
-        "currentPeriodStars": 186,
+        "currentPeriodStars": 196,
         "description": "\ud83c\udf93 Path to a free self-taught education in Computer Science!",
         "forks": 17354,
         "fullname": "ossu/computer-science",
         "language": null,
         "languageColor": null,
         "name": "computer-science",
-        "stars": 132152,
+        "stars": 132171,
         "url": "https://github.com/ossu/computer-science"
     },
     {
@@ -354,14 +354,14 @@
                 "username": "simon300000"
             }
         ],
-        "currentPeriodStars": 184,
+        "currentPeriodStars": 174,
         "description": "Node.js client for the unofficial ChatGPT API. \ud83d\udd25",
-        "forks": 743,
+        "forks": 745,
         "fullname": "transitive-bullshit/chatgpt-api",
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "chatgpt-api",
-        "stars": 6718,
+        "stars": 6723,
         "url": "https://github.com/transitive-bullshit/chatgpt-api"
     },
     {
@@ -379,14 +379,14 @@
                 "username": "Ben-Epstein"
             }
         ],
-        "currentPeriodStars": 66,
+        "currentPeriodStars": 65,
         "description": "RAVEN (Realtime Assistant Voice Enabled Network) Open Source Software (OSS) community repo",
         "forks": 27,
         "fullname": "daveshap/raven",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "raven",
-        "stars": 222,
+        "stars": 226,
         "url": "https://github.com/daveshap/raven"
     },
     {
@@ -419,14 +419,14 @@
                 "username": "unclebob"
             }
         ],
-        "currentPeriodStars": 51,
+        "currentPeriodStars": 59,
         "description": "Nostr Implementation Possibilities",
         "forks": 142,
         "fullname": "nostr-protocol/nips",
         "language": null,
         "languageColor": null,
         "name": "nips",
-        "stars": 739,
+        "stars": 746,
         "url": "https://github.com/nostr-protocol/nips"
     },
     {
@@ -459,14 +459,14 @@
                 "username": "scottleibrand"
             }
         ],
-        "currentPeriodStars": 278,
+        "currentPeriodStars": 270,
         "description": "Reverse engineered ChatGPT API. Uses official model same as the website.",
-        "forks": 1564,
+        "forks": 1566,
         "fullname": "acheong08/ChatGPT",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "ChatGPT",
-        "stars": 11525,
+        "stars": 11545,
         "url": "https://github.com/acheong08/ChatGPT"
     },
     {
@@ -499,14 +499,14 @@
                 "username": "brugeman"
             }
         ],
-        "currentPeriodStars": 59,
+        "currentPeriodStars": 66,
         "description": "A curated list of nostr projects and resources",
         "forks": 131,
         "fullname": "aljazceru/awesome-nostr",
         "language": null,
         "languageColor": null,
         "name": "awesome-nostr",
-        "stars": 1247,
+        "stars": 1257,
         "url": "https://github.com/aljazceru/awesome-nostr"
     },
     {
@@ -539,14 +539,14 @@
                 "username": "patrickmollohan"
             }
         ],
-        "currentPeriodStars": 82,
+        "currentPeriodStars": 84,
         "description": null,
         "forks": 211,
         "fullname": "snesrev/zelda3",
         "language": "C",
         "languageColor": "#555555",
         "name": "zelda3",
-        "stars": 2799,
+        "stars": 2805,
         "url": "https://github.com/snesrev/zelda3"
     },
     {
@@ -579,14 +579,14 @@
                 "username": "f0ng"
             }
         ],
-        "currentPeriodStars": 90,
+        "currentPeriodStars": 84,
         "description": "\ud83e\udd16\u4e00\u4e2a\u57fa\u4e8eOpenAi ChatGPT + WeChaty \u5b9e\u73b0\u7684\u5fae\u4fe1\u673a\u5668\u4eba \uff0c\u53ef\u4ee5\u7528\u6765\u5e2e\u52a9\u4f60\u81ea\u52a8\u56de\u590d\u5fae\u4fe1\u6d88\u606f\uff0c\u6216\u8005\u7ba1\u7406\u5fae\u4fe1\u7fa4/\u597d\u53cb\uff0c\u68c0\u6d4b\u50f5\u5c38\u7c89\u7b49...",
         "forks": 206,
         "fullname": "wangrongding/wechat-bot",
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "wechat-bot",
-        "stars": 1461,
+        "stars": 1462,
         "url": "https://github.com/wangrongding/wechat-bot"
     },
     {
@@ -619,14 +619,14 @@
                 "username": "IzzySoft"
             }
         ],
-        "currentPeriodStars": 45,
+        "currentPeriodStars": 46,
         "description": "Nostr client for Android",
         "forks": 27,
         "fullname": "vitorpamplona/amethyst",
         "language": "Kotlin",
         "languageColor": "#A97BFF",
         "name": "amethyst",
-        "stars": 339,
+        "stars": 342,
         "url": "https://github.com/vitorpamplona/amethyst"
     },
     {
@@ -659,14 +659,14 @@
                 "username": "S-N-O-R-L-A-X"
             }
         ],
-        "currentPeriodStars": 245,
+        "currentPeriodStars": 130,
         "description": "\u300aHello \u7b97\u6cd5\u300b\u4e00\u672c\u52a8\u753b\u56fe\u89e3\u3001\u80fd\u8fd0\u884c\u3001\u53ef\u63d0\u95ee\u7684\u6570\u636e\u7ed3\u6784\u4e0e\u7b97\u6cd5\u5165\u95e8\u4e66\uff0c\u652f\u6301 Java, C++, Python, Go, JS, TS, C#, Swift \u7b49\u8bed\u8a00\u3002",
         "forks": 818,
         "fullname": "krahets/hello-algo",
         "language": "Java",
         "languageColor": "#b07219",
         "name": "hello-algo",
-        "stars": 7642,
+        "stars": 7644,
         "url": "https://github.com/krahets/hello-algo"
     },
     {
@@ -739,14 +739,14 @@
                 "username": "yangzhiyue"
             }
         ],
-        "currentPeriodStars": 26,
+        "currentPeriodStars": 31,
         "description": "Apache Linkis builds a computation middleware layer to facilitate connection, governance and orchestration between the upper applications and the underlying data engines.",
         "forks": 995,
         "fullname": "apache/linkis",
         "language": "Java",
         "languageColor": "#b07219",
         "name": "linkis",
-        "stars": 2882,
+        "stars": 2886,
         "url": "https://github.com/apache/linkis"
     },
     {
@@ -779,14 +779,14 @@
                 "username": "mattreecebentley"
             }
         ],
-        "currentPeriodStars": 38,
+        "currentPeriodStars": 73,
         "description": "A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.",
-        "forks": 6770,
+        "forks": 6771,
         "fullname": "fffaraz/awesome-cpp",
         "language": null,
         "languageColor": null,
         "name": "awesome-cpp",
-        "stars": 43490,
+        "stars": 43495,
         "url": "https://github.com/fffaraz/awesome-cpp"
     },
     {
@@ -814,14 +814,14 @@
                 "username": "paramsiddharth"
             }
         ],
-        "currentPeriodStars": 221,
+        "currentPeriodStars": 211,
         "description": "A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)",
         "forks": 200,
         "fullname": "techiescamp/kubernetes-learning-path",
         "language": null,
         "languageColor": null,
         "name": "kubernetes-learning-path",
-        "stars": 2605,
+        "stars": 2619,
         "url": "https://github.com/techiescamp/kubernetes-learning-path"
     },
     {
@@ -854,14 +854,14 @@
                 "username": "antfu"
             }
         ],
-        "currentPeriodStars": 50,
+        "currentPeriodStars": 101,
         "description": "Next generation frontend tooling. It's fast!",
-        "forks": 4566,
+        "forks": 4567,
         "fullname": "vitejs/vite",
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "vite",
-        "stars": 52358,
+        "stars": 52365,
         "url": "https://github.com/vitejs/vite"
     },
     {
@@ -894,14 +894,14 @@
                 "username": "vdemeester"
             }
         ],
-        "currentPeriodStars": 29,
+        "currentPeriodStars": 34,
         "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
-        "forks": 18475,
+        "forks": 18474,
         "fullname": "moby/moby",
         "language": "Go",
         "languageColor": "#00ADD8",
         "name": "moby",
-        "stars": 65054,
+        "stars": 65057,
         "url": "https://github.com/moby/moby"
     },
     {
@@ -934,14 +934,14 @@
                 "username": "Digipom"
             }
         ],
-        "currentPeriodStars": 77,
+        "currentPeriodStars": 81,
         "description": "Port of OpenAI's Whisper model in C/C++",
         "forks": 442,
         "fullname": "ggerganov/whisper.cpp",
         "language": "C",
         "languageColor": "#555555",
         "name": "whisper.cpp",
-        "stars": 5994,
+        "stars": 5999,
         "url": "https://github.com/ggerganov/whisper.cpp"
     }
 ]
