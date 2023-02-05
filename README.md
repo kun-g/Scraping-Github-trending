@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [zelda3](https://github.com/snesrev/zelda3) | None |
-| [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) | Node.js client for the unofficial ChatGPT API. 🔥 |
-| [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity |
-| [winget-cli](https://github.com/microsoft/winget-cli) | Windows Package Manager CLI (aka winget) |
-| [greenfield-whitepaper](https://github.com/bnb-chain/greenfield-whitepaper) | Whitepaper for Greenfield, the decentralized data economy |
-| [hello-algo](https://github.com/krahets/hello-algo) | 《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书，支持 Java, C++, Python, Go, JS, TS, C#, Swift 等语言。 |
 | [damus](https://github.com/damus-io/damus) | iOS nostr client |
-| [kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path) | A roadmap to learn Kubernetes from scratch (Beginner to Advanced level) |
-| [DeepFaceLive](https://github.com/iperov/DeepFaceLive) | Real-time face swap for PC streaming or video calls |
-| [BioGPT](https://github.com/microsoft/BioGPT) | None |
+| [nostream](https://github.com/Cameri/nostream) | A Nostr Relay written in TypeScript |
+| [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity |
+| [nostr](https://github.com/nostr-protocol/nostr) | a truly censorship-resistant alternative to Twitter that has a chance of working |
+| [RedTeam-Tools](https://github.com/A-poc/RedTeam-Tools) | Tools and Techniques for Red Team / Penetration Testing |
+| [ChatRWKV](https://github.com/BlinkDL/ChatRWKV) | ChatRWKV is like ChatGPT but powered by the RWKV (100% RNN) language model, and open source. |
+| [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | 🐙 Guide and resources for prompt engineering |
+| [k8s_PaaS](https://github.com/ben1234560/k8s_PaaS) | 如何基于K8s(Kubernetes)部署成PaaS/DevOps(一套完整的软件研发和部署平台)--教程/学习(实战代码/欢迎讨论/大量注释/操作配图)，你将习得部署如：K8S(Kubernetes)、Dashboard、Harbor、Jenkins、本地Gitlab、Apollo框架、Promtheus、Grafana、Spinnaker等。 |
+| [computer-science](https://github.com/ossu/computer-science) | 🎓 Path to a free self-taught education in Computer Science! |
+| [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) | Node.js client for the unofficial ChatGPT API. 🔥 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10

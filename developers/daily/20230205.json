@@ -1,0 +1,294 @@
+[
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/53356347",
+        "name": "Azure SDK Bot",
+        "repo": {
+            "description": "Microsoft Azure PowerShell",
+            "name": "azure-powershell",
+            "url": "https://github.com/azure-sdk/azure-powershell"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/azure-sdk",
+        "username": "azure-sdk"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/3797675",
+        "name": "Stefan Prodan",
+        "repo": {
+            "description": "Go microservice template for Kubernetes",
+            "name": "podinfo",
+            "url": "https://github.com/stefanprodan/podinfo"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/stefanprodan",
+        "username": "stefanprodan"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/127379",
+        "name": "Manu MA",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/manucorporat",
+        "username": "manucorporat"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/17034772",
+        "name": "Jonatan K\u0142osko",
+        "repo": {
+            "description": "Task and group management tool for WCA competition organizers.",
+            "name": "groupifier",
+            "url": "https://github.com/jonatanklosko/groupifier"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/jonatanklosko",
+        "username": "jonatanklosko"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/36258159",
+        "name": "Antonio Cheong",
+        "repo": {
+            "description": "Reverse engineered ChatGPT API. Uses official model same as the website.",
+            "name": "ChatGPT",
+            "url": "https://github.com/acheong08/ChatGPT"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/acheong08",
+        "username": "acheong08"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1945",
+        "name": "Casey Rodarmor",
+        "repo": {
+            "description": "\ud83d\udc41\u200d\ud83d\udde8 Rare and exotic sats",
+            "name": "ord",
+            "url": "https://github.com/casey/ord"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/casey",
+        "username": "casey"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/71256",
+        "name": "Nathan Rajlich",
+        "repo": {
+            "description": "A barebones WebSocket client and server implementation written in 100% Java.",
+            "name": "Java-WebSocket",
+            "url": "https://github.com/TooTallNate/Java-WebSocket"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/TooTallNate",
+        "username": "TooTallNate"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1478487",
+        "name": "Marten Seemann",
+        "repo": {
+            "description": "QUIC interop runner",
+            "name": "quic-interop-runner",
+            "url": "https://github.com/marten-seemann/quic-interop-runner"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/marten-seemann",
+        "username": "marten-seemann"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/35128",
+        "name": "chencheng (\u4e91\u8c26)",
+        "repo": {
+            "description": "\ud83d\udc22 A collection of awesome browser-side JavaScript libraries, resources and shiny things.",
+            "name": "awesome-javascript",
+            "url": "https://github.com/sorrycc/awesome-javascript"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/sorrycc",
+        "username": "sorrycc"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/283442",
+        "name": "Aliaksandr Valialkin",
+        "repo": {
+            "description": "Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http",
+            "name": "fasthttp",
+            "url": "https://github.com/valyala/fasthttp"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/valyala",
+        "username": "valyala"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/408570",
+        "name": "Seth Vargo",
+        "repo": {
+            "description": "A Go library for parsing struct tags from environment variables.",
+            "name": "go-envconfig",
+            "url": "https://github.com/sethvargo/go-envconfig"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/sethvargo",
+        "username": "sethvargo"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/381895",
+        "name": "katspaugh",
+        "repo": {
+            "description": "Navigable waveform built on Web Audio and Canvas",
+            "name": "wavesurfer.js",
+            "url": "https://github.com/katspaugh/wavesurfer.js"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/katspaugh",
+        "username": "katspaugh"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/658",
+        "name": "Stephen Celis",
+        "repo": {
+            "description": "A type-safe, Swift-language layer over SQLite3.",
+            "name": "SQLite.swift",
+            "url": "https://github.com/stephencelis/SQLite.swift"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/stephencelis",
+        "username": "stephencelis"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/15920488",
+        "name": "tangly1024",
+        "repo": {
+            "description": "\u4e00\u4e2a\u4f7f\u7528 NextJS + Notion API \u5b9e\u73b0\u7684\uff0c\u90e8\u7f72\u5728 Vercel \u4e0a\u7684\u9759\u6001\u535a\u5ba2\u7cfb\u7edf\u3002\u4e3aNotion\u548c\u6240\u6709\u521b\u4f5c\u8005\u8bbe\u8ba1\u3002",
+            "name": "NotionNext",
+            "url": "https://github.com/tangly1024/NotionNext"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/tangly1024",
+        "username": "tangly1024"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/290976",
+        "name": "Vladimir Mihailenco",
+        "repo": {
+            "description": "Golang asynchronous task/job queue with Redis, SQS, IronMQ, and in-memory backends",
+            "name": "taskq",
+            "url": "https://github.com/vmihailenco/taskq"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/vmihailenco",
+        "username": "vmihailenco"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/8782666",
+        "name": "Paul Razvan Berg",
+        "repo": {
+            "description": "Foundry-based template for developing Solidity smart contracts",
+            "name": "foundry-template",
+            "url": "https://github.com/PaulRBerg/foundry-template"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/PaulRBerg",
+        "username": "PaulRBerg"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/31156685",
+        "name": "shelcia",
+        "repo": {
+            "description": "Mocker can generate mock data with API endpoints, powered by faker.js",
+            "name": "mocker",
+            "url": "https://github.com/shelcia/mocker"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/shelcia",
+        "username": "shelcia"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/72891",
+        "name": "Andelf",
+        "repo": {
+            "description": "Rust Embassy projects for LM401-Pro-Kit (STM32WLE5)",
+            "name": "lm401-pro-kit",
+            "url": "https://github.com/andelf/lm401-pro-kit"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/andelf",
+        "username": "andelf"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/6281704",
+        "name": "Igor Pe\u010dovnik",
+        "repo": null,
+        "sponsorUrl": null,
+        "url": "https://github.com/igorpecovnik",
+        "username": "igorpecovnik"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/161631",
+        "name": "Tianon Gravi",
+        "repo": {
+            "description": "Simple Go-based setuid+setgid+setgroups+exec",
+            "name": "gosu",
+            "url": "https://github.com/tianon/gosu"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/tianon",
+        "username": "tianon"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/930215",
+        "name": "Dessalines",
+        "repo": {
+            "description": "A native android app for Lemmy",
+            "name": "jerboa",
+            "url": "https://github.com/dessalines/jerboa"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/dessalines",
+        "username": "dessalines"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/366320",
+        "name": "Paul Mach",
+        "repo": {
+            "description": "Types and utilities for working with 2d geometry in Golang",
+            "name": "orb",
+            "url": "https://github.com/paulmach/orb"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/paulmach",
+        "username": "paulmach"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/26204457",
+        "name": "Arkadii Ivanov",
+        "repo": {
+            "description": "Kotlin Multiplatform lifecycle-aware business logic components (aka BLoCs) with routing functionality and pluggable UI (Jetpack Compose, \u2026",
+            "name": "Decompose",
+            "url": "https://github.com/arkivanov/Decompose"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/arkivanov",
+        "username": "arkivanov"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/1658644",
+        "name": "Julien Le Coupanec",
+        "repo": {
+            "description": "\ud83d\udc69\u200d\ud83d\udcbb\ud83d\udc68\u200d\ud83d\udcbb Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know i\u2026",
+            "name": "awesome-cheatsheets",
+            "url": "https://github.com/LeCoupa/awesome-cheatsheets"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/LeCoupa",
+        "username": "LeCoupa"
+    },
+    {
+        "avatar": "https://avatars.githubusercontent.com/u/7413593",
+        "name": "Ariel Mashraki",
+        "repo": {
+            "description": "An overview of Go syntax and features.",
+            "name": "golang-cheat-sheet",
+            "url": "https://github.com/a8m/golang-cheat-sheet"
+        },
+        "sponsorUrl": null,
+        "url": "https://github.com/a8m",
+        "username": "a8m"
+    }
+]
