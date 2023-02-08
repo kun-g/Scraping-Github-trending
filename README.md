@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [Open-Assistant](https://github.com/LAION-AI/Open-Assistant) | OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so. |
-| [motion-canvas](https://github.com/motion-canvas/motion-canvas) | Visualize Complex Ideas Programmatically |
-| [DocsGPT](https://github.com/arc53/DocsGPT) | GPT-powered chat for documentation search & assistance. |
 | [ChatGPT](https://github.com/acheong08/ChatGPT) | Reverse engineered ChatGPT API |
-| [deno](https://github.com/denoland/deno) | A modern runtime for JavaScript and TypeScript. |
-| [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | This repo includes ChatGPT prompt curation to use ChatGPT better. |
-| [touchHLE](https://github.com/hikari-no-yume/touchHLE) | High-level emulator for iPhone OS apps |
+| [motion-canvas](https://github.com/motion-canvas/motion-canvas) | Visualize Complex Ideas Programmatically |
 | [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) | Integrate ChatGPT into your own discord bot |
-| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
-| [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | 💯 Curated coding interview preparation materials for busy software engineers |
+| [kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path) | A roadmap to learn Kubernetes from scratch (Beginner to Advanced level) |
+| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
+| [DocsGPT](https://github.com/arc53/DocsGPT) | GPT-powered chat for documentation search & assistance. |
+| [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) | ChatGPT 中文调教指南。怎么让它听你的话。 |
+| [Open-Assistant](https://github.com/LAION-AI/Open-Assistant) | OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so. |
+| [Lsmith](https://github.com/ddPn08/Lsmith) | StableDiffusionWebUI accelerated using TensorRT |
+| [ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot) | ChatGPT for wechat https://github.com/AutumnWhj/ChatGPT-wechat-bot |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
