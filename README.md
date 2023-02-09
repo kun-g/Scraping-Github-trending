@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [ChatGPT](https://github.com/acheong08/ChatGPT) | Reverse engineered ChatGPT API |
-| [motion-canvas](https://github.com/motion-canvas/motion-canvas) | Visualize Complex Ideas Programmatically |
-| [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) | Integrate ChatGPT into your own discord bot |
-| [kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path) | A roadmap to learn Kubernetes from scratch (Beginner to Advanced level) |
-| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
-| [DocsGPT](https://github.com/arc53/DocsGPT) | GPT-powered chat for documentation search & assistance. |
-| [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) | ChatGPT 中文调教指南。怎么让它听你的话。 |
-| [Open-Assistant](https://github.com/LAION-AI/Open-Assistant) | OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so. |
-| [Lsmith](https://github.com/ddPn08/Lsmith) | StableDiffusionWebUI accelerated using TensorRT |
+| [deprem-yardim-frontend](https://github.com/acikkaynak/deprem-yardim-frontend) | afetharita.com frontend projesi. https://rc.afetharita.com/ |
+| [deprem-yardim-backend](https://github.com/acikkaynak/deprem-yardim-backend) | afetharita.com backend projesi |
 | [ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot) | ChatGPT for wechat https://github.com/AutumnWhj/ChatGPT-wechat-bot |
+| [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) | Use ChatGPT On Wechat via wechaty |
+| [gpt-travel-advisor](https://github.com/dabit3/gpt-travel-advisor) | Create a travel itinerary for any city in the world in just a few seconds |
+| [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | This repo includes ChatGPT prompt curation to use ChatGPT better. |
+| [motion-canvas](https://github.com/motion-canvas/motion-canvas) | Visualize Complex Ideas Programmatically |
+| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
+| [node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) | A ChatGPT implementation using the official ChatGPT model via OpenAI's API. Available as a Node.js module, REST API server, and CLI app. |
+| [PowerJob](https://github.com/PowerJob/PowerJob) | Enterprise job scheduling middleware with distributed computing ability. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
