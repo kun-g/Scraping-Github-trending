@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [deprem-yardim-frontend](https://github.com/acikkaynak/deprem-yardim-frontend) | afetharita.com frontend projesi. https://rc.afetharita.com/ |
-| [deprem-yardim-backend](https://github.com/acikkaynak/deprem-yardim-backend) | afetharita.com backend projesi |
-| [ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot) | ChatGPT for wechat https://github.com/AutumnWhj/ChatGPT-wechat-bot |
 | [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) | Use ChatGPT On Wechat via wechaty |
-| [gpt-travel-advisor](https://github.com/dabit3/gpt-travel-advisor) | Create a travel itinerary for any city in the world in just a few seconds |
-| [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | This repo includes ChatGPT prompt curation to use ChatGPT better. |
+| [ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot) | ChatGPT for wechat https://github.com/AutumnWhj/ChatGPT-wechat-bot |
 | [motion-canvas](https://github.com/motion-canvas/motion-canvas) | Visualize Complex Ideas Programmatically |
 | [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
-| [node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) | A ChatGPT implementation using the official ChatGPT model via OpenAI's API. Available as a Node.js module, REST API server, and CLI app. |
-| [PowerJob](https://github.com/PowerJob/PowerJob) | Enterprise job scheduling middleware with distributed computing ability. |
+| [wechatbot](https://github.com/djun/wechatbot) | 为个人微信接入ChatGPT |
+| [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | This repo includes ChatGPT prompt curation to use ChatGPT better. |
+| [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) | Integrate ChatGPT into your own discord bot |
+| [deprem-yardim-backend](https://github.com/acikkaynak/deprem-yardim-backend) | afetharita.com backend projesi |
+| [polymath](https://github.com/samim23/polymath) | Convert any music library into a music production sample-library with ML |
+| [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) | 使用ChatGPT搭建微信聊天机器人，基于OpenAI API和itchat实现。Wechat robot based on ChatGPT, which using OpenAI api and itchat library. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
