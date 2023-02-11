@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) | Use ChatGPT On Wechat via wechaty |
-| [ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot) | ChatGPT for wechat https://github.com/AutumnWhj/ChatGPT-wechat-bot |
-| [motion-canvas](https://github.com/motion-canvas/motion-canvas) | Visualize Complex Ideas Programmatically |
-| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
-| [wechatbot](https://github.com/djun/wechatbot) | 为个人微信接入ChatGPT |
-| [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | This repo includes ChatGPT prompt curation to use ChatGPT better. |
-| [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) | Integrate ChatGPT into your own discord bot |
-| [deprem-yardim-backend](https://github.com/acikkaynak/deprem-yardim-backend) | afetharita.com backend projesi |
-| [polymath](https://github.com/samim23/polymath) | Convert any music library into a music production sample-library with ML |
 | [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) | 使用ChatGPT搭建微信聊天机器人，基于OpenAI API和itchat实现。Wechat robot based on ChatGPT, which using OpenAI api and itchat library. |
+| [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) | ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。 |
+| [rustdesk](https://github.com/rustdesk/rustdesk) | Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime. |
+| [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | This repo includes ChatGPT prompt curation to use ChatGPT better. |
+| [go-gpt3](https://github.com/sashabaranov/go-gpt3) | OpenAI GPT-3 and DALL·E API wrapper for Go |
+| [gpt-2](https://github.com/openai/gpt-2) | Code for the paper "Language Models are Unsupervised Multitask Learners" |
+| [Programmers-Overseas-Job-Interview-Handbook](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook) | 🏂🏻 程序员海外工作/英文面试手册 |
+| [ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot) | ChatGPT for wechat https://github.com/AutumnWhj/ChatGPT-wechat-bot |
+| [ESXiArgs-Recover](https://github.com/cisagov/ESXiArgs-Recover) | A tool to recover from ESXiArgs ransomware |
+| [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) | Use ChatGPT On Wechat via wechaty |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
