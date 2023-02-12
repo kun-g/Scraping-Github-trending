@@ -41,14 +41,14 @@
 <!-- START OF MONTHLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [nanoGPT](https://github.com/karpathy/nanoGPT) | The simplest, fastest repository for training/finetuning medium-sized GPTs. |
+| [Open-Assistant](https://github.com/LAION-AI/Open-Assistant) | OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so. |
 | [data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) | Free Data Engineering course! |
-| [imaginAIry](https://github.com/brycedrennan/imaginAIry) | AI imagined images. Pythonic generation of stable diffusion images. |
-| [openai-cookbook](https://github.com/openai/openai-cookbook) | Examples and guides for using the OpenAI API |
-| [nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) | Neural Networks: Zero to Hero |
-| [gpt_index](https://github.com/jerryjliu/gpt_index) | GPT Index is a project consisting of a set of data structures designed to make it easier to use large external knowledge bases with LLMs. |
-| [langchain](https://github.com/hwchase17/langchain) | ⚡ Building applications with LLMs through composability ⚡ |
 | [ChatGPT](https://github.com/lencx/ChatGPT) | 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) |
+| [nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) | Neural Networks: Zero to Hero |
 | [nuxt](https://github.com/nuxt/nuxt) | Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3. |
-| [conc](https://github.com/sourcegraph/conc) | Better structured concurrency for go |
+| [langchain](https://github.com/hwchase17/langchain) | ⚡ Building applications with LLMs through composability ⚡ |
+| [LazyVim](https://github.com/LazyVim/LazyVim) | Neovim config for the lazy |
+| [CodeFormer](https://github.com/sczhou/CodeFormer) | [NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer |
+| [gpt_index](https://github.com/jerryjliu/gpt_index) | GPT Index is a project consisting of a set of data structures designed to make it easier to use large external knowledge bases with LLMs. |
+| [damus](https://github.com/damus-io/damus) | iOS nostr client |
 <!-- END OF MONTHLY_TOP10_REPOS -->
