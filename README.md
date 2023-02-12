@@ -25,16 +25,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [apitable](https://github.com/apitable/apitable) | 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. |
-| [devops-exercises](https://github.com/bregman-arie/devops-exercises) | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions |
+| [Open-Assistant](https://github.com/LAION-AI/Open-Assistant) | OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so. |
+| [ChatGPT](https://github.com/acheong08/ChatGPT) | Reverse engineered ChatGPT API |
 | [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) | Use ChatGPT On Wechat via wechaty |
-| [tinygrad](https://github.com/geohot/tinygrad) | You like pytorch? You like micrograd? You love tinygrad! ❤️ |
-| [ChatGPT](https://github.com/acheong08/ChatGPT) | Reverse engineered ChatGPT API. Uses official model same as the website. |
-| [nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) | Neural Networks: Zero to Hero |
-| [news_toolkit](https://github.com/flutter/news_toolkit) | A news template application built in Flutter, by Google and Very Good Ventures. Learn more at: https://flutter.github.io/news_toolkit |
+| [ord](https://github.com/casey/ord) | 👁‍🗨 Rare and exotic sats |
+| [BioGPT](https://github.com/microsoft/BioGPT) | None |
+| [ChatGPT](https://github.com/lencx/ChatGPT) | 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) |
 | [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) | Node.js client for the unofficial ChatGPT API. 🔥 |
-| [chat-langchain](https://github.com/hwchase17/chat-langchain) | None |
-| [notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) | Notepad++ official repository |
+| [zelda3](https://github.com/snesrev/zelda3) | None |
+| [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) | Integrate ChatGPT into your own discord bot |
+| [ChatRWKV](https://github.com/BlinkDL/ChatRWKV) | ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source. |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
