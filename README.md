@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go) | None |
+| [weekly_report](https://github.com/guaguaguaxia/weekly_report) | None |
 | [wildebeest](https://github.com/cloudflare/wildebeest) | Wildebeest is an ActivityPub and Mastodon-compatible server |
-| [picoGPT](https://github.com/jaymody/picoGPT) | An unnecessarily tiny and minimal implementation of GPT-2 in NumPy. |
-| [Programmers-Overseas-Job-Interview-Handbook](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook) | 🏂🏻 程序员海外工作/英文面试手册 |
-| [coreutils](https://github.com/uutils/coreutils) | Cross-platform Rust rewrite of the GNU coreutils |
-| [rustdesk](https://github.com/rustdesk/rustdesk) | Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime. |
-| [plug-and-play](https://github.com/MichalGeyer/plug-and-play) | Official Pytorch Implementation for “Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation” |
 | [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) | A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app |
-| [wechatbot](https://github.com/djun/wechatbot) | 为个人微信接入ChatGPT |
-| [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) | Use ChatGPT On Wechat via wechaty |
+| [deprem-io-frontend](https://github.com/acikkaynak/deprem-io-frontend) | current-front |
+| [mastodon](https://github.com/mastodon/mastodon) | Your self-hosted, globally interconnected microblogging community |
+| [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | This repo includes ChatGPT prompt curation to use ChatGPT better. |
+| [EdgeGPT](https://github.com/acheong08/EdgeGPT) | Reverse engineered API of Microsoft's Bing Chat |
+| [deprem-io-backend](https://github.com/acikkaynak/deprem-io-backend) | current back Deprem.io is a platform to help with the recent earthquakes in Turkiye |
+| [rustdesk](https://github.com/rustdesk/rustdesk) | Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
