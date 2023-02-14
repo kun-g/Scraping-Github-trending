@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go) | None |
-| [weekly_report](https://github.com/guaguaguaxia/weekly_report) | None |
-| [wildebeest](https://github.com/cloudflare/wildebeest) | Wildebeest is an ActivityPub and Mastodon-compatible server |
-| [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) | A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app |
-| [deprem-io-frontend](https://github.com/acikkaynak/deprem-io-frontend) | current-front |
-| [mastodon](https://github.com/mastodon/mastodon) | Your self-hosted, globally interconnected microblogging community |
-| [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | This repo includes ChatGPT prompt curation to use ChatGPT better. |
+| [ControlNet](https://github.com/lllyasviel/ControlNet) | Let us control diffusion models |
 | [EdgeGPT](https://github.com/acheong08/EdgeGPT) | Reverse engineered API of Microsoft's Bing Chat |
-| [deprem-io-backend](https://github.com/acikkaynak/deprem-io-backend) | current back Deprem.io is a platform to help with the recent earthquakes in Turkiye |
-| [rustdesk](https://github.com/rustdesk/rustdesk) | Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime. |
+| [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | This repo includes ChatGPT prompt curation to use ChatGPT better. |
+| [Ventoy](https://github.com/ventoy/Ventoy) | A new bootable USB solution. |
+| [ChatGPT-Proxy](https://github.com/acheong08/ChatGPT-Proxy) | Forward requests and inject cloudflare cookies |
+| [picoGPT](https://github.com/jaymody/picoGPT) | An unnecessarily tiny implementation of GPT-2 in NumPy. |
+| [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) | A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app |
+| [CodeFormer](https://github.com/sczhou/CodeFormer) | [NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer |
+| [wildebeest](https://github.com/cloudflare/wildebeest) | Wildebeest is an ActivityPub and Mastodon-compatible server |
+| [styleguide](https://github.com/google/styleguide) | Style guides for Google-originated open-source projects |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
