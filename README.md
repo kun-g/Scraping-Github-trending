@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [lowcode-engine](https://github.com/alibaba/lowcode-engine) | An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系 |
+| [fallout1-ce](https://github.com/alexbatalov/fallout1-ce) | Fallout for modern operating systems |
 | [ControlNet](https://github.com/lllyasviel/ControlNet) | Let us control diffusion models |
-| [EdgeGPT](https://github.com/acheong08/EdgeGPT) | Reverse engineered API of Microsoft's Bing Chat |
-| [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | This repo includes ChatGPT prompt curation to use ChatGPT better. |
-| [Ventoy](https://github.com/ventoy/Ventoy) | A new bootable USB solution. |
-| [ChatGPT-Proxy](https://github.com/acheong08/ChatGPT-Proxy) | Forward requests and inject cloudflare cookies |
-| [picoGPT](https://github.com/jaymody/picoGPT) | An unnecessarily tiny implementation of GPT-2 in NumPy. |
-| [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) | A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app |
-| [CodeFormer](https://github.com/sczhou/CodeFormer) | [NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer |
-| [wildebeest](https://github.com/cloudflare/wildebeest) | Wildebeest is an ActivityPub and Mastodon-compatible server |
+| [DEVOPS-WORLD](https://github.com/annfelix/DEVOPS-WORLD) | None |
+| [shell_gpt](https://github.com/TheR1D/shell_gpt) | A command-line interface (CLI) productivity tool powered by OpenAI's GPT-3 text-davinci-003 model, will help you accomplish your tasks faster and more efficiently. |
+| [learn-cantrill-io-labs](https://github.com/acantril/learn-cantrill-io-labs) | Standard and Advanced Demos for learn.cantrill.io courses |
 | [styleguide](https://github.com/google/styleguide) | Style guides for Google-originated open-source projects |
+| [EdgeGPT](https://github.com/acheong08/EdgeGPT) | Reverse engineered API of Microsoft's Bing Chat |
+| [fallout2-ce](https://github.com/alexbatalov/fallout2-ce) | Fallout 2 for modern operating systems |
+| [palera1n-c](https://github.com/palera1n/palera1n-c) | palera1n written in C |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
