@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [lowcode-engine](https://github.com/alibaba/lowcode-engine) | An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系 |
-| [fallout1-ce](https://github.com/alexbatalov/fallout1-ce) | Fallout for modern operating systems |
 | [ControlNet](https://github.com/lllyasviel/ControlNet) | Let us control diffusion models |
-| [DEVOPS-WORLD](https://github.com/annfelix/DEVOPS-WORLD) | None |
-| [shell_gpt](https://github.com/TheR1D/shell_gpt) | A command-line interface (CLI) productivity tool powered by OpenAI's GPT-3 text-davinci-003 model, will help you accomplish your tasks faster and more efficiently. |
-| [learn-cantrill-io-labs](https://github.com/acantril/learn-cantrill-io-labs) | Standard and Advanced Demos for learn.cantrill.io courses |
-| [styleguide](https://github.com/google/styleguide) | Style guides for Google-originated open-source projects |
+| [electric](https://github.com/hyperfiddle/electric) | a reactive signals DSL for fullstack web UI, with compiler-managed network sync |
+| [core-js](https://github.com/zloirock/core-js) | Standard Library |
+| [WAAS](https://github.com/schibsted/WAAS) | Whisper as a Service (GUI and API for OpenAI Whisper) |
+| [gayolGate](https://github.com/gayolGate/gayolGate) | Information about my GitHub profile |
+| [alist](https://github.com/alist-org/alist) | 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。 |
+| [lowcode-engine](https://github.com/alibaba/lowcode-engine) | An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系 |
+| [weekly_report](https://github.com/guaguaguaxia/weekly_report) | None |
 | [EdgeGPT](https://github.com/acheong08/EdgeGPT) | Reverse engineered API of Microsoft's Bing Chat |
-| [fallout2-ce](https://github.com/alexbatalov/fallout2-ce) | Fallout 2 for modern operating systems |
-| [palera1n-c](https://github.com/palera1n/palera1n-c) | palera1n written in C |
+| [Access-chatGPT-in-Siri](https://github.com/Daiyimo/Access-chatGPT-in-Siri) | chatGPT接入Siri指南，目前仅限iPhone端，后续会更新Android |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
