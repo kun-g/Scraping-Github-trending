@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [ColossalAI](https://github.com/hpcaitech/ColossalAI) | Making big AI models cheaper, easier, and more scalable |
+| [azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net) | This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net. |
 | [ControlNet](https://github.com/lllyasviel/ControlNet) | Let us control diffusion models |
-| [electric](https://github.com/hyperfiddle/electric) | a reactive signals DSL for fullstack web UI, with compiler-managed network sync |
-| [core-js](https://github.com/zloirock/core-js) | Standard Library |
-| [WAAS](https://github.com/schibsted/WAAS) | Whisper as a Service (GUI and API for OpenAI Whisper) |
-| [gayolGate](https://github.com/gayolGate/gayolGate) | Information about my GitHub profile |
+| [sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) | WebUI extension for ControlNet |
+| [gxmods](https://github.com/opera-gaming/gxmods) | Documentation for GX mods |
+| [promptable](https://github.com/cfortuner/promptable) | Build LLM apps in Typescript/Javascript. 🧑‍💻 🧑‍💻 🧑‍💻 🚀 🚀 🚀 |
+| [PPHC](https://github.com/johnlui/PPHC) | 📙《高并发的哲学原理》开源图书 |
+| [Charts](https://github.com/danielgindi/Charts) | Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart. |
 | [alist](https://github.com/alist-org/alist) | 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。 |
-| [lowcode-engine](https://github.com/alibaba/lowcode-engine) | An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系 |
-| [weekly_report](https://github.com/guaguaguaxia/weekly_report) | None |
-| [EdgeGPT](https://github.com/acheong08/EdgeGPT) | Reverse engineered API of Microsoft's Bing Chat |
-| [Access-chatGPT-in-Siri](https://github.com/Daiyimo/Access-chatGPT-in-Siri) | chatGPT接入Siri指南，目前仅限iPhone端，后续会更新Android |
+| [WindTerm](https://github.com/kingToolbox/WindTerm) | A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
