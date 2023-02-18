@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [ColossalAI](https://github.com/hpcaitech/ColossalAI) | Making big AI models cheaper, easier, and more scalable |
-| [azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net) | This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net. |
-| [ControlNet](https://github.com/lllyasviel/ControlNet) | Let us control diffusion models |
 | [sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) | WebUI extension for ControlNet |
-| [gxmods](https://github.com/opera-gaming/gxmods) | Documentation for GX mods |
-| [promptable](https://github.com/cfortuner/promptable) | Build LLM apps in Typescript/Javascript. 🧑‍💻 🧑‍💻 🧑‍💻 🚀 🚀 🚀 |
-| [PPHC](https://github.com/johnlui/PPHC) | 📙《高并发的哲学原理》开源图书 |
-| [Charts](https://github.com/danielgindi/Charts) | Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart. |
-| [alist](https://github.com/alist-org/alist) | 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。 |
-| [WindTerm](https://github.com/kingToolbox/WindTerm) | A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal. |
+| [rerun](https://github.com/rerun-io/rerun) | Log images, point clouds, etc, and visualize them effortlessly. Built in Rust using egui |
+| [ControlNet](https://github.com/lllyasviel/ControlNet) | Let us control diffusion models |
+| [aicommits](https://github.com/Nutlope/aicommits) | A CLI that writes your git commit messages for you with AI |
+| [mario-gpt](https://github.com/shyamsn97/mario-gpt) | Generating Mario Levels with GPT2. Code for the paper "MarioGPT: Open-Ended Text2Level Generation through Large Language Models" https://arxiv.org/abs/2302.05981 |
+| [mctx](https://github.com/deepmind/mctx) | Monte Carlo tree search in JAX |
+| [mermaid](https://github.com/mermaid-js/mermaid) | Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown |
+| [azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net) | This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net. |
+| [core-js](https://github.com/zloirock/core-js) | Standard Library |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
