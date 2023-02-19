@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [ColossalAI](https://github.com/hpcaitech/ColossalAI) | Making big AI models cheaper, easier, and more scalable |
 | [sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) | WebUI extension for ControlNet |
-| [rerun](https://github.com/rerun-io/rerun) | Log images, point clouds, etc, and visualize them effortlessly. Built in Rust using egui |
+| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A youtube-dl fork with additional features and fixes |
+| [whatsapp-chatgpt](https://github.com/askrella/whatsapp-chatgpt) | ChatGPT + DALL-E + Whatsapp = AI Assistant 🚀 |
+| [nas-tools](https://github.com/NAStool/nas-tools) | NAS媒体库管理工具 |
+| [style2paints](https://github.com/lllyasviel/style2paints) | sketch + style = paints 🎨 (TOG2018/SIGGRAPH2018ASIA) |
+| [ColossalAI](https://github.com/hpcaitech/ColossalAI) | Making big AI models cheaper, easier, and more scalable |
+| [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI |
 | [ControlNet](https://github.com/lllyasviel/ControlNet) | Let us control diffusion models |
-| [aicommits](https://github.com/Nutlope/aicommits) | A CLI that writes your git commit messages for you with AI |
-| [mario-gpt](https://github.com/shyamsn97/mario-gpt) | Generating Mario Levels with GPT2. Code for the paper "MarioGPT: Open-Ended Text2Level Generation through Large Language Models" https://arxiv.org/abs/2302.05981 |
-| [mctx](https://github.com/deepmind/mctx) | Monte Carlo tree search in JAX |
-| [mermaid](https://github.com/mermaid-js/mermaid) | Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown |
-| [azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net) | This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net. |
-| [core-js](https://github.com/zloirock/core-js) | Standard Library |
+| [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) | A launch point for your personal nvim configuration |
+| [ractor](https://github.com/slawlor/ractor) | Rust actor framework |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
