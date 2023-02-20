@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) | WebUI extension for ControlNet |
-| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A youtube-dl fork with additional features and fixes |
-| [whatsapp-chatgpt](https://github.com/askrella/whatsapp-chatgpt) | ChatGPT + DALL-E + Whatsapp = AI Assistant 🚀 |
-| [nas-tools](https://github.com/NAStool/nas-tools) | NAS媒体库管理工具 |
-| [style2paints](https://github.com/lllyasviel/style2paints) | sketch + style = paints 🎨 (TOG2018/SIGGRAPH2018ASIA) |
-| [ColossalAI](https://github.com/hpcaitech/ColossalAI) | Making big AI models cheaper, easier, and more scalable |
+| [whatsapp-chatgpt](https://github.com/askrella/whatsapp-chatgpt) | ChatGPT + DALL-E + WhatsApp = AI Assistant 🚀 |
+| [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites |
 | [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI |
+| [CodeFormer](https://github.com/sczhou/CodeFormer) | [NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer |
 | [ControlNet](https://github.com/lllyasviel/ControlNet) | Let us control diffusion models |
+| [EnergonAI](https://github.com/hpcaitech/EnergonAI) | Large-scale model inference. |
 | [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) | A launch point for your personal nvim configuration |
-| [ractor](https://github.com/slawlor/ractor) | Rust actor framework |
+| [langchainjs](https://github.com/hwchase17/langchainjs) | None |
+| [Telegram](https://github.com/DrKLO/Telegram) | Telegram for Android source |
+| [NimPlant](https://github.com/chvancooten/NimPlant) | A light-weight first-stage C2 implant written in Nim. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
