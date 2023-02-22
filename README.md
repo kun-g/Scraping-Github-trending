@@ -9,16 +9,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [whatsapp-chatgpt](https://github.com/askrella/whatsapp-chatgpt) | ChatGPT + DALL-E + WhatsApp = AI Assistant 🚀 |
-| [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI |
-| [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites |
-| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A youtube-dl fork with additional features and fixes |
-| [picoGPT](https://github.com/jaymody/picoGPT) | An unnecessarily tiny implementation of GPT-2 in NumPy. |
-| [ControlNet](https://github.com/lllyasviel/ControlNet) | Let us control diffusion models |
-| [sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) | WebUI extension for ControlNet |
-| [stable-diffusion](https://github.com/CompVis/stable-diffusion) | A latent text-to-image diffusion model |
-| [trpc](https://github.com/trpc/trpc) | 🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy. |
-| [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Interactive roadmaps, guides and other educational content to help developers grow in their careers. |
+| [Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) | ISG lets you use YouTube as cloud storage for ANY files, not just video |
+| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
+| [immersive-translate](https://github.com/immersive-translate/immersive-translate) | Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展 |
+| [Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) | Remove large amounts of unwanted applications quickly. |
+| [aliyunpan](https://github.com/liupan1890/aliyunpan) | 阿里云盘小白羊版 阿里云盘PC版 aliyundriver |
+| [whatsapp-chatgpt](https://github.com/askrella/whatsapp-chatgpt) | ChatGPT + DALL-E + WhatsApp = AI Assistant 🚀 🤖 |
+| [openpose-editor](https://github.com/fkunn1326/openpose-editor) | Openpose Editor for AUTOMATIC1111's stable-diffusion-webui |
+| [pix2pix3D](https://github.com/dunbar12138/pix2pix3D) | pix2pix3D: Generating 3D Objects from 2D User Inputs |
+| [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
+| [zincsearch](https://github.com/zinclabs/zincsearch) | ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
