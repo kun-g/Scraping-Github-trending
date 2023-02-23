@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) | ISG lets you use YouTube as cloud storage for ANY files, not just video |
-| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
-| [immersive-translate](https://github.com/immersive-translate/immersive-translate) | Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展 |
-| [Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) | Remove large amounts of unwanted applications quickly. |
-| [aliyunpan](https://github.com/liupan1890/aliyunpan) | 阿里云盘小白羊版 阿里云盘PC版 aliyundriver |
+| [mm-cot](https://github.com/amazon-science/mm-cot) | Official implementation for "Multimodal Chain-of-Thought Reasoning in Language Models" (stay tuned and more will be updated) |
 | [whatsapp-chatgpt](https://github.com/askrella/whatsapp-chatgpt) | ChatGPT + DALL-E + WhatsApp = AI Assistant 🚀 🤖 |
-| [openpose-editor](https://github.com/fkunn1326/openpose-editor) | Openpose Editor for AUTOMATIC1111's stable-diffusion-webui |
-| [pix2pix3D](https://github.com/dunbar12138/pix2pix3D) | pix2pix3D: Generating 3D Objects from 2D User Inputs |
-| [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
-| [zincsearch](https://github.com/zinclabs/zincsearch) | ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go. |
+| [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page |
+| [devops-exercises](https://github.com/bregman-arie/devops-exercises) | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions |
+| [FlexGen](https://github.com/FMInference/FlexGen) | Running large language models like OPT-175B/GPT-3 on a single GPU. Focusing on high-throughput large-batch generation. |
+| [pygwalker](https://github.com/Kanaries/pygwalker) | PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis |
+| [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Interactive roadmaps, guides and other educational content to help developers grow in their careers. |
+| [picoGPT](https://github.com/jaymody/picoGPT) | An unnecessarily tiny implementation of GPT-2 in NumPy. |
+| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
