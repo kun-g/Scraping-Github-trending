@@ -11,7 +11,7 @@
 | :----: | :----: |
 | [Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) | ISG lets you use YouTube as cloud storage for ANY files, not just video |
 | [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | 🐙 Guides, papers, lecture, and resources for prompt engineering |
-| [FlexGen](https://github.com/FMInference/FlexGen) | Running large language models like OPT-175B/GPT-3 on a single GPU. Focusing on high-throughput large-batch generation. |
+| [FlexGen](https://github.com/FMInference/FlexGen) | Running large language models like OPT-175B/GPT-3 on a single GPU. Focusing on high-throughput generation. |
 | [pygwalker](https://github.com/Kanaries/pygwalker) | PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis |
 | [mm-cot](https://github.com/amazon-science/mm-cot) | Official implementation for "Multimodal Chain-of-Thought Reasoning in Language Models" (stay tuned and more will be updated) |
 | [civitai](https://github.com/civitai/civitai) | A repository of models, textual inversions, and more |
