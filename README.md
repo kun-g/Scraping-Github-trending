@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) | ISG lets you use YouTube as cloud storage for ANY files, not just video |
-| [mm-cot](https://github.com/amazon-science/mm-cot) | Official implementation for "Multimodal Chain-of-Thought Reasoning in Language Models" (stay tuned and more will be updated) |
-| [whatsapp-chatgpt](https://github.com/askrella/whatsapp-chatgpt) | ChatGPT + DALL-E + WhatsApp = AI Assistant 🚀 🤖 |
-| [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page |
-| [devops-exercises](https://github.com/bregman-arie/devops-exercises) | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions |
+| [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | 🐙 Guides, papers, lecture, and resources for prompt engineering |
 | [FlexGen](https://github.com/FMInference/FlexGen) | Running large language models like OPT-175B/GPT-3 on a single GPU. Focusing on high-throughput large-batch generation. |
 | [pygwalker](https://github.com/Kanaries/pygwalker) | PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis |
-| [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Interactive roadmaps, guides and other educational content to help developers grow in their careers. |
-| [picoGPT](https://github.com/jaymody/picoGPT) | An unnecessarily tiny implementation of GPT-2 in NumPy. |
+| [mm-cot](https://github.com/amazon-science/mm-cot) | Official implementation for "Multimodal Chain-of-Thought Reasoning in Language Models" (stay tuned and more will be updated) |
+| [civitai](https://github.com/civitai/civitai) | A repository of models, textual inversions, and more |
+| [WINDOWS-OPTIMIZATIONS](https://github.com/MysticFoxDE/WINDOWS-OPTIMIZATIONS) | SKRIPTS FOR WINDOWS DESUBOPTIMIZATION |
+| [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) | Atmosphère is a work-in-progress customized firmware for the Nintendo Switch. |
 | [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
+| [immich](https://github.com/immich-app/immich) | Self-hosted photo and video backup solution directly from your mobile phone. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
