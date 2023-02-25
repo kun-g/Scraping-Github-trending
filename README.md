@@ -10,15 +10,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) | ISG lets you use YouTube as cloud storage for ANY files, not just video |
-| [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | 🐙 Guides, papers, lecture, and resources for prompt engineering |
-| [FlexGen](https://github.com/FMInference/FlexGen) | Running large language models like OPT-175B/GPT-3 on a single GPU. Focusing on high-throughput generation. |
-| [pygwalker](https://github.com/Kanaries/pygwalker) | PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis |
 | [mm-cot](https://github.com/amazon-science/mm-cot) | Official implementation for "Multimodal Chain-of-Thought Reasoning in Language Models" (stay tuned and more will be updated) |
-| [civitai](https://github.com/civitai/civitai) | A repository of models, textual inversions, and more |
-| [WINDOWS-OPTIMIZATIONS](https://github.com/MysticFoxDE/WINDOWS-OPTIMIZATIONS) | SKRIPTS FOR WINDOWS DESUBOPTIMIZATION |
+| [mox](https://github.com/mjl-/mox) | modern full-featured open source secure mail server for low-maintenance self-hosted email |
+| [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | 🐙 Guides, papers, lecture, and resources for prompt engineering |
+| [Ambient](https://github.com/AmbientRun/Ambient) | The multiplayer game engine |
 | [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) | Atmosphère is a work-in-progress customized firmware for the Nintendo Switch. |
-| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
-| [immich](https://github.com/immich-app/immich) | Self-hosted photo and video backup solution directly from your mobile phone. |
+| [LMOps](https://github.com/microsoft/LMOps) | General technology for enabling AI capabilities w/ LLMs and Generative AI models |
+| [minixfromscratch](https://github.com/o-oconnell/minixfromscratch) | Development and compilation setup for the book version of MINIX (3.1.0) on QEMU |
+| [hekate](https://github.com/CTCaer/hekate) | hekate - A GUI based Nintendo Switch Bootloader |
+| [ScienceQA](https://github.com/lupantech/ScienceQA) | Data and code for NeurIPS 2022 Paper "Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering". |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
