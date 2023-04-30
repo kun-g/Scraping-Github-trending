@@ -1,6 +1,10 @@
 # 定时抓取Github Trending里的数据
+
+作为一个间歇性“松鼠症”患者，有时候会花几个小时逛Github Trending，生怕漏掉什么重要的东西，说到底是心理作用罢了。
+
+而这个Github Trend爬虫，就是我给自己开的一味药，都收集起来，就不怕漏掉啥了（虽然这个逻辑经不起推敲，不过确实部署这个爬虫之后，我再也没有逛过Github Trend）
+
 * 基于[Github Actions](https://docs.github.com/en/actions)的爬虫
-* 使用[gtrending](https://github.com/hedythedev/gtrending)来获取Github Trending的数据
 * 使用[click](https://github.com/pallets/click)实现了命令行参数
 * 使用[Crontab Guru](https://crontab.guru/)来设置定时参数
 
@@ -9,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) | ISG lets you use YouTube as cloud storage for ANY files, not just video |
-| [mm-cot](https://github.com/amazon-science/mm-cot) | Official implementation for "Multimodal Chain-of-Thought Reasoning in Language Models" (stay tuned and more will be updated) |
-| [mox](https://github.com/mjl-/mox) | modern full-featured open source secure mail server for low-maintenance self-hosted email |
-| [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | 🐙 Guides, papers, lecture, and resources for prompt engineering |
-| [Ambient](https://github.com/AmbientRun/Ambient) | The multiplayer game engine |
-| [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) | Atmosphère is a work-in-progress customized firmware for the Nintendo Switch. |
-| [LMOps](https://github.com/microsoft/LMOps) | General technology for enabling AI capabilities w/ LLMs and Generative AI models |
-| [minixfromscratch](https://github.com/o-oconnell/minixfromscratch) | Development and compilation setup for the book version of MINIX (3.1.0) on QEMU |
-| [hekate](https://github.com/CTCaer/hekate) | hekate - A GUI based Nintendo Switch Bootloader |
-| [ScienceQA](https://github.com/lupantech/ScienceQA) | Data and code for NeurIPS 2022 Paper "Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering". |
+| [gpt4free](https://github.com/xtekky/gpt4free) | decentralising the Ai Industry, just some language model api's... |
+| [AudioGPT](https://github.com/AIGC-Audio/AudioGPT) | AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head |
+| [thinkgpt](https://github.com/alaeddine-13/thinkgpt) | Agent techniques to augment your LLM and push it beyong its limits |
+| [IF](https://github.com/deep-floyd/IF) |  |
+| [NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) | NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems. |
+| [LocalAI](https://github.com/go-skynet/LocalAI) | 🤖 Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware. API for ggml compatible models, for instance: llama.cpp, alpaca.cpp, gpt4all.cpp, vicuna, koala, gpt4all-j, cerebras |
+| [LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide) |  |
+| [Track-Anything](https://github.com/gaomingqi/Track-Anything) | Track-Anything is a flexible and interactive tool for video object tracking and segmentation, based on Segment Anything, XMem, and E2FGVI. |
+| [Free-AUTO-GPT-with-NO-API](https://github.com/IntelligenzaArtificiale/Free-AUTO-GPT-with-NO-API) | Free AUTOGPT with NO API is a repository that offers a simple version of Autogpt, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation does not rely on any paid OpenAI API, making it accessible to anyone. |
+| [jarvis](https://github.com/Priler/jarvis) | Voice assistant made as an experiment using neural networks for things like STT/TTS/Wake Word/NLU etc. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10

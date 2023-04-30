@@ -1,6 +1,7 @@
-from gtrending import fetch_repos, fetch_developers
 from datetime import datetime
 import json, click
+
+from lib.fetch import fetch_repos, fetch_developers
 
 @click.command()
 @click.option("--fetch", default='repos', help="repos or developers")
