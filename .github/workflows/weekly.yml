@@ -16,7 +16,6 @@ jobs:
     - name: Update README
       run: |-
         python scrape.py --fetch repos --period weekly
-        python scrape.py --fetch developers --period weekly
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
