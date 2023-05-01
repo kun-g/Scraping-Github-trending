@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [gpt4free](https://github.com/xtekky/gpt4free) | decentralising the Ai Industry, just some language model api's... |
 | [AudioGPT](https://github.com/AIGC-Audio/AudioGPT) | AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head |
-| [thinkgpt](https://github.com/alaeddine-13/thinkgpt) | Agent techniques to augment your LLM and push it beyong its limits |
 | [IF](https://github.com/deep-floyd/IF) |  |
-| [NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) | NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems. |
-| [LocalAI](https://github.com/go-skynet/LocalAI) | 🤖 Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware. API for ggml compatible models, for instance: llama.cpp, alpaca.cpp, gpt4all.cpp, vicuna, koala, gpt4all-j, cerebras |
-| [LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide) |  |
-| [Track-Anything](https://github.com/gaomingqi/Track-Anything) | Track-Anything is a flexible and interactive tool for video object tracking and segmentation, based on Segment Anything, XMem, and E2FGVI. |
-| [Free-AUTO-GPT-with-NO-API](https://github.com/IntelligenzaArtificiale/Free-AUTO-GPT-with-NO-API) | Free AUTOGPT with NO API is a repository that offers a simple version of Autogpt, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation does not rely on any paid OpenAI API, making it accessible to anyone. |
-| [jarvis](https://github.com/Priler/jarvis) | Voice assistant made as an experiment using neural networks for things like STT/TTS/Wake Word/NLU etc. |
+| [WizardLM](https://github.com/nlpxucan/WizardLM) | WizardLM: Empowering Large Pre-Trained Language Models to Follow Complex Instructions |
+| [LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide) | A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers) |
+| [Segment-Everything-Everywhere-All-At-Once](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once) | Official implementation of the paper "Segment Everything Everywhere All at Once" |
+| [scrcpy](https://github.com/Genymobile/scrcpy) | Display and control your Android device |
+| [lamini](https://github.com/lamini-ai/lamini) |  |
+| [cal.com](https://github.com/calcom/cal.com) | Scheduling infrastructure for absolutely everyone. |
+| [v2ray-worker-sub](https://github.com/vfarid/v2ray-worker-sub) | A Cloudflare's Worker script to gather free v2ray configs and mix them with worker in order to make them work over filtered networks. |
+| [gpt4free](https://github.com/xtekky/gpt4free) | decentralising the Ai Industry, just some language model api's... |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
