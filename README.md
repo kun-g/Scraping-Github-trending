@@ -45,14 +45,14 @@
 <!-- START OF MONTHLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [instruct-pix2pix](https://github.com/timothybrooks/instruct-pix2pix) | None |
-| [Open-Assistant](https://github.com/LAION-AI/Open-Assistant) | OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so. |
-| [ChatGPT](https://github.com/lencx/ChatGPT) | 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) |
-| [ColossalAI](https://github.com/hpcaitech/ColossalAI) | Making big AI models cheaper, easier, and more scalable |
-| [nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) | Neural Networks: Zero to Hero |
-| [nuxt](https://github.com/nuxt/nuxt) | Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3. |
-| [LazyVim](https://github.com/LazyVim/LazyVim) | Neovim config for the lazy |
-| [ChatGPT](https://github.com/acheong08/ChatGPT) | Reverse engineered ChatGPT API |
-| [ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot) | ChatGPT for wechat https://github.com/AutumnWhj/ChatGPT-wechat-bot |
-| [damus](https://github.com/damus-io/damus) | iOS nostr client |
+| [FastChat](https://github.com/lm-sys/FastChat) | The release repo for "Vicuna: An Open Chatbot Impressing GPT-4" |
+| [DeepSpeed](https://github.com/microsoft/DeepSpeed) | DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. |
+| [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) | One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。 |
+| [wolverine](https://github.com/biobootloader/wolverine) |  |
+| [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) | 中文LLaMA&Alpaca大语言模型+本地CPU/GPU部署 (Chinese LLaMA & Alpaca LLMs) |
+| [gpt4all](https://github.com/nomic-ai/gpt4all) | gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue |
+| [taxonomy](https://github.com/shadcn/taxonomy) | An open source application built using the new router, server components and everything new in Next.js 13. |
+| [langchain](https://github.com/hwchase17/langchain) | ⚡ Building applications with LLMs through composability ⚡ |
+| [chroma](https://github.com/chroma-core/chroma) | the AI-native open-source embedding database |
+| [text-generation-webui](https://github.com/oobabooga/text-generation-webui) | A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA. |
 <!-- END OF MONTHLY_TOP10_REPOS -->
