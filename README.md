@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [AudioGPT](https://github.com/AIGC-Audio/AudioGPT) | AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head |
 | [mlc-llm](https://github.com/mlc-ai/mlc-llm) | Enable everyone to develop, optimize and deploy AI models natively on everyone's devices. |
-| [Free-AUTO-GPT-with-NO-API](https://github.com/IntelligenzaArtificiale/Free-AUTO-GPT-with-NO-API) | Free AUTOGPT with NO API is a repository that offers a simple version of Autogpt, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation does not rely on any paid OpenAI API, making it accessible to anyone. |
-| [LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide) | A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers) |
-| [IF](https://github.com/deep-floyd/IF) |  |
-| [lamini](https://github.com/lamini-ai/lamini) |  |
-| [ChatVRM](https://github.com/pixiv/ChatVRM) |  |
 | [cal.com](https://github.com/calcom/cal.com) | Scheduling infrastructure for absolutely everyone. |
-| [Linly](https://github.com/CVI-SZU/Linly) | Chinese-LLaMA基础模型；ChatFlow中文对话模型；NLP预训练/指令微调数据集 |
-| [TTS](https://github.com/coqui-ai/TTS) | 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production |
+| [Flowise](https://github.com/FlowiseAI/Flowise) | Drag & drop UI to build your customized LLM flow using LangchainJS |
+| [AudioGPT](https://github.com/AIGC-Audio/AudioGPT) | AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head |
+| [sudo-rs](https://github.com/memorysafety/sudo-rs) | A memory safe implementation of sudo and su. |
+| [pandas-ai](https://github.com/gventuri/pandas-ai) | Pandas AI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational |
+| [gpt4free](https://github.com/xtekky/gpt4free) | decentralising the Ai Industry, just some language model api's... |
+| [AutoPR](https://github.com/irgolic/AutoPR) | Fix issues with AI-generated pull requests, powered by ChatGPT |
+| [lamini](https://github.com/lamini-ai/lamini) |  |
+| [full-stack-professional](https://github.com/amigoscode/full-stack-professional) |  |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
