@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [Ryujinx](https://github.com/Ryujinx/Ryujinx) | Experimental Nintendo Switch Emulator written in C# |
 | [pandas-ai](https://github.com/gventuri/pandas-ai) | Pandas AI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational |
-| [mlc-llm](https://github.com/mlc-ai/mlc-llm) | Enable everyone to develop, optimize and deploy AI models natively on everyone's devices. |
-| [gpt4free](https://github.com/xtekky/gpt4free) | decentralising the Ai Industry, just some language model api's... |
-| [AudioGPT](https://github.com/AIGC-Audio/AudioGPT) | AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head |
-| [ChatVRM](https://github.com/pixiv/ChatVRM) |  |
-| [dashy](https://github.com/Lissy93/dashy) | 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! |
-| [nanoGPT](https://github.com/karpathy/nanoGPT) | The simplest, fastest repository for training/finetuning medium-sized GPTs. |
+| [alpaca-lora](https://github.com/tloen/alpaca-lora) | Instruct-tune LLaMA on consumer hardware |
+| [super-gradients](https://github.com/Deci-AI/super-gradients) | Easily train or fine-tune SOTA computer vision models with one open source training library. The home of Yolo-NAS. |
 | [Discord-Chatbot-Gpt4Free](https://github.com/mishalhossin/Discord-Chatbot-Gpt4Free) | This is a Python-based Discord Chatbot. This is all free due to the GPT4FREE project |
-| [immich](https://github.com/immich-app/immich) | Self-hosted photo and video backup solution directly from your mobile phone. |
+| [vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) | A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！ |
+| [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) | 吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版 |
+| [Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) | Cloud-native SIEM for intelligent security analytics for your entire enterprise. |
+| [v](https://github.com/vlang/v) | Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io |
+| [mojo](https://github.com/modularml/mojo) | The Mojo Programming Language |
+| [Ryujinx](https://github.com/Ryujinx/Ryujinx) | Experimental Nintendo Switch Emulator written in C# |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
