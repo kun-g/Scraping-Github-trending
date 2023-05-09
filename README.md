@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [shap-e](https://github.com/openai/shap-e) | Generate 3D objects conditioned on text or images |
-| [alpaca-lora](https://github.com/tloen/alpaca-lora) | Instruct-tune LLaMA on consumer hardware |
-| [vault-ai](https://github.com/pashpashpash/vault-ai) | OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, etc) using a simple React frontend. |
+| [qdrant](https://github.com/qdrant/qdrant) | Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud https://cloud.qdrant.io/ |
+| [pineapple-src](https://github.com/pineappleEA/pineapple-src) | yuzu Early Access source code |
 | [llm-foundry](https://github.com/mosaicml/llm-foundry) | LLM training code for MosaicML foundation models |
+| [skyline](https://github.com/skyline-emu/skyline) | Run Nintendo Switch homebrew & games on your Android device! |
 | [starcoder](https://github.com/bigcode-project/starcoder) | Home of StarCoder: fine-tuning & inference! |
-| [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) | 中文LLaMA&Alpaca大语言模型+本地CPU/GPU部署 (Chinese LLaMA & Alpaca LLMs) |
-| [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) | ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型 |
-| [langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) | langchain-ChatGLM, local knowledge based ChatGLM with langchain ｜ 基于本地知识的 ChatGLM 问答 |
-| [DeepSpeed](https://github.com/microsoft/DeepSpeed) | DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. |
-| [text-generation-webui](https://github.com/oobabooga/text-generation-webui) | A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA. |
+| [shap-e](https://github.com/openai/shap-e) | Generate 3D objects conditioned on text or images |
+| [gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) | This is a replication project for the typescript version of xtekky/gpt4free |
+| [PentestGPT](https://github.com/GreyDGL/PentestGPT) | A GPT-empowered penetration testing tool |
+| [azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk) | Complete Open Source and Modular solution for MMO |
+| [stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) | Code and documentation to train Stanford's Alpaca models, and generate the data. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
