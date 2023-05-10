@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [qdrant](https://github.com/qdrant/qdrant) | Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud https://cloud.qdrant.io/ |
-| [pineapple-src](https://github.com/pineappleEA/pineapple-src) | yuzu Early Access source code |
-| [llm-foundry](https://github.com/mosaicml/llm-foundry) | LLM training code for MosaicML foundation models |
-| [skyline](https://github.com/skyline-emu/skyline) | Run Nintendo Switch homebrew & games on your Android device! |
-| [starcoder](https://github.com/bigcode-project/starcoder) | Home of StarCoder: fine-tuning & inference! |
 | [shap-e](https://github.com/openai/shap-e) | Generate 3D objects conditioned on text or images |
+| [open-chat-video-editor](https://github.com/SCUTlihaoyu/open-chat-video-editor) | Open source short video automatic generation tool |
+| [so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) | SoftVC VITS Singing Voice Conversion |
+| [hello-algo](https://github.com/krahets/hello-algo) | 《Hello 算法》是一本动画图解、能运行、可提问的数据结构与算法入门书，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Zig 等语言。 |
+| [extension](https://github.com/unisat-wallet/extension) | The first open-source browser extension wallet for Bitcoin NFTs |
+| [Personalize-SAM](https://github.com/ZrrSkywalker/Personalize-SAM) | Personalize Segment Anything Model (SAM) with 1 shot in 10 seconds |
+| [atuin](https://github.com/ellie/atuin) | 🐢 Magical shell history |
+| [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) | 中文LLaMA&Alpaca大语言模型+本地CPU/GPU部署 (Chinese LLaMA & Alpaca LLMs) |
+| [1Panel](https://github.com/1Panel-dev/1Panel) | 现代化、开源的 Linux 服务器运维管理面板。 |
 | [gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) | This is a replication project for the typescript version of xtekky/gpt4free |
-| [PentestGPT](https://github.com/GreyDGL/PentestGPT) | A GPT-empowered penetration testing tool |
-| [azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk) | Complete Open Source and Modular solution for MMO |
-| [stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) | Code and documentation to train Stanford's Alpaca models, and generate the data. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
