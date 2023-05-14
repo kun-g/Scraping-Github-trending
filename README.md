@@ -29,16 +29,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [AudioGPT](https://github.com/AIGC-Audio/AudioGPT) | AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head |
-| [gpt4free](https://github.com/xtekky/gpt4free) | decentralising the Ai Industry, just some language model api's... |
 | [Ryujinx](https://github.com/Ryujinx/Ryujinx) | Experimental Nintendo Switch Emulator written in C# |
-| [IF](https://github.com/deep-floyd/IF) |  |
-| [Flowise](https://github.com/FlowiseAI/Flowise) | Drag & drop UI to build your customized LLM flow using LangchainJS |
+| [gpt4free](https://github.com/xtekky/gpt4free) | decentralising the Ai Industry, just some language model api's... |
+| [mlc-llm](https://github.com/mlc-ai/mlc-llm) | Enable everyone to develop, optimize and deploy AI models natively on everyone's devices. |
 | [PentestGPT](https://github.com/GreyDGL/PentestGPT) | A GPT-empowered penetration testing tool |
-| [chatgpt-clone](https://github.com/xtekky/chatgpt-clone) | ChatGPT interface with better UI |
-| [cal.com](https://github.com/calcom/cal.com) | Scheduling infrastructure for absolutely everyone. |
-| [atproto](https://github.com/bluesky-social/atproto) | Social networking technology created by Bluesky |
-| [NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) | NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems. |
+| [qdrant](https://github.com/qdrant/qdrant) | Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud https://cloud.qdrant.io/ |
+| [alpaca-lora](https://github.com/tloen/alpaca-lora) | Instruct-tune LLaMA on consumer hardware |
+| [Flowise](https://github.com/FlowiseAI/Flowise) | Drag & drop UI to build your customized LLM flow using LangchainJS |
+| [Auto-GPT-Plugins](https://github.com/Significant-Gravitas/Auto-GPT-Plugins) | Plugins for Auto-GPT |
+| [qwik](https://github.com/BuilderIO/qwik) | Instant-loading web apps, without effort |
+| [ord](https://github.com/casey/ord) | 👁‍🗨 Rare and exotic sats |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
