@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [privateGPT](https://github.com/imartinez/privateGPT) | Interact privately with your documents using the power of GPT, 100% privately, no data leaks |
-| [so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) | so-vits-svc fork with realtime support, improved interface and more features. |
-| [so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) | SoftVC VITS Singing Voice Conversion |
-| [semantic-kernel](https://github.com/microsoft/semantic-kernel) | Integrate cutting-edge LLM technology quickly and easily into your apps |
-| [Huatuo-Llama-Med-Chinese](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) | Repo for HuaTuo (华驼), Llama-7B tuned with Chinese medical knowledge. 华驼模型仓库，基于中文医学知识的LLaMA模型指令微调 |
-| [orillusion](https://github.com/Orillusion/orillusion) | Orillusion is a pure Web3D rendering engine which is fully developed based on the WebGPU standard. |
-| [open-llms](https://github.com/eugeneyan/open-llms) | 🤖 A list of open LLMs available for commercial use. |
-| [qdrant](https://github.com/qdrant/qdrant) | Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud https://cloud.qdrant.io/ |
-| [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) | Atmosphère is a work-in-progress customized firmware for the Nintendo Switch. |
-| [smartgpt](https://github.com/Cormanz/smartgpt) | A program that provides LLMs with the ability to complete complex tasks using plugins. |
+| [pandora](https://github.com/pengzhile/pandora) | 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly. |
+| [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) | The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language. |
+| [yuzu](https://github.com/yuzu-emu/yuzu) | Nintendo Switch Emulator |
+| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
+| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
+| [plugins-quickstart](https://github.com/openai/plugins-quickstart) | Get a ChatGPT plugin up and running in under 5 minutes! |
+| [FlipperAmiibo](https://github.com/Gioman101/FlipperAmiibo) | Made to be used with Flipper just drag the folder into NFC |
+| [ChatALL](https://github.com/sunner/ChatALL) | Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vincuna, Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE and more, discover the best answers |
+| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
