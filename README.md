@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [privateGPT](https://github.com/imartinez/privateGPT) | Interact privately with your documents using the power of GPT, 100% privately, no data leaks |
-| [FlipperAmiibo](https://github.com/Gioman101/FlipperAmiibo) | Made to be used with Flipper just drag the folder into NFC |
-| [yuzu](https://github.com/yuzu-emu/yuzu) | Nintendo Switch Emulator |
-| [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI |
-| [LocalAI](https://github.com/go-skynet/LocalAI) | 🤖 Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. LocalAI is a RESTful API to run ggml compatible models: llama.cpp, alpaca.cpp, gpt4all.cpp, rwkv.cpp, whisper.cpp, vicuna, koala, gpt4all-j, cerebras and many others! |
-| [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) | One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。 |
-| [webwhiz](https://github.com/webwhiz-ai/webwhiz) | WebWhiz allows you to create an AI chatbot that knows everything about your product and can instantly respond to your customer's queries. |
-| [Flipper](https://github.com/UberGuidoZ/Flipper) | Playground (and dump) of stuff I make or modify for the Flipper Zero |
-| [pcsx2](https://github.com/PCSX2/pcsx2) | PCSX2 - The Playstation 2 Emulator |
+| [ChatALL](https://github.com/sunner/ChatALL) | Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vincuna, Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE and more, discover the best answers |
+| [mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) | Free MLOps course from DataTalks.Club |
+| [e2b](https://github.com/e2b-dev/e2b) | Vercel for AI agents. We help developers to build, deploy, and monitor AI agents. Focusing on specialized AI agents that build software for you - your personal software developers. |
 | [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
+| [Open-Llama](https://github.com/s-JoL/Open-Llama) | The complete training code of the open-source high-performance Llama model, including the full process from pre-training to RLHF. |
+| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
+| [prompt-engineering](https://github.com/brexhq/prompt-engineering) | Tips and tricks for working with Large Language Models like OpenAI's GPT-4. |
+| [Bard-API](https://github.com/dsdanielpark/Bard-API) | The python package that returns response of Google Bard through API. |
+| [Ustawy-o-PIT](https://github.com/ProjektyUstaw/Ustawy-o-PIT) |  |
+| [playwright](https://github.com/microsoft/playwright) | Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
