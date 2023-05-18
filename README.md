@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [developer](https://github.com/smol-ai/developer) | with 100k context windows on the way, it's now feasible for every dev to have their own smol developer |
+| [quivr](https://github.com/StanGirard/quivr) | Dump all your files and thoughts into your GenerativeAI Second Brain and chat with it |
 | [ChatALL](https://github.com/sunner/ChatALL) | Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vincuna, Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE and more, discover the best answers |
+| [guidance](https://github.com/microsoft/guidance) | A guidance language for controlling large language models. |
+| [dify](https://github.com/langgenius/dify) | One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications. |
 | [mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) | Free MLOps course from DataTalks.Club |
-| [e2b](https://github.com/e2b-dev/e2b) | Vercel for AI agents. We help developers to build, deploy, and monitor AI agents. Focusing on specialized AI agents that build software for you - your personal software developers. |
-| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
-| [Open-Llama](https://github.com/s-JoL/Open-Llama) | The complete training code of the open-source high-performance Llama model, including the full process from pre-training to RLHF. |
-| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
-| [prompt-engineering](https://github.com/brexhq/prompt-engineering) | Tips and tricks for working with Large Language Models like OpenAI's GPT-4. |
 | [Bard-API](https://github.com/dsdanielpark/Bard-API) | The python package that returns response of Google Bard through API. |
-| [Ustawy-o-PIT](https://github.com/ProjektyUstaw/Ustawy-o-PIT) |  |
-| [playwright](https://github.com/microsoft/playwright) | Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. |
+| [javascript](https://github.com/airbnb/javascript) | JavaScript Style Guide |
+| [social-app](https://github.com/bluesky-social/social-app) | The Bluesky Social application for Web, iOS, and Android |
+| [FlipperAmiibo](https://github.com/Gioman101/FlipperAmiibo) | Made to be used with Flipper just drag the folder into NFC |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
