@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [guidance](https://github.com/microsoft/guidance) | A guidance language for controlling large language models. |
+| [ChatALL](https://github.com/sunner/ChatALL) | Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vincuna, Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE and more, discover the best answers |
 | [developer](https://github.com/smol-ai/developer) | with 100k context windows on the way, it's now feasible for every dev to have their own smol developer |
 | [quivr](https://github.com/StanGirard/quivr) | Dump all your files and thoughts into your GenerativeAI Second Brain and chat with it |
-| [ChatALL](https://github.com/sunner/ChatALL) | Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vincuna, Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE and more, discover the best answers |
-| [guidance](https://github.com/microsoft/guidance) | A guidance language for controlling large language models. |
 | [dify](https://github.com/langgenius/dify) | One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications. |
-| [mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) | Free MLOps course from DataTalks.Club |
-| [Bard-API](https://github.com/dsdanielpark/Bard-API) | The python package that returns response of Google Bard through API. |
-| [javascript](https://github.com/airbnb/javascript) | JavaScript Style Guide |
-| [social-app](https://github.com/bluesky-social/social-app) | The Bluesky Social application for Web, iOS, and Android |
-| [FlipperAmiibo](https://github.com/Gioman101/FlipperAmiibo) | Made to be used with Flipper just drag the folder into NFC |
+| [e2b](https://github.com/e2b-dev/e2b) | Vercel for AI agents. We help developers to build, deploy, and monitor AI agents. Focusing on specialized AI agents that build software for you - your personal software developers. |
+| [the-sourdough-framework](https://github.com/hendricius/the-sourdough-framework) | Open source book dedicated to helping you to make the best possible sourdough bread at home. |
+| [papers-we-love](https://github.com/papers-we-love/papers-we-love) | Papers from the computer science community to read and discuss. |
+| [polyglot](https://github.com/liou666/polyglot) | 🤖️ 桌面端AI语言练习应用 |
+| [Remembering-Haoel](https://github.com/megaease/Remembering-Haoel) | 记录您对左耳朵耗子（陈皓）的点滴回忆 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
