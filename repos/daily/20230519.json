@@ -14,6 +14,11 @@
                 "username": "marcotcr"
             },
             {
+                "avatar": "https://avatars.githubusercontent.com/u/91092410",
+                "href": "https://github.com/dviggiano",
+                "username": "dviggiano"
+            },
+            {
                 "avatar": "https://avatars.githubusercontent.com/u/22633385",
                 "href": "https://github.com/eltociear",
                 "username": "eltociear"
@@ -26,12 +31,12 @@
         ],
         "currentPeriodStars": 1302,
         "description": "A guidance language for controlling large language models.",
-        "forks": 292,
+        "forks": 295,
         "fullname": "microsoft/guidance",
         "language": "Jupyter Notebook",
         "languageColor": "#DA5B0B",
         "name": "guidance",
-        "stars": 5388,
+        "stars": 5416,
         "url": "https://github.com/microsoft/guidance"
     },
     {
@@ -66,12 +71,12 @@
         ],
         "currentPeriodStars": 573,
         "description": "Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vincuna, Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE and more, discover the best answers",
-        "forks": 392,
+        "forks": 393,
         "fullname": "sunner/ChatALL",
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "ChatALL",
-        "stars": 3420,
+        "stars": 3440,
         "url": "https://github.com/sunner/ChatALL"
     },
     {
@@ -111,7 +116,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "developer",
-        "stars": 5691,
+        "stars": 5699,
         "url": "https://github.com/smol-ai/developer"
     },
     {
@@ -151,7 +156,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "quivr",
-        "stars": 2164,
+        "stars": 2168,
         "url": "https://github.com/StanGirard/quivr"
     },
     {
@@ -191,7 +196,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "dify",
-        "stars": 2859,
+        "stars": 2863,
         "url": "https://github.com/langgenius/dify"
     },
     {
@@ -226,12 +231,12 @@
         ],
         "currentPeriodStars": 93,
         "description": "Vercel for AI agents. We help developers to build, deploy, and monitor AI agents. Focusing on specialized AI agents that build software for you - your personal software developers.",
-        "forks": 383,
+        "forks": 385,
         "fullname": "e2b-dev/e2b",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "e2b",
-        "stars": 4747,
+        "stars": 4749,
         "url": "https://github.com/e2b-dev/e2b"
     },
     {
@@ -271,7 +276,7 @@
         "language": "TeX",
         "languageColor": "#3D6117",
         "name": "the-sourdough-framework",
-        "stars": 1920,
+        "stars": 1921,
         "url": "https://github.com/hendricius/the-sourdough-framework"
     },
     {
@@ -311,7 +316,7 @@
         "language": "Shell",
         "languageColor": "#89e051",
         "name": "papers-we-love",
-        "stars": 72341,
+        "stars": 72342,
         "url": "https://github.com/papers-we-love/papers-we-love"
     },
     {
@@ -371,10 +376,10 @@
         ],
         "currentPeriodStars": 484,
         "description": "\u8bb0\u5f55\u60a8\u5bf9\u5de6\u8033\u6735\u8017\u5b50\uff08\u9648\u7693\uff09\u7684\u70b9\u6ef4\u56de\u5fc6",
-        "forks": 104,
+        "forks": 106,
         "fullname": "megaease/Remembering-Haoel",
         "name": "Remembering-Haoel",
-        "stars": 1788,
+        "stars": 1792,
         "url": "https://github.com/megaease/Remembering-Haoel"
     },
     {
@@ -394,12 +399,12 @@
         ],
         "currentPeriodStars": 26,
         "description": "a menubar with Zero latency access to ChatGPT/Bard/Claude! A/B test them, or use them in the background. I use this 20 times a day.",
-        "forks": 36,
+        "forks": 37,
         "fullname": "smol-ai/menubar",
         "language": "HTML",
         "languageColor": "#e34c26",
         "name": "menubar",
-        "stars": 163,
+        "stars": 164,
         "url": "https://github.com/smol-ai/menubar"
     },
     {
@@ -434,10 +439,10 @@
         ],
         "currentPeriodStars": 173,
         "description": "Projects to get you started on full stack",
-        "forks": 178,
+        "forks": 180,
         "fullname": "hkirat/project-ideas",
         "name": "project-ideas",
-        "stars": 1030,
+        "stars": 1033,
         "url": "https://github.com/hkirat/project-ideas"
     },
     {
@@ -457,10 +462,10 @@
         ],
         "currentPeriodStars": 202,
         "description": "\u5065\u5eb7\u5b66\u4e60\u5230150\u5c81 - \u4eba\u4f53\u7cfb\u7edf\u8c03\u4f18\u4e0d\u5b8c\u5168\u6307\u5357",
-        "forks": 658,
+        "forks": 660,
         "fullname": "zijie0/HumanSystemOptimization",
         "name": "HumanSystemOptimization",
-        "stars": 8988,
+        "stars": 8995,
         "url": "https://github.com/zijie0/HumanSystemOptimization"
     },
     {
@@ -495,12 +500,12 @@
         ],
         "currentPeriodStars": 187,
         "description": "JavaScript Style Guide",
-        "forks": 25511,
+        "forks": 25513,
         "fullname": "airbnb/javascript",
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "javascript",
-        "stars": 134084,
+        "stars": 134085,
         "url": "https://github.com/airbnb/javascript"
     },
     {
@@ -530,12 +535,12 @@
         ],
         "currentPeriodStars": 256,
         "description": "\ud83e\udd16 Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. No GPU required. LocalAI is a RESTful API to run ggml compatible models: llama.cpp, alpaca.cpp, gpt4all.cpp, rwkv.cpp, whisper.cpp, vicuna, koala, gpt4all-j, cerebras and many others!",
-        "forks": 450,
+        "forks": 451,
         "fullname": "go-skynet/LocalAI",
         "language": "Go",
         "languageColor": "#00ADD8",
         "name": "LocalAI",
-        "stars": 4043,
+        "stars": 4044,
         "url": "https://github.com/go-skynet/LocalAI"
     },
     {
@@ -555,7 +560,7 @@
         "language": "HTML",
         "languageColor": "#e34c26",
         "name": "DXC2023",
-        "stars": 80,
+        "stars": 81,
         "url": "https://github.com/sandipmohapatra/DXC2023"
     },
     {
@@ -590,12 +595,12 @@
         ],
         "currentPeriodStars": 83,
         "description": "Linux kernel source tree",
-        "forks": 47989,
+        "forks": 47990,
         "fullname": "torvalds/linux",
         "language": "C",
         "languageColor": "#555555",
         "name": "linux",
-        "stars": 151785,
+        "stars": 151789,
         "url": "https://github.com/torvalds/linux"
     },
     {
@@ -630,10 +635,10 @@
         ],
         "currentPeriodStars": 132,
         "description": "\ud83d\udcda Freely available programming books",
-        "forks": 55276,
+        "forks": 55277,
         "fullname": "EbookFoundation/free-programming-books",
         "name": "free-programming-books",
-        "stars": 279884,
+        "stars": 279885,
         "url": "https://github.com/EbookFoundation/free-programming-books"
     },
     {
@@ -668,12 +673,12 @@
         ],
         "currentPeriodStars": 187,
         "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
-        "forks": 2697,
+        "forks": 2699,
         "fullname": "microsoft/playwright",
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "playwright",
-        "stars": 51025,
+        "stars": 51026,
         "url": "https://github.com/microsoft/playwright"
     },
     {
@@ -693,7 +698,7 @@
         ],
         "currentPeriodStars": 75,
         "description": "Home of CodeT5: Open Code LLMs for Code Understanding and Generation",
-        "forks": 198,
+        "forks": 199,
         "fullname": "salesforce/CodeT5",
         "language": "Python",
         "languageColor": "#3572A5",
@@ -733,12 +738,12 @@
         ],
         "currentPeriodStars": 61,
         "description": "Fully styled and customizable components for Nuxt.",
-        "forks": 33,
+        "forks": 34,
         "fullname": "nuxtlabs/ui",
         "language": "Vue",
         "languageColor": "#41b883",
         "name": "ui",
-        "stars": 464,
+        "stars": 468,
         "url": "https://github.com/nuxtlabs/ui"
     },
     {
@@ -773,7 +778,7 @@
         ],
         "currentPeriodStars": 147,
         "description": "\ud83d\udd0d A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
-        "forks": 1275,
+        "forks": 1276,
         "fullname": "WerWolv/ImHex",
         "language": "C++",
         "languageColor": "#f34b7d",
@@ -813,10 +818,10 @@
         ],
         "currentPeriodStars": 95,
         "description": "Mod repo for TOTK on Yuzu emulator.",
-        "forks": 42,
+        "forks": 45,
         "fullname": "HolographicWings/TOTK-Mods-collection",
         "name": "TOTK-Mods-collection",
-        "stars": 341,
+        "stars": 345,
         "url": "https://github.com/HolographicWings/TOTK-Mods-collection"
     },
     {
@@ -836,12 +841,12 @@
         ],
         "currentPeriodStars": 26,
         "description": "Aplica\u00e7\u00e3o de recorda\u00e7\u00e3o de mem\u00f3rias desenvolvida no NLW 12",
-        "forks": 57,
+        "forks": 58,
         "fullname": "rocketseat-education/nlw-12-spacetime-ignite",
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "nlw-12-spacetime-ignite",
-        "stars": 136,
+        "stars": 138,
         "url": "https://github.com/rocketseat-education/nlw-12-spacetime-ignite"
     },
     {
@@ -864,14 +869,14 @@
                 "username": "Leomotors"
             },
             {
-                "avatar": "https://avatars.githubusercontent.com/u/1791353",
-                "href": "https://github.com/beam41",
-                "username": "beam41"
-            },
-            {
                 "avatar": "https://avatars.githubusercontent.com/u/77166960",
                 "href": "https://github.com/Gusb3ll",
                 "username": "Gusb3ll"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1791353",
+                "href": "https://github.com/beam41",
+                "username": "beam41"
             }
         ],
         "currentPeriodStars": 17,
