@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [guidance](https://github.com/microsoft/guidance) | A guidance language for controlling large language models. |
-| [ChatALL](https://github.com/sunner/ChatALL) | Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vincuna, Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE and more, discover the best answers |
-| [developer](https://github.com/smol-ai/developer) | with 100k context windows on the way, it's now feasible for every dev to have their own smol developer |
+| [StableStudio](https://github.com/Stability-AI/StableStudio) | Community interface for generative AI |
 | [quivr](https://github.com/StanGirard/quivr) | Dump all your files and thoughts into your GenerativeAI Second Brain and chat with it |
-| [dify](https://github.com/langgenius/dify) | One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications. |
-| [e2b](https://github.com/e2b-dev/e2b) | Vercel for AI agents. We help developers to build, deploy, and monitor AI agents. Focusing on specialized AI agents that build software for you - your personal software developers. |
-| [the-sourdough-framework](https://github.com/hendricius/the-sourdough-framework) | Open source book dedicated to helping you to make the best possible sourdough bread at home. |
-| [papers-we-love](https://github.com/papers-we-love/papers-we-love) | Papers from the computer science community to read and discuss. |
-| [polyglot](https://github.com/liou666/polyglot) | 🤖️ 桌面端AI语言练习应用 |
-| [Remembering-Haoel](https://github.com/megaease/Remembering-Haoel) | 记录您对左耳朵耗子（陈皓）的点滴回忆 |
+| [TOTK-Mods-collection](https://github.com/HolographicWings/TOTK-Mods-collection) | Mod repo for TOTK on Yuzu emulator. |
+| [llm-numbers](https://github.com/ray-project/llm-numbers) | Numbers every LLM developer should know |
+| [dub](https://github.com/steven-tey/dub) | An open-source link shortener with built-in analytics + free custom domains. |
+| [developer](https://github.com/smol-ai/developer) | with 100k context windows on the way, it's now feasible for every dev to have their own smol developer |
+| [guidance](https://github.com/microsoft/guidance) | A guidance language for controlling large language models. |
+| [project-ideas](https://github.com/hkirat/project-ideas) | Projects to get you started on full stack |
+| [JavaGuide](https://github.com/Snailclimb/JavaGuide) | 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！ |
+| [ImHex](https://github.com/WerWolv/ImHex) | 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
