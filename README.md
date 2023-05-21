@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [StableStudio](https://github.com/Stability-AI/StableStudio) | Community interface for generative AI |
+| [LaWGPT](https://github.com/pengxiao-song/LaWGPT) | 🎉 Repo for LaWGPT, Chinese-Llama tuned with Chinese Legal knowledge. 基于中文法律知识的大语言模型 |
+| [nlw-12-spacetime-ignite](https://github.com/rocketseat-education/nlw-12-spacetime-ignite) | Aplicação de recordação de memórias desenvolvida no NLW 12 |
 | [quivr](https://github.com/StanGirard/quivr) | Dump all your files and thoughts into your GenerativeAI Second Brain and chat with it |
-| [TOTK-Mods-collection](https://github.com/HolographicWings/TOTK-Mods-collection) | Mod repo for TOTK on Yuzu emulator. |
-| [llm-numbers](https://github.com/ray-project/llm-numbers) | Numbers every LLM developer should know |
-| [dub](https://github.com/steven-tey/dub) | An open-source link shortener with built-in analytics + free custom domains. |
-| [developer](https://github.com/smol-ai/developer) | with 100k context windows on the way, it's now feasible for every dev to have their own smol developer |
 | [guidance](https://github.com/microsoft/guidance) | A guidance language for controlling large language models. |
-| [project-ideas](https://github.com/hkirat/project-ideas) | Projects to get you started on full stack |
-| [JavaGuide](https://github.com/Snailclimb/JavaGuide) | 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！ |
-| [ImHex](https://github.com/WerWolv/ImHex) | 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. |
+| [CodeT5](https://github.com/salesforce/CodeT5) | Home of CodeT5: Open Code LLMs for Code Understanding and Generation |
+| [egos-2000](https://github.com/yhzhang0128/egos-2000) | A minimal operating system (2K LOC) on QEMU and a RISC-V board |
+| [Flowise](https://github.com/FlowiseAI/Flowise) | Drag & drop UI to build your customized LLM flow using LangchainJS |
+| [fastcomposer](https://github.com/mit-han-lab/fastcomposer) |  |
+| [playwright](https://github.com/microsoft/playwright) | Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
