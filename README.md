@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [StableStudio](https://github.com/Stability-AI/StableStudio) | Community interface for generative AI |
 | [LaWGPT](https://github.com/pengxiao-song/LaWGPT) | 🎉 Repo for LaWGPT, Chinese-Llama tuned with Chinese Legal knowledge. 基于中文法律知识的大语言模型 |
 | [nlw-12-spacetime-ignite](https://github.com/rocketseat-education/nlw-12-spacetime-ignite) | Aplicação de recordação de memórias desenvolvida no NLW 12 |
+| [StableStudio](https://github.com/Stability-AI/StableStudio) | Community interface for generative AI |
 | [quivr](https://github.com/StanGirard/quivr) | Dump all your files and thoughts into your GenerativeAI Second Brain and chat with it |
-| [guidance](https://github.com/microsoft/guidance) | A guidance language for controlling large language models. |
-| [CodeT5](https://github.com/salesforce/CodeT5) | Home of CodeT5: Open Code LLMs for Code Understanding and Generation |
-| [egos-2000](https://github.com/yhzhang0128/egos-2000) | A minimal operating system (2K LOC) on QEMU and a RISC-V board |
-| [Flowise](https://github.com/FlowiseAI/Flowise) | Drag & drop UI to build your customized LLM flow using LangchainJS |
-| [fastcomposer](https://github.com/mit-han-lab/fastcomposer) |  |
-| [playwright](https://github.com/microsoft/playwright) | Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. |
+| [the-algorithm](https://github.com/twitter/the-algorithm) | Source code for Twitter's Recommendation Algorithm |
+| [gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) | An open source implementation of OpenAI's ChatGPT Code interpreter |
+| [ui](https://github.com/shadcn/ui) | Beautifully designed components built with Radix UI and Tailwind CSS. |
+| [taxonomy](https://github.com/shadcn/taxonomy) | An open source application built using the new router, server components and everything new in Next.js 13. |
+| [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering |
+| [DragGAN](https://github.com/XingangPan/DragGAN) | Code for DragGAN (SIGGRAPH 2023) |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
