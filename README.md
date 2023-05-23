@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [LaWGPT](https://github.com/pengxiao-song/LaWGPT) | 🎉 Repo for LaWGPT, Chinese-Llama tuned with Chinese Legal knowledge. 基于中文法律知识的大语言模型 |
-| [nlw-12-spacetime-ignite](https://github.com/rocketseat-education/nlw-12-spacetime-ignite) | Aplicação de recordação de memórias desenvolvida no NLW 12 |
-| [StableStudio](https://github.com/Stability-AI/StableStudio) | Community interface for generative AI |
-| [quivr](https://github.com/StanGirard/quivr) | Dump all your files and thoughts into your GenerativeAI Second Brain and chat with it |
+| [voice-changer](https://github.com/w-okada/voice-changer) | リアルタイムボイスチェンジャー Realtime Voice Changer |
+| [Flowise](https://github.com/FlowiseAI/Flowise) | Drag & drop UI to build your customized LLM flow using LangchainJS |
+| [next-enterprise](https://github.com/Blazity/next-enterprise) | 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your development. |
+| [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | A list of Free Software network services and web applications which can be hosted on your own servers |
 | [the-algorithm](https://github.com/twitter/the-algorithm) | Source code for Twitter's Recommendation Algorithm |
-| [gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) | An open source implementation of OpenAI's ChatGPT Code interpreter |
-| [ui](https://github.com/shadcn/ui) | Beautifully designed components built with Radix UI and Tailwind CSS. |
-| [taxonomy](https://github.com/shadcn/taxonomy) | An open source application built using the new router, server components and everything new in Next.js 13. |
+| [yt-fts](https://github.com/NotJoeMartinez/yt-fts) | Youtube Full Text Search - Search all of a YouTube channel's subtitles from the command line |
 | [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering |
-| [DragGAN](https://github.com/XingangPan/DragGAN) | Code for DragGAN (SIGGRAPH 2023) |
+| [helix](https://github.com/helix-editor/helix) | A post-modern modal text editor. |
+| [gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) | An open source implementation of OpenAI's ChatGPT Code interpreter |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
