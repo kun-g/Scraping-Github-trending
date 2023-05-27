@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [DragGAN](https://github.com/Zeqiang-Lai/DragGAN) | Online Demo and Implementation of DragGAN - "Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold" |
+| [qlora](https://github.com/artidoro/qlora) | QLoRA: Efficient Finetuning of Quantized LLMs |
+| [tinygrad](https://github.com/geohot/tinygrad) | You like pytorch? You like micrograd? You love tinygrad! ❤️ |
 | [DragGAN](https://github.com/JiauZhang/DragGAN) | Implementation of DragGAN: Interactive Point-based Manipulation on the Generative Image Manifold |
-| [comprehensive-rust](https://github.com/google/comprehensive-rust) | This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone. |
-| [tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) | Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70% |
-| [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity |
-| [requests](https://github.com/psf/requests) | A simple, yet elegant, HTTP library. |
-| [kanboard](https://github.com/kanboard/kanboard) | Kanban project management software |
+| [libarchive](https://github.com/libarchive/libarchive) | Multi-format archive and compression library |
+| [open-source-alternatives](https://github.com/btw-so/open-source-alternatives) | List of open-source alternatives to everyday SaaS products. |
+| [win32-app-isolation](https://github.com/microsoft/win32-app-isolation) |  |
+| [Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) | A GPT-4 AI Tutor Prompt for customizable personalized learning experiences. |
 | [devhome](https://github.com/microsoft/devhome) | Windows Dev Home Application |
-| [BYD-Battery-Emulator-For-Gen24](https://github.com/dalathegreat/BYD-Battery-Emulator-For-Gen24) | This software converts the LEAF CAN into Modbus RTU registers understood by solar inverters that take the BYD 11kWh HVM battery |
 | [joshuto](https://github.com/kamiyaa/joshuto) | ranger-like terminal file manager written in Rust |
+| [nextjs-corporate-starter](https://github.com/strapi/nextjs-corporate-starter) | Strapi Demo application for Corporate Websites using Next.js |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
