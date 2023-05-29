@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [qlora](https://github.com/artidoro/qlora) | QLoRA: Efficient Finetuning of Quantized LLMs |
-| [gptlink](https://github.com/gptlink/gptlink) | 10分钟搭建自己可免费商用的ChatGPT环境，搭建简单，包含用户，订单，任务，付费等功能 |
-| [ts-rust-zig-deez](https://github.com/ThePrimeagen/ts-rust-zig-deez) |  |
 | [tinygrad](https://github.com/geohot/tinygrad) | You like pytorch? You like micrograd? You love tinygrad! ❤️ |
-| [Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) | A GPT-4 AI Tutor Prompt for customizable personalized learning experiences. |
-| [devicescript](https://github.com/microsoft/devicescript) | TypeScript for Tiny IoT Devices |
+| [qlora](https://github.com/artidoro/qlora) | QLoRA: Efficient Finetuning of Quantized LLMs |
+| [gorilla](https://github.com/ShishirPatil/gorilla) | Gorilla: An API store for LLMs |
+| [WindowsXPKg](https://github.com/TheMCHK/WindowsXPKg) | Windows XP keygen |
+| [gptlink](https://github.com/gptlink/gptlink) | 10分钟搭建自己可免费商用的ChatGPT环境，搭建简单，包含用户，订单，任务，付费等功能 |
+| [privateGPT](https://github.com/SamurAIGPT/privateGPT) | An app to interact privately with your documents using the power of GPT, 100% privately, no data leaks |
 | [sectorc](https://github.com/xorvoid/sectorc) | A C Compiler that fits in the 512 byte boot sector of an x86 machine |
-| [InternGPT](https://github.com/OpenGVLab/InternGPT) | InternGPT (iGPT) is an open source demo platform where you can easily showcase your AI models. Now it supports DragGAN, ChatGPT, ImageBind, multimodal chat like GPT-4, SAM, interactive image editing, etc. Try it at igpt.opengvlab.com (支持DragGAN、ChatGPT、ImageBind、SAM的在线Demo系统) |
-| [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity |
-| [DragGAN](https://github.com/Zeqiang-Lai/DragGAN) | Online Demo and Implementation of DragGAN - "Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold" （DragGAN 全功能实现，在线Demo，本地部署试用，代码、模型已全部开源，支持Windows, macOS, Linux） |
+| [vue-vine](https://github.com/vue-vine/vue-vine) | Another style of writing Vue components. |
+| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
+| [devicescript](https://github.com/microsoft/devicescript) | TypeScript for Tiny IoT Devices |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
