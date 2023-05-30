@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [tinygrad](https://github.com/geohot/tinygrad) | You like pytorch? You like micrograd? You love tinygrad! ❤️ |
-| [qlora](https://github.com/artidoro/qlora) | QLoRA: Efficient Finetuning of Quantized LLMs |
-| [gorilla](https://github.com/ShishirPatil/gorilla) | Gorilla: An API store for LLMs |
-| [WindowsXPKg](https://github.com/TheMCHK/WindowsXPKg) | Windows XP keygen |
-| [gptlink](https://github.com/gptlink/gptlink) | 10分钟搭建自己可免费商用的ChatGPT环境，搭建简单，包含用户，订单，任务，付费等功能 |
-| [privateGPT](https://github.com/SamurAIGPT/privateGPT) | An app to interact privately with your documents using the power of GPT, 100% privately, no data leaks |
-| [sectorc](https://github.com/xorvoid/sectorc) | A C Compiler that fits in the 512 byte boot sector of an x86 machine |
-| [vue-vine](https://github.com/vue-vine/vue-vine) | Another style of writing Vue components. |
-| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
+| [WindowsXPKg](https://github.com/Neo-Desktop/WindowsXPKg) | Keygen for Windows XP |
+| [Voyager](https://github.com/MineDojo/Voyager) | An Open-Ended Embodied Agent with Large Language Models |
+| [pandora](https://github.com/pengzhile/pandora) | 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly. |
 | [devicescript](https://github.com/microsoft/devicescript) | TypeScript for Tiny IoT Devices |
+| [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) | The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。 |
+| [DeepFaceLive](https://github.com/iperov/DeepFaceLive) | Real-time face swap for PC streaming or video calls |
+| [gorilla](https://github.com/ShishirPatil/gorilla) | Gorilla: An API store for LLMs |
+| [tinygrad](https://github.com/geohot/tinygrad) | You like pytorch? You like micrograd? You love tinygrad! ❤️ |
+| [privateGPT](https://github.com/SamurAIGPT/privateGPT) | An app to interact privately with your documents using the power of GPT, 100% privately, no data leaks |
+| [InternGPT](https://github.com/OpenGVLab/InternGPT) | InternGPT (iGPT) is an open source demo platform where you can easily showcase your AI models. Now it supports DragGAN, ChatGPT, ImageBind, multimodal chat like GPT-4, SAM, interactive image editing, etc. Try it at igpt.opengvlab.com (支持DragGAN、ChatGPT、ImageBind、SAM的在线Demo系统) |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
