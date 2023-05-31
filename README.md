@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [WindowsXPKg](https://github.com/Neo-Desktop/WindowsXPKg) | Keygen for Windows XP |
-| [Voyager](https://github.com/MineDojo/Voyager) | An Open-Ended Embodied Agent with Large Language Models |
-| [pandora](https://github.com/pengzhile/pandora) | 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly. |
-| [devicescript](https://github.com/microsoft/devicescript) | TypeScript for Tiny IoT Devices |
-| [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) | The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。 |
-| [DeepFaceLive](https://github.com/iperov/DeepFaceLive) | Real-time face swap for PC streaming or video calls |
+| [dm-ticket](https://github.com/ClassmateLin/dm-ticket) | 大麦网自动购票, 支持docker一键部署。https://t.me/+2EELgNTYiMYxMTFl |
 | [gorilla](https://github.com/ShishirPatil/gorilla) | Gorilla: An API store for LLMs |
-| [tinygrad](https://github.com/geohot/tinygrad) | You like pytorch? You like micrograd? You love tinygrad! ❤️ |
-| [privateGPT](https://github.com/SamurAIGPT/privateGPT) | An app to interact privately with your documents using the power of GPT, 100% privately, no data leaks |
-| [InternGPT](https://github.com/OpenGVLab/InternGPT) | InternGPT (iGPT) is an open source demo platform where you can easily showcase your AI models. Now it supports DragGAN, ChatGPT, ImageBind, multimodal chat like GPT-4, SAM, interactive image editing, etc. Try it at igpt.opengvlab.com (支持DragGAN、ChatGPT、ImageBind、SAM的在线Demo系统) |
+| [DeepFaceLive](https://github.com/iperov/DeepFaceLive) | Real-time face swap for PC streaming or video calls |
+| [WindowsXPKg](https://github.com/Neo-Desktop/WindowsXPKg) | Keygen for Windows XP |
+| [threestudio](https://github.com/threestudio-project/threestudio) | A unified framework for 3D content generation. |
+| [handwriting-synthesis](https://github.com/sjvasquez/handwriting-synthesis) | Handwriting Synthesis with RNNs ✏️ |
+| [immersive-translate](https://github.com/immersive-translate/immersive-translate) | Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展 |
+| [Voyager](https://github.com/MineDojo/Voyager) | An Open-Ended Embodied Agent with Large Language Models |
+| [CPM-Bee](https://github.com/OpenBMB/CPM-Bee) | 百亿参数的中英文双语基座大模型 |
+| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
