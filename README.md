@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [roop](https://github.com/s0md3v/roop) | one-click deepfake (face swap) |
+| [dm-ticket](https://github.com/ClassmateLin/dm-ticket) | 大麦网自动购票, 支持docker一键部署。Damai automatically purchases tickets, running in docker container. |
 | [localGPT](https://github.com/PromtEngineer/localGPT) | Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. |
-| [dm-ticket](https://github.com/ClassmateLin/dm-ticket) | 大麦网自动购票, 支持docker一键部署。https://t.me/+2EELgNTYiMYxMTFl |
+| [roop](https://github.com/s0md3v/roop) | one-click deepfake (face swap) |
+| [CPM-Bee](https://github.com/OpenBMB/CPM-Bee) | 百亿参数的中英文双语基座大模型 |
+| [AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term) | 🛡️ Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance |
 | [ecoute](https://github.com/SevaSk/ecoute) | Ecoute is a live transcription tool that provides real-time transcripts for both the user's microphone input (You) and the user's speakers output (Speaker) in a textbox. It also generates a suggested response using OpenAI's GPT-3.5 for the user to say based on the live transcription of the conversation. |
-| [documenso](https://github.com/documenso/documenso) | Document Signing as it should be - open and shaped by its community. |
-| [privateGPT](https://github.com/SamurAIGPT/privateGPT) | An app to interact privately with your documents using the power of GPT, 100% privately, no data leaks |
-| [WindowsXPKg](https://github.com/Neo-Desktop/WindowsXPKg) | Keygen for Windows XP |
-| [QtScrcpy](https://github.com/barry-ran/QtScrcpy) | Android real-time display control software |
-| [handwriting-synthesis](https://github.com/sjvasquez/handwriting-synthesis) | Handwriting Synthesis with RNNs ✏️ |
-| [Mindmap](https://github.com/Ignitetechnologies/Mindmap) | This repository will contain many mindmaps for cyber security technologies, methodologies, courses, and certifications in a tree structure to give brief details about them |
+| [semantic-search-nextjs-pinecone-langchain-chatgpt](https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt) | Embeds text files into vectors, stores them on Pinecone, and enables semantic search using GPT3 and Langchain in a Next.js UI |
+| [plane](https://github.com/makeplane/plane) | 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. |
+| [ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week) | 🔥Highlighting the top ML papers every week. |
+| [MallChatWeb](https://github.com/Evansy/MallChatWeb) | mallchat的前端项目，是一个既能购物又能聊天的电商系统。以互联网企业级开发规范的要求来实现它，电商该有的购物车，订单，支付，推荐，搜索，拉新，促活，推送，物流，客服，它都必须有。持续更新ing |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
