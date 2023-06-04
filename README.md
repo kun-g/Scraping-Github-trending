@@ -21,7 +21,7 @@
 | [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project-based tutorials |
 | [AITemplate](https://github.com/facebookincubator/AITemplate) | AITemplate is a Python framework which renders neural network into high performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU) and MatrixCore (AMD GPU) inference. |
 | [gpt4all](https://github.com/nomic-ai/gpt4all) | gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue |
-| [Summer2023-Internships](https://github.com/pittcsc/Summer2023-Internships) | Collection of Summer 2023 & Summer 2024 tech internships! |
+| [Summer2024-Internships](https://github.com/pittcsc/Summer2024-Internships) | Collection of Summer 2023 & Summer 2024 tech internships! |
 | [aviary](https://github.com/ray-project/aviary) | Ray Aviary - evaluate multiple LLMs easily |
 <!-- END OF DAILY_TOP10_REPOS -->
 
