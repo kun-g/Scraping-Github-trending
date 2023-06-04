@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [rarbg](https://github.com/2004content/rarbg) | Backup of magnets from RARBG |
+| [dm-ticket](https://github.com/ClassmateLin/dm-ticket) | 大麦网自动购票, 支持docker一键部署。Damai automatically purchases tickets, running in docker container. |
 | [localGPT](https://github.com/PromtEngineer/localGPT) | Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. |
 | [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) | <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably. |
-| [gin](https://github.com/gin-gonic/gin) | Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. |
-| [roop](https://github.com/s0md3v/roop) | one-click deepfake (face swap) |
-| [milvus](https://github.com/milvus-io/milvus) | A cloud-native vector database, storage for next generation AI applications |
-| [Macaw-LLM](https://github.com/lyuchenyang/Macaw-LLM) | Macaw-LLM: Multi-Modal Language Modeling with Image, Video, Audio, and Text Integration |
-| [Stable-Diffusion](https://github.com/FurkanGozukara/Stable-Diffusion) | Best Stable Diffusion and AI Tutorials, Guides, News, Tips and Tricks |
-| [usehooks](https://github.com/uidotdev/usehooks) | A collection of modern, server-safe React hooks – from the ui.dev team |
-| [spacedrive](https://github.com/spacedriveapp/spacedrive) | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. |
-| [dm-ticket](https://github.com/ClassmateLin/dm-ticket) | 大麦网自动购票, 支持docker一键部署。Damai automatically purchases tickets, running in docker container. |
+| [go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) | 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。 |
+| [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project-based tutorials |
+| [AITemplate](https://github.com/facebookincubator/AITemplate) | AITemplate is a Python framework which renders neural network into high performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU) and MatrixCore (AMD GPU) inference. |
+| [gpt4all](https://github.com/nomic-ai/gpt4all) | gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue |
+| [Summer2023-Internships](https://github.com/pittcsc/Summer2023-Internships) | Collection of Summer 2023 & Summer 2024 tech internships! |
+| [aviary](https://github.com/ray-project/aviary) | Ray Aviary - evaluate multiple LLMs easily |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
