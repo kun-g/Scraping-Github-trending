@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [rarbg](https://github.com/2004content/rarbg) | Backup of magnets from RARBG |
-| [dm-ticket](https://github.com/ClassmateLin/dm-ticket) | 大麦网自动购票, 支持docker一键部署。Damai automatically purchases tickets, running in docker container. |
 | [localGPT](https://github.com/PromtEngineer/localGPT) | Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. |
+| [rarbg](https://github.com/2004content/rarbg) | Backup of magnets from RARBG |
 | [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) | <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably. |
 | [go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) | 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。 |
-| [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project-based tutorials |
-| [AITemplate](https://github.com/facebookincubator/AITemplate) | AITemplate is a Python framework which renders neural network into high performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU) and MatrixCore (AMD GPU) inference. |
-| [gpt4all](https://github.com/nomic-ai/gpt4all) | gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue |
-| [Summer2024-Internships](https://github.com/pittcsc/Summer2024-Internships) | Collection of Summer 2023 & Summer 2024 tech internships! |
-| [aviary](https://github.com/ray-project/aviary) | Ray Aviary - evaluate multiple LLMs easily |
+| [box](https://github.com/liu673cn/box) | TVbox开源版（空壳-自行配置） |
+| [main](https://github.com/Not-Quite-RARBG/main) | Not Quite RARBG's main website. |
+| [CodeTF](https://github.com/salesforce/CodeTF) | CodeTF: One-stop Transformer Library for State-of-the-art Code LLM |
+| [Redream](https://github.com/Fictiverse/Redream) | Realtime Diffusion, using Automatic1111 Stable Diffusion API |
+| [chainlit](https://github.com/Chainlit/chainlit) | Build Python LLM apps in minutes ⚡️ |
+| [StableDiffusion-CheatSheet](https://github.com/SupaGruen/StableDiffusion-CheatSheet) | A list of StableDiffusion styles and some notes for offline use. Pure HTML, CSS and a bit of JS. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
