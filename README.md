@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [localGPT](https://github.com/PromtEngineer/localGPT) | Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. |
 | [rarbg](https://github.com/2004content/rarbg) | Backup of magnets from RARBG |
-| [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) | <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably. |
 | [go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) | 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。 |
-| [box](https://github.com/liu673cn/box) | TVbox开源版（空壳-自行配置） |
-| [main](https://github.com/Not-Quite-RARBG/main) | Not Quite RARBG's main website. |
-| [CodeTF](https://github.com/salesforce/CodeTF) | CodeTF: One-stop Transformer Library for State-of-the-art Code LLM |
+| [shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) | shadcn/ui, but for Svelte. |
+| [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) | <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably. |
 | [Redream](https://github.com/Fictiverse/Redream) | Realtime Diffusion, using Automatic1111 Stable Diffusion API |
-| [chainlit](https://github.com/Chainlit/chainlit) | Build Python LLM apps in minutes ⚡️ |
-| [StableDiffusion-CheatSheet](https://github.com/SupaGruen/StableDiffusion-CheatSheet) | A list of StableDiffusion styles and some notes for offline use. Pure HTML, CSS and a bit of JS. |
+| [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project-based tutorials |
+| [localGPT](https://github.com/PromtEngineer/localGPT) | Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. |
+| [femtoGPT](https://github.com/keyvank/femtoGPT) | Pure Rust implementation of a minimal Generative Pretrained Transformer |
+| [chrome](https://github.com/browserless/chrome) | The browserless Chrome service in Docker. Run on our cloud, or bring your own. |
+| [ui](https://github.com/shadcn/ui) | Beautifully designed components built with Radix UI and Tailwind CSS. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
