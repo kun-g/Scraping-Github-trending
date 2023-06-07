@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [rarbg](https://github.com/2004content/rarbg) | Backup of magnets from RARBG |
-| [go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) | 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。 |
-| [shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) | shadcn/ui, but for Svelte. |
+| [mlc-llm](https://github.com/mlc-ai/mlc-llm) | Enable everyone to develop, optimize and deploy AI models natively on everyone's devices. |
+| [OpenChat](https://github.com/openchatai/OpenChat) | Run and create custom ChatGPT-like bots with OpenChat, embed and share these bots anywhere, the open-source chatbot console. |
 | [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) | <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably. |
-| [Redream](https://github.com/Fictiverse/Redream) | Realtime Diffusion, using Automatic1111 Stable Diffusion API |
-| [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project-based tutorials |
-| [localGPT](https://github.com/PromtEngineer/localGPT) | Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. |
 | [femtoGPT](https://github.com/keyvank/femtoGPT) | Pure Rust implementation of a minimal Generative Pretrained Transformer |
-| [chrome](https://github.com/browserless/chrome) | The browserless Chrome service in Docker. Run on our cloud, or bring your own. |
-| [ui](https://github.com/shadcn/ui) | Beautifully designed components built with Radix UI and Tailwind CSS. |
+| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
+| [CodeTF](https://github.com/salesforce/CodeTF) | CodeTF: One-stop Transformer Library for State-of-the-art Code LLM |
+| [blink](https://github.com/jart/blink) | tiniest x86-64-linux emulator |
+| [localGPT](https://github.com/PromtEngineer/localGPT) | Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. |
+| [llama.cpp](https://github.com/ggerganov/llama.cpp) | Port of Facebook's LLaMA model in C/C++ |
+| [Redream](https://github.com/Fictiverse/Redream) | Realtime Diffusion, using Automatic1111 Stable Diffusion API |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
