@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [mlc-llm](https://github.com/mlc-ai/mlc-llm) | Enable everyone to develop, optimize and deploy AI models natively on everyone's devices. |
-| [OpenChat](https://github.com/openchatai/OpenChat) | Run and create custom ChatGPT-like bots with OpenChat, embed and share these bots anywhere, the open-source chatbot console. |
 | [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) | <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably. |
-| [femtoGPT](https://github.com/keyvank/femtoGPT) | Pure Rust implementation of a minimal Generative Pretrained Transformer |
-| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
-| [CodeTF](https://github.com/salesforce/CodeTF) | CodeTF: One-stop Transformer Library for State-of-the-art Code LLM |
-| [blink](https://github.com/jart/blink) | tiniest x86-64-linux emulator |
-| [localGPT](https://github.com/PromtEngineer/localGPT) | Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. |
-| [llama.cpp](https://github.com/ggerganov/llama.cpp) | Port of Facebook's LLaMA model in C/C++ |
-| [Redream](https://github.com/Fictiverse/Redream) | Realtime Diffusion, using Automatic1111 Stable Diffusion API |
+| [weekly](https://github.com/ruanyf/weekly) | 科技爱好者周刊，每周五发布 |
+| [ultimate-react-course](https://github.com/jonasschmedtmann/ultimate-react-course) | Starter files, final projects, and FAQ for my Ultimate React course |
+| [mlc-llm](https://github.com/mlc-ai/mlc-llm) | Enable everyone to develop, optimize and deploy AI models natively on everyone's devices. |
+| [sam-hq](https://github.com/SysCV/sam-hq) | Segment Anything in High Quality |
+| [reactpy](https://github.com/reactive-python/reactpy) | It's React, but in Python |
+| [Summer2024-Internships](https://github.com/pittcsc/Summer2024-Internships) | Collection of Summer 2023 & Summer 2024 tech internships! |
+| [ReWOO](https://github.com/billxbf/ReWOO) | Decoupling Reasoning from Observations for Efficient Augmented Language Models |
+| [OpenDAN-Personal-AI-OS](https://github.com/fiatrete/OpenDAN-Personal-AI-OS) | OpenDAN is an open source Personal AI OS , which consolidates various AI modules in one place for your personal use. |
+| [God-Level-Data-Science-ML-Full-Stack](https://github.com/hemansnation/God-Level-Data-Science-ML-Full-Stack) | A collection of scientific methods, processes, algorithms, and systems to build stories & models. This roadmap contains 16 Chapters, whether you are a fresher in the field or an experienced professional who wants to transition into Data Science & AI |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
