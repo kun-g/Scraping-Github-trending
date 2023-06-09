@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) | <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably. |
-| [weekly](https://github.com/ruanyf/weekly) | 科技爱好者周刊，每周五发布 |
-| [ultimate-react-course](https://github.com/jonasschmedtmann/ultimate-react-course) | Starter files, final projects, and FAQ for my Ultimate React course |
+| [homebrew-apple](https://github.com/apple/homebrew-apple) |  |
+| [OpenChat](https://github.com/openchatai/OpenChat) | LLMs custom-chatbots console ⚡ |
+| [DelugeFirmware](https://github.com/SynthstromAudible/DelugeFirmware) |  |
+| [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) | 吴恩达大模型系列课程中文版，包括《Prompt Engineering》、《Building System》和《LangChain》 |
+| [chatgpt-web-java](https://github.com/hncboy/chatgpt-web-java) | Java 开发的 ChatGPT 的项目，基于 Spring Boot 3 和 JDK 17，支持 AccessToken 和 ApiKey 模式。 |
 | [mlc-llm](https://github.com/mlc-ai/mlc-llm) | Enable everyone to develop, optimize and deploy AI models natively on everyone's devices. |
-| [sam-hq](https://github.com/SysCV/sam-hq) | Segment Anything in High Quality |
-| [reactpy](https://github.com/reactive-python/reactpy) | It's React, but in Python |
-| [Summer2024-Internships](https://github.com/pittcsc/Summer2024-Internships) | Collection of Summer 2023 & Summer 2024 tech internships! |
-| [ReWOO](https://github.com/billxbf/ReWOO) | Decoupling Reasoning from Observations for Efficient Augmented Language Models |
-| [OpenDAN-Personal-AI-OS](https://github.com/fiatrete/OpenDAN-Personal-AI-OS) | OpenDAN is an open source Personal AI OS , which consolidates various AI modules in one place for your personal use. |
-| [God-Level-Data-Science-ML-Full-Stack](https://github.com/hemansnation/God-Level-Data-Science-ML-Full-Stack) | A collection of scientific methods, processes, algorithms, and systems to build stories & models. This roadmap contains 16 Chapters, whether you are a fresher in the field or an experienced professional who wants to transition into Data Science & AI |
+| [ggml](https://github.com/ggerganov/ggml) | Tensor library for machine learning |
+| [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) | <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably. |
+| [qrbtf](https://github.com/ciaochaos/qrbtf) | An art QR code (qrcode) beautifier. 艺术二维码生成器。https://qrbtf.com |
+| [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 12 Weeks, 24 Lessons, AI for All! |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
