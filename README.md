@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [homebrew-apple](https://github.com/apple/homebrew-apple) |  |
-| [OpenChat](https://github.com/openchatai/OpenChat) | LLMs custom-chatbots console ⚡ |
-| [DelugeFirmware](https://github.com/SynthstromAudible/DelugeFirmware) |  |
-| [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) | 吴恩达大模型系列课程中文版，包括《Prompt Engineering》、《Building System》和《LangChain》 |
-| [chatgpt-web-java](https://github.com/hncboy/chatgpt-web-java) | Java 开发的 ChatGPT 的项目，基于 Spring Boot 3 和 JDK 17，支持 AccessToken 和 ApiKey 模式。 |
-| [mlc-llm](https://github.com/mlc-ai/mlc-llm) | Enable everyone to develop, optimize and deploy AI models natively on everyone's devices. |
-| [ggml](https://github.com/ggerganov/ggml) | Tensor library for machine learning |
+| [nekodetector](https://github.com/MCRcortex/nekodetector) | Nekoclient infection detector |
+| [intel-one-mono](https://github.com/intel/intel-one-mono) | Intel One Mono font repository |
+| [Recognize_Anything-Tag2Text](https://github.com/xinyu1205/Recognize_Anything-Tag2Text) | Code for the Recognize Anything Model and Tag2Text Model |
 | [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) | <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably. |
-| [qrbtf](https://github.com/ciaochaos/qrbtf) | An art QR code (qrcode) beautifier. 艺术二维码生成器。https://qrbtf.com |
-| [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 12 Weeks, 24 Lessons, AI for All! |
+| [canvas-editor](https://github.com/Hufe921/canvas-editor) | rich text editor by canvas/svg |
+| [Whisky](https://github.com/IsaacMarovitz/Whisky) | A modern Wine wrapper for macOS built with SwiftUI |
+| [homebrew-apple](https://github.com/apple/homebrew-apple) |  |
+| [fractureiser](https://github.com/fractureiser-investigation/fractureiser) | Information about the fractureiser malware |
+| [weekly](https://github.com/ruanyf/weekly) | 科技爱好者周刊，每周五发布 |
+| [devops-exercises](https://github.com/bregman-arie/devops-exercises) | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
