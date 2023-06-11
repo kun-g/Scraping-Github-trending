@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [nekodetector](https://github.com/MCRcortex/nekodetector) | Nekoclient infection detector |
-| [intel-one-mono](https://github.com/intel/intel-one-mono) | Intel One Mono font repository |
-| [Recognize_Anything-Tag2Text](https://github.com/xinyu1205/Recognize_Anything-Tag2Text) | Code for the Recognize Anything Model and Tag2Text Model |
-| [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) | <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably. |
-| [canvas-editor](https://github.com/Hufe921/canvas-editor) | rich text editor by canvas/svg |
+| [gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) | Providing a free OpenAI GPT-4 API ! This is a replication project for the typescript version of xtekky/gpt4free |
+| [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 12 Weeks, 24 Lessons, AI for All! |
 | [Whisky](https://github.com/IsaacMarovitz/Whisky) | A modern Wine wrapper for macOS built with SwiftUI |
-| [homebrew-apple](https://github.com/apple/homebrew-apple) |  |
-| [fractureiser](https://github.com/fractureiser-investigation/fractureiser) | Information about the fractureiser malware |
-| [weekly](https://github.com/ruanyf/weekly) | 科技爱好者周刊，每周五发布 |
-| [devops-exercises](https://github.com/bregman-arie/devops-exercises) | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions |
+| [reactpy](https://github.com/reactive-python/reactpy) | It's React, but in Python |
+| [intel-one-mono](https://github.com/intel/intel-one-mono) | Intel One Mono font repository |
+| [Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) | Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding |
+| [ray](https://github.com/ray-project/ray) | Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads. |
+| [apollo-backend](https://github.com/christianselig/apollo-backend) | Apollo backend server |
+| [invidious](https://github.com/iv-org/invidious) | Invidious is an alternative front-end to YouTube |
+| [qrbtf](https://github.com/ciaochaos/qrbtf) | An art QR code (qrcode) beautifier. 艺术二维码生成器。https://qrbtf.com |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
