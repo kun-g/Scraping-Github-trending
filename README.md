@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) | Providing a free OpenAI GPT-4 API ! This is a replication project for the typescript version of xtekky/gpt4free |
-| [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 12 Weeks, 24 Lessons, AI for All! |
+| [audiocraft](https://github.com/facebookresearch/audiocraft) | Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning. |
 | [Whisky](https://github.com/IsaacMarovitz/Whisky) | A modern Wine wrapper for macOS built with SwiftUI |
-| [reactpy](https://github.com/reactive-python/reactpy) | It's React, but in Python |
-| [intel-one-mono](https://github.com/intel/intel-one-mono) | Intel One Mono font repository |
-| [Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) | Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding |
-| [ray](https://github.com/ray-project/ray) | Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads. |
-| [apollo-backend](https://github.com/christianselig/apollo-backend) | Apollo backend server |
+| [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 12 Weeks, 24 Lessons, AI for All! |
+| [gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) | Providing a free OpenAI GPT-4 API ! This is a replication project for the typescript version of xtekky/gpt4free |
+| [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | Short code snippets for all your development needs |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney) | 🎨 一键拥有你自己的 ChatGPT+Midjourney 网页服务 | Own your own ChatGPT+Midjourney web service with one click |
 | [invidious](https://github.com/iv-org/invidious) | Invidious is an alternative front-end to YouTube |
-| [qrbtf](https://github.com/ciaochaos/qrbtf) | An art QR code (qrcode) beautifier. 艺术二维码生成器。https://qrbtf.com |
+| [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | A book series on JavaScript. @YDKJS on twitter. |
+| [intel-one-mono](https://github.com/intel/intel-one-mono) | Intel One Mono font repository |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
