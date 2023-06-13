@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [audiocraft](https://github.com/facebookresearch/audiocraft) | Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning. |
-| [Whisky](https://github.com/IsaacMarovitz/Whisky) | A modern Wine wrapper for macOS built with SwiftUI |
-| [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 12 Weeks, 24 Lessons, AI for All! |
 | [gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) | Providing a free OpenAI GPT-4 API ! This is a replication project for the typescript version of xtekky/gpt4free |
-| [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | Short code snippets for all your development needs |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney) | 🎨 一键拥有你自己的 ChatGPT+Midjourney 网页服务 | Own your own ChatGPT+Midjourney web service with one click |
-| [invidious](https://github.com/iv-org/invidious) | Invidious is an alternative front-end to YouTube |
-| [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | A book series on JavaScript. @YDKJS on twitter. |
 | [intel-one-mono](https://github.com/intel/intel-one-mono) | Intel One Mono font repository |
+| [audiocraft](https://github.com/facebookresearch/audiocraft) | Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning. |
+| [ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney) | 🎨 一键拥有你自己的 ChatGPT+Midjourney 网页服务 | Own your own ChatGPT+Midjourney web service with one click |
+| [Otter](https://github.com/Luodian/Otter) | 🦦 Otter, a multi-modal model based on OpenFlamingo (open-sourced version of DeepMind's Flamingo), trained on MIMIC-IT and showcasing improved instruction-following and in-context learning ability. |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [sample-backyard-birds](https://github.com/apple/sample-backyard-birds) |  |
+| [jerboa](https://github.com/dessalines/jerboa) | A native android app for Lemmy |
+| [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 12 Weeks, 24 Lessons, AI for All! |
+| [Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) | A GPT-4 AI Tutor Prompt for customizable personalized learning experiences. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
