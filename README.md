@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [gpt-engineer](https://github.com/AntonOsika/gpt-engineer) | Specify what you want it to build, the AI asks for clarification, and then builds it. |
-| [FlagAI](https://github.com/FlagAI-Open/FlagAI) | FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model. |
-| [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 12 Weeks, 24 Lessons, AI for All! |
-| [intel-one-mono](https://github.com/intel/intel-one-mono) | Intel One Mono font repository |
+| [gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) | Providing a free OpenAI GPT-4 API ! This is a replication project for the typescript version of xtekky/gpt4free |
+| [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) | Data-Centric FinGPT. Open-source for open finance! Revolutionize 🔥 We'll soon release the trained model. |
 | [ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney) | 🎨 一键拥有你自己的 ChatGPT+Midjourney 网页服务 | Own your own ChatGPT+Midjourney web service with one click |
-| [Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) | A GPT-4 AI Tutor Prompt for customizable personalized learning experiences. |
-| [openobserve](https://github.com/openobserve/openobserve) | 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces). |
-| [unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) | Flipper Zero Unleashed Firmware |
-| [conference](https://github.com/gopherchina/conference) |  |
 | [audiocraft](https://github.com/facebookresearch/audiocraft) | Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning. |
+| [ord](https://github.com/ordinals/ord) | 👁‍🗨 Rare and exotic sats |
+| [conference](https://github.com/gopherchina/conference) |  |
+| [MusicGen-colab](https://github.com/camenduru/MusicGen-colab) |  |
+| [Otter](https://github.com/Luodian/Otter) | 🦦 Otter, a multi-modal model based on OpenFlamingo (open-sourced version of DeepMind's Flamingo), trained on MIMIC-IT and showcasing improved instruction-following and in-context learning ability. |
+| [bloop](https://github.com/BloopAI/bloop) | bloop is a fast code search engine written in Rust. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
