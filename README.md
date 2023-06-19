@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [Chat2DB](https://github.com/alibaba/Chat2DB) | 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具) |
-| [baichuan-7B](https://github.com/baichuan-inc/baichuan-7B) | A large-scale 7B pretraining language model developed by BaiChuan-Inc. |
 | [gpt-engineer](https://github.com/AntonOsika/gpt-engineer) | Specify what you want it to build, the AI asks for clarification, and then builds it. |
-| [immersive-translate](https://github.com/immersive-translate/immersive-translate) | 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension |
-| [server](https://github.com/nextcloud/server) | ☁️ Nextcloud server, a safe home for all your data |
-| [breadit](https://github.com/joschan21/breadit) | Modern Fullstack Reddit Clone in Next.js 13 & TypeScript |
+| [ai](https://github.com/vercel-labs/ai) | Build AI-powered applications with React, Svelte, and Vue |
+| [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) | Data-Centric FinGPT. Open-source for open finance! Revolutionize 🔥 We'll soon release the trained model. |
+| [Chat2DB](https://github.com/alibaba/Chat2DB) | 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具) |
+| [KernelSU](https://github.com/tiann/KernelSU) | A Kernel based root solution for Android |
+| [roop](https://github.com/s0md3v/roop) | one-click deepfake (face swap) |
+| [LMFlow](https://github.com/OptimalScale/LMFlow) | An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Model for All. |
+| [ChatALL](https://github.com/sunner/ChatALL) | Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers |
 | [LLaMA-Efficient-Tuning](https://github.com/hiyouga/LLaMA-Efficient-Tuning) | Fine-tuning LLaMA with PEFT (PT+SFT+RLHF with QLoRA) |
-| [localrf](https://github.com/facebookresearch/localrf) | An algorithm for reconstructing the radiance field of a large-scale scene from a single casually captured video. |
-| [usb-sniffer](https://github.com/ataradov/usb-sniffer) | Low-cost LS/FS/HS USB sniffer with Wireshark interface |
-| [h2ogpt](https://github.com/h2oai/h2ogpt) | Join us at H2O.ai to make the world's best open-source GPT with document and image Q&A, 100% private chat, no data leaks, Apache 2.0 https://arxiv.org/pdf/2306.08161.pdf |
+| [poop](https://github.com/andrewrk/poop) | Performance Optimizer Observation Platform |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
