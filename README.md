@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [tinygrad](https://github.com/geohot/tinygrad) | You like pytorch? You like micrograd? You love tinygrad! ❤️ |
+| [kaguya](https://github.com/ykdojo/kaguya) | A ChatGPT plugin that allows you to load and edit your local files in a controlled way, as well as run any Python, JavaScript, and bash script. |
+| [chatgpt-spring-boot-starter](https://github.com/linux-china/chatgpt-spring-boot-starter) | Spring Boot ChatGPT Starter |
+| [linen.dev](https://github.com/Linen-dev/linen.dev) | Lightweight Google-searchable Slack alternative for Communities |
 | [gpt-engineer](https://github.com/AntonOsika/gpt-engineer) | Specify what you want it to build, the AI asks for clarification, and then builds it. |
-| [OpenChat](https://github.com/openchatai/OpenChat) | LLMs custom-chatbots console ⚡ |
-| [DB-GPT](https://github.com/csunny/DB-GPT) | Revolutionizing Database Interactions with Private LLM Technology |
-| [novel](https://github.com/steven-tey/novel) | Notion-style WYSIWYG editor with AI-powered autocompletions. |
 | [chatgpt-retrieval](https://github.com/techleadhd/chatgpt-retrieval) |  |
+| [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) | Desktop implementation of Steam's mobile authenticator app |
 | [infinigen](https://github.com/princeton-vl/infinigen) | Infinite Photorealistic Worlds using Procedural Generation |
-| [Chat2DB](https://github.com/alibaba/Chat2DB) | 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具) |
-| [community-platform](https://github.com/ONEARMY/community-platform) | A platform to build useful communities that aim to tackle global problems |
-| [WizardLM](https://github.com/nlpxucan/WizardLM) | Family of instruction-following LLMs powered by Evol-Instruct: WizardLM, WizardCoder |
-| [computer-science](https://github.com/ossu/computer-science) | 🎓 Path to a free self-taught education in Computer Science! |
+| [googletest](https://github.com/google/googletest) | GoogleTest - Google Testing and Mocking Framework |
+| [sst](https://github.com/serverless-stack/sst) | 💥 SST makes it easy to build full-stack serverless apps. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
