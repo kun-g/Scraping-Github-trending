@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [tinygrad](https://github.com/geohot/tinygrad) | You like pytorch? You like micrograd? You love tinygrad! ❤️ |
-| [kaguya](https://github.com/ykdojo/kaguya) | A ChatGPT plugin that allows you to load and edit your local files in a controlled way, as well as run any Python, JavaScript, and bash script. |
-| [chatgpt-spring-boot-starter](https://github.com/linux-china/chatgpt-spring-boot-starter) | Spring Boot ChatGPT Starter |
-| [linen.dev](https://github.com/Linen-dev/linen.dev) | Lightweight Google-searchable Slack alternative for Communities |
-| [gpt-engineer](https://github.com/AntonOsika/gpt-engineer) | Specify what you want it to build, the AI asks for clarification, and then builds it. |
-| [chatgpt-retrieval](https://github.com/techleadhd/chatgpt-retrieval) |  |
-| [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) | Desktop implementation of Steam's mobile authenticator app |
-| [infinigen](https://github.com/princeton-vl/infinigen) | Infinite Photorealistic Worlds using Procedural Generation |
+| [svelte](https://github.com/sveltejs/svelte) | Cybernetically enhanced web apps |
+| [ai-getting-started](https://github.com/a16z-infra/ai-getting-started) | A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs |
+| [vllm](https://github.com/vllm-project/vllm) | A high-throughput and memory-efficient inference and serving engine for LLMs |
+| [plugin-samples](https://github.com/figma/plugin-samples) | 🔌 Sample Figma plugins. |
 | [googletest](https://github.com/google/googletest) | GoogleTest - Google Testing and Mocking Framework |
-| [sst](https://github.com/serverless-stack/sst) | 💥 SST makes it easy to build full-stack serverless apps. |
+| [UniAD](https://github.com/OpenDriveLab/UniAD) | [CVPR 2023 Best Paper] Planning-oriented Autonomous Driving |
+| [DB-GPT](https://github.com/csunny/DB-GPT) | Revolutionizing Database Interactions with Private LLM Technology |
+| [sd-webui-roop](https://github.com/s0md3v/sd-webui-roop) | roop extension for StableDiffusion web-ui |
+| [imersao13](https://github.com/devfullcycle/imersao13) |  |
+| [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
