@@ -13,15 +13,15 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [generative-models](https://github.com/Stability-AI/generative-models) | Generative Models by Stability AI |
 | [svelte](https://github.com/sveltejs/svelte) | Cybernetically enhanced web apps |
+| [kaguya](https://github.com/ykdojo/kaguya) | A ChatGPT plugin that allows you to load and edit your local files in a controlled way, as well as run any Python, JavaScript, and bash script. |
+| [Chat2DB](https://github.com/chat2db/Chat2DB) | 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具) |
 | [ai-getting-started](https://github.com/a16z-infra/ai-getting-started) | A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs |
-| [vllm](https://github.com/vllm-project/vllm) | A high-throughput and memory-efficient inference and serving engine for LLMs |
-| [plugin-samples](https://github.com/figma/plugin-samples) | 🔌 Sample Figma plugins. |
-| [googletest](https://github.com/google/googletest) | GoogleTest - Google Testing and Mocking Framework |
-| [UniAD](https://github.com/OpenDriveLab/UniAD) | [CVPR 2023 Best Paper] Planning-oriented Autonomous Driving |
-| [DB-GPT](https://github.com/csunny/DB-GPT) | Revolutionizing Database Interactions with Private LLM Technology |
-| [sd-webui-roop](https://github.com/s0md3v/sd-webui-roop) | roop extension for StableDiffusion web-ui |
-| [imersao13](https://github.com/devfullcycle/imersao13) |  |
+| [chatgpt-retrieval](https://github.com/techleadhd/chatgpt-retrieval) |  |
+| [prisma](https://github.com/prisma/prisma) | Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB |
+| [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics |
+| [scikit-learn](https://github.com/scikit-learn/scikit-learn) | scikit-learn: machine learning in Python |
 | [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
