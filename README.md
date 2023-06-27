@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [skateshop](https://github.com/sadmann7/skateshop) | An open source e-commerce skateshop build with everything new in Next.js 13. |
-| [svelte](https://github.com/sveltejs/svelte) | Cybernetically enhanced web apps |
-| [generative-models](https://github.com/Stability-AI/generative-models) | Generative Models by Stability AI |
 | [FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM) | Fast Segment Anything |
-| [ai-getting-started](https://github.com/a16z-infra/ai-getting-started) | A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs |
-| [spacedrive](https://github.com/spacedriveapp/spacedrive) | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. |
-| [top-cvpr-2023-papers](https://github.com/SkalskiP/top-cvpr-2023-papers) | This repository is a curated collection of the most exciting and influential CVPR 2023 papers. 🔥 [Paper + Code] |
-| [credo](https://github.com/zksync/credo) |  |
+| [svelte](https://github.com/sveltejs/svelte) | Cybernetically enhanced web apps |
 | [Chat2DB](https://github.com/chat2db/Chat2DB) | 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具) |
-| [embedchain](https://github.com/embedchain/embedchain) | Framework to easily create LLM powered bots over any dataset. |
+| [generative-models](https://github.com/Stability-AI/generative-models) | Generative Models by Stability AI |
+| [ggml](https://github.com/ggerganov/ggml) | Tensor library for machine learning |
+| [stablediffusion](https://github.com/Stability-AI/stablediffusion) | High-Resolution Image Synthesis with Latent Diffusion Models |
+| [1Panel](https://github.com/1Panel-dev/1Panel) | 🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。 |
+| [spacedrive](https://github.com/spacedriveapp/spacedrive) | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. |
+| [skateshop](https://github.com/sadmann7/skateshop) | An open source e-commerce skateshop build with everything new in Next.js 13. |
+| [docs](https://github.com/github/docs) | The open-source repo for docs.github.com |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
