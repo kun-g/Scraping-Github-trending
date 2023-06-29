@@ -15,14 +15,14 @@
 | :----: | :----: |
 | [DragGAN](https://github.com/XingangPan/DragGAN) | Official Code for DragGAN (SIGGRAPH 2023) |
 | [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) | ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型 |
-| [FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM) | Fast Segment Anything |
-| [freegpt-webui](https://github.com/ramonvc/freegpt-webui) | GPT 3.5/4 with a Chat Web UI. No API key required. |
 | [embedchain](https://github.com/embedchain/embedchain) | Framework to easily create LLM powered bots over any dataset. |
-| [spacedrive](https://github.com/spacedriveapp/spacedrive) | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. |
-| [open-resume](https://github.com/xitanggg/open-resume) | OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/ |
+| [InjectLib](https://github.com/QiuChenlyOpenSource/InjectLib) | 基于Ruby编写的命令行注入版本 |
+| [chathn](https://github.com/steven-tey/chathn) | Chat with Hacker News using natural language. Built with OpenAI Functions and Vercel AI SDK. |
 | [papers-we-love](https://github.com/papers-we-love/papers-we-love) | Papers from the computer science community to read and discuss. |
-| [skateshop](https://github.com/sadmann7/skateshop) | An open source e-commerce skateshop build with everything new in Next.js 13. |
-| [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
+| [Chat2DB](https://github.com/chat2db/Chat2DB) | 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具) |
+| [exllama](https://github.com/turboderp/exllama) | A more memory-efficient rewrite of the HF transformers implementation of Llama for use with quantized weights. |
+| [FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM) | Fast Segment Anything |
+| [telegram-groups](https://github.com/alexbei/telegram-groups) | 经过精心筛选，从5000+个电报群组/频道/机器人中挑选出的优质推荐！如果您有更多值得推荐的电报群组/频道/机器人，欢迎在issue中留言或提交pull requests。感谢您的关注！ |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
