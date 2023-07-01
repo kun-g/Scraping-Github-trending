@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [MobileSAM](https://github.com/ChaoningZhang/MobileSAM) | This is the offiicial code for Faster Segment Anything (MobileSAM) project that makes SAM lightweight |
-| [freegpt-webui](https://github.com/ramonvc/freegpt-webui) | GPT 3.5/4 with a Chat Web UI. No API key required. |
-| [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) | ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型 |
+| [mpt-30B-inference](https://github.com/abacaj/mpt-30B-inference) | Run inference on MPT-30B using CPU |
+| [Block-Pornographic-Replies](https://github.com/slarkvan/Block-Pornographic-Replies) | 屏蔽推特回复下的黄推。Block pornographic replies below the tweet. |
+| [open-source-course](https://github.com/WeMakeDevs/open-source-course) |  |
 | [PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! |
 | [DragGAN](https://github.com/XingangPan/DragGAN) | Official Code for DragGAN (SIGGRAPH 2023) |
-| [ChatGLM-Efficient-Tuning](https://github.com/hiyouga/ChatGLM-Efficient-Tuning) | Fine-tuning ChatGLM-6B with PEFT | 基于 PEFT 的高效 ChatGLM 微调 |
 | [folly](https://github.com/facebook/folly) | An open-source C++ library developed and used at Facebook. |
-| [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) | ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型 |
-| [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project-based tutorials |
-| [javascript-design-patterns-for-humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans) | An ultra-simplified explanation of design patterns implemented in javascript |
+| [Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer) | An easy and fast way to create a Python GUI 🐍 |
+| [papers-we-love](https://github.com/papers-we-love/papers-we-love) | Papers from the computer science community to read and discuss. |
+| [LLMs-In-China](https://github.com/wgwang/LLMs-In-China) | 中国大模型 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
