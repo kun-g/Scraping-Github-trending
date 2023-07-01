@@ -13,7 +13,7 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [MobileSAM](https://github.com/ChaoningZhang/MobileSAM) | This is the offiicial code for Faster Segment Anything (MobileSAM) project that makes SAM lightweight |
+| [MobileSAM](https://github.com/ChaoningZhang/MobileSAM) | This is the official code for Faster Segment Anything (MobileSAM) project that makes SAM lightweight for mobile applications and beyond! |
 | [mpt-30B-inference](https://github.com/abacaj/mpt-30B-inference) | Run inference on MPT-30B using CPU |
 | [Block-Pornographic-Replies](https://github.com/slarkvan/Block-Pornographic-Replies) | 屏蔽推特回复下的黄推。Block pornographic replies below the tweet. |
 | [open-source-course](https://github.com/WeMakeDevs/open-source-course) |  |
