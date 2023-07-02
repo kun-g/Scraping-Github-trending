@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [MobileSAM](https://github.com/ChaoningZhang/MobileSAM) | This is the official code for Faster Segment Anything (MobileSAM) project that makes SAM lightweight for mobile applications and beyond! |
-| [mpt-30B-inference](https://github.com/abacaj/mpt-30B-inference) | Run inference on MPT-30B using CPU |
-| [Block-Pornographic-Replies](https://github.com/slarkvan/Block-Pornographic-Replies) | 屏蔽推特回复下的黄推。Block pornographic replies below the tweet. |
-| [open-source-course](https://github.com/WeMakeDevs/open-source-course) |  |
 | [PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! |
-| [DragGAN](https://github.com/XingangPan/DragGAN) | Official Code for DragGAN (SIGGRAPH 2023) |
+| [open-source-course](https://github.com/WeMakeDevs/open-source-course) |  |
+| [AFFiNE](https://github.com/toeverything/AFFiNE) | There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. |
 | [folly](https://github.com/facebook/folly) | An open-source C++ library developed and used at Facebook. |
-| [Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer) | An easy and fast way to create a Python GUI 🐍 |
-| [papers-we-love](https://github.com/papers-we-love/papers-we-love) | Papers from the computer science community to read and discuss. |
+| [MobileSAM](https://github.com/ChaoningZhang/MobileSAM) | This is the official code for Faster Segment Anything (MobileSAM) project that makes SAM lightweight for mobile applications and beyond! |
+| [background-removal-js](https://github.com/imgly/background-removal-js) | Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo. |
+| [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project-based tutorials |
 | [LLMs-In-China](https://github.com/wgwang/LLMs-In-China) | 中国大模型 |
+| [End-to-end-Autonomous-Driving](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving) | All you need for End-to-end Autonomous Driving |
+| [free-for-dev](https://github.com/ripienaar/free-for-dev) | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
