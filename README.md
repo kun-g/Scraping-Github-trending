@@ -29,16 +29,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [gpt-engineer](https://github.com/AntonOsika/gpt-engineer) | Specify what you want it to build, the AI asks for clarification, and then builds it. |
-| [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) | Data-Centric FinGPT. Open-source for open finance! Revolutionize 🔥 We'll soon release the trained model. |
-| [ai](https://github.com/vercel-labs/ai) | Build AI-powered applications with React, Svelte, and Vue |
-| [OpenLLM](https://github.com/bentoml/OpenLLM) | An open platform for operating large language models (LLMs) in production. Fine-tune, serve, deploy, and monitor any LLMs with ease. |
-| [Chat2DB](https://github.com/alibaba/Chat2DB) | 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具) |
-| [CodeEdit](https://github.com/CodeEditApp/CodeEdit) | CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. |
-| [WizardLM](https://github.com/nlpxucan/WizardLM) | Family of instruction-following LLMs powered by Evol-Instruct: WizardLM, WizardCoder |
-| [LLaMA-Efficient-Tuning](https://github.com/hiyouga/LLaMA-Efficient-Tuning) | Fine-tuning LLaMA with PEFT (PT+SFT+RLHF with QLoRA) |
-| [desktop](https://github.com/desktop/desktop) | Focus on what matters instead of fighting with Git. |
-| [lemmy](https://github.com/LemmyNet/lemmy) | 🐀 A link aggregator and forum for the fediverse |
+| [generative-models](https://github.com/Stability-AI/generative-models) | Generative Models by Stability AI |
+| [ai-getting-started](https://github.com/a16z-infra/ai-getting-started) | A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs |
+| [svelte](https://github.com/sveltejs/svelte) | Cybernetically enhanced web apps |
+| [vllm](https://github.com/vllm-project/vllm) | A high-throughput and memory-efficient inference and serving engine for LLMs |
+| [sd-webui-roop](https://github.com/s0md3v/sd-webui-roop) | roop extension for StableDiffusion web-ui |
+| [spacedrive](https://github.com/spacedriveapp/spacedrive) | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. |
+| [papers-we-love](https://github.com/papers-we-love/papers-we-love) | Papers from the computer science community to read and discuss. |
+| [chatgpt-retrieval](https://github.com/techleadhd/chatgpt-retrieval) |  |
+| [InjectLib](https://github.com/QiuChenlyOpenSource/InjectLib) | 基于Ruby编写的命令行注入版本 |
+| [kaguya](https://github.com/ykdojo/kaguya) | A ChatGPT plugin that allows you to load and edit your local files in a controlled way, as well as run any Python, JavaScript, and bash script. |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
