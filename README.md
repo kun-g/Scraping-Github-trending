@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [Apollo-CustomApiCredentials](https://github.com/EthanArbuckle/Apollo-CustomApiCredentials) | Tweak to use your own reddit API credentials in Apollo |
 | [PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! |
-| [open-source-course](https://github.com/WeMakeDevs/open-source-course) |  |
+| [tinygrad](https://github.com/geohot/tinygrad) | You like pytorch? You like micrograd? You love tinygrad! ❤️ |
+| [questdb](https://github.com/questdb/questdb) | An open source time-series database for fast ingest and SQL queries |
+| [Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) | Voice data <= 10 mins can also be used to train a good VC model! |
+| [voice-changer](https://github.com/w-okada/voice-changer) | リアルタイムボイスチェンジャー Realtime Voice Changer |
+| [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) | Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 7, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor. |
 | [AFFiNE](https://github.com/toeverything/AFFiNE) | There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. |
-| [folly](https://github.com/facebook/folly) | An open-source C++ library developed and used at Facebook. |
-| [MobileSAM](https://github.com/ChaoningZhang/MobileSAM) | This is the official code for Faster Segment Anything (MobileSAM) project that makes SAM lightweight for mobile applications and beyond! |
-| [background-removal-js](https://github.com/imgly/background-removal-js) | Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo. |
-| [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project-based tutorials |
-| [LLMs-In-China](https://github.com/wgwang/LLMs-In-China) | 中国大模型 |
-| [End-to-end-Autonomous-Driving](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving) | All you need for End-to-end Autonomous Driving |
-| [free-for-dev](https://github.com/ripienaar/free-for-dev) | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev |
+| [wefwef](https://github.com/aeharding/wefwef) | wefwef — a mobile-first Lemmy web client |
+| [open-source-course](https://github.com/WeMakeDevs/open-source-course) |  |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
