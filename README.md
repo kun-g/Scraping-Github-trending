@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [Apollo-CustomApiCredentials](https://github.com/EthanArbuckle/Apollo-CustomApiCredentials) | Tweak to use your own reddit API credentials in Apollo |
-| [PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! |
 | [tinygrad](https://github.com/geohot/tinygrad) | You like pytorch? You like micrograd? You love tinygrad! ❤️ |
-| [questdb](https://github.com/questdb/questdb) | An open source time-series database for fast ingest and SQL queries |
-| [Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) | Voice data <= 10 mins can also be used to train a good VC model! |
-| [voice-changer](https://github.com/w-okada/voice-changer) | リアルタイムボイスチェンジャー Realtime Voice Changer |
-| [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) | Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 7, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor. |
-| [AFFiNE](https://github.com/toeverything/AFFiNE) | There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. |
+| [Apollo-CustomApiCredentials](https://github.com/EthanArbuckle/Apollo-CustomApiCredentials) | Tweak to use your own reddit API credentials in Apollo |
+| [Far-Cry-1-Source-Full](https://github.com/StrongPC123/Far-Cry-1-Source-Full) | Far Cry 1 Full Source (Developed by CryTek). For NON COMMERCIAL Purposes only. Leaked. |
 | [wefwef](https://github.com/aeharding/wefwef) | wefwef — a mobile-first Lemmy web client |
-| [open-source-course](https://github.com/WeMakeDevs/open-source-course) |  |
+| [copilot-analysis](https://github.com/mengjian-github/copilot-analysis) |  |
+| [localGPT](https://github.com/PromtEngineer/localGPT) | Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. |
+| [Stockfish](https://github.com/official-stockfish/Stockfish) | UCI chess engine |
+| [PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! |
+| [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI |
+| [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) | 10 Weeks, 20 Lessons, Data Science for All! |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
