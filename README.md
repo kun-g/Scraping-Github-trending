@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [gpt-migrate](https://github.com/0xpayne/gpt-migrate) | Easily migrate your codebase from one framework or language to another. |
+| [openchat](https://github.com/imoneoi/openchat) | OpenChat: Less is More for Open-source Models |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
 | [tinygrad](https://github.com/geohot/tinygrad) | You like pytorch? You like micrograd? You love tinygrad! ❤️ |
-| [Apollo-CustomApiCredentials](https://github.com/EthanArbuckle/Apollo-CustomApiCredentials) | Tweak to use your own reddit API credentials in Apollo |
 | [Far-Cry-1-Source-Full](https://github.com/StrongPC123/Far-Cry-1-Source-Full) | Far Cry 1 Full Source (Developed by CryTek). For NON COMMERCIAL Purposes only. Leaked. |
-| [wefwef](https://github.com/aeharding/wefwef) | wefwef — a mobile-first Lemmy web client |
-| [copilot-analysis](https://github.com/mengjian-github/copilot-analysis) |  |
-| [localGPT](https://github.com/PromtEngineer/localGPT) | Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. |
-| [Stockfish](https://github.com/official-stockfish/Stockfish) | UCI chess engine |
-| [PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! |
-| [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI |
-| [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) | 10 Weeks, 20 Lessons, Data Science for All! |
+| [computer-science](https://github.com/ossu/computer-science) | 🎓 Path to a free self-taught education in Computer Science! |
+| [chatglm.cpp](https://github.com/li-plus/chatglm.cpp) | C++ implementation of ChatGLM-6B & ChatGLM2-6B |
+| [aider](https://github.com/paul-gauthier/aider) | aider is GPT powered coding in your terminal |
+| [run](https://github.com/The-Run-Philosophy-Organization/run) | 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。 |
+| [snake-ai](https://github.com/linyiLYi/snake-ai) | An AI agent that beats the classic game "Snake". |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
