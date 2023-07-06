@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [gpt-migrate](https://github.com/0xpayne/gpt-migrate) | Easily migrate your codebase from one framework or language to another. |
-| [openchat](https://github.com/imoneoi/openchat) | OpenChat: Less is More for Open-source Models |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [tinygrad](https://github.com/geohot/tinygrad) | You like pytorch? You like micrograd? You love tinygrad! ❤️ |
+| [misskey](https://github.com/misskey-dev/misskey) | 🌎 An interplanetary microblogging platform 🚀 |
 | [Far-Cry-1-Source-Full](https://github.com/StrongPC123/Far-Cry-1-Source-Full) | Far Cry 1 Full Source (Developed by CryTek). For NON COMMERCIAL Purposes only. Leaked. |
-| [computer-science](https://github.com/ossu/computer-science) | 🎓 Path to a free self-taught education in Computer Science! |
-| [chatglm.cpp](https://github.com/li-plus/chatglm.cpp) | C++ implementation of ChatGLM-6B & ChatGLM2-6B |
+| [ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw) | 中文法律大模型 |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [Stockfish](https://github.com/official-stockfish/Stockfish) | UCI chess engine |
+| [MetaGPT](https://github.com/geekan/MetaGPT) | The Multi-Agent Meta Programming Framework: Given one line Requirement, return PRD, Design, Tasks, Repo | 多智能体元编程框架：给定老板需求，输出产品文档、架构设计、任务列表、代码 |
 | [aider](https://github.com/paul-gauthier/aider) | aider is GPT powered coding in your terminal |
-| [run](https://github.com/The-Run-Philosophy-Organization/run) | 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。 |
-| [snake-ai](https://github.com/linyiLYi/snake-ai) | An AI agent that beats the classic game "Snake". |
+| [noodle](https://github.com/ixahmedxi/noodle) | Open Source Education Platform |
+| [computer-science](https://github.com/ossu/computer-science) | 🎓 Path to a free self-taught education in Computer Science! |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
