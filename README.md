@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [noodle](https://github.com/ixahmedxi/noodle) | Open Source Education Platform |
-| [gpt-migrate](https://github.com/0xpayne/gpt-migrate) | Easily migrate your codebase from one framework or language to another. |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [MetaGPT](https://github.com/geekan/MetaGPT) | The Multi-Agent Meta Programming Framework: Given one line Requirement, return PRD, Design, Tasks, Repo | 多智能体元编程框架：给定老板需求，输出产品文档、架构设计、任务列表、代码 |
-| [ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw) | 中文法律大模型 |
 | [typescript-book](https://github.com/gibbok/typescript-book) | The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source. |
-| [chatglm.cpp](https://github.com/li-plus/chatglm.cpp) | C++ implementation of ChatGLM-6B & ChatGLM2-6B |
-| [Final2x](https://github.com/Tohrusky/Final2x) | 2^x Image Super-Resolution |
-| [fastllm](https://github.com/ztxz16/fastllm) | 纯c++的全平台llm加速库，支持python调用，chatglm-6B级模型单卡可达10000+token / s，支持glm, llmam, moss基座，手机端流畅运行 |
-| [gopeed](https://github.com/GopeedLab/gopeed) | High speed downloader that supports all platforms. |
+| [Price-Tracking-Web-Scraper](https://github.com/techwithtim/Price-Tracking-Web-Scraper) | An automated price tracker that uses bright data, playwright, react and flask. |
+| [h2ogpt](https://github.com/h2oai/h2ogpt) | Join us at H2O.ai to make the world's best open-source GPT with document and image Q&A, 100% private chat, no data leaks, Apache 2.0 https://arxiv.org/pdf/2306.08161.pdf Live Demo: https://gpt.h2o.ai/ |
+| [platforms](https://github.com/vercel/platforms) | A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. |
+| [LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) | The official GitHub page for the survey paper "A Survey of Large Language Models". |
+| [pilotord-kit-onboarding](https://github.com/bacen/pilotord-kit-onboarding) | Documentação e arquivos de configuração para participação no Piloto do Real Digital |
+| [gpt-migrate](https://github.com/0xpayne/gpt-migrate) | Easily migrate your codebase from one framework or language to another. |
+| [MetaGPT](https://github.com/geekan/MetaGPT) | The Multi-Agent Meta Programming Framework: Given one line Requirement, return PRD, Design, Tasks, Repo | 多智能体元编程框架：给定老板需求，输出产品文档、架构设计、任务列表、代码 |
+| [unilm](https://github.com/microsoft/unilm) | Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
