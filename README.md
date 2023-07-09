@@ -29,16 +29,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [generative-models](https://github.com/Stability-AI/generative-models) | Generative Models by Stability AI |
-| [ai-getting-started](https://github.com/a16z-infra/ai-getting-started) | A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs |
-| [svelte](https://github.com/sveltejs/svelte) | Cybernetically enhanced web apps |
-| [vllm](https://github.com/vllm-project/vllm) | A high-throughput and memory-efficient inference and serving engine for LLMs |
-| [sd-webui-roop](https://github.com/s0md3v/sd-webui-roop) | roop extension for StableDiffusion web-ui |
-| [spacedrive](https://github.com/spacedriveapp/spacedrive) | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. |
-| [papers-we-love](https://github.com/papers-we-love/papers-we-love) | Papers from the computer science community to read and discuss. |
-| [chatgpt-retrieval](https://github.com/techleadhd/chatgpt-retrieval) |  |
-| [InjectLib](https://github.com/QiuChenlyOpenSource/InjectLib) | 基于Ruby编写的命令行注入版本 |
-| [kaguya](https://github.com/ykdojo/kaguya) | A ChatGPT plugin that allows you to load and edit your local files in a controlled way, as well as run any Python, JavaScript, and bash script. |
+| [tinygrad](https://github.com/tinygrad/tinygrad) | You like pytorch? You like micrograd? You love tinygrad! ❤️ |
+| [Apollo-CustomApiCredentials](https://github.com/EthanArbuckle/Apollo-CustomApiCredentials) | Tweak to use your own reddit API credentials in Apollo |
+| [background-removal-js](https://github.com/imgly/background-removal-js) | Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo. |
+| [mastodon](https://github.com/mastodon/mastodon) | Your self-hosted, globally interconnected microblogging community |
+| [platforms](https://github.com/vercel/platforms) | A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API. |
+| [MobileSAM](https://github.com/ChaoningZhang/MobileSAM) | This is the official code for MobileSAM project that makes SAM lightweight for mobile applications and beyond! |
+| [Chat2DB](https://github.com/chat2db/Chat2DB) | 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具) |
+| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+| [ChatGLM-Efficient-Tuning](https://github.com/hiyouga/ChatGLM-Efficient-Tuning) | Fine-tuning ChatGLM-6B with PEFT | 基于 PEFT 的高效 ChatGLM 微调 |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
