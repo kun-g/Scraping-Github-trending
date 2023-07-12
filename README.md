@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [quivr](https://github.com/StanGirard/quivr) | 🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠 |
-| [htmx](https://github.com/bigskysoftware/htmx) | </> htmx - high power tools for HTML |
-| [Flipper](https://github.com/UberGuidoZ/Flipper) | Playground (and dump) of stuff I make or modify for the Flipper Zero |
-| [noodle](https://github.com/ixahmedxi/noodle) | Open Source Education Platform |
-| [threads-api](https://github.com/junhoyeo/threads-api) | Unofficial, Reverse-Engineered Node.js/TypeScript client for Meta's Threads. Supports Read and Write. Web UI Included. |
+| [threads-net](https://github.com/dmytrostriletskyi/threads-net) | Unofficial and reverse-engineered Threads (threads.net) Python API wrapper. Supports read and write capabilities. |
+| [LongNet](https://github.com/kyegomez/LongNet) | Implementation of plug in and play Attention from "LongNet: Scaling Transformers to 1,000,000,000 Tokens" |
 | [igl](https://github.com/facebook/igl) | Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and Vulkan). |
-| [UV_K5_playground](https://github.com/piotr022/UV_K5_playground) |  |
-| [ComfyUI](https://github.com/comfyanonymous/ComfyUI) | A powerful and modular stable diffusion GUI with a graph/nodes interface. |
-| [typescript-book](https://github.com/gibbok/typescript-book) | The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source. |
-| [New-Grad-2024](https://github.com/ReaVNaiL/New-Grad-2024) | 👋 Hey there new grad🎉! We've put together a collection of full-time job openings for SWE, Quant, PM and tech roles in 2024! 🚀 |
+| [chatbox](https://github.com/Bin-Huang/chatbox) | Chatbox is a desktop app for GPT/LLM that supports Windows, Mac, Linux & Web Online |
+| [threads-api](https://github.com/junhoyeo/threads-api) | Unofficial, Reverse-Engineered Node.js/TypeScript client for Meta's Threads. Supports Read and Write. Web UI Included. |
+| [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) | Graphic notes on Gilbert Strang's "Linear Algebra for Everyone" |
+| [long_llama](https://github.com/CStanKonrad/long_llama) | LongLLaMA is a large language model capable of handling long contexts. It is based on OpenLLaMA and fine-tuned with the Focused Transformer (FoT) method. |
+| [roop](https://github.com/s0md3v/roop) | one-click deepfake (face swap) |
+| [kafka-in-production](https://github.com/dttung2905/kafka-in-production) | 📚 Tech blogs & talks by companies that run Kafka in production |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
