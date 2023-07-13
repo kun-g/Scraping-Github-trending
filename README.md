@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [quivr](https://github.com/StanGirard/quivr) | 🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠 |
-| [threads-net](https://github.com/dmytrostriletskyi/threads-net) | Unofficial and reverse-engineered Threads (threads.net) Python API wrapper. Supports read and write capabilities. |
-| [LongNet](https://github.com/kyegomez/LongNet) | Implementation of plug in and play Attention from "LongNet: Scaling Transformers to 1,000,000,000 Tokens" |
-| [igl](https://github.com/facebook/igl) | Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and Vulkan). |
-| [chatbox](https://github.com/Bin-Huang/chatbox) | Chatbox is a desktop app for GPT/LLM that supports Windows, Mac, Linux & Web Online |
-| [threads-api](https://github.com/junhoyeo/threads-api) | Unofficial, Reverse-Engineered Node.js/TypeScript client for Meta's Threads. Supports Read and Write. Web UI Included. |
+| [danswer](https://github.com/danswer-ai/danswer) | Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc. |
+| [gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) |  |
+| [Queryable](https://github.com/mazzzystar/Queryable) | Run OpenAI's CLIP model on iPhone to search photos. |
+| [gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) | Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering" |
+| [modernisation-platform](https://github.com/ministryofjustice/modernisation-platform) | A place for the core work of the Modernisation Platform • This repository is defined and managed in Terraform |
 | [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) | Graphic notes on Gilbert Strang's "Linear Algebra for Everyone" |
-| [long_llama](https://github.com/CStanKonrad/long_llama) | LongLLaMA is a large language model capable of handling long contexts. It is based on OpenLLaMA and fine-tuned with the Focused Transformer (FoT) method. |
-| [roop](https://github.com/s0md3v/roop) | one-click deepfake (face swap) |
-| [kafka-in-production](https://github.com/dttung2905/kafka-in-production) | 📚 Tech blogs & talks by companies that run Kafka in production |
+| [gpt-researcher](https://github.com/assafelovic/gpt-researcher) | GPT based autonomous agent that does online comprehensive research on any given topic |
+| [scipy2023-deeplearning](https://github.com/rasbt/scipy2023-deeplearning) |  |
+| [immich](https://github.com/immich-app/immich) | Self-hosted photo and video backup solution directly from your mobile phone. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
