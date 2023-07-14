@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [quivr](https://github.com/StanGirard/quivr) | 🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠 |
-| [danswer](https://github.com/danswer-ai/danswer) | Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc. |
+| [memos](https://github.com/usememos/memos) | A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts. |
 | [gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) |  |
-| [Queryable](https://github.com/mazzzystar/Queryable) | Run OpenAI's CLIP model on iPhone to search photos. |
-| [gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) | Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering" |
-| [modernisation-platform](https://github.com/ministryofjustice/modernisation-platform) | A place for the core work of the Modernisation Platform • This repository is defined and managed in Terraform |
-| [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) | Graphic notes on Gilbert Strang's "Linear Algebra for Everyone" |
+| [insomnia](https://github.com/Kong/insomnia) | The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC. |
+| [danswer](https://github.com/danswer-ai/danswer) | Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc. |
+| [Baichuan-13B](https://github.com/baichuan-inc/Baichuan-13B) | A 13B large language model developed by Baichuan Intelligent Technology |
 | [gpt-researcher](https://github.com/assafelovic/gpt-researcher) | GPT based autonomous agent that does online comprehensive research on any given topic |
-| [scipy2023-deeplearning](https://github.com/rasbt/scipy2023-deeplearning) |  |
-| [immich](https://github.com/immich-app/immich) | Self-hosted photo and video backup solution directly from your mobile phone. |
+| [AnimateDiff](https://github.com/guoyww/AnimateDiff) | Official implementation of AnimateDiff. |
+| [awesome-chatgpt-code-interpreter-experiments](https://github.com/SkalskiP/awesome-chatgpt-code-interpreter-experiments) | Awesome things you can do with ChatGPT + Code Interpreter combo 🔥 |
+| [cubes](https://github.com/mikepound/cubes) | This code calculates all the variations of 3D polycubes for any size (time permitting!) |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
