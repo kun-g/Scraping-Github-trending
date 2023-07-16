@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [companion-app](https://github.com/a16z-infra/companion-app) | AI companions with memory: a lightweight stack to create and host your own AI companions |
-| [gpt-researcher](https://github.com/assafelovic/gpt-researcher) | GPT based autonomous agent that does online comprehensive research on any given topic |
 | [BlackLotus](https://github.com/ldpreload/BlackLotus) | BlackLotus UEFI Windows Bootkit |
-| [vanmoof-encryption-key-exporter](https://github.com/grossartig/vanmoof-encryption-key-exporter) | Export all bike details (such as encryption key) of your VanMoof bikes. |
-| [ai-getting-started](https://github.com/a16z-infra/ai-getting-started) | A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs |
-| [Charts](https://github.com/danielgindi/Charts) | Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart. |
-| [annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) | 🧑‍🏫 59 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠 |
+| [npc_gzip](https://github.com/bazingagin/npc_gzip) |  |
+| [annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) | 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠 |
+| [haystack](https://github.com/deepset-ai/haystack) | 🔍 Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, Falcon and alike). Haystack offers production-ready tools to quickly build complex question answering, semantic search, text generation applications, and more. |
+| [virgo](https://github.com/system76/virgo) | System76 Virgo Laptop Project |
 | [mux](https://github.com/gorilla/mux) | Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍 |
 | [wandb](https://github.com/wandb/wandb) | 🔥 A tool for visualizing and tracking your machine learning experiments. This repo contains the CLI and Python API. |
-| [MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) | 《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients. |
+| [Charts](https://github.com/danielgindi/Charts) | Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart. |
+| [vanmoof-encryption-key-exporter](https://github.com/grossartig/vanmoof-encryption-key-exporter) | Export all bike details (such as encryption key) of your VanMoof bikes. |
+| [Book1_Python-For-Beginners](https://github.com/Visualize-ML/Book1_Python-For-Beginners) | Book_1_《编程不难》 | 鸢尾花书：从加减乘除到机器学习；开始上传PDF草稿、Jupyter笔记。文件还会经过至少两轮修改，改动会很大，大家注意下载最新版本。请多提意见，谢谢 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
