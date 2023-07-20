@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [RealChar](https://github.com/Shaunwei/RealChar) | 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT3.5/4, Anthropic Claude2, Chroma Vector DB, Whisper Speech2Text, ElevenLabs Text2Speech🎙️🤖 |
-| [lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) | 精益副业：程序员如何优雅地做副业 |
-| [codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) | Open source implementation of the ChatGPT Code Interpreter 👾 |
 | [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
-| [llama](https://github.com/facebookresearch/llama) | Inference code for LLaMA models |
-| [pop](https://github.com/charmbracelet/pop) | Send emails from your terminal 📬 |
-| [UniswapX](https://github.com/Uniswap/UniswapX) | 🦄 Gasless ERC20 swap settlement protocol 🦄 |
-| [Automatic_ticket_purchase](https://github.com/MakiNaruto/Automatic_ticket_purchase) | 大麦网抢票脚本 |
-| [mail-server](https://github.com/stalwartlabs/mail-server) | Secure & Modern All-in-One Mail Server (IMAP, JMAP, SMTP) |
+| [RealChar](https://github.com/Shaunwei/RealChar) | 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT3.5/4, Anthropic Claude2, Chroma Vector DB, Whisper Speech2Text, ElevenLabs Text2Speech🎙️🤖 |
+| [orioledb](https://github.com/orioledb/orioledb) | OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)  🇺🇦 |
+| [npc_gzip](https://github.com/bazingagin/npc_gzip) |  |
+| [simpleaichat](https://github.com/minimaxir/simpleaichat) | Python package for easily interfacing with chat apps, with robust features and minimal code complexity. |
+| [LazyVim](https://github.com/LazyVim/LazyVim) | Neovim config for the lazy |
+| [bifromq](https://github.com/baidu/bifromq) | A MQTT broker implementation adopting serverless architecture |
 | [web-check](https://github.com/Lissy93/web-check) | 🌐 All-in-one website OSINT tool for analysing any website |
+| [lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) | 精益副业：程序员如何优雅地做副业 |
+| [starter](https://github.com/LazyVim/starter) | Starter template for LazyVim |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
