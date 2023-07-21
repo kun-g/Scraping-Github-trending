@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [python-mastery](https://github.com/dabeaz-course/python-mastery) | Advanced Python Mastery (course by @dabeaz) |
+| [llama-recipes](https://github.com/facebookresearch/llama-recipes) | Examples and recipes for Llama 2 model |
+| [llama.cpp](https://github.com/ggerganov/llama.cpp) | Port of Facebook's LLaMA model in C/C++ |
+| [apihub](https://github.com/hiteshchoudhary/apihub) | Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers. |
+| [text-generation-webui](https://github.com/oobabooga/text-generation-webui) | A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA. |
+| [codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) | Open source implementation of the ChatGPT Code Interpreter 👾 |
+| [fury](https://github.com/alipay/fury) | A blazing fast multi-language serialization framework powered by jit and zero-copy |
 | [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
-| [RealChar](https://github.com/Shaunwei/RealChar) | 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT3.5/4, Anthropic Claude2, Chroma Vector DB, Whisper Speech2Text, ElevenLabs Text2Speech🎙️🤖 |
-| [orioledb](https://github.com/orioledb/orioledb) | OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)  🇺🇦 |
-| [npc_gzip](https://github.com/bazingagin/npc_gzip) |  |
-| [simpleaichat](https://github.com/minimaxir/simpleaichat) | Python package for easily interfacing with chat apps, with robust features and minimal code complexity. |
-| [LazyVim](https://github.com/LazyVim/LazyVim) | Neovim config for the lazy |
-| [bifromq](https://github.com/baidu/bifromq) | A MQTT broker implementation adopting serverless architecture |
 | [web-check](https://github.com/Lissy93/web-check) | 🌐 All-in-one website OSINT tool for analysing any website |
-| [lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) | 精益副业：程序员如何优雅地做副业 |
-| [starter](https://github.com/LazyVim/starter) | Starter template for LazyVim |
+| [evals](https://github.com/openai/evals) | Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
