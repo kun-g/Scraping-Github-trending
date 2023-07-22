@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [llama](https://github.com/facebookresearch/llama) | Inference code for LLaMA models |
 | [python-mastery](https://github.com/dabeaz-course/python-mastery) | Advanced Python Mastery (course by @dabeaz) |
 | [llama-recipes](https://github.com/facebookresearch/llama-recipes) | Examples and recipes for Llama 2 model |
+| [NeuralHaircut](https://github.com/SamsungLabs/NeuralHaircut) |  |
 | [llama.cpp](https://github.com/ggerganov/llama.cpp) | Port of Facebook's LLaMA model in C/C++ |
-| [apihub](https://github.com/hiteshchoudhary/apihub) | Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers. |
-| [text-generation-webui](https://github.com/oobabooga/text-generation-webui) | A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA. |
-| [codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) | Open source implementation of the ChatGPT Code Interpreter 👾 |
-| [fury](https://github.com/alipay/fury) | A blazing fast multi-language serialization framework powered by jit and zero-copy |
-| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
-| [web-check](https://github.com/Lissy93/web-check) | 🌐 All-in-one website OSINT tool for analysing any website |
-| [evals](https://github.com/openai/evals) | Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks. |
+| [ollama](https://github.com/jmorganca/ollama) | Get up and running with large language models locally |
+| [dotnet-webapi-boilerplate](https://github.com/fullstackhero/dotnet-webapi-boilerplate) | Clean Architecture Template for .NET 7.0 WebApi built with Multitenancy Support. |
+| [unilm](https://github.com/microsoft/unilm) | Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities |
+| [twenty](https://github.com/twentyhq/twenty) | Building a modern alternative to Salesforce. 🌟 You can star to support our work! |
+| [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) | A good looking terminal emulator which mimics the old cathode display... |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
