@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [llama](https://github.com/facebookresearch/llama) | Inference code for LLaMA models |
-| [python-mastery](https://github.com/dabeaz-course/python-mastery) | Advanced Python Mastery (course by @dabeaz) |
-| [llama-recipes](https://github.com/facebookresearch/llama-recipes) | Examples and recipes for Llama 2 model |
-| [NeuralHaircut](https://github.com/SamsungLabs/NeuralHaircut) |  |
-| [llama.cpp](https://github.com/ggerganov/llama.cpp) | Port of Facebook's LLaMA model in C/C++ |
 | [ollama](https://github.com/jmorganca/ollama) | Get up and running with large language models locally |
-| [dotnet-webapi-boilerplate](https://github.com/fullstackhero/dotnet-webapi-boilerplate) | Clean Architecture Template for .NET 7.0 WebApi built with Multitenancy Support. |
-| [unilm](https://github.com/microsoft/unilm) | Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities |
 | [twenty](https://github.com/twentyhq/twenty) | Building a modern alternative to Salesforce. 🌟 You can star to support our work! |
-| [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) | A good looking terminal emulator which mimics the old cathode display... |
+| [Llama2-Chinese](https://github.com/FlagAlpha/Llama2-Chinese) | 最好的中文Llama大模型，完全开源可商用 |
+| [llama.cpp](https://github.com/ggerganov/llama.cpp) | Port of Facebook's LLaMA model in C/C++ |
+| [llama-recipes](https://github.com/facebookresearch/llama-recipes) | Examples and recipes for Llama 2 model |
+| [curso-node-js](https://github.com/midudev/curso-node-js) | Curso de Node.js desde cero |
+| [ShortGPT](https://github.com/RayVentura/ShortGPT) | 🚀🎬 ShortGPT - An experimental AI framework for automated short/video content creation. Enables creators to rapidly produce, manage, and deliver content using AI and automation. |
+| [TypeChat](https://github.com/microsoft/TypeChat) | TypeChat is a library that makes it easy to build natural language interfaces using types. |
+| [Walnut](https://github.com/StudioCherno/Walnut) | Walnut is a simple application framework for Vulkan and Dear ImGui apps |
+| [reddit-place-script-2022](https://github.com/rdeepak2002/reddit-place-script-2022) | Script to draw an image onto r/place (https://www.reddit.com/r/place/) |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
