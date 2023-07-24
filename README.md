@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [ollama](https://github.com/jmorganca/ollama) | Get up and running with large language models locally |
-| [twenty](https://github.com/twentyhq/twenty) | Building a modern alternative to Salesforce. 🌟 You can star to support our work! |
-| [Llama2-Chinese](https://github.com/FlagAlpha/Llama2-Chinese) | 最好的中文Llama大模型，完全开源可商用 |
-| [llama.cpp](https://github.com/ggerganov/llama.cpp) | Port of Facebook's LLaMA model in C/C++ |
-| [llama-recipes](https://github.com/facebookresearch/llama-recipes) | Examples and recipes for Llama 2 model |
-| [curso-node-js](https://github.com/midudev/curso-node-js) | Curso de Node.js desde cero |
-| [ShortGPT](https://github.com/RayVentura/ShortGPT) | 🚀🎬 ShortGPT - An experimental AI framework for automated short/video content creation. Enables creators to rapidly produce, manage, and deliver content using AI and automation. |
-| [TypeChat](https://github.com/microsoft/TypeChat) | TypeChat is a library that makes it easy to build natural language interfaces using types. |
+| [Chess-Challenge](https://github.com/SebLague/Chess-Challenge) | https://youtu.be/iScy18pVR58 |
+| [InvokeAI](https://github.com/invoke-ai/InvokeAI) | InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products. |
 | [Walnut](https://github.com/StudioCherno/Walnut) | Walnut is a simple application framework for Vulkan and Dear ImGui apps |
-| [reddit-place-script-2022](https://github.com/rdeepak2002/reddit-place-script-2022) | Script to draw an image onto r/place (https://www.reddit.com/r/place/) |
+| [ollama](https://github.com/jmorganca/ollama) | Get up and running with large language models locally |
+| [ShortGPT](https://github.com/RayVentura/ShortGPT) | 🚀🎬 ShortGPT - An experimental AI framework for automated short/video content creation. Enables creators to rapidly produce, manage, and deliver content using AI and automation. |
+| [laravel](https://github.com/NativePHP/laravel) | Laravel wrapper for the NativePHP framework |
+| [researcher-gpt](https://github.com/JayZeeDesign/researcher-gpt) |  |
+| [livewire](https://github.com/livewire/livewire) | A full-stack framework for Laravel that takes the pain out of building dynamic UIs. |
+| [rjvm](https://github.com/andreabergia/rjvm) | A tiny JVM written in Rust. Learning project |
+| [text-generation-webui](https://github.com/oobabooga/text-generation-webui) | A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
