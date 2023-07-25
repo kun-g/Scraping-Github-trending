@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [localGPT](https://github.com/PromtEngineer/localGPT) | Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. |
 | [Chess-Challenge](https://github.com/SebLague/Chess-Challenge) | https://youtu.be/iScy18pVR58 |
-| [Chinese-Llama-2-7b](https://github.com/LinkSoul-AI/Chinese-Llama-2-7b) | 开源社区第一个能下载、能运行的中文 LLaMA2 模型！ |
-| [TypeChat](https://github.com/microsoft/TypeChat) | TypeChat is a library that makes it easy to build natural language interfaces using types. |
-| [laravel](https://github.com/NativePHP/laravel) | Laravel wrapper for the NativePHP framework |
-| [Web-Environment-Integrity](https://github.com/RupertBenWiser/Web-Environment-Integrity) |  |
+| [InvokeAI](https://github.com/invoke-ai/InvokeAI) | InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products. |
+| [Walnut](https://github.com/StudioCherno/Walnut) | Walnut is a simple application framework for Vulkan and Dear ImGui apps |
 | [ollama](https://github.com/jmorganca/ollama) | Get up and running with large language models locally |
-| [plane](https://github.com/makeplane/plane) | 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. |
-| [TokenFlow](https://github.com/omerbt/TokenFlow) | Official Pytorch Implementation for "TokenFlow: Consistent Diffusion Features for Consistent Video Editing" presenting "TokenFlow" |
+| [ShortGPT](https://github.com/RayVentura/ShortGPT) | 🚀🎬 ShortGPT - An experimental AI framework for automated short/video content creation. Enables creators to rapidly produce, manage, and deliver content using AI and automation. |
+| [laravel](https://github.com/NativePHP/laravel) | Laravel wrapper for the NativePHP framework |
+| [researcher-gpt](https://github.com/JayZeeDesign/researcher-gpt) |  |
+| [livewire](https://github.com/livewire/livewire) | A full-stack framework for Laravel that takes the pain out of building dynamic UIs. |
 | [rjvm](https://github.com/andreabergia/rjvm) | A tiny JVM written in Rust. Learning project |
+| [text-generation-webui](https://github.com/oobabooga/text-generation-webui) | A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
