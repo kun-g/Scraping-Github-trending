@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [llama2.c](https://github.com/karpathy/llama2.c) | Inference Llama 2 in one file of pure C |
+| [llama2-webui](https://github.com/liltom-eth/llama2-webui) | Run Llama 2 locally with gradio UI on GPU or CPU from anywhere (Linux/Windows/Mac). Supporting Llama-2-7B/13B/70B with 8-bit, 4-bit. Supporting GPU inference (6 GB VRAM) and CPU inference. |
+| [localGPT](https://github.com/PromtEngineer/localGPT) | Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. |
+| [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all |
+| [TypeChat](https://github.com/microsoft/TypeChat) | TypeChat is a library that makes it easy to build natural language interfaces using types. |
+| [TokenFlow](https://github.com/omerbt/TokenFlow) | Official Pytorch Implementation for "TokenFlow: Consistent Diffusion Features for Consistent Video Editing" presenting "TokenFlow" |
 | [Chess-Challenge](https://github.com/SebLague/Chess-Challenge) | https://youtu.be/iScy18pVR58 |
+| [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) | 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么 |
 | [InvokeAI](https://github.com/invoke-ai/InvokeAI) | InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products. |
-| [Walnut](https://github.com/StudioCherno/Walnut) | Walnut is a simple application framework for Vulkan and Dear ImGui apps |
-| [ollama](https://github.com/jmorganca/ollama) | Get up and running with large language models locally |
-| [ShortGPT](https://github.com/RayVentura/ShortGPT) | 🚀🎬 ShortGPT - An experimental AI framework for automated short/video content creation. Enables creators to rapidly produce, manage, and deliver content using AI and automation. |
-| [laravel](https://github.com/NativePHP/laravel) | Laravel wrapper for the NativePHP framework |
-| [researcher-gpt](https://github.com/JayZeeDesign/researcher-gpt) |  |
-| [livewire](https://github.com/livewire/livewire) | A full-stack framework for Laravel that takes the pain out of building dynamic UIs. |
-| [rjvm](https://github.com/andreabergia/rjvm) | A tiny JVM written in Rust. Learning project |
-| [text-generation-webui](https://github.com/oobabooga/text-generation-webui) | A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA. |
+| [text-generation-webui-colab](https://github.com/camenduru/text-generation-webui-colab) | A colab gradio web UI for running Large Language Models |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
