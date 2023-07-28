@@ -36,7 +36,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "generative-models",
-        "stars": 4424,
+        "stars": 4465,
         "url": "https://github.com/Stability-AI/generative-models"
     },
     {
@@ -61,12 +61,12 @@
         ],
         "currentPeriodStars": 214,
         "description": "Run Llama 2 locally with gradio UI on GPU or CPU from anywhere (Linux/Windows/Mac). Supporting Llama-2-7B/13B/70B with 8-bit, 4-bit. Supporting GPU inference (6 GB VRAM) and CPU inference.",
-        "forks": 81,
+        "forks": 82,
         "fullname": "liltom-eth/llama2-webui",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "llama2-webui",
-        "stars": 858,
+        "stars": 863,
         "url": "https://github.com/liltom-eth/llama2-webui"
     },
     {
@@ -77,11 +77,6 @@
                 "avatar": "https://avatars.githubusercontent.com/u/26864197",
                 "href": "https://github.com/Stanislas0",
                 "username": "Stanislas0"
-            },
-            {
-                "avatar": "https://avatars.githubusercontent.com/u/22633385",
-                "href": "https://github.com/eltociear",
-                "username": "eltociear"
             }
         ],
         "currentPeriodStars": 129,
@@ -91,7 +86,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "CodeGeeX2",
-        "stars": 640,
+        "stars": 666,
         "url": "https://github.com/THUDM/CodeGeeX2"
     },
     {
@@ -126,12 +121,12 @@
         ],
         "currentPeriodStars": 149,
         "description": "This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.",
-        "forks": 302,
+        "forks": 304,
         "fullname": "google/security-research",
         "language": "C",
         "languageColor": "#555555",
         "name": "security-research",
-        "stars": 2235,
+        "stars": 2240,
         "url": "https://github.com/google/security-research"
     },
     {
@@ -149,11 +144,6 @@
                 "username": "richinseattle"
             },
             {
-                "avatar": "https://avatars.githubusercontent.com/u/1090367",
-                "href": "https://github.com/tairov",
-                "username": "tairov"
-            },
-            {
                 "avatar": "https://avatars.githubusercontent.com/u/6627901",
                 "href": "https://github.com/luigifcruz",
                 "username": "luigifcruz"
@@ -162,16 +152,21 @@
                 "avatar": "https://avatars.githubusercontent.com/u/279531",
                 "href": "https://github.com/danielgross",
                 "username": "danielgross"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/21334955",
+                "href": "https://github.com/kris-jusiak",
+                "username": "kris-jusiak"
             }
         ],
         "currentPeriodStars": 1616,
         "description": "Inference Llama 2 in one file of pure C",
-        "forks": 657,
+        "forks": 658,
         "fullname": "karpathy/llama2.c",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "llama2.c",
-        "stars": 8942,
+        "stars": 8959,
         "url": "https://github.com/karpathy/llama2.c"
     },
     {
@@ -206,7 +201,7 @@
         "language": "Dockerfile",
         "languageColor": "#384d54",
         "name": "nodebestpractices",
-        "stars": 91174,
+        "stars": 91184,
         "url": "https://github.com/goldbergyoni/nodebestpractices"
     },
     {
@@ -244,7 +239,7 @@
         "forks": 2124,
         "fullname": "1c7/chinese-independent-developer",
         "name": "chinese-independent-developer",
-        "stars": 23954,
+        "stars": 23966,
         "url": "https://github.com/1c7/chinese-independent-developer"
     },
     {
@@ -259,12 +254,12 @@
         ],
         "currentPeriodStars": 26,
         "description": "Fast Android <-> Windows file manager using ADB protocol",
-        "forks": 11,
+        "forks": 12,
         "fullname": "T0biasCZe/AdbFileManager",
         "language": "C#",
         "languageColor": "#178600",
         "name": "AdbFileManager",
-        "stars": 206,
+        "stars": 210,
         "url": "https://github.com/T0biasCZe/AdbFileManager"
     },
     {
@@ -299,12 +294,12 @@
         ],
         "currentPeriodStars": 371,
         "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
-        "forks": 10847,
+        "forks": 10850,
         "fullname": "microsoft/ML-For-Beginners",
         "language": "HTML",
         "languageColor": "#e34c26",
         "name": "ML-For-Beginners",
-        "stars": 52400,
+        "stars": 52407,
         "url": "https://github.com/microsoft/ML-For-Beginners"
     },
     {
@@ -342,7 +337,7 @@
         "forks": 20474,
         "fullname": "codecrafters-io/build-your-own-x",
         "name": "build-your-own-x",
-        "stars": 209841,
+        "stars": 209845,
         "url": "https://github.com/codecrafters-io/build-your-own-x"
     },
     {
@@ -357,10 +352,10 @@
         ],
         "currentPeriodStars": 75,
         "description": "Approaching (Almost) Any Machine Learning Problem",
-        "forks": 721,
+        "forks": 723,
         "fullname": "abhishekkrthakur/approachingalmost",
         "name": "approachingalmost",
-        "stars": 4155,
+        "stars": 4157,
         "url": "https://github.com/abhishekkrthakur/approachingalmost"
     },
     {
@@ -440,7 +435,7 @@
         "language": "Jupyter Notebook",
         "languageColor": "#DA5B0B",
         "name": "bark",
-        "stars": 24096,
+        "stars": 24103,
         "url": "https://github.com/suno-ai/bark"
     },
     {
@@ -475,12 +470,12 @@
         ],
         "currentPeriodStars": 88,
         "description": "\ud83d\ude80CodiumAI PR-Agent: An AI-Powered \ud83e\udd16 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! \ud83d\udcbb\ud83d\udd0d",
-        "forks": 64,
+        "forks": 65,
         "fullname": "Codium-ai/pr-agent",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "pr-agent",
-        "stars": 1025,
+        "stars": 1028,
         "url": "https://github.com/Codium-ai/pr-agent"
     },
     {
@@ -520,7 +515,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "soybean-admin",
-        "stars": 4821,
+        "stars": 4829,
         "url": "https://github.com/honghuangdc/soybean-admin"
     },
     {
@@ -555,12 +550,12 @@
         ],
         "currentPeriodStars": 31,
         "description": "\u300aHello \u7b97\u6cd5\u300b\uff1a\u52a8\u753b\u56fe\u89e3\u3001\u4e00\u952e\u8fd0\u884c\u7684\u6570\u636e\u7ed3\u6784\u4e0e\u7b97\u6cd5\u6559\u7a0b\uff0c\u652f\u6301 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig \u7b49\u8bed\u8a00\u3002",
-        "forks": 1601,
+        "forks": 1604,
         "fullname": "krahets/hello-algo",
         "language": "Java",
         "languageColor": "#b07219",
         "name": "hello-algo",
-        "stars": 14724,
+        "stars": 14735,
         "url": "https://github.com/krahets/hello-algo"
     },
     {
@@ -590,12 +585,12 @@
         ],
         "currentPeriodStars": 255,
         "description": "Collection of publicly available IPTV channels from all over the world",
-        "forks": 590,
+        "forks": 591,
         "fullname": "iptv-org/iptv",
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "iptv",
-        "stars": 66626,
+        "stars": 66630,
         "url": "https://github.com/iptv-org/iptv"
     },
     {
@@ -620,12 +615,12 @@
         ],
         "currentPeriodStars": 76,
         "description": "Open Source Free ATS Tool to compare Resumes with Job Descriptions and create a score to rank them.",
-        "forks": 74,
+        "forks": 75,
         "fullname": "srbhr/Resume-Matcher",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "Resume-Matcher",
-        "stars": 379,
+        "stars": 383,
         "url": "https://github.com/srbhr/Resume-Matcher"
     },
     {
@@ -655,10 +650,10 @@
         ],
         "currentPeriodStars": 3,
         "description": "\ud83c\udf89\ud83c\udf88 \uac1c\ubc1c\uc790 {\uc6e8\ube44\ub098, \ucee8\ud37c\ub7f0\uc2a4, \ud574\ucee4\ud1a4} \ud589\uc0ac\ub97c \uc54c\ub824\ub4dc\ub9bd\ub2c8\ub2e4. [with \ub0a8\uc1a1\ub9ac \uc0bc\ubc88\uc9c0]",
-        "forks": 412,
+        "forks": 413,
         "fullname": "brave-people/Dev-Event",
         "name": "Dev-Event",
-        "stars": 5542,
+        "stars": 5544,
         "url": "https://github.com/brave-people/Dev-Event"
     },
     {
@@ -698,7 +693,7 @@
         "language": "Go",
         "languageColor": "#00ADD8",
         "name": "k3s",
-        "stars": 23772,
+        "stars": 23777,
         "url": "https://github.com/k3s-io/k3s"
     },
     {
@@ -738,7 +733,7 @@
         "language": "Rust",
         "languageColor": "#dea584",
         "name": "egui",
-        "stars": 15834,
+        "stars": 15836,
         "url": "https://github.com/emilk/egui"
     },
     {
@@ -778,7 +773,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "TypeChat",
-        "stars": 4320,
+        "stars": 4333,
         "url": "https://github.com/microsoft/TypeChat"
     },
     {
@@ -818,7 +813,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "HeroicGamesLauncher",
-        "stars": 5701,
+        "stars": 5702,
         "url": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher"
     },
     {
@@ -858,7 +853,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "playwright",
-        "stars": 53324,
+        "stars": 53329,
         "url": "https://github.com/microsoft/playwright"
     },
     {
@@ -893,12 +888,12 @@
         ],
         "currentPeriodStars": 99,
         "description": "\ud83c\udf08\u4e00\u4e2a\u8de8\u5e73\u53f0\u7684\u5212\u8bcd\u7ffb\u8bd1\u8f6f\u4ef6 | A cross-platform software for text translation.",
-        "forks": 136,
+        "forks": 137,
         "fullname": "pot-app/pot-desktop",
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "pot-desktop",
-        "stars": 3162,
+        "stars": 3184,
         "url": "https://github.com/pot-app/pot-desktop"
     }
 ]
