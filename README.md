@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [generative-models](https://github.com/Stability-AI/generative-models) | Generative Models by Stability AI |
-| [mentat](https://github.com/biobootloader/mentat) | Mentat - The AI Coding Assistant |
+| [blazingmq](https://github.com/bloomberg/blazingmq) | A modern high-performance open source message queuing system |
+| [devops-exercises](https://github.com/bregman-arie/devops-exercises) | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions |
 | [ComfyUI](https://github.com/comfyanonymous/ComfyUI) | A powerful and modular stable diffusion GUI with a graph/nodes interface. |
-| [awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) | 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新 |
-| [the-algorithm](https://github.com/twitter/the-algorithm) | Source code for Twitter's Recommendation Algorithm |
-| [mold](https://github.com/rui314/mold) | Mold: A Modern Linker 🦠 |
+| [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) | ✅ The Node.js best practices list (July 2023) |
+| [CodeGeeX2](https://github.com/THUDM/CodeGeeX2) | CodeGeeX2: A More Powerful Multilingual Code Generation Model |
+| [Book4_Power-of-Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix) | Book_4_《矩阵力量》 | 鸢尾花书：从加减乘除到机器学习；上架！ |
 | [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs |
-| [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) | This project aims to enhance the working environment on Windows |
-| [security-research](https://github.com/google/security-research) | This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code. |
-| [TransGPT](https://github.com/DUOMO/TransGPT) |  |
+| [iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world |
+| [Awesome-Cybersecurity-Handbooks](https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks) | A huge chunk of my personal notes since I started playing CTFs and working as a Red Teamer. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
