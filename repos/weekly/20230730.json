@@ -1,0 +1,952 @@
+[
+    {
+        "author": "microsoft",
+        "avatar": "https://github.com/microsoft.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4419011",
+                "href": "https://github.com/steveluc",
+                "username": "steveluc"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1616265",
+                "href": "https://github.com/umeshma",
+                "username": "umeshma"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/972891",
+                "href": "https://github.com/DanielRosenwasser",
+                "username": "DanielRosenwasser"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4226954",
+                "href": "https://github.com/ahejlsberg",
+                "username": "ahejlsberg"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1091304",
+                "href": "https://github.com/pierceboggan",
+                "username": "pierceboggan"
+            }
+        ],
+        "currentPeriodStars": 3018,
+        "description": "TypeChat is a library that makes it easy to build natural language interfaces using types.",
+        "forks": 168,
+        "fullname": "microsoft/TypeChat",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "TypeChat",
+        "stars": 4704,
+        "url": "https://github.com/microsoft/TypeChat"
+    },
+    {
+        "author": "PromtEngineer",
+        "avatar": "https://github.com/PromtEngineer.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/134474669",
+                "href": "https://github.com/PromtEngineer",
+                "username": "PromtEngineer"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/64715088",
+                "href": "https://github.com/imjwang",
+                "username": "imjwang"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/9726781",
+                "href": "https://github.com/LeafmanZ",
+                "username": "LeafmanZ"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/77757836",
+                "href": "https://github.com/teleprint-me",
+                "username": "teleprint-me"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/17365218",
+                "href": "https://github.com/Allaye",
+                "username": "Allaye"
+            }
+        ],
+        "currentPeriodStars": 3791,
+        "description": "Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.",
+        "forks": 1334,
+        "fullname": "PromtEngineer/localGPT",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "localGPT",
+        "stars": 13709,
+        "url": "https://github.com/PromtEngineer/localGPT"
+    },
+    {
+        "author": "jmorganca",
+        "avatar": "https://github.com/jmorganca.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/251292",
+                "href": "https://github.com/jmorganca",
+                "username": "jmorganca"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2372640",
+                "href": "https://github.com/mxyng",
+                "username": "mxyng"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5853428",
+                "href": "https://github.com/BruceMacD",
+                "username": "BruceMacD"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/63033505",
+                "href": "https://github.com/hoyyeva",
+                "username": "hoyyeva"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3325447",
+                "href": "https://github.com/mchiang0610",
+                "username": "mchiang0610"
+            }
+        ],
+        "currentPeriodStars": 1991,
+        "description": "Get up and running with large language models locally",
+        "forks": 177,
+        "fullname": "jmorganca/ollama",
+        "language": "C",
+        "languageColor": "#555555",
+        "name": "ollama",
+        "stars": 3320,
+        "url": "https://github.com/jmorganca/ollama"
+    },
+    {
+        "author": "facebookresearch",
+        "avatar": "https://github.com/facebookresearch.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4998695",
+                "href": "https://github.com/timlacroix",
+                "username": "timlacroix"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2332808",
+                "href": "https://github.com/ruanslv",
+                "username": "ruanslv"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/97736191",
+                "href": "https://github.com/AurRod",
+                "username": "AurRod"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8885556",
+                "href": "https://github.com/glample",
+                "username": "glample"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/347298",
+                "href": "https://github.com/janvdp",
+                "username": "janvdp"
+            }
+        ],
+        "currentPeriodStars": 2941,
+        "description": "Inference code for LLaMA models",
+        "forks": 5681,
+        "fullname": "facebookresearch/llama",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "llama",
+        "stars": 35715,
+        "url": "https://github.com/facebookresearch/llama"
+    },
+    {
+        "author": "FlagAlpha",
+        "avatar": "https://github.com/FlagAlpha.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/139942525",
+                "href": "https://github.com/FlagAlpha",
+                "username": "FlagAlpha"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/139932418",
+                "href": "https://github.com/Rayrtfr",
+                "username": "Rayrtfr"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/45086558",
+                "href": "https://github.com/ZHangZHengEric",
+                "username": "ZHangZHengEric"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/92130911",
+                "href": "https://github.com/stormdragongardin",
+                "username": "stormdragongardin"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/13595509",
+                "href": "https://github.com/ycjcl868",
+                "username": "ycjcl868"
+            }
+        ],
+        "currentPeriodStars": 1481,
+        "description": "Llama\u4e2d\u6587\u793e\u533a\uff0c\u6700\u597d\u7684\u4e2d\u6587Llama\u5927\u6a21\u578b\uff0c\u5b8c\u5168\u5f00\u6e90\u53ef\u5546\u7528",
+        "forks": 188,
+        "fullname": "FlagAlpha/Llama2-Chinese",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "Llama2-Chinese",
+        "stars": 2125,
+        "url": "https://github.com/FlagAlpha/Llama2-Chinese"
+    },
+    {
+        "author": "RayVentura",
+        "avatar": "https://github.com/RayVentura.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/121462835",
+                "href": "https://github.com/RayVentura",
+                "username": "RayVentura"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8769532",
+                "href": "https://github.com/Erim32",
+                "username": "Erim32"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/13500667",
+                "href": "https://github.com/vembarrajan",
+                "username": "vembarrajan"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/22633385",
+                "href": "https://github.com/eltociear",
+                "username": "eltociear"
+            }
+        ],
+        "currentPeriodStars": 1470,
+        "description": "\ud83d\ude80\ud83c\udfac ShortGPT - Experimental AI framework for automated short/video content creation.",
+        "forks": 264,
+        "fullname": "RayVentura/ShortGPT",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "ShortGPT",
+        "stars": 2891,
+        "url": "https://github.com/RayVentura/ShortGPT"
+    },
+    {
+        "author": "Stability-AI",
+        "avatar": "https://github.com/Stability-AI.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/37085732",
+                "href": "https://github.com/timudk",
+                "username": "timudk"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/26577641",
+                "href": "https://github.com/ablattmann",
+                "username": "ablattmann"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/58669",
+                "href": "https://github.com/akx",
+                "username": "akx"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/62965623",
+                "href": "https://github.com/benjaminaubin",
+                "username": "benjaminaubin"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/22528125",
+                "href": "https://github.com/jenuk",
+                "username": "jenuk"
+            }
+        ],
+        "currentPeriodStars": 3466,
+        "description": "Generative Models by Stability AI",
+        "forks": 865,
+        "fullname": "Stability-AI/generative-models",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "generative-models",
+        "stars": 6774,
+        "url": "https://github.com/Stability-AI/generative-models"
+    },
+    {
+        "author": "livewire",
+        "avatar": "https://github.com/livewire.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3670578",
+                "href": "https://github.com/calebporzio",
+                "username": "calebporzio"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/882837",
+                "href": "https://github.com/joshhanley",
+                "username": "joshhanley"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/13331388",
+                "href": "https://github.com/nuernbergerA",
+                "username": "nuernbergerA"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/41773797",
+                "href": "https://github.com/danharrin",
+                "username": "danharrin"
+            }
+        ],
+        "currentPeriodStars": 348,
+        "description": "A full-stack framework for Laravel that takes the pain out of building dynamic UIs.",
+        "forks": 1104,
+        "fullname": "livewire/livewire",
+        "language": "PHP",
+        "languageColor": "#4F5D95",
+        "name": "livewire",
+        "stars": 20079,
+        "url": "https://github.com/livewire/livewire"
+    },
+    {
+        "author": "facebookresearch",
+        "avatar": "https://github.com/facebookresearch.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4461127",
+                "href": "https://github.com/chauhang",
+                "username": "chauhang"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/9162336",
+                "href": "https://github.com/HamidShojanazeri",
+                "username": "HamidShojanazeri"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/127536312",
+                "href": "https://github.com/sekyondaMeta",
+                "username": "sekyondaMeta"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/213716",
+                "href": "https://github.com/activescott",
+                "username": "activescott"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/520236",
+                "href": "https://github.com/barnjamin",
+                "username": "barnjamin"
+            }
+        ],
+        "currentPeriodStars": 838,
+        "description": "Examples and recipes for Llama 2 model",
+        "forks": 228,
+        "fullname": "facebookresearch/llama-recipes",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "llama-recipes",
+        "stars": 2191,
+        "url": "https://github.com/facebookresearch/llama-recipes"
+    },
+    {
+        "author": "ggerganov",
+        "avatar": "https://github.com/ggerganov.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1991296",
+                "href": "https://github.com/ggerganov",
+                "username": "ggerganov"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2141330",
+                "href": "https://github.com/slaren",
+                "username": "slaren"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4478",
+                "href": "https://github.com/sw",
+                "username": "sw"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/18492268",
+                "href": "https://github.com/JohannesGaessler",
+                "username": "JohannesGaessler"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/42201",
+                "href": "https://github.com/prusnak",
+                "username": "prusnak"
+            }
+        ],
+        "currentPeriodStars": 1244,
+        "description": "Port of Facebook's LLaMA model in C/C++",
+        "forks": 5114,
+        "fullname": "ggerganov/llama.cpp",
+        "language": "C",
+        "languageColor": "#555555",
+        "name": "llama.cpp",
+        "stars": 36738,
+        "url": "https://github.com/ggerganov/llama.cpp"
+    },
+    {
+        "author": "invoke-ai",
+        "avatar": "https://github.com/invoke-ai.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/111189",
+                "href": "https://github.com/lstein",
+                "username": "lstein"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4822129",
+                "href": "https://github.com/psychedelicious",
+                "username": "psychedelicious"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/54517381",
+                "href": "https://github.com/blessedcoolant",
+                "username": "blessedcoolant"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/40327258",
+                "href": "https://github.com/mauwii",
+                "username": "mauwii"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2433541",
+                "href": "https://github.com/ebr",
+                "username": "ebr"
+            }
+        ],
+        "currentPeriodStars": 1223,
+        "description": "InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products.",
+        "forks": 1809,
+        "fullname": "invoke-ai/InvokeAI",
+        "language": "Jupyter Notebook",
+        "languageColor": "#DA5B0B",
+        "name": "InvokeAI",
+        "stars": 16964,
+        "url": "https://github.com/invoke-ai/InvokeAI"
+    },
+    {
+        "author": "twentyhq",
+        "avatar": "https://github.com/twentyhq.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/12035771",
+                "href": "https://github.com/charlesBochet",
+                "username": "charlesBochet"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6906559",
+                "href": "https://github.com/Samox",
+                "username": "Samox"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6399865",
+                "href": "https://github.com/FelixMalfait",
+                "username": "FelixMalfait"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/26528466",
+                "href": "https://github.com/lucasbordeau",
+                "username": "lucasbordeau"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3551795",
+                "href": "https://github.com/magrinj",
+                "username": "magrinj"
+            }
+        ],
+        "currentPeriodStars": 1238,
+        "description": "Building a modern alternative to Salesforce. \ud83c\udf1f You can star to support our work!",
+        "forks": 116,
+        "fullname": "twentyhq/twenty",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "twenty",
+        "stars": 2704,
+        "url": "https://github.com/twentyhq/twenty"
+    },
+    {
+        "author": "andreabergia",
+        "avatar": "https://github.com/andreabergia.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/775653",
+                "href": "https://github.com/andreabergia",
+                "username": "andreabergia"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/15092",
+                "href": "https://github.com/jayvdb",
+                "username": "jayvdb"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/22633385",
+                "href": "https://github.com/eltociear",
+                "username": "eltociear"
+            }
+        ],
+        "currentPeriodStars": 427,
+        "description": "A tiny JVM written in Rust. Learning project",
+        "forks": 49,
+        "fullname": "andreabergia/rjvm",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "name": "rjvm",
+        "stars": 903,
+        "url": "https://github.com/andreabergia/rjvm"
+    },
+    {
+        "author": "microsoft",
+        "avatar": "https://github.com/microsoft.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1450004",
+                "href": "https://github.com/jlooper",
+                "username": "jlooper"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3022824",
+                "href": "https://github.com/hereje",
+                "username": "hereje"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4598064",
+                "href": "https://github.com/softchris",
+                "username": "softchris"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/55969597",
+                "href": "https://github.com/Vidushi-Gupta",
+                "username": "Vidushi-Gupta"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/12551635",
+                "href": "https://github.com/minwook-shin",
+                "username": "minwook-shin"
+            }
+        ],
+        "currentPeriodStars": 1352,
+        "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+        "forks": 10876,
+        "fullname": "microsoft/ML-For-Beginners",
+        "language": "HTML",
+        "languageColor": "#e34c26",
+        "name": "ML-For-Beginners",
+        "stars": 52614,
+        "url": "https://github.com/microsoft/ML-For-Beginners"
+    },
+    {
+        "author": "dabeaz-course",
+        "avatar": "https://github.com/dabeaz-course.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/350836",
+                "href": "https://github.com/dabeaz",
+                "username": "dabeaz"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/38562595",
+                "href": "https://github.com/pitmonticone",
+                "username": "pitmonticone"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/44319",
+                "href": "https://github.com/regisb",
+                "username": "regisb"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/168301",
+                "href": "https://github.com/l0b0",
+                "username": "l0b0"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/627365",
+                "href": "https://github.com/williamrowell",
+                "username": "williamrowell"
+            }
+        ],
+        "currentPeriodStars": 1610,
+        "description": "Advanced Python Mastery (course by @dabeaz)",
+        "forks": 970,
+        "fullname": "dabeaz-course/python-mastery",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "python-mastery",
+        "stars": 7568,
+        "url": "https://github.com/dabeaz-course/python-mastery"
+    },
+    {
+        "author": "comfyanonymous",
+        "avatar": "https://github.com/comfyanonymous.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/121283862",
+                "href": "https://github.com/comfyanonymous",
+                "username": "comfyanonymous"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/125205205",
+                "href": "https://github.com/pythongosssss",
+                "username": "pythongosssss"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/23466035",
+                "href": "https://github.com/EllangoK",
+                "username": "EllangoK"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/24979496",
+                "href": "https://github.com/space-nuko",
+                "username": "space-nuko"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4073789",
+                "href": "https://github.com/missionfloyd",
+                "username": "missionfloyd"
+            }
+        ],
+        "currentPeriodStars": 704,
+        "description": "A powerful and modular stable diffusion GUI with a graph/nodes interface.",
+        "forks": 772,
+        "fullname": "comfyanonymous/ComfyUI",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "ComfyUI",
+        "stars": 8731,
+        "url": "https://github.com/comfyanonymous/ComfyUI"
+    },
+    {
+        "author": "oobabooga",
+        "avatar": "https://github.com/oobabooga.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/112222186",
+                "href": "https://github.com/oobabooga",
+                "username": "oobabooga"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4000772",
+                "href": "https://github.com/mcmonkey4eva",
+                "username": "mcmonkey4eva"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/73265741",
+                "href": "https://github.com/matatonic",
+                "username": "matatonic"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3887729",
+                "href": "https://github.com/jllllll",
+                "username": "jllllll"
+            }
+        ],
+        "currentPeriodStars": 1179,
+        "description": "A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, OPT, and GALACTICA.",
+        "forks": 2548,
+        "fullname": "oobabooga/text-generation-webui",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "text-generation-webui",
+        "stars": 19745,
+        "url": "https://github.com/oobabooga/text-generation-webui"
+    },
+    {
+        "author": "haotian-liu",
+        "avatar": "https://github.com/haotian-liu.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6631389",
+                "href": "https://github.com/haotian-liu",
+                "username": "haotian-liu"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8978644",
+                "href": "https://github.com/ChunyuanLI",
+                "username": "ChunyuanLI"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/64568",
+                "href": "https://github.com/abdul",
+                "username": "abdul"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8092481",
+                "href": "https://github.com/satyajitghana",
+                "username": "satyajitghana"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/13670242",
+                "href": "https://github.com/PhanTask",
+                "username": "PhanTask"
+            }
+        ],
+        "currentPeriodStars": 345,
+        "description": "Large Language-and-Vision Assistant built towards multimodal GPT-4 level capabilities.",
+        "forks": 316,
+        "fullname": "haotian-liu/LLaVA",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "LLaVA",
+        "stars": 4113,
+        "url": "https://github.com/haotian-liu/LLaVA"
+    },
+    {
+        "author": "Lissy93",
+        "avatar": "https://github.com/Lissy93.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1862727",
+                "href": "https://github.com/Lissy93",
+                "username": "Lissy93"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5110813",
+                "href": "https://github.com/UlisesGascon",
+                "username": "UlisesGascon"
+            }
+        ],
+        "currentPeriodStars": 675,
+        "description": "\ud83c\udf10 All-in-one website OSINT tool for analysing any website",
+        "forks": 151,
+        "fullname": "Lissy93/web-check",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "web-check",
+        "stars": 2271,
+        "url": "https://github.com/Lissy93/web-check"
+    },
+    {
+        "author": "krahets",
+        "avatar": "https://github.com/krahets.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/26993056",
+                "href": "https://github.com/krahets",
+                "username": "krahets"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/99076655",
+                "href": "https://github.com/sjinzh",
+                "username": "sjinzh"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/24556310",
+                "href": "https://github.com/justin-tse",
+                "username": "justin-tse"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/22005836",
+                "href": "https://github.com/Reanon",
+                "username": "Reanon"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3739017",
+                "href": "https://github.com/nuomi1",
+                "username": "nuomi1"
+            }
+        ],
+        "currentPeriodStars": 564,
+        "description": "\u300aHello \u7b97\u6cd5\u300b\uff1a\u52a8\u753b\u56fe\u89e3\u3001\u4e00\u952e\u8fd0\u884c\u7684\u6570\u636e\u7ed3\u6784\u4e0e\u7b97\u6cd5\u6559\u7a0b\uff0c\u652f\u6301 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig \u7b49\u8bed\u8a00\u3002",
+        "forks": 1635,
+        "fullname": "krahets/hello-algo",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "name": "hello-algo",
+        "stars": 15096,
+        "url": "https://github.com/krahets/hello-algo"
+    },
+    {
+        "author": "tonsky",
+        "avatar": "https://github.com/tonsky.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/285292",
+                "href": "https://github.com/tonsky",
+                "username": "tonsky"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7355414",
+                "href": "https://github.com/thundernixon",
+                "username": "thundernixon"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2119212",
+                "href": "https://github.com/jsoref",
+                "username": "jsoref"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/261579",
+                "href": "https://github.com/davelab6",
+                "username": "davelab6"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8071784",
+                "href": "https://github.com/thaliaarchi",
+                "username": "thaliaarchi"
+            }
+        ],
+        "currentPeriodStars": 461,
+        "description": "Free monospaced font with programming ligatures",
+        "forks": 3020,
+        "fullname": "tonsky/FiraCode",
+        "language": "Clojure",
+        "languageColor": "#db5855",
+        "name": "FiraCode",
+        "stars": 71609,
+        "url": "https://github.com/tonsky/FiraCode"
+    },
+    {
+        "author": "suno-ai",
+        "avatar": "https://github.com/suno-ai.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5068315",
+                "href": "https://github.com/gkucsko",
+                "username": "gkucsko"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/32879321",
+                "href": "https://github.com/kmfreyberg",
+                "username": "kmfreyberg"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/461009",
+                "href": "https://github.com/mcamac",
+                "username": "mcamac"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/18682411",
+                "href": "https://github.com/Vaibhavs10",
+                "username": "Vaibhavs10"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6175253",
+                "href": "https://github.com/tongbaojia",
+                "username": "tongbaojia"
+            }
+        ],
+        "currentPeriodStars": 1082,
+        "description": "\ud83d\udd0a Text-Prompted Generative Audio Model",
+        "forks": 2627,
+        "fullname": "suno-ai/bark",
+        "language": "Jupyter Notebook",
+        "languageColor": "#DA5B0B",
+        "name": "bark",
+        "stars": 24428,
+        "url": "https://github.com/suno-ai/bark"
+    },
+    {
+        "author": "minimaxir",
+        "avatar": "https://github.com/minimaxir.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2179708",
+                "href": "https://github.com/minimaxir",
+                "username": "minimaxir"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/15572698",
+                "href": "https://github.com/keyboardAnt",
+                "username": "keyboardAnt"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/10843208",
+                "href": "https://github.com/redraw",
+                "username": "redraw"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/54462",
+                "href": "https://github.com/HaveF",
+                "username": "HaveF"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/994109",
+                "href": "https://github.com/arne-cl",
+                "username": "arne-cl"
+            }
+        ],
+        "currentPeriodStars": 459,
+        "description": "Python package for easily interfacing with chat apps, with robust features and minimal code complexity.",
+        "forks": 123,
+        "fullname": "minimaxir/simpleaichat",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "simpleaichat",
+        "stars": 2325,
+        "url": "https://github.com/minimaxir/simpleaichat"
+    },
+    {
+        "author": "SeleniumHQ",
+        "avatar": "https://github.com/SeleniumHQ.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/28229",
+                "href": "https://github.com/shs96c",
+                "username": "shs96c"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/617090",
+                "href": "https://github.com/barancev",
+                "username": "barancev"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/352840",
+                "href": "https://github.com/jimevans",
+                "username": "jimevans"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/254985",
+                "href": "https://github.com/jleyba",
+                "username": "jleyba"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5992658",
+                "href": "https://github.com/diemol",
+                "username": "diemol"
+            }
+        ],
+        "currentPeriodStars": 89,
+        "description": "A browser automation framework and ecosystem.",
+        "forks": 7677,
+        "fullname": "SeleniumHQ/selenium",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "name": "selenium",
+        "stars": 27177,
+        "url": "https://github.com/SeleniumHQ/selenium"
+    },
+    {
+        "author": "twitter",
+        "avatar": "https://github.com/twitter.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/25687",
+                "href": "https://github.com/dzhao",
+                "username": "dzhao"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/20663776",
+                "href": "https://github.com/pouriya",
+                "username": "pouriya"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/35087590",
+                "href": "https://github.com/MrAuro",
+                "username": "MrAuro"
+            }
+        ],
+        "currentPeriodStars": 439,
+        "description": "Source code for Twitter's Recommendation Algorithm",
+        "forks": 12081,
+        "fullname": "twitter/the-algorithm",
+        "language": "Scala",
+        "languageColor": "#c22d40",
+        "name": "the-algorithm",
+        "stars": 59195,
+        "url": "https://github.com/twitter/the-algorithm"
+    }
+]
