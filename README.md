@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [devops-exercises](https://github.com/bregman-arie/devops-exercises) | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions |
-| [gorilla](https://github.com/ShishirPatil/gorilla) | Gorilla: An API store for LLMs |
-| [generative-models](https://github.com/Stability-AI/generative-models) | Generative Models by Stability AI |
-| [text-generation-inference](https://github.com/huggingface/text-generation-inference) | Large Language Model Text Generation Inference |
-| [MetaGPT](https://github.com/geekan/MetaGPT) | 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo |
-| [mentat](https://github.com/biobootloader/mentat) | Mentat - The AI Coding Assistant |
+| [node](https://github.com/base-org/node) | Everything required to run your own Base node |
+| [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs |
 | [llm-attacks](https://github.com/llm-attacks/llm-attacks) | Universal and Transferable Attacks on Aligned Language Models |
-| [Stockfish](https://github.com/official-stockfish/Stockfish) | UCI chess engine |
-| [chains](https://github.com/ethereum-lists/chains) | provides metadata for chains |
-| [awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) | 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新 |
+| [serializationisbad](https://github.com/dogboy21/serializationisbad) | A Minecraft coremod / Java Agent aiming to patch serious security vulnerabilities found in many different mods |
+| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
+| [MetaGPT](https://github.com/geekan/MetaGPT) | 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo |
+| [blazingmq](https://github.com/bloomberg/blazingmq) | A modern high-performance open source message queuing system |
+| [dify](https://github.com/langgenius/dify) | One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications. |
+| [Mindmap](https://github.com/Ignitetechnologies/Mindmap) | This repository will contain many mindmaps for cyber security technologies, methodologies, courses, and certifications in a tree structure to give brief details about them |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
