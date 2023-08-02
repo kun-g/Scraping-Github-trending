@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [devops-exercises](https://github.com/bregman-arie/devops-exercises) | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions |
-| [node](https://github.com/base-org/node) | Everything required to run your own Base node |
-| [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs |
-| [llm-attacks](https://github.com/llm-attacks/llm-attacks) | Universal and Transferable Attacks on Aligned Language Models |
-| [serializationisbad](https://github.com/dogboy21/serializationisbad) | A Minecraft coremod / Java Agent aiming to patch serious security vulnerabilities found in many different mods |
 | [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
-| [MetaGPT](https://github.com/geekan/MetaGPT) | 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo |
-| [blazingmq](https://github.com/bloomberg/blazingmq) | A modern high-performance open source message queuing system |
-| [dify](https://github.com/langgenius/dify) | One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications. |
-| [Mindmap](https://github.com/Ignitetechnologies/Mindmap) | This repository will contain many mindmaps for cyber security technologies, methodologies, courses, and certifications in a tree structure to give brief details about them |
+| [fsociety](https://github.com/Manisso/fsociety) | fsociety Hacking Tools Pack – A Penetration Testing Framework |
+| [khoj](https://github.com/khoj-ai/khoj) | An AI personal assistant for your digital brain |
+| [lpython](https://github.com/lcompilers/lpython) | Python compiler |
+| [llm-attacks](https://github.com/llm-attacks/llm-attacks) | Universal and Transferable Attacks on Aligned Language Models |
+| [gorilla](https://github.com/ShishirPatil/gorilla) | Gorilla: An API store for LLMs |
+| [mux](https://github.com/gorilla/mux) | Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍 |
+| [sre-checklist](https://github.com/bregman-arie/sre-checklist) | A checklist of anyone practicing Site Reliability Engineering |
+| [nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) | Community curated list of templates for the nuclei engine to find security vulnerabilities. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
