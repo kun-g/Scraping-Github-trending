@@ -15,14 +15,14 @@
 | :----: | :----: |
 | [devops-exercises](https://github.com/bregman-arie/devops-exercises) | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions |
 | [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
-| [fsociety](https://github.com/Manisso/fsociety) | fsociety Hacking Tools Pack – A Penetration Testing Framework |
-| [khoj](https://github.com/khoj-ai/khoj) | An AI personal assistant for your digital brain |
-| [lpython](https://github.com/lcompilers/lpython) | Python compiler |
-| [llm-attacks](https://github.com/llm-attacks/llm-attacks) | Universal and Transferable Attacks on Aligned Language Models |
-| [gorilla](https://github.com/ShishirPatil/gorilla) | Gorilla: An API store for LLMs |
-| [mux](https://github.com/gorilla/mux) | Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍 |
-| [sre-checklist](https://github.com/bregman-arie/sre-checklist) | A checklist of anyone practicing Site Reliability Engineering |
-| [nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) | Community curated list of templates for the nuclei engine to find security vulnerabilities. |
+| [rinha-de-backend-2023-q3](https://github.com/zanfranceschi/rinha-de-backend-2023-q3) | Rinha de Backend - Edição 2023 Q3 |
+| [companion-app](https://github.com/a16z-infra/companion-app) | AI companions with memory: a lightweight stack to create and host your own AI companions |
+| [LLaMA2-Accessory](https://github.com/Alpha-VLLM/LLaMA2-Accessory) | An Open-source Toolkit for LLM Development |
+| [visionOS_30Days](https://github.com/satoshi0212/visionOS_30Days) | visionOS 30 days challenge. |
+| [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) | Graphic notes on Gilbert Strang's "Linear Algebra for Everyone" |
+| [Chinese-LLaMA-Alpaca-2](https://github.com/ymcui/Chinese-LLaMA-Alpaca-2) | 中文LLaMA-2 & Alpaca-2大语言模型 (Chinese LLaMA-2 & Alpaca-2 LLMs) |
+| [bloop](https://github.com/BloopAI/bloop) | bloop is a fast code search engine written in Rust. |
+| [Mindmap](https://github.com/Ignitetechnologies/Mindmap) | This repository will contain many mindmaps for cyber security technologies, methodologies, courses, and certifications in a tree structure to give brief details about them |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
