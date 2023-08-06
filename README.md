@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [audiocraft](https://github.com/facebookresearch/audiocraft) | Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning. |
-| [ollama](https://github.com/jmorganca/ollama) | Get up and running with Llama 2 and other large language models locally |
-| [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) | Graphic notes on Gilbert Strang's "Linear Algebra for Everyone" |
-| [weekly](https://github.com/ruanyf/weekly) | 科技爱好者周刊，每周五发布 |
-| [LLaMA2-Accessory](https://github.com/Alpha-VLLM/LLaMA2-Accessory) | An Open-source Toolkit for LLM Development |
+| [azurechatgpt](https://github.com/microsoft/azurechatgpt) | 🤖 Azure ChatGPT: Private & secure ChatGPT for internal enterprise use 💼 |
+| [Qwen-7B](https://github.com/QwenLM/Qwen-7B) | The official repo of Qwen-7B (通义千问-7B) chat & pretrained large language model proposed by Alibaba Cloud. |
 | [manticoresearch](https://github.com/manticoresoftware/manticoresearch) | Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon |
-| [Summer2024-Internships](https://github.com/SimplifyJobs/Summer2024-Internships) | Collection of Summer 2023 & Summer 2024 tech internships! |
-| [codecov-api](https://github.com/codecov/codecov-api) | Code for the API of Codecov |
-| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
-| [nextui](https://github.com/nextui-org/nextui) | 🚀 Beautiful, fast and modern React UI library. |
+| [Magic123](https://github.com/guochengqian/Magic123) | Official PyTorch Implementation of Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors |
+| [audiocraft](https://github.com/facebookresearch/audiocraft) | Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning. |
+| [web-check](https://github.com/Lissy93/web-check) | 🌐 All-in-one OSINT tool for analysing any website |
+| [weekly](https://github.com/ruanyf/weekly) | 科技爱好者周刊，每周五发布 |
+| [sweep](https://github.com/sweepai/sweep) | Sweep is an AI junior developer |
+| [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) | Multi agent system for AI-driven software development. convert natural language requirements into working software. |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
