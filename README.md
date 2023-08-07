@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [dioxus](https://github.com/DioxusLabs/dioxus) | Fullstack GUI library for desktop, web, mobile, and more. |
 | [azurechatgpt](https://github.com/microsoft/azurechatgpt) | 🤖 Azure ChatGPT: Private & secure ChatGPT for internal enterprise use 💼 |
-| [Qwen-7B](https://github.com/QwenLM/Qwen-7B) | The official repo of Qwen-7B (通义千问-7B) chat & pretrained large language model proposed by Alibaba Cloud. |
+| [nextui](https://github.com/nextui-org/nextui) | 🚀 Beautiful, fast and modern React UI library. |
+| [jupyter-ai](https://github.com/jupyterlab/jupyter-ai) | A generative AI extension for JupyterLab |
 | [manticoresearch](https://github.com/manticoresoftware/manticoresearch) | Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon |
-| [Magic123](https://github.com/guochengqian/Magic123) | Official PyTorch Implementation of Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors |
-| [audiocraft](https://github.com/facebookresearch/audiocraft) | Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning. |
-| [web-check](https://github.com/Lissy93/web-check) | 🌐 All-in-one OSINT tool for analysing any website |
-| [weekly](https://github.com/ruanyf/weekly) | 科技爱好者周刊，每周五发布 |
-| [sweep](https://github.com/sweepai/sweep) | Sweep is an AI junior developer |
-| [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) | Multi agent system for AI-driven software development. convert natural language requirements into working software. |
 | [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [revanced-manager](https://github.com/ReVanced/revanced-manager) | 💊 Application to use ReVanced on Android |
+| [web-check](https://github.com/Lissy93/web-check) | 🌐 All-in-one OSINT tool for analysing any website |
+| [Summer2024-Internships](https://github.com/SimplifyJobs/Summer2024-Internships) | Collection of Summer 2023 & Summer 2024 tech internships! |
+| [Qwen-7B](https://github.com/QwenLM/Qwen-7B) | The official repo of Qwen-7B (通义千问-7B) chat & pretrained large language model proposed by Alibaba Cloud. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
