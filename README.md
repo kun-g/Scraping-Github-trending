@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [candle](https://github.com/huggingface/candle) | Minimalist ML framework for Rust |
 | [MetaGPT](https://github.com/geekan/MetaGPT) | 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo |
-| [postgres_lsp](https://github.com/supabase/postgres_lsp) | A Language Server for Postgres |
-| [dioxus](https://github.com/DioxusLabs/dioxus) | Fullstack GUI library for desktop, web, mobile, and more. |
-| [first-contributions](https://github.com/firstcontributions/first-contributions) | 🚀✨ Help beginners to contribute to open source projects |
 | [incus](https://github.com/lxc/incus) | Powerful system container and virtual machine manager |
-| [FastGPT](https://github.com/labring/FastGPT) | A platform that uses the OpenAI API to quickly build an AI knowledge base, supporting many-to-many relationships. |
-| [jupyter-ai](https://github.com/jupyterlab/jupyter-ai) | A generative AI extension for JupyterLab |
-| [awesome-ai-devtools](https://github.com/jamesmurdza/awesome-ai-devtools) | Curated list of AI-powered developer tools. |
-| [nextui](https://github.com/nextui-org/nextui) | 🚀 Beautiful, fast and modern React UI library. |
-| [tauri](https://github.com/tauri-apps/tauri) | Build smaller, faster, and more secure desktop applications with a web frontend. |
+| [commerce](https://github.com/vercel/commerce) | Next.js Commerce |
+| [typescript-tutorial](https://github.com/wangdoc/typescript-tutorial) | TypeScript 教程 |
+| [AFFiNE](https://github.com/toeverything/AFFiNE) | There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. |
+| [benjamincrozat.com](https://github.com/benjamincrozat/benjamincrozat.com) | Source code for Benjamin Crozat's blog built using the TALL stack and getting more than 20K monthly visitors. |
+| [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project-based tutorials |
+| [cypress](https://github.com/cypress-io/cypress) | Fast, easy and reliable testing for anything that runs in a browser. |
+| [sweep](https://github.com/sweepai/sweep) | Sweep is an AI junior developer |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
