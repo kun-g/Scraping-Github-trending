@@ -14,6 +14,11 @@
                 "username": "Narsil"
             },
             {
+                "avatar": "https://avatars.githubusercontent.com/u/12866554",
+                "href": "https://github.com/Rocketknight1",
+                "username": "Rocketknight1"
+            },
+            {
                 "avatar": "https://avatars.githubusercontent.com/u/2125961",
                 "href": "https://github.com/DogPawHat",
                 "username": "DogPawHat"
@@ -22,21 +27,16 @@
                 "avatar": "https://avatars.githubusercontent.com/u/22633385",
                 "href": "https://github.com/eltociear",
                 "username": "eltociear"
-            },
-            {
-                "avatar": "https://avatars.githubusercontent.com/u/29572918",
-                "href": "https://github.com/gabrielmbmb",
-                "username": "gabrielmbmb"
             }
         ],
         "currentPeriodStars": 1833,
         "description": "Minimalist ML framework for Rust",
-        "forks": 107,
+        "forks": 108,
         "fullname": "huggingface/candle",
         "language": "Rust",
         "languageColor": "#dea584",
         "name": "candle",
-        "stars": 4048,
+        "stars": 4083,
         "url": "https://github.com/huggingface/candle"
     },
     {
@@ -76,7 +76,7 @@
         "language": "Go",
         "languageColor": "#00ADD8",
         "name": "one-api",
-        "stars": 2468,
+        "stars": 2475,
         "url": "https://github.com/songquanpeng/one-api"
     },
     {
@@ -111,12 +111,12 @@
         ],
         "currentPeriodStars": 29,
         "description": "Sample code and notebooks for Generative AI on Google Cloud",
-        "forks": 273,
+        "forks": 274,
         "fullname": "GoogleCloudPlatform/generative-ai",
         "language": "Jupyter Notebook",
         "languageColor": "#DA5B0B",
         "name": "generative-ai",
-        "stars": 1484,
+        "stars": 1487,
         "url": "https://github.com/GoogleCloudPlatform/generative-ai"
     },
     {
@@ -146,10 +146,10 @@
         ],
         "currentPeriodStars": 2711,
         "description": "Generative Agents: Interactive Simulacra of Human Behavior",
-        "forks": 325,
+        "forks": 330,
         "fullname": "joonspk-research/generative_agents",
         "name": "generative_agents",
-        "stars": 3710,
+        "stars": 3747,
         "url": "https://github.com/joonspk-research/generative_agents"
     },
     {
@@ -174,7 +174,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "AudioLDM2",
-        "stars": 378,
+        "stars": 383,
         "url": "https://github.com/haoheliu/AudioLDM2"
     },
     {
@@ -209,7 +209,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "themes",
-        "stars": 584,
+        "stars": 588,
         "url": "https://github.com/radix-ui/themes"
     },
     {
@@ -282,12 +282,12 @@
         ],
         "currentPeriodStars": 771,
         "description": "\ud83c\udf1f The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo",
-        "forks": 1984,
+        "forks": 1986,
         "fullname": "geekan/MetaGPT",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "MetaGPT",
-        "stars": 18314,
+        "stars": 18323,
         "url": "https://github.com/geekan/MetaGPT"
     },
     {
@@ -345,7 +345,7 @@
         "forks": 15846,
         "fullname": "practical-tutorials/project-based-learning",
         "name": "project-based-learning",
-        "stars": 113420,
+        "stars": 113426,
         "url": "https://github.com/practical-tutorials/project-based-learning"
     },
     {
@@ -380,12 +380,12 @@
         ],
         "currentPeriodStars": 62,
         "description": "ALL IN ONE Hacking Tool For Hackers",
-        "forks": 3698,
+        "forks": 3699,
         "fullname": "Z4nzu/hackingtool",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "hackingtool",
-        "stars": 31891,
+        "stars": 31896,
         "url": "https://github.com/Z4nzu/hackingtool"
     },
     {
@@ -425,7 +425,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "commerce",
-        "stars": 8275,
+        "stars": 8278,
         "url": "https://github.com/vercel/commerce"
     },
     {
@@ -460,10 +460,10 @@
         ],
         "currentPeriodStars": 200,
         "description": "\ud83d\ude80\u2728 Help beginners to contribute to open source projects",
-        "forks": 63406,
+        "forks": 63409,
         "fullname": "firstcontributions/first-contributions",
         "name": "first-contributions",
-        "stars": 36607,
+        "stars": 36610,
         "url": "https://github.com/firstcontributions/first-contributions"
     },
     {
@@ -493,12 +493,12 @@
         ],
         "currentPeriodStars": 132,
         "description": "A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). \u4e00\u952e\u62e5\u6709\u4f60\u81ea\u5df1\u7684\u8de8\u5e73\u53f0 ChatGPT \u5e94\u7528\u3002",
-        "forks": 37153,
+        "forks": 37151,
         "fullname": "Yidadaa/ChatGPT-Next-Web",
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "ChatGPT-Next-Web",
-        "stars": 39418,
+        "stars": 39424,
         "url": "https://github.com/Yidadaa/ChatGPT-Next-Web"
     },
     {
@@ -538,7 +538,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "AFFiNE",
-        "stars": 21071,
+        "stars": 21074,
         "url": "https://github.com/toeverything/AFFiNE"
     },
     {
@@ -618,7 +618,7 @@
         "language": "Go",
         "languageColor": "#00ADD8",
         "name": "Open-IM-Server",
-        "stars": 11470,
+        "stars": 11474,
         "url": "https://github.com/OpenIMSDK/Open-IM-Server"
     },
     {
@@ -658,7 +658,7 @@
         "language": "Go",
         "languageColor": "#00ADD8",
         "name": "incus",
-        "stars": 749,
+        "stars": 750,
         "url": "https://github.com/lxc/incus"
     },
     {
@@ -698,7 +698,7 @@
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "Web-Dev-For-Beginners",
-        "stars": 74072,
+        "stars": 74073,
         "url": "https://github.com/microsoft/Web-Dev-For-Beginners"
     },
     {
@@ -738,7 +738,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "denoising-diffusion-pytorch",
-        "stars": 5087,
+        "stars": 5089,
         "url": "https://github.com/lucidrains/denoising-diffusion-pytorch"
     },
     {
@@ -778,7 +778,7 @@
         "language": "Swift",
         "languageColor": "#F05138",
         "name": "RealChar",
-        "stars": 4629,
+        "stars": 4630,
         "url": "https://github.com/Shaunwei/RealChar"
     },
     {
@@ -858,7 +858,7 @@
         "language": "Go",
         "languageColor": "#00ADD8",
         "name": "colly",
-        "stars": 20326,
+        "stars": 20333,
         "url": "https://github.com/gocolly/colly"
     },
     {
@@ -898,7 +898,7 @@
         "language": "C#",
         "languageColor": "#178600",
         "name": "microsoft-authentication-library-for-dotnet",
-        "stars": 1212,
+        "stars": 1214,
         "url": "https://github.com/AzureAD/microsoft-authentication-library-for-dotnet"
     },
     {
@@ -936,7 +936,7 @@
         "forks": 62,
         "fullname": "wangdoc/typescript-tutorial",
         "name": "typescript-tutorial",
-        "stars": 948,
+        "stars": 950,
         "url": "https://github.com/wangdoc/typescript-tutorial"
     }
 ]
