@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [candle](https://github.com/huggingface/candle) | Minimalist ML framework for Rust |
+| [one-api](https://github.com/songquanpeng/one-api) | OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知以及阿里通义千问，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI. |
+| [generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) | Sample code and notebooks for Generative AI on Google Cloud |
+| [generative_agents](https://github.com/joonspk-research/generative_agents) | Generative Agents: Interactive Simulacra of Human Behavior |
+| [AudioLDM2](https://github.com/haoheliu/AudioLDM2) | Text-to-Audio/Music Generation |
+| [themes](https://github.com/radix-ui/themes) | Radix Themes is an open-source component library optimized for fast development, easy maintenance, and accessibility. Maintained by @workos. |
+| [run](https://github.com/The-Run-Philosophy-Organization/run) | 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。 |
 | [MetaGPT](https://github.com/geekan/MetaGPT) | 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo |
-| [incus](https://github.com/lxc/incus) | Powerful system container and virtual machine manager |
-| [commerce](https://github.com/vercel/commerce) | Next.js Commerce |
-| [typescript-tutorial](https://github.com/wangdoc/typescript-tutorial) | TypeScript 教程 |
-| [AFFiNE](https://github.com/toeverything/AFFiNE) | There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. |
-| [benjamincrozat.com](https://github.com/benjamincrozat/benjamincrozat.com) | Source code for Benjamin Crozat's blog built using the TALL stack and getting more than 20K monthly visitors. |
+| [benjamincrozat.com](https://github.com/benjamincrozat/benjamincrozat.com) | Source code for Benjamin Crozat's blog built using the TALL stack and getting more than 30K monthly visitors. |
 | [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project-based tutorials |
-| [cypress](https://github.com/cypress-io/cypress) | Fast, easy and reliable testing for anything that runs in a browser. |
-| [sweep](https://github.com/sweepai/sweep) | Sweep is an AI junior developer |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
