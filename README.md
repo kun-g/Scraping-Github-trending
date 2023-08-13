@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [candle](https://github.com/huggingface/candle) | Minimalist ML framework for Rust |
-| [SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) | Multiplayer at the speed of light |
-| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
-| [themes](https://github.com/radix-ui/themes) | Radix Themes is an open-source component library optimized for fast development, easy maintenance, and accessibility. Maintained by @workos. |
 | [generative_agents](https://github.com/joonspk-research/generative_agents) | Generative Agents: Interactive Simulacra of Human Behavior |
+| [Llama-2-Onnx](https://github.com/microsoft/Llama-2-Onnx) |  |
+| [hackingtool](https://github.com/Z4nzu/hackingtool) | ALL IN ONE Hacking Tool For Hackers |
+| [AudioLDM2](https://github.com/haoheliu/AudioLDM2) | Text-to-Audio/Music Generation |
+| [generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) | Sample code and notebooks for Generative AI on Google Cloud |
 | [PeiQi-WIKI-Book](https://github.com/PeiQi0/PeiQi-WIKI-Book) | 面向网络安全从业者的知识文库🍃 |
-| [rift](https://github.com/morph-labs/rift) | Rift: an AI-native language server for your personal AI software engineer |
-| [putting-the-you-in-cpu](https://github.com/hackclub/putting-the-you-in-cpu) | A technical explainer by @kognise of how your computer runs programs, from start to finish. |
-| [arpchat](https://github.com/kognise/arpchat) | Answering the question nobody asked: what if you wanted to text your friends using only ARP? |
-| [remotes](https://github.com/remote-es/remotes) | This is a repository listing companies which offer full-time remote jobs with Spanish contracts |
+| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A youtube-dl fork with additional features and fixes |
+| [gpt-llm-trainer](https://github.com/mshumer/gpt-llm-trainer) |  |
+| [candle](https://github.com/huggingface/candle) | Minimalist ML framework for Rust |
+| [taiko-mono](https://github.com/taikoxyz/taiko-mono) | A decentralized, Ethereum-equivalent ZK-Rollup. 🥁 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
