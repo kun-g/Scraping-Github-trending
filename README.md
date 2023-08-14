@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [generative_agents](https://github.com/joonspk-research/generative_agents) | Generative Agents: Interactive Simulacra of Human Behavior |
-| [Llama-2-Onnx](https://github.com/microsoft/Llama-2-Onnx) |  |
-| [hackingtool](https://github.com/Z4nzu/hackingtool) | ALL IN ONE Hacking Tool For Hackers |
-| [AudioLDM2](https://github.com/haoheliu/AudioLDM2) | Text-to-Audio/Music Generation |
-| [generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) | Sample code and notebooks for Generative AI on Google Cloud |
-| [PeiQi-WIKI-Book](https://github.com/PeiQi0/PeiQi-WIKI-Book) | 面向网络安全从业者的知识文库🍃 |
+| [facechain](https://github.com/modelscope/facechain) | FaceChain is a deep-learning toolchain for generating your Digital-Twin. |
+| [wipeout-rewrite](https://github.com/phoboslab/wipeout-rewrite) |  |
+| [SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) | Multiplayer at the speed of light |
 | [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A youtube-dl fork with additional features and fixes |
-| [gpt-llm-trainer](https://github.com/mshumer/gpt-llm-trainer) |  |
+| [quake2-rerelease-dll](https://github.com/id-Software/quake2-rerelease-dll) |  |
 | [candle](https://github.com/huggingface/candle) | Minimalist ML framework for Rust |
-| [taiko-mono](https://github.com/taikoxyz/taiko-mono) | A decentralized, Ethereum-equivalent ZK-Rollup. 🥁 |
+| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
+| [bitcoin](https://github.com/bitcoin/bitcoin) | Bitcoin Core integration/staging tree |
+| [VITS-fast-fine-tuning](https://github.com/Plachtaa/VITS-fast-fine-tuning) | This repo is a pipeline of VITS finetuning for fast speaker adaptation TTS, and many-to-many voice conversion |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
