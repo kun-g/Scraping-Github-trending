@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [generative_agents](https://github.com/joonspk-research/generative_agents) | Generative Agents: Interactive Simulacra of Human Behavior |
-| [facechain](https://github.com/modelscope/facechain) | FaceChain is a deep-learning toolchain for generating your Digital-Twin. |
+| [Fooocus](https://github.com/lllyasviel/Fooocus) | Focus on prompting and generating |
+| [privateGPT](https://github.com/imartinez/privateGPT) | Interact privately with your documents using the power of GPT, 100% privately, no data leaks |
 | [wipeout-rewrite](https://github.com/phoboslab/wipeout-rewrite) |  |
-| [SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) | Multiplayer at the speed of light |
+| [neuralangelo](https://github.com/NVlabs/neuralangelo) | Official implementation of "Neuralangelo: High-Fidelity Neural Surface Reconstruction" (CVPR 2023) |
+| [hackingtool](https://github.com/Z4nzu/hackingtool) | ALL IN ONE Hacking Tool For Hackers |
 | [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A youtube-dl fork with additional features and fixes |
-| [quake2-rerelease-dll](https://github.com/id-Software/quake2-rerelease-dll) |  |
-| [candle](https://github.com/huggingface/candle) | Minimalist ML framework for Rust |
-| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
-| [bitcoin](https://github.com/bitcoin/bitcoin) | Bitcoin Core integration/staging tree |
-| [VITS-fast-fine-tuning](https://github.com/Plachtaa/VITS-fast-fine-tuning) | This repo is a pipeline of VITS finetuning for fast speaker adaptation TTS, and many-to-many voice conversion |
+| [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | A list of Free Software network services and web applications which can be hosted on your own servers |
+| [gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) | Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering" |
+| [immich](https://github.com/immich-app/immich) | Self-hosted photo and video backup solution directly from your mobile phone. |
+| [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) | 一个基于 electron 的音乐软件 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
