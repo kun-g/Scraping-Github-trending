@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [Fooocus](https://github.com/lllyasviel/Fooocus) | Focus on prompting and generating |
-| [privateGPT](https://github.com/imartinez/privateGPT) | Interact privately with your documents using the power of GPT, 100% privately, no data leaks |
-| [wipeout-rewrite](https://github.com/phoboslab/wipeout-rewrite) |  |
+| [facechain](https://github.com/modelscope/facechain) | FaceChain is a deep-learning toolchain for generating your Digital-Twin. |
 | [neuralangelo](https://github.com/NVlabs/neuralangelo) | Official implementation of "Neuralangelo: High-Fidelity Neural Surface Reconstruction" (CVPR 2023) |
-| [hackingtool](https://github.com/Z4nzu/hackingtool) | ALL IN ONE Hacking Tool For Hackers |
-| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A youtube-dl fork with additional features and fixes |
-| [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | A list of Free Software network services and web applications which can be hosted on your own servers |
-| [gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) | Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering" |
-| [immich](https://github.com/immich-app/immich) | Self-hosted photo and video backup solution directly from your mobile phone. |
-| [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) | 一个基于 electron 的音乐软件 |
+| [wipeout-rewrite](https://github.com/phoboslab/wipeout-rewrite) |  |
+| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
+| [infisical](https://github.com/Infisical/infisical) | ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks. |
+| [roop](https://github.com/s0md3v/roop) | one-click deepfake (face swap) |
+| [DoctorGPT](https://github.com/llSourcell/DoctorGPT) | DoctorGPT is an LLM that can pass the US Medical Licensing Exam. It works offline, it's cross-platform, & your health data stays private. |
+| [awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) | A curated list of modern Generative Artificial Intelligence projects and services |
+| [aws-devops-zero-to-hero](https://github.com/iam-veeramalla/aws-devops-zero-to-hero) | AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples. |
+| [Conferences](https://github.com/onhexgroup/Conferences) | Conference slides |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
