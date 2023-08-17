@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [facechain](https://github.com/modelscope/facechain) | FaceChain is a deep-learning toolchain for generating your Digital-Twin. |
-| [neuralangelo](https://github.com/NVlabs/neuralangelo) | Official implementation of "Neuralangelo: High-Fidelity Neural Surface Reconstruction" (CVPR 2023) |
-| [wipeout-rewrite](https://github.com/phoboslab/wipeout-rewrite) |  |
-| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
-| [infisical](https://github.com/Infisical/infisical) | ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks. |
-| [roop](https://github.com/s0md3v/roop) | one-click deepfake (face swap) |
+| [Fooocus](https://github.com/lllyasviel/Fooocus) | Focus on prompting and generating |
+| [supervision](https://github.com/roboflow/supervision) | We write your reusable computer vision tools. 💜 |
+| [gpt-researcher](https://github.com/assafelovic/gpt-researcher) | GPT based autonomous agent that does online comprehensive research on any given topic |
 | [DoctorGPT](https://github.com/llSourcell/DoctorGPT) | DoctorGPT is an LLM that can pass the US Medical Licensing Exam. It works offline, it's cross-platform, & your health data stays private. |
-| [awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) | A curated list of modern Generative Artificial Intelligence projects and services |
-| [aws-devops-zero-to-hero](https://github.com/iam-veeramalla/aws-devops-zero-to-hero) | AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples. |
-| [Conferences](https://github.com/onhexgroup/Conferences) | Conference slides |
+| [outlines](https://github.com/normal-computing/outlines) | Generative Model Programming |
+| [conference-app-2023](https://github.com/DroidKaigi/conference-app-2023) |  |
+| [2023Hvv](https://github.com/ibaiw/2023Hvv) | 2023 HVV情报速递~ |
+| [little-rat](https://github.com/dnakov/little-rat) | 🐀 Small chrome extension to monitor other extensions' network calls |
+| [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | The Patterns of Scalable, Reliable, and Performant Large-Scale Systems |
+| [neuralangelo](https://github.com/NVlabs/neuralangelo) | Official implementation of "Neuralangelo: High-Fidelity Neural Surface Reconstruction" (CVPR 2023) |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
