@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [llama-gpt](https://github.com/getumbrel/llama-gpt) | A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. |
-| [dio-lab-open-source](https://github.com/elidianaandrade/dio-lab-open-source) | Repositório do lab Contribuindo em um Projeto Open Source no GitHub da Digital Innovation One. |
-| [ml-fastvit](https://github.com/apple/ml-fastvit) | This repository contains the official implementation of the research paper, "FastViT: A Fast Hybrid Vision Transformer using Structural Reparameterization" |
-| [canal](https://github.com/alibaba/canal) | 阿里巴巴 MySQL binlog 增量订阅&消费组件 |
-| [VPet](https://github.com/LorisYounger/VPet) | 虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序 |
-| [si](https://github.com/systeminit/si) | The System Initiative software |
-| [ubicloud](https://github.com/ubicloud/ubicloud) | Open, free, and portable cloud. Elastic compute, block storage (non replicated), and virtual networking services in public alpha. |
 | [biomes-game](https://github.com/ill-inc/biomes-game) | Biomes is an open source sandbox MMORPG built for the web using web technologies such as Next.js, Typescript, React and WebAssembly. |
-| [1Panel](https://github.com/1Panel-dev/1Panel) | 🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。 |
-| [KeymouseGo](https://github.com/taojy123/KeymouseGo) | 类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入 | automate mouse clicks and keyboard input |
+| [supervision](https://github.com/roboflow/supervision) | We write your reusable computer vision tools. 💜 |
+| [dio-lab-open-source](https://github.com/elidianaandrade/dio-lab-open-source) | Repositório do lab Contribuindo em um Projeto Open Source no GitHub da Digital Innovation One. |
+| [ai-town](https://github.com/a16z-infra/ai-town) | A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize. |
+| [CoDeF](https://github.com/qiuyu96/CoDeF) | Official PyTorch implementation of CoDeF: Content Deformation Fields for Temporally Consistent Video Processing |
+| [quivr](https://github.com/StanGirard/quivr) | 🧠 Your Second Brain supercharged by Generative AI 🧠 Dump all your files and chat with your personal assistant on your files & more using GPT 3.5/4, Private, Anthropic, VertexAI, LLMs... |
+| [English-level-up-tips](https://github.com/byoungd/English-level-up-tips) | An advanced guide to learn English which might benefit you a lot 🎉 . 可能是让你受益匪浅的英语进阶指南。 |
+| [DVWA](https://github.com/digininja/DVWA) | Damn Vulnerable Web Application (DVWA) |
+| [external-dns](https://github.com/kubernetes-sigs/external-dns) | Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
