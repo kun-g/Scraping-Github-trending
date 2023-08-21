@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [llama-gpt](https://github.com/getumbrel/llama-gpt) | A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. |
-| [biomes-game](https://github.com/ill-inc/biomes-game) | Biomes is an open source sandbox MMORPG built for the web using web technologies such as Next.js, Typescript, React and WebAssembly. |
-| [supervision](https://github.com/roboflow/supervision) | We write your reusable computer vision tools. 💜 |
-| [dio-lab-open-source](https://github.com/elidianaandrade/dio-lab-open-source) | Repositório do lab Contribuindo em um Projeto Open Source no GitHub da Digital Innovation One. |
-| [ai-town](https://github.com/a16z-infra/ai-town) | A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize. |
 | [CoDeF](https://github.com/qiuyu96/CoDeF) | Official PyTorch implementation of CoDeF: Content Deformation Fields for Temporally Consistent Video Processing |
-| [quivr](https://github.com/StanGirard/quivr) | 🧠 Your Second Brain supercharged by Generative AI 🧠 Dump all your files and chat with your personal assistant on your files & more using GPT 3.5/4, Private, Anthropic, VertexAI, LLMs... |
-| [English-level-up-tips](https://github.com/byoungd/English-level-up-tips) | An advanced guide to learn English which might benefit you a lot 🎉 . 可能是让你受益匪浅的英语进阶指南。 |
-| [DVWA](https://github.com/digininja/DVWA) | Damn Vulnerable Web Application (DVWA) |
-| [external-dns](https://github.com/kubernetes-sigs/external-dns) | Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services |
+| [stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) | Stable Diffusion in pure C/C++ |
+| [Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Python - 100天从新手到大师 |
+| [VPet](https://github.com/LorisYounger/VPet) | 虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序 |
+| [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) | Multi agent system for AI-driven software development. Convert natural language requirements into working software. Supports any development language and extends the existing base code. |
+| [cal.com](https://github.com/calcom/cal.com) | Scheduling infrastructure for absolutely everyone. |
+| [Grasscutter](https://github.com/Grasscutters/Grasscutter) | A server software reimplementation for a certain anime game. |
+| [awesome-python](https://github.com/vinta/awesome-python) | A curated list of awesome Python frameworks, libraries, software and resources |
+| [OldTweetDeck](https://github.com/dimdenGD/OldTweetDeck) | Returns old TweetDeck, for free! |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
