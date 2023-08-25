@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [seamless_communication](https://github.com/facebookresearch/seamless_communication) | Foundational Models for State-of-the-Art Speech and Text Translation |
 | [facefusion](https://github.com/facefusion/facefusion) | Next generation face swapper and enhancer |
+| [intel-one-mono](https://github.com/intel/intel-one-mono) | Intel One Mono font repository |
+| [imersao14](https://github.com/devfullcycle/imersao14) |  |
+| [zhuque](https://github.com/TrionesType/zhuque) | 朱雀仿宋：开源正文仿宋字库计划 |
 | [go-quai](https://github.com/dominant-strategies/go-quai) | Official Go Implementation of the Quai Network |
+| [New-Grad-2024](https://github.com/ReaVNaiL/New-Grad-2024) | 👋 Hey there new grad🎉! We've put together a collection of full-time job openings for SWE, Quant, PM and tech roles in 2024! 🚀 |
 | [funNLP](https://github.com/fighting41love/funNLP) | 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术… |
-| [GodMode](https://github.com/smol-ai/GodMode) | AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day. |
-| [teenygrad](https://github.com/tinygrad/teenygrad) | If tinygrad wasn't small enough for you... |
-| [GFPGAN](https://github.com/TencentARC/GFPGAN) | GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration. |
-| [awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) | 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新 |
-| [computer-science](https://github.com/ossu/computer-science) | 🎓 Path to a free self-taught education in Computer Science! |
-| [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) | Multi agent system for AI-driven software development. Combine LLM with DevOps tools to convert natural language requirements into working software. Supports any development language and extends the existing code. |
-| [python-mastery](https://github.com/dabeaz-course/python-mastery) | Advanced Python Mastery (course by @dabeaz) |
+| [SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) | A handy collection of more than 500 native Swift extensions to boost your productivity. |
+| [openai-python](https://github.com/openai/openai-python) | The OpenAI Python library provides convenient access to the OpenAI API from applications written in the Python language. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
