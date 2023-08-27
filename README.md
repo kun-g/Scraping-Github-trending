@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [facefusion](https://github.com/facefusion/facefusion) | Next generation face swapper and enhancer |
-| [seamless_communication](https://github.com/facebookresearch/seamless_communication) | Foundational Models for State-of-the-Art Speech and Text Translation |
+| [codellama](https://github.com/facebookresearch/codellama) | Inference code for CodeLlama models |
+| [wipeout-rewrite](https://github.com/phoboslab/wipeout-rewrite) |  |
 | [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) | PoC for a scalable dev tool that writes entire apps from scratch while the developer oversees the implementation |
-| [rustdesk](https://github.com/rustdesk/rustdesk) | An open-source remote desktop, and alternative to TeamViewer. |
-| [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Interactive roadmaps, guides and other educational content to help developers grow in their careers. |
 | [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) | A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app |
-| [funNLP](https://github.com/fighting41love/funNLP) | 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术… |
-| [sqlcoder](https://github.com/defog-ai/sqlcoder) | SoTA LLM for converting natural language questions to SQL queries |
-| [terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) | Terraform module to create an Elastic Kubernetes (EKS) cluster and associated resources 🇺🇦 |
-| [zap](https://github.com/uber-go/zap) | Blazing fast, structured, leveled logging in Go. |
+| [vscode](https://github.com/microsoft/vscode) | Visual Studio Code |
+| [Qwen-VL](https://github.com/QwenLM/Qwen-VL) | The official repo of Qwen-VL (通义千问-VL) chat & pretrained large vision language model proposed by Alibaba Cloud. |
+| [graph-of-thoughts](https://github.com/spcl/graph-of-thoughts) | Official Implementation of "Graph of Thoughts: Solving Elaborate Problems with Large Language Models" |
+| [rev-obsidian-sync](https://github.com/acheong08/rev-obsidian-sync) | Reverse engineering of the native Obsidian sync server |
+| [llama](https://github.com/facebookresearch/llama) | Inference code for LLaMA models |
+| [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Interactive roadmaps, guides and other educational content to help developers grow in their careers. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
