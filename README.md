@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [codellama](https://github.com/facebookresearch/codellama) | Inference code for CodeLlama models |
 | [wipeout-rewrite](https://github.com/phoboslab/wipeout-rewrite) |  |
-| [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) | PoC for a scalable dev tool that writes entire apps from scratch while the developer oversees the implementation |
-| [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) | A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app |
-| [vscode](https://github.com/microsoft/vscode) | Visual Studio Code |
-| [Qwen-VL](https://github.com/QwenLM/Qwen-VL) | The official repo of Qwen-VL (通义千问-VL) chat & pretrained large vision language model proposed by Alibaba Cloud. |
-| [graph-of-thoughts](https://github.com/spcl/graph-of-thoughts) | Official Implementation of "Graph of Thoughts: Solving Elaborate Problems with Large Language Models" |
-| [rev-obsidian-sync](https://github.com/acheong08/rev-obsidian-sync) | Reverse engineering of the native Obsidian sync server |
-| [llama](https://github.com/facebookresearch/llama) | Inference code for LLaMA models |
+| [facefusion](https://github.com/facefusion/facefusion) | Next generation face swapper and enhancer |
+| [codellama](https://github.com/facebookresearch/codellama) | Inference code for CodeLlama models |
 | [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Interactive roadmaps, guides and other educational content to help developers grow in their careers. |
+| [llama.cpp](https://github.com/ggerganov/llama.cpp) | Port of Facebook's LLaMA model in C/C++ |
+| [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) | PoC for a scalable dev tool that writes entire apps from scratch while the developer oversees the implementation |
+| [Fooocus](https://github.com/lllyasviel/Fooocus) | Focus on prompting and generating |
+| [llama](https://github.com/facebookresearch/llama) | Inference code for LLaMA models |
+| [ollama](https://github.com/jmorganca/ollama) | Get up and running with Llama 2 and other large language models locally |
+| [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) | A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
