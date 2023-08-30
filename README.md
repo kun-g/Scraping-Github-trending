@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [polkadot-sdk](https://github.com/paritytech/polkadot-sdk) | The Parity Polkadot Blockchain SDK |
 | [awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) | 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新 |
-| [llama.cpp](https://github.com/ggerganov/llama.cpp) | Port of Facebook's LLaMA model in C/C++ |
-| [codellama](https://github.com/facebookresearch/codellama) | Inference code for CodeLlama models |
-| [WizardLM](https://github.com/nlpxucan/WizardLM) | Family of instruction-following LLMs powered by Evol-Instruct: WizardLM, WizardCoder and WizardMath |
-| [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) | PoC for a scalable dev tool that writes entire apps from scratch while the developer oversees the implementation |
-| [prompt2model](https://github.com/neulab/prompt2model) | prompt2model - Generate Deployable Models from Natural Language Instructions |
-| [rev-obsidian-sync](https://github.com/acheong08/rev-obsidian-sync) | Reverse engineering of the native Obsidian sync and publish server |
-| [hackingtool](https://github.com/Z4nzu/hackingtool) | ALL IN ONE Hacking Tool For Hackers |
 | [VALL-E-X](https://github.com/Plachtaa/VALL-E-X) | An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io |
-| [llama](https://github.com/facebookresearch/llama) | Inference code for LLaMA models |
+| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
+| [CVE-2023-38831-winrar-exploit](https://github.com/b1tg/CVE-2023-38831-winrar-exploit) | CVE-2023-38831 winrar exploit generator |
+| [Magisk](https://github.com/topjohnwu/Magisk) | The Magic Mask for Android |
+| [WizardLM](https://github.com/nlpxucan/WizardLM) | Family of instruction-following LLMs powered by Evol-Instruct: WizardLM, WizardCoder and WizardMath |
+| [wipeout-rewrite](https://github.com/phoboslab/wipeout-rewrite) |  |
+| [continue](https://github.com/continuedev/continue) | ⏩ the open-source copilot chat for software development—bring the power of ChatGPT to VS Code |
+| [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | The communications platform that puts data protection first. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
