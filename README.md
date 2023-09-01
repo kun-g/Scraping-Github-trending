@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [nougat](https://github.com/facebookresearch/nougat) | Implementation of Nougat Neural Optical Understanding for Academic Documents |
 | [VALL-E-X](https://github.com/Plachtaa/VALL-E-X) | An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io |
-| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
-| [awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) | 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新 |
-| [BEPb](https://github.com/BEPb/BEPb) | Config files for my GitHub profile. |
-| [manifesto](https://github.com/opentffoundation/manifesto) | The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source license. |
-| [ant-design](https://github.com/ant-design/ant-design) | An enterprise-class UI design language and React UI library |
+| [1Panel](https://github.com/1Panel-dev/1Panel) | 🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。 |
 | [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [hackingtool](https://github.com/Z4nzu/hackingtool) | ALL IN ONE Hacking Tool For Hackers |
-| [polkadot-sdk](https://github.com/paritytech/polkadot-sdk) | The Parity Polkadot Blockchain SDK |
-| [autocomplete](https://github.com/withfig/autocomplete) | IDE-style autocomplete for your existing terminal & shell |
+| [scalene](https://github.com/plasma-umass/scalene) | Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals |
+| [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) | 🛁 Clean Code concepts adapted for JavaScript |
+| [magic-edit](https://github.com/magic-research/magic-edit) | MagicEdit: High-Fidelity Temporally Coherent Video Editing |
+| [creator-docs](https://github.com/Roblox/creator-docs) | Open Source Creator Documentation |
+| [AudioLDM2](https://github.com/haoheliu/AudioLDM2) | Text-to-Audio/Music Generation |
+| [embedchain](https://github.com/embedchain/embedchain) | Framework to easily create LLM powered bots over any dataset. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
