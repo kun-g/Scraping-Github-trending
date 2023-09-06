@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [open-interpreter](https://github.com/KillianLucas/open-interpreter) | OpenAI's Code Interpreter in your terminal, running locally |
 | [ChatDev](https://github.com/OpenBMB/ChatDev) | Create Customized Software using Natural Language Idea (through Multi-Agent Collaboration) |
-| [raylib](https://github.com/raysan5/raylib) | A simple and easy-to-use library to enjoy videogames programming |
-| [gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) | Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering" |
-| [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI |
-| [textbase](https://github.com/cofactoryai/textbase) | ✨ Textbase is a simple framework for building AI chatbots. ✨ |
-| [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. |
-| [dub](https://github.com/steven-tey/dub) | An open-source link shortener with built-in analytics + free custom domains. |
-| [DB-GPT](https://github.com/eosphoros-ai/DB-GPT) | Revolutionizing Database Interactions with Private LLM Technology |
-| [build](https://github.com/armbian/build) | Armbian Linux Build Framework |
+| [ColossalAI](https://github.com/hpcaitech/ColossalAI) | Making large AI models cheaper, faster and more accessible |
+| [Android-Touch-Helper](https://github.com/zfdang/Android-Touch-Helper) | 开屏跳过-安卓系统的开屏广告自动跳过助手 |
+| [supervision](https://github.com/roboflow/supervision) | We write your reusable computer vision tools. 💜 |
+| [terraform-zero-to-hero](https://github.com/iam-veeramalla/terraform-zero-to-hero) | Master Terraform in 7 days using this Zero to Hero course. |
 | [win12](https://github.com/tjy-gitnub/win12) | Windows 12 网页版，在线体验 点击下面的链接在线体验 |
+| [astro](https://github.com/withastro/astro) | The all-in-one web framework designed for speed. ⭐️ Star to support our work! |
+| [biome](https://github.com/biomejs/biome) | A toolchain for web projects, aimed to provide functionalities to maintain them. |
+| [CasaOS](https://github.com/IceWhaleTech/CasaOS) | CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
