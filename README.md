@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [open-interpreter](https://github.com/KillianLucas/open-interpreter) | OpenAI's Code Interpreter in your terminal, running locally |
-| [opentf](https://github.com/opentffoundation/opentf) | OpenTF lets you declaratively manage your cloud infrastructure. |
-| [sec-insights](https://github.com/run-llama/sec-insights) | A real world full-stack application using LlamaIndex |
+| [Baichuan2](https://github.com/baichuan-inc/Baichuan2) | A series of large language models developed by Baichuan Intelligent Technology |
 | [win12](https://github.com/tjy-gitnub/win12) | Windows 12 网页版，在线体验 点击下面的链接在线体验 |
-| [awesome-italia-remote](https://github.com/italiaremote/awesome-italia-remote) | A list of remote-friendly or full-remote companies that targets Italian talents. |
-| [watlings](https://github.com/EmNudge/watlings) | Learn WebAssembly by writing small programs! |
-| [puck](https://github.com/measuredco/puck) | The self-hosted drag and drop editor for React. |
-| [sam.cpp](https://github.com/YavorGIvanov/sam.cpp) |  |
-| [tinygrad](https://github.com/tinygrad/tinygrad) | You like pytorch? You like micrograd? You love tinygrad! ❤️ |
-| [TinyLlama](https://github.com/jzhang38/TinyLlama) | The TinyLlama project is an open endeavor to pretrain a 1.1B Llama model on 3 trillion tokens. |
+| [mojo](https://github.com/modularml/mojo) | The Mojo Programming Language |
+| [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) | Dev tool that writes scalable apps from scratch while the developer oversees the implementation |
+| [DiffBIR](https://github.com/XPixelGroup/DiffBIR) |  |
+| [sec-insights](https://github.com/run-llama/sec-insights) | A real world full-stack application using LlamaIndex |
+| [TokenFlow](https://github.com/omerbt/TokenFlow) | Official Pytorch Implementation for "TokenFlow: Consistent Diffusion Features for Consistent Video Editing" presenting "TokenFlow" |
+| [rinha-de-compiler](https://github.com/aripiprazole/rinha-de-compiler) | 🥖 | Rinha de compiladores (ou interpretadores kkkk |
+| [sd-webui-EasyPhoto](https://github.com/aigc-apps/sd-webui-EasyPhoto) | 📷 EasyPhoto | Your Smart AI Photo Generator. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
