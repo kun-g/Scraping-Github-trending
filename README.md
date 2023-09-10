@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [open-interpreter](https://github.com/KillianLucas/open-interpreter) | OpenAI's Code Interpreter in your terminal, running locally |
-| [Baichuan2](https://github.com/baichuan-inc/Baichuan2) | A series of large language models developed by Baichuan Intelligent Technology |
-| [win12](https://github.com/tjy-gitnub/win12) | Windows 12 网页版，在线体验 点击下面的链接在线体验 |
 | [mojo](https://github.com/modularml/mojo) | The Mojo Programming Language |
-| [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) | Dev tool that writes scalable apps from scratch while the developer oversees the implementation |
-| [DiffBIR](https://github.com/XPixelGroup/DiffBIR) |  |
-| [sec-insights](https://github.com/run-llama/sec-insights) | A real world full-stack application using LlamaIndex |
-| [TokenFlow](https://github.com/omerbt/TokenFlow) | Official Pytorch Implementation for "TokenFlow: Consistent Diffusion Features for Consistent Video Editing" presenting "TokenFlow" |
-| [rinha-de-compiler](https://github.com/aripiprazole/rinha-de-compiler) | 🥖 | Rinha de compiladores (ou interpretadores kkkk |
+| [hello-algo](https://github.com/krahets/hello-algo) | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。 |
+| [open-interpreter](https://github.com/KillianLucas/open-interpreter) | OpenAI's Code Interpreter in your terminal, running locally |
+| [bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
+| [promptflow](https://github.com/microsoft/promptflow) | Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring. |
+| [UnityGaussianSplatting](https://github.com/aras-p/UnityGaussianSplatting) | Toy Gaussian Splatting visualization in Unity |
+| [Infinity-For-Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) | A Reddit client for Android |
+| [traversy-js-challenges](https://github.com/bradtraversy/traversy-js-challenges) | Challenges & docs from JS Algorithms & Data Structures course |
 | [sd-webui-EasyPhoto](https://github.com/aigc-apps/sd-webui-EasyPhoto) | 📷 EasyPhoto | Your Smart AI Photo Generator. |
+| [DiffBIR](https://github.com/XPixelGroup/DiffBIR) |  |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
