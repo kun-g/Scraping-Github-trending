@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [mojo](https://github.com/modularml/mojo) | The Mojo Programming Language |
-| [hello-algo](https://github.com/krahets/hello-algo) | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。 |
-| [open-interpreter](https://github.com/KillianLucas/open-interpreter) | OpenAI's Code Interpreter in your terminal, running locally |
 | [bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
+| [mojo](https://github.com/modularml/mojo) | The Mojo Programming Language |
 | [promptflow](https://github.com/microsoft/promptflow) | Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring. |
-| [UnityGaussianSplatting](https://github.com/aras-p/UnityGaussianSplatting) | Toy Gaussian Splatting visualization in Unity |
-| [Infinity-For-Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) | A Reddit client for Android |
-| [traversy-js-challenges](https://github.com/bradtraversy/traversy-js-challenges) | Challenges & docs from JS Algorithms & Data Structures course |
-| [sd-webui-EasyPhoto](https://github.com/aigc-apps/sd-webui-EasyPhoto) | 📷 EasyPhoto | Your Smart AI Photo Generator. |
-| [DiffBIR](https://github.com/XPixelGroup/DiffBIR) |  |
+| [hello-algo](https://github.com/krahets/hello-algo) | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。 |
+| [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) | Dev tool that writes scalable apps from scratch while the developer oversees the implementation |
+| [rivet](https://github.com/Ironclad/rivet) | AI agent and prompt chaining IDE and library |
+| [zig](https://github.com/ziglang/zig) | General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. |
+| [social-app](https://github.com/bluesky-social/social-app) | The Bluesky Social application for Web, iOS, and Android |
+| [Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) | A curated list of free courses & certifications. |
+| [Javdb-Top250](https://github.com/2TimesMeta/Javdb-Top250) | Javdb.com top 250 movies collection |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
