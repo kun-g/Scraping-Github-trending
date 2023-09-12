@@ -31,12 +31,12 @@
         ],
         "currentPeriodStars": 4830,
         "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager \u2013 all in one",
-        "forks": 1516,
+        "forks": 1517,
         "fullname": "oven-sh/bun",
         "language": "Zig",
         "languageColor": "#ec915c",
         "name": "bun",
-        "stars": 54726,
+        "stars": 54786,
         "url": "https://github.com/oven-sh/bun"
     },
     {
@@ -71,12 +71,12 @@
         ],
         "currentPeriodStars": 2682,
         "description": "\u300aHello \u7b97\u6cd5\u300b\uff1a\u52a8\u753b\u56fe\u89e3\u3001\u4e00\u952e\u8fd0\u884c\u7684\u6570\u636e\u7ed3\u6784\u4e0e\u7b97\u6cd5\u6559\u7a0b\uff0c\u652f\u6301 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig \u7b49\u8bed\u8a00\u3002",
-        "forks": 2478,
+        "forks": 2485,
         "fullname": "krahets/hello-algo",
         "language": "Java",
         "languageColor": "#b07219",
         "name": "hello-algo",
-        "stars": 23167,
+        "stars": 23234,
         "url": "https://github.com/krahets/hello-algo"
     },
     {
@@ -116,7 +116,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "hackingtool",
-        "stars": 37436,
+        "stars": 37448,
         "url": "https://github.com/Z4nzu/hackingtool"
     },
     {
@@ -156,7 +156,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "promptflow",
-        "stars": 1232,
+        "stars": 1235,
         "url": "https://github.com/microsoft/promptflow"
     },
     {
@@ -191,10 +191,10 @@
         ],
         "currentPeriodStars": 1180,
         "description": "The Mojo Programming Language",
-        "forks": 1149,
+        "forks": 1152,
         "fullname": "modularml/mojo",
         "name": "mojo",
-        "stars": 13135,
+        "stars": 13143,
         "url": "https://github.com/modularml/mojo"
     },
     {
@@ -207,19 +207,24 @@
                 "username": "abrenneke"
             },
             {
-                "avatar": "https://avatars.githubusercontent.com/u/3382717",
-                "href": "https://github.com/Swimburger",
-                "username": "Swimburger"
-            },
-            {
                 "avatar": "https://avatars.githubusercontent.com/u/448108",
                 "href": "https://github.com/gogwilt",
                 "username": "gogwilt"
             },
             {
+                "avatar": "https://avatars.githubusercontent.com/u/3382717",
+                "href": "https://github.com/Swimburger",
+                "username": "Swimburger"
+            },
+            {
                 "avatar": "https://avatars.githubusercontent.com/u/12634659",
                 "href": "https://github.com/a-rothwell",
                 "username": "a-rothwell"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7994529",
+                "href": "https://github.com/tcgj",
+                "username": "tcgj"
             }
         ],
         "currentPeriodStars": 210,
@@ -229,7 +234,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "rivet",
-        "stars": 630,
+        "stars": 632,
         "url": "https://github.com/Ironclad/rivet"
     },
     {
@@ -269,7 +274,7 @@
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "Web-Dev-For-Beginners",
-        "stars": 75792,
+        "stars": 75797,
         "url": "https://github.com/microsoft/Web-Dev-For-Beginners"
     },
     {
@@ -309,7 +314,7 @@
         "language": "C++",
         "languageColor": "#f34b7d",
         "name": "smartknob",
-        "stars": 14965,
+        "stars": 14968,
         "url": "https://github.com/scottbez1/smartknob"
     },
     {
@@ -347,7 +352,7 @@
         "forks": 705,
         "fullname": "cloudcommunity/Free-Certifications",
         "name": "Free-Certifications",
-        "stars": 6925,
+        "stars": 6930,
         "url": "https://github.com/cloudcommunity/Free-Certifications"
     },
     {
@@ -387,7 +392,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "core",
-        "stars": 62772,
+        "stars": 62779,
         "url": "https://github.com/home-assistant/core"
     },
     {
@@ -427,7 +432,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "manim",
-        "stars": 53416,
+        "stars": 53425,
         "url": "https://github.com/3b1b/manim"
     },
     {
@@ -492,7 +497,7 @@
         "language": "C++",
         "languageColor": "#f34b7d",
         "name": "ppsspp",
-        "stars": 9312,
+        "stars": 9313,
         "url": "https://github.com/hrydgard/ppsspp"
     },
     {
@@ -512,7 +517,7 @@
         "language": "Java",
         "languageColor": "#b07219",
         "name": "LowLevelDesign",
-        "stars": 182,
+        "stars": 183,
         "url": "https://github.com/kousiknath/LowLevelDesign"
     },
     {
@@ -582,12 +587,12 @@
         ],
         "currentPeriodStars": 69,
         "description": "Apple BLE proximity pairing message spoofing",
-        "forks": 57,
+        "forks": 58,
         "fullname": "ECTO-1A/AppleJuice",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "AppleJuice",
-        "stars": 657,
+        "stars": 659,
         "url": "https://github.com/ECTO-1A/AppleJuice"
     },
     {
@@ -607,7 +612,7 @@
         "language": "HTML",
         "languageColor": "#e34c26",
         "name": "PAROL6-Desktop-robot-arm",
-        "stars": 400,
+        "stars": 402,
         "url": "https://github.com/PCrnjak/PAROL6-Desktop-robot-arm"
     },
     {
@@ -645,7 +650,7 @@
         "forks": 433,
         "fullname": "dair-ai/ML-Papers-Explained",
         "name": "ML-Papers-Explained",
-        "stars": 5307,
+        "stars": 5315,
         "url": "https://github.com/dair-ai/ML-Papers-Explained"
     },
     {
@@ -665,7 +670,7 @@
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "traversy-js-challenges",
-        "stars": 390,
+        "stars": 391,
         "url": "https://github.com/bradtraversy/traversy-js-challenges"
     },
     {
@@ -705,7 +710,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "actual",
-        "stars": 7728,
+        "stars": 7730,
         "url": "https://github.com/actualbudget/actual"
     },
     {
@@ -740,7 +745,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "Resume-Matcher",
-        "stars": 2484,
+        "stars": 2489,
         "url": "https://github.com/srbhr/Resume-Matcher"
     },
     {
@@ -775,7 +780,7 @@
         "language": "Kotlin",
         "languageColor": "#A97BFF",
         "name": "KernelSU",
-        "stars": 4476,
+        "stars": 4479,
         "url": "https://github.com/tiann/KernelSU"
     },
     {
@@ -815,7 +820,7 @@
         "language": "Java",
         "languageColor": "#b07219",
         "name": "Paper",
-        "stars": 7920,
+        "stars": 7921,
         "url": "https://github.com/PaperMC/Paper"
     }
 ]
