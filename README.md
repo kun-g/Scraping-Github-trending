@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [Fooocus](https://github.com/lllyasviel/Fooocus) | Focus on prompting and generating |
+| [godot](https://github.com/godotengine/godot) | Godot Engine – Multi-platform 2D and 3D game engine |
+| [nlw-ai-mastery](https://github.com/rocketseat-education/nlw-ai-mastery) |  |
 | [tldraw](https://github.com/tldraw/tldraw) | a very good whiteboard |
-| [makepad](https://github.com/makepad/makepad) | Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl |
-| [aidea-server](https://github.com/mylxsw/aidea-server) | AIdea 是一款支持 GPT 以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。 |
-| [facechain](https://github.com/modelscope/facechain) | FaceChain is a deep-learning toolchain for generating your Digital-Twin. |
-| [hello-algo](https://github.com/krahets/hello-algo) | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。 |
-| [aidea](https://github.com/mylxsw/aidea) | AIdea 是一款支持 GPT 以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。 |
-| [d2l-zh](https://github.com/d2l-ai/d2l-zh) | 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。 |
-| [machine-learning-zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp) | The code from the Machine Learning Bookcamp book and a free course based on the book |
-| [voice-changer](https://github.com/w-okada/voice-changer) | リアルタイムボイスチェンジャー Realtime Voice Changer |
+| [whisper-turbo](https://github.com/FL33TW00D/whisper-turbo) | Whisper on the web - turbocharged by your GPU 🏎️ |
+| [Fooocus](https://github.com/lllyasviel/Fooocus) | Focus on prompting and generating |
+| [bisheng](https://github.com/dataelement/bisheng) | Bisheng is an open LLM devops platform for next generation AI applications. |
+| [azurechat](https://github.com/microsoft/azurechat) | 🤖 💼 Azure Chat Solution Accelerator powered by Azure Open AI Service |
+| [exllamav2](https://github.com/turboderp/exllamav2) | A fast inference library for running LLMs locally on modern consumer-class GPUs |
+| [quiet](https://github.com/TryQuiet/quiet) | A private, p2p alternative to Slack and Discord built on Tor & IPFS |
+| [llama2.mojo](https://github.com/tairov/llama2.mojo) | Inference Llama 2 in one file of pure 🔥 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
