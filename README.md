@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [godot](https://github.com/godotengine/godot) | Godot Engine – Multi-platform 2D and 3D game engine |
-| [nlw-ai-mastery](https://github.com/rocketseat-education/nlw-ai-mastery) |  |
+| [instagraph](https://github.com/yoheinakajima/instagraph) | Converts text input or URL into knowledge graph and displays |
 | [tldraw](https://github.com/tldraw/tldraw) | a very good whiteboard |
-| [whisper-turbo](https://github.com/FL33TW00D/whisper-turbo) | Whisper on the web - turbocharged by your GPU 🏎️ |
+| [godot](https://github.com/godotengine/godot) | Godot Engine – Multi-platform 2D and 3D game engine |
 | [Fooocus](https://github.com/lllyasviel/Fooocus) | Focus on prompting and generating |
-| [bisheng](https://github.com/dataelement/bisheng) | Bisheng is an open LLM devops platform for next generation AI applications. |
-| [azurechat](https://github.com/microsoft/azurechat) | 🤖 💼 Azure Chat Solution Accelerator powered by Azure Open AI Service |
-| [exllamav2](https://github.com/turboderp/exllamav2) | A fast inference library for running LLMs locally on modern consumer-class GPUs |
-| [quiet](https://github.com/TryQuiet/quiet) | A private, p2p alternative to Slack and Discord built on Tor & IPFS |
-| [llama2.mojo](https://github.com/tairov/llama2.mojo) | Inference Llama 2 in one file of pure 🔥 |
+| [whisper-turbo](https://github.com/FL33TW00D/whisper-turbo) | Whisper on the web - turbocharged by your GPU 🏎️ |
+| [keras](https://github.com/keras-team/keras) | Deep Learning for humans |
+| [d2l-zh](https://github.com/d2l-ai/d2l-zh) | 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。 |
+| [12306](https://github.com/testerSunshine/12306) | 12306智能刷票，订票 |
+| [godot-demo-projects](https://github.com/godotengine/godot-demo-projects) | Demonstration and Template Projects |
+| [pygraft](https://github.com/nicolas-hbt/pygraft) | Configurable Generation of Schemas and Knowledge Graphs at Your Fingertips |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
