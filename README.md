@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [instagraph](https://github.com/yoheinakajima/instagraph) | Converts text input or URL into knowledge graph and displays |
-| [tldraw](https://github.com/tldraw/tldraw) | a very good whiteboard |
 | [godot](https://github.com/godotengine/godot) | Godot Engine – Multi-platform 2D and 3D game engine |
-| [Fooocus](https://github.com/lllyasviel/Fooocus) | Focus on prompting and generating |
-| [whisper-turbo](https://github.com/FL33TW00D/whisper-turbo) | Whisper on the web - turbocharged by your GPU 🏎️ |
-| [keras](https://github.com/keras-team/keras) | Deep Learning for humans |
-| [d2l-zh](https://github.com/d2l-ai/d2l-zh) | 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。 |
+| [instagraph](https://github.com/yoheinakajima/instagraph) | Converts text input or URL into knowledge graph and displays |
+| [iotdb](https://github.com/apache/iotdb) | Apache IoTDB |
+| [pandora](https://github.com/zhile-io/pandora) | 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT client that lets you breathe freely. |
+| [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) | The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++ |
 | [12306](https://github.com/testerSunshine/12306) | 12306智能刷票，订票 |
-| [godot-demo-projects](https://github.com/godotengine/godot-demo-projects) | Demonstration and Template Projects |
-| [pygraft](https://github.com/nicolas-hbt/pygraft) | Configurable Generation of Schemas and Knowledge Graphs at Your Fingertips |
+| [tldraw](https://github.com/tldraw/tldraw) | a very good whiteboard |
+| [libsodium](https://github.com/jedisct1/libsodium) | A modern, portable, easy to use crypto library. |
+| [grpc](https://github.com/grpc/grpc) | The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#) |
+| [llm-applications](https://github.com/ray-project/llm-applications) | A comprehensive guide to building RAG-based LLM applications for production. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
