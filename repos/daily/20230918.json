@@ -1,0 +1,987 @@
+[
+    {
+        "author": "coqui-ai",
+        "avatar": "https://github.com/coqui-ai.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1402048",
+                "href": "https://github.com/erogol",
+                "username": "erogol"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/28763586",
+                "href": "https://github.com/Edresson",
+                "username": "Edresson"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/17219561",
+                "href": "https://github.com/WeberJulian",
+                "username": "WeberJulian"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6319070",
+                "href": "https://github.com/lexkoro",
+                "username": "lexkoro"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1107341",
+                "href": "https://github.com/twerkmeister",
+                "username": "twerkmeister"
+            }
+        ],
+        "currentPeriodStars": 107,
+        "description": "\ud83d\udc38\ud83d\udcac - a deep learning toolkit for Text-to-Speech, battle-tested in research and production",
+        "forks": 1988,
+        "fullname": "coqui-ai/TTS",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "TTS",
+        "stars": 15774,
+        "url": "https://github.com/coqui-ai/TTS"
+    },
+    {
+        "author": "aiwaves-cn",
+        "avatar": "https://github.com/aiwaves-cn.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/109561120",
+                "href": "https://github.com/jianghuyihei",
+                "username": "jianghuyihei"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/63695429",
+                "href": "https://github.com/callanwu",
+                "username": "callanwu"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/65744560",
+                "href": "https://github.com/MikeDean2367",
+                "username": "MikeDean2367"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/38269460",
+                "href": "https://github.com/EleanorJiang",
+                "username": "EleanorJiang"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/31246854",
+                "href": "https://github.com/MichaelZhouwang",
+                "username": "MichaelZhouwang"
+            }
+        ],
+        "currentPeriodStars": 95,
+        "description": "An Open-source Framework for Autonomous Language Agents",
+        "forks": 42,
+        "fullname": "aiwaves-cn/agents",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "agents",
+        "stars": 823,
+        "url": "https://github.com/aiwaves-cn/agents"
+    },
+    {
+        "author": "isocpp",
+        "avatar": "https://github.com/isocpp.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/11031650",
+                "href": "https://github.com/gdr-at-ms",
+                "username": "gdr-at-ms"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1801526",
+                "href": "https://github.com/hsutter",
+                "username": "hsutter"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1525116",
+                "href": "https://github.com/tkruse",
+                "username": "tkruse"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/10933044",
+                "href": "https://github.com/BjarneStroustrup",
+                "username": "BjarneStroustrup"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/9330739",
+                "href": "https://github.com/cubbimew",
+                "username": "cubbimew"
+            }
+        ],
+        "currentPeriodStars": 118,
+        "description": "The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++",
+        "forks": 5279,
+        "fullname": "isocpp/CppCoreGuidelines",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "CppCoreGuidelines",
+        "stars": 39084,
+        "url": "https://github.com/isocpp/CppCoreGuidelines"
+    },
+    {
+        "author": "godotengine",
+        "avatar": "https://github.com/godotengine.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4701338",
+                "href": "https://github.com/akien-mga",
+                "username": "akien-mga"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6265307",
+                "href": "https://github.com/reduz",
+                "username": "reduz"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/180032",
+                "href": "https://github.com/Calinou",
+                "username": "Calinou"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3036176",
+                "href": "https://github.com/Chaosus",
+                "username": "Chaosus"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/11782833",
+                "href": "https://github.com/YuriSizov",
+                "username": "YuriSizov"
+            }
+        ],
+        "currentPeriodStars": 1740,
+        "description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine",
+        "forks": 14127,
+        "fullname": "godotengine/godot",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "name": "godot",
+        "stars": 70416,
+        "url": "https://github.com/godotengine/godot"
+    },
+    {
+        "author": "godotengine",
+        "avatar": "https://github.com/godotengine.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4701338",
+                "href": "https://github.com/akien-mga",
+                "username": "akien-mga"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1654763",
+                "href": "https://github.com/mhilbrunner",
+                "username": "mhilbrunner"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/180032",
+                "href": "https://github.com/Calinou",
+                "username": "Calinou"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/12694995",
+                "href": "https://github.com/NathanLovato",
+                "username": "NathanLovato"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6080368",
+                "href": "https://github.com/skyace65",
+                "username": "skyace65"
+            }
+        ],
+        "currentPeriodStars": 25,
+        "description": "Godot Engine official documentation",
+        "forks": 2525,
+        "fullname": "godotengine/godot-docs",
+        "language": "reStructuredText",
+        "languageColor": "#141414",
+        "name": "godot-docs",
+        "stars": 2686,
+        "url": "https://github.com/godotengine/godot-docs"
+    },
+    {
+        "author": "FlaxEngine",
+        "avatar": "https://github.com/FlaxEngine.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3464853",
+                "href": "https://github.com/mafiesto4",
+                "username": "mafiesto4"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7458848",
+                "href": "https://github.com/jb-perrier",
+                "username": "jb-perrier"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/71274967",
+                "href": "https://github.com/Tryibion",
+                "username": "Tryibion"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4064397",
+                "href": "https://github.com/GoaLitiuM",
+                "username": "GoaLitiuM"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/79365912",
+                "href": "https://github.com/RuanLucasGD",
+                "username": "RuanLucasGD"
+            }
+        ],
+        "currentPeriodStars": 45,
+        "description": "Flax Engine \u2013 multi-platform 3D game engine",
+        "forks": 436,
+        "fullname": "FlaxEngine/FlaxEngine",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "name": "FlaxEngine",
+        "stars": 4450,
+        "url": "https://github.com/FlaxEngine/FlaxEngine"
+    },
+    {
+        "author": "yoheinakajima",
+        "avatar": "https://github.com/yoheinakajima.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1701418",
+                "href": "https://github.com/yoheinakajima",
+                "username": "yoheinakajima"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/10481417",
+                "href": "https://github.com/shepherd-06",
+                "username": "shepherd-06"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/80502715",
+                "href": "https://github.com/prasantpoudel",
+                "username": "prasantpoudel"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1207522",
+                "href": "https://github.com/alexweberk",
+                "username": "alexweberk"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/48438739",
+                "href": "https://github.com/shashankshet",
+                "username": "shashankshet"
+            }
+        ],
+        "currentPeriodStars": 561,
+        "description": "Converts text input or URL into knowledge graph and displays",
+        "forks": 187,
+        "fullname": "yoheinakajima/instagraph",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "instagraph",
+        "stars": 2082,
+        "url": "https://github.com/yoheinakajima/instagraph"
+    },
+    {
+        "author": "stride3d",
+        "avatar": "https://github.com/stride3d.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/527565",
+                "href": "https://github.com/xen2",
+                "username": "xen2"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5742236",
+                "href": "https://github.com/Eideren",
+                "username": "Eideren"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1094716",
+                "href": "https://github.com/tebjan",
+                "username": "tebjan"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3499539",
+                "href": "https://github.com/Aggror",
+                "username": "Aggror"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/10709060",
+                "href": "https://github.com/manio143",
+                "username": "manio143"
+            }
+        ],
+        "currentPeriodStars": 46,
+        "description": "Stride Game Engine (formerly Xenko)",
+        "forks": 792,
+        "fullname": "stride3d/stride",
+        "language": "C#",
+        "languageColor": "#178600",
+        "name": "stride",
+        "stars": 4982,
+        "url": "https://github.com/stride3d/stride"
+    },
+    {
+        "author": "nuejs",
+        "avatar": "https://github.com/nuejs.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/169330",
+                "href": "https://github.com/tipiirai",
+                "username": "tipiirai"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1742235",
+                "href": "https://github.com/byte-bandit",
+                "username": "byte-bandit"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/48035324",
+                "href": "https://github.com/joevtap",
+                "username": "joevtap"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/55241455",
+                "href": "https://github.com/JaberWiki",
+                "username": "JaberWiki"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/57585556",
+                "href": "https://github.com/PoleStarInTheSky",
+                "username": "PoleStarInTheSky"
+            }
+        ],
+        "currentPeriodStars": 157,
+        "description": "Build user interfaces with 10x less code. Alternative to React, Vue, and Svelte",
+        "forks": 27,
+        "fullname": "nuejs/nuejs",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "name": "nuejs",
+        "stars": 1075,
+        "url": "https://github.com/nuejs/nuejs"
+    },
+    {
+        "author": "raysan5",
+        "avatar": "https://github.com/raysan5.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5766837",
+                "href": "https://github.com/raysan5",
+                "username": "raysan5"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5204368",
+                "href": "https://github.com/a3f",
+                "username": "a3f"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/10688349",
+                "href": "https://github.com/victorfisac",
+                "username": "victorfisac"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1859864",
+                "href": "https://github.com/kd7tck",
+                "username": "kd7tck"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/322174",
+                "href": "https://github.com/JeffM2501",
+                "username": "JeffM2501"
+            }
+        ],
+        "currentPeriodStars": 40,
+        "description": "A simple and easy-to-use library to enjoy videogames programming",
+        "forks": 1682,
+        "fullname": "raysan5/raylib",
+        "language": "C",
+        "languageColor": "#555555",
+        "name": "raylib",
+        "stars": 15130,
+        "url": "https://github.com/raysan5/raylib"
+    },
+    {
+        "author": "godotengine",
+        "avatar": "https://github.com/godotengine.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4701338",
+                "href": "https://github.com/akien-mga",
+                "username": "akien-mga"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5209613",
+                "href": "https://github.com/karroffel",
+                "username": "karroffel"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1945449",
+                "href": "https://github.com/BastiaanOlij",
+                "username": "BastiaanOlij"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1311555",
+                "href": "https://github.com/Zylann",
+                "username": "Zylann"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1687918",
+                "href": "https://github.com/Faless",
+                "username": "Faless"
+            }
+        ],
+        "currentPeriodStars": 8,
+        "description": "C++ bindings for the Godot script API",
+        "forks": 376,
+        "fullname": "godotengine/godot-cpp",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "name": "godot-cpp",
+        "stars": 1049,
+        "url": "https://github.com/godotengine/godot-cpp"
+    },
+    {
+        "author": "sxyazi",
+        "avatar": "https://github.com/sxyazi.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/17523360",
+                "href": "https://github.com/sxyazi",
+                "username": "sxyazi"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/17216317",
+                "href": "https://github.com/g-plane",
+                "username": "g-plane"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/20698483",
+                "href": "https://github.com/XYenon",
+                "username": "XYenon"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/41675306",
+                "href": "https://github.com/Eric-Song-Nop",
+                "username": "Eric-Song-Nop"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/65269574",
+                "href": "https://github.com/fzdwx",
+                "username": "fzdwx"
+            }
+        ],
+        "currentPeriodStars": 377,
+        "description": "\u26a1\ufe0f Blazing fast terminal file manager written in Rust, based on async I/O.",
+        "forks": 30,
+        "fullname": "sxyazi/yazi",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "name": "yazi",
+        "stars": 1618,
+        "url": "https://github.com/sxyazi/yazi"
+    },
+    {
+        "author": "lodash",
+        "avatar": "https://github.com/lodash.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4303",
+                "href": "https://github.com/jdalton",
+                "username": "jdalton"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4732",
+                "href": "https://github.com/jashkenas",
+                "username": "jashkenas"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1199350",
+                "href": "https://github.com/falsyvalues",
+                "username": "falsyvalues"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/14790466",
+                "href": "https://github.com/greenkeeperio-bot",
+                "username": "greenkeeperio-bot"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/813865",
+                "href": "https://github.com/bnjmnt4n",
+                "username": "bnjmnt4n"
+            }
+        ],
+        "currentPeriodStars": 83,
+        "description": "A modern JavaScript utility library delivering modularity, performance, & extras.",
+        "forks": 7075,
+        "fullname": "lodash/lodash",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "name": "lodash",
+        "stars": 57303,
+        "url": "https://github.com/lodash/lodash"
+    },
+    {
+        "author": "TheCherno",
+        "avatar": "https://github.com/TheCherno.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1475290",
+                "href": "https://github.com/TheCherno",
+                "username": "TheCherno"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/26593477",
+                "href": "https://github.com/LovelySanta",
+                "username": "LovelySanta"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/26383905",
+                "href": "https://github.com/CybernetHacker14",
+                "username": "CybernetHacker14"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/32076082",
+                "href": "https://github.com/0xIsho",
+                "username": "0xIsho"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2090532",
+                "href": "https://github.com/dr01d3k4",
+                "username": "dr01d3k4"
+            }
+        ],
+        "currentPeriodStars": 10,
+        "description": "Hazel Engine",
+        "forks": 1410,
+        "fullname": "TheCherno/Hazel",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "name": "Hazel",
+        "stars": 10232,
+        "url": "https://github.com/TheCherno/Hazel"
+    },
+    {
+        "author": "kholia",
+        "avatar": "https://github.com/kholia.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/79528",
+                "href": "https://github.com/kholia",
+                "username": "kholia"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2706884",
+                "href": "https://github.com/ink-splatters",
+                "username": "ink-splatters"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1921411",
+                "href": "https://github.com/thenickdude",
+                "username": "thenickdude"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3248",
+                "href": "https://github.com/zimbatm",
+                "username": "zimbatm"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/43924",
+                "href": "https://github.com/cynthia",
+                "username": "cynthia"
+            }
+        ],
+        "currentPeriodStars": 14,
+        "description": "Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey + Ventura support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.",
+        "forks": 1659,
+        "fullname": "kholia/OSX-KVM",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "OSX-KVM",
+        "stars": 16845,
+        "url": "https://github.com/kholia/OSX-KVM"
+    },
+    {
+        "author": "tldraw",
+        "avatar": "https://github.com/tldraw.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/23072548",
+                "href": "https://github.com/steveruizok",
+                "username": "steveruizok"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/15892272",
+                "href": "https://github.com/TodePond",
+                "username": "TodePond"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/46365844",
+                "href": "https://github.com/judicaelandria",
+                "username": "judicaelandria"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1489520",
+                "href": "https://github.com/SomeHats",
+                "username": "SomeHats"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1242537",
+                "href": "https://github.com/ds300",
+                "username": "ds300"
+            }
+        ],
+        "currentPeriodStars": 316,
+        "description": "a very good whiteboard",
+        "forks": 1106,
+        "fullname": "tldraw/tldraw",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "tldraw",
+        "stars": 19789,
+        "url": "https://github.com/tldraw/tldraw"
+    },
+    {
+        "author": "bevyengine",
+        "avatar": "https://github.com/bevyengine.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2694663",
+                "href": "https://github.com/cart",
+                "username": "cart"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8672791",
+                "href": "https://github.com/mockersf",
+                "username": "mockersf"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3579909",
+                "href": "https://github.com/alice-i-cecile",
+                "username": "alice-i-cecile"
+            }
+        ],
+        "currentPeriodStars": 61,
+        "description": "A refreshingly simple data-driven game engine built in Rust",
+        "forks": 2609,
+        "fullname": "bevyengine/bevy",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "name": "bevy",
+        "stars": 26084,
+        "url": "https://github.com/bevyengine/bevy"
+    },
+    {
+        "author": "DroidKaigi",
+        "avatar": "https://github.com/DroidKaigi.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1386930",
+                "href": "https://github.com/takahirom",
+                "username": "takahirom"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/13657682",
+                "href": "https://github.com/Corvus400",
+                "username": "Corvus400"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/30540303",
+                "href": "https://github.com/ry-itto",
+                "username": "ry-itto"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/32740480",
+                "href": "https://github.com/RyuNen344",
+                "username": "RyuNen344"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/51113946",
+                "href": "https://github.com/momomomo111",
+                "username": "momomomo111"
+            }
+        ],
+        "currentPeriodStars": 4,
+        "description": "The Official Conference App for DroidKaigi 2023",
+        "forks": 193,
+        "fullname": "DroidKaigi/conference-app-2023",
+        "language": "Kotlin",
+        "languageColor": "#A97BFF",
+        "name": "conference-app-2023",
+        "stars": 497,
+        "url": "https://github.com/DroidKaigi/conference-app-2023"
+    },
+    {
+        "author": "godotengine",
+        "avatar": "https://github.com/godotengine.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1646875",
+                "href": "https://github.com/aaronfranke",
+                "username": "aaronfranke"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4701338",
+                "href": "https://github.com/akien-mga",
+                "username": "akien-mga"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6265307",
+                "href": "https://github.com/reduz",
+                "username": "reduz"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/180032",
+                "href": "https://github.com/Calinou",
+                "username": "Calinou"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/25082678",
+                "href": "https://github.com/TwistedTwigleg",
+                "username": "TwistedTwigleg"
+            }
+        ],
+        "currentPeriodStars": 79,
+        "description": "Demonstration and Template Projects",
+        "forks": 1335,
+        "fullname": "godotengine/godot-demo-projects",
+        "language": "GDScript",
+        "languageColor": "#355570",
+        "name": "godot-demo-projects",
+        "stars": 3826,
+        "url": "https://github.com/godotengine/godot-demo-projects"
+    },
+    {
+        "author": "MarlinFirmware",
+        "avatar": "https://github.com/MarlinFirmware.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/698003",
+                "href": "https://github.com/thinkyhead",
+                "username": "thinkyhead"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/882374",
+                "href": "https://github.com/ErikZalm",
+                "username": "ErikZalm"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/211931",
+                "href": "https://github.com/AnHardt",
+                "username": "AnHardt"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/530024",
+                "href": "https://github.com/ellensp",
+                "username": "ellensp"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3684609",
+                "href": "https://github.com/GMagician",
+                "username": "GMagician"
+            }
+        ],
+        "currentPeriodStars": 5,
+        "description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
+        "forks": 18601,
+        "fullname": "MarlinFirmware/Marlin",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "name": "Marlin",
+        "stars": 15240,
+        "url": "https://github.com/MarlinFirmware/Marlin"
+    },
+    {
+        "author": "ethereum-lists",
+        "avatar": "https://github.com/ethereum-lists.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/111600",
+                "href": "https://github.com/ligi",
+                "username": "ligi"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/10136079",
+                "href": "https://github.com/pedrouid",
+                "username": "pedrouid"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/26237289",
+                "href": "https://github.com/3eph1r0th",
+                "username": "3eph1r0th"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/88942434",
+                "href": "https://github.com/solidityx",
+                "username": "solidityx"
+            }
+        ],
+        "currentPeriodStars": 4,
+        "description": "provides metadata for chains",
+        "forks": 5209,
+        "fullname": "ethereum-lists/chains",
+        "language": "Kotlin",
+        "languageColor": "#A97BFF",
+        "name": "chains",
+        "stars": 6859,
+        "url": "https://github.com/ethereum-lists/chains"
+    },
+    {
+        "author": "commaai",
+        "avatar": "https://github.com/commaai.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8762862",
+                "href": "https://github.com/adeebshihadeh",
+                "username": "adeebshihadeh"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1314752",
+                "href": "https://github.com/pd0wm",
+                "username": "pd0wm"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/25857203",
+                "href": "https://github.com/sshane",
+                "username": "sshane"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/27770",
+                "href": "https://github.com/deanlee",
+                "username": "deanlee"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6804392",
+                "href": "https://github.com/haraschax",
+                "username": "haraschax"
+            }
+        ],
+        "currentPeriodStars": 11,
+        "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.",
+        "forks": 7638,
+        "fullname": "commaai/openpilot",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "openpilot",
+        "stars": 41583,
+        "url": "https://github.com/commaai/openpilot"
+    },
+    {
+        "author": "public-apis",
+        "avatar": "https://github.com/public-apis.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/50463866",
+                "href": "https://github.com/matheusfelipeog",
+                "username": "matheusfelipeog"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/15134885",
+                "href": "https://github.com/davemachado",
+                "username": "davemachado"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/36134699",
+                "href": "https://github.com/pawelborkar",
+                "username": "pawelborkar"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/246103",
+                "href": "https://github.com/jbrooksuk",
+                "username": "jbrooksuk"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1914165",
+                "href": "https://github.com/marekdano",
+                "username": "marekdano"
+            }
+        ],
+        "currentPeriodStars": 72,
+        "description": "A collective list of free APIs",
+        "forks": 29199,
+        "fullname": "public-apis/public-apis",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "public-apis",
+        "stars": 255983,
+        "url": "https://github.com/public-apis/public-apis"
+    },
+    {
+        "author": "Kr328",
+        "avatar": "https://github.com/Kr328.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/39107975",
+                "href": "https://github.com/Kr328",
+                "username": "Kr328"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/10363352",
+                "href": "https://github.com/Goooler",
+                "username": "Goooler"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3352585",
+                "href": "https://github.com/okhowang",
+                "username": "okhowang"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3817102",
+                "href": "https://github.com/apevogoci",
+                "username": "apevogoci"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/16817202",
+                "href": "https://github.com/TragicLifeHu",
+                "username": "TragicLifeHu"
+            }
+        ],
+        "currentPeriodStars": 33,
+        "description": "A rule-based tunnel for Android.",
+        "forks": 2992,
+        "fullname": "Kr328/ClashForAndroid",
+        "language": "Kotlin",
+        "languageColor": "#A97BFF",
+        "name": "ClashForAndroid",
+        "stars": 27345,
+        "url": "https://github.com/Kr328/ClashForAndroid"
+    },
+    {
+        "author": "JetBrains",
+        "avatar": "https://github.com/JetBrains.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5963351",
+                "href": "https://github.com/igordmn",
+                "username": "igordmn"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/25667761",
+                "href": "https://github.com/Schahen",
+                "username": "Schahen"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/654232",
+                "href": "https://github.com/AlexeyTsvetkov",
+                "username": "AlexeyTsvetkov"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2600522",
+                "href": "https://github.com/olonho",
+                "username": "olonho"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7372778",
+                "href": "https://github.com/eymar",
+                "username": "eymar"
+            }
+        ],
+        "currentPeriodStars": 16,
+        "description": "Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.",
+        "forks": 974,
+        "fullname": "JetBrains/compose-multiplatform",
+        "language": "Kotlin",
+        "languageColor": "#A97BFF",
+        "name": "compose-multiplatform",
+        "stars": 13224,
+        "url": "https://github.com/JetBrains/compose-multiplatform"
+    }
+]

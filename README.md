@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [godot](https://github.com/godotengine/godot) | Godot Engine – Multi-platform 2D and 3D game engine |
-| [instagraph](https://github.com/yoheinakajima/instagraph) | Converts text input or URL into knowledge graph and displays |
-| [iotdb](https://github.com/apache/iotdb) | Apache IoTDB |
-| [pandora](https://github.com/zhile-io/pandora) | 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT client that lets you breathe freely. |
+| [TTS](https://github.com/coqui-ai/TTS) | 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production |
+| [agents](https://github.com/aiwaves-cn/agents) | An Open-source Framework for Autonomous Language Agents |
 | [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) | The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++ |
-| [12306](https://github.com/testerSunshine/12306) | 12306智能刷票，订票 |
-| [tldraw](https://github.com/tldraw/tldraw) | a very good whiteboard |
-| [libsodium](https://github.com/jedisct1/libsodium) | A modern, portable, easy to use crypto library. |
-| [grpc](https://github.com/grpc/grpc) | The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#) |
-| [llm-applications](https://github.com/ray-project/llm-applications) | A comprehensive guide to building RAG-based LLM applications for production. |
+| [godot](https://github.com/godotengine/godot) | Godot Engine – Multi-platform 2D and 3D game engine |
+| [godot-docs](https://github.com/godotengine/godot-docs) | Godot Engine official documentation |
+| [FlaxEngine](https://github.com/FlaxEngine/FlaxEngine) | Flax Engine – multi-platform 3D game engine |
+| [instagraph](https://github.com/yoheinakajima/instagraph) | Converts text input or URL into knowledge graph and displays |
+| [stride](https://github.com/stride3d/stride) | Stride Game Engine (formerly Xenko) |
+| [nuejs](https://github.com/nuejs/nuejs) | Build user interfaces with 10x less code. Alternative to React, Vue, and Svelte |
+| [raylib](https://github.com/raysan5/raylib) | A simple and easy-to-use library to enjoy videogames programming |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
