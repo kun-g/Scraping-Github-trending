@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [TTS](https://github.com/coqui-ai/TTS) | 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production |
-| [agents](https://github.com/aiwaves-cn/agents) | An Open-source Framework for Autonomous Language Agents |
-| [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) | The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++ |
 | [godot](https://github.com/godotengine/godot) | Godot Engine – Multi-platform 2D and 3D game engine |
-| [godot-docs](https://github.com/godotengine/godot-docs) | Godot Engine official documentation |
-| [FlaxEngine](https://github.com/FlaxEngine/FlaxEngine) | Flax Engine – multi-platform 3D game engine |
-| [instagraph](https://github.com/yoheinakajima/instagraph) | Converts text input or URL into knowledge graph and displays |
+| [TTS](https://github.com/coqui-ai/TTS) | 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production |
+| [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) | The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++ |
+| [MonoGame](https://github.com/MonoGame/MonoGame) | One framework for creating powerful cross-platform games. |
+| [agents](https://github.com/aiwaves-cn/agents) | An Open-source Framework for Autonomous Language Agents |
+| [pandora](https://github.com/zhile-io/pandora) | 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT client that lets you breathe freely. |
+| [heissepreise](https://github.com/badlogic/heissepreise) | Jo eh. |
+| [lodash](https://github.com/lodash/lodash) | A modern JavaScript utility library delivering modularity, performance, & extras. |
+| [klipper](https://github.com/Klipper3d/klipper) | Klipper is a 3d-printer firmware |
 | [stride](https://github.com/stride3d/stride) | Stride Game Engine (formerly Xenko) |
-| [nuejs](https://github.com/nuejs/nuejs) | Build user interfaces with 10x less code. Alternative to React, Vue, and Svelte |
-| [raylib](https://github.com/raysan5/raylib) | A simple and easy-to-use library to enjoy videogames programming |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
