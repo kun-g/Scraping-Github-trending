@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [godot](https://github.com/godotengine/godot) | Godot Engine – Multi-platform 2D and 3D game engine |
 | [TTS](https://github.com/coqui-ai/TTS) | 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production |
-| [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) | The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++ |
-| [MonoGame](https://github.com/MonoGame/MonoGame) | One framework for creating powerful cross-platform games. |
+| [Rerender_A_Video](https://github.com/williamyang1991/Rerender_A_Video) | Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation |
 | [agents](https://github.com/aiwaves-cn/agents) | An Open-source Framework for Autonomous Language Agents |
-| [pandora](https://github.com/zhile-io/pandora) | 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT client that lets you breathe freely. |
-| [heissepreise](https://github.com/badlogic/heissepreise) | Jo eh. |
-| [lodash](https://github.com/lodash/lodash) | A modern JavaScript utility library delivering modularity, performance, & extras. |
-| [klipper](https://github.com/Klipper3d/klipper) | Klipper is a 3d-printer firmware |
-| [stride](https://github.com/stride3d/stride) | Stride Game Engine (formerly Xenko) |
+| [nuejs](https://github.com/nuejs/nuejs) | Build user interfaces with cleaner code. Alternative to React, Vue, and Svelte |
+| [plane](https://github.com/makeplane/plane) | 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. |
+| [memos](https://github.com/usememos/memos) | A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts. |
+| [NExT-GPT](https://github.com/NExT-GPT/NExT-GPT) | Code and models for NExT-GPT: Any-to-Any Multimodal Large Language Model |
+| [90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) | This repository contains a 90-day cybersecurity study plan, along with resources and materials for learning various cybersecurity concepts and technologies. The plan is organized into daily tasks, covering topics such as Network+, Security+, Linux, Python, Traffic Analysis, Git, ELK, AWS, Azure, and Hacking. The repository also includes a `LEARN.md |
+| [soybean-admin](https://github.com/honghuangdc/soybean-admin) | A fresh and elegant admin template, based on Vue3,Vite3,TypeScript,NaiveUI and UnoCSS [一个基于Vue3、Vite3、TypeScript、NaiveUI 和 UnoCSS的清新优雅的中后台模版] |
+| [meshery](https://github.com/meshery/meshery) | Meshery, the cloud native manager |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
