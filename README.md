@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [hyperdx](https://github.com/hyperdxio/hyperdx) | Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors. |
+| [opentofu](https://github.com/opentofu/opentofu) | OpenTofu lets you declaratively manage your cloud infrastructure. |
+| [unifree](https://github.com/ProjectUnifree/unifree) |  |
 | [Rerender_A_Video](https://github.com/williamyang1991/Rerender_A_Video) | [SIGGRAPH Asia 2023] Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation |
-| [NExT-GPT](https://github.com/NExT-GPT/NExT-GPT) | Code and models for NExT-GPT: Any-to-Any Multimodal Large Language Model |
-| [plane](https://github.com/makeplane/plane) | 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. |
-| [beyla](https://github.com/grafana/beyla) | eBPF-based autoinstrumentation of HTTP and HTTPS services |
+| [PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! |
 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) | Clone a voice in 5 seconds to generate arbitrary speech in real-time |
 | [mastodon](https://github.com/mastodon/mastodon) | Your self-hosted, globally interconnected microblogging community |
-| [next13-lms-platform](https://github.com/AntonioErdeljac/next13-lms-platform) |  |
-| [tabby](https://github.com/TabbyML/tabby) | Self-hosted AI coding assistant |
-| [kamal](https://github.com/basecamp/kamal) | Deploy web apps anywhere. |
+| [NExT-GPT](https://github.com/NExT-GPT/NExT-GPT) | Code and models for NExT-GPT: Any-to-Any Multimodal Large Language Model |
+| [LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List) | The paper list of the 86-page paper "The Rise and Potential of Large Language Model Based Agents: A Survey" by Zhiheng Xi et al. |
+| [ACE_Framework](https://github.com/daveshap/ACE_Framework) | Public repo for my latest and greatest cognitive architecture ACE (Autonomous Cognitive Entity) Framework |
+| [TTS](https://github.com/coqui-ai/TTS) | 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
