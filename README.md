@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [hello-algo](https://github.com/krahets/hello-algo) | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。 |
 | [opentofu](https://github.com/opentofu/opentofu) | OpenTofu lets you declaratively manage your cloud infrastructure. |
-| [unifree](https://github.com/ProjectUnifree/unifree) |  |
-| [Rerender_A_Video](https://github.com/williamyang1991/Rerender_A_Video) | [SIGGRAPH Asia 2023] Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation |
-| [PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! |
+| [flask](https://github.com/pallets/flask) | The Python micro framework for building web applications. |
 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) | Clone a voice in 5 seconds to generate arbitrary speech in real-time |
-| [mastodon](https://github.com/mastodon/mastodon) | Your self-hosted, globally interconnected microblogging community |
-| [NExT-GPT](https://github.com/NExT-GPT/NExT-GPT) | Code and models for NExT-GPT: Any-to-Any Multimodal Large Language Model |
+| [The-Grand-Complete-Data-Science-Materials](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials) |  |
+| [gitness](https://github.com/harness/gitness) | Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery. |
+| [swift-testing](https://github.com/apple/swift-testing) |  |
+| [PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! |
 | [LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List) | The paper list of the 86-page paper "The Rise and Potential of Large Language Model Based Agents: A Survey" by Zhiheng Xi et al. |
-| [ACE_Framework](https://github.com/daveshap/ACE_Framework) | Public repo for my latest and greatest cognitive architecture ACE (Autonomous Cognitive Entity) Framework |
-| [TTS](https://github.com/coqui-ai/TTS) | 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production |
+| [JetbrainKiller](https://github.com/tikkid/JetbrainKiller) | A new tool for unlimited 30-day trial of JetBrains series software, supporting the latest version. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
