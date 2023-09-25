@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [hello-algo](https://github.com/krahets/hello-algo) | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。 |
-| [opentofu](https://github.com/opentofu/opentofu) | OpenTofu lets you declaratively manage your cloud infrastructure. |
-| [flask](https://github.com/pallets/flask) | The Python micro framework for building web applications. |
+| [gosub-browser](https://github.com/jaytaph/gosub-browser) | A html5 tokenizer / parser that hopefully grow up to be a browser |
+| [ChatDev](https://github.com/OpenBMB/ChatDev) | Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration) |
 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) | Clone a voice in 5 seconds to generate arbitrary speech in real-time |
+| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
+| [paisa](https://github.com/ananthakumaran/paisa) | Paisa – Personal Finance Manager. demo: https://demo.paisa.fyi |
 | [The-Grand-Complete-Data-Science-Materials](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials) |  |
+| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
+| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
 | [gitness](https://github.com/harness/gitness) | Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery. |
-| [swift-testing](https://github.com/apple/swift-testing) |  |
-| [PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! |
-| [LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List) | The paper list of the 86-page paper "The Rise and Potential of Large Language Model Based Agents: A Survey" by Zhiheng Xi et al. |
-| [JetbrainKiller](https://github.com/tikkid/JetbrainKiller) | A new tool for unlimited 30-day trial of JetBrains series software, supporting the latest version. |
+| [LongLoRA](https://github.com/dvlab-research/LongLoRA) | Efficient long-context fine-tuning, supervised fine-tuning, LongQA dataset. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
