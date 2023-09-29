@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [gosub-browser](https://github.com/jaytaph/gosub-browser) | A html5 tokenizer / parser that hopefully grow up to be a browser. Discussions at https://github.com/jaytaph/gosub-browser/discussions |
-| [Qwen](https://github.com/QwenLM/Qwen) | The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud. |
-| [bindiff](https://github.com/google/bindiff) | Quickly find differences and similarities in disassembled code |
-| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
+| [javascript](https://github.com/airbnb/javascript) | JavaScript Style Guide |
+| [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity |
 | [ColossalAI](https://github.com/hpcaitech/ColossalAI) | Making large AI models cheaper, faster and more accessible |
-| [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | ⚡ Dynamically generated stats for your github readmes |
-| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
-| [valhalla](https://github.com/valhalla/valhalla) | Open Source Routing Engine for OpenStreetMap |
-| [ChatDev](https://github.com/OpenBMB/ChatDev) | Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration) |
-| [awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) | 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新 |
+| [abp](https://github.com/abpframework/abp) | Open Source Web Application Framework for ASP.NET Core. Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET and the ASP.NET Core platforms. Provides the fundamental infrastructure, production-ready startup templates, application modules, UI themes, tooling, guides and documentation. |
+| [maui](https://github.com/dotnet/maui) | .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop. |
+| [datalens](https://github.com/datalens-tech/datalens) | A modern, scalable analytics system |
+| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
+| [autogen](https://github.com/microsoft/autogen) | Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ |
+| [tiny-engine](https://github.com/opentiny/tiny-engine) | TinyEngine是一个低代码引擎，基于这个引擎可以构建或者开发出不同领域的低代码平台。 |
+| [ollama](https://github.com/jmorganca/ollama) | Get up and running with Llama 2 and other large language models locally |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
