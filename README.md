@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [javascript](https://github.com/airbnb/javascript) | JavaScript Style Guide |
-| [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity |
-| [ColossalAI](https://github.com/hpcaitech/ColossalAI) | Making large AI models cheaper, faster and more accessible |
-| [abp](https://github.com/abpframework/abp) | Open Source Web Application Framework for ASP.NET Core. Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET and the ASP.NET Core platforms. Provides the fundamental infrastructure, production-ready startup templates, application modules, UI themes, tooling, guides and documentation. |
-| [maui](https://github.com/dotnet/maui) | .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop. |
-| [datalens](https://github.com/datalens-tech/datalens) | A modern, scalable analytics system |
-| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
+| [mistral-src](https://github.com/mistralai/mistral-src) | Reference implementation of Mistral AI 7B v0.1 model. |
 | [autogen](https://github.com/microsoft/autogen) | Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ |
-| [tiny-engine](https://github.com/opentiny/tiny-engine) | TinyEngine是一个低代码引擎，基于这个引擎可以构建或者开发出不同领域的低代码平台。 |
-| [ollama](https://github.com/jmorganca/ollama) | Get up and running with Llama 2 and other large language models locally |
+| [javascript](https://github.com/airbnb/javascript) | JavaScript Style Guide |
+| [localstack](https://github.com/localstack/localstack) | 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline |
+| [wagtail](https://github.com/wagtail/wagtail) | A Django content management system focused on flexibility and user experience |
+| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
+| [ProPainter](https://github.com/sczhou/ProPainter) | [ICCV 2023] ProPainter: Improving Propagation and Transformer for Video Inpainting |
+| [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity |
+| [xenminer](https://github.com/jacklevin74/xenminer) |  |
+| [R3nzSkin](https://github.com/R3nzTheCodeGOD/R3nzSkin) | Skin changer for League of Legends (LOL) |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
