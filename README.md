@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [novu](https://github.com/novuhq/novu) | 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀 |
 | [autogen](https://github.com/microsoft/autogen) | Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ |
-| [mistral-src](https://github.com/mistralai/mistral-src) | Reference implementation of Mistral AI 7B v0.1 model. |
-| [plane](https://github.com/makeplane/plane) | 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. |
-| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
-| [bitcoin](https://github.com/bitcoin/bitcoin) | Bitcoin Core integration/staging tree |
 | [dreamgaussian](https://github.com/dreamgaussian/dreamgaussian) | Generative Gaussian Splatting for Efficient 3D Content Creation |
-| [OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) | Experience macOS just like before |
-| [JavaScript](https://github.com/TheAlgorithms/JavaScript) | Algorithms and Data Structures implemented in JavaScript for beginners, following best practices. |
-| [Sigma-Web-Dev-Course](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course) | Source Code for Sigma Web Development Course |
 | [appwrite](https://github.com/appwrite/appwrite) | Build like a team of hundreds_ |
+| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
+| [CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) | Clean Architecture Solution Template for ASP.NET Core |
+| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
+| [quill](https://github.com/joschan21/quill) | Quill - A Modern SaaS-Platform Built With Next.js 13 |
+| [bitcoin](https://github.com/bitcoin/bitcoin) | Bitcoin Core integration/staging tree |
+| [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
