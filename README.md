@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [appwrite](https://github.com/appwrite/appwrite) | Build like a team of hundreds_ |
+| [streaming-llm](https://github.com/mit-han-lab/streaming-llm) | Efficient Streaming Language Models with Attention Sinks |
 | [novu](https://github.com/novuhq/novu) | 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀 |
-| [ToolJet](https://github.com/ToolJet/ToolJet) | Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀 |
-| [JavaScript](https://github.com/TheAlgorithms/JavaScript) | Algorithms and Data Structures implemented in JavaScript for beginners, following best practices. |
+| [LazyVim](https://github.com/LazyVim/LazyVim) | Neovim config for the lazy |
+| [Starter-Kit-FPS](https://github.com/KenneyNL/Starter-Kit-FPS) |  |
 | [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
-| [rivet](https://github.com/Ironclad/rivet) | The open-source visual AI programming environment and TypeScript library |
-| [jellyfin](https://github.com/jellyfin/jellyfin) | The Free Software Media System |
-| [Batch-4-Introduction-to-C-Programming](https://github.com/phitronio/Batch-4-Introduction-to-C-Programming) |  |
-| [AD_Miner](https://github.com/Mazars-Tech/AD_Miner) | AD Miner is an Active Directory audit tool that leverages cypher queries to crunch data from the #Bloodhound graph database to uncover security weaknesses |
-| [jellyfin-web](https://github.com/jellyfin/jellyfin-web) | Web Client for Jellyfin |
+| [localpilot](https://github.com/danielgross/localpilot) |  |
+| [appwrite](https://github.com/appwrite/appwrite) | Build like a team of hundreds_ |
+| [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections. |
+| [OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) | Experience macOS just like before |
+| [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
