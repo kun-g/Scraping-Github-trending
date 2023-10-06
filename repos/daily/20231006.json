@@ -36,7 +36,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "appwrite",
-        "stars": 35870,
+        "stars": 35885,
         "url": "https://github.com/appwrite/appwrite"
     },
     {
@@ -71,12 +71,12 @@
         ],
         "currentPeriodStars": 399,
         "description": "Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. \ud83d\ude80",
-        "forks": 2216,
+        "forks": 2217,
         "fullname": "ToolJet/ToolJet",
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "ToolJet",
-        "stars": 22705,
+        "stars": 22718,
         "url": "https://github.com/ToolJet/ToolJet"
     },
     {
@@ -97,16 +97,21 @@
                 "avatar": "https://avatars.githubusercontent.com/u/19784632",
                 "href": "https://github.com/cosmojg",
                 "username": "cosmojg"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/37621491",
+                "href": "https://github.com/tomaarsen",
+                "username": "tomaarsen"
             }
         ],
         "currentPeriodStars": 1225,
         "description": "Efficient Streaming Language Models with Attention Sinks",
-        "forks": 171,
+        "forks": 172,
         "fullname": "mit-han-lab/streaming-llm",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "streaming-llm",
-        "stars": 3280,
+        "stars": 3294,
         "url": "https://github.com/mit-han-lab/streaming-llm"
     },
     {
@@ -126,7 +131,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "python-web",
-        "stars": 549,
+        "stars": 555,
         "url": "https://github.com/mouredev/python-web"
     },
     {
@@ -164,7 +169,7 @@
         "forks": 57637,
         "fullname": "EbookFoundation/free-programming-books",
         "name": "free-programming-books",
-        "stars": 299944,
+        "stars": 299946,
         "url": "https://github.com/EbookFoundation/free-programming-books"
     },
     {
@@ -244,7 +249,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "novu",
-        "stars": 28464,
+        "stars": 28472,
         "url": "https://github.com/novuhq/novu"
     },
     {
@@ -279,7 +284,7 @@
         "language": "C#",
         "languageColor": "#178600",
         "name": "CleanArchitecture",
-        "stars": 13511,
+        "stars": 13512,
         "url": "https://github.com/jasontaylordev/CleanArchitecture"
     },
     {
@@ -319,7 +324,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "OpenCore-Legacy-Patcher",
-        "stars": 8512,
+        "stars": 8513,
         "url": "https://github.com/dortania/OpenCore-Legacy-Patcher"
     },
     {
@@ -359,7 +364,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "openai-python",
-        "stars": 11665,
+        "stars": 11671,
         "url": "https://github.com/openai/openai-python"
     },
     {
@@ -399,7 +404,7 @@
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "bruno",
-        "stars": 3462,
+        "stars": 3466,
         "url": "https://github.com/usebruno/bruno"
     },
     {
@@ -429,7 +434,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "localpilot",
-        "stars": 1028,
+        "stars": 1029,
         "url": "https://github.com/danielgross/localpilot"
     },
     {
@@ -469,7 +474,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "superset",
-        "stars": 54488,
+        "stars": 54493,
         "url": "https://github.com/apache/superset"
     },
     {
@@ -507,7 +512,7 @@
         "forks": 21333,
         "fullname": "codecrafters-io/build-your-own-x",
         "name": "build-your-own-x",
-        "stars": 219903,
+        "stars": 219906,
         "url": "https://github.com/codecrafters-io/build-your-own-x"
     },
     {
@@ -547,7 +552,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "ckan",
-        "stars": 3999,
+        "stars": 4000,
         "url": "https://github.com/ckan/ckan"
     },
     {
@@ -582,7 +587,7 @@
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "Hacktoberfest2023",
-        "stars": 1191,
+        "stars": 1193,
         "url": "https://github.com/ossamamehmood/Hacktoberfest2023"
     },
     {
@@ -622,7 +627,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "whisperX",
-        "stars": 5501,
+        "stars": 5506,
         "url": "https://github.com/m-bain/whisperX"
     },
     {
@@ -642,7 +647,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "fontogen",
-        "stars": 280,
+        "stars": 284,
         "url": "https://github.com/SerCeMan/fontogen"
     },
     {
@@ -677,12 +682,12 @@
         ],
         "currentPeriodStars": 198,
         "description": "GPT-powered chat for documentation, chat with your documents",
-        "forks": 735,
+        "forks": 734,
         "fullname": "arc53/DocsGPT",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "DocsGPT",
-        "stars": 6920,
+        "stars": 6926,
         "url": "https://github.com/arc53/DocsGPT"
     },
     {
@@ -707,7 +712,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "aws-devops-zero-to-hero",
-        "stars": 2465,
+        "stars": 2468,
         "url": "https://github.com/iam-veeramalla/aws-devops-zero-to-hero"
     },
     {
@@ -747,7 +752,7 @@
         "language": "PHP",
         "languageColor": "#4F5D95",
         "name": "filament",
-        "stars": 9544,
+        "stars": 9547,
         "url": "https://github.com/filamentphp/filament"
     },
     {
@@ -867,7 +872,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "wasp",
-        "stars": 5806,
+        "stars": 5815,
         "url": "https://github.com/wasp-lang/wasp"
     },
     {
@@ -892,7 +897,7 @@
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "insomnium",
-        "stars": 876,
+        "stars": 881,
         "url": "https://github.com/ArchGPT/insomnium"
     }
 ]
