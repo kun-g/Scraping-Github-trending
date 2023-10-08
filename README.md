@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [DocsGPT](https://github.com/arc53/DocsGPT) | GPT-powered chat for documentation, chat with your documents |
-| [jvector](https://github.com/jbellis/jvector) | JVector: the most advanced embedded vector search engine |
-| [CVE-2023-4911](https://github.com/leesh3288/CVE-2023-4911) | PoC for CVE-2023-4911 |
-| [openai-python](https://github.com/openai/openai-python) | The official Python library for the OpenAI API |
-| [streaming-llm](https://github.com/mit-han-lab/streaming-llm) | Efficient Streaming Language Models with Attention Sinks |
+| [ChatDev](https://github.com/OpenBMB/ChatDev) | Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration) |
 | [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) | Dev tool that writes scalable apps from scratch while the developer oversees the implementation |
+| [ToolJet](https://github.com/ToolJet/ToolJet) | Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀 |
+| [bitmagnet](https://github.com/bitmagnet-io/bitmagnet) | A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration. |
+| [kestra](https://github.com/kestra-io/kestra) | Infinitely scalable, event-driven, language-agnostic orchestration and scheduling platform to manage millions of workflows declaratively in code. |
+| [DocsGPT](https://github.com/arc53/DocsGPT) | GPT-powered chat for documentation, chat with your documents |
+| [genai-stack](https://github.com/docker/genai-stack) | Langchain + Docker + Neo4j |
+| [jvector](https://github.com/jbellis/jvector) | JVector: the most advanced embedded vector search engine |
+| [openai-python](https://github.com/openai/openai-python) | The official Python library for the OpenAI API |
 | [ferrocene](https://github.com/ferrocene/ferrocene) | Source code of Ferrocene, safety-critical Rust toolchain |
-| [appwrite](https://github.com/appwrite/appwrite) | Build like a team of hundreds_ |
-| [vuetify](https://github.com/vuetifyjs/vuetify) | 🐉 Vue Component Framework |
-| [python-web](https://github.com/mouredev/python-web) | Curso para aprender desarrollo frontend Web con Python puro desde cero. Elaborado durante las emisiones en directo desde Twitch de MoureDev. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
