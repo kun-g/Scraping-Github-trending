@@ -36,7 +36,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "LLaVA",
-        "stars": 6754,
+        "stars": 6764,
         "url": "https://github.com/haotian-liu/LLaVA"
     },
     {
@@ -71,12 +71,12 @@
         ],
         "currentPeriodStars": 1130,
         "description": "Dev tool that writes scalable apps from scratch while the developer oversees the implementation",
-        "forks": 556,
+        "forks": 557,
         "fullname": "Pythagora-io/gpt-pilot",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "gpt-pilot",
-        "stars": 7247,
+        "stars": 7256,
         "url": "https://github.com/Pythagora-io/gpt-pilot"
     },
     {
@@ -111,12 +111,12 @@
         ],
         "currentPeriodStars": 1697,
         "description": "GPT-powered chat for documentation, chat with your documents",
-        "forks": 1028,
+        "forks": 1029,
         "fullname": "arc53/DocsGPT",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "DocsGPT",
-        "stars": 11096,
+        "stars": 11101,
         "url": "https://github.com/arc53/DocsGPT"
     },
     {
@@ -156,7 +156,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "stable-diffusion-webui",
-        "stars": 104940,
+        "stars": 104944,
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
@@ -181,7 +181,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "ToRA",
-        "stars": 227,
+        "stars": 231,
         "url": "https://github.com/microsoft/ToRA"
     },
     {
@@ -221,7 +221,7 @@
         "language": "Assembly",
         "languageColor": "#6E4C13",
         "name": "MalwareSourceCode",
-        "stars": 13850,
+        "stars": 13855,
         "url": "https://github.com/vxunderground/MalwareSourceCode"
     },
     {
@@ -232,6 +232,11 @@
                 "avatar": "https://avatars.githubusercontent.com/u/442933",
                 "href": "https://github.com/mgdigital",
                 "username": "mgdigital"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/279826",
+                "href": "https://github.com/NiklasBr",
+                "username": "NiklasBr"
             },
             {
                 "avatar": "https://avatars.githubusercontent.com/u/5025392",
@@ -251,7 +256,7 @@
         "language": "Go",
         "languageColor": "#00ADD8",
         "name": "bitmagnet",
-        "stars": 830,
+        "stars": 831,
         "url": "https://github.com/bitmagnet-io/bitmagnet"
     },
     {
@@ -291,7 +296,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "Langchain-Chatchat",
-        "stars": 16591,
+        "stars": 16592,
         "url": "https://github.com/chatchat-space/Langchain-Chatchat"
     },
     {
@@ -326,12 +331,12 @@
         ],
         "currentPeriodStars": 220,
         "description": "Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.",
-        "forks": 217,
+        "forks": 218,
         "fullname": "microsoft/promptflow",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "promptflow",
-        "stars": 3003,
+        "stars": 3006,
         "url": "https://github.com/microsoft/promptflow"
     },
     {
@@ -371,7 +376,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "Fooocus",
-        "stars": 13203,
+        "stars": 13205,
         "url": "https://github.com/lllyasviel/Fooocus"
     },
     {
@@ -399,9 +404,9 @@
                 "username": "pdevine"
             },
             {
-                "avatar": "https://avatars.githubusercontent.com/u/3325447",
-                "href": "https://github.com/mchiang0610",
-                "username": "mchiang0610"
+                "avatar": "https://avatars.githubusercontent.com/u/633681",
+                "href": "https://github.com/technovangelist",
+                "username": "technovangelist"
             }
         ],
         "currentPeriodStars": 157,
@@ -411,7 +416,7 @@
         "language": "Go",
         "languageColor": "#00ADD8",
         "name": "ollama",
-        "stars": 9169,
+        "stars": 9174,
         "url": "https://github.com/jmorganca/ollama"
     },
     {
@@ -451,7 +456,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "twenty",
-        "stars": 4408,
+        "stars": 4411,
         "url": "https://github.com/twentyhq/twenty"
     },
     {
@@ -491,7 +496,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "TTS",
-        "stars": 20231,
+        "stars": 20236,
         "url": "https://github.com/coqui-ai/TTS"
     },
     {
@@ -531,7 +536,7 @@
         "language": "Shell",
         "languageColor": "#89e051",
         "name": "termux-packages",
-        "stars": 11197,
+        "stars": 11199,
         "url": "https://github.com/termux/termux-packages"
     },
     {
@@ -571,7 +576,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "yt-dlp",
-        "stars": 57390,
+        "stars": 57391,
         "url": "https://github.com/yt-dlp/yt-dlp"
     },
     {
@@ -611,7 +616,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "review-app",
-        "stars": 111,
+        "stars": 112,
         "url": "https://github.com/piyushgarg-dev/review-app"
     },
     {
@@ -646,7 +651,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "ChatGPT-Next-Web",
-        "stars": 44980,
+        "stars": 44981,
         "url": "https://github.com/Yidadaa/ChatGPT-Next-Web"
     },
     {
@@ -686,7 +691,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "ant-design",
-        "stars": 87834,
+        "stars": 87838,
         "url": "https://github.com/ant-design/ant-design"
     },
     {
@@ -726,7 +731,7 @@
         "language": "Rust",
         "languageColor": "#dea584",
         "name": "comprehensive-rust",
-        "stars": 20267,
+        "stars": 20269,
         "url": "https://github.com/google/comprehensive-rust"
     },
     {
@@ -766,7 +771,7 @@
         "language": "Java",
         "languageColor": "#b07219",
         "name": "hello-algo",
-        "stars": 37758,
+        "stars": 37764,
         "url": "https://github.com/krahets/hello-algo"
     },
     {
@@ -801,12 +806,12 @@
         ],
         "currentPeriodStars": 13,
         "description": "InternLM has open-sourced a 7 and 20 billion parameter base models and chat models tailored for practical scenarios and the training system.",
-        "forks": 266,
+        "forks": 267,
         "fullname": "InternLM/InternLM",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "InternLM",
-        "stars": 3337,
+        "stars": 3339,
         "url": "https://github.com/InternLM/InternLM"
     },
     {
@@ -846,7 +851,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "ChatDev",
-        "stars": 12700,
+        "stars": 12702,
         "url": "https://github.com/OpenBMB/ChatDev"
     },
     {
@@ -886,7 +891,7 @@
         "language": "Java",
         "languageColor": "#b07219",
         "name": "seata",
-        "stars": 24292,
+        "stars": 24294,
         "url": "https://github.com/seata/seata"
     },
     {
@@ -926,7 +931,7 @@
         "language": "HTML",
         "languageColor": "#e34c26",
         "name": "pdf2htmlEX",
-        "stars": 2366,
+        "stars": 2370,
         "url": "https://github.com/pdf2htmlEX/pdf2htmlEX"
     },
     {
@@ -956,7 +961,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "LLM-scientific-feedback",
-        "stars": 176,
+        "stars": 179,
         "url": "https://github.com/Weixin-Liang/LLM-scientific-feedback"
     }
 ]
