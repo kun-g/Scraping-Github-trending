@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) | Dev tool that writes scalable apps from scratch while the developer oversees the implementation |
-| [promptflow](https://github.com/microsoft/promptflow) | Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring. |
+| [protobuf](https://github.com/protocolbuffers/protobuf) | Protocol Buffers - Google's data interchange format |
 | [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) | A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。 |
-| [LLaVA](https://github.com/haotian-liu/LLaVA) | [NeurIPS 2023 Oral] Visual Instruction Tuning: LLaVA (Large Language-and-Vision Assistant) built towards multimodal GPT-4 level capabilities. |
-| [live](https://github.com/fanmingming/live) | ✯ 一个国内可直连的直播源分享项目 ✯ 🔕 永久免费 直连访问 完整开源 不含广告 完善的台标 直播源支持IPv4/IPv6双栈访问 🔕 |
-| [NanUI](https://github.com/XuanchenLin/NanUI) | NanUI is an open source .NET project for .NET developers who want to create desktop applications with HTML, CSS and JavaScript. |
-| [flexoki](https://github.com/kepano/flexoki) | An inky color scheme for prose and code. |
-| [go-zero](https://github.com/zeromicro/go-zero) | A cloud-native Go microservices framework with cli tool for productivity. |
-| [comprehensive-rust](https://github.com/google/comprehensive-rust) | This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust. |
-| [Fooocus](https://github.com/lllyasviel/Fooocus) | Focus on prompting and generating |
+| [pgx](https://github.com/jackc/pgx) | PostgreSQL driver and toolkit for Go |
+| [CVE-2023-44487](https://github.com/bcdannyboy/CVE-2023-44487) | Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487 |
+| [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) | Dev tool that writes scalable apps from scratch while the developer oversees the implementation |
+| [leetcode](https://github.com/doocs/leetcode) | 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解 |
+| [spacedrive](https://github.com/spacedriveapp/spacedrive) | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [CogVLM](https://github.com/THUDM/CogVLM) | a state-of-the-art-level open visual language model |
+| [LazyVim](https://github.com/LazyVim/LazyVim) | Neovim config for the lazy |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
