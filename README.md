@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [protobuf](https://github.com/protocolbuffers/protobuf) | Protocol Buffers - Google's data interchange format |
-| [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) | A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。 |
-| [pgx](https://github.com/jackc/pgx) | PostgreSQL driver and toolkit for Go |
-| [CVE-2023-44487](https://github.com/bcdannyboy/CVE-2023-44487) | Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487 |
-| [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) | Dev tool that writes scalable apps from scratch while the developer oversees the implementation |
-| [leetcode](https://github.com/doocs/leetcode) | 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解 |
-| [spacedrive](https://github.com/spacedriveapp/spacedrive) | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [CogVLM](https://github.com/THUDM/CogVLM) | a state-of-the-art-level open visual language model |
 | [LazyVim](https://github.com/LazyVim/LazyVim) | Neovim config for the lazy |
+| [pgx](https://github.com/jackc/pgx) | PostgreSQL driver and toolkit for Go |
+| [autogen](https://github.com/microsoft/autogen) | Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ |
+| [leetcode](https://github.com/doocs/leetcode) | 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解 |
+| [supervision](https://github.com/roboflow/supervision) | We write your reusable computer vision tools. 💜 |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [deepdarkCTI](https://github.com/fastfire/deepdarkCTI) | Collection of Cyber Threat Intelligence sources from the deep and dark web |
+| [notion-clone-tutorial](https://github.com/AntonioErdeljac/notion-clone-tutorial) |  |
+| [autoscaler](https://github.com/kubernetes/autoscaler) | Autoscaling components for Kubernetes |
+| [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) | A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
