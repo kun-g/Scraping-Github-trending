@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) | Playing Pokemon Red with Reinforcement Learning |
 | [LazyVim](https://github.com/LazyVim/LazyVim) | Neovim config for the lazy |
-| [pgx](https://github.com/jackc/pgx) | PostgreSQL driver and toolkit for Go |
-| [autogen](https://github.com/microsoft/autogen) | Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ |
+| [tact-challenge](https://github.com/ton-community/tact-challenge) |  |
 | [leetcode](https://github.com/doocs/leetcode) | 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解 |
-| [supervision](https://github.com/roboflow/supervision) | We write your reusable computer vision tools. 💜 |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [deepdarkCTI](https://github.com/fastfire/deepdarkCTI) | Collection of Cyber Threat Intelligence sources from the deep and dark web |
-| [notion-clone-tutorial](https://github.com/AntonioErdeljac/notion-clone-tutorial) |  |
-| [autoscaler](https://github.com/kubernetes/autoscaler) | Autoscaling components for Kubernetes |
+| [python-for-devops](https://github.com/iam-veeramalla/python-for-devops) | Learn Python from DevOps Engineer point of you. |
+| [ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) | 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding). |
 | [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) | A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。 |
+| [pgx](https://github.com/jackc/pgx) | PostgreSQL driver and toolkit for Go |
+| [ELITEWOLF](https://github.com/nsacyber/ELITEWOLF) | OT security monitoring #nsacyber |
+| [Magisk](https://github.com/topjohnwu/Magisk) | The Magic Mask for Android |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
