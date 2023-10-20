@@ -14,14 +14,14 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [system-design-101](https://github.com/ByteByteGoHq/system-design-101) | Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. |
+| [XAgent](https://github.com/OpenBMB/XAgent) | An Autonomous LLM Agent for Complex Task Solving |
+| [ionic-framework](https://github.com/ionic-team/ionic-framework) | A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript. |
 | [MemGPT](https://github.com/cpacker/MemGPT) | Teaching LLMs memory management for unbounded context 📚🦙 |
-| [Dynamic3DGaussians](https://github.com/JonathonLuiten/Dynamic3DGaussians) |  |
-| [omnivore](https://github.com/omnivore-app/omnivore) | Omnivore is a complete, open source read-it-later solution for people who like reading. |
-| [ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) | 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding). |
-| [MetaGPT](https://github.com/geekan/MetaGPT) | 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo |
+| [thorium](https://github.com/Alex313031/thorium) | Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md. |
 | [Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) | A curated list of free courses & certifications. |
-| [syserdebugger](https://github.com/yanfengwu-syser/syserdebugger) |  |
-| [free-resources](https://github.com/barnamenevisi/free-resources) | ، تمام منابع آموزشی معرفی شده رایگان هستن برای اینکه هیچکس به خاطر نداشتن پول از آموزش عقب نمونه |
+| [unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) | Flipper Zero Unleashed Firmware |
+| [RemoveAdblockThing](https://github.com/TheRealJoelmatic/RemoveAdblockThing) | Removes The "Ad blocker are not allowed on Youtube" |
+| [refine](https://github.com/refinedev/refine) | Build your React-based CRUD applications, without constraints. 🌟 Star to support our work! |
 | [PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) | Playing Pokemon Red with Reinforcement Learning |
 <!-- END OF DAILY_TOP10_REPOS -->
 
