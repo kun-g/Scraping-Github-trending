@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [system-design-101](https://github.com/ByteByteGoHq/system-design-101) | Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. |
-| [XAgent](https://github.com/OpenBMB/XAgent) | An Autonomous LLM Agent for Complex Task Solving |
-| [ionic-framework](https://github.com/ionic-team/ionic-framework) | A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript. |
-| [MemGPT](https://github.com/cpacker/MemGPT) | Teaching LLMs memory management for unbounded context 📚🦙 |
+| [localsend](https://github.com/localsend/localsend) | An open source cross-platform alternative to AirDrop |
 | [thorium](https://github.com/Alex313031/thorium) | Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md. |
-| [Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) | A curated list of free courses & certifications. |
-| [unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) | Flipper Zero Unleashed Firmware |
+| [XAgent](https://github.com/OpenBMB/XAgent) | An Autonomous LLM Agent for Complex Task Solving |
+| [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) | 一个基于 electron 的音乐软件 |
+| [Stable-Diffusion-WebUI-TensorRT](https://github.com/NVIDIA/Stable-Diffusion-WebUI-TensorRT) | TensorRT Extension for Stable Diffusion Web UI |
+| [full-stack-foundations](https://github.com/epicweb-dev/full-stack-foundations) | Learn the foundational skills of building full stack web applications. |
 | [RemoveAdblockThing](https://github.com/TheRealJoelmatic/RemoveAdblockThing) | Removes The "Ad blocker are not allowed on Youtube" |
-| [refine](https://github.com/refinedev/refine) | Build your React-based CRUD applications, without constraints. 🌟 Star to support our work! |
-| [PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) | Playing Pokemon Red with Reinforcement Learning |
+| [Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) | A curated list of free courses & certifications. |
+| [wagtail](https://github.com/wagtail/wagtail) | A Django content management system focused on flexibility and user experience |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
