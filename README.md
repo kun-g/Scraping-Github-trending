@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [system-design-101](https://github.com/ByteByteGoHq/system-design-101) | Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. |
+| [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) | TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines. |
 | [localsend](https://github.com/localsend/localsend) | An open source cross-platform alternative to AirDrop |
-| [thorium](https://github.com/Alex313031/thorium) | Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md. |
 | [XAgent](https://github.com/OpenBMB/XAgent) | An Autonomous LLM Agent for Complex Task Solving |
-| [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) | 一个基于 electron 的音乐软件 |
-| [Stable-Diffusion-WebUI-TensorRT](https://github.com/NVIDIA/Stable-Diffusion-WebUI-TensorRT) | TensorRT Extension for Stable Diffusion Web UI |
-| [full-stack-foundations](https://github.com/epicweb-dev/full-stack-foundations) | Learn the foundational skills of building full stack web applications. |
-| [RemoveAdblockThing](https://github.com/TheRealJoelmatic/RemoveAdblockThing) | Removes The "Ad blocker are not allowed on Youtube" |
+| [codeshell](https://github.com/WisdomShell/codeshell) | A series of code large language models developed by PKU-KCL |
+| [codeshell-vscode](https://github.com/WisdomShell/codeshell-vscode) | An intelligent coding assistant plugin for Visual Studio Code, developed based on CodeShell |
+| [deepsparse](https://github.com/neuralmagic/deepsparse) | Sparsity-aware deep learning inference runtime for CPUs |
+| [autotab-starter](https://github.com/Planetary-Computers/autotab-starter) | Build browser agents for real world tasks |
+| [system-design-101](https://github.com/ByteByteGoHq/system-design-101) | Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. |
 | [Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) | A curated list of free courses & certifications. |
-| [wagtail](https://github.com/wagtail/wagtail) | A Django content management system focused on flexibility and user experience |
+| [Cybersecurity101](https://github.com/danieldonda/Cybersecurity101) | Um guia abrangente para iniciantes na área de cibersegurança. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10

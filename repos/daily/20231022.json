@@ -1,0 +1,891 @@
+[
+    {
+        "author": "NVIDIA",
+        "avatar": "https://github.com/NVIDIA.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/26294424",
+                "href": "https://github.com/kaiyux",
+                "username": "kaiyux"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/39303645",
+                "href": "https://github.com/Shixiaowei02",
+                "username": "Shixiaowei02"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/143764042",
+                "href": "https://github.com/juney-nvidia",
+                "username": "juney-nvidia"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1548775",
+                "href": "https://github.com/wangkuiyi",
+                "username": "wangkuiyi"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1792006",
+                "href": "https://github.com/jdemouth",
+                "username": "jdemouth"
+            }
+        ],
+        "currentPeriodStars": 176,
+        "description": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.",
+        "forks": 90,
+        "fullname": "NVIDIA/TensorRT-LLM",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "name": "TensorRT-LLM",
+        "stars": 1417,
+        "url": "https://github.com/NVIDIA/TensorRT-LLM"
+    },
+    {
+        "author": "localsend",
+        "avatar": "https://github.com/localsend.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/38380847",
+                "href": "https://github.com/Tienisto",
+                "username": "Tienisto"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/39922116",
+                "href": "https://github.com/TheGB0077",
+                "username": "TheGB0077"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/44618918",
+                "href": "https://github.com/beholdenkey",
+                "username": "beholdenkey"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4068977",
+                "href": "https://github.com/gidano",
+                "username": "gidano"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/125032334",
+                "href": "https://github.com/sergd88",
+                "username": "sergd88"
+            }
+        ],
+        "currentPeriodStars": 1326,
+        "description": "An open source cross-platform alternative to AirDrop",
+        "forks": 906,
+        "fullname": "localsend/localsend",
+        "language": "Dart",
+        "languageColor": "#00B4AB",
+        "name": "localsend",
+        "stars": 18645,
+        "url": "https://github.com/localsend/localsend"
+    },
+    {
+        "author": "OpenBMB",
+        "avatar": "https://github.com/OpenBMB.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/54500467",
+                "href": "https://github.com/luyaxi",
+                "username": "luyaxi"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/24414496",
+                "href": "https://github.com/ChengFai",
+                "username": "ChengFai"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/44259537",
+                "href": "https://github.com/sailaoda",
+                "username": "sailaoda"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/66627143",
+                "href": "https://github.com/congxin95",
+                "username": "congxin95"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/103248962",
+                "href": "https://github.com/thunlp-zp",
+                "username": "thunlp-zp"
+            }
+        ],
+        "currentPeriodStars": 389,
+        "description": "An Autonomous LLM Agent for Complex Task Solving",
+        "forks": 188,
+        "fullname": "OpenBMB/XAgent",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "XAgent",
+        "stars": 2397,
+        "url": "https://github.com/OpenBMB/XAgent"
+    },
+    {
+        "author": "WisdomShell",
+        "avatar": "https://github.com/WisdomShell.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4915453",
+                "href": "https://github.com/ruixie",
+                "username": "ruixie"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2647687",
+                "href": "https://github.com/weiye",
+                "username": "weiye"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/38292503",
+                "href": "https://github.com/ZZR0",
+                "username": "ZZR0"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8074086",
+                "href": "https://github.com/zhuohaoyu",
+                "username": "zhuohaoyu"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/77045518",
+                "href": "https://github.com/smallruixie",
+                "username": "smallruixie"
+            }
+        ],
+        "currentPeriodStars": 98,
+        "description": "A series of code large language models developed by PKU-KCL",
+        "forks": 45,
+        "fullname": "WisdomShell/codeshell",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "codeshell",
+        "stars": 810,
+        "url": "https://github.com/WisdomShell/codeshell"
+    },
+    {
+        "author": "WisdomShell",
+        "avatar": "https://github.com/WisdomShell.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/145986908",
+                "href": "https://github.com/0ut0fMem",
+                "username": "0ut0fMem"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2647687",
+                "href": "https://github.com/weiye",
+                "username": "weiye"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5751322",
+                "href": "https://github.com/cove9988",
+                "username": "cove9988"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8074086",
+                "href": "https://github.com/zhuohaoyu",
+                "username": "zhuohaoyu"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/38292503",
+                "href": "https://github.com/ZZR0",
+                "username": "ZZR0"
+            }
+        ],
+        "currentPeriodStars": 36,
+        "description": "An intelligent coding assistant plugin for Visual Studio Code, developed based on CodeShell",
+        "forks": 25,
+        "fullname": "WisdomShell/codeshell-vscode",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "codeshell-vscode",
+        "stars": 310,
+        "url": "https://github.com/WisdomShell/codeshell-vscode"
+    },
+    {
+        "author": "neuralmagic",
+        "avatar": "https://github.com/neuralmagic.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/11316925",
+                "href": "https://github.com/bfineran",
+                "username": "bfineran"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3195154",
+                "href": "https://github.com/mgoin",
+                "username": "mgoin"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/97082108",
+                "href": "https://github.com/dbogunowicz",
+                "username": "dbogunowicz"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/25380596",
+                "href": "https://github.com/rahul-tuli",
+                "username": "rahul-tuli"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/12499095",
+                "href": "https://github.com/markurtz",
+                "username": "markurtz"
+            }
+        ],
+        "currentPeriodStars": 99,
+        "description": "Sparsity-aware deep learning inference runtime for CPUs",
+        "forks": 115,
+        "fullname": "neuralmagic/deepsparse",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "deepsparse",
+        "stars": 1964,
+        "url": "https://github.com/neuralmagic/deepsparse"
+    },
+    {
+        "author": "Planetary-Computers",
+        "avatar": "https://github.com/Planetary-Computers.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/100244608",
+                "href": "https://github.com/alexi",
+                "username": "alexi"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/15232210",
+                "href": "https://github.com/jonasalexander",
+                "username": "jonasalexander"
+            }
+        ],
+        "currentPeriodStars": 108,
+        "description": "Build browser agents for real world tasks",
+        "forks": 22,
+        "fullname": "Planetary-Computers/autotab-starter",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "autotab-starter",
+        "stars": 467,
+        "url": "https://github.com/Planetary-Computers/autotab-starter"
+    },
+    {
+        "author": "ByteByteGoHq",
+        "avatar": "https://github.com/ByteByteGoHq.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/50348",
+                "href": "https://github.com/slam",
+                "username": "slam"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/375631",
+                "href": "https://github.com/Stephanvs",
+                "username": "Stephanvs"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1277202",
+                "href": "https://github.com/alastairp",
+                "username": "alastairp"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3818584",
+                "href": "https://github.com/lucasberti",
+                "username": "lucasberti"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/13534454",
+                "href": "https://github.com/wx1993",
+                "username": "wx1993"
+            }
+        ],
+        "currentPeriodStars": 4037,
+        "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+        "forks": 1988,
+        "fullname": "ByteByteGoHq/system-design-101",
+        "name": "system-design-101",
+        "stars": 21083,
+        "url": "https://github.com/ByteByteGoHq/system-design-101"
+    },
+    {
+        "author": "cloudcommunity",
+        "avatar": "https://github.com/cloudcommunity.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/123498",
+                "href": "https://github.com/karentamrazyan",
+                "username": "karentamrazyan"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/44232737",
+                "href": "https://github.com/diogomurta",
+                "username": "diogomurta"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6332979",
+                "href": "https://github.com/sykezz",
+                "username": "sykezz"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/51379704",
+                "href": "https://github.com/oldphones68",
+                "username": "oldphones68"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/29026887",
+                "href": "https://github.com/ManuSquall",
+                "username": "ManuSquall"
+            }
+        ],
+        "currentPeriodStars": 902,
+        "description": "A curated list of free courses & certifications.",
+        "forks": 899,
+        "fullname": "cloudcommunity/Free-Certifications",
+        "name": "Free-Certifications",
+        "stars": 10131,
+        "url": "https://github.com/cloudcommunity/Free-Certifications"
+    },
+    {
+        "author": "danieldonda",
+        "avatar": "https://github.com/danieldonda.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/16530643",
+                "href": "https://github.com/danieldonda",
+                "username": "danieldonda"
+            }
+        ],
+        "currentPeriodStars": 21,
+        "description": "Um guia abrangente para iniciantes na \u00e1rea de ciberseguran\u00e7a.",
+        "forks": 11,
+        "fullname": "danieldonda/Cybersecurity101",
+        "name": "Cybersecurity101",
+        "stars": 112,
+        "url": "https://github.com/danieldonda/Cybersecurity101"
+    },
+    {
+        "author": "imartinez",
+        "avatar": "https://github.com/imartinez.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/721666",
+                "href": "https://github.com/imartinez",
+                "username": "imartinez"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/26081932",
+                "href": "https://github.com/ivan-ontruck",
+                "username": "ivan-ontruck"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1131305",
+                "href": "https://github.com/pabloogc",
+                "username": "pabloogc"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7357054",
+                "href": "https://github.com/alxspiker",
+                "username": "alxspiker"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/32427668",
+                "href": "https://github.com/R-Y-M-R",
+                "username": "R-Y-M-R"
+            }
+        ],
+        "currentPeriodStars": 59,
+        "description": "Interact with your documents using the power of GPT, 100% privately, no data leaks",
+        "forks": 5146,
+        "fullname": "imartinez/privateGPT",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "privateGPT",
+        "stars": 38839,
+        "url": "https://github.com/imartinez/privateGPT"
+    },
+    {
+        "author": "radius-project",
+        "avatar": "https://github.com/radius-project.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1430011",
+                "href": "https://github.com/rynowak",
+                "username": "rynowak"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/54363786",
+                "href": "https://github.com/AaronCrawfis",
+                "username": "AaronCrawfis"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/11863108",
+                "href": "https://github.com/youngbupark",
+                "username": "youngbupark"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8302101",
+                "href": "https://github.com/jkotalik",
+                "username": "jkotalik"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/28875764",
+                "href": "https://github.com/vinayada1",
+                "username": "vinayada1"
+            }
+        ],
+        "currentPeriodStars": 61,
+        "description": "Radius is a cloud-native, portable application platform that makes app development easier for teams building cloud-native apps.",
+        "forks": 22,
+        "fullname": "radius-project/radius",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "name": "radius",
+        "stars": 500,
+        "url": "https://github.com/radius-project/radius"
+    },
+    {
+        "author": "ionic-team",
+        "avatar": "https://github.com/ionic-team.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6577830",
+                "href": "https://github.com/brandyscarney",
+                "username": "brandyscarney"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/452425",
+                "href": "https://github.com/adamdbradley",
+                "username": "adamdbradley"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2721089",
+                "href": "https://github.com/liamdebeasi",
+                "username": "liamdebeasi"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/127379",
+                "href": "https://github.com/manucorporat",
+                "username": "manucorporat"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/11214",
+                "href": "https://github.com/mlynch",
+                "username": "mlynch"
+            }
+        ],
+        "currentPeriodStars": 103,
+        "description": "A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.",
+        "forks": 13697,
+        "fullname": "ionic-team/ionic-framework",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "ionic-framework",
+        "stars": 49742,
+        "url": "https://github.com/ionic-team/ionic-framework"
+    },
+    {
+        "author": "slowmist",
+        "avatar": "https://github.com/slowmist.png",
+        "builtBy": [],
+        "currentPeriodStars": 16,
+        "description": "Smart contract audit skills roadmap for beginners, auditors, engineers, etc.",
+        "forks": 28,
+        "fullname": "slowmist/SlowMist-Learning-Roadmap-for-Becoming-a-Smart-Contract-Auditor",
+        "name": "SlowMist-Learning-Roadmap-for-Becoming-a-Smart-Contract-Auditor",
+        "stars": 263,
+        "url": "https://github.com/slowmist/SlowMist-Learning-Roadmap-for-Becoming-a-Smart-Contract-Auditor"
+    },
+    {
+        "author": "e2b-dev",
+        "avatar": "https://github.com/e2b-dev.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/135881365",
+                "href": "https://github.com/tizkovatereza",
+                "username": "tizkovatereza"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5136688",
+                "href": "https://github.com/mlejva",
+                "username": "mlejva"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/15354",
+                "href": "https://github.com/abdshomad",
+                "username": "abdshomad"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8619304",
+                "href": "https://github.com/Vasilije1990",
+                "username": "Vasilije1990"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/119014147",
+                "href": "https://github.com/jonathanhar",
+                "username": "jonathanhar"
+            }
+        ],
+        "currentPeriodStars": 27,
+        "description": "A list of AI autonomous agents",
+        "forks": 159,
+        "fullname": "e2b-dev/awesome-ai-agents",
+        "name": "awesome-ai-agents",
+        "stars": 2057,
+        "url": "https://github.com/e2b-dev/awesome-ai-agents"
+    },
+    {
+        "author": "felipemotarocha",
+        "avatar": "https://github.com/felipemotarocha.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5685113",
+                "href": "https://github.com/felipemotarocha",
+                "username": "felipemotarocha"
+            }
+        ],
+        "currentPeriodStars": 12,
+        "description": "",
+        "forks": 35,
+        "fullname": "felipemotarocha/fullstackweek-store",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "fullstackweek-store",
+        "stars": 148,
+        "url": "https://github.com/felipemotarocha/fullstackweek-store"
+    },
+    {
+        "author": "AntonOsika",
+        "avatar": "https://github.com/AntonOsika.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4467025",
+                "href": "https://github.com/AntonOsika",
+                "username": "AntonOsika"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/143704446",
+                "href": "https://github.com/ATheorell",
+                "username": "ATheorell"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/490809",
+                "href": "https://github.com/pbharrin",
+                "username": "pbharrin"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/366332",
+                "href": "https://github.com/captivus",
+                "username": "captivus"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/40663591",
+                "href": "https://github.com/UmerHA",
+                "username": "UmerHA"
+            }
+        ],
+        "currentPeriodStars": 51,
+        "description": "Specify what you want it to build, the AI asks for clarification, and then builds it.",
+        "forks": 7363,
+        "fullname": "AntonOsika/gpt-engineer",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "gpt-engineer",
+        "stars": 44904,
+        "url": "https://github.com/AntonOsika/gpt-engineer"
+    },
+    {
+        "author": "commaai",
+        "avatar": "https://github.com/commaai.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8762862",
+                "href": "https://github.com/adeebshihadeh",
+                "username": "adeebshihadeh"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1314752",
+                "href": "https://github.com/pd0wm",
+                "username": "pd0wm"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/25857203",
+                "href": "https://github.com/sshane",
+                "username": "sshane"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/27770",
+                "href": "https://github.com/deanlee",
+                "username": "deanlee"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6804392",
+                "href": "https://github.com/haraschax",
+                "username": "haraschax"
+            }
+        ],
+        "currentPeriodStars": 5,
+        "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.",
+        "forks": 7785,
+        "fullname": "commaai/openpilot",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "openpilot",
+        "stars": 42509,
+        "url": "https://github.com/commaai/openpilot"
+    },
+    {
+        "author": "apexcharts",
+        "avatar": "https://github.com/apexcharts.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/17950663",
+                "href": "https://github.com/junedchhipa",
+                "username": "junedchhipa"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/29299923",
+                "href": "https://github.com/tianxie1995",
+                "username": "tianxie1995"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1214061",
+                "href": "https://github.com/sergkop",
+                "username": "sergkop"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6376814",
+                "href": "https://github.com/ordago",
+                "username": "ordago"
+            }
+        ],
+        "currentPeriodStars": 21,
+        "description": "\ud83d\udcca Interactive JavaScript Charts built on SVG",
+        "forks": 1207,
+        "fullname": "apexcharts/apexcharts.js",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "name": "apexcharts.js",
+        "stars": 13118,
+        "url": "https://github.com/apexcharts/apexcharts.js"
+    },
+    {
+        "author": "TheRealJoelmatic",
+        "avatar": "https://github.com/TheRealJoelmatic.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/78729990",
+                "href": "https://github.com/TheRealJoelmatic",
+                "username": "TheRealJoelmatic"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/42911311",
+                "href": "https://github.com/Albedo-13",
+                "username": "Albedo-13"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/44710606",
+                "href": "https://github.com/henryli17",
+                "username": "henryli17"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/132209343",
+                "href": "https://github.com/Pecunia201",
+                "username": "Pecunia201"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/13122796",
+                "href": "https://github.com/oSumAtrIX",
+                "username": "oSumAtrIX"
+            }
+        ],
+        "currentPeriodStars": 308,
+        "description": "Removes The \"Ad blocker are not allowed on Youtube\"",
+        "forks": 71,
+        "fullname": "TheRealJoelmatic/RemoveAdblockThing",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "name": "RemoveAdblockThing",
+        "stars": 2171,
+        "url": "https://github.com/TheRealJoelmatic/RemoveAdblockThing"
+    },
+    {
+        "author": "thuml",
+        "avatar": "https://github.com/thuml.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/24385030",
+                "href": "https://github.com/wuhaixu2016",
+                "username": "wuhaixu2016"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/88132465",
+                "href": "https://github.com/ZDandsomSP",
+                "username": "ZDandsomSP"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/53956164",
+                "href": "https://github.com/htg17",
+                "username": "htg17"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/33493057",
+                "href": "https://github.com/imanmousaei",
+                "username": "imanmousaei"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/105404402",
+                "href": "https://github.com/GuoKaku",
+                "username": "GuoKaku"
+            }
+        ],
+        "currentPeriodStars": 122,
+        "description": "A Library for Advanced Deep Time Series Models.",
+        "forks": 364,
+        "fullname": "thuml/Time-Series-Library",
+        "language": "Shell",
+        "languageColor": "#89e051",
+        "name": "Time-Series-Library",
+        "stars": 1954,
+        "url": "https://github.com/thuml/Time-Series-Library"
+    },
+    {
+        "author": "danielgross",
+        "avatar": "https://github.com/danielgross.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/279531",
+                "href": "https://github.com/danielgross",
+                "username": "danielgross"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/132329",
+                "href": "https://github.com/artemy",
+                "username": "artemy"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/49514822",
+                "href": "https://github.com/zengzzzzz",
+                "username": "zengzzzzz"
+            }
+        ],
+        "currentPeriodStars": 88,
+        "description": "",
+        "forks": 85,
+        "fullname": "danielgross/localpilot",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "localpilot",
+        "stars": 2189,
+        "url": "https://github.com/danielgross/localpilot"
+    },
+    {
+        "author": "babysor",
+        "avatar": "https://github.com/babysor.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7423248",
+                "href": "https://github.com/babysor",
+                "username": "babysor"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/12797292",
+                "href": "https://github.com/oceanarium",
+                "username": "oceanarium"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/81962026",
+                "href": "https://github.com/SeaTidesPro",
+                "username": "SeaTidesPro"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7660045",
+                "href": "https://github.com/Ozgay",
+                "username": "Ozgay"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/17819608",
+                "href": "https://github.com/hertz-pj",
+                "username": "hertz-pj"
+            }
+        ],
+        "currentPeriodStars": 10,
+        "description": "\ud83d\ude80AI\u62df\u58f0: 5\u79d2\u5185\u514b\u9686\u60a8\u7684\u58f0\u97f3\u5e76\u751f\u6210\u4efb\u610f\u8bed\u97f3\u5185\u5bb9 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+        "forks": 4795,
+        "fullname": "babysor/MockingBird",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "MockingBird",
+        "stars": 31344,
+        "url": "https://github.com/babysor/MockingBird"
+    },
+    {
+        "author": "cloudflare",
+        "avatar": "https://github.com/cloudflare.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/18808",
+                "href": "https://github.com/threepointone",
+                "username": "threepointone"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/15655",
+                "href": "https://github.com/petebacondarwin",
+                "username": "petebacondarwin"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/27247160",
+                "href": "https://github.com/JacobMGEvans",
+                "username": "JacobMGEvans"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3822106",
+                "href": "https://github.com/rozenmd",
+                "username": "rozenmd"
+            }
+        ],
+        "currentPeriodStars": 1,
+        "description": "\u26c5\ufe0f Home to Wrangler, the CLI for Cloudflare Workers\u00ae",
+        "forks": 385,
+        "fullname": "cloudflare/workers-sdk",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "workers-sdk",
+        "stars": 1801,
+        "url": "https://github.com/cloudflare/workers-sdk"
+    },
+    {
+        "author": "hashicorp",
+        "avatar": "https://github.com/hashicorp.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2404182",
+                "href": "https://github.com/ewbankkit",
+                "username": "ewbankkit"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/31492422",
+                "href": "https://github.com/YakDriver",
+                "username": "YakDriver"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/189114",
+                "href": "https://github.com/bflad",
+                "username": "bflad"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1148298",
+                "href": "https://github.com/gdavison",
+                "username": "gdavison"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/33663870",
+                "href": "https://github.com/DrFaust92",
+                "username": "DrFaust92"
+            }
+        ],
+        "currentPeriodStars": 2,
+        "description": "Terraform AWS provider",
+        "forks": 8395,
+        "fullname": "hashicorp/terraform-provider-aws",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "name": "terraform-provider-aws",
+        "stars": 8933,
+        "url": "https://github.com/hashicorp/terraform-provider-aws"
+    }
+]
