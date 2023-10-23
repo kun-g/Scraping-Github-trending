@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) | TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines. |
+| [system-design-101](https://github.com/ByteByteGoHq/system-design-101) | Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. |
 | [localsend](https://github.com/localsend/localsend) | An open source cross-platform alternative to AirDrop |
+| [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) | TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines. |
+| [MemGPT](https://github.com/cpacker/MemGPT) | Teaching LLMs memory management for unbounded context 📚🦙 |
 | [XAgent](https://github.com/OpenBMB/XAgent) | An Autonomous LLM Agent for Complex Task Solving |
 | [codeshell](https://github.com/WisdomShell/codeshell) | A series of code large language models developed by PKU-KCL |
-| [codeshell-vscode](https://github.com/WisdomShell/codeshell-vscode) | An intelligent coding assistant plugin for Visual Studio Code, developed based on CodeShell |
-| [deepsparse](https://github.com/neuralmagic/deepsparse) | Sparsity-aware deep learning inference runtime for CPUs |
 | [autotab-starter](https://github.com/Planetary-Computers/autotab-starter) | Build browser agents for real world tasks |
-| [system-design-101](https://github.com/ByteByteGoHq/system-design-101) | Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. |
+| [termux-app](https://github.com/termux/termux-app) | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
+| [privateGPT](https://github.com/imartinez/privateGPT) | Interact with your documents using the power of GPT, 100% privately, no data leaks |
 | [Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) | A curated list of free courses & certifications. |
-| [Cybersecurity101](https://github.com/danieldonda/Cybersecurity101) | Um guia abrangente para iniciantes na área de cibersegurança. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
