@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [Eureka](https://github.com/eureka-research/Eureka) | Official Repository for "Eureka: Human-Level Reward Design via Coding Large Language Models" |
 | [Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) | The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams |
-| [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics |
-| [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Interactive roadmaps, guides and other educational content to help developers grow in their careers. |
-| [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) | 10 Weeks, 20 Lessons, Data Science for All! |
-| [system-design-101](https://github.com/ByteByteGoHq/system-design-101) | Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. |
-| [OpenAgents](https://github.com/xlang-ai/OpenAgents) | OpenAgents: An Open Platform for Language Agents in the Wild |
+| [semana-javascript-expert08](https://github.com/ErickWendel/semana-javascript-expert08) | JS Expert Week 8.0 - 🎥Pre processing videos before uploading in the browser 😏 |
 | [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | 💯 Curated coding interview preparation materials for busy software engineers |
-| [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. |
-| [open-interpreter](https://github.com/KillianLucas/open-interpreter) | OpenAI's Code Interpreter in your terminal, running locally |
+| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
+| [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Interactive roadmaps, guides and other educational content to help developers grow in their careers. |
+| [black](https://github.com/psf/black) | The uncompromising Python code formatter |
+| [openpilot](https://github.com/commaai/openpilot) | openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models. |
+| [hackingtool](https://github.com/Z4nzu/hackingtool) | ALL IN ONE Hacking Tool For Hackers |
+| [ml-engineering](https://github.com/stas00/ml-engineering) | Machine Learning Engineering Guides and Tools |
+| [awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) | 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
