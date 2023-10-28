@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [Vencord](https://github.com/Vendicated/Vencord) | The cutest Discord client mod |
-| [Eureka](https://github.com/eureka-research/Eureka) | Official Repository for "Eureka: Human-Level Reward Design via Coding Large Language Models" |
+| [black](https://github.com/psf/black) | The uncompromising Python code formatter |
 | [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | 💯 Curated coding interview preparation materials for busy software engineers |
-| [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Interactive roadmaps, guides and other educational content to help developers grow in their careers. |
+| [OpenAgents](https://github.com/xlang-ai/OpenAgents) | OpenAgents: An Open Platform for Language Agents in the Wild |
+| [awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) | 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新 |
+| [react-agent](https://github.com/eylonmiz/react-agent) | The open-source React.js Autonomous LLM Agent |
+| [openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) | Effortlessly discover API behaviour with a Chrome extension that automatically generates OpenAPI specifications in real time for any app or website |
 | [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics |
-| [Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) | The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams |
-| [zero123plus](https://github.com/SUDO-AI-3D/zero123plus) | Code repository for Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model. |
 | [googletest](https://github.com/google/googletest) | GoogleTest - Google Testing and Mocking Framework |
-| [BBLL](https://github.com/xiaye13579/BBLL) | 一个第三方哔哩哔哩客户端，A third-party bilibili client。 |
+| [3DGPT](https://github.com/Chuny1/3DGPT) |  |
+| [jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
