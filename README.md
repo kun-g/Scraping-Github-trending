@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [black](https://github.com/psf/black) | The uncompromising Python code formatter |
-| [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | 💯 Curated coding interview preparation materials for busy software engineers |
-| [OpenAgents](https://github.com/xlang-ai/OpenAgents) | OpenAgents: An Open Platform for Language Agents in the Wild |
-| [awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) | 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新 |
-| [react-agent](https://github.com/eylonmiz/react-agent) | The open-source React.js Autonomous LLM Agent |
-| [openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) | Effortlessly discover API behaviour with a Chrome extension that automatically generates OpenAPI specifications in real time for any app or website |
+| [Wonder3D](https://github.com/xxlong0/Wonder3D) | A cross-domain diffusion model for 3D reconstruction from a single image |
 | [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [googletest](https://github.com/google/googletest) | GoogleTest - Google Testing and Mocking Framework |
-| [3DGPT](https://github.com/Chuny1/3DGPT) |  |
-| [jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs. |
+| [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | 💯 Curated coding interview preparation materials for busy software engineers |
+| [black](https://github.com/psf/black) | The uncompromising Python code formatter |
+| [next-learn](https://github.com/vercel/next-learn) | Learn Next.js Starter Code |
+| [DreamCraft3D](https://github.com/deepseek-ai/DreamCraft3D) | Official implementation of DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior |
+| [PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! |
+| [Vencord](https://github.com/Vendicated/Vencord) | The cutest Discord client mod |
+| [next.js](https://github.com/vercel/next.js) | The React Framework |
+| [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | 🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
