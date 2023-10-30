@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [Wonder3D](https://github.com/xxlong0/Wonder3D) | A cross-domain diffusion model for 3D reconstruction from a single image |
 | [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [hyperswitch](https://github.com/juspay/hyperswitch) | An open source payments switch written in Rust to make payments fast, reliable and affordable |
 | [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | 💯 Curated coding interview preparation materials for busy software engineers |
-| [black](https://github.com/psf/black) | The uncompromising Python code formatter |
-| [next-learn](https://github.com/vercel/next-learn) | Learn Next.js Starter Code |
-| [DreamCraft3D](https://github.com/deepseek-ai/DreamCraft3D) | Official implementation of DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior |
-| [PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! |
-| [Vencord](https://github.com/Vendicated/Vencord) | The cutest Discord client mod |
-| [next.js](https://github.com/vercel/next.js) | The React Framework |
+| [ChatGLM3](https://github.com/THUDM/ChatGLM3) | ChatGLM3 series: Open Bilingual Chat LLMs | 开源双语对话语言模型 |
 | [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | 🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。 |
+| [Wonder3D](https://github.com/xxlong0/Wonder3D) | A cross-domain diffusion model for 3D reconstruction from a single image |
+| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A youtube-dl fork with additional features and fixes |
+| [black](https://github.com/psf/black) | The uncompromising Python code formatter |
+| [Sistema-Anti-Fraude-Electoral](https://github.com/Las-Fuerzas-Del-Cielo/Sistema-Anti-Fraude-Electoral) | Sistema Open Source para Identificar potenciales fraudes electorales, minimizar su ocurrencia e impacto. |
+| [re3](https://github.com/halpz/re3) |  |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
