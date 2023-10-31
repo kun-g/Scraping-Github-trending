@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [hyperswitch](https://github.com/juspay/hyperswitch) | An open source payments switch written in Rust to make payments fast, reliable and affordable |
-| [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | 💯 Curated coding interview preparation materials for busy software engineers |
-| [ChatGLM3](https://github.com/THUDM/ChatGLM3) | ChatGLM3 series: Open Bilingual Chat LLMs | 开源双语对话语言模型 |
-| [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | 🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。 |
-| [Wonder3D](https://github.com/xxlong0/Wonder3D) | A cross-domain diffusion model for 3D reconstruction from a single image |
-| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A youtube-dl fork with additional features and fixes |
-| [black](https://github.com/psf/black) | The uncompromising Python code formatter |
 | [Sistema-Anti-Fraude-Electoral](https://github.com/Las-Fuerzas-Del-Cielo/Sistema-Anti-Fraude-Electoral) | Sistema Open Source para Identificar potenciales fraudes electorales, minimizar su ocurrencia e impacto. |
-| [re3](https://github.com/halpz/re3) |  |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+| [Wonder3D](https://github.com/xxlong0/Wonder3D) | A cross-domain diffusion model for 3D reconstruction from a single image |
+| [hyperswitch](https://github.com/juspay/hyperswitch) | An open source payments switch written in Rust to make payments fast, reliable and affordable |
+| [2nd-devs](https://github.com/i-am-alice/2nd-devs) |  |
+| [sidra-contracts](https://github.com/SidraChain/sidra-contracts) | Genesis Smart Contracts for Sidra Chain |
+| [OpenSign](https://github.com/OpenSignLabs/OpenSign) | The free & Open Source Alternative to DocuSign |
+| [go-ethereum](https://github.com/SidraChain/go-ethereum) | Forked Golang execution layer implementation of the Ethereum protocol. |
+| [ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) | Building a community around a cheap ESP32 Display with a touch screen |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
