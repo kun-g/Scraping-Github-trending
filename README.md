@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [ChatGLM3](https://github.com/THUDM/ChatGLM3) | ChatGLM3 series: Open Bilingual Chat LLMs | 开源双语对话语言模型 |
 | [hyperswitch](https://github.com/juspay/hyperswitch) | An open source payments switch written in Rust to make payments fast, reliable and affordable |
-| [Wonder3D](https://github.com/xxlong0/Wonder3D) | A cross-domain diffusion model for 3D reconstruction from a single image |
-| [PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [tdesktop](https://github.com/telegramdesktop/tdesktop) | Telegram Desktop messaging app |
-| [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | 🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。 |
 | [smallchat](https://github.com/antirez/smallchat) | A minimal programming example for a chat server |
-| [geist-font](https://github.com/vercel/geist-font) |  |
-| [OpenSign](https://github.com/OpenSignLabs/OpenSign) | The free & Open Source Alternative to DocuSign |
+| [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | A list of useful payloads and bypass for Web Application Security and Pentest/CTF |
+| [celestia-node](https://github.com/celestiaorg/celestia-node) | Celestia Data Availability Nodes |
+| [ChatGLM3](https://github.com/THUDM/ChatGLM3) | ChatGLM3 series: Open Bilingual Chat LLMs | 开源双语对话语言模型 |
+| [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices) |
+| [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project-based tutorials |
+| [directory](https://github.com/php-youtubers/directory) | Curated a list of PHP YouTubers. 📋 |
+| [LME](https://github.com/cisagov/LME) | Logging Made Easy (LME) is a free and open logging and protective monitoring solution serving all organizations. |
+| [system-design-resources](https://github.com/InterviewReady/system-design-resources) | These are the best resources for System Design on the Internet |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
