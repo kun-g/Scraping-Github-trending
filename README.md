@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [clash-verge](https://github.com/zzzgydi/clash-verge) | A Clash GUI based on tauri. Supports Windows, macOS and Linux. |
+| [v2rayN](https://github.com/2dust/v2rayN) | A GUI client for Windows, support Xray core and v2fly core and others |
 | [smallchat](https://github.com/antirez/smallchat) | A minimal programming example for a chat server |
-| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
-| [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) | Dev tool that writes scalable apps from scratch while the developer oversees the implementation |
-| [ollama](https://github.com/jmorganca/ollama) | Get up and running with Llama 2 and other large language models locally |
-| [v2ray-core](https://github.com/v2fly/v2ray-core) | A platform for building proxies to bypass network restrictions. |
 | [sing-box](https://github.com/SagerNet/sing-box) | The universal proxy platform |
-| [DagorEngine](https://github.com/GaijinEntertainment/DagorEngine) | Dagor Engine and Tools source code from Gaijin Games KFT |
-| [whisper.cpp](https://github.com/ggerganov/whisper.cpp) | Port of OpenAI's Whisper model in C/C++ |
+| [clash-verge](https://github.com/zzzgydi/clash-verge) | A Clash GUI based on tauri. Supports Windows, macOS and Linux. |
 | [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 12 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
+| [ollama](https://github.com/jmorganca/ollama) | Get up and running with Llama 2 and other large language models locally |
+| [tailspin](https://github.com/bensadeh/tailspin) | 🌀 A log file highlighter |
+| [VideoCrafter](https://github.com/AILab-CVC/VideoCrafter) | VideoCrafter1: Open Diffusion Models for High-Quality Video Generation |
+| [NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) | NekoBox for Android / sing-box / universal proxy toolchain for Android |
+| [Bluetooth-LE-Spam](https://github.com/simondankelmann/Bluetooth-LE-Spam) |  |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
