@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) | IDURAR Open Code Source ERP CRM | Node Js React AntD MERN |
+| [Xray-core](https://github.com/XTLS/Xray-core) | Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration. |
 | [v2rayN](https://github.com/2dust/v2rayN) | A GUI client for Windows, support Xray core and v2fly core and others |
-| [smallchat](https://github.com/antirez/smallchat) | A minimal programming example for a chat server |
 | [sing-box](https://github.com/SagerNet/sing-box) | The universal proxy platform |
-| [clash-verge](https://github.com/zzzgydi/clash-verge) | A Clash GUI based on tauri. Supports Windows, macOS and Linux. |
+| [v2rayNG](https://github.com/2dust/v2rayNG) | A V2Ray client for Android, support Xray core and v2fly core |
 | [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 12 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
-| [ollama](https://github.com/jmorganca/ollama) | Get up and running with Llama 2 and other large language models locally |
-| [tailspin](https://github.com/bensadeh/tailspin) | 🌀 A log file highlighter |
-| [VideoCrafter](https://github.com/AILab-CVC/VideoCrafter) | VideoCrafter1: Open Diffusion Models for High-Quality Video Generation |
-| [NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) | NekoBox for Android / sing-box / universal proxy toolchain for Android |
-| [Bluetooth-LE-Spam](https://github.com/simondankelmann/Bluetooth-LE-Spam) |  |
+| [smallchat](https://github.com/antirez/smallchat) | A minimal programming example for a chat server |
+| [DeepSpeed](https://github.com/microsoft/DeepSpeed) | DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. |
+| [iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world |
+| [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) | Dev tool that writes scalable apps from scratch while the developer oversees the implementation |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
