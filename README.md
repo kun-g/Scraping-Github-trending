@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) | IDURAR Open Code Source ERP CRM | Node Js React AntD MERN |
-| [Xray-core](https://github.com/XTLS/Xray-core) | Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration. |
+| [ollama](https://github.com/jmorganca/ollama) | Get up and running with Llama 2 and other large language models locally |
+| [highstorm](https://github.com/chronark/highstorm) | Open Source Event Monitoring |
+| [hello-algo](https://github.com/krahets/hello-algo) | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。 |
+| [hysteria](https://github.com/apernet/hysteria) | Hysteria is a powerful, lightning fast and censorship resistant proxy. |
 | [v2rayN](https://github.com/2dust/v2rayN) | A GUI client for Windows, support Xray core and v2fly core and others |
-| [sing-box](https://github.com/SagerNet/sing-box) | The universal proxy platform |
-| [v2rayNG](https://github.com/2dust/v2rayNG) | A V2Ray client for Android, support Xray core and v2fly core |
-| [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 12 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
-| [smallchat](https://github.com/antirez/smallchat) | A minimal programming example for a chat server |
-| [DeepSpeed](https://github.com/microsoft/DeepSpeed) | DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. |
-| [iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world |
-| [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) | Dev tool that writes scalable apps from scratch while the developer oversees the implementation |
+| [idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) | IDURAR Open Code Source ERP CRM Alternative to SalesForce | Node Js React AntD MERN |
+| [onepixel_backend](https://github.com/championswimmer/onepixel_backend) |  |
+| [NewPipe](https://github.com/TeamNewPipe/NewPipe) | A libre lightweight streaming front-end for Android. |
+| [DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) | DeepSeek Coder: Let the Code Write Itself |
+| [ml-course](https://github.com/girafe-ai/ml-course) | Open Machine Learning course |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
