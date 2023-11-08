@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [ollama](https://github.com/jmorganca/ollama) | Get up and running with Llama 2 and other large language models locally |
-| [highstorm](https://github.com/chronark/highstorm) | Open Source Event Monitoring |
-| [hello-algo](https://github.com/krahets/hello-algo) | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。 |
-| [hysteria](https://github.com/apernet/hysteria) | Hysteria is a powerful, lightning fast and censorship resistant proxy. |
-| [v2rayN](https://github.com/2dust/v2rayN) | A GUI client for Windows, support Xray core and v2fly core and others |
 | [idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) | IDURAR Open Code Source ERP CRM Alternative to SalesForce | Node Js React AntD MERN |
-| [onepixel_backend](https://github.com/championswimmer/onepixel_backend) |  |
-| [NewPipe](https://github.com/TeamNewPipe/NewPipe) | A libre lightweight streaming front-end for Android. |
 | [DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) | DeepSeek Coder: Let the Code Write Itself |
-| [ml-course](https://github.com/girafe-ai/ml-course) | Open Machine Learning course |
+| [hello-algo](https://github.com/krahets/hello-algo) | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。 |
+| [instructor](https://github.com/jxnl/instructor) | openai function calls for humans |
+| [Yi](https://github.com/01-ai/Yi) | A series of large language models trained from scratch by developers @01-ai |
+| [nextjs-postgres-email-client](https://github.com/leerob/nextjs-postgres-email-client) | An email client built with the Next.js App Router and Postgres as the database. |
+| [lzCloudSecurity](https://github.com/EvilAnne/lzCloudSecurity) | 《云安全攻防入门》教材 |
+| [ollama](https://github.com/jmorganca/ollama) | Get up and running with Llama 2 and other large language models locally |
+| [solidity-examples](https://github.com/LayerZero-Labs/solidity-examples) | example contracts |
+| [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 12 Weeks, 24 Lessons, AI for All! |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
