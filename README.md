@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) | IDURAR Open Code Source ERP CRM Alternative to SalesForce | Node Js React AntD MERN |
+| [Yi](https://github.com/01-ai/Yi) | A series of large language models trained from scratch by developers @01-ai |
+| [angular](https://github.com/angular/angular) | The modern web developer’s platform |
 | [DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) | DeepSeek Coder: Let the Code Write Itself |
 | [hello-algo](https://github.com/krahets/hello-algo) | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。 |
-| [instructor](https://github.com/jxnl/instructor) | openai function calls for humans |
-| [Yi](https://github.com/01-ai/Yi) | A series of large language models trained from scratch by developers @01-ai |
-| [nextjs-postgres-email-client](https://github.com/leerob/nextjs-postgres-email-client) | An email client built with the Next.js App Router and Postgres as the database. |
-| [lzCloudSecurity](https://github.com/EvilAnne/lzCloudSecurity) | 《云安全攻防入门》教材 |
-| [ollama](https://github.com/jmorganca/ollama) | Get up and running with Llama 2 and other large language models locally |
-| [solidity-examples](https://github.com/LayerZero-Labs/solidity-examples) | example contracts |
-| [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 12 Weeks, 24 Lessons, AI for All! |
+| [sshx](https://github.com/ekzhang/sshx) | Fast, collaborative live terminal sharing over the web |
+| [Files](https://github.com/files-community/Files) | Building the best file manager for Windows |
+| [whisper](https://github.com/openai/whisper) | Robust Speech Recognition via Large-Scale Weak Supervision |
+| [opengpts](https://github.com/langchain-ai/opengpts) |  |
+| [openai-python](https://github.com/openai/openai-python) | The official Python library for the OpenAI API |
+| [refine](https://github.com/refinedev/refine) | A React Framework for building internal tools, admin panels, dashboards & B2B apps with unmatched flexibilty. 🌟 Star to support our work! |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
