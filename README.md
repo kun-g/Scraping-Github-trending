@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [Yi](https://github.com/01-ai/Yi) | A series of large language models trained from scratch by developers @01-ai |
-| [angular](https://github.com/angular/angular) | The modern web developer’s platform |
-| [DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) | DeepSeek Coder: Let the Code Write Itself |
-| [hello-algo](https://github.com/krahets/hello-algo) | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。 |
-| [sshx](https://github.com/ekzhang/sshx) | Fast, collaborative live terminal sharing over the web |
-| [Files](https://github.com/files-community/Files) | Building the best file manager for Windows |
-| [whisper](https://github.com/openai/whisper) | Robust Speech Recognition via Large-Scale Weak Supervision |
+| [inshellisense](https://github.com/microsoft/inshellisense) | IDE style command line auto complete |
 | [opengpts](https://github.com/langchain-ai/opengpts) |  |
-| [openai-python](https://github.com/openai/openai-python) | The official Python library for the OpenAI API |
-| [refine](https://github.com/refinedev/refine) | A React Framework for building internal tools, admin panels, dashboards & B2B apps with unmatched flexibilty. 🌟 Star to support our work! |
+| [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 12 Weeks, 24 Lessons, AI for All! |
+| [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) | A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。 |
+| [DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) | DeepSeek Coder: Let the Code Write Itself |
+| [whisper](https://github.com/openai/whisper) | Robust Speech Recognition via Large-Scale Weak Supervision |
+| [PhoGPT](https://github.com/VinAIResearch/PhoGPT) | PhoGPT: Generative Pre-training for Vietnamese |
+| [super-gradients](https://github.com/Deci-AI/super-gradients) | Easily train or fine-tune SOTA computer vision models with one open source training library. The home of Yolo-NAS. |
+| [New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions) | A collection of New Grad full time roles in SWE, Quant, and PM. |
+| [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
