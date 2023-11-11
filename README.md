@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [inshellisense](https://github.com/microsoft/inshellisense) | IDE style command line auto complete |
-| [opengpts](https://github.com/langchain-ai/opengpts) |  |
-| [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 12 Weeks, 24 Lessons, AI for All! |
+| [OpenAI_Agent_Swarm](https://github.com/daveshap/OpenAI_Agent_Swarm) | Early experiment to create fully autonomous agent swarms |
+| [draw-a-ui](https://github.com/SawyerHood/draw-a-ui) | Draw a mockup and generate html for it |
 | [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) | A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。 |
-| [DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) | DeepSeek Coder: Let the Code Write Itself |
-| [whisper](https://github.com/openai/whisper) | Robust Speech Recognition via Large-Scale Weak Supervision |
-| [PhoGPT](https://github.com/VinAIResearch/PhoGPT) | PhoGPT: Generative Pre-training for Vietnamese |
-| [super-gradients](https://github.com/Deci-AI/super-gradients) | Easily train or fine-tune SOTA computer vision models with one open source training library. The home of Yolo-NAS. |
-| [New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions) | A collection of New Grad full time roles in SWE, Quant, and PM. |
-| [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. |
+| [angular](https://github.com/angular/angular) | The modern web developer’s platform |
+| [inshellisense](https://github.com/microsoft/inshellisense) | IDE style command line auto complete |
+| [expo](https://github.com/expo/expo) | An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web. |
+| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
+| [opengpts](https://github.com/langchain-ai/opengpts) |  |
+| [awesome-openai-vision-api-experiments](https://github.com/roboflow/awesome-openai-vision-api-experiments) | Must-have resource for anyone who wants to experiment with and build on the OpenAI Vision API 🔥 |
+| [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 12 Weeks, 24 Lessons, AI for All! |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
