@@ -13,14 +13,14 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [OpenAI_Agent_Swarm](https://github.com/daveshap/OpenAI_Agent_Swarm) | Early experiment to create fully autonomous agent swarms |
+| [privateGPT](https://github.com/imartinez/privateGPT) | Interact with your documents using the power of GPT, 100% privately, no data leaks |
 | [draw-a-ui](https://github.com/SawyerHood/draw-a-ui) | Draw a mockup and generate html for it |
-| [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) | A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。 |
-| [angular](https://github.com/angular/angular) | The modern web developer’s platform |
 | [inshellisense](https://github.com/microsoft/inshellisense) | IDE style command line auto complete |
-| [expo](https://github.com/expo/expo) | An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web. |
-| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
-| [opengpts](https://github.com/langchain-ai/opengpts) |  |
+| [vimGPT](https://github.com/ishan0102/vimGPT) | Browse the web with GPT-4V and Vimium |
+| [til](https://github.com/jbranchaud/til) | 📝 Today I Learned |
+| [monaspace](https://github.com/githubnext/monaspace) | An innovative superfamily of fonts for code |
+| [OpenAI_Agent_Swarm](https://github.com/daveshap/OpenAI_Agent_Swarm) | HAAS = Hierarchical Autonomous Agent Swarm - "Resistance is futile!" |
+| [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | List of Computer Science courses with video lectures. |
 | [awesome-openai-vision-api-experiments](https://github.com/roboflow/awesome-openai-vision-api-experiments) | Must-have resource for anyone who wants to experiment with and build on the OpenAI Vision API 🔥 |
 | [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 12 Weeks, 24 Lessons, AI for All! |
 <!-- END OF DAILY_TOP10_REPOS -->
