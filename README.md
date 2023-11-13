@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [privateGPT](https://github.com/imartinez/privateGPT) | Interact with your documents using the power of GPT, 100% privately, no data leaks |
 | [draw-a-ui](https://github.com/SawyerHood/draw-a-ui) | Draw a mockup and generate html for it |
-| [inshellisense](https://github.com/microsoft/inshellisense) | IDE style command line auto complete |
-| [vimGPT](https://github.com/ishan0102/vimGPT) | Browse the web with GPT-4V and Vimium |
-| [til](https://github.com/jbranchaud/til) | 📝 Today I Learned |
-| [monaspace](https://github.com/githubnext/monaspace) | An innovative superfamily of fonts for code |
 | [OpenAI_Agent_Swarm](https://github.com/daveshap/OpenAI_Agent_Swarm) | HAAS = Hierarchical Autonomous Agent Swarm - "Resistance is futile!" |
-| [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | List of Computer Science courses with video lectures. |
-| [awesome-openai-vision-api-experiments](https://github.com/roboflow/awesome-openai-vision-api-experiments) | Must-have resource for anyone who wants to experiment with and build on the OpenAI Vision API 🔥 |
-| [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 12 Weeks, 24 Lessons, AI for All! |
+| [monaspace](https://github.com/githubnext/monaspace) | An innovative superfamily of fonts for code |
+| [vimGPT](https://github.com/ishan0102/vimGPT) | Browse the web with GPT-4V and Vimium |
+| [alignment-handbook](https://github.com/huggingface/alignment-handbook) | Robust recipes for to align language models with human and AI preferences |
+| [hello-algo](https://github.com/krahets/hello-algo) | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。 |
+| [privateGPT](https://github.com/imartinez/privateGPT) | Interact with your documents using the power of GPT, 100% privately, no data leaks |
+| [computer-science](https://github.com/ossu/computer-science) | 🎓 Path to a free self-taught education in Computer Science! |
+| [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) | A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。 |
+| [chatwoot](https://github.com/chatwoot/chatwoot) | Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
