@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [draw-a-ui](https://github.com/SawyerHood/draw-a-ui) | Draw a mockup and generate html for it |
 | [EmotiVoice](https://github.com/netease-youdao/EmotiVoice) | EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine |
-| [lobe-chat](https://github.com/lobehub/lobe-chat) | 🤖 Lobe Chat - an open-source, vision supported, extensible, high-performance chatbot framework. It supports one-click free deployment of your private ChatGPT/LLM web application. |
-| [open-interpreter](https://github.com/KillianLucas/open-interpreter) | OpenAI's Code Interpreter in your terminal, running locally |
+| [draw-a-ui](https://github.com/SawyerHood/draw-a-ui) | Draw a mockup and generate html for it |
+| [daisyui](https://github.com/saadeghi/daisyui) | 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library |
 | [multi-agent-postgres-data-analytics](https://github.com/disler/multi-agent-postgres-data-analytics) | The way we interact with our data is changing. |
 | [atomicals-js](https://github.com/atomicals/atomicals-js) | Atomicals CLI and Javascript Library |
-| [Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) | A curated list of GPT agents for cybersecurity |
-| [awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | This repository contains System Design resources which are useful while preparing for interviews and learning Distributed Systems |
-| [prettier](https://github.com/prettier/prettier) | Prettier is an opinionated code formatter. |
-| [awesome-gpts](https://github.com/taranjeet/awesome-gpts) | Collection of all the GPTs created by the community |
+| [dotfiles-public](https://github.com/craftzdog/dotfiles-public) | My personal dotfiles |
+| [privateGPT](https://github.com/imartinez/privateGPT) | Interact with your documents using the power of GPT, 100% privately, no data leaks |
+| [netboot.xyz](https://github.com/netbootxyz/netboot.xyz) | Your favorite operating systems in one place. A network-based bootable operating system installer based on iPXE. |
+| [deploy](https://github.com/pandora-next/deploy) | PandoraNext部署文档仓库。 |
+| [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) | Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
