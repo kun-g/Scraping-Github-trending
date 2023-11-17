@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [EmotiVoice](https://github.com/netease-youdao/EmotiVoice) | EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine |
-| [draw-a-ui](https://github.com/SawyerHood/draw-a-ui) | Draw a mockup and generate html for it |
-| [daisyui](https://github.com/saadeghi/daisyui) | 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library |
-| [multi-agent-postgres-data-analytics](https://github.com/disler/multi-agent-postgres-data-analytics) | The way we interact with our data is changing. |
-| [atomicals-js](https://github.com/atomicals/atomicals-js) | Atomicals CLI and Javascript Library |
-| [dotfiles-public](https://github.com/craftzdog/dotfiles-public) | My personal dotfiles |
-| [privateGPT](https://github.com/imartinez/privateGPT) | Interact with your documents using the power of GPT, 100% privately, no data leaks |
-| [netboot.xyz](https://github.com/netbootxyz/netboot.xyz) | Your favorite operating systems in one place. A network-based bootable operating system installer based on iPXE. |
-| [deploy](https://github.com/pandora-next/deploy) | PandoraNext部署文档仓库。 |
-| [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) | Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain |
+| [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all |
+| [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 12 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
+| [latent-consistency-model](https://github.com/luosiallen/latent-consistency-model) | Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference |
+| [loro](https://github.com/loro-dev/loro) | Reimagine state management with CRDTs. Make your app collaborative effortlessly. |
+| [it-tools](https://github.com/CorentinTh/it-tools) | Collection of handy online tools for developers, with great UX. |
+| [core](https://github.com/dotnet/core) | Home repository for .NET Core |
+| [eShop](https://github.com/dotnet/eShop) | A reference .NET application implementing an eCommerce site |
+| [gpt-crawler](https://github.com/BuilderIO/gpt-crawler) | Crawl a site to generate knowledge files to create your own custom GPT from a URL |
+| [graphcast](https://github.com/google-deepmind/graphcast) |  |
+| [dify](https://github.com/langgenius/dify) | An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack required for building generative AI-native applications, including a built-in RAG engine. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
