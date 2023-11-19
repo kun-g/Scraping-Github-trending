@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [screenshot-to-code](https://github.com/abi/screenshot-to-code) | Drop in a screenshot and convert it to clean HTML/Tailwind/JS code |
+| [Inferno](https://github.com/twostraws/Inferno) | Metal shaders for SwiftUI. |
+| [tldraw](https://github.com/tldraw/tldraw) | a very good whiteboard |
 | [gpt-crawler](https://github.com/BuilderIO/gpt-crawler) | Crawl a site to generate knowledge files to create your own custom GPT from a URL |
-| [graphcast](https://github.com/google-deepmind/graphcast) |  |
 | [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all |
-| [Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) | A GPT-4 AI Tutor Prompt for customizable personalized learning experiences. |
-| [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 12 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
-| [eShop](https://github.com/dotnet/eShop) | A reference .NET application implementing an eCommerce site |
-| [chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) | store all chatgpt's system prompt |
-| [dify](https://github.com/langgenius/dify) | An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack required for building generative AI-native applications, including a built-in RAG engine. |
-| [terraform](https://github.com/hashicorp/terraform) | Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. |
 | [narrator](https://github.com/cbh123/narrator) | David Attenborough narrates your life |
+| [onetable](https://github.com/onetable-io/onetable) | OneTable is an omni-directional converter for table formats that facilitates interoperability across data processing systems and query engines. |
+| [gpt_academic](https://github.com/binary-husky/gpt_academic) | 为ChatGPT/GLM提供实用化交互界面，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm2等本地模型。兼容文心一言, moss, llama2, rwkv, claude2, 通义千问, 书生, 讯飞星火等。 |
+| [eShop](https://github.com/dotnet/eShop) | A reference .NET application implementing an eCommerce site |
+| [Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) | A curated list of free courses & certifications. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
