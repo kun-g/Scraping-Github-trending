@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [flowty-realtime-lcm-canvas](https://github.com/flowtyone/flowty-realtime-lcm-canvas) | A realtime sketch to image demo using LCM and the gradio library. |
+| [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 12 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
 | [gpt-crawler](https://github.com/BuilderIO/gpt-crawler) | Crawl a site to generate knowledge files to create your own custom GPT from a URL |
-| [Fooocus](https://github.com/lllyasviel/Fooocus) | Focus on prompting and generating |
-| [frigate](https://github.com/blakeblackshear/frigate) | NVR with realtime local object detection for IP cameras |
-| [screenshot-to-code](https://github.com/abi/screenshot-to-code) | Drop in a screenshot and convert it to clean HTML/Tailwind/JS code |
-| [PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! |
-| [spring-reading](https://github.com/xuchengsheng/spring-reading) | 涵盖了 Spring 框架的核心概念和关键功能，包括控制反转（IOC）容器的使用，面向切面编程（AOP）的原理与实践，事务管理的方式与实现，Spring MVC 的流程与控制器工作机制，以及 Spring 中数据访问、安全、Boot 自动配置等方面的深入研究。此外，它还包含了 Spring 事件机制的应用、高级主题如缓存抽象和响应式编程，以及对 Spring 源码的编程风格与设计模式的深入探讨。 |
-| [uneebee](https://github.com/zoonk/uneebee) | Platform for creating interactive courses. |
+| [digitalhippo](https://github.com/joschan21/digitalhippo) | A Modern Fullstack E-Commerce Marketplace for Digital Products |
 | [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. |
-| [FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends) | Friends don't let friends make certain types of data visualization - What are they and why are they bad. |
-| [StyleTTS2](https://github.com/yl4579/StyleTTS2) | StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models |
+| [screenshot-to-code](https://github.com/abi/screenshot-to-code) | Drop in a screenshot and convert it to clean HTML/Tailwind/JS code |
+| [Fooocus](https://github.com/lllyasviel/Fooocus) | Focus on prompting and generating |
+| [generative-models](https://github.com/Stability-AI/generative-models) | Generative Models by Stability AI |
+| [roc](https://github.com/roc-lang/roc) | A fast, friendly, functional language. Work in progress! |
+| [live](https://github.com/fanmingming/live) | ✯ 一个国内可直连的直播源分享项目 ✯ 🔕 永久免费 直连访问 完整开源 不含广告 完善的台标 直播源支持IPv4/IPv6双栈访问 🔕 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
