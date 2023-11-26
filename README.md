@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) | A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage |
+| [rags](https://github.com/run-llama/rags) |  |
+| [roadster](https://github.com/teslamotors/roadster) | 2008-2012 Roadster Development and Diagnostic Software files |
+| [Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) | Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc. |
+| [live](https://github.com/fanmingming/live) | ✯ 一个可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕 |
 | [clash-nyanpasu](https://github.com/keiko233/clash-nyanpasu) | Clash Nyanpasu! |
-| [generative-models](https://github.com/Stability-AI/generative-models) | Generative Models by Stability AI |
-| [leetcode](https://github.com/doocs/leetcode) | 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解 |
-| [Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Python - 100天从新手到大师 |
-| [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 12 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
-| [starrocks](https://github.com/StarRocks/starrocks) | StarRocks, a Linux Foundation project, is a next-generation sub-second MPP OLAP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics, and ad-hoc queries. InfoWorld’s 2023 BOSSIE Award for best open source software. |
-| [uptime-kuma](https://github.com/louislam/uptime-kuma) | A fancy self-hosted monitoring tool |
-| [flowty-realtime-lcm-canvas](https://github.com/flowtyone/flowty-realtime-lcm-canvas) | A realtime sketch to image demo using LCM and the gradio library. |
-| [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | 🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。 |
-| [live](https://github.com/fanmingming/live) | ✯ 一个国内可直连的直播源分享项目 ✯ 🔕 永久免费 直连访问 完整开源 不含广告 完善的台标 直播源支持IPv4/IPv6双栈访问 🔕 |
+| [GPTs](https://github.com/linexjlin/GPTs) | leaked prompts of GPTs |
+| [hot-tips](https://github.com/wesbos/hot-tips) | The code behind my hot tips |
+| [Fooocus](https://github.com/lllyasviel/Fooocus) | Focus on prompting and generating |
+| [app-ideas](https://github.com/florinpop17/app-ideas) | A Collection of application ideas which can be used to improve your coding skills. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
