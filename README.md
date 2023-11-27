@@ -14,7 +14,7 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) | A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage |
-| [rags](https://github.com/run-llama/rags) |  |
+| [rags](https://github.com/run-llama/rags) | Build ChatGPT over your data, all with natural language |
 | [roadster](https://github.com/teslamotors/roadster) | 2008-2012 Roadster Development and Diagnostic Software files |
 | [Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) | Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc. |
 | [live](https://github.com/fanmingming/live) | ✯ 一个可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕 |
