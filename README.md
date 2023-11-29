@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) | A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage |
+| [chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) | store all agent's system prompt |
 | [rags](https://github.com/run-llama/rags) | Build ChatGPT over your data, all with natural language |
-| [roadster](https://github.com/teslamotors/roadster) | 2008-2012 Roadster Development and Diagnostic Software files |
-| [Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) | Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc. |
-| [live](https://github.com/fanmingming/live) | ✯ 一个可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕 |
-| [clash-nyanpasu](https://github.com/keiko233/clash-nyanpasu) | Clash Nyanpasu! |
 | [GPTs](https://github.com/linexjlin/GPTs) | leaked prompts of GPTs |
-| [hot-tips](https://github.com/wesbos/hot-tips) | The code behind my hot tips |
-| [Fooocus](https://github.com/lllyasviel/Fooocus) | Focus on prompting and generating |
-| [app-ideas](https://github.com/florinpop17/app-ideas) | A Collection of application ideas which can be used to improve your coding skills. |
+| [1Panel](https://github.com/1Panel-dev/1Panel) | 🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。 |
+| [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | 🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。 |
+| [atomicals-js](https://github.com/atomicals/atomicals-js) | Atomicals CLI and Javascript Library |
+| [TrollStore](https://github.com/opa334/TrollStore) | Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple |
+| [path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) | All the resources you need to get to Senior Engineer and beyond |
+| [ripgrep](https://github.com/BurntSushi/ripgrep) | ripgrep recursively searches directories for a regex pattern while respecting your gitignore |
+| [multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) | A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
