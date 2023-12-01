@@ -45,14 +45,14 @@
 <!-- START OF MONTHLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [smallchat](https://github.com/antirez/smallchat) | A minimal programming example for a chat server |
 | [clash-verge](https://github.com/zzzgydi/clash-verge) | A Clash GUI based on tauri. Supports Windows, macOS and Linux. |
-| [ChatGLM3](https://github.com/THUDM/ChatGLM3) | ChatGLM3 series: Open Bilingual Chat LLMs | 开源双语对话语言模型 |
-| [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all |
-| [sing-box](https://github.com/SagerNet/sing-box) | The universal proxy platform |
 | [generative-models](https://github.com/Stability-AI/generative-models) | Generative Models by Stability AI |
 | [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 12 Weeks, 24 Lessons, AI for All! |
+| [sing-box](https://github.com/SagerNet/sing-box) | The universal proxy platform |
 | [v2rayN](https://github.com/2dust/v2rayN) | A GUI client for Windows, support Xray core and v2fly core and others |
-| [Xray-core](https://github.com/XTLS/Xray-core) | Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration. |
 | [udlbook](https://github.com/udlbook/udlbook) | Understanding Deep Learning - Simon J.D. Prince |
-| [whisper](https://github.com/openai/whisper) | Robust Speech Recognition via Large-Scale Weak Supervision |
+| [Xray-core](https://github.com/XTLS/Xray-core) | Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration. |
+| [ollama](https://github.com/jmorganca/ollama) | Get up and running with Llama 2 and other large language models locally |
+| [openai-python](https://github.com/openai/openai-python) | The official Python library for the OpenAI API |
 <!-- END OF MONTHLY_TOP10_REPOS -->
