@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) | store all agent's system prompt |
-| [GPTs](https://github.com/linexjlin/GPTs) | leaked prompts of GPTs |
-| [self-operating-computer](https://github.com/OthersideAI/self-operating-computer) |  |
-| [TrollStore](https://github.com/opa334/TrollStore) | Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple |
+| [Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) | Modern C++ Programming Course (C++11/14/17/20) |
 | [json](https://github.com/nlohmann/json) | JSON for Modern C++ |
-| [rags](https://github.com/run-llama/rags) | Build ChatGPT over your data, all with natural language |
-| [1Panel](https://github.com/1Panel-dev/1Panel) | 🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。 |
-| [insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) |  |
+| [meditron](https://github.com/epfLLM/meditron) | Meditron is a suite of open-source medical Large Language Models (LLMs). |
+| [ComfyUI](https://github.com/comfyanonymous/ComfyUI) | The most powerful and modular stable diffusion GUI with a graph/nodes interface. |
+| [openai-python](https://github.com/openai/openai-python) | The official Python library for the OpenAI API |
 | [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) | gRPC to JSON proxy generator following the gRPC HTTP spec |
-| [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. |
+| [GPTs](https://github.com/linexjlin/GPTs) | leaked prompts of GPTs |
+| [llm-course](https://github.com/mlabonne/llm-course) | Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. |
+| [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Interactive roadmaps, guides and other educational content to help developers grow in their careers. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
