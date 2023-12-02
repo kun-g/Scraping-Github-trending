@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) | store all agent's system prompt |
-| [Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) | Modern C++ Programming Course (C++11/14/17/20) |
+| [self-operating-computer](https://github.com/OthersideAI/self-operating-computer) |  |
+| [Fooocus](https://github.com/lllyasviel/Fooocus) | Focus on prompting and generating |
+| [quivr](https://github.com/StanGirard/quivr) | Your GenAI Second Brain 🧠 A personal productivity assistant ⚡️🤖 Chat with your files (PDF, CSV, ...) & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users ! Local & Private alternative to OpenAI GPTs & ChatGPT |
+| [atomicals-js](https://github.com/atomicals/atomicals-js) | Atomicals CLI and Javascript Library |
 | [json](https://github.com/nlohmann/json) | JSON for Modern C++ |
-| [meditron](https://github.com/epfLLM/meditron) | Meditron is a suite of open-source medical Large Language Models (LLMs). |
-| [ComfyUI](https://github.com/comfyanonymous/ComfyUI) | The most powerful and modular stable diffusion GUI with a graph/nodes interface. |
-| [openai-python](https://github.com/openai/openai-python) | The official Python library for the OpenAI API |
-| [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) | gRPC to JSON proxy generator following the gRPC HTTP spec |
+| [mip-splatting](https://github.com/autonomousvision/mip-splatting) | Mip-Splatting: Alias-free 3D Gaussian Splatting |
+| [Pow](https://github.com/EmergeTools/Pow) | Delightful SwiftUI effects for your app |
+| [chatgpt-web](https://github.com/Niek/chatgpt-web) | ChatGPT web interface using the OpenAI API |
 | [GPTs](https://github.com/linexjlin/GPTs) | leaked prompts of GPTs |
-| [llm-course](https://github.com/mlabonne/llm-course) | Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. |
-| [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Interactive roadmaps, guides and other educational content to help developers grow in their careers. |
+| [Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) | Modern C++ Programming Course (C++11/14/17/20) |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
