@@ -29,16 +29,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [screenshot-to-code](https://github.com/abi/screenshot-to-code) | Drop in a screenshot and convert it to clean HTML/Tailwind/JS code |
-| [gpt-crawler](https://github.com/BuilderIO/gpt-crawler) | Crawl a site to generate knowledge files to create your own custom GPT from a URL |
-| [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 12 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
+| [GPTs](https://github.com/linexjlin/GPTs) | leaked prompts of GPTs |
+| [multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) | A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage |
+| [chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) | store all agent's system prompt |
+| [rags](https://github.com/run-llama/rags) | Build ChatGPT over your data, all with natural language |
+| [generative-models](https://github.com/Stability-AI/generative-models) | Generative Models by Stability AI |
 | [Fooocus](https://github.com/lllyasviel/Fooocus) | Focus on prompting and generating |
-| [tldraw](https://github.com/tldraw/tldraw) | a very good whiteboard |
-| [eShop](https://github.com/dotnet/eShop) | A reference .NET application implementing an eCommerce site |
-| [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. |
-| [Inferno](https://github.com/twostraws/Inferno) | Metal shaders for SwiftUI. |
-| [Docker-OSX](https://github.com/sickcodes/Docker-OSX) | Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers. |
-| [clash-rev](https://github.com/MerlinKodo/clash-rev) | Continuation of Clash core project |
+| [deploy](https://github.com/pandora-next/deploy) | Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API = PandoraNext. New GPTs(Gizmo) UI, All in one! |
+| [json](https://github.com/nlohmann/json) | JSON for Modern C++ |
+| [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | 🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。 |
+| [clash-nyanpasu](https://github.com/keiko233/clash-nyanpasu) | Clash Nyanpasu! (∠・ω< )⌒☆​ |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
