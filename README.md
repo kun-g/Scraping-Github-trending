@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [self-operating-computer](https://github.com/OthersideAI/self-operating-computer) |  |
-| [Fooocus](https://github.com/lllyasviel/Fooocus) | Focus on prompting and generating |
+| [gpt-fast](https://github.com/pytorch-labs/gpt-fast) | Simple and efficient pytorch-native transformer text generation in <1000 LOC of python. |
+| [WeChatMsg](https://github.com/LC044/WeChatMsg) | 提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告 |
+| [visual_anagrams](https://github.com/dangeng/visual_anagrams) | Code for the paper "Visual Anagrams: Generating Multi-View Optical Illusions with Diffusion Models" |
+| [TaskWeaver](https://github.com/microsoft/TaskWeaver) | A code-first agent framework for seamlessly planning and executing data analytics tasks. |
+| [llamafile](https://github.com/Mozilla-Ocho/llamafile) | Distribute and run LLMs with a single file. |
+| [materials_discovery](https://github.com/google-deepmind/materials_discovery) |  |
+| [self-operating-computer](https://github.com/OthersideAI/self-operating-computer) | A framework to enable multimodal models to operate a computer. |
 | [quivr](https://github.com/StanGirard/quivr) | Your GenAI Second Brain 🧠 A personal productivity assistant ⚡️🤖 Chat with your files (PDF, CSV, ...) & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users ! Local & Private alternative to OpenAI GPTs & ChatGPT |
-| [atomicals-js](https://github.com/atomicals/atomicals-js) | Atomicals CLI and Javascript Library |
-| [json](https://github.com/nlohmann/json) | JSON for Modern C++ |
-| [mip-splatting](https://github.com/autonomousvision/mip-splatting) | Mip-Splatting: Alias-free 3D Gaussian Splatting |
-| [Pow](https://github.com/EmergeTools/Pow) | Delightful SwiftUI effects for your app |
-| [chatgpt-web](https://github.com/Niek/chatgpt-web) | ChatGPT web interface using the OpenAI API |
-| [GPTs](https://github.com/linexjlin/GPTs) | leaked prompts of GPTs |
-| [Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) | Modern C++ Programming Course (C++11/14/17/20) |
+| [AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) | Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation |
+| [seamless_communication](https://github.com/facebookresearch/seamless_communication) | Foundational Models for State-of-the-Art Speech and Text Translation |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
