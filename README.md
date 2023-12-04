@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [gpt-fast](https://github.com/pytorch-labs/gpt-fast) | Simple and efficient pytorch-native transformer text generation in <1000 LOC of python. |
 | [WeChatMsg](https://github.com/LC044/WeChatMsg) | 提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告 |
-| [visual_anagrams](https://github.com/dangeng/visual_anagrams) | Code for the paper "Visual Anagrams: Generating Multi-View Optical Illusions with Diffusion Models" |
-| [TaskWeaver](https://github.com/microsoft/TaskWeaver) | A code-first agent framework for seamlessly planning and executing data analytics tasks. |
-| [llamafile](https://github.com/Mozilla-Ocho/llamafile) | Distribute and run LLMs with a single file. |
-| [materials_discovery](https://github.com/google-deepmind/materials_discovery) |  |
-| [self-operating-computer](https://github.com/OthersideAI/self-operating-computer) | A framework to enable multimodal models to operate a computer. |
-| [quivr](https://github.com/StanGirard/quivr) | Your GenAI Second Brain 🧠 A personal productivity assistant ⚡️🤖 Chat with your files (PDF, CSV, ...) & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users ! Local & Private alternative to OpenAI GPTs & ChatGPT |
-| [AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) | Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation |
+| [Fooocus](https://github.com/lllyasviel/Fooocus) | Focus on prompting and generating |
 | [seamless_communication](https://github.com/facebookresearch/seamless_communication) | Foundational Models for State-of-the-Art Speech and Text Translation |
+| [gpt-fast](https://github.com/pytorch-labs/gpt-fast) | Simple and efficient pytorch-native transformer text generation in <1000 LOC of python. |
+| [ComfyUI](https://github.com/comfyanonymous/ComfyUI) | The most powerful and modular stable diffusion GUI with a graph/nodes interface. |
+| [ComfyUI_IPAdapter_plus](https://github.com/cubiq/ComfyUI_IPAdapter_plus) |  |
+| [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project-based tutorials |
+| [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all |
+| [comprehensive-rust](https://github.com/google/comprehensive-rust) | This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust. |
+| [pulse](https://github.com/laravel/pulse) | Laravel Pulse is a real-time application performance monitoring tool and dashboard for your Laravel application. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
