@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) | Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation |
 | [WeChatMsg](https://github.com/LC044/WeChatMsg) | 提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告 |
-| [Fooocus](https://github.com/lllyasviel/Fooocus) | Focus on prompting and generating |
-| [seamless_communication](https://github.com/facebookresearch/seamless_communication) | Foundational Models for State-of-the-Art Speech and Text Translation |
-| [gpt-fast](https://github.com/pytorch-labs/gpt-fast) | Simple and efficient pytorch-native transformer text generation in <1000 LOC of python. |
+| [gost](https://github.com/go-gost/gost) | GO Simple Tunnel - a simple tunnel written in golang |
 | [ComfyUI](https://github.com/comfyanonymous/ComfyUI) | The most powerful and modular stable diffusion GUI with a graph/nodes interface. |
-| [ComfyUI_IPAdapter_plus](https://github.com/cubiq/ComfyUI_IPAdapter_plus) |  |
-| [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project-based tutorials |
+| [hello-algo](https://github.com/krahets/hello-algo) | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。 |
+| [typehero](https://github.com/typehero/typehero) | Connect, collaborate, and grow with a community of TypeScript developers |
 | [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all |
-| [comprehensive-rust](https://github.com/google/comprehensive-rust) | This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust. |
-| [pulse](https://github.com/laravel/pulse) | Laravel Pulse is a real-time application performance monitoring tool and dashboard for your Laravel application. |
+| [FastUI](https://github.com/samuelcolvin/FastUI) | Build better UIs faster. |
+| [Fooocus](https://github.com/lllyasviel/Fooocus) | Focus on prompting and generating |
+| [excalidraw](https://github.com/excalidraw/excalidraw) | Virtual whiteboard for sketching hand-drawn like diagrams |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
