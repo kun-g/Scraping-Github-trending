@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [pypush](https://github.com/JJTech0130/pypush) | Cross-platform iMessage POC |
 | [magic-animate](https://github.com/magic-research/magic-animate) | MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model |
-| [mamba](https://github.com/state-spaces/mamba) |  |
-| [WeChatMsg](https://github.com/LC044/WeChatMsg) | 提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告 |
+| [style-aligned](https://github.com/google/style-aligned) | Official code for "Style Aligned Image Generation via Shared Attention" |
+| [magicoder](https://github.com/ise-uiuc/magicoder) | Magicoder: Source Code Is All You Need |
+| [DemoFusion](https://github.com/PRIS-CV/DemoFusion) | Let us democratise high-resolution generation! (arXiv 2023) |
 | [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity |
-| [llm-viz](https://github.com/bbycroft/llm-viz) | 3D Visualization of an GPT-style LLM |
-| [TaskWeaver](https://github.com/microsoft/TaskWeaver) | A code-first agent framework for seamlessly planning and executing data analytics tasks. |
-| [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
 | [PyWxDump](https://github.com/xaoyaoo/PyWxDump) | 获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid)；PC微信数据库读取、解密脚本；聊天记录查看工具；聊天记录导出为html(包含语音图片)。支持多账户信息获取，支持所有微信版本。 |
-| [terraform](https://github.com/hashicorp/terraform) | Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. |
-| [hello-algo](https://github.com/krahets/hello-algo) | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。 |
+| [stylex](https://github.com/facebook/stylex) | StyleX is the styling system for ambitious user interfaces. |
+| [superduperdb](https://github.com/SuperDuperDB/superduperdb) | 🔮 SuperDuperDB: Bring AI to your database: Integrate, train and manage any AI models and APIs directly with your database and your data. |
+| [mamba](https://github.com/state-spaces/mamba) |  |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
