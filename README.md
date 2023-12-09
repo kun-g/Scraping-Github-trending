@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [pypush](https://github.com/JJTech0130/pypush) | Cross-platform iMessage POC |
-| [magic-animate](https://github.com/magic-research/magic-animate) | MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model |
-| [style-aligned](https://github.com/google/style-aligned) | Official code for "Style Aligned Image Generation via Shared Attention" |
-| [magicoder](https://github.com/ise-uiuc/magicoder) | Magicoder: Source Code Is All You Need |
-| [DemoFusion](https://github.com/PRIS-CV/DemoFusion) | Let us democratise high-resolution generation! (arXiv 2023) |
-| [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity |
-| [PyWxDump](https://github.com/xaoyaoo/PyWxDump) | 获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid)；PC微信数据库读取、解密脚本；聊天记录查看工具；聊天记录导出为html(包含语音图片)。支持多账户信息获取，支持所有微信版本。 |
-| [stylex](https://github.com/facebook/stylex) | StyleX is the styling system for ambitious user interfaces. |
+| [mlx](https://github.com/ml-explore/mlx) | MLX: An array framework for Apple silicon |
+| [mlx-examples](https://github.com/ml-explore/mlx-examples) | Examples in the MLX framework |
 | [superduperdb](https://github.com/SuperDuperDB/superduperdb) | 🔮 SuperDuperDB: Bring AI to your database: Integrate, train and manage any AI models and APIs directly with your database and your data. |
-| [mamba](https://github.com/state-spaces/mamba) |  |
+| [CopilotKit](https://github.com/CopilotKit/CopilotKit) | Build in-app AI chatbots 🤖, and AI-powered Textareas ✨, into react web apps. |
+| [stylex](https://github.com/facebook/stylex) | StyleX is the styling system for ambitious user interfaces. |
+| [magic-animate](https://github.com/magic-research/magic-animate) | MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model |
+| [pypush](https://github.com/JJTech0130/pypush) | Cross-platform iMessage POC |
+| [prisma](https://github.com/prisma/prisma) | Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB |
+| [DemoFusion](https://github.com/PRIS-CV/DemoFusion) | Let us democratise high-resolution generation! (arXiv 2023) |
+| [optimum-nvidia](https://github.com/huggingface/optimum-nvidia) |  |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
