@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [mlx](https://github.com/ml-explore/mlx) | MLX: An array framework for Apple silicon |
-| [mlx-examples](https://github.com/ml-explore/mlx-examples) | Examples in the MLX framework |
-| [superduperdb](https://github.com/SuperDuperDB/superduperdb) | 🔮 SuperDuperDB: Bring AI to your database: Integrate, train and manage any AI models and APIs directly with your database and your data. |
-| [CopilotKit](https://github.com/CopilotKit/CopilotKit) | Build in-app AI chatbots 🤖, and AI-powered Textareas ✨, into react web apps. |
-| [stylex](https://github.com/facebook/stylex) | StyleX is the styling system for ambitious user interfaces. |
-| [magic-animate](https://github.com/magic-research/magic-animate) | MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model |
-| [pypush](https://github.com/JJTech0130/pypush) | Cross-platform iMessage POC |
-| [prisma](https://github.com/prisma/prisma) | Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB |
-| [DemoFusion](https://github.com/PRIS-CV/DemoFusion) | Let us democratise high-resolution generation! (arXiv 2023) |
+| [vmprotect-3.5.1](https://github.com/jmpoep/vmprotect-3.5.1) |  |
+| [spring-reading](https://github.com/xuchengsheng/spring-reading) | 涵盖了 Spring 框架的核心概念和关键功能，包括控制反转（IOC）容器的使用，面向切面编程（AOP）的原理与实践，事务管理的方式与实现，Spring MVC 的流程与控制器工作机制，以及 Spring 中数据访问、安全、Boot 自动配置等方面的深入研究。此外，它还包含了 Spring 事件机制的应用、高级主题如缓存抽象和响应式编程，以及对 Spring 源码的编程风格与设计模式的深入探讨。 |
+| [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity |
+| [PurpleLlama](https://github.com/facebookresearch/PurpleLlama) | Set of tools to assess and improve LLM security. |
+| [namada-trusted-setup-claimer](https://github.com/anoma/namada-trusted-setup-claimer) | Sign arbitrary messages with keys obtained from Namada's trusted setup |
+| [Catch2](https://github.com/catchorg/Catch2) | A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch) |
 | [optimum-nvidia](https://github.com/huggingface/optimum-nvidia) |  |
+| [RxSwift](https://github.com/ReactiveX/RxSwift) | Reactive Programming in Swift |
+| [mlx](https://github.com/ml-explore/mlx) | MLX: An array framework for Apple silicon |
+| [ai-group-tabs](https://github.com/MichaelYuhe/ai-group-tabs) | A Chrome extension helps you group your tabs with AI. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
