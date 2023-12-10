@@ -29,16 +29,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [GPTs](https://github.com/linexjlin/GPTs) | leaked prompts of GPTs |
-| [multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) | A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage |
-| [chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) | store all agent's system prompt |
-| [rags](https://github.com/run-llama/rags) | Build ChatGPT over your data, all with natural language |
-| [generative-models](https://github.com/Stability-AI/generative-models) | Generative Models by Stability AI |
+| [WeChatMsg](https://github.com/LC044/WeChatMsg) | 提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告 |
+| [seamless_communication](https://github.com/facebookresearch/seamless_communication) | Foundational Models for State-of-the-Art Speech and Text Translation |
+| [TaskWeaver](https://github.com/microsoft/TaskWeaver) | A code-first agent framework for seamlessly planning and executing data analytics tasks. |
 | [Fooocus](https://github.com/lllyasviel/Fooocus) | Focus on prompting and generating |
-| [deploy](https://github.com/pandora-next/deploy) | Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API = PandoraNext. New GPTs(Gizmo) UI, All in one! |
-| [json](https://github.com/nlohmann/json) | JSON for Modern C++ |
-| [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | 🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。 |
-| [clash-nyanpasu](https://github.com/keiko233/clash-nyanpasu) | Clash Nyanpasu! (∠・ω< )⌒☆​ |
+| [gpt-fast](https://github.com/pytorch-labs/gpt-fast) | Simple and efficient pytorch-native transformer text generation in <1000 LOC of python. |
+| [marker](https://github.com/VikParuchuri/marker) | Convert PDF to markdown quickly with high accuracy |
+| [sherlock](https://github.com/sherlock-project/sherlock) | 🔎 Hunt down social media accounts by username across social networks |
+| [llamafile](https://github.com/Mozilla-Ocho/llamafile) | Distribute and run LLMs with a single file. |
+| [ComfyUI](https://github.com/comfyanonymous/ComfyUI) | The most powerful and modular stable diffusion GUI with a graph/nodes interface. |
+| [gost](https://github.com/go-gost/gost) | GO Simple Tunnel - a simple tunnel written in golang |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
