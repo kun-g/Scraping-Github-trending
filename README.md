@@ -47,12 +47,12 @@
 | :----: | :----: |
 | [generative-models](https://github.com/Stability-AI/generative-models) | Generative Models by Stability AI |
 | [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all |
-| [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 12 Weeks, 24 Lessons, AI for All! |
-| [atomicals-js](https://github.com/atomicals/atomicals-js) | Atomicals CLI and Javascript Library |
-| [smallchat](https://github.com/antirez/smallchat) | A minimal programming example for a chat server |
-| [udlbook](https://github.com/udlbook/udlbook) | Understanding Deep Learning - Simon J.D. Prince |
+| [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 12 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
 | [Fooocus](https://github.com/lllyasviel/Fooocus) | Focus on prompting and generating |
-| [openai-python](https://github.com/openai/openai-python) | The official Python library for the OpenAI API |
-| [ollama](https://github.com/jmorganca/ollama) | Get up and running with Llama 2 and other large language models locally |
-| [whisper](https://github.com/openai/whisper) | Robust Speech Recognition via Large-Scale Weak Supervision |
+| [monaspace](https://github.com/githubnext/monaspace) | An innovative superfamily of fonts for code |
+| [opengpts](https://github.com/langchain-ai/opengpts) |  |
+| [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 12 Weeks, 24 Lessons, AI for All! |
+| [seamless_communication](https://github.com/facebookresearch/seamless_communication) | Foundational Models for State-of-the-Art Speech and Text Translation |
+| [atomicals-js](https://github.com/atomicals/atomicals-js) | Atomicals CLI and Javascript Library |
+| [tldraw](https://github.com/tldraw/tldraw) | a very good whiteboard |
 <!-- END OF MONTHLY_TOP10_REPOS -->
