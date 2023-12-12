@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project-based tutorials |
 | [GPTs](https://github.com/linexjlin/GPTs) | leaked prompts of GPTs |
-| [mlx-examples](https://github.com/ml-explore/mlx-examples) | Examples in the MLX framework |
-| [DemoFusion](https://github.com/PRIS-CV/DemoFusion) | Let us democratise high-resolution generation! (arXiv 2023) |
-| [vmprotect-3.5.1](https://github.com/jmpoep/vmprotect-3.5.1) |  |
-| [hyprdots](https://github.com/prasanthrangan/hyprdots) | // Aesthetic, dynamic and minimal dots for Arch hyprland |
-| [ai-group-tabs](https://github.com/MichaelYuhe/ai-group-tabs) | A Chrome extension helps you group your tabs with AI. |
-| [paper-reading](https://github.com/mli/paper-reading) | 深度学习经典、新论文逐段精读 |
-| [superduperdb](https://github.com/SuperDuperDB/superduperdb) | 🔮 SuperDuperDB: Bring AI to your database: Integrate, train and manage any AI models and APIs directly with your database and your data. |
+| [Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Python - 100天从新手到大师 |
+| [pocketbase](https://github.com/pocketbase/pocketbase) | Open Source realtime backend in 1 file |
 | [system-design-101](https://github.com/ByteByteGoHq/system-design-101) | Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. |
-| [EfficientSAM](https://github.com/yformer/EfficientSAM) | EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything |
+| [LucidDreamer](https://github.com/luciddreamer-cvlab/LucidDreamer) | Official code for the paper "LucidDreamer: Domain-free Generation of 3D Gaussian Splatting Scenes". |
+| [superduperdb](https://github.com/SuperDuperDB/superduperdb) | 🔮 SuperDuperDB. Bring AI to your database; integrate, train and manage any AI models and APIs directly with your database and your data. |
+| [MapUp-Data-Assessment-F](https://github.com/mapup/MapUp-Data-Assessment-F) |  |
+| [vmprotect-3.5.1](https://github.com/jmpoep/vmprotect-3.5.1) |  |
+| [voice-assistant](https://github.com/linyiLYi/voice-assistant) | 一个简单的 Python 脚本，可以通过语音与本地大语言模型进行对话。 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
