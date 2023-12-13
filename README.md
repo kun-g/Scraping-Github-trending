@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project-based tutorials |
 | [GPTs](https://github.com/linexjlin/GPTs) | leaked prompts of GPTs |
-| [Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Python - 100天从新手到大师 |
-| [pocketbase](https://github.com/pocketbase/pocketbase) | Open Source realtime backend in 1 file |
-| [system-design-101](https://github.com/ByteByteGoHq/system-design-101) | Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. |
-| [LucidDreamer](https://github.com/luciddreamer-cvlab/LucidDreamer) | Official code for the paper "LucidDreamer: Domain-free Generation of 3D Gaussian Splatting Scenes". |
-| [superduperdb](https://github.com/SuperDuperDB/superduperdb) | 🔮 SuperDuperDB. Bring AI to your database; integrate, train and manage any AI models and APIs directly with your database and your data. |
-| [MapUp-Data-Assessment-F](https://github.com/mapup/MapUp-Data-Assessment-F) |  |
-| [vmprotect-3.5.1](https://github.com/jmpoep/vmprotect-3.5.1) |  |
-| [voice-assistant](https://github.com/linyiLYi/voice-assistant) | 一个简单的 Python 脚本，可以通过语音与本地大语言模型进行对话。 |
+| [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project-based tutorials |
+| [illa-builder](https://github.com/illacloud/illa-builder) | 🚀 Retool open-source alternative, with low-code UI components and support for multiple data resources. |
+| [mistral-src](https://github.com/mistralai/mistral-src) | Reference implementation of Mistral AI 7B v0.1 model. |
+| [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. |
+| [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | A list of useful payloads and bypass for Web Application Security and Pentest/CTF |
+| [anything-llm](https://github.com/Mintplex-Labs/anything-llm) | Open-source ChatGPT equivalent experience for both open and close source LLMs, embedders, and vector databases. Supports unlimited documents, threads, and concurrent users and management all in a very clean UI. |
+| [paper-reading](https://github.com/mli/paper-reading) | 深度学习经典、新论文逐段精读 |
+| [deploy](https://github.com/pandora-next/deploy) | Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API + Signup Free = PandoraNext. New GPTs(Gizmo) UI, All in one! |
+| [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
