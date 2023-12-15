@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [lobe-chat](https://github.com/lobehub/lobe-chat) | 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your private ChatGPT/LLM web application. |
-| [page-spy-web](https://github.com/HuolalaTech/page-spy-web) | Debug remotely and easily like chrome devtools. |
 | [anything-llm](https://github.com/Mintplex-Labs/anything-llm) | Open-source ChatGPT equivalent experience for both open and close source LLMs, embedders, and vector databases. Supports unlimited documents, threads, and concurrent users and management all in a very clean UI. |
+| [promptbase](https://github.com/microsoft/promptbase) | All things prompt engineering |
+| [pow-erc20](https://github.com/nishuzumi/pow-erc20) | A minter for PowerERC20 by rust |
 | [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project-based tutorials |
-| [GPTs](https://github.com/linexjlin/GPTs) | leaked prompts of GPTs |
-| [Llama-2](https://github.com/amitsangani/Llama-2) | All the projects related to Llama |
-| [POC](https://github.com/wy876/POC) | 2023HW漏洞整理，收集整理漏洞EXp/POC,大部分漏洞来源网络，目前收集整理了100多个poc/exp |
+| [Roadmap-To-Learn-Generative-AI-In-2024](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024) |  |
+| [plane](https://github.com/makeplane/plane) | 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. |
+| [dreamoving-project](https://github.com/dreamoving/dreamoving-project) | Official implementation of DreaMoving |
 | [deploy](https://github.com/pandora-next/deploy) | Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API + Signup Free = PandoraNext. New GPTs(Gizmo) UI, All in one! |
-| [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) | 🔗 Some useful websites for programmers. |
-| [system-design-101](https://github.com/ByteByteGoHq/system-design-101) | Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. |
+| [sagittarius](https://github.com/gregsadetsky/sagittarius) | A Remake of the Google Gemini Fake Demo, Except Using GPT-4 and It's Real |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
