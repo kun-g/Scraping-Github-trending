@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [lobe-chat](https://github.com/lobehub/lobe-chat) | 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your private ChatGPT/LLM web application. |
-| [anything-llm](https://github.com/Mintplex-Labs/anything-llm) | Open-source ChatGPT experience for both open and closed source LLMs, embedders, and vector databases. Unlimited documents, messages, and concurrent users with permission management in one app. |
 | [promptbase](https://github.com/microsoft/promptbase) | All things prompt engineering |
-| [pow-erc20](https://github.com/nishuzumi/pow-erc20) | A minter for PowerERC20 by rust |
-| [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project-based tutorials |
-| [Roadmap-To-Learn-Generative-AI-In-2024](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024) |  |
-| [plane](https://github.com/makeplane/plane) | 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. |
-| [dreamoving-project](https://github.com/dreamoving/dreamoving-project) | Official implementation of DreaMoving |
+| [OutfitAnyone](https://github.com/HumanAIGC/OutfitAnyone) | Outfit Anyone: Ultra-high quality virtual try-on for Any Clothing and Any Person |
+| [generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) | Sample code and notebooks for Generative AI on Google Cloud |
+| [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) | 🔗 Some useful websites for programmers. |
+| [dns](https://github.com/miekg/dns) | DNS library in Go |
 | [deploy](https://github.com/pandora-next/deploy) | Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API + Signup Free = PandoraNext. New GPTs(Gizmo) UI, All in one! |
-| [sagittarius](https://github.com/gregsadetsky/sagittarius) | A Remake of the Google Gemini Fake Demo, Except Using GPT-4 and It's Real |
+| [gutenberg](https://github.com/WordPress/gutenberg) | The Block Editor project for WordPress and beyond. Plugin is available from the official repository. |
+| [Avalonia](https://github.com/AvaloniaUI/Avalonia) | Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project. |
+| [awesome-python](https://github.com/vinta/awesome-python) | A curated list of awesome Python frameworks, libraries, software and resources |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
