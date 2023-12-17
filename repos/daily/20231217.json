@@ -36,7 +36,7 @@
         "language": "C#",
         "languageColor": "#178600",
         "name": "Avalonia",
-        "stars": 21200,
+        "stars": 21205,
         "url": "https://github.com/AvaloniaUI/Avalonia"
     },
     {
@@ -66,12 +66,12 @@
         ],
         "currentPeriodStars": 1041,
         "description": "\ud83e\udd16 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your private ChatGPT/LLM web application.",
-        "forks": 1570,
+        "forks": 1571,
         "fullname": "lobehub/lobe-chat",
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "lobe-chat",
-        "stars": 10998,
+        "stars": 11002,
         "url": "https://github.com/lobehub/lobe-chat"
     },
     {
@@ -106,7 +106,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "promptbase",
-        "stars": 2443,
+        "stars": 2445,
         "url": "https://github.com/microsoft/promptbase"
     },
     {
@@ -141,12 +141,12 @@
         ],
         "currentPeriodStars": 27,
         "description": "Google AI SDK for Swift",
-        "forks": 28,
+        "forks": 29,
         "fullname": "google/generative-ai-swift",
         "language": "Swift",
         "languageColor": "#F05138",
         "name": "generative-ai-swift",
-        "stars": 374,
+        "stars": 378,
         "url": "https://github.com/google/generative-ai-swift"
     },
     {
@@ -164,7 +164,7 @@
         "forks": 94,
         "fullname": "bleedline/aimoneyhunter",
         "name": "aimoneyhunter",
-        "stars": 1030,
+        "stars": 1033,
         "url": "https://github.com/bleedline/aimoneyhunter"
     },
     {
@@ -222,7 +222,7 @@
         "language": "Rust",
         "languageColor": "#dea584",
         "name": "oxc",
-        "stars": 5123,
+        "stars": 5130,
         "url": "https://github.com/oxc-project/oxc"
     },
     {
@@ -243,6 +243,11 @@
                 "avatar": "https://avatars.githubusercontent.com/u/12871143",
                 "href": "https://github.com/Pagliacii",
                 "username": "Pagliacii"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/656913",
+                "href": "https://github.com/jinwyp",
+                "username": "jinwyp"
             }
         ],
         "currentPeriodStars": 18,
@@ -252,7 +257,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "tg_bot_collections",
-        "stars": 225,
+        "stars": 227,
         "url": "https://github.com/yihong0618/tg_bot_collections"
     },
     {
@@ -292,7 +297,7 @@
         "language": "Go",
         "languageColor": "#00ADD8",
         "name": "ollama",
-        "stars": 22967,
+        "stars": 22968,
         "url": "https://github.com/jmorganca/ollama"
     },
     {
@@ -332,7 +337,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "threestudio",
-        "stars": 3993,
+        "stars": 3995,
         "url": "https://github.com/threestudio-project/threestudio"
     },
     {
@@ -407,7 +412,7 @@
         "language": "Jupyter Notebook",
         "languageColor": "#DA5B0B",
         "name": "python-docs-samples",
-        "stars": 6707,
+        "stars": 6708,
         "url": "https://github.com/GoogleCloudPlatform/python-docs-samples"
     },
     {
@@ -432,7 +437,7 @@
         "language": "Jupyter Notebook",
         "languageColor": "#DA5B0B",
         "name": "Tensor-Puzzles",
-        "stars": 1780,
+        "stars": 1781,
         "url": "https://github.com/srush/Tensor-Puzzles"
     },
     {
@@ -582,7 +587,7 @@
         "language": "Jupyter Notebook",
         "languageColor": "#DA5B0B",
         "name": "generative-ai-docs",
-        "stars": 555,
+        "stars": 557,
         "url": "https://github.com/google/generative-ai-docs"
     },
     {
@@ -602,12 +607,12 @@
         ],
         "currentPeriodStars": 80,
         "description": "Free ChatGPT API Key\uff0c\u514d\u8d39ChatGPT API\uff0c\u652f\u6301GPT4 API\uff08\u514d\u8d39\uff09\uff0cChatGPT\u56fd\u5185\u53ef\u7528\u514d\u8d39\u8f6c\u53d1API\uff0c\u76f4\u8fde\u65e0\u9700\u4ee3\u7406\u3002\u53ef\u4ee5\u642d\u914dChatBox\u7b49\u8f6f\u4ef6/\u63d2\u4ef6\u4f7f\u7528\uff0c\u6781\u5927\u964d\u4f4e\u63a5\u53e3\u4f7f\u7528\u6210\u672c\u3002\u56fd\u5185\u5373\u53ef\u65e0\u9650\u5236\u7545\u5feb\u804a\u5929\u3002",
-        "forks": 773,
+        "forks": 774,
         "fullname": "chatanywhere/GPT_API_free",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "GPT_API_free",
-        "stars": 9369,
+        "stars": 9372,
         "url": "https://github.com/chatanywhere/GPT_API_free"
     },
     {
@@ -647,7 +652,7 @@
         "language": "Ruby",
         "languageColor": "#701516",
         "name": "fastlane",
-        "stars": 38190,
+        "stars": 38191,
         "url": "https://github.com/fastlane/fastlane"
     },
     {
@@ -687,7 +692,7 @@
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "anything-llm",
-        "stars": 5616,
+        "stars": 5619,
         "url": "https://github.com/Mintplex-Labs/anything-llm"
     },
     {
@@ -717,7 +722,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "i2vgen-xl",
-        "stars": 470,
+        "stars": 472,
         "url": "https://github.com/damo-vilab/i2vgen-xl"
     },
     {
@@ -780,7 +785,7 @@
         "language": "PHP",
         "languageColor": "#4F5D95",
         "name": "deploy",
-        "stars": 6322,
+        "stars": 6323,
         "url": "https://github.com/pandora-next/deploy"
     },
     {
@@ -820,7 +825,7 @@
         "language": "Kotlin",
         "languageColor": "#A97BFF",
         "name": "generative-ai-android",
-        "stars": 138,
+        "stars": 143,
         "url": "https://github.com/google/generative-ai-android"
     },
     {
@@ -838,7 +843,7 @@
         "forks": 248,
         "fullname": "krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024",
         "name": "Roadmap-To-Learn-Generative-AI-In-2024",
-        "stars": 684,
+        "stars": 686,
         "url": "https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024"
     }
 ]
