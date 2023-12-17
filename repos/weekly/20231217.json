@@ -31,12 +31,12 @@
         ],
         "currentPeriodStars": 2772,
         "description": "Open-source ChatGPT experience for both open and closed source LLMs, embedders, and vector databases. Unlimited documents, messages, and concurrent users with permission management in one app.",
-        "forks": 597,
+        "forks": 598,
         "fullname": "Mintplex-Labs/anything-llm",
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "anything-llm",
-        "stars": 5617,
+        "stars": 5620,
         "url": "https://github.com/Mintplex-Labs/anything-llm"
     },
     {
@@ -66,12 +66,12 @@
         ],
         "currentPeriodStars": 6502,
         "description": "\ud83e\udd16 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your private ChatGPT/LLM web application.",
-        "forks": 1570,
+        "forks": 1571,
         "fullname": "lobehub/lobe-chat",
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "lobe-chat",
-        "stars": 10999,
+        "stars": 11006,
         "url": "https://github.com/lobehub/lobe-chat"
     },
     {
@@ -109,7 +109,7 @@
         "forks": 18724,
         "fullname": "practical-tutorials/project-based-learning",
         "name": "project-based-learning",
-        "stars": 137343,
+        "stars": 137344,
         "url": "https://github.com/practical-tutorials/project-based-learning"
     },
     {
@@ -244,12 +244,12 @@
         ],
         "currentPeriodStars": 840,
         "description": "",
-        "forks": 1105,
+        "forks": 1106,
         "fullname": "jmpoep/vmprotect-3.5.1",
         "language": "C++",
         "languageColor": "#f34b7d",
         "name": "vmprotect-3.5.1",
-        "stars": 1366,
+        "stars": 1367,
         "url": "https://github.com/jmpoep/vmprotect-3.5.1"
     },
     {
@@ -289,7 +289,7 @@
         "language": "Jupyter Notebook",
         "languageColor": "#DA5B0B",
         "name": "mistral-src",
-        "stars": 5419,
+        "stars": 5420,
         "url": "https://github.com/mistralai/mistral-src"
     },
     {
@@ -319,7 +319,7 @@
         "language": "Jupyter Notebook",
         "languageColor": "#DA5B0B",
         "name": "DemoFusion",
-        "stars": 1411,
+        "stars": 1412,
         "url": "https://github.com/PRIS-CV/DemoFusion"
     },
     {
@@ -397,7 +397,7 @@
         "language": "C++",
         "languageColor": "#f34b7d",
         "name": "mlx",
-        "stars": 9521,
+        "stars": 9522,
         "url": "https://github.com/ml-explore/mlx"
     },
     {
@@ -607,7 +607,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "PyWxDump",
-        "stars": 2344,
+        "stars": 2347,
         "url": "https://github.com/xaoyaoo/PyWxDump"
     },
     {
@@ -647,7 +647,7 @@
         "language": "Rust",
         "languageColor": "#dea584",
         "name": "oxc",
-        "stars": 5127,
+        "stars": 5132,
         "url": "https://github.com/oxc-project/oxc"
     },
     {
@@ -785,11 +785,6 @@
                 "username": "laikhtewari"
             },
             {
-                "avatar": "https://avatars.githubusercontent.com/u/115986922",
-                "href": "https://github.com/glegendre01",
-                "username": "glegendre01"
-            },
-            {
                 "avatar": "https://avatars.githubusercontent.com/u/9808326",
                 "href": "https://github.com/fxmarty",
                 "username": "fxmarty"
@@ -798,6 +793,11 @@
                 "avatar": "https://avatars.githubusercontent.com/u/22633385",
                 "href": "https://github.com/eltociear",
                 "username": "eltociear"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/57442720",
+                "href": "https://github.com/IlyasMoutawwakil",
+                "username": "IlyasMoutawwakil"
             }
         ],
         "currentPeriodStars": 280,
@@ -847,7 +847,7 @@
         "language": "Go",
         "languageColor": "#00ADD8",
         "name": "ollama",
-        "stars": 22968,
+        "stars": 22969,
         "url": "https://github.com/jmorganca/ollama"
     },
     {
@@ -912,7 +912,7 @@
         "language": "PHP",
         "languageColor": "#4F5D95",
         "name": "deploy",
-        "stars": 6322,
+        "stars": 6323,
         "url": "https://github.com/pandora-next/deploy"
     }
 ]
