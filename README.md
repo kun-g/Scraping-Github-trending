@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [Avalonia](https://github.com/AvaloniaUI/Avalonia) | Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project. |
-| [lobe-chat](https://github.com/lobehub/lobe-chat) | 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your private ChatGPT/LLM web application. |
-| [promptbase](https://github.com/microsoft/promptbase) | All things prompt engineering |
-| [generative-ai-swift](https://github.com/google/generative-ai-swift) | Google AI SDK for Swift |
-| [aimoneyhunter](https://github.com/bleedline/aimoneyhunter) | ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。 |
+| [namada](https://github.com/anoma/namada) | Rust implementation of Namada, a Proof-of-Stake L1 for interchain asset-agnostic privacy |
+| [weak-to-strong](https://github.com/openai/weak-to-strong) |  |
 | [OutfitAnyone](https://github.com/HumanAIGC/OutfitAnyone) | Outfit Anyone: Ultra-high quality virtual try-on for Any Clothing and Any Person |
-| [oxc](https://github.com/oxc-project/oxc) | ⚓ A collection of JavaScript tools written in Rust. |
-| [tg_bot_collections](https://github.com/yihong0618/tg_bot_collections) | collections of yihong0618's telegram bot |
-| [ollama](https://github.com/jmorganca/ollama) | Get up and running with Llama 2 and other large language models locally |
+| [sing-box](https://github.com/SagerNet/sing-box) | The universal proxy platform |
+| [Polaris](https://github.com/vectorisvector/Polaris) |  |
+| [lobe-chat](https://github.com/lobehub/lobe-chat) | 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your private ChatGPT/LLM web application. |
+| [immich](https://github.com/immich-app/immich) | Self-hosted photo and video backup solution directly from your mobile phone. |
 | [threestudio](https://github.com/threestudio-project/threestudio) | A unified framework for 3D content generation. |
+| [i2vgen-xl](https://github.com/damo-vilab/i2vgen-xl) | Official repo for VGen: a holistic video generation ecosystem for video generation building on diffusion models |
+| [ord](https://github.com/ordinals/ord) | 👁‍🗨 Rare and exotic sats |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
