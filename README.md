@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [Avalonia](https://github.com/AvaloniaUI/Avalonia) | Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project. |
+| [Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) | A 6 Lesson course teaching everything you need to know about harnessing GitHub Copilot and an AI Paired Programing resource. |
 | [namada](https://github.com/anoma/namada) | Rust implementation of Namada, a Proof-of-Stake L1 for interchain asset-agnostic privacy |
-| [weak-to-strong](https://github.com/openai/weak-to-strong) |  |
-| [OutfitAnyone](https://github.com/HumanAIGC/OutfitAnyone) | Outfit Anyone: Ultra-high quality virtual try-on for Any Clothing and Any Person |
-| [sing-box](https://github.com/SagerNet/sing-box) | The universal proxy platform |
-| [Polaris](https://github.com/vectorisvector/Polaris) |  |
-| [lobe-chat](https://github.com/lobehub/lobe-chat) | 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your private ChatGPT/LLM web application. |
-| [immich](https://github.com/immich-app/immich) | Self-hosted photo and video backup solution directly from your mobile phone. |
-| [threestudio](https://github.com/threestudio-project/threestudio) | A unified framework for 3D content generation. |
+| [zulip](https://github.com/zulip/zulip) | Zulip server and web application. Open-source team chat that helps teams stay productive and focused. |
 | [i2vgen-xl](https://github.com/damo-vilab/i2vgen-xl) | Official repo for VGen: a holistic video generation ecosystem for video generation building on diffusion models |
 | [ord](https://github.com/ordinals/ord) | 👁‍🗨 Rare and exotic sats |
+| [Polaris](https://github.com/vectorisvector/Polaris) |  |
+| [data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook) | This is a repo with links to everything you'd ever want to learn about data engineering |
+| [aimoneyhunter](https://github.com/bleedline/aimoneyhunter) | ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。 |
+| [GPT_API_free](https://github.com/chatanywhere/GPT_API_free) | Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
