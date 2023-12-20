@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [Avalonia](https://github.com/AvaloniaUI/Avalonia) | Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project. |
+| [AnyDoor](https://github.com/damo-vilab/AnyDoor) | Official implementations for paper: Anydoor: zero-shot object-level image customization |
+| [i2vgen-xl](https://github.com/damo-vilab/i2vgen-xl) | Official repo for VGen: a holistic video generation ecosystem for video generation building on diffusion models |
+| [weak-to-strong](https://github.com/openai/weak-to-strong) |  |
 | [Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) | A 6 Lesson course teaching everything you need to know about harnessing GitHub Copilot and an AI Paired Programing resource. |
 | [namada](https://github.com/anoma/namada) | Rust implementation of Namada, a Proof-of-Stake L1 for interchain asset-agnostic privacy |
-| [zulip](https://github.com/zulip/zulip) | Zulip server and web application. Open-source team chat that helps teams stay productive and focused. |
-| [i2vgen-xl](https://github.com/damo-vilab/i2vgen-xl) | Official repo for VGen: a holistic video generation ecosystem for video generation building on diffusion models |
-| [ord](https://github.com/ordinals/ord) | 👁‍🗨 Rare and exotic sats |
-| [Polaris](https://github.com/vectorisvector/Polaris) |  |
-| [data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook) | This is a repo with links to everything you'd ever want to learn about data engineering |
+| [DARC](https://github.com/Project-DARC/DARC) | Decentralized Autonomous Regulated Company (DARC), a company virtual machine that runs on any EVM-compatible blockchain, with on-chain law system, multi-level tokens and dividends mechanism. |
 | [aimoneyhunter](https://github.com/bleedline/aimoneyhunter) | ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。 |
-| [GPT_API_free](https://github.com/chatanywhere/GPT_API_free) | Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。 |
+| [manticoresearch](https://github.com/manticoresoftware/manticoresearch) | Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon |
+| [data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook) | This is a repo with links to everything you'd ever want to learn about data engineering |
+| [Amphion](https://github.com/open-mmlab/Amphion) | Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
