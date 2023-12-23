@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) | High-speed Large Language Model Serving on PCs with Consumer-grade GPUs |
-| [AnyDoor](https://github.com/damo-vilab/AnyDoor) | Official implementations for paper: Anydoor: zero-shot object-level image customization |
-| [Amphion](https://github.com/open-mmlab/Amphion) | Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development. |
-| [GeminiProChat](https://github.com/babaohuang/GeminiProChat) | Minimal web UI for GeminiPro. |
-| [tailwindcss](https://github.com/tailwindlabs/tailwindcss) | A utility-first CSS framework for rapid UI development. |
-| [danswer](https://github.com/danswer-ai/danswer) | Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc. |
-| [localsend](https://github.com/localsend/localsend) | An open-source cross-platform alternative to AirDrop |
-| [awesome-database-learning](https://github.com/pingcap/awesome-database-learning) | A list of learning materials to understand databases internals |
-| [XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) | 免费；轻量；开源，基于 AIOHTTP 模块实现的小红书图文 / 视频作品采集工具 |
-| [weekly](https://github.com/ruanyf/weekly) | 科技爱好者周刊，每周五发布 |
+| [mamba-minimal](https://github.com/johnma2006/mamba-minimal) | Simple, minimal implementation of the Mamba SSM in one file of PyTorch. |
+| [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) | Dev tool that writes scalable apps from scratch while the developer oversees the implementation |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [MetaGPT](https://github.com/geekan/MetaGPT) | 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo |
+| [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) | Specify what you want it to build, the AI asks for clarification, and then builds it. |
+| [clone-voice](https://github.com/jianchang512/clone-voice) | 一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频 |
+| [ollama](https://github.com/jmorganca/ollama) | Get up and running with Llama 2 and other large language models locally |
+| [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page |
+| [dlssg-to-fsr3](https://github.com/Nukem9/dlssg-to-fsr3) | Adds AMD FSR3 Frame Generation to games by replacing Nvidia DLSS-G Frame Generation (nvngx_dlssg). |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
