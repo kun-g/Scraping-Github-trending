@@ -29,16 +29,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [anything-llm](https://github.com/Mintplex-Labs/anything-llm) | Open-source ChatGPT experience for both open and closed source LLMs, embedders, and vector databases. Unlimited documents, messages, and concurrent users with permission management in one app. |
+| [ollama](https://github.com/jmorganca/ollama) | Get up and running with Llama 2 and other large language models locally |
+| [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) | Dev tool that writes scalable apps from scratch while the developer oversees the implementation |
+| [promptbase](https://github.com/microsoft/promptbase) | All things prompt engineering |
+| [MetaGPT](https://github.com/geekan/MetaGPT) | 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo |
+| [Amphion](https://github.com/open-mmlab/Amphion) | Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development. |
 | [lobe-chat](https://github.com/lobehub/lobe-chat) | 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your private ChatGPT/LLM web application. |
-| [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project-based tutorials |
-| [mlx-examples](https://github.com/ml-explore/mlx-examples) | Examples in the MLX framework |
-| [superduperdb](https://github.com/SuperDuperDB/superduperdb) | 🔮 SuperDuperDB. Bring AI to your database; integrate, train and manage any AI models and APIs directly with your database and your data. |
-| [page-spy-web](https://github.com/HuolalaTech/page-spy-web) | Debug remotely and easily like chrome devtools. |
-| [vmprotect-3.5.1](https://github.com/jmpoep/vmprotect-3.5.1) |  |
-| [mistral-src](https://github.com/mistralai/mistral-src) | Reference implementation of Mistral AI 7B v0.1 model. |
-| [DemoFusion](https://github.com/PRIS-CV/DemoFusion) | Let us democratise high-resolution generation! (arXiv 2023) |
-| [GPTs](https://github.com/linexjlin/GPTs) | leaked prompts of GPTs |
+| [templ](https://github.com/a-h/templ) | A language for writing HTML user interfaces in Go. |
+| [gkd](https://github.com/gkd-kit/gkd) | 基于 无障碍 + 高级选择器 + 订阅规则 的自定义屏幕点击 Android APP |
+| [localsend](https://github.com/localsend/localsend) | An open-source cross-platform alternative to AirDrop |
+| [oxc](https://github.com/oxc-project/oxc) | ⚓ A collection of JavaScript tools written in Rust. |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
