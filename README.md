@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) | High-speed Large Language Model Serving on PCs with Consumer-grade GPUs |
-| [mamba-minimal](https://github.com/johnma2006/mamba-minimal) | Simple, minimal implementation of the Mamba SSM in one file of PyTorch. |
+| [StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion) | StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation |
 | [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) | Dev tool that writes scalable apps from scratch while the developer oversees the implementation |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [MetaGPT](https://github.com/geekan/MetaGPT) | 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo |
-| [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) | Specify what you want it to build, the AI asks for clarification, and then builds it. |
-| [clone-voice](https://github.com/jianchang512/clone-voice) | 一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频 |
-| [ollama](https://github.com/jmorganca/ollama) | Get up and running with Llama 2 and other large language models locally |
-| [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page |
-| [dlssg-to-fsr3](https://github.com/Nukem9/dlssg-to-fsr3) | Adds AMD FSR3 Frame Generation to games by replacing Nvidia DLSS-G Frame Generation (nvngx_dlssg). |
+| [PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) | High-speed Large Language Model Serving on PCs with Consumer-grade GPUs |
+| [bark](https://github.com/suno-ai/bark) | 🔊 Text-Prompted Generative Audio Model |
+| [imessage](https://github.com/beeper/imessage) | A Matrix-iMessage puppeting bridge. |
+| [Mindustry](https://github.com/Anuken/Mindustry) | The automation tower defense RTS |
+| [life2vec](https://github.com/SocialComplexityLab/life2vec) |  |
+| [serverless](https://github.com/serverless/serverless) | ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! – |
+| [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) | 完全免费开源，基于 Requests 模块实现：TikTok 主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具 |
+| [engineering-blogs](https://github.com/kilimchoi/engineering-blogs) | A curated list of engineering blogs |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
