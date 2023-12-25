@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion) | StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation |
 | [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) | Dev tool that writes scalable apps from scratch while the developer oversees the implementation |
-| [PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) | High-speed Large Language Model Serving on PCs with Consumer-grade GPUs |
-| [bark](https://github.com/suno-ai/bark) | 🔊 Text-Prompted Generative Audio Model |
-| [imessage](https://github.com/beeper/imessage) | A Matrix-iMessage puppeting bridge. |
+| [AppAgent](https://github.com/mnotgod96/AppAgent) | A novel LLM-based multimodal agent framework designed to operate smartphone applications |
+| [StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion) | StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation |
+| [tsc5](https://github.com/ton-community/tsc5) |  |
+| [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) | The open-source AI chat interface for everyone. |
 | [Mindustry](https://github.com/Anuken/Mindustry) | The automation tower defense RTS |
-| [life2vec](https://github.com/SocialComplexityLab/life2vec) |  |
-| [serverless](https://github.com/serverless/serverless) | ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! – |
-| [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) | 完全免费开源，基于 Requests 模块实现：TikTok 主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具 |
-| [engineering-blogs](https://github.com/kilimchoi/engineering-blogs) | A curated list of engineering blogs |
+| [ghidra](https://github.com/NationalSecurityAgency/ghidra) | Ghidra is a software reverse engineering (SRE) framework |
+| [imessage](https://github.com/beeper/imessage) | A Matrix-iMessage puppeting bridge. |
+| [FastGPT](https://github.com/labring/FastGPT) | FastGPT is a knowledge-based QA system built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow orchestration through Flow visualization! |
+| [heynote](https://github.com/heyman/heynote) | A dedicated scratchpad for developers |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
