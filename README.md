@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) | Dev tool that writes scalable apps from scratch while the developer oversees the implementation |
-| [AppAgent](https://github.com/mnotgod96/AppAgent) | A novel LLM-based multimodal agent framework designed to operate smartphone applications |
 | [StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion) | StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation |
-| [tsc5](https://github.com/ton-community/tsc5) |  |
-| [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) | The open-source AI chat interface for everyone. |
-| [Mindustry](https://github.com/Anuken/Mindustry) | The automation tower defense RTS |
-| [ghidra](https://github.com/NationalSecurityAgency/ghidra) | Ghidra is a software reverse engineering (SRE) framework |
-| [imessage](https://github.com/beeper/imessage) | A Matrix-iMessage puppeting bridge. |
-| [FastGPT](https://github.com/labring/FastGPT) | FastGPT is a knowledge-based QA system built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow orchestration through Flow visualization! |
+| [ml-ferret](https://github.com/apple/ml-ferret) |  |
+| [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) | 完全免费开源，基于 Requests 模块实现：TikTok 主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具 |
+| [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) | Dev tool that writes scalable apps from scratch while the developer oversees the implementation |
+| [ERCF_v2](https://github.com/Enraged-Rabbit-Community/ERCF_v2) | Community designed ERCF v2 |
+| [Rope](https://github.com/Hillobar/Rope) | GUI-focused roop |
+| [AppAgent](https://github.com/mnotgod96/AppAgent) | AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps. |
 | [heynote](https://github.com/heyman/heynote) | A dedicated scratchpad for developers |
+| [promptbench](https://github.com/microsoft/promptbench) | A unified evaluation framework for large language models |
+| [Shiro](https://github.com/Innei/Shiro) | 📜 A minimalist personal website embodying the purity of paper and freshness of snow. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
