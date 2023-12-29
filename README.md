@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [Stirling-PDF](https://github.com/Frooodle/Stirling-PDF) | locally hosted web application that allows you to perform various operations on PDF files |
-| [ml-ferret](https://github.com/apple/ml-ferret) |  |
-| [atomicals-js](https://github.com/atomicals/atomicals-js) | Atomicals CLI and Javascript Library |
-| [StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion) | StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation |
-| [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) | A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! |
-| [movie-web](https://github.com/movie-web/movie-web) | A small web app for watching movies and shows easily |
+| [cv](https://github.com/BartoszJarocki/cv) | Print-friendly, minimalist CV page |
+| [gpt4all](https://github.com/nomic-ai/gpt4all) | gpt4all: open-source LLM chatbots that you can run anywhere |
+| [undici](https://github.com/nodejs/undici) | An HTTP/1.1 client, written from scratch for Node.js |
+| [ui](https://github.com/shadcn-ui/ui) | Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source. |
+| [hudi](https://github.com/apache/hudi) | Upserts, Deletes And Incremental Processing on Big Data. |
+| [promptbench](https://github.com/microsoft/promptbench) | A unified evaluation framework for large language models |
+| [Rope](https://github.com/Hillobar/Rope) | GUI-focused roop |
 | [system-design](https://github.com/karanpratapsingh/system-design) | Learn how to design systems at scale and prepare for system design interviews |
-| [TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) | 完全免费开源，基于 Requests 模块实现：TikTok 主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具 |
-| [ha-fusion](https://github.com/matt8707/ha-fusion) | A modern, easy-to-use and performant custom Home Assistant dashboard |
-| [ERCF_v2](https://github.com/Enraged-Rabbit-Community/ERCF_v2) | Community designed ERCF v2 |
+| [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) | A curated awesome list of lists of interview questions. Feel free to contribute! 🎓 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
