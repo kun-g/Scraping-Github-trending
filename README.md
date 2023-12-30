@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [Stirling-PDF](https://github.com/Frooodle/Stirling-PDF) | locally hosted web application that allows you to perform various operations on PDF files |
+| [movie-web](https://github.com/movie-web/movie-web) | A small web app for watching movies and shows easily |
+| [deskhop](https://github.com/hrvach/deskhop) | Fast Desktop Switching Device |
+| [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | A community-supported supercharged version of paperless: scan, index and archive all your physical documents |
 | [cv](https://github.com/BartoszJarocki/cv) | Print-friendly, minimalist CV page |
-| [gpt4all](https://github.com/nomic-ai/gpt4all) | gpt4all: open-source LLM chatbots that you can run anywhere |
-| [undici](https://github.com/nodejs/undici) | An HTTP/1.1 client, written from scratch for Node.js |
-| [ui](https://github.com/shadcn-ui/ui) | Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source. |
-| [hudi](https://github.com/apache/hudi) | Upserts, Deletes And Incremental Processing on Big Data. |
-| [promptbench](https://github.com/microsoft/promptbench) | A unified evaluation framework for large language models |
-| [Rope](https://github.com/Hillobar/Rope) | GUI-focused roop |
-| [system-design](https://github.com/karanpratapsingh/system-design) | Learn how to design systems at scale and prepare for system design interviews |
-| [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) | A curated awesome list of lists of interview questions. Feel free to contribute! 🎓 |
+| [Stirling-PDF](https://github.com/Frooodle/Stirling-PDF) | locally hosted web application that allows you to perform various operations on PDF files |
+| [spotube](https://github.com/KRTirtho/spotube) | 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile! |
+| [ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week) | 🔥Highlighting the top ML papers every week. |
+| [awesome-mac](https://github.com/jaywcjlove/awesome-mac) |  Now we have become very big, Different from the original idea. Collect premium software in various categories. |
+| [Solana-Foam](https://github.com/SoilLabs/Solana-Foam) | Foam mint and claim script |
+| [activepieces](https://github.com/activepieces/activepieces) | Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / Zapier Alternative |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
