@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [movie-web](https://github.com/movie-web/movie-web) | A small web app for watching movies and shows easily |
-| [deskhop](https://github.com/hrvach/deskhop) | Fast Desktop Switching Device |
-| [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | A community-supported supercharged version of paperless: scan, index and archive all your physical documents |
 | [cv](https://github.com/BartoszJarocki/cv) | Print-friendly, minimalist CV page |
-| [Stirling-PDF](https://github.com/Frooodle/Stirling-PDF) | locally hosted web application that allows you to perform various operations on PDF files |
+| [rem](https://github.com/jasonjmcghee/rem) | An open source approach to locally record and enable searching everything you view on your Apple Silicon. |
+| [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | locally hosted web application that allows you to perform various operations on PDF files |
+| [porfolio.dev](https://github.com/midudev/porfolio.dev) | Ejemplo de porfolio para programadores y desarrolladores |
+| [openpilot](https://github.com/commaai/openpilot) | openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models. |
 | [spotube](https://github.com/KRTirtho/spotube) | 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile! |
-| [ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week) | 🔥Highlighting the top ML papers every week. |
-| [awesome-mac](https://github.com/jaywcjlove/awesome-mac) |  Now we have become very big, Different from the original idea. Collect premium software in various categories. |
-| [Solana-Foam](https://github.com/SoilLabs/Solana-Foam) | Foam mint and claim script |
-| [activepieces](https://github.com/activepieces/activepieces) | Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / Zapier Alternative |
+| [llm-course](https://github.com/mlabonne/llm-course) | Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. |
+| [radishes](https://github.com/radishes-music/radishes) | Cross-platform copyright-free music platform（跨平台的无版权音乐平台）. 支持 windows / macos / linux / web |
+| [tamarin-c](https://github.com/stacksmashing/tamarin-c) | A tool to explore USB-C on Apple devices using the Tamarin C Hardware. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
