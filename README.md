@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [movie-web](https://github.com/movie-web/movie-web) | A small web app for watching movies and shows easily |
-| [cv](https://github.com/BartoszJarocki/cv) | Print-friendly, minimalist CV page |
-| [rem](https://github.com/jasonjmcghee/rem) | An open source approach to locally record and enable searching everything you view on your Apple Silicon. |
-| [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | locally hosted web application that allows you to perform various operations on PDF files |
-| [porfolio.dev](https://github.com/midudev/porfolio.dev) | Ejemplo de porfolio para programadores y desarrolladores |
-| [openpilot](https://github.com/commaai/openpilot) | openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models. |
+| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
 | [spotube](https://github.com/KRTirtho/spotube) | 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile! |
+| [Fooocus](https://github.com/lllyasviel/Fooocus) | Focus on prompting and generating |
+| [rinha-de-algoritmos](https://github.com/Universidade-Livre/rinha-de-algoritmos) | Na Rinha de Algoritmos você deve utilizar suas habilidades para a criação de algoritmos eficientes para resolver problemas! |
 | [llm-course](https://github.com/mlabonne/llm-course) | Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. |
-| [radishes](https://github.com/radishes-music/radishes) | Cross-platform copyright-free music platform（跨平台的无版权音乐平台）. 支持 windows / macos / linux / web |
-| [tamarin-c](https://github.com/stacksmashing/tamarin-c) | A tool to explore USB-C on Apple devices using the Tamarin C Hardware. |
+| [promptoftheyear](https://github.com/successfulstudy/promptoftheyear) | In the evolving world of Large Language Models (LLMs), crafting effective prompts has become an essential skill. That's why I've created this collection, showcasing the most impactful prompts of the year across various intriguing domains. 🌐 |
+| [flowpilot](https://github.com/flowdriveai/flowpilot) | flow-pilot is an openpilot based driver assistance system that runs on linux, windows and android powered machines. |
+| [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | A community-supported supercharged version of paperless: scan, index and archive all your physical documents |
+| [Perfect-Roadmap-To-Learn-Data-Science-In-2024](https://github.com/krishnaik06/Perfect-Roadmap-To-Learn-Data-Science-In-2024) |  |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
