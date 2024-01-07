@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [audio2photoreal](https://github.com/facebookresearch/audio2photoreal) | Code and dataset for photorealistic Codec Avatars driven from audio |
+| [maui](https://github.com/dotnet/maui) | .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop. |
+| [go-noss](https://github.com/ubuygold/go-noss) |  |
+| [mobile-aloha](https://github.com/MarkFzp/mobile-aloha) | Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation |
+| [act-plus-plus](https://github.com/MarkFzp/act-plus-plus) | Imitation Learning algorithms with Co-traing for Mobile ALOHA: ACT, Diffusion Policy, VINN |
+| [googleapis](https://github.com/googleapis/googleapis) | Public interface definitions of Google APIs. |
 | [OpenVoice](https://github.com/myshell-ai/OpenVoice) | Instant voice cloning by MyShell. |
-| [1brc](https://github.com/gunnarmorling/1brc) | 1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java |
-| [jan](https://github.com/janhq/jan) | Jan is an open source alternative to ChatGPT that runs 100% offline on your computer |
-| [shuyuan](https://github.com/shidahuilang/shuyuan) | 香色闺阁+阅读3.0书源+源阅读+爱阅书香+花火阅读+读不舍手+IPTV源+IPA巨魔应用=自动更新 |
-| [Terrapin-Scanner](https://github.com/RUB-NDS/Terrapin-Scanner) | This repository contains a simple vulnerability scanner for the Terrapin attack present in the paper "Terrapin Attack: Breaking SSH Channel Integrity By Sequence Number Manipulation". |
-| [homelab](https://github.com/ChristianLempa/homelab) | This is my entire homelab documentation files. Here you'll find notes, setups, and configurations for infrastructure, applications, networking, and more. |
-| [dreamtalk](https://github.com/ali-vilab/dreamtalk) | Official implementations for paper: DreamTalk: When Expressive Talking Head Generation Meets Diffusion Probabilistic Models |
-| [maestro](https://github.com/llenotre/maestro) | Unix-like kernel written in Rust |
-| [llm-course](https://github.com/mlabonne/llm-course) | Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. |
-| [everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) | 人人都能用英语 |
+| [Awesome-gptlike-shellsite](https://github.com/bleedline/Awesome-gptlike-shellsite) | 深入探索精选的套壳站和必备API资源。本文为初学者和经验丰富的运营者提供一站式指南，涵盖常见问题解答和基础攻略，助您迈向套壳站副业成功之路。Dive into a curated selection of shell sites and essential APIs. This article offers a comprehensive guide for both beginners and seasoned operators, covering FAQs and basic strategies to propel you towards success in your shell site side hustle. |
+| [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | 🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。 |
+| [copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service) | Convert the Github Copilot request into a ChatGPT request, free to use the GPT-4 model. 将Github Copilot请求转换为ChatGPT请求，免费使用GPT-4模型 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
