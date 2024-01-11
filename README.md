@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service) | Convert Github Copilot to ChatGPT, free to use the GPT-4 model |
-| [B9A1-New-Year-New-Mission](https://github.com/ProgrammingHero1/B9A1-New-Year-New-Mission) |  |
-| [crewAI](https://github.com/joaomdmoura/crewAI) | Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. |
-| [dreamoving-project](https://github.com/dreamoving/dreamoving-project) | Official implementation of DreaMoving |
+| [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) | The open-source AI chat app for everyone. |
+| [LSPosed](https://github.com/LSPosed/LSPosed) | LSPosed Framework |
 | [data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) | Free Data Engineering course! |
-| [open-interpreter](https://github.com/KillianLucas/open-interpreter) | A natural language interface for computers |
-| [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | A list of useful payloads and bypass for Web Application Security and Pentest/CTF |
-| [1brc](https://github.com/buybackoff/1brc) |  |
-| [RAG-Survey](https://github.com/Tongji-KGLLM/RAG-Survey) |  |
-| [Awesome-gptlike-shellsite](https://github.com/bleedline/Awesome-gptlike-shellsite) | 深入探索精选的套壳站和必备API资源。本文为初学者和经验丰富的运营者提供一站式指南，涵盖常见问题解答和基础攻略，助您迈向套壳站副业成功之路。Dive into a curated selection of shell sites and essential APIs. This article offers a comprehensive guide for both beginners and seasoned operators, covering FAQs and basic strategies to propel you towards success in your shell site side hustle. |
+| [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) | A curated awesome list of lists of interview questions. Feel free to contribute! 🎓 |
+| [dive](https://github.com/wagoodman/dive) | A tool for exploring each layer in a docker image |
+| [KernelSU](https://github.com/tiann/KernelSU) | A Kernel based root solution for Android |
+| [LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) | 一键自动化 下载、安装、激活 Office 的利器。 |
+| [tldraw](https://github.com/tldraw/tldraw) | a very good whiteboard |
+| [tachiyomi-extensions-revived](https://github.com/ThePBone/tachiyomi-extensions-revived) | Revival of removed source extensions for the Tachiyomi app. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
