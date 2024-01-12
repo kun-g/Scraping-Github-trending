@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service) | Convert Github Copilot to ChatGPT, free to use the GPT-4 model |
-| [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) | The open-source AI chat app for everyone. |
-| [LSPosed](https://github.com/LSPosed/LSPosed) | LSPosed Framework |
-| [data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) | Free Data Engineering course! |
-| [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) | A curated awesome list of lists of interview questions. Feel free to contribute! 🎓 |
-| [dive](https://github.com/wagoodman/dive) | A tool for exploring each layer in a docker image |
-| [KernelSU](https://github.com/tiann/KernelSU) | A Kernel based root solution for Android |
-| [LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) | 一键自动化 下载、安装、激活 Office 的利器。 |
-| [tldraw](https://github.com/tldraw/tldraw) | a very good whiteboard |
-| [tachiyomi-extensions-revived](https://github.com/ThePBone/tachiyomi-extensions-revived) | Revival of removed source extensions for the Tachiyomi app. |
+| [copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service) | Convert Github Copilot to ChatGPT |
+| [extensions](https://github.com/keiyoushi/extensions) | Source extensions for the Tachiyomi app. |
+| [extensions-source](https://github.com/keiyoushi/extensions-source) | Source code of the extensions for the Tachiyomi app. |
+| [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity |
+| [tachiyomi](https://github.com/tachiyomiorg/tachiyomi) | Free and open source manga reader for Android. |
+| [atuin](https://github.com/atuinsh/atuin) | ✨ Magical shell history |
+| [IPTV](https://github.com/Meroser/IPTV) | 湖南电信、移动、联通组播源，IPv6源，完善的台标，几近完美的EPG节目预告[强迫症福音] |
+| [tachyon](https://github.com/kroma-network/tachyon) | Modular ZK(Zero Knowledge) backend accelerated by GPU |
+| [excalidraw](https://github.com/excalidraw/excalidraw) | Virtual whiteboard for sketching hand-drawn like diagrams |
+| [Serotonin](https://github.com/mineek/Serotonin) |  |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
