@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) | The open-source AI chat app for everyone. |
 | [copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service) | Convert Github Copilot to ChatGPT |
+| [subql](https://github.com/subquery/subql) | SubQuery is an Open, Flexible, Fast and Universal data indexing framework for web3. Our mission is to help developers create the decentralised products of the future. |
+| [meilisearch](https://github.com/meilisearch/meilisearch) | A lightning-fast search API that fits effortlessly into your apps, websites, and workflow |
+| [maybe](https://github.com/maybe-finance/maybe) | Personal finance and wealth management app |
+| [tweb](https://github.com/morethanwords/tweb) | Telegram Web K, GPL v3 |
+| [terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) | Terraform module to create AWS Elastic Kubernetes (EKS) resources 🇺🇦 |
 | [extensions](https://github.com/keiyoushi/extensions) | Source extensions for the Tachiyomi app. |
-| [extensions-source](https://github.com/keiyoushi/extensions-source) | Source code of the extensions for the Tachiyomi app. |
-| [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity |
-| [tachiyomi](https://github.com/tachiyomiorg/tachiyomi) | Free and open source manga reader for Android. |
-| [atuin](https://github.com/atuinsh/atuin) | ✨ Magical shell history |
-| [IPTV](https://github.com/Meroser/IPTV) | 湖南电信、移动、联通组播源，IPv6源，完善的台标，几近完美的EPG节目预告[强迫症福音] |
-| [tachyon](https://github.com/kroma-network/tachyon) | Modular ZK(Zero Knowledge) backend accelerated by GPU |
 | [excalidraw](https://github.com/excalidraw/excalidraw) | Virtual whiteboard for sketching hand-drawn like diagrams |
-| [Serotonin](https://github.com/mineek/Serotonin) |  |
+| [flink](https://github.com/apache/flink) | Apache Flink |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
