@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) | The open-source AI chat app for everyone. |
-| [copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service) | Convert Github Copilot to ChatGPT |
-| [subql](https://github.com/subquery/subql) | SubQuery is an Open, Flexible, Fast and Universal data indexing framework for web3. Our mission is to help developers create the decentralised products of the future. |
-| [meilisearch](https://github.com/meilisearch/meilisearch) | A lightning-fast search API that fits effortlessly into your apps, websites, and workflow |
 | [maybe](https://github.com/maybe-finance/maybe) | Personal finance and wealth management app |
-| [tweb](https://github.com/morethanwords/tweb) | Telegram Web K, GPL v3 |
-| [terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) | Terraform module to create AWS Elastic Kubernetes (EKS) resources 🇺🇦 |
-| [extensions](https://github.com/keiyoushi/extensions) | Source extensions for the Tachiyomi app. |
 | [excalidraw](https://github.com/excalidraw/excalidraw) | Virtual whiteboard for sketching hand-drawn like diagrams |
-| [flink](https://github.com/apache/flink) | Apache Flink |
+| [atuin](https://github.com/atuinsh/atuin) | ✨ Magical shell history |
+| [deploy](https://github.com/pandora-next/deploy) | Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API + Signup Free = PandoraNext. New GPTs(Gizmo) UI, All in one! |
+| [everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) | 人人都能用英语 |
+| [ReplaceAnything](https://github.com/AIGCDesignGroup/ReplaceAnything) |  |
+| [my-tv](https://github.com/lizongying/my-tv) | 安卓电视直播软件，内置直播源 |
+| [ruby](https://github.com/ruby/ruby) | The Ruby Programming Language |
+| [yazi](https://github.com/sxyazi/yazi) | 💥 Blazing fast terminal file manager written in Rust, based on async I/O. |
+| [subql](https://github.com/subquery/subql) | SubQuery is an Open, Flexible, Fast and Universal data indexing framework for web3. Our mission is to help developers create the decentralised products of the future. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
