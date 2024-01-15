@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [maybe](https://github.com/maybe-finance/maybe) | Personal finance and wealth management app |
-| [excalidraw](https://github.com/excalidraw/excalidraw) | Virtual whiteboard for sketching hand-drawn like diagrams |
-| [atuin](https://github.com/atuinsh/atuin) | ✨ Magical shell history |
-| [deploy](https://github.com/pandora-next/deploy) | Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API + Signup Free = PandoraNext. New GPTs(Gizmo) UI, All in one! |
+| [raddebugger](https://github.com/EpicGames/raddebugger) | A native, user-mode, multi-process, graphical debugger. |
+| [LibreChat](https://github.com/danny-avila/LibreChat) | Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development |
 | [everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) | 人人都能用英语 |
-| [ReplaceAnything](https://github.com/AIGCDesignGroup/ReplaceAnything) |  |
-| [my-tv](https://github.com/lizongying/my-tv) | 安卓电视直播软件，内置直播源 |
-| [ruby](https://github.com/ruby/ruby) | The Ruby Programming Language |
-| [yazi](https://github.com/sxyazi/yazi) | 💥 Blazing fast terminal file manager written in Rust, based on async I/O. |
-| [subql](https://github.com/subquery/subql) | SubQuery is an Open, Flexible, Fast and Universal data indexing framework for web3. Our mission is to help developers create the decentralised products of the future. |
+| [open-interpreter](https://github.com/KillianLucas/open-interpreter) | A natural language interface for computers |
+| [excalidraw](https://github.com/excalidraw/excalidraw) | Virtual whiteboard for sketching hand-drawn like diagrams |
+| [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) | The open-source AI chat app for everyone. |
+| [marimo](https://github.com/marimo-team/marimo) | A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git. |
+| [gateway](https://github.com/Portkey-AI/gateway) | A Blazing Fast AI Gateway. Route to 100+ LLMs with 1 fast & friendly API. |
+| [maybe](https://github.com/maybe-finance/maybe) | Personal finance and wealth management app |
+| [tachiyomi](https://github.com/tachiyomiorg/tachiyomi) | Free and open source manga reader for Android. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
