@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [maybe](https://github.com/maybe-finance/maybe) | Personal finance and wealth management app |
-| [tachiyomi](https://github.com/tachiyomiorg/tachiyomi) | Free and open source manga reader for Android. |
-| [tachiyomi-extensions-revived](https://github.com/ThePBone/tachiyomi-extensions-revived) | Revival of removed source extensions for the Tachiyomi app. |
-| [hello-algo](https://github.com/krahets/hello-algo) | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。 |
 | [everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) | 人人都能用英语 |
-| [extensions](https://github.com/tachiyomiorg/extensions) | Source extensions for the Tachiyomi app. |
-| [extensions](https://github.com/keiyoushi/extensions) | Source extensions for the Tachiyomi app. |
-| [autogen](https://github.com/microsoft/autogen) | Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ |
-| [GPTs](https://github.com/linexjlin/GPTs) | leaked prompts of GPTs |
-| [open-interpreter](https://github.com/KillianLucas/open-interpreter) | A natural language interface for computers |
+| [maybe](https://github.com/maybe-finance/maybe) | Personal finance and wealth management app |
+| [LibreChat](https://github.com/danny-avila/LibreChat) | Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development |
+| [Moore-AnimateAnyone](https://github.com/MooreThreads/Moore-AnimateAnyone) |  |
+| [data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) | Free Data Engineering course! |
+| [htmx](https://github.com/bigskysoftware/htmx) | </> htmx - high power tools for HTML |
+| [hello-algo](https://github.com/krahets/hello-algo) | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。 |
+| [surya](https://github.com/VikParuchuri/surya) | Accurate line-level text detection and recognition (OCR) in any language |
+| [raddebugger](https://github.com/EpicGames/raddebugger) | A native, user-mode, multi-process, graphical debugger. |
+| [FreeTube](https://github.com/FreeTubeApp/FreeTube) | An Open Source YouTube app for privacy |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
