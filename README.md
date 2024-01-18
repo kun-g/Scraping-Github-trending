@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) | 人人都能用英语 |
+| [PhotoMaker](https://github.com/TencentARC/PhotoMaker) | PhotoMaker |
 | [maybe](https://github.com/maybe-finance/maybe) | Personal finance and wealth management app |
-| [LibreChat](https://github.com/danny-avila/LibreChat) | Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development |
-| [Moore-AnimateAnyone](https://github.com/MooreThreads/Moore-AnimateAnyone) |  |
-| [data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) | Free Data Engineering course! |
-| [htmx](https://github.com/bigskysoftware/htmx) | </> htmx - high power tools for HTML |
-| [hello-algo](https://github.com/krahets/hello-algo) | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。 |
+| [GPTs](https://github.com/linexjlin/GPTs) | leaked prompts of GPTs |
+| [aimoneyhunter](https://github.com/bleedline/aimoneyhunter) | ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights. |
 | [surya](https://github.com/VikParuchuri/surya) | Accurate line-level text detection and recognition (OCR) in any language |
-| [raddebugger](https://github.com/EpicGames/raddebugger) | A native, user-mode, multi-process, graphical debugger. |
-| [FreeTube](https://github.com/FreeTubeApp/FreeTube) | An Open Source YouTube app for privacy |
+| [STL](https://github.com/microsoft/STL) | MSVC's implementation of the C++ Standard Library. |
+| [data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) | Free Data Engineering course! |
+| [skfolio](https://github.com/skfolio/skfolio) | Python library for portfolio optimization built on top of scikit-learn |
+| [vanna](https://github.com/vanna-ai/vanna) | 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄. |
+| [angular-cli](https://github.com/angular/angular-cli) | CLI tool for Angular |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
