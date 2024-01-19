@@ -13,16 +13,6 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) | 人人都能用英语 |
-| [PhotoMaker](https://github.com/TencentARC/PhotoMaker) | PhotoMaker |
-| [mihon](https://github.com/mihonapp/mihon) | Free and open source manga reader for Android |
-| [QAnything](https://github.com/netease-youdao/QAnything) | Question and Answer based on Anything. |
-| [GPTs](https://github.com/linexjlin/GPTs) | leaked prompts of GPTs |
-| [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 📚 免费的计算机编程类中文书籍，欢迎投稿 |
-| [aimoneyhunter](https://github.com/bleedline/aimoneyhunter) | ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights. |
-| [TaskWeaver](https://github.com/microsoft/TaskWeaver) | A code-first agent framework for seamlessly planning and executing data analytics tasks. |
-| [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering |
-| [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) | 1 min voice data can also be used to train a good TTS model! (few shot voice cloning) |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
