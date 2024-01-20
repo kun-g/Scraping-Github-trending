@@ -13,6 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [ant](https://github.com/ejoy/ant) | Ant game engine |
+| [PhotoMaker](https://github.com/TencentARC/PhotoMaker) | PhotoMaker |
+| [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) | 1 min voice data can also be used to train a good TTS model! (few shot voice cloning) |
+| [holidays](https://github.com/spatie/holidays) | Calculate which days you don't have to work! |
+| [QAnything](https://github.com/netease-youdao/QAnything) | Question and Answer based on Anything. |
+| [hon](https://github.com/Andre0512/hon) | Home Assistant integration for Haier hOn: support for Haier/Candy/Hoover home appliances like washing machines and air conditioners in 19 languages. |
+| [alphageometry](https://github.com/google-deepmind/alphageometry) |  |
+| [InstantID](https://github.com/InstantID/InstantID) | InstantID : Zero-shot Identity-Preserving Generation in Seconds 🔥 |
+| [ksimple](https://github.com/kparc/ksimple) | bare minimum atw-style interpreter for learning purposes |
+| [generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) | Sample code and notebooks for Generative AI on Google Cloud |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
