@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [ant](https://github.com/ejoy/ant) | Ant game engine |
-| [PhotoMaker](https://github.com/TencentARC/PhotoMaker) | PhotoMaker |
 | [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) | 1 min voice data can also be used to train a good TTS model! (few shot voice cloning) |
-| [holidays](https://github.com/spatie/holidays) | Calculate which days you don't have to work! |
-| [QAnything](https://github.com/netease-youdao/QAnything) | Question and Answer based on Anything. |
-| [hon](https://github.com/Andre0512/hon) | Home Assistant integration for Haier hOn: support for Haier/Candy/Hoover home appliances like washing machines and air conditioners in 19 languages. |
 | [alphageometry](https://github.com/google-deepmind/alphageometry) |  |
-| [InstantID](https://github.com/InstantID/InstantID) | InstantID : Zero-shot Identity-Preserving Generation in Seconds 🔥 |
-| [ksimple](https://github.com/kparc/ksimple) | bare minimum atw-style interpreter for learning purposes |
-| [generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) | Sample code and notebooks for Generative AI on Google Cloud |
+| [hon](https://github.com/Andre0512/hon) | Home Assistant integration for Haier hOn: support for Haier/Candy/Hoover home appliances like washing machines and air conditioners in 19 languages. |
+| [pyhOn](https://github.com/Andre0512/pyhOn) | Control hOn devices with python |
+| [AlphaCodium](https://github.com/Codium-ai/AlphaCodium) | code generation tool that surpasses most human competitors in CodeContests |
+| [Vim](https://github.com/hustvl/Vim) | Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model |
+| [English-level-up-tips](https://github.com/byoungd/English-level-up-tips) | An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程。 |
+| [WhisperSpeech](https://github.com/collabora/WhisperSpeech) | An Open Source text-to-speech system built by inverting Whisper. |
+| [TaskWeaver](https://github.com/microsoft/TaskWeaver) | A code-first agent framework for seamlessly planning and executing data analytics tasks. |
+| [applied-ml](https://github.com/eugeneyan/applied-ml) | 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
