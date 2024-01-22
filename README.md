@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) | 1 min voice data can also be used to train a good TTS model! (few shot voice cloning) |
-| [alphageometry](https://github.com/google-deepmind/alphageometry) |  |
-| [hon](https://github.com/Andre0512/hon) | Home Assistant integration for Haier hOn: support for Haier/Candy/Hoover home appliances like washing machines and air conditioners in 19 languages. |
-| [pyhOn](https://github.com/Andre0512/pyhOn) | Control hOn devices with python |
-| [AlphaCodium](https://github.com/Codium-ai/AlphaCodium) | code generation tool that surpasses most human competitors in CodeContests |
-| [Vim](https://github.com/hustvl/Vim) | Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model |
-| [English-level-up-tips](https://github.com/byoungd/English-level-up-tips) | An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程。 |
-| [WhisperSpeech](https://github.com/collabora/WhisperSpeech) | An Open Source text-to-speech system built by inverting Whisper. |
+| [spotube](https://github.com/KRTirtho/spotube) | 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile! |
+| [rustdesk](https://github.com/rustdesk/rustdesk) | An open-source remote desktop, and alternative to TeamViewer. |
+| [diagrams](https://github.com/mingrammer/diagrams) | 🎨 Diagram as Code for prototyping cloud system architectures |
+| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
+| [AlphaCodium](https://github.com/Codium-ai/AlphaCodium) | Official implementation for the paper: "Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering"" |
 | [TaskWeaver](https://github.com/microsoft/TaskWeaver) | A code-first agent framework for seamlessly planning and executing data analytics tasks. |
-| [applied-ml](https://github.com/eugeneyan/applied-ml) | 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production. |
+| [refine](https://github.com/refinedev/refine) | A React Framework for building internal tools, admin panels, dashboards & B2B apps with unmatched flexibility. |
+| [hon](https://github.com/Andre0512/hon) | Home Assistant integration for Haier hOn: support for Haier/Candy/Hoover home appliances like washing machines and air conditioners in 19 languages. |
+| [InstantID](https://github.com/InstantID/InstantID) | InstantID : Zero-shot Identity-Preserving Generation in Seconds 🔥 |
+| [QAnything](https://github.com/netease-youdao/QAnything) | Question and Answer based on Anything. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
