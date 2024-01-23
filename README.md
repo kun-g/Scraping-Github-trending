@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [spotube](https://github.com/KRTirtho/spotube) | 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile! |
-| [rustdesk](https://github.com/rustdesk/rustdesk) | An open-source remote desktop, and alternative to TeamViewer. |
-| [diagrams](https://github.com/mingrammer/diagrams) | 🎨 Diagram as Code for prototyping cloud system architectures |
-| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
-| [AlphaCodium](https://github.com/Codium-ai/AlphaCodium) | Official implementation for the paper: "Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering"" |
-| [TaskWeaver](https://github.com/microsoft/TaskWeaver) | A code-first agent framework for seamlessly planning and executing data analytics tasks. |
-| [refine](https://github.com/refinedev/refine) | A React Framework for building internal tools, admin panels, dashboards & B2B apps with unmatched flexibility. |
-| [hon](https://github.com/Andre0512/hon) | Home Assistant integration for Haier hOn: support for Haier/Candy/Hoover home appliances like washing machines and air conditioners in 19 languages. |
-| [InstantID](https://github.com/InstantID/InstantID) | InstantID : Zero-shot Identity-Preserving Generation in Seconds 🔥 |
-| [QAnything](https://github.com/netease-youdao/QAnything) | Question and Answer based on Anything. |
+| [OpenGFW](https://github.com/apernet/OpenGFW) | OpenGFW is a flexible, easy-to-use, open source implementation of GFW on Linux |
+| [crewai-experiments](https://github.com/majacinka/crewai-experiments) | Experiments with local as well as models available through an api |
+| [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) | 1 min voice data can also be used to train a good TTS model! (few shot voice cloning) |
+| [gpt4free](https://github.com/xtekky/gpt4free) | The official gpt4free repository | various collection of powerful language models |
+| [sing-box](https://github.com/SagerNet/sing-box) | The universal proxy platform |
+| [n8n](https://github.com/n8n-io/n8n) | Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services. |
+| [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) | A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! |
+| [imgui](https://github.com/ocornut/imgui) | Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies |
+| [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 12 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
