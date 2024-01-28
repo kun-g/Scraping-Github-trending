@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [google-indexing-script](https://github.com/goenning/google-indexing-script) | Script to get your site indexed on Google in less than 48 hours |
-| [llm-course](https://github.com/mlabonne/llm-course) | Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. |
-| [ollama](https://github.com/ollama/ollama) | Get up and running with Llama 2, Mistral, and other large language models locally. |
 | [zed](https://github.com/zed-industries/zed) | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. |
-| [devops-exercises](https://github.com/bregman-arie/devops-exercises) | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions |
-| [system-design-101](https://github.com/ByteByteGoHq/system-design-101) | Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. |
-| [papers-we-love](https://github.com/papers-we-love/papers-we-love) | Papers from the computer science community to read and discuss. |
-| [RPG-DiffusionMaster](https://github.com/YangLing0818/RPG-DiffusionMaster) | Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs (PRG) |
-| [Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) | Modern C++ Programming Course (C++11/14/17/20) |
-| [GenerativeAIExamples](https://github.com/NVIDIA/GenerativeAIExamples) | Generative AI reference workflows optimized for accelerated infrastructure and microservice architecture. |
+| [English-level-up-tips](https://github.com/byoungd/English-level-up-tips) | An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程。 |
+| [ComfyUI-InstantID](https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID) | Unofficial implementation of InstantID for ComfyUI |
+| [google-indexing-script](https://github.com/goenning/google-indexing-script) | Script to get your site indexed on Google in less than 48 hours |
+| [mamba](https://github.com/state-spaces/mamba) |  |
+| [maui](https://github.com/dotnet/maui) | .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop. |
+| [nuxt](https://github.com/nuxt/nuxt) | The Intuitive Vue Framework. |
+| [IPTV](https://github.com/joevess/IPTV) | IPTV直播源抓取 自动整合好趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新 |
+| [black](https://github.com/psf/black) | The uncompromising Python code formatter |
+| [Lumos](https://github.com/andrewnguonly/Lumos) | A RAG LLM co-pilot for browsing the web, powered by local LLMs |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
