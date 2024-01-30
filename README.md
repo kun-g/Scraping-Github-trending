@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [search_with_lepton](https://github.com/leptonai/search_with_lepton) | Building a quick conversation-based search demo with Lepton AI. |
-| [zed](https://github.com/zed-industries/zed) | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. |
-| [google-indexing-script](https://github.com/goenning/google-indexing-script) | Script to get your site indexed on Google in less than 48 hours |
-| [Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) | Modern C++ Programming Course (C++11/14/17/20/23) |
-| [everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) | 人人都能用英语 |
-| [palworld-save-tools](https://github.com/cheahjs/palworld-save-tools) | Tools for converting PalWorld .sav files to JSON and back |
-| [PalWorld-NetCrack](https://github.com/swordbluesword/PalWorld-NetCrack) |  |
 | [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | Implementing a ChatGPT-like LLM from scratch, step by step |
-| [bevy](https://github.com/bevyengine/bevy) | A refreshingly simple data-driven game engine built in Rust |
-| [Web-dev-mini-projects](https://github.com/Ayushparikh-code/Web-dev-mini-projects) | The repository contains the list of awesome✨ & cool web development beginner-friendly✌️ projects! |
+| [data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) | Free Data Engineering course! |
+| [fc-polls](https://github.com/farcasterxyz/fc-polls) |  |
+| [RAGatouille](https://github.com/bclavie/RAGatouille) |  |
+| [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI |
+| [MLTradingBot](https://github.com/nicknochnack/MLTradingBot) |  |
+| [palworld-save-tools](https://github.com/cheahjs/palworld-save-tools) | Tools for converting PalWorld .sav files to JSON and back |
+| [fuel-core](https://github.com/FuelLabs/fuel-core) | Rust full node implementation of the Fuel v2 protocol. |
+| [c_std](https://github.com/KaisenAmin/c_std) | Implementation of C++ standard libraries in C |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
