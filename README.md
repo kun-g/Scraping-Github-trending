@@ -15,14 +15,14 @@
 | :----: | :----: |
 | [search_with_lepton](https://github.com/leptonai/search_with_lepton) | Building a quick conversation-based search demo with Lepton AI. |
 | [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | Implementing a ChatGPT-like LLM from scratch, step by step |
-| [data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) | Free Data Engineering course! |
-| [fc-polls](https://github.com/farcasterxyz/fc-polls) |  |
-| [RAGatouille](https://github.com/bclavie/RAGatouille) |  |
-| [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI |
-| [MLTradingBot](https://github.com/nicknochnack/MLTradingBot) |  |
-| [palworld-save-tools](https://github.com/cheahjs/palworld-save-tools) | Tools for converting PalWorld .sav files to JSON and back |
-| [fuel-core](https://github.com/FuelLabs/fuel-core) | Rust full node implementation of the Fuel v2 protocol. |
+| [moondream](https://github.com/vikhyat/moondream) | tiny vision language model |
+| [Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) | Modern C++ Programming Course (C++11/14/17/20/23) |
 | [c_std](https://github.com/KaisenAmin/c_std) | Implementation of C++ standard libraries in C |
+| [CVE-2024-23897](https://github.com/h4x0r-dz/CVE-2024-23897) | CVE-2024-23897 |
+| [excelCPU](https://github.com/InkboxSoftware/excelCPU) | 16-bit CPU for Excel, and related files |
+| [Yi](https://github.com/01-ai/Yi) | A series of large language models trained from scratch by developers @01-ai |
+| [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project-based tutorials |
+| [90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) | This repository contains a 90-day cybersecurity study plan, along with resources and materials for learning various cybersecurity concepts and technologies. The plan is organized into daily tasks, covering topics such as Network+, Security+, Linux, Python, Traffic Analysis, Git, ELK, AWS, Azure, and Hacking. The repository also includes a `LEARN.md |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
