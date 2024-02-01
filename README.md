@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [search_with_lepton](https://github.com/leptonai/search_with_lepton) | Building a quick conversation-based search demo with Lepton AI. |
-| [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | Implementing a ChatGPT-like LLM from scratch, step by step |
-| [moondream](https://github.com/vikhyat/moondream) | tiny vision language model |
-| [Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) | Modern C++ Programming Course (C++11/14/17/20/23) |
-| [c_std](https://github.com/KaisenAmin/c_std) | Implementation of C++ standard libraries in C |
-| [CVE-2024-23897](https://github.com/h4x0r-dz/CVE-2024-23897) | CVE-2024-23897 |
+| [fabric](https://github.com/danielmiessler/fabric) | fabric is an open-source framework for augmenting humans using AI. |
+| [leptonai](https://github.com/leptonai/leptonai) | A Pythonic framework to simplify AI service building |
+| [IPTV](https://github.com/joevess/IPTV) | IPTV直播源抓取 自动整合好趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新 |
 | [excelCPU](https://github.com/InkboxSoftware/excelCPU) | 16-bit CPU for Excel, and related files |
-| [Yi](https://github.com/01-ai/Yi) | A series of large language models trained from scratch by developers @01-ai |
-| [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project-based tutorials |
-| [90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) | This repository contains a 90-day cybersecurity study plan, along with resources and materials for learning various cybersecurity concepts and technologies. The plan is organized into daily tasks, covering topics such as Network+, Security+, Linux, Python, Traffic Analysis, Git, ELK, AWS, Azure, and Hacking. The repository also includes a `LEARN.md |
+| [search_with_lepton](https://github.com/leptonai/search_with_lepton) | Building a quick conversation-based search demo with Lepton AI. |
+| [nx](https://github.com/nrwl/nx) | Smart Monorepos · Fast CI |
+| [codellama](https://github.com/facebookresearch/codellama) | Inference code for CodeLlama models |
+| [aicover](https://github.com/all-in-aigc/aicover) | ai cover generator |
+| [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | Implementing a ChatGPT-like LLM from scratch, step by step |
+| [FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) | Dense Retrieval and Retrieval-augmented LLMs |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
