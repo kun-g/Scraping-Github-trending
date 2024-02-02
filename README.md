@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [fabric](https://github.com/danielmiessler/fabric) | fabric is an open-source framework for augmenting humans using AI. |
-| [leptonai](https://github.com/leptonai/leptonai) | A Pythonic framework to simplify AI service building |
-| [IPTV](https://github.com/joevess/IPTV) | IPTV直播源抓取 自动整合好趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新 |
 | [excelCPU](https://github.com/InkboxSoftware/excelCPU) | 16-bit CPU for Excel, and related files |
-| [search_with_lepton](https://github.com/leptonai/search_with_lepton) | Building a quick conversation-based search demo with Lepton AI. |
-| [nx](https://github.com/nrwl/nx) | Smart Monorepos · Fast CI |
-| [codellama](https://github.com/facebookresearch/codellama) | Inference code for CodeLlama models |
+| [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | This repo includes ChatGPT prompt curation to use ChatGPT better. |
 | [aicover](https://github.com/all-in-aigc/aicover) | ai cover generator |
-| [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | Implementing a ChatGPT-like LLM from scratch, step by step |
-| [FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) | Dense Retrieval and Retrieval-augmented LLMs |
+| [codellama](https://github.com/facebookresearch/codellama) | Inference code for CodeLlama models |
+| [plura-production](https://github.com/webprodigies/plura-production) |  |
+| [Celeste64](https://github.com/ExOK/Celeste64) | A game made by the Celeste developers in a week(ish, closer to 2) |
+| [LLaVA](https://github.com/haotian-liu/LLaVA) | [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond. |
+| [mlflow](https://github.com/mlflow/mlflow) | Open source platform for the machine learning lifecycle |
+| [MoE-LLaVA](https://github.com/PKU-YuanGroup/MoE-LLaVA) | Mixture-of-Experts for Large Vision-Language Models |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
