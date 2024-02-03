@@ -15,14 +15,14 @@
 | :----: | :----: |
 | [fabric](https://github.com/danielmiessler/fabric) | fabric is an open-source framework for augmenting humans using AI. |
 | [excelCPU](https://github.com/InkboxSoftware/excelCPU) | 16-bit CPU for Excel, and related files |
-| [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | This repo includes ChatGPT prompt curation to use ChatGPT better. |
-| [aicover](https://github.com/all-in-aigc/aicover) | ai cover generator |
-| [codellama](https://github.com/facebookresearch/codellama) | Inference code for CodeLlama models |
-| [plura-production](https://github.com/webprodigies/plura-production) |  |
-| [Celeste64](https://github.com/ExOK/Celeste64) | A game made by the Celeste developers in a week(ish, closer to 2) |
 | [LLaVA](https://github.com/haotian-liu/LLaVA) | [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond. |
+| [my-tv](https://github.com/lizongying/my-tv) | 我的电视 电视直播软件，安装即可使用 |
+| [InstantID](https://github.com/InstantID/InstantID) | InstantID : Zero-shot Identity-Preserving Generation in Seconds 🔥 |
+| [daily-code](https://github.com/code100x/daily-code) |  |
+| [YOLO-World](https://github.com/AILab-CVC/YOLO-World) | Real-Time Open-Vocabulary Object Detection |
 | [mlflow](https://github.com/mlflow/mlflow) | Open source platform for the machine learning lifecycle |
-| [MoE-LLaVA](https://github.com/PKU-YuanGroup/MoE-LLaVA) | Mixture-of-Experts for Large Vision-Language Models |
+| [runner-images](https://github.com/actions/runner-images) | GitHub Actions runner images |
+| [namada](https://github.com/anoma/namada) | Rust implementation of Namada, a Proof-of-Stake L1 for interchain asset-agnostic privacy |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
