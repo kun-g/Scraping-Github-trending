@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [MiniCPM](https://github.com/OpenBMB/MiniCPM) | MiniCPM-2B: An end-side LLM outperforms Llama2-13B. |
 | [fabric](https://github.com/danielmiessler/fabric) | fabric is an open-source framework for augmenting humans using AI. |
+| [maybe](https://github.com/maybe-finance/maybe) | The OS for your personal finances |
 | [excelCPU](https://github.com/InkboxSoftware/excelCPU) | 16-bit CPU for Excel, and related files |
+| [terminal](https://github.com/microsoft/terminal) | The new Windows Terminal and the original Windows console host, all in the same place! |
+| [memos](https://github.com/usememos/memos) | An open source, lightweight note-taking service. Easily capture and share your great thoughts. |
 | [LLaVA](https://github.com/haotian-liu/LLaVA) | [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond. |
-| [my-tv](https://github.com/lizongying/my-tv) | 我的电视 电视直播软件，安装即可使用 |
-| [InstantID](https://github.com/InstantID/InstantID) | InstantID : Zero-shot Identity-Preserving Generation in Seconds 🔥 |
-| [daily-code](https://github.com/code100x/daily-code) |  |
-| [YOLO-World](https://github.com/AILab-CVC/YOLO-World) | Real-Time Open-Vocabulary Object Detection |
-| [mlflow](https://github.com/mlflow/mlflow) | Open source platform for the machine learning lifecycle |
-| [runner-images](https://github.com/actions/runner-images) | GitHub Actions runner images |
-| [namada](https://github.com/anoma/namada) | Rust implementation of Namada, a Proof-of-Stake L1 for interchain asset-agnostic privacy |
+| [OLMo](https://github.com/allenai/OLMo) | Modeling, training, eval, and inference code for OLMo |
+| [IOPaint](https://github.com/Sanster/IOPaint) | Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures. |
+| [imersao17](https://github.com/devfullcycle/imersao17) |  |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
