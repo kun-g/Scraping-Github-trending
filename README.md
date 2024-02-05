@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [MiniCPM](https://github.com/OpenBMB/MiniCPM) | MiniCPM-2B: An end-side LLM outperforms Llama2-13B. |
-| [fabric](https://github.com/danielmiessler/fabric) | fabric is an open-source framework for augmenting humans using AI. |
-| [maybe](https://github.com/maybe-finance/maybe) | The OS for your personal finances |
-| [excelCPU](https://github.com/InkboxSoftware/excelCPU) | 16-bit CPU for Excel, and related files |
-| [terminal](https://github.com/microsoft/terminal) | The new Windows Terminal and the original Windows console host, all in the same place! |
-| [memos](https://github.com/usememos/memos) | An open source, lightweight note-taking service. Easily capture and share your great thoughts. |
-| [LLaVA](https://github.com/haotian-liu/LLaVA) | [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond. |
 | [OLMo](https://github.com/allenai/OLMo) | Modeling, training, eval, and inference code for OLMo |
-| [IOPaint](https://github.com/Sanster/IOPaint) | Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures. |
-| [imersao17](https://github.com/devfullcycle/imersao17) |  |
+| [maybe](https://github.com/maybe-finance/maybe) | The OS for your personal finances |
+| [fabric](https://github.com/danielmiessler/fabric) | fabric is an open-source framework for augmenting humans using AI. |
+| [MiniCPM](https://github.com/OpenBMB/MiniCPM) | MiniCPM-2B: An end-side LLM outperforms Llama2-13B. |
+| [my-tv](https://github.com/lizongying/my-tv) | 我的电视 电视直播软件，安装即可使用 |
+| [rawdog](https://github.com/AbanteAI/rawdog) | Generate and auto-execute Python scripts in the cli |
+| [figma_clone](https://github.com/adrianhajdin/figma_clone) | Figma Clone using Next.js, Fabric.js and Liveblocks in TypeScript |
+| [enso](https://github.com/enso-org/enso) | Hybrid visual and textual functional programming. |
+| [avail-campaign-listing](https://github.com/karnotxyz/avail-campaign-listing) |  |
+| [jj](https://github.com/martinvonz/jj) | A Git-compatible VCS that is both simple and powerful |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
