@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [OLMo](https://github.com/allenai/OLMo) | Modeling, training, eval, and inference code for OLMo |
-| [maybe](https://github.com/maybe-finance/maybe) | The OS for your personal finances |
-| [fabric](https://github.com/danielmiessler/fabric) | fabric is an open-source framework for augmenting humans using AI. |
-| [MiniCPM](https://github.com/OpenBMB/MiniCPM) | MiniCPM-2B: An end-side LLM outperforms Llama2-13B. |
 | [my-tv](https://github.com/lizongying/my-tv) | 我的电视 电视直播软件，安装即可使用 |
+| [maybe](https://github.com/maybe-finance/maybe) | The OS for your personal finances |
+| [pkl](https://github.com/apple/pkl) | A configuration as code language with rich validation and tooling. |
+| [OLMo](https://github.com/allenai/OLMo) | Modeling, training, eval, and inference code for OLMo |
+| [MiniCPM](https://github.com/OpenBMB/MiniCPM) | MiniCPM-2B: An end-side LLM outperforms Llama2-13B. |
+| [memos](https://github.com/usememos/memos) | An open source, lightweight note-taking service. Easily capture and share your great thoughts. |
+| [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux) |
 | [rawdog](https://github.com/AbanteAI/rawdog) | Generate and auto-execute Python scripts in the cli |
-| [figma_clone](https://github.com/adrianhajdin/figma_clone) | Figma Clone using Next.js, Fabric.js and Liveblocks in TypeScript |
-| [enso](https://github.com/enso-org/enso) | Hybrid visual and textual functional programming. |
-| [avail-campaign-listing](https://github.com/karnotxyz/avail-campaign-listing) |  |
-| [jj](https://github.com/martinvonz/jj) | A Git-compatible VCS that is both simple and powerful |
+| [Magisk](https://github.com/topjohnwu/Magisk) | The Magic Mask for Android |
+| [InstantID](https://github.com/InstantID/InstantID) | InstantID : Zero-shot Identity-Preserving Generation in Seconds 🔥 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
