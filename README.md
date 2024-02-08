@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [maybe](https://github.com/maybe-finance/maybe) | The OS for your personal finances |
+| [MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) | Automate Creation of YouTube Shorts using MoviePy. |
+| [rinha-de-backend-2024-q1](https://github.com/zanfranceschi/rinha-de-backend-2024-q1) | Repositório da 2ª edição da Rinha de Backend |
 | [rye](https://github.com/mitsuhiko/rye) | a Hassle-Free Python Experience |
-| [memos](https://github.com/usememos/memos) | An open source, lightweight note-taking service. Easily capture and share your great thoughts. |
-| [rawdog](https://github.com/AbanteAI/rawdog) | Generate and auto-execute Python scripts in the cli |
-| [pkl](https://github.com/apple/pkl) | A configuration as code language with rich validation and tooling. |
-| [OLMo](https://github.com/allenai/OLMo) | Modeling, training, eval, and inference code for OLMo |
-| [jj](https://github.com/martinvonz/jj) | A Git-compatible VCS that is both simple and powerful |
 | [my-tv](https://github.com/lizongying/my-tv) | 我的电视 电视直播软件，安装即可使用 |
-| [chat-ui](https://github.com/huggingface/chat-ui) | Open source codebase powering the HuggingChat app |
-| [react-native](https://github.com/facebook/react-native) | A framework for building native applications using React |
+| [maybe-archive](https://github.com/maybe-finance/maybe-archive) |  |
+| [Awesome](https://github.com/Awesome-Windows/Awesome) | 💻 🎉 An awesome & curated list of best applications and tools for Windows. |
+| [logseq](https://github.com/logseq/logseq) | A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap |
+| [pkl](https://github.com/apple/pkl) | A configuration as code language with rich validation and tooling. |
+| [local-llms-analyse-finance](https://github.com/thu-vu92/local-llms-analyse-finance) | In this project, I explored how local LLMs can be used to label data and support analyses. Specifically, I used Llama2 model to automatically categorise my bank transaction data. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
