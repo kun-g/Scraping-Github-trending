@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [maybe](https://github.com/maybe-finance/maybe) | The OS for your personal finances |
 | [MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) | Automate Creation of YouTube Shorts using MoviePy. |
+| [ml-mgie](https://github.com/apple/ml-mgie) |  |
 | [rinha-de-backend-2024-q1](https://github.com/zanfranceschi/rinha-de-backend-2024-q1) | Repositório da 2ª edição da Rinha de Backend |
-| [rye](https://github.com/mitsuhiko/rye) | a Hassle-Free Python Experience |
-| [my-tv](https://github.com/lizongying/my-tv) | 我的电视 电视直播软件，安装即可使用 |
-| [maybe-archive](https://github.com/maybe-finance/maybe-archive) |  |
-| [Awesome](https://github.com/Awesome-Windows/Awesome) | 💻 🎉 An awesome & curated list of best applications and tools for Windows. |
-| [logseq](https://github.com/logseq/logseq) | A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap |
-| [pkl](https://github.com/apple/pkl) | A configuration as code language with rich validation and tooling. |
-| [local-llms-analyse-finance](https://github.com/thu-vu92/local-llms-analyse-finance) | In this project, I explored how local LLMs can be used to label data and support analyses. Specifically, I used Llama2 model to automatically categorise my bank transaction data. |
+| [maybe](https://github.com/maybe-finance/maybe) | The OS for your personal finances |
+| [ERC404](https://github.com/0xacme/ERC404) |  |
+| [stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) |  |
+| [coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy) | 代理Discord-Bot对话Coze-Bot，实现API形式请求GPT4对话模型/微调模型 |
+| [teldrive](https://github.com/divyam234/teldrive) | Telegram Drive Storage |
+| [vaststars](https://github.com/ejoy/vaststars) | A game demo for Ant engine |
+| [DynamiCrafter](https://github.com/Doubiiu/DynamiCrafter) | DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
