@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) | Automate Creation of YouTube Shorts using MoviePy. |
+| [localllm](https://github.com/GoogleCloudPlatform/localllm) |  |
 | [ml-mgie](https://github.com/apple/ml-mgie) |  |
-| [rinha-de-backend-2024-q1](https://github.com/zanfranceschi/rinha-de-backend-2024-q1) | Repositório da 2ª edição da Rinha de Backend |
-| [maybe](https://github.com/maybe-finance/maybe) | The OS for your personal finances |
 | [ERC404](https://github.com/0xacme/ERC404) |  |
-| [stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) |  |
-| [coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy) | 代理Discord-Bot对话Coze-Bot，实现API形式请求GPT4对话模型/微调模型 |
 | [teldrive](https://github.com/divyam234/teldrive) | Telegram Drive Storage |
-| [vaststars](https://github.com/ejoy/vaststars) | A game demo for Ant engine |
-| [DynamiCrafter](https://github.com/Doubiiu/DynamiCrafter) | DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors |
+| [metavoice-src](https://github.com/metavoiceio/metavoice-src) | AI for human-level speech intelligence |
+| [loungy](https://github.com/MatthiasGrandl/loungy) | Loungy is a WIP launcher in the vein of Spotlight, Alfred, Raycast. |
+| [rinha-de-backend-2024-q1](https://github.com/zanfranceschi/rinha-de-backend-2024-q1) | Repositório da 2ª edição da Rinha de Backend |
+| [http-garden](https://github.com/narfindustries/http-garden) | Differential testing and fuzzing of HTTP servers and proxies |
+| [social-app](https://github.com/bluesky-social/social-app) | The Bluesky Social application for Web, iOS, and Android |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
