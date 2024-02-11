@@ -15,14 +15,14 @@
 | :----: | :----: |
 | [MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) | Automate Creation of YouTube Shorts using MoviePy. |
 | [localllm](https://github.com/GoogleCloudPlatform/localllm) |  |
+| [virtualbox-kvm](https://github.com/cyberus-technology/virtualbox-kvm) | VirtualBox with KVM Backend |
 | [ml-mgie](https://github.com/apple/ml-mgie) |  |
+| [phidata](https://github.com/phidatahq/phidata) | Build AI Assistants using function calling |
 | [ERC404](https://github.com/0xacme/ERC404) |  |
-| [teldrive](https://github.com/divyam234/teldrive) | Telegram Drive Storage |
-| [metavoice-src](https://github.com/metavoiceio/metavoice-src) | AI for human-level speech intelligence |
-| [loungy](https://github.com/MatthiasGrandl/loungy) | Loungy is a WIP launcher in the vein of Spotlight, Alfred, Raycast. |
-| [rinha-de-backend-2024-q1](https://github.com/zanfranceschi/rinha-de-backend-2024-q1) | Repositório da 2ª edição da Rinha de Backend |
-| [http-garden](https://github.com/narfindustries/http-garden) | Differential testing and fuzzing of HTTP servers and proxies |
-| [social-app](https://github.com/bluesky-social/social-app) | The Bluesky Social application for Web, iOS, and Android |
+| [llrt](https://github.com/awslabs/llrt) | LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications. |
+| [free-for-dev](https://github.com/jixserver/free-for-dev) | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev |
+| [free-for-dev](https://github.com/ripienaar/free-for-dev) | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev |
+| [awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) | A one stop repository for generative AI research updates, interview resources, notebooks and much more! |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
