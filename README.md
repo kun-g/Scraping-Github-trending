@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) | Automate Creation of YouTube Shorts using MoviePy. |
-| [localllm](https://github.com/GoogleCloudPlatform/localllm) |  |
-| [virtualbox-kvm](https://github.com/cyberus-technology/virtualbox-kvm) | VirtualBox with KVM Backend |
-| [ml-mgie](https://github.com/apple/ml-mgie) |  |
-| [phidata](https://github.com/phidatahq/phidata) | Build AI Assistants using function calling |
-| [ERC404](https://github.com/0xacme/ERC404) |  |
 | [llrt](https://github.com/awslabs/llrt) | LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications. |
+| [phidata](https://github.com/phidatahq/phidata) | Build AI Assistants using function calling |
+| [subql](https://github.com/subquery/subql) | SubQuery is an Open, Flexible, Fast and Universal data indexing framework for web3. Our mission is to help developers create the decentralised products of the future. |
+| [metavoice-src](https://github.com/metavoiceio/metavoice-src) | Foundational model for human-like, expressive TTS |
+| [hurl](https://github.com/Orange-OpenSource/hurl) | Hurl, run and test HTTP requests with plain text. |
+| [virtualbox-kvm](https://github.com/cyberus-technology/virtualbox-kvm) | VirtualBox with KVM Backend |
+| [leo](https://github.com/AleoHQ/leo) | 🦁 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications |
+| [MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) | Automate Creation of YouTube Shorts using MoviePy. |
+| [sudo](https://github.com/microsoft/sudo) | It's sudo, for Windows |
 | [free-for-dev](https://github.com/jixserver/free-for-dev) | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev |
-| [free-for-dev](https://github.com/ripienaar/free-for-dev) | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev |
-| [awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) | A one stop repository for generative AI research updates, interview resources, notebooks and much more! |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
