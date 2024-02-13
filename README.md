@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [llrt](https://github.com/awslabs/llrt) | LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications. |
-| [phidata](https://github.com/phidatahq/phidata) | Build AI Assistants using function calling |
-| [subql](https://github.com/subquery/subql) | SubQuery is an Open, Flexible, Fast and Universal data indexing framework for web3. Our mission is to help developers create the decentralised products of the future. |
-| [metavoice-src](https://github.com/metavoiceio/metavoice-src) | Foundational model for human-like, expressive TTS |
-| [hurl](https://github.com/Orange-OpenSource/hurl) | Hurl, run and test HTTP requests with plain text. |
-| [virtualbox-kvm](https://github.com/cyberus-technology/virtualbox-kvm) | VirtualBox with KVM Backend |
-| [leo](https://github.com/AleoHQ/leo) | 🦁 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications |
-| [MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) | Automate Creation of YouTube Shorts using MoviePy. |
-| [sudo](https://github.com/microsoft/sudo) | It's sudo, for Windows |
-| [free-for-dev](https://github.com/jixserver/free-for-dev) | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev |
+| [pkl](https://github.com/apple/pkl) | A configuration as code language with rich validation and tooling. |
+| [SPIN](https://github.com/uclaml/SPIN) | The official implementation of Self-Play Fine-Tuning (SPIN) |
+| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+| [bitcoin](https://github.com/bitcoin/bitcoin) | Bitcoin Core integration/staging tree |
+| [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) | Network-wide ads & trackers blocking DNS server |
+| [immich](https://github.com/immich-app/immich) | Self-hosted photo and video backup solution directly from your mobile phone. |
+| [skiff-apps](https://github.com/skiff-org/skiff-apps) | Privacy-first, end-to-end encrypted Mail, Pages, Drive, and Calendar. |
+| [oblivion](https://github.com/bepass-org/oblivion) | Unofficial warp client for android |
+| [virtualbox-kvm](https://github.com/cyberus-technology/virtualbox-kvm) | VirtualBox with KVM Backend. With our current development model, we cannot easily accept pull requests here. If you'd like to contribute, feel free to reach out to us, we are happy to find a solution. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
