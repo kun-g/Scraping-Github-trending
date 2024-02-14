@@ -31,12 +31,12 @@
         ],
         "currentPeriodStars": 492,
         "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
-        "forks": 89,
+        "forks": 92,
         "fullname": "gitbutlerapp/gitbutler",
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "gitbutler",
-        "stars": 2255,
+        "stars": 2273,
         "url": "https://github.com/gitbutlerapp/gitbutler"
     },
     {
@@ -76,7 +76,7 @@
         "language": "Rust",
         "languageColor": "#dea584",
         "name": "hurl",
-        "stars": 9040,
+        "stars": 9050,
         "url": "https://github.com/Orange-OpenSource/hurl"
     },
     {
@@ -116,7 +116,7 @@
         "language": "PowerShell",
         "languageColor": "#012456",
         "name": "sudo",
-        "stars": 2834,
+        "stars": 2838,
         "url": "https://github.com/microsoft/sudo"
     },
     {
@@ -156,7 +156,7 @@
         "language": "Java",
         "languageColor": "#b07219",
         "name": "oblivion",
-        "stars": 675,
+        "stars": 676,
         "url": "https://github.com/bepass-org/oblivion"
     },
     {
@@ -196,7 +196,7 @@
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "llrt",
-        "stars": 5689,
+        "stars": 5691,
         "url": "https://github.com/awslabs/llrt"
     },
     {
@@ -216,7 +216,7 @@
         "language": "Jupyter Notebook",
         "languageColor": "#DA5B0B",
         "name": "LLM-Finetuning",
-        "stars": 1259,
+        "stars": 1262,
         "url": "https://github.com/ashishpatel26/LLM-Finetuning"
     },
     {
@@ -239,14 +239,14 @@
                 "username": "holzensp"
             },
             {
+                "avatar": "https://avatars.githubusercontent.com/u/9694402",
+                "href": "https://github.com/hoxell",
+                "username": "hoxell"
+            },
+            {
                 "avatar": "https://avatars.githubusercontent.com/u/119817707",
                 "href": "https://github.com/translatenix",
                 "username": "translatenix"
-            },
-            {
-                "avatar": "https://avatars.githubusercontent.com/u/714",
-                "href": "https://github.com/lilyball",
-                "username": "lilyball"
             }
         ],
         "currentPeriodStars": 1497,
@@ -256,7 +256,7 @@
         "language": "Java",
         "languageColor": "#b07219",
         "name": "pkl",
-        "stars": 6832,
+        "stars": 6837,
         "url": "https://github.com/apple/pkl"
     },
     {
@@ -296,7 +296,7 @@
         "language": "Rust",
         "languageColor": "#dea584",
         "name": "nushell",
-        "stars": 28779,
+        "stars": 28781,
         "url": "https://github.com/nushell/nushell"
     },
     {
@@ -334,7 +334,7 @@
         "forks": 592,
         "fullname": "anderspitman/awesome-tunneling",
         "name": "awesome-tunneling",
-        "stars": 11897,
+        "stars": 11901,
         "url": "https://github.com/anderspitman/awesome-tunneling"
     },
     {
@@ -374,7 +374,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "phidata",
-        "stars": 1986,
+        "stars": 1988,
         "url": "https://github.com/phidatahq/phidata"
     },
     {
@@ -414,7 +414,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "ml-engineering",
-        "stars": 8022,
+        "stars": 8025,
         "url": "https://github.com/stas00/ml-engineering"
     },
     {
@@ -454,7 +454,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "biopython",
-        "stars": 4032,
+        "stars": 4034,
         "url": "https://github.com/biopython/biopython"
     },
     {
@@ -494,7 +494,7 @@
         "language": "C++",
         "languageColor": "#f34b7d",
         "name": "mame",
-        "stars": 7290,
+        "stars": 7293,
         "url": "https://github.com/mamedev/mame"
     },
     {
@@ -524,7 +524,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "erc404",
-        "stars": 110,
+        "stars": 111,
         "url": "https://github.com/Pandora-Labs-Org/erc404"
     },
     {
@@ -559,7 +559,7 @@
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "hiring-without-whiteboards",
-        "stars": 40733,
+        "stars": 40737,
         "url": "https://github.com/poteto/hiring-without-whiteboards"
     },
     {
@@ -579,7 +579,7 @@
         "language": "YARA",
         "languageColor": "#220000",
         "name": "lolcerts",
-        "stars": 185,
+        "stars": 187,
         "url": "https://github.com/WithSecureLabs/lolcerts"
     },
     {
@@ -619,7 +619,7 @@
         "language": "Rust",
         "languageColor": "#dea584",
         "name": "leo",
-        "stars": 4592,
+        "stars": 4594,
         "url": "https://github.com/AleoHQ/leo"
     },
     {
@@ -659,7 +659,7 @@
         "language": "C++",
         "languageColor": "#f34b7d",
         "name": "smartknob",
-        "stars": 17338,
+        "stars": 17339,
         "url": "https://github.com/scottbez1/smartknob"
     },
     {
@@ -694,7 +694,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "skiff-apps",
-        "stars": 423,
+        "stars": 428,
         "url": "https://github.com/skiff-org/skiff-apps"
     },
     {
@@ -734,7 +734,7 @@
         "language": "Java",
         "languageColor": "#b07219",
         "name": "conductor",
-        "stars": 3470,
+        "stars": 3472,
         "url": "https://github.com/conductor-oss/conductor"
     },
     {
@@ -769,12 +769,12 @@
         ],
         "currentPeriodStars": 6,
         "description": "Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.",
-        "forks": 8767,
+        "forks": 8768,
         "fullname": "hyperledger/fabric",
         "language": "Go",
         "languageColor": "#00ADD8",
         "name": "fabric",
-        "stars": 15179,
+        "stars": 15182,
         "url": "https://github.com/hyperledger/fabric"
     },
     {
@@ -814,7 +814,7 @@
         "language": "Jupyter Notebook",
         "languageColor": "#DA5B0B",
         "name": "LLMs-from-scratch",
-        "stars": 9016,
+        "stars": 9020,
         "url": "https://github.com/rasbt/LLMs-from-scratch"
     },
     {
@@ -844,7 +844,7 @@
         "language": "Go",
         "languageColor": "#00ADD8",
         "name": "k8sgpt",
-        "stars": 4445,
+        "stars": 4448,
         "url": "https://github.com/k8sgpt-ai/k8sgpt"
     },
     {
@@ -884,7 +884,7 @@
         "language": "C#",
         "languageColor": "#178600",
         "name": "osu",
-        "stars": 13862,
+        "stars": 13864,
         "url": "https://github.com/ppy/osu"
     },
     {
@@ -924,7 +924,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "continue",
-        "stars": 7060,
+        "stars": 7066,
         "url": "https://github.com/continuedev/continue"
     }
 ]
