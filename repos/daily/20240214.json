@@ -36,7 +36,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "gitbutler",
-        "stars": 2273,
+        "stars": 2301,
         "url": "https://github.com/gitbutlerapp/gitbutler"
     },
     {
@@ -71,12 +71,12 @@
         ],
         "currentPeriodStars": 201,
         "description": "Hurl, run and test HTTP requests with plain text.",
-        "forks": 332,
+        "forks": 333,
         "fullname": "Orange-OpenSource/hurl",
         "language": "Rust",
         "languageColor": "#dea584",
         "name": "hurl",
-        "stars": 9050,
+        "stars": 9065,
         "url": "https://github.com/Orange-OpenSource/hurl"
     },
     {
@@ -116,7 +116,7 @@
         "language": "PowerShell",
         "languageColor": "#012456",
         "name": "sudo",
-        "stars": 2838,
+        "stars": 2848,
         "url": "https://github.com/microsoft/sudo"
     },
     {
@@ -156,7 +156,7 @@
         "language": "Java",
         "languageColor": "#b07219",
         "name": "oblivion",
-        "stars": 676,
+        "stars": 677,
         "url": "https://github.com/bepass-org/oblivion"
     },
     {
@@ -196,7 +196,7 @@
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "llrt",
-        "stars": 5691,
+        "stars": 5699,
         "url": "https://github.com/awslabs/llrt"
     },
     {
@@ -211,12 +211,12 @@
         ],
         "currentPeriodStars": 87,
         "description": "LLM Finetuning with peft",
-        "forks": 359,
+        "forks": 361,
         "fullname": "ashishpatel26/LLM-Finetuning",
         "language": "Jupyter Notebook",
         "languageColor": "#DA5B0B",
         "name": "LLM-Finetuning",
-        "stars": 1262,
+        "stars": 1265,
         "url": "https://github.com/ashishpatel26/LLM-Finetuning"
     },
     {
@@ -239,14 +239,14 @@
                 "username": "holzensp"
             },
             {
-                "avatar": "https://avatars.githubusercontent.com/u/9694402",
-                "href": "https://github.com/hoxell",
-                "username": "hoxell"
-            },
-            {
                 "avatar": "https://avatars.githubusercontent.com/u/119817707",
                 "href": "https://github.com/translatenix",
                 "username": "translatenix"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/714",
+                "href": "https://github.com/lilyball",
+                "username": "lilyball"
             }
         ],
         "currentPeriodStars": 1497,
@@ -256,7 +256,7 @@
         "language": "Java",
         "languageColor": "#b07219",
         "name": "pkl",
-        "stars": 6837,
+        "stars": 6842,
         "url": "https://github.com/apple/pkl"
     },
     {
@@ -291,12 +291,12 @@
         ],
         "currentPeriodStars": 41,
         "description": "A new type of shell",
-        "forks": 1515,
+        "forks": 1517,
         "fullname": "nushell/nushell",
         "language": "Rust",
         "languageColor": "#dea584",
         "name": "nushell",
-        "stars": 28781,
+        "stars": 28783,
         "url": "https://github.com/nushell/nushell"
     },
     {
@@ -374,7 +374,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "phidata",
-        "stars": 1988,
+        "stars": 1989,
         "url": "https://github.com/phidatahq/phidata"
     },
     {
@@ -409,12 +409,12 @@
         ],
         "currentPeriodStars": 120,
         "description": "Machine Learning Engineering Open Book",
-        "forks": 480,
+        "forks": 481,
         "fullname": "stas00/ml-engineering",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "ml-engineering",
-        "stars": 8025,
+        "stars": 8028,
         "url": "https://github.com/stas00/ml-engineering"
     },
     {
@@ -454,7 +454,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "biopython",
-        "stars": 4034,
+        "stars": 4036,
         "url": "https://github.com/biopython/biopython"
     },
     {
@@ -494,7 +494,7 @@
         "language": "C++",
         "languageColor": "#f34b7d",
         "name": "mame",
-        "stars": 7293,
+        "stars": 7294,
         "url": "https://github.com/mamedev/mame"
     },
     {
@@ -524,7 +524,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "erc404",
-        "stars": 111,
+        "stars": 113,
         "url": "https://github.com/Pandora-Labs-Org/erc404"
     },
     {
@@ -559,7 +559,7 @@
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "hiring-without-whiteboards",
-        "stars": 40737,
+        "stars": 40742,
         "url": "https://github.com/poteto/hiring-without-whiteboards"
     },
     {
@@ -579,7 +579,7 @@
         "language": "YARA",
         "languageColor": "#220000",
         "name": "lolcerts",
-        "stars": 187,
+        "stars": 188,
         "url": "https://github.com/WithSecureLabs/lolcerts"
     },
     {
@@ -619,7 +619,7 @@
         "language": "Rust",
         "languageColor": "#dea584",
         "name": "leo",
-        "stars": 4594,
+        "stars": 4595,
         "url": "https://github.com/AleoHQ/leo"
     },
     {
@@ -689,12 +689,12 @@
         ],
         "currentPeriodStars": 191,
         "description": "Privacy-first, end-to-end encrypted Mail, Pages, Drive, and Calendar.",
-        "forks": 183,
+        "forks": 184,
         "fullname": "skiff-org/skiff-apps",
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "skiff-apps",
-        "stars": 428,
+        "stars": 429,
         "url": "https://github.com/skiff-org/skiff-apps"
     },
     {
@@ -734,7 +734,7 @@
         "language": "Java",
         "languageColor": "#b07219",
         "name": "conductor",
-        "stars": 3472,
+        "stars": 3476,
         "url": "https://github.com/conductor-oss/conductor"
     },
     {
@@ -774,7 +774,7 @@
         "language": "Go",
         "languageColor": "#00ADD8",
         "name": "fabric",
-        "stars": 15182,
+        "stars": 15188,
         "url": "https://github.com/hyperledger/fabric"
     },
     {
@@ -809,12 +809,12 @@
         ],
         "currentPeriodStars": 80,
         "description": "Implementing a ChatGPT-like LLM from scratch, step by step",
-        "forks": 553,
+        "forks": 554,
         "fullname": "rasbt/LLMs-from-scratch",
         "language": "Jupyter Notebook",
         "languageColor": "#DA5B0B",
         "name": "LLMs-from-scratch",
-        "stars": 9020,
+        "stars": 9025,
         "url": "https://github.com/rasbt/LLMs-from-scratch"
     },
     {
@@ -844,7 +844,7 @@
         "language": "Go",
         "languageColor": "#00ADD8",
         "name": "k8sgpt",
-        "stars": 4448,
+        "stars": 4449,
         "url": "https://github.com/k8sgpt-ai/k8sgpt"
     },
     {
@@ -879,12 +879,12 @@
         ],
         "currentPeriodStars": 41,
         "description": "rhythm is just a *click* away!",
-        "forks": 2104,
+        "forks": 2106,
         "fullname": "ppy/osu",
         "language": "C#",
         "languageColor": "#178600",
         "name": "osu",
-        "stars": 13864,
+        "stars": 13865,
         "url": "https://github.com/ppy/osu"
     },
     {
@@ -919,12 +919,12 @@
         ],
         "currentPeriodStars": 54,
         "description": "\u23e9 The easiest way to code with any LLM\u2014Continue is an open-source autopilot for VS Code and JetBrains",
-        "forks": 354,
+        "forks": 355,
         "fullname": "continuedev/continue",
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "continue",
-        "stars": 7066,
+        "stars": 7070,
         "url": "https://github.com/continuedev/continue"
     }
 ]
