@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [llrt](https://github.com/awslabs/llrt) | LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications. |
-| [pkl](https://github.com/apple/pkl) | A configuration as code language with rich validation and tooling. |
-| [SPIN](https://github.com/uclaml/SPIN) | The official implementation of Self-Play Fine-Tuning (SPIN) |
-| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
-| [bitcoin](https://github.com/bitcoin/bitcoin) | Bitcoin Core integration/staging tree |
-| [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) | Network-wide ads & trackers blocking DNS server |
-| [immich](https://github.com/immich-app/immich) | Self-hosted photo and video backup solution directly from your mobile phone. |
-| [skiff-apps](https://github.com/skiff-org/skiff-apps) | Privacy-first, end-to-end encrypted Mail, Pages, Drive, and Calendar. |
+| [gitbutler](https://github.com/gitbutlerapp/gitbutler) | The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte |
+| [hurl](https://github.com/Orange-OpenSource/hurl) | Hurl, run and test HTTP requests with plain text. |
+| [sudo](https://github.com/microsoft/sudo) | It's sudo, for Windows |
 | [oblivion](https://github.com/bepass-org/oblivion) | Unofficial warp client for android |
-| [virtualbox-kvm](https://github.com/cyberus-technology/virtualbox-kvm) | VirtualBox with KVM Backend. With our current development model, we cannot easily accept pull requests here. If you'd like to contribute, feel free to reach out to us, we are happy to find a solution. |
+| [llrt](https://github.com/awslabs/llrt) | LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications. |
+| [LLM-Finetuning](https://github.com/ashishpatel26/LLM-Finetuning) | LLM Finetuning with peft |
+| [pkl](https://github.com/apple/pkl) | A configuration as code language with rich validation and tooling. |
+| [nushell](https://github.com/nushell/nushell) | A new type of shell |
+| [awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) | List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting. |
+| [phidata](https://github.com/phidatahq/phidata) | Build AI Assistants using function calling |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
