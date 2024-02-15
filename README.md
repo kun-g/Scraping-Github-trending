@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [gitbutler](https://github.com/gitbutlerapp/gitbutler) | The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte |
-| [hurl](https://github.com/Orange-OpenSource/hurl) | Hurl, run and test HTTP requests with plain text. |
-| [sudo](https://github.com/microsoft/sudo) | It's sudo, for Windows |
-| [oblivion](https://github.com/bepass-org/oblivion) | Unofficial warp client for android |
-| [llrt](https://github.com/awslabs/llrt) | LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications. |
-| [LLM-Finetuning](https://github.com/ashishpatel26/LLM-Finetuning) | LLM Finetuning with peft |
-| [pkl](https://github.com/apple/pkl) | A configuration as code language with rich validation and tooling. |
-| [nushell](https://github.com/nushell/nushell) | A new type of shell |
-| [awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) | List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting. |
-| [phidata](https://github.com/phidatahq/phidata) | Build AI Assistants using function calling |
+| [agentkit](https://github.com/BCG-X-Official/agentkit) | Starter-kit to build constrained agents with Nextjs, FastAPI and Langchain |
+| [Mario-Kart-3.js](https://github.com/Lunakepio/Mario-Kart-3.js) |  |
+| [dn404](https://github.com/Vectorized/dn404) | Implementation of a co-joined ERC20 and ERC721 pair. |
+| [ml-engineering](https://github.com/stas00/ml-engineering) | Machine Learning Engineering Open Book |
+| [ADeus](https://github.com/adamcohenhillel/ADeus) | An open source AI wearable device that captures what you say and hear in the real world and then transcribes and stores it on your own server. You can then chat with Adeus using the app, and it will have all the right context about what you want to talk about - a truly personalized, personal AI. |
+| [terraform](https://github.com/hashicorp/terraform) | Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. |
+| [balancing-cube](https://github.com/willem-pennings/balancing-cube) | A cube that balances itself in a corner or edge using reaction wheels |
+| [erc404](https://github.com/Pandora-Labs-Org/erc404) |  |
+| [personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) | 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
