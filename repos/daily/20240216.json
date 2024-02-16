@@ -14,6 +14,11 @@
                 "username": "dome272"
             },
             {
+                "avatar": "https://avatars.githubusercontent.com/u/788417",
+                "href": "https://github.com/apolinario",
+                "username": "apolinario"
+            },
+            {
                 "avatar": "https://avatars.githubusercontent.com/u/1486609",
                 "href": "https://github.com/lxe",
                 "username": "lxe"
@@ -21,12 +26,12 @@
         ],
         "currentPeriodStars": 577,
         "description": "",
-        "forks": 146,
+        "forks": 147,
         "fullname": "Stability-AI/StableCascade",
         "language": "Jupyter Notebook",
         "languageColor": "#DA5B0B",
         "name": "StableCascade",
-        "stars": 2679,
+        "stars": 2699,
         "url": "https://github.com/Stability-AI/StableCascade"
     },
     {
@@ -61,12 +66,12 @@
         ],
         "currentPeriodStars": 1935,
         "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
-        "forks": 259,
+        "forks": 260,
         "fullname": "gitbutlerapp/gitbutler",
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "gitbutler",
-        "stars": 5650,
+        "stars": 5658,
         "url": "https://github.com/gitbutlerapp/gitbutler"
     },
     {
@@ -96,12 +101,12 @@
         ],
         "currentPeriodStars": 230,
         "description": "",
-        "forks": 162,
+        "forks": 164,
         "fullname": "Lunakepio/Mario-Kart-3.js",
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "Mario-Kart-3.js",
-        "stars": 911,
+        "stars": 913,
         "url": "https://github.com/Lunakepio/Mario-Kart-3.js"
     },
     {
@@ -131,12 +136,12 @@
         ],
         "currentPeriodStars": 161,
         "description": "Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.",
-        "forks": 747,
+        "forks": 748,
         "fullname": "danswer-ai/danswer",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "danswer",
-        "stars": 6954,
+        "stars": 6957,
         "url": "https://github.com/danswer-ai/danswer"
     },
     {
@@ -164,19 +169,19 @@
                 "username": "ritschwumm"
             },
             {
-                "avatar": "https://avatars.githubusercontent.com/u/28377948",
-                "href": "https://github.com/nilsmartel",
-                "username": "nilsmartel"
+                "avatar": "https://avatars.githubusercontent.com/u/22633385",
+                "href": "https://github.com/eltociear",
+                "username": "eltociear"
             }
         ],
         "currentPeriodStars": 364,
         "description": "CUDA on AMD GPUs",
-        "forks": 182,
+        "forks": 183,
         "fullname": "vosen/ZLUDA",
         "language": "Rust",
         "languageColor": "#dea584",
         "name": "ZLUDA",
-        "stars": 4187,
+        "stars": 4193,
         "url": "https://github.com/vosen/ZLUDA"
     },
     {
@@ -216,7 +221,7 @@
         "language": "Rust",
         "languageColor": "#dea584",
         "name": "hurl",
-        "stars": 9828,
+        "stars": 9831,
         "url": "https://github.com/Orange-OpenSource/hurl"
     },
     {
@@ -251,7 +256,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "black",
-        "stars": 36359,
+        "stars": 36360,
         "url": "https://github.com/psf/black"
     },
     {
@@ -281,7 +286,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "agentkit",
-        "stars": 947,
+        "stars": 948,
         "url": "https://github.com/BCG-X-Official/agentkit"
     },
     {
@@ -321,7 +326,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "poetry",
-        "stars": 28504,
+        "stars": 28506,
         "url": "https://github.com/python-poetry/poetry"
     },
     {
@@ -361,7 +366,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "personal-security-checklist",
-        "stars": 14017,
+        "stars": 14020,
         "url": "https://github.com/Lissy93/personal-security-checklist"
     },
     {
@@ -381,7 +386,7 @@
         "language": "C++",
         "languageColor": "#f34b7d",
         "name": "balancing-cube",
-        "stars": 801,
+        "stars": 802,
         "url": "https://github.com/willem-pennings/balancing-cube"
     },
     {
@@ -411,12 +416,12 @@
         ],
         "currentPeriodStars": 79,
         "description": "Record voice notes & transcribe, summarize, and get tasks",
-        "forks": 90,
+        "forks": 91,
         "fullname": "Nutlope/notesGPT",
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "notesGPT",
-        "stars": 674,
+        "stars": 677,
         "url": "https://github.com/Nutlope/notesGPT"
     },
     {
@@ -456,7 +461,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "ml-engineering",
-        "stars": 8409,
+        "stars": 8410,
         "url": "https://github.com/stas00/ml-engineering"
     },
     {
@@ -491,12 +496,12 @@
         ],
         "currentPeriodStars": 106,
         "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
-        "forks": 9422,
+        "forks": 9423,
         "fullname": "hashicorp/terraform",
         "language": "Go",
         "languageColor": "#00ADD8",
         "name": "terraform",
-        "stars": 40513,
+        "stars": 40515,
         "url": "https://github.com/hashicorp/terraform"
     },
     {
@@ -536,7 +541,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "dbt-core",
-        "stars": 8451,
+        "stars": 8455,
         "url": "https://github.com/dbt-labs/dbt-core"
     },
     {
@@ -571,12 +576,12 @@
         ],
         "currentPeriodStars": 283,
         "description": "An open source AI wearable device that captures what you say and hear in the real world and then transcribes and stores it on your own server. You can then chat with Adeus using the app, and it will have all the right context about what you want to talk about - a truly personalized, personal AI.",
-        "forks": 118,
+        "forks": 119,
         "fullname": "adamcohenhillel/ADeus",
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "ADeus",
-        "stars": 1241,
+        "stars": 1246,
         "url": "https://github.com/adamcohenhillel/ADeus"
     },
     {
@@ -596,7 +601,7 @@
         "language": "Vue",
         "languageColor": "#41b883",
         "name": "s-ui",
-        "stars": 527,
+        "stars": 529,
         "url": "https://github.com/alireza0/s-ui"
     },
     {
@@ -676,7 +681,7 @@
         "language": "C++",
         "languageColor": "#f34b7d",
         "name": "triton",
-        "stars": 9869,
+        "stars": 9872,
         "url": "https://github.com/openai/triton"
     },
     {
@@ -756,7 +761,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "GPT-SoVITS",
-        "stars": 11097,
+        "stars": 11098,
         "url": "https://github.com/RVC-Boss/GPT-SoVITS"
     },
     {
@@ -781,7 +786,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "will-you-be-my-valentine",
-        "stars": 157,
+        "stars": 159,
         "url": "https://github.com/saurabhnemade/will-you-be-my-valentine"
     },
     {
@@ -836,7 +841,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "trt-llm-rag-windows",
-        "stars": 1023,
+        "stars": 1026,
         "url": "https://github.com/NVIDIA/trt-llm-rag-windows"
     },
     {
@@ -876,7 +881,7 @@
         "language": "PowerShell",
         "languageColor": "#012456",
         "name": "core",
-        "stars": 19723,
+        "stars": 19724,
         "url": "https://github.com/dotnet/core"
     }
 ]
