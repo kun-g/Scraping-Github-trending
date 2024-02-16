@@ -13,15 +13,15 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [StableCascade](https://github.com/Stability-AI/StableCascade) |  |
 | [gitbutler](https://github.com/gitbutlerapp/gitbutler) | The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte |
-| [agentkit](https://github.com/BCG-X-Official/agentkit) | Starter-kit to build constrained agents with Nextjs, FastAPI and Langchain |
 | [Mario-Kart-3.js](https://github.com/Lunakepio/Mario-Kart-3.js) |  |
-| [dn404](https://github.com/Vectorized/dn404) | Implementation of a co-joined ERC20 and ERC721 pair. |
-| [ml-engineering](https://github.com/stas00/ml-engineering) | Machine Learning Engineering Open Book |
-| [ADeus](https://github.com/adamcohenhillel/ADeus) | An open source AI wearable device that captures what you say and hear in the real world and then transcribes and stores it on your own server. You can then chat with Adeus using the app, and it will have all the right context about what you want to talk about - a truly personalized, personal AI. |
-| [terraform](https://github.com/hashicorp/terraform) | Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. |
-| [balancing-cube](https://github.com/willem-pennings/balancing-cube) | A cube that balances itself in a corner or edge using reaction wheels |
-| [erc404](https://github.com/Pandora-Labs-Org/erc404) |  |
+| [danswer](https://github.com/danswer-ai/danswer) | Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc. |
+| [ZLUDA](https://github.com/vosen/ZLUDA) | CUDA on AMD GPUs |
+| [hurl](https://github.com/Orange-OpenSource/hurl) | Hurl, run and test HTTP requests with plain text. |
+| [black](https://github.com/psf/black) | The uncompromising Python code formatter |
+| [agentkit](https://github.com/BCG-X-Official/agentkit) | Starter-kit to build constrained agents with Nextjs, FastAPI and Langchain |
+| [poetry](https://github.com/python-poetry/poetry) | Python packaging and dependency management made easy |
 | [personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) | 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
