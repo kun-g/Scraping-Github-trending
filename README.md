@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [StableCascade](https://github.com/Stability-AI/StableCascade) |  |
-| [gitbutler](https://github.com/gitbutlerapp/gitbutler) | The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte |
+| [core](https://github.com/dotnet/core) | .NET news, announcements, release notes, and more! |
 | [Mario-Kart-3.js](https://github.com/Lunakepio/Mario-Kart-3.js) |  |
-| [danswer](https://github.com/danswer-ai/danswer) | Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc. |
-| [ZLUDA](https://github.com/vosen/ZLUDA) | CUDA on AMD GPUs |
-| [hurl](https://github.com/Orange-OpenSource/hurl) | Hurl, run and test HTTP requests with plain text. |
 | [black](https://github.com/psf/black) | The uncompromising Python code formatter |
+| [ComfyUI-DiffusersStableCascade](https://github.com/kijai/ComfyUI-DiffusersStableCascade) | Simple inference with StableCascade using diffusers in ComfyUI |
+| [reor](https://github.com/reorproject/reor) | AI note-taking app that runs models locally. |
+| [gitbutler](https://github.com/gitbutlerapp/gitbutler) | The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte |
+| [trt-llm-rag-windows](https://github.com/NVIDIA/trt-llm-rag-windows) | A developer reference project for creating Retrieval Augmented Generation (RAG) chatbots on Windows using TensorRT-LLM |
+| [zksync-era](https://github.com/matter-labs/zksync-era) | zkSync era |
 | [agentkit](https://github.com/BCG-X-Official/agentkit) | Starter-kit to build constrained agents with Nextjs, FastAPI and Langchain |
-| [poetry](https://github.com/python-poetry/poetry) | Python packaging and dependency management made easy |
-| [personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) | 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
