@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [StableCascade](https://github.com/Stability-AI/StableCascade) |  |
+| [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) | 1 min voice data can also be used to train a good TTS model! (few shot voice cloning) |
+| [LWM](https://github.com/LargeWorldModel/LWM) |  |
+| [YOLO-World](https://github.com/AILab-CVC/YOLO-World) | Real-Time Open-Vocabulary Object Detection |
 | [core](https://github.com/dotnet/core) | .NET news, announcements, release notes, and more! |
-| [Mario-Kart-3.js](https://github.com/Lunakepio/Mario-Kart-3.js) |  |
+| [facefusion](https://github.com/facefusion/facefusion) | Next generation face swapper and enhancer |
+| [uv](https://github.com/astral-sh/uv) | An extremely fast Python package installer and resolver, written in Rust. |
 | [black](https://github.com/psf/black) | The uncompromising Python code formatter |
-| [ComfyUI-DiffusersStableCascade](https://github.com/kijai/ComfyUI-DiffusersStableCascade) | Simple inference with StableCascade using diffusers in ComfyUI |
-| [reor](https://github.com/reorproject/reor) | AI note-taking app that runs models locally. |
-| [gitbutler](https://github.com/gitbutlerapp/gitbutler) | The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte |
-| [trt-llm-rag-windows](https://github.com/NVIDIA/trt-llm-rag-windows) | A developer reference project for creating Retrieval Augmented Generation (RAG) chatbots on Windows using TensorRT-LLM |
-| [zksync-era](https://github.com/matter-labs/zksync-era) | zkSync era |
-| [agentkit](https://github.com/BCG-X-Official/agentkit) | Starter-kit to build constrained agents with Nextjs, FastAPI and Langchain |
+| [firefly-iii](https://github.com/firefly-iii/firefly-iii) | Firefly III: a personal finances manager |
+| [StableCascade](https://github.com/Stability-AI/StableCascade) |  |
+| [ADeus](https://github.com/adamcohenhillel/ADeus) | An open source AI wearable device that captures what you say and hear in the real world and then transcribes and stores it on your own server. You can then chat with Adeus using the app, and it will have all the right context about what you want to talk about - a truly personalized, personal AI. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
