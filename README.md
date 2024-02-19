@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) | 1 min voice data can also be used to train a good TTS model! (few shot voice cloning) |
 | [LWM](https://github.com/LargeWorldModel/LWM) |  |
-| [YOLO-World](https://github.com/AILab-CVC/YOLO-World) | Real-Time Open-Vocabulary Object Detection |
-| [core](https://github.com/dotnet/core) | .NET news, announcements, release notes, and more! |
-| [facefusion](https://github.com/facefusion/facefusion) | Next generation face swapper and enhancer |
+| [magika](https://github.com/google/magika) | Detect file content types with deep learning |
+| [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) | 1 min voice data can also be used to train a good TTS model! (few shot voice cloning) |
 | [uv](https://github.com/astral-sh/uv) | An extremely fast Python package installer and resolver, written in Rust. |
-| [black](https://github.com/psf/black) | The uncompromising Python code formatter |
-| [firefly-iii](https://github.com/firefly-iii/firefly-iii) | Firefly III: a personal finances manager |
-| [StableCascade](https://github.com/Stability-AI/StableCascade) |  |
-| [ADeus](https://github.com/adamcohenhillel/ADeus) | An open source AI wearable device that captures what you say and hear in the real world and then transcribes and stores it on your own server. You can then chat with Adeus using the app, and it will have all the right context about what you want to talk about - a truly personalized, personal AI. |
+| [gptscript](https://github.com/gptscript-ai/gptscript) | Natural Language Programming |
+| [reor](https://github.com/reorproject/reor) | AI note-taking app that runs models locally. |
+| [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI |
+| [UFO](https://github.com/microsoft/UFO) | A UI-Focused Agent for Windows OS Interaction. |
+| [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) | 📺 Discover the latest machine learning / AI courses on YouTube. |
+| [ComfyUI-DiffusersStableCascade](https://github.com/kijai/ComfyUI-DiffusersStableCascade) | Simple inference with StableCascade using diffusers in ComfyUI |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
