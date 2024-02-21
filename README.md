@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [I-S00N](https://github.com/I-S00N/I-S00N) |  |
 | [minbpe](https://github.com/karpathy/minbpe) | Minimal, clean, code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization. |
-| [LWM](https://github.com/LargeWorldModel/LWM) |  |
-| [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) | 1 min voice data can also be used to train a good TTS model! (few shot voice cloning) |
-| [DiT](https://github.com/facebookresearch/DiT) | Official PyTorch Implementation of "Scalable Diffusion Models with Transformers" |
-| [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) | A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。 |
-| [zksync-era](https://github.com/matter-labs/zksync-era) | zkSync era |
-| [hello-algo](https://github.com/krahets/hello-algo) | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Python, C++, Java, C#, Go, Swift, JS, TS, Dart, Rust, C, Zig 等语言。English edition ongoing |
 | [magika](https://github.com/google/magika) | Detect file content types with deep learning |
-| [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI |
-| [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page |
+| [sherlock](https://github.com/sherlock-project/sherlock) | 🔎 Hunt down social media accounts by username across social networks |
+| [DiT](https://github.com/facebookresearch/DiT) | Official PyTorch Implementation of "Scalable Diffusion Models with Transformers" |
+| [LWM](https://github.com/LargeWorldModel/LWM) |  |
+| [gpt4free](https://github.com/xtekky/gpt4free) | The official gpt4free repository | various collection of powerful language models |
+| [lobe-chat](https://github.com/lobehub/lobe-chat) | 🤖 Lobe Chat - an open-source, high-performance AI Chat framework. Support one-click free deployment of your private ChatGPT/Gemini/Local LLM application. |
+| [UFO](https://github.com/microsoft/UFO) | A UI-Focused Agent for Windows OS Interaction. |
+| [jepa](https://github.com/facebookresearch/jepa) | PyTorch code and models for V-JEPA self-supervised learning from video. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
