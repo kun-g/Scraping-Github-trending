@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [professional-programming](https://github.com/charlax/professional-programming) | A collection of learning resources for curious software engineers |
 | [I-S00N](https://github.com/I-S00N/I-S00N) |  |
-| [minbpe](https://github.com/karpathy/minbpe) | Minimal, clean, code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization. |
-| [magika](https://github.com/google/magika) | Detect file content types with deep learning |
-| [sherlock](https://github.com/sherlock-project/sherlock) | 🔎 Hunt down social media accounts by username across social networks |
-| [DiT](https://github.com/facebookresearch/DiT) | Official PyTorch Implementation of "Scalable Diffusion Models with Transformers" |
-| [LWM](https://github.com/LargeWorldModel/LWM) |  |
-| [gpt4free](https://github.com/xtekky/gpt4free) | The official gpt4free repository | various collection of powerful language models |
-| [lobe-chat](https://github.com/lobehub/lobe-chat) | 🤖 Lobe Chat - an open-source, high-performance AI Chat framework. Support one-click free deployment of your private ChatGPT/Gemini/Local LLM application. |
-| [UFO](https://github.com/microsoft/UFO) | A UI-Focused Agent for Windows OS Interaction. |
-| [jepa](https://github.com/facebookresearch/jepa) | PyTorch code and models for V-JEPA self-supervised learning from video. |
+| [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) | Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain |
+| [gopeed](https://github.com/GopeedLab/gopeed) | A modern download manager that supports all platforms. Built with Golang and Flutter. |
+| [hello-algo](https://github.com/krahets/hello-algo) | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Python, C++, Java, C#, Go, Swift, JS, TS, Dart, Rust, C, Zig 等语言。English edition ongoing |
+| [1Panel](https://github.com/1Panel-dev/1Panel) | 🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。 |
+| [htmz](https://github.com/Kalabasa/htmz) | html with targeted manipulation zones |
+| [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) | 基于大模型搭建的微信聊天机器人，同时支持微信、企业微信、公众号、飞书、钉钉接入，可选择GPT3.5/GPT4.0/Claude/文心一言/讯飞星火/通义千问/Gemini/GLM-4/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。 |
+| [MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | Automate the process of making money online. |
+| [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) | A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
