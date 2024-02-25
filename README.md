@@ -29,16 +29,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [llrt](https://github.com/awslabs/llrt) | LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications. |
-| [MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) | Automate Creation of YouTube Shorts using MoviePy. |
-| [metavoice-src](https://github.com/metavoiceio/metavoice-src) | Foundational model for human-like, expressive TTS |
-| [phidata](https://github.com/phidatahq/phidata) | Build AI Assistants using function calling |
-| [pkl](https://github.com/apple/pkl) | A configuration as code language with rich validation and tooling. |
+| [magika](https://github.com/google/magika) | Detect file content types with deep learning |
+| [sherlock](https://github.com/sherlock-project/sherlock) | 🔎 Hunt down social media accounts by username across social networks |
+| [uv](https://github.com/astral-sh/uv) | An extremely fast Python package installer and resolver, written in Rust. |
+| [lobe-chat](https://github.com/lobehub/lobe-chat) | 🤯 Lobe Chat - an open-source, modern-design ChatGPT/LLMs UI/Framework. Supports speech-synthesis, multi-modal, and extensible plugin system. One-click FREE deployment of your private ChatGPT/Gemini/Ollama chat application. |
+| [gptscript](https://github.com/gptscript-ai/gptscript) | Develop LLM Apps in Natural Language |
+| [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) | Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain |
+| [gopeed](https://github.com/GopeedLab/gopeed) | A modern download manager that supports all platforms. Built with Golang and Flutter. |
+| [provisions-data](https://github.com/starknet-io/provisions-data) | Lists of eligible identities for Starknet provisions. |
+| [StableCascade](https://github.com/Stability-AI/StableCascade) | Official Code for Stable Cascade |
 | [stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) |  |
-| [ml-mgie](https://github.com/apple/ml-mgie) |  |
-| [rinha-de-backend-2024-q1](https://github.com/zanfranceschi/rinha-de-backend-2024-q1) | Repositório da 2ª edição da Rinha de Backend |
-| [conductor](https://github.com/conductor-oss/conductor) | Conductor is a microservices orchestration engine. |
-| [Badget](https://github.com/projectx-codehagen/Badget) | Badget aims to simplify financial management with a user-friendly interface and robust backend |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
