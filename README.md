@@ -45,14 +45,14 @@
 <!-- START OF MONTHLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) | 1 min voice data can also be used to train a good TTS model! (few shot voice cloning) |
+| [zed](https://github.com/zed-industries/zed) | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. |
 | [maybe](https://github.com/maybe-finance/maybe) | The OS for your personal finances |
-| [spotube](https://github.com/KRTirtho/spotube) | 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile! |
-| [dspy](https://github.com/stanfordnlp/dspy) | DSPy: The framework for programming—not prompting—foundation models |
-| [QAnything](https://github.com/netease-youdao/QAnything) | Question and Answer based on Anything. |
-| [alphageometry](https://github.com/google-deepmind/alphageometry) |  |
-| [black](https://github.com/psf/black) | The uncompromising Python code formatter |
 | [codellama](https://github.com/facebookresearch/codellama) | Inference code for CodeLlama models |
-| [memos](https://github.com/usememos/memos) | An open source, lightweight note-taking service. Easily capture and share your great thoughts. |
-| [serenity](https://github.com/SerenityOS/serenity) | The Serenity Operating System 🐞 |
+| [moondream](https://github.com/vikhyat/moondream) | tiny vision language model |
+| [palworld-server-docker](https://github.com/thijsvanloef/palworld-server-docker) | A Docker Container to easily run a Palworld dedicated server. |
+| [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) | 1 min voice data can also be used to train a good TTS model! (few shot voice cloning) |
+| [dspy](https://github.com/stanfordnlp/dspy) | DSPy: The framework for programming—not prompting—foundation models |
+| [google-indexing-script](https://github.com/goenning/google-indexing-script) | Script to get your site indexed on Google in less than 48 hours |
+| [langgraph](https://github.com/langchain-ai/langgraph) |  |
+| [black](https://github.com/psf/black) | The uncompromising Python code formatter |
 <!-- END OF MONTHLY_TOP10_REPOS -->
