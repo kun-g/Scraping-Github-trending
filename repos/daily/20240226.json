@@ -1,0 +1,799 @@
+[
+    {
+        "author": "google",
+        "avatar": "https://github.com/google.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5590046",
+                "href": "https://github.com/dan-zheng",
+                "username": "dan-zheng"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/17255429",
+                "href": "https://github.com/jan-wassenberg",
+                "username": "jan-wassenberg"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/20875313",
+                "href": "https://github.com/austinvhuang",
+                "username": "austinvhuang"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1007415",
+                "href": "https://github.com/dcoles",
+                "username": "dcoles"
+            }
+        ],
+        "currentPeriodStars": 317,
+        "description": "lightweight, standalone C++ inference engine for Google's Gemma models.",
+        "forks": 253,
+        "fullname": "google/gemma.cpp",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "name": "gemma.cpp",
+        "stars": 3412,
+        "url": "https://github.com/google/gemma.cpp"
+    },
+    {
+        "author": "WongKinYiu",
+        "avatar": "https://github.com/WongKinYiu.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/12152972",
+                "href": "https://github.com/WongKinYiu",
+                "username": "WongKinYiu"
+            }
+        ],
+        "currentPeriodStars": 1064,
+        "description": "Implementation of paper - YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information",
+        "forks": 307,
+        "fullname": "WongKinYiu/yolov9",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "yolov9",
+        "stars": 2706,
+        "url": "https://github.com/WongKinYiu/yolov9"
+    },
+    {
+        "author": "ollama",
+        "avatar": "https://github.com/ollama.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2372640",
+                "href": "https://github.com/mxyng",
+                "username": "mxyng"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/251292",
+                "href": "https://github.com/jmorganca",
+                "username": "jmorganca"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5853428",
+                "href": "https://github.com/BruceMacD",
+                "username": "BruceMacD"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4033016",
+                "href": "https://github.com/dhiltgen",
+                "username": "dhiltgen"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/633681",
+                "href": "https://github.com/technovangelist",
+                "username": "technovangelist"
+            }
+        ],
+        "currentPeriodStars": 477,
+        "description": "Get up and running with Llama 2, Mistral, Gemma, and other large language models.",
+        "forks": 2535,
+        "fullname": "ollama/ollama",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "name": "ollama",
+        "stars": 40575,
+        "url": "https://github.com/ollama/ollama"
+    },
+    {
+        "author": "SoraWebui",
+        "avatar": "https://github.com/SoraWebui.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/24276890",
+                "href": "https://github.com/littletry",
+                "username": "littletry"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/22633385",
+                "href": "https://github.com/eltociear",
+                "username": "eltociear"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/78635596",
+                "href": "https://github.com/zooma02",
+                "username": "zooma02"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2316148",
+                "href": "https://github.com/qiayue",
+                "username": "qiayue"
+            }
+        ],
+        "currentPeriodStars": 201,
+        "description": "SoraWebui is an open-source Sora web client, enabling users to easily create videos from text with OpenAI's Sora model.",
+        "forks": 287,
+        "fullname": "SoraWebui/SoraWebui",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "SoraWebui",
+        "stars": 1142,
+        "url": "https://github.com/SoraWebui/SoraWebui"
+    },
+    {
+        "author": "vvbbnn00",
+        "avatar": "https://github.com/vvbbnn00.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/46409975",
+                "href": "https://github.com/vvbbnn00",
+                "username": "vvbbnn00"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/29306285",
+                "href": "https://github.com/CorrectRoadH",
+                "username": "CorrectRoadH"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/19755727",
+                "href": "https://github.com/hu3rror",
+                "username": "hu3rror"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/57975788",
+                "href": "https://github.com/xx10n31y",
+                "username": "xx10n31y"
+            }
+        ],
+        "currentPeriodStars": 321,
+        "description": "\u8be5\u9879\u76ee\u53ef\u4ee5\u8ba9\u4f60\u901a\u8fc7\u8ba2\u9605\u7684\u65b9\u5f0f\u4f7f\u7528Cloudflare WARP+\uff0c\u81ea\u52a8\u83b7\u53d6\u6d41\u91cf\u3002This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.",
+        "forks": 270,
+        "fullname": "vvbbnn00/WARP-Clash-API",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "WARP-Clash-API",
+        "stars": 1852,
+        "url": "https://github.com/vvbbnn00/WARP-Clash-API"
+    },
+    {
+        "author": "jackfrued",
+        "avatar": "https://github.com/jackfrued.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7474657",
+                "href": "https://github.com/jackfrued",
+                "username": "jackfrued"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/13017944",
+                "href": "https://github.com/softpo",
+                "username": "softpo"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/10865729",
+                "href": "https://github.com/geekya215",
+                "username": "geekya215"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/599268",
+                "href": "https://github.com/jankeromnes",
+                "username": "jankeromnes"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2331406",
+                "href": "https://github.com/royaso",
+                "username": "royaso"
+            }
+        ],
+        "currentPeriodStars": 174,
+        "description": "Python - 100\u5929\u4ece\u65b0\u624b\u5230\u5927\u5e08",
+        "forks": 50868,
+        "fullname": "jackfrued/Python-100-Days",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "Python-100-Days",
+        "stars": 147311,
+        "url": "https://github.com/jackfrued/Python-100-Days"
+    },
+    {
+        "author": "Stability-AI",
+        "avatar": "https://github.com/Stability-AI.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/37085732",
+                "href": "https://github.com/timudk",
+                "username": "timudk"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/26577641",
+                "href": "https://github.com/ablattmann",
+                "username": "ablattmann"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/58669",
+                "href": "https://github.com/akx",
+                "username": "akx"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/62965623",
+                "href": "https://github.com/benjaminaubin",
+                "username": "benjaminaubin"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/22528125",
+                "href": "https://github.com/jenuk",
+                "username": "jenuk"
+            }
+        ],
+        "currentPeriodStars": 57,
+        "description": "Generative Models by Stability AI",
+        "forks": 2123,
+        "fullname": "Stability-AI/generative-models",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "generative-models",
+        "stars": 20030,
+        "url": "https://github.com/Stability-AI/generative-models"
+    },
+    {
+        "author": "zed-industries",
+        "avatar": "https://github.com/zed-industries.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/482957",
+                "href": "https://github.com/as-cii",
+                "username": "as-cii"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/326587",
+                "href": "https://github.com/maxbrunsfeld",
+                "username": "maxbrunsfeld"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1789",
+                "href": "https://github.com/nathansobo",
+                "username": "nathansobo"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2280405",
+                "href": "https://github.com/mikayla-maki",
+                "username": "mikayla-maki"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/94272",
+                "href": "https://github.com/ConradIrwin",
+                "username": "ConradIrwin"
+            }
+        ],
+        "currentPeriodStars": 217,
+        "description": "Code at the speed of thought \u2013 Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+        "forks": 1001,
+        "fullname": "zed-industries/zed",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "name": "zed",
+        "stars": 25623,
+        "url": "https://github.com/zed-industries/zed"
+    },
+    {
+        "author": "MegaManSec",
+        "avatar": "https://github.com/MegaManSec.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2505339",
+                "href": "https://github.com/MegaManSec",
+                "username": "MegaManSec"
+            }
+        ],
+        "currentPeriodStars": 162,
+        "description": "SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery.",
+        "forks": 139,
+        "fullname": "MegaManSec/SSH-Snake",
+        "language": "Shell",
+        "languageColor": "#89e051",
+        "name": "SSH-Snake",
+        "stars": 1525,
+        "url": "https://github.com/MegaManSec/SSH-Snake"
+    },
+    {
+        "author": "mut-ex",
+        "avatar": "https://github.com/mut-ex.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/21265981",
+                "href": "https://github.com/mut-ex",
+                "username": "mut-ex"
+            }
+        ],
+        "currentPeriodStars": 171,
+        "description": "An intuitive GUI for GLIGEN that uses ComfyUI in the backend",
+        "forks": 116,
+        "fullname": "mut-ex/gligen-gui",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "name": "gligen-gui",
+        "stars": 1242,
+        "url": "https://github.com/mut-ex/gligen-gui"
+    },
+    {
+        "author": "laurent22",
+        "avatar": "https://github.com/laurent22.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1285584",
+                "href": "https://github.com/laurent22",
+                "username": "laurent22"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/223439",
+                "href": "https://github.com/tessus",
+                "username": "tessus"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/81297880",
+                "href": "https://github.com/joplinbot",
+                "username": "joplinbot"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/46334387",
+                "href": "https://github.com/personalizedrefrigerator",
+                "username": "personalizedrefrigerator"
+            }
+        ],
+        "currentPeriodStars": 27,
+        "description": "Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.",
+        "forks": 4319,
+        "fullname": "laurent22/joplin",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "joplin",
+        "stars": 40971,
+        "url": "https://github.com/laurent22/joplin"
+    },
+    {
+        "author": "Azure",
+        "avatar": "https://github.com/Azure.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/10245648",
+                "href": "https://github.com/romanlutz",
+                "username": "romanlutz"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/137218279",
+                "href": "https://github.com/rlundeen2",
+                "username": "rlundeen2"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/43563047",
+                "href": "https://github.com/rdheekonda",
+                "username": "rdheekonda"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/22527892",
+                "href": "https://github.com/microsoftopensource",
+                "username": "microsoftopensource"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/86250273",
+                "href": "https://github.com/jbolor21",
+                "username": "jbolor21"
+            }
+        ],
+        "currentPeriodStars": 73,
+        "description": "The Python Risk Identification Tool for generative AI (PyRIT) is an open access automation framework to empower security professionals and machine learning engineers to proactively find risks in their generative AI systems.",
+        "forks": 36,
+        "fullname": "Azure/PyRIT",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "PyRIT",
+        "stars": 374,
+        "url": "https://github.com/Azure/PyRIT"
+    },
+    {
+        "author": "google",
+        "avatar": "https://github.com/google.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/39922559",
+                "href": "https://github.com/pengchongjin",
+                "username": "pengchongjin"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/15572883",
+                "href": "https://github.com/michaelmoynihan",
+                "username": "michaelmoynihan"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/22633385",
+                "href": "https://github.com/eltociear",
+                "username": "eltociear"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/75741616",
+                "href": "https://github.com/r-gheda",
+                "username": "r-gheda"
+            }
+        ],
+        "currentPeriodStars": 307,
+        "description": "The official PyTorch implementation of Google's Gemma models",
+        "forks": 347,
+        "fullname": "google/gemma_pytorch",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "gemma_pytorch",
+        "stars": 3613,
+        "url": "https://github.com/google/gemma_pytorch"
+    },
+    {
+        "author": "FuelLabs",
+        "avatar": "https://github.com/FuelLabs.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/794823",
+                "href": "https://github.com/Voxelot",
+                "username": "Voxelot"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/18346821",
+                "href": "https://github.com/xgreenx",
+                "username": "xgreenx"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5528713",
+                "href": "https://github.com/bvrooman",
+                "username": "bvrooman"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/11587298",
+                "href": "https://github.com/leviathanbeak",
+                "username": "leviathanbeak"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2204863",
+                "href": "https://github.com/Dentosal",
+                "username": "Dentosal"
+            }
+        ],
+        "currentPeriodStars": 534,
+        "description": "Rust full node implementation of the Fuel v2 protocol.",
+        "forks": 1389,
+        "fullname": "FuelLabs/fuel-core",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "name": "fuel-core",
+        "stars": 41731,
+        "url": "https://github.com/FuelLabs/fuel-core"
+    },
+    {
+        "author": "radix-vue",
+        "avatar": "https://github.com/radix-vue.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/59365435",
+                "href": "https://github.com/zernonia",
+                "username": "zernonia"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/101852870",
+                "href": "https://github.com/khairulhaaziq",
+                "username": "khairulhaaziq"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/51422045",
+                "href": "https://github.com/MellKam",
+                "username": "MellKam"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/17759705",
+                "href": "https://github.com/mujahidfa",
+                "username": "mujahidfa"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/22072217",
+                "href": "https://github.com/onmax",
+                "username": "onmax"
+            }
+        ],
+        "currentPeriodStars": 47,
+        "description": "Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.",
+        "forks": 99,
+        "fullname": "radix-vue/radix-vue",
+        "language": "Vue",
+        "languageColor": "#41b883",
+        "name": "radix-vue",
+        "stars": 2142,
+        "url": "https://github.com/radix-vue/radix-vue"
+    },
+    {
+        "author": "systemdesign42",
+        "avatar": "https://github.com/systemdesign42.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/118598641",
+                "href": "https://github.com/systemdesign42",
+                "username": "systemdesign42"
+            }
+        ],
+        "currentPeriodStars": 367,
+        "description": "Building the best system design resource in the internet",
+        "forks": 247,
+        "fullname": "systemdesign42/system-design",
+        "name": "system-design",
+        "stars": 2808,
+        "url": "https://github.com/systemdesign42/system-design"
+    },
+    {
+        "author": "ashishps1",
+        "avatar": "https://github.com/ashishps1.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8646889",
+                "href": "https://github.com/ashishps1",
+                "username": "ashishps1"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/118598641",
+                "href": "https://github.com/systemdesign42",
+                "username": "systemdesign42"
+            }
+        ],
+        "currentPeriodStars": 296,
+        "description": "This repository contains System Design resources which are useful while preparing for interviews and learning Distributed Systems",
+        "forks": 1812,
+        "fullname": "ashishps1/awesome-system-design-resources",
+        "name": "awesome-system-design-resources",
+        "stars": 7472,
+        "url": "https://github.com/ashishps1/awesome-system-design-resources"
+    },
+    {
+        "author": "mouredev",
+        "avatar": "https://github.com/mouredev.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/17043402",
+                "href": "https://github.com/mouredev",
+                "username": "mouredev"
+            }
+        ],
+        "currentPeriodStars": 92,
+        "description": "Curso para aprender el lenguaje de programaci\u00f3n Python desde cero y para principiantes. 75 clases, 37 horas en v\u00eddeo, c\u00f3digo, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA...",
+        "forks": 1294,
+        "fullname": "mouredev/Hello-Python",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "Hello-Python",
+        "stars": 20069,
+        "url": "https://github.com/mouredev/Hello-Python"
+    },
+    {
+        "author": "google",
+        "avatar": "https://github.com/google.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/17255429",
+                "href": "https://github.com/jan-wassenberg",
+                "username": "jan-wassenberg"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/28941113",
+                "href": "https://github.com/johnplatts",
+                "username": "johnplatts"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/228803",
+                "href": "https://github.com/malaterre",
+                "username": "malaterre"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/203457",
+                "href": "https://github.com/eustas",
+                "username": "eustas"
+            }
+        ],
+        "currentPeriodStars": 32,
+        "description": "Performance-portable, length-agnostic SIMD with runtime dispatch",
+        "forks": 231,
+        "fullname": "google/highway",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "name": "highway",
+        "stars": 3282,
+        "url": "https://github.com/google/highway"
+    },
+    {
+        "author": "zksync",
+        "avatar": "https://github.com/zksync.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/621437",
+                "href": "https://github.com/gluk64",
+                "username": "gluk64"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/119700026",
+                "href": "https://github.com/Coha05",
+                "username": "Coha05"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/130055205",
+                "href": "https://github.com/zkCan",
+                "username": "zkCan"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/13969478",
+                "href": "https://github.com/RamanSB",
+                "username": "RamanSB"
+            }
+        ],
+        "currentPeriodStars": 123,
+        "description": "",
+        "forks": 903,
+        "fullname": "zksync/credo",
+        "name": "credo",
+        "stars": 1612,
+        "url": "https://github.com/zksync/credo"
+    },
+    {
+        "author": "home-assistant",
+        "avatar": "https://github.com/home-assistant.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1444314",
+                "href": "https://github.com/balloob",
+                "username": "balloob"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/663432",
+                "href": "https://github.com/bdraco",
+                "username": "bdraco"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/195327",
+                "href": "https://github.com/frenck",
+                "username": "frenck"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/14281572",
+                "href": "https://github.com/emontnemery",
+                "username": "emontnemery"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6771947",
+                "href": "https://github.com/epenet",
+                "username": "epenet"
+            }
+        ],
+        "currentPeriodStars": 25,
+        "description": "\ud83c\udfe1 Open source home automation that puts local control and privacy first.",
+        "forks": 27230,
+        "fullname": "home-assistant/core",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "core",
+        "stars": 67564,
+        "url": "https://github.com/home-assistant/core"
+    },
+    {
+        "author": "Pythagora-io",
+        "avatar": "https://github.com/Pythagora-io.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/41999013",
+                "href": "https://github.com/LeonOstrez",
+                "username": "LeonOstrez"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1866161",
+                "href": "https://github.com/nalbion",
+                "username": "nalbion"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3362",
+                "href": "https://github.com/senko",
+                "username": "senko"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/10895136",
+                "href": "https://github.com/zvone187",
+                "username": "zvone187"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/138990495",
+                "href": "https://github.com/Umpire2018",
+                "username": "Umpire2018"
+            }
+        ],
+        "currentPeriodStars": 35,
+        "description": "Dev tool that writes scalable apps from scratch while the developer oversees the implementation",
+        "forks": 1859,
+        "fullname": "Pythagora-io/gpt-pilot",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "gpt-pilot",
+        "stars": 21620,
+        "url": "https://github.com/Pythagora-io/gpt-pilot"
+    },
+    {
+        "author": "ronibandini",
+        "avatar": "https://github.com/ronibandini.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/30272192",
+                "href": "https://github.com/ronibandini",
+                "username": "ronibandini"
+            }
+        ],
+        "currentPeriodStars": 14,
+        "description": "detects reggaeton style with Machine Learning and sends packets to disable BT speakers (hopefully)",
+        "forks": 10,
+        "fullname": "ronibandini/reggaetonBeGone",
+        "name": "reggaetonBeGone",
+        "stars": 147,
+        "url": "https://github.com/ronibandini/reggaetonBeGone"
+    },
+    {
+        "author": "soufianetahiri",
+        "avatar": "https://github.com/soufianetahiri.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/17729335",
+                "href": "https://github.com/soufianetahiri",
+                "username": "soufianetahiri"
+            }
+        ],
+        "currentPeriodStars": 12,
+        "description": "I-SOON/Anxun leak related stuff",
+        "forks": 110,
+        "fullname": "soufianetahiri/Anxun-isoon",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "Anxun-isoon",
+        "stars": 188,
+        "url": "https://github.com/soufianetahiri/Anxun-isoon"
+    },
+    {
+        "author": "facebook",
+        "avatar": "https://github.com/facebook.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/239676",
+                "href": "https://github.com/necolas",
+                "username": "necolas"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1390196",
+                "href": "https://github.com/revskill10",
+                "username": "revskill10"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2805320",
+                "href": "https://github.com/catalinmiron",
+                "username": "catalinmiron"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/68535430",
+                "href": "https://github.com/janlin002",
+                "username": "janlin002"
+            }
+        ],
+        "currentPeriodStars": 110,
+        "description": "React Strict DOM (RSD) is a subset of React DOM, imperative DOM, and CSS that supports web and native targets",
+        "forks": 105,
+        "fullname": "facebook/react-strict-dom",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "name": "react-strict-dom",
+        "stars": 2039,
+        "url": "https://github.com/facebook/react-strict-dom"
+    }
+]
