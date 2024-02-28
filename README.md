@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [yolov9](https://github.com/WongKinYiu/yolov9) | Implementation of paper - YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information |
-| [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections. |
-| [ollama](https://github.com/ollama/ollama) | Get up and running with Llama 2, Mistral, Gemma, and other large language models. |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [PyRIT](https://github.com/Azure/PyRIT) | The Python Risk Identification Tool for generative AI (PyRIT) is an open access automation framework to empower security professionals and machine learning engineers to proactively find risks in their generative AI systems. |
 | [WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) | 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic. |
-| [czkawka](https://github.com/qarmin/czkawka) | Multi functional app to find duplicates, empty folders, similar images etc. |
-| [I-S00N](https://github.com/mttaggart/I-S00N) | Anxun Shanghai (I-SOON) Data Dump Translations (PII Redacted) |
+| [tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) | The distributed financial transactions database designed for mission critical safety and performance. |
+| [fuel-core](https://github.com/FuelLabs/fuel-core) | Rust full node implementation of the Fuel v2 protocol. |
+| [sway](https://github.com/FuelLabs/sway) | 🌴 Empowering everyone to build reliable and efficient smart contracts. |
 | [3x-ui](https://github.com/MHSanaei/3x-ui) | Xray panel supporting multi-protocol multi-user expire day & traffic & ip limit (Vmess & Vless & Trojan & ShadowSocks & Wireguard) |
-| [jellyfin](https://github.com/jellyfin/jellyfin) | The Free Software Media System |
 | [gemma.cpp](https://github.com/google/gemma.cpp) | lightweight, standalone C++ inference engine for Google's Gemma models. |
-| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
+| [AutoPrompt](https://github.com/Eladlev/AutoPrompt) | A framework for prompt tuning using Intent-based Prompt Calibration |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
