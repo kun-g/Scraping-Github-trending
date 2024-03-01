@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [web-check](https://github.com/Lissy93/web-check) | 🕵️‍♂️ All-in-one OSINT tool for analysing any website |
-| [uikit](https://github.com/pmndrs/uikit) | 📱 user interfaces for react-three-fiber |
-| [WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) | 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic. |
-| [OpenCodeInterpreter](https://github.com/OpenCodeInterpreter/OpenCodeInterpreter) |  |
-| [movie-web](https://github.com/movie-web/movie-web) | A small web app for watching movies and shows easily |
-| [AFFiNE](https://github.com/toeverything/AFFiNE) | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. |
-| [crewAI](https://github.com/joaomdmoura/crewAI) | Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) | The distributed financial transactions database designed for mission critical safety and performance. |
+| [yuzu](https://github.com/yuzu-emu/yuzu) | Nintendo Switch emulator |
+| [bpftop](https://github.com/Netflix/bpftop) | bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program. |
+| [yuzu-android](https://github.com/yuzu-emu/yuzu-android) |  |
+| [windows](https://github.com/dockur/windows) | Windows in a Docker container. |
+| [polyfill-service](https://github.com/polyfillpolyfill/polyfill-service) | Automatic polyfill service. |
 | [taiko-mono](https://github.com/taikoxyz/taiko-mono) | A decentralized, Ethereum-equivalent ZK-Rollup. 🥁 |
+| [AutoPrompt](https://github.com/Eladlev/AutoPrompt) | A framework for prompt tuning using Intent-based Prompt Calibration |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [Mario-Kart-3.js](https://github.com/Lunakepio/Mario-Kart-3.js) |  |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
