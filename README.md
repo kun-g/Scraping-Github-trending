@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [pingora](https://github.com/cloudflare/pingora) | A library for building fast, reliable and evolvable network services. |
 | [web-check](https://github.com/Lissy93/web-check) | 🕵️‍♂️ All-in-one OSINT tool for analysing any website |
-| [yuzu](https://github.com/yuzu-emu/yuzu) | Nintendo Switch emulator |
-| [bpftop](https://github.com/Netflix/bpftop) | bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program. |
-| [yuzu-android](https://github.com/yuzu-emu/yuzu-android) |  |
-| [windows](https://github.com/dockur/windows) | Windows in a Docker container. |
-| [polyfill-service](https://github.com/polyfillpolyfill/polyfill-service) | Automatic polyfill service. |
-| [taiko-mono](https://github.com/taikoxyz/taiko-mono) | A decentralized, Ethereum-equivalent ZK-Rollup. 🥁 |
-| [AutoPrompt](https://github.com/Eladlev/AutoPrompt) | A framework for prompt tuning using Intent-based Prompt Calibration |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
 | [Mario-Kart-3.js](https://github.com/Lunakepio/Mario-Kart-3.js) |  |
+| [windows](https://github.com/dockur/windows) | Windows in a Docker container. |
+| [yuzu](https://github.com/yuzu-emu/yuzu) | Nintendo Switch emulator |
+| [uikit](https://github.com/pmndrs/uikit) | 🎨 user interfaces for react-three-fiber |
+| [EMO](https://github.com/HumanAIGC/EMO) |  |
+| [xeno-rat](https://github.com/moom825/xeno-rat) | Xeno-RAT is an open-source remote access tool (RAT) developed in C#, providing a comprehensive set of features for remote system management. Has features such as HVNC, live microphone, reverse proxy, and much much more! |
+| [BitNet](https://github.com/kyegomez/BitNet) | Implementation of "BitNet: Scaling 1-bit Transformers for Large Language Models" in pytorch |
+| [Security-101](https://github.com/microsoft/Security-101) | 7 Lessons, Kick-start Your Cybersecurity Learning. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
