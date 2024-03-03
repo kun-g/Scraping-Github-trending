@@ -15,14 +15,14 @@
 | :----: | :----: |
 | [pingora](https://github.com/cloudflare/pingora) | A library for building fast, reliable and evolvable network services. |
 | [web-check](https://github.com/Lissy93/web-check) | 🕵️‍♂️ All-in-one OSINT tool for analysing any website |
-| [Mario-Kart-3.js](https://github.com/Lunakepio/Mario-Kart-3.js) |  |
-| [windows](https://github.com/dockur/windows) | Windows in a Docker container. |
-| [yuzu](https://github.com/yuzu-emu/yuzu) | Nintendo Switch emulator |
-| [uikit](https://github.com/pmndrs/uikit) | 🎨 user interfaces for react-three-fiber |
+| [polyfill-service](https://github.com/polyfillpolyfill/polyfill-service) | Automatic polyfill service. |
 | [EMO](https://github.com/HumanAIGC/EMO) |  |
-| [xeno-rat](https://github.com/moom825/xeno-rat) | Xeno-RAT is an open-source remote access tool (RAT) developed in C#, providing a comprehensive set of features for remote system management. Has features such as HVNC, live microphone, reverse proxy, and much much more! |
+| [Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) | A curated list of free courses & certifications. |
+| [yuzu](https://github.com/yuzu-emu/yuzu) | Nintendo Switch emulator |
+| [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 18 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
+| [AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) | Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation |
 | [BitNet](https://github.com/kyegomez/BitNet) | Implementation of "BitNet: Scaling 1-bit Transformers for Large Language Models" in pytorch |
-| [Security-101](https://github.com/microsoft/Security-101) | 7 Lessons, Kick-start Your Cybersecurity Learning. |
+| [windows](https://github.com/dockur/windows) | Windows in a Docker container. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
