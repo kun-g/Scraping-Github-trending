@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [pingora](https://github.com/cloudflare/pingora) | A library for building fast, reliable and evolvable network services. |
-| [web-check](https://github.com/Lissy93/web-check) | 🕵️‍♂️ All-in-one OSINT tool for analysing any website |
-| [polyfill-service](https://github.com/polyfillpolyfill/polyfill-service) | Automatic polyfill service. |
-| [EMO](https://github.com/HumanAIGC/EMO) |  |
-| [Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) | A curated list of free courses & certifications. |
-| [yuzu](https://github.com/yuzu-emu/yuzu) | Nintendo Switch emulator |
-| [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 18 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
-| [AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) | Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation |
-| [BitNet](https://github.com/kyegomez/BitNet) | Implementation of "BitNet: Scaling 1-bit Transformers for Large Language Models" in pytorch |
-| [windows](https://github.com/dockur/windows) | Windows in a Docker container. |
+| [sd-forge-layerdiffusion](https://github.com/layerdiffusion/sd-forge-layerdiffusion) | [WIP] Layer Diffusion for WebUI (via Forge) |
+| [dust3r](https://github.com/naver/dust3r) |  |
+| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
+| [wewe-rss](https://github.com/cooderl/wewe-rss) | 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）。 |
+| [revanced-manager](https://github.com/ReVanced/revanced-manager) | 💊 Application to use ReVanced on Android |
+| [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI |
+| [FastUI](https://github.com/pydantic/FastUI) | Build better UIs faster. |
+| [iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world |
+| [ente](https://github.com/ente-io/ente) | Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos |
+| [ai](https://github.com/vercel/ai) | Build AI-powered applications with React, Svelte, Vue, and Solid |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
