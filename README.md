@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [sd-forge-layerdiffusion](https://github.com/layerdiffusion/sd-forge-layerdiffusion) | [WIP] Layer Diffusion for WebUI (via Forge) |
+| [screenshot-to-code](https://github.com/abi/screenshot-to-code) | Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue) |
 | [dust3r](https://github.com/naver/dust3r) |  |
-| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
-| [wewe-rss](https://github.com/cooderl/wewe-rss) | 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）。 |
-| [revanced-manager](https://github.com/ReVanced/revanced-manager) | 💊 Application to use ReVanced on Android |
-| [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI |
-| [FastUI](https://github.com/pydantic/FastUI) | Build better UIs faster. |
-| [iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world |
 | [ente](https://github.com/ente-io/ente) | Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos |
+| [wewe-rss](https://github.com/cooderl/wewe-rss) | 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）。 |
 | [ai](https://github.com/vercel/ai) | Build AI-powered applications with React, Svelte, Vue, and Solid |
+| [zap-gpt](https://github.com/marcusGoncalvess/zap-gpt) | Este projeto explora a integração do ChatGPT com o WhatsApp, transformando o chatbot em um assistente virtual capaz de realizar tarefas como falar com amigos, responder a perguntas de clientes, e muito mais, com um toque de humanização nas conversas. |
+| [sd-forge-layerdiffusion](https://github.com/layerdiffusion/sd-forge-layerdiffusion) | [WIP] Layer Diffusion for WebUI (via Forge) |
+| [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) | 🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。 |
+| [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI |
+| [Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) | This project aim to reproducing Sora (Open AI T2V model), but we only have limited resource. We deeply wish the all open source community can contribute to this project. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
