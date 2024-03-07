@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) | This project aim to reproducing Sora (Open AI T2V model), but we only have limited resource. We deeply wish the all open source community can contribute to this project. |
-| [sd-forge-layerdiffuse](https://github.com/layerdiffusion/sd-forge-layerdiffuse) | [WIP] Layer Diffusion for WebUI (via Forge) |
-| [dust3r](https://github.com/naver/dust3r) |  |
-| [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 18 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
-| [ui](https://github.com/atherosai/ui) | Simple UI examples from my social media |
-| [ente](https://github.com/ente-io/ente) | Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos |
-| [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 12 Weeks, 24 Lessons, AI for All! |
-| [screenshot-to-code](https://github.com/abi/screenshot-to-code) | Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue) |
-| [pineapple-src](https://github.com/pineappleEA/pineapple-src) | A former citrus fruit-named emulator's Early Access source code |
 | [Ryujinx](https://github.com/Ryujinx/Ryujinx) | Experimental Nintendo Switch Emulator written in C# |
+| [screenshot-to-code](https://github.com/abi/screenshot-to-code) | Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue) |
+| [dust3r](https://github.com/naver/dust3r) |  |
+| [moondream](https://github.com/vikhyat/moondream) | tiny vision language model |
+| [clash-rules](https://github.com/Loyalsoldier/clash-rules) | 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 客户端。 |
+| [dolphin](https://github.com/dolphin-emu/dolphin) | Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements. |
+| [ComfyUI-layerdiffuse](https://github.com/huchenlei/ComfyUI-layerdiffuse) | Layer Diffuse custom nodes |
+| [ui](https://github.com/atherosai/ui) | Simple UI examples from my social media |
+| [yuzu](https://github.com/yuzu-mirror/yuzu) | Nintendo Switch emulator (unofficial mirror fork) |
+| [citra](https://github.com/PabloMK7/citra) | A Nintendo 3DS Emulator |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
