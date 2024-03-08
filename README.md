@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [Ryujinx](https://github.com/Ryujinx/Ryujinx) | Experimental Nintendo Switch Emulator written in C# |
-| [screenshot-to-code](https://github.com/abi/screenshot-to-code) | Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue) |
-| [dust3r](https://github.com/naver/dust3r) |  |
-| [moondream](https://github.com/vikhyat/moondream) | tiny vision language model |
+| [TripoSR](https://github.com/VAST-AI-Research/TripoSR) |  |
+| [puter](https://github.com/HeyPuter/puter) | The Internet OS! |
+| [Open-Sora](https://github.com/hpcaitech/Open-Sora) | Building your own video generation model like OpenAI's Sora |
+| [ZLUDA](https://github.com/vosen/ZLUDA) | CUDA on AMD GPUs |
+| [suyu](https://github.com/Crimson-Hawk/suyu) |  |
+| [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 18 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
 | [clash-rules](https://github.com/Loyalsoldier/clash-rules) | 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 客户端。 |
-| [dolphin](https://github.com/dolphin-emu/dolphin) | Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements. |
-| [ComfyUI-layerdiffuse](https://github.com/huchenlei/ComfyUI-layerdiffuse) | Layer Diffuse custom nodes |
+| [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | Implementing a ChatGPT-like LLM from scratch, step by step |
 | [ui](https://github.com/atherosai/ui) | Simple UI examples from my social media |
-| [yuzu](https://github.com/yuzu-mirror/yuzu) | Nintendo Switch emulator (unofficial mirror fork) |
-| [citra](https://github.com/PabloMK7/citra) | A Nintendo 3DS Emulator |
+| [Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) | This project aim to reproducing Sora (Open AI T2V model), but we only have limited resource. We deeply wish the all open source community can contribute to this project. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
