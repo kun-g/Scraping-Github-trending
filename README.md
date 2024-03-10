@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [ui](https://github.com/atherosai/ui) | Simple UI examples from my social media |
-| [Kingfisher](https://github.com/onevcat/Kingfisher) | A lightweight, pure-Swift library for downloading and caching images from the web. |
-| [Ryujinx](https://github.com/Ryujinx/Ryujinx) | Experimental Nintendo Switch Emulator written in C# |
 | [Helldivers-2-Internal-Hack-Dll-Proxy-PoC](https://github.com/emoisback/Helldivers-2-Internal-Hack-Dll-Proxy-PoC) | Proof of Concept Internal Hack Using Dll Proxy for Helldivers 2 |
-| [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | Implementing a ChatGPT-like LLM from scratch, step by step |
-| [saas-starter-kit](https://github.com/boxyhq/saas-starter-kit) | 🔥 Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate 🚀 |
-| [Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) | Agent framework and applications built upon Qwen1.5, featuring Function Calling, Code Interpreter, RAG, and Chrome extension. |
-| [multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) | A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage |
-| [maxtext](https://github.com/google/maxtext) | A simple, performant and scalable Jax LLM! |
+| [MeloTTS](https://github.com/myshell-ai/MeloTTS) | High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean. |
+| [Open-Sora](https://github.com/hpcaitech/Open-Sora) | Building your own video generation model like OpenAI's Sora |
 | [TripoSR](https://github.com/VAST-AI-Research/TripoSR) |  |
+| [Kingfisher](https://github.com/onevcat/Kingfisher) | A lightweight, pure-Swift library for downloading and caching images from the web. |
+| [GaLore](https://github.com/jiaweizzhao/GaLore) |  |
+| [resources-learning-spring](https://github.com/spring-office-hours/resources-learning-spring) | Resources for Learning Spring |
+| [SDWebImage](https://github.com/SDWebImage/SDWebImage) | Asynchronous image downloader with cache support as a UIImageView category |
+| [source-code-hunter](https://github.com/doocs/source-code-hunter) | 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
