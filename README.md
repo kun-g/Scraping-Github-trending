@@ -46,13 +46,13 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [web-check](https://github.com/Lissy93/web-check) | 🕵️‍♂️ All-in-one OSINT tool for analysing any website |
-| [my-tv](https://github.com/lizongying/my-tv) | 我的电视 电视直播软件，安装即可使用 |
-| [OLMo](https://github.com/allenai/OLMo) | Modeling, training, eval, and inference code for OLMo |
-| [maybe](https://github.com/maybe-finance/maybe) | The OS for your personal finances |
-| [yuzu](https://github.com/yuzu-emu/yuzu) | Nintendo Switch emulator |
-| [sherlock](https://github.com/sherlock-project/sherlock) | 🔎 Hunt down social media accounts by username across social networks |
+| [Ryujinx](https://github.com/Ryujinx/Ryujinx) | Experimental Nintendo Switch Emulator written in C# |
+| [stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) |  |
 | [campus-imaotai](https://github.com/oddfar/campus-imaotai) | i茅台app自动预约，每日自动预约，支持docker一键部署（本项目不提供成品，使用的是已淘汰的算法） |
-| [plura-production](https://github.com/webprodigies/plura-production) |  |
-| [zed](https://github.com/zed-industries/zed) | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. |
-| [fabric](https://github.com/danielmiessler/fabric) | fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere. |
+| [metavoice-src](https://github.com/metavoiceio/metavoice-src) | Foundational model for human-like, expressive TTS |
+| [ui](https://github.com/atherosai/ui) | Simple UI examples from my social media |
+| [FastUI](https://github.com/pydantic/FastUI) | Build better UIs faster. |
+| [pkl](https://github.com/apple/pkl) | A configuration as code language with rich validation and tooling. |
+| [sherlock](https://github.com/sherlock-project/sherlock) | 🔎 Hunt down social media accounts by username across social networks |
+| [openai-translator](https://github.com/openai-translator/openai-translator) | 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 - Browser extension and cross-platform desktop application for translation based on ChatGPT API. |
 <!-- END OF MONTHLY_TOP10_REPOS -->
