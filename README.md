@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [ui](https://github.com/atherosai/ui) | Simple UI examples from my social media |
-| [Helldivers-2-Internal-Hack-Dll-Proxy-PoC](https://github.com/emoisback/Helldivers-2-Internal-Hack-Dll-Proxy-PoC) | Proof of Concept Internal Hack Using Dll Proxy for Helldivers 2 |
-| [MeloTTS](https://github.com/myshell-ai/MeloTTS) | High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean. |
-| [Open-Sora](https://github.com/hpcaitech/Open-Sora) | Building your own video generation model like OpenAI's Sora |
-| [TripoSR](https://github.com/VAST-AI-Research/TripoSR) |  |
-| [Kingfisher](https://github.com/onevcat/Kingfisher) | A lightweight, pure-Swift library for downloading and caching images from the web. |
-| [GaLore](https://github.com/jiaweizzhao/GaLore) |  |
-| [resources-learning-spring](https://github.com/spring-office-hours/resources-learning-spring) | Resources for Learning Spring |
-| [SDWebImage](https://github.com/SDWebImage/SDWebImage) | Asynchronous image downloader with cache support as a UIImageView category |
-| [source-code-hunter](https://github.com/doocs/source-code-hunter) | 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等 |
+| [rolldown](https://github.com/rolldown-rs/rolldown) | Fast Rust bundler for JavaScript with Rollup-compatible API. |
+| [OpenGFW](https://github.com/apernet/OpenGFW) | OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux |
+| [axolotl](https://github.com/OpenAccess-AI-Collective/axolotl) | Go ahead and axolotl questions |
+| [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | Implementing a ChatGPT-like LLM from scratch, step by step |
+| [AQLM](https://github.com/Vahe1994/AQLM) | Official Pytorch repository for Extreme Compression of Large Language Models via Additive Quantization https://arxiv.org/pdf/2401.06118.pdf |
+| [hatchet](https://github.com/hatchet-dev/hatchet) | A distributed, fault-tolerant task queue |
+| [spotube](https://github.com/KRTirtho/spotube) | 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile! |
+| [localsend](https://github.com/localsend/localsend) | An open-source cross-platform alternative to AirDrop |
+| [earthworm](https://github.com/cuixueshe/earthworm) | Learning English through the method of constructing sentences with conjunctions |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
