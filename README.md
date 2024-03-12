@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [ui](https://github.com/atherosai/ui) | Simple UI examples from my social media |
-| [rolldown](https://github.com/rolldown-rs/rolldown) | Fast Rust bundler for JavaScript with Rollup-compatible API. |
 | [OpenGFW](https://github.com/apernet/OpenGFW) | OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux |
-| [axolotl](https://github.com/OpenAccess-AI-Collective/axolotl) | Go ahead and axolotl questions |
-| [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | Implementing a ChatGPT-like LLM from scratch, step by step |
-| [AQLM](https://github.com/Vahe1994/AQLM) | Official Pytorch repository for Extreme Compression of Large Language Models via Additive Quantization https://arxiv.org/pdf/2401.06118.pdf |
-| [hatchet](https://github.com/hatchet-dev/hatchet) | A distributed, fault-tolerant task queue |
-| [spotube](https://github.com/KRTirtho/spotube) | 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile! |
-| [localsend](https://github.com/localsend/localsend) | An open-source cross-platform alternative to AirDrop |
 | [earthworm](https://github.com/cuixueshe/earthworm) | Learning English through the method of constructing sentences with conjunctions |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [rolldown](https://github.com/rolldown/rolldown) | Fast Rust bundler for JavaScript with Rollup-compatible API. |
+| [MeloTTS](https://github.com/myshell-ai/MeloTTS) | High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean. |
+| [system-design](https://github.com/systemdesign42/system-design) | Building the best system design resource in the internet |
+| [bruno](https://github.com/usebruno/bruno) | Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia) |
+| [mlx-examples](https://github.com/ml-explore/mlx-examples) | Examples in the MLX framework |
+| [Paper](https://github.com/PaperMC/Paper) | The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
