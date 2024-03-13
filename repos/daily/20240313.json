@@ -31,12 +31,12 @@
         ],
         "currentPeriodStars": 1942,
         "description": "\u2b50\ufe0f A friendly language for building type-safe, scalable systems!",
-        "forks": 441,
+        "forks": 442,
         "fullname": "gleam-lang/gleam",
         "language": "Rust",
         "languageColor": "#dea584",
         "name": "gleam",
-        "stars": 11254,
+        "stars": 11291,
         "url": "https://github.com/gleam-lang/gleam"
     },
     {
@@ -61,7 +61,7 @@
         "language": "HTML",
         "languageColor": "#e34c26",
         "name": "ui",
-        "stars": 5932,
+        "stars": 5938,
         "url": "https://github.com/atherosai/ui"
     },
     {
@@ -101,7 +101,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "fabric",
-        "stars": 6628,
+        "stars": 6632,
         "url": "https://github.com/danielmiessler/fabric"
     },
     {
@@ -136,12 +136,12 @@
         ],
         "currentPeriodStars": 334,
         "description": "\u300aHello \u7b97\u6cd5\u300b\uff1a\u52a8\u753b\u56fe\u89e3\u3001\u4e00\u952e\u8fd0\u884c\u7684\u6570\u636e\u7ed3\u6784\u4e0e\u7b97\u6cd5\u6559\u7a0b\uff0c\u652f\u6301 Python, C++, Java, C#, Go, Swift, JS, TS, Dart, Rust, C, Zig \u7b49\u8bed\u8a00\u3002English edition ongoing",
-        "forks": 8068,
+        "forks": 8070,
         "fullname": "krahets/hello-algo",
         "language": "Java",
         "languageColor": "#b07219",
         "name": "hello-algo",
-        "stars": 65681,
+        "stars": 65695,
         "url": "https://github.com/krahets/hello-algo"
     },
     {
@@ -157,6 +157,11 @@
                 "avatar": "https://avatars.githubusercontent.com/u/53954695",
                 "href": "https://github.com/DawidPietrykowski",
                 "username": "DawidPietrykowski"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5530639",
+                "href": "https://github.com/chasinglogic",
+                "username": "chasinglogic"
             }
         ],
         "currentPeriodStars": 325,
@@ -166,7 +171,7 @@
         "language": "Rust",
         "languageColor": "#dea584",
         "name": "gitu",
-        "stars": 1032,
+        "stars": 1038,
         "url": "https://github.com/altsem/gitu"
     },
     {
@@ -206,7 +211,7 @@
         "language": "Dart",
         "languageColor": "#00B4AB",
         "name": "localsend",
-        "stars": 31615,
+        "stars": 31623,
         "url": "https://github.com/localsend/localsend"
     },
     {
@@ -236,7 +241,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "chatnio",
-        "stars": 1236,
+        "stars": 1243,
         "url": "https://github.com/Deeptrain-Community/chatnio"
     },
     {
@@ -276,7 +281,7 @@
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "bruno",
-        "stars": 15243,
+        "stars": 15252,
         "url": "https://github.com/usebruno/bruno"
     },
     {
@@ -316,7 +321,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "qlib",
-        "stars": 13714,
+        "stars": 13717,
         "url": "https://github.com/microsoft/qlib"
     },
     {
@@ -331,10 +336,10 @@
         ],
         "currentPeriodStars": 574,
         "description": "Building the best system design resource in the internet",
-        "forks": 490,
+        "forks": 491,
         "fullname": "systemdesign42/system-design",
         "name": "system-design",
-        "stars": 5121,
+        "stars": 5124,
         "url": "https://github.com/systemdesign42/system-design"
     },
     {
@@ -374,7 +379,7 @@
         "language": "Go",
         "languageColor": "#00ADD8",
         "name": "OpenGFW",
-        "stars": 7845,
+        "stars": 7847,
         "url": "https://github.com/apernet/OpenGFW"
     },
     {
@@ -414,7 +419,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "earthworm",
-        "stars": 1479,
+        "stars": 1484,
         "url": "https://github.com/cuixueshe/earthworm"
     },
     {
@@ -449,12 +454,12 @@
         ],
         "currentPeriodStars": 213,
         "description": "Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)",
-        "forks": 774,
+        "forks": 776,
         "fullname": "clash-verge-rev/clash-verge-rev",
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "clash-verge-rev",
-        "stars": 11485,
+        "stars": 11496,
         "url": "https://github.com/clash-verge-rev/clash-verge-rev"
     },
     {
@@ -494,7 +499,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "public-apis",
-        "stars": 285618,
+        "stars": 285624,
         "url": "https://github.com/public-apis/public-apis"
     },
     {
@@ -534,7 +539,7 @@
         "language": "Rust",
         "languageColor": "#dea584",
         "name": "rolldown",
-        "stars": 5112,
+        "stars": 5118,
         "url": "https://github.com/rolldown/rolldown"
     },
     {
@@ -574,7 +579,7 @@
         "language": "Elixir",
         "languageColor": "#6e4a7e",
         "name": "elixir",
-        "stars": 22883,
+        "stars": 22885,
         "url": "https://github.com/elixir-lang/elixir"
     },
     {
@@ -612,7 +617,7 @@
         "forks": 472,
         "fullname": "fr0gger/Awesome-GPT-Agents",
         "name": "Awesome-GPT-Agents",
-        "stars": 4365,
+        "stars": 4368,
         "url": "https://github.com/fr0gger/Awesome-GPT-Agents"
     },
     {
@@ -652,7 +657,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "appwrite",
-        "stars": 40129,
+        "stars": 40130,
         "url": "https://github.com/appwrite/appwrite"
     },
     {
@@ -687,7 +692,7 @@
         "language": "PowerShell",
         "languageColor": "#012456",
         "name": "Main",
-        "stars": 1370,
+        "stars": 1371,
         "url": "https://github.com/ScoopInstaller/Main"
     },
     {
@@ -727,7 +732,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "AQLM",
-        "stars": 678,
+        "stars": 682,
         "url": "https://github.com/Vahe1994/AQLM"
     },
     {
@@ -807,7 +812,7 @@
         "language": "Java",
         "languageColor": "#b07219",
         "name": "source-code-hunter",
-        "stars": 15022,
+        "stars": 15027,
         "url": "https://github.com/doocs/source-code-hunter"
     },
     {
@@ -842,7 +847,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "joplin",
-        "stars": 41899,
+        "stars": 41901,
         "url": "https://github.com/laurent22/joplin"
     },
     {
@@ -877,12 +882,12 @@
         ],
         "currentPeriodStars": 237,
         "description": "Empowering everyone to build reliable and efficient software.",
-        "forks": 11797,
+        "forks": 11796,
         "fullname": "rust-lang/rust",
         "language": "Rust",
         "languageColor": "#dea584",
         "name": "rust",
-        "stars": 91410,
+        "stars": 91409,
         "url": "https://github.com/rust-lang/rust"
     },
     {
@@ -917,7 +922,7 @@
         "language": "Jupyter Notebook",
         "languageColor": "#DA5B0B",
         "name": "fsdp_qlora",
-        "stars": 844,
+        "stars": 846,
         "url": "https://github.com/AnswerDotAI/fsdp_qlora"
     }
 ]
