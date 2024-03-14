@@ -31,12 +31,12 @@
         ],
         "currentPeriodStars": 468,
         "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
-        "forks": 702,
+        "forks": 705,
         "fullname": "danielmiessler/fabric",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "fabric",
-        "stars": 7457,
+        "stars": 7469,
         "url": "https://github.com/danielmiessler/fabric"
     },
     {
@@ -71,12 +71,12 @@
         ],
         "currentPeriodStars": 538,
         "description": "\u300aHello \u7b97\u6cd5\u300b\uff1a\u52a8\u753b\u56fe\u89e3\u3001\u4e00\u952e\u8fd0\u884c\u7684\u6570\u636e\u7ed3\u6784\u4e0e\u7b97\u6cd5\u6559\u7a0b\uff0c\u652f\u6301 Python, C++, Java, C#, Go, Swift, JS, TS, Dart, Rust, C, Zig \u7b49\u8bed\u8a00\u3002English edition ongoing",
-        "forks": 8183,
+        "forks": 8189,
         "fullname": "krahets/hello-algo",
         "language": "Java",
         "languageColor": "#b07219",
         "name": "hello-algo",
-        "stars": 66461,
+        "stars": 66497,
         "url": "https://github.com/krahets/hello-algo"
     },
     {
@@ -111,12 +111,12 @@
         ],
         "currentPeriodStars": 175,
         "description": "suyu, pronounced \"sue-you\" (wink wink) is the continuation of the world's most popular, open-source, Nintendo Switch emulator, yuzu. It is written in C++ with portability in mind, and we actively maintain builds for Windows, Linux and Android.",
-        "forks": 63,
+        "forks": 64,
         "fullname": "suyu-emu/suyu",
         "language": "C++",
         "languageColor": "#f34b7d",
         "name": "suyu",
-        "stars": 608,
+        "stars": 613,
         "url": "https://github.com/suyu-emu/suyu"
     },
     {
@@ -156,7 +156,7 @@
         "language": "Rust",
         "languageColor": "#dea584",
         "name": "gleam",
-        "stars": 12407,
+        "stars": 12411,
         "url": "https://github.com/gleam-lang/gleam"
     },
     {
@@ -164,14 +164,14 @@
         "avatar": "https://github.com/deepseek-ai.png",
         "builtBy": [
             {
-                "avatar": "https://avatars.githubusercontent.com/u/22798411",
-                "href": "https://github.com/StevenLiuWen",
-                "username": "StevenLiuWen"
-            },
-            {
                 "avatar": "https://avatars.githubusercontent.com/u/32269413",
                 "href": "https://github.com/Benjamin-eecs",
                 "username": "Benjamin-eecs"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/22798411",
+                "href": "https://github.com/StevenLiuWen",
+                "username": "StevenLiuWen"
             },
             {
                 "avatar": "https://avatars.githubusercontent.com/u/39251602",
@@ -196,7 +196,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "DeepSeek-VL",
-        "stars": 684,
+        "stars": 686,
         "url": "https://github.com/deepseek-ai/DeepSeek-VL"
     },
     {
@@ -236,7 +236,7 @@
         "language": "Go",
         "languageColor": "#00ADD8",
         "name": "OpenGFW",
-        "stars": 8012,
+        "stars": 8015,
         "url": "https://github.com/apernet/OpenGFW"
     },
     {
@@ -271,7 +271,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "full-stack-fastapi-template",
-        "stars": 15493,
+        "stars": 15500,
         "url": "https://github.com/tiangolo/full-stack-fastapi-template"
     },
     {
@@ -306,7 +306,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "chatnio",
-        "stars": 1492,
+        "stars": 1500,
         "url": "https://github.com/Deeptrain-Community/chatnio"
     },
     {
@@ -346,7 +346,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "public-apis",
-        "stars": 285977,
+        "stars": 285984,
         "url": "https://github.com/public-apis/public-apis"
     },
     {
@@ -386,7 +386,7 @@
         "language": "Rust",
         "languageColor": "#dea584",
         "name": "aici",
-        "stars": 1246,
+        "stars": 1248,
         "url": "https://github.com/microsoft/aici"
     },
     {
@@ -411,10 +411,10 @@
         ],
         "currentPeriodStars": 520,
         "description": "Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.",
-        "forks": 218,
+        "forks": 220,
         "fullname": "ai-boost/awesome-prompts",
         "name": "awesome-prompts",
-        "stars": 2414,
+        "stars": 2421,
         "url": "https://github.com/ai-boost/awesome-prompts"
     },
     {
@@ -454,7 +454,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "teable",
-        "stars": 1723,
+        "stars": 1741,
         "url": "https://github.com/teableio/teable"
     },
     {
@@ -489,12 +489,12 @@
         ],
         "currentPeriodStars": 325,
         "description": "\u6211\u7684\u7535\u89c6 \u7535\u89c6\u76f4\u64ad\u8f6f\u4ef6\uff0c\u5b89\u88c5\u5373\u53ef\u4f7f\u7528",
-        "forks": 2118,
+        "forks": 2119,
         "fullname": "lizongying/my-tv",
         "language": "C",
         "languageColor": "#555555",
         "name": "my-tv",
-        "stars": 20703,
+        "stars": 20711,
         "url": "https://github.com/lizongying/my-tv"
     },
     {
@@ -519,7 +519,7 @@
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "jsoncanvas",
-        "stars": 1357,
+        "stars": 1363,
         "url": "https://github.com/obsidianmd/jsoncanvas"
     },
     {
@@ -554,7 +554,7 @@
         ],
         "currentPeriodStars": 28,
         "description": "The Laravel Framework.",
-        "forks": 10493,
+        "forks": 10494,
         "fullname": "laravel/framework",
         "language": "PHP",
         "languageColor": "#4F5D95",
@@ -579,7 +579,7 @@
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "BlackFriday-GPTs-Prompts",
-        "stars": 2901,
+        "stars": 2906,
         "url": "https://github.com/friuns2/BlackFriday-GPTs-Prompts"
     },
     {
@@ -649,7 +649,7 @@
         "language": "C",
         "languageColor": "#555555",
         "name": "Momentum-Firmware",
-        "stars": 967,
+        "stars": 970,
         "url": "https://github.com/Next-Flip/Momentum-Firmware"
     },
     {
@@ -689,7 +689,7 @@
         "language": "Go",
         "languageColor": "#00ADD8",
         "name": "gvisor",
-        "stars": 14870,
+        "stars": 14874,
         "url": "https://github.com/google/gvisor"
     },
     {
@@ -724,7 +724,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "joplin",
-        "stars": 42004,
+        "stars": 42007,
         "url": "https://github.com/laurent22/joplin"
     },
     {
@@ -764,7 +764,7 @@
         "language": "C",
         "languageColor": "#555555",
         "name": "curl",
-        "stars": 33668,
+        "stars": 33672,
         "url": "https://github.com/curl/curl"
     },
     {
@@ -804,7 +804,7 @@
         "language": "Dart",
         "languageColor": "#00B4AB",
         "name": "localsend",
-        "stars": 32029,
+        "stars": 32034,
         "url": "https://github.com/localsend/localsend"
     },
     {
@@ -844,7 +844,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "Yi",
-        "stars": 6628,
+        "stars": 6636,
         "url": "https://github.com/01-ai/Yi"
     },
     {
@@ -869,7 +869,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "fully-local-pdf-chatbot",
-        "stars": 1074,
+        "stars": 1077,
         "url": "https://github.com/jacoblee93/fully-local-pdf-chatbot"
     },
     {
@@ -904,7 +904,7 @@
         "language": "Go",
         "languageColor": "#00ADD8",
         "name": "ip2region",
-        "stars": 15177,
+        "stars": 15179,
         "url": "https://github.com/lionsoul2014/ip2region"
     }
 ]
