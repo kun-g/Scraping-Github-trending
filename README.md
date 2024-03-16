@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) | Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more. |
 | [hello-algo](https://github.com/krahets/hello-algo) | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Python, C++, Java, C#, Go, Swift, JS, TS, Dart, Rust, C, Zig 等语言。English edition ongoing |
+| [full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) | Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more. |
+| [LaVague](https://github.com/lavague-ai/LaVague) | Automate automation with Large Action Model framework |
+| [suyu](https://github.com/suyu-emu/suyu) | suyu is the continuation of the world's most popular, open-source, Nintendo Switch emulator, yuzu. It is written in C++ with portability in mind, and we actively maintain builds for Windows, Linux and Android. |
+| [MetaGPT](https://github.com/geekan/MetaGPT) | 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo |
+| [oh-my-rime](https://github.com/Mintimate/oh-my-rime) | The Simple Config Template Of Rime By Mintimate. QQ Chat-Group: 703260572 |
+| [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) | The first real AI developer |
+| [ios-diia](https://github.com/diia-open-source/ios-diia) |  |
 | [fabric](https://github.com/danielmiessler/fabric) | fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere. |
-| [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) | Dev tool that writes scalable apps from scratch while the developer oversees the implementation |
-| [teable](https://github.com/teableio/teable) | ✨ A Super fast, Real-time, Professional, Developer friendly, No code database |
-| [Data-Science-Gen-AI-Playlist-2024](https://github.com/krishnaik06/Data-Science-Gen-AI-Playlist-2024) |  |
-| [framework](https://github.com/laravel/framework) | The Laravel Framework. |
-| [aspnetcore](https://github.com/dotnet/aspnetcore) | ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux. |
-| [gleam](https://github.com/gleam-lang/gleam) | ⭐️ A friendly language for building type-safe, scalable systems! |
-| [autocomplete](https://github.com/withfig/autocomplete) | IDE-style autocomplete for your existing terminal & shell |
+| [data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook) | This is a repo with links to everything you'd ever want to learn about data engineering |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
