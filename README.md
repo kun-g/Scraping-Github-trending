@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫 |
-| [full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) | Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more. |
-| [chronos-forecasting](https://github.com/amazon-science/chronos-forecasting) | Chronos: Pretrained (Language) Models for Probabilistic Time Series Forecasting |
-| [skyvern](https://github.com/Skyvern-AI/skyvern) | Automate browser-based workflows with LLMs and Computer Vision |
-| [facefusion](https://github.com/facefusion/facefusion) | Next generation face swapper and enhancer |
+| [grok](https://github.com/openai/grok) |  |
 | [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) | The first real AI developer |
 | [MetaGPT](https://github.com/geekan/MetaGPT) | 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo |
-| [hello-algo](https://github.com/krahets/hello-algo) | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Python, C++, Java, C#, Go, Swift, JS, TS, Dart, Rust, C, Zig 等语言。English edition ongoing |
-| [next14-duolingo-clone](https://github.com/AntonioErdeljac/next14-duolingo-clone) |  |
-| [DARC](https://github.com/Project-DARC/DARC) | Decentralized Autonomous Regulated Company (DARC), a company virtual machine that runs on any EVM-compatible blockchain, with on-chain law system, multi-level tokens and dividends mechanism. |
+| [rembg-webapp-tutorial](https://github.com/codediodeio/rembg-webapp-tutorial) | a simple webapp with rembg |
+| [full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) | Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more. |
+| [the-mirror](https://github.com/the-mirror-gdp/the-mirror) | The open-source Roblox & UEFN alternative giving you freedom to own what you create. An all-in-one, real-time, collaborative game development platform built on Godot. |
+| [clarity-upscaler](https://github.com/philz1337x/clarity-upscaler) | Clarity-Upscaler: Reimagined image upscaling for everyone |
+| [skyvern](https://github.com/Skyvern-AI/skyvern) | Automate browser-based workflows with LLMs and Computer Vision |
+| [narrator](https://github.com/cbh123/narrator) | David Attenborough narrates your life |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
