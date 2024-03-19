@@ -26,12 +26,12 @@
         ],
         "currentPeriodStars": 2910,
         "description": "\u5c0f\u7ea2\u4e66\u7b14\u8bb0 | \u8bc4\u8bba\u722c\u866b\u3001\u6296\u97f3\u89c6\u9891 | \u8bc4\u8bba\u722c\u866b\u3001\u5feb\u624b\u89c6\u9891 | \u8bc4\u8bba\u722c\u866b\u3001B \u7ad9\u89c6\u9891 \uff5c \u8bc4\u8bba\u722c\u866b\u3001\u5fae\u535a\u5e16\u5b50 \uff5c \u8bc4\u8bba\u722c\u866b",
-        "forks": 1112,
+        "forks": 1133,
         "fullname": "NanmiCoder/MediaCrawler",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "MediaCrawler",
-        "stars": 6741,
+        "stars": 6806,
         "url": "https://github.com/NanmiCoder/MediaCrawler"
     },
     {
@@ -61,12 +61,12 @@
         ],
         "currentPeriodStars": 435,
         "description": "",
-        "forks": 284,
+        "forks": 290,
         "fullname": "openai/grok",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "grok",
-        "stars": 2628,
+        "stars": 2669,
         "url": "https://github.com/openai/grok"
     },
     {
@@ -101,12 +101,12 @@
         ],
         "currentPeriodStars": 458,
         "description": "The first real AI developer",
-        "forks": 2306,
+        "forks": 2307,
         "fullname": "Pythagora-io/gpt-pilot",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "gpt-pilot",
-        "stars": 24142,
+        "stars": 24154,
         "url": "https://github.com/Pythagora-io/gpt-pilot"
     },
     {
@@ -141,12 +141,12 @@
         ],
         "currentPeriodStars": 493,
         "description": "\ud83c\udf1f The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo",
-        "forks": 4286,
+        "forks": 4287,
         "fullname": "geekan/MetaGPT",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "MetaGPT",
-        "stars": 36481,
+        "stars": 36495,
         "url": "https://github.com/geekan/MetaGPT"
     },
     {
@@ -161,12 +161,12 @@
         ],
         "currentPeriodStars": 24,
         "description": "a simple webapp with rembg",
-        "forks": 73,
+        "forks": 75,
         "fullname": "codediodeio/rembg-webapp-tutorial",
         "language": "HTML",
         "languageColor": "#e34c26",
         "name": "rembg-webapp-tutorial",
-        "stars": 221,
+        "stars": 224,
         "url": "https://github.com/codediodeio/rembg-webapp-tutorial"
     },
     {
@@ -191,12 +191,12 @@
         ],
         "currentPeriodStars": 1085,
         "description": "Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.",
-        "forks": 3358,
+        "forks": 3362,
         "fullname": "tiangolo/full-stack-fastapi-template",
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "full-stack-fastapi-template",
-        "stars": 20264,
+        "stars": 20296,
         "url": "https://github.com/tiangolo/full-stack-fastapi-template"
     },
     {
@@ -226,7 +226,7 @@
         "language": "GDScript",
         "languageColor": "#355570",
         "name": "the-mirror",
-        "stars": 513,
+        "stars": 518,
         "url": "https://github.com/the-mirror-gdp/the-mirror"
     },
     {
@@ -241,12 +241,12 @@
         ],
         "currentPeriodStars": 141,
         "description": "Clarity-Upscaler: Reimagined image upscaling for everyone",
-        "forks": 122,
+        "forks": 123,
         "fullname": "philz1337x/clarity-upscaler",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "clarity-upscaler",
-        "stars": 1081,
+        "stars": 1091,
         "url": "https://github.com/philz1337x/clarity-upscaler"
     },
     {
@@ -272,6 +272,11 @@
                 "avatar": "https://avatars.githubusercontent.com/u/77334885",
                 "href": "https://github.com/webermatias",
                 "username": "webermatias"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/22633385",
+                "href": "https://github.com/eltociear",
+                "username": "eltociear"
             }
         ],
         "currentPeriodStars": 630,
@@ -281,7 +286,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "skyvern",
-        "stars": 2477,
+        "stars": 2485,
         "url": "https://github.com/Skyvern-AI/skyvern"
     },
     {
@@ -321,7 +326,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "narrator",
-        "stars": 4095,
+        "stars": 4097,
         "url": "https://github.com/cbh123/narrator"
     },
     {
@@ -356,12 +361,12 @@
         ],
         "currentPeriodStars": 272,
         "description": "Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)",
-        "forks": 713,
+        "forks": 714,
         "fullname": "BerriAI/litellm",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "litellm",
-        "stars": 6481,
+        "stars": 6487,
         "url": "https://github.com/BerriAI/litellm"
     },
     {
@@ -391,12 +396,12 @@
         ],
         "currentPeriodStars": 181,
         "description": "\ud83e\udd2f Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.",
-        "forks": 4784,
+        "forks": 4785,
         "fullname": "lobehub/lobe-chat",
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "lobe-chat",
-        "stars": 22984,
+        "stars": 23001,
         "url": "https://github.com/lobehub/lobe-chat"
     },
     {
@@ -431,12 +436,12 @@
         ],
         "currentPeriodStars": 70,
         "description": "WingetUI: A better UI for your package managers",
-        "forks": 261,
+        "forks": 263,
         "fullname": "marticliment/WingetUI",
         "language": "C#",
         "languageColor": "#178600",
         "name": "WingetUI",
-        "stars": 7865,
+        "stars": 7873,
         "url": "https://github.com/marticliment/WingetUI"
     },
     {
@@ -454,7 +459,7 @@
         "forks": 84,
         "fullname": "ianand/spreadsheets-are-all-you-need",
         "name": "spreadsheets-are-all-you-need",
-        "stars": 628,
+        "stars": 633,
         "url": "https://github.com/ianand/spreadsheets-are-all-you-need"
     },
     {
@@ -494,7 +499,7 @@
         "language": "C++",
         "languageColor": "#f34b7d",
         "name": "suyu",
-        "stars": 1900,
+        "stars": 1905,
         "url": "https://github.com/suyu-emu/suyu"
     },
     {
@@ -529,7 +534,7 @@
         "language": "Kotlin",
         "languageColor": "#A97BFF",
         "name": "KernelSU",
-        "stars": 7482,
+        "stars": 7486,
         "url": "https://github.com/tiann/KernelSU"
     },
     {
@@ -559,12 +564,12 @@
         ],
         "currentPeriodStars": 298,
         "description": "Interact with your documents using the power of GPT, 100% privately, no data leaks",
-        "forks": 6526,
+        "forks": 6527,
         "fullname": "imartinez/privateGPT",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "privateGPT",
-        "stars": 49313,
+        "stars": 49325,
         "url": "https://github.com/imartinez/privateGPT"
     },
     {
@@ -584,10 +589,10 @@
         ],
         "currentPeriodStars": 277,
         "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
-        "forks": 418,
+        "forks": 419,
         "fullname": "aishwaryanr/awesome-generative-ai-guide",
         "name": "awesome-generative-ai-guide",
-        "stars": 1630,
+        "stars": 1637,
         "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide"
     },
     {
@@ -627,7 +632,7 @@
         "language": "Java",
         "languageColor": "#b07219",
         "name": "NewPipe",
-        "stars": 28102,
+        "stars": 28107,
         "url": "https://github.com/TeamNewPipe/NewPipe"
     },
     {
@@ -662,12 +667,12 @@
         ],
         "currentPeriodStars": 153,
         "description": "The Serenity Operating System \ud83d\udc1e",
-        "forks": 2998,
+        "forks": 3000,
         "fullname": "SerenityOS/serenity",
         "language": "C++",
         "languageColor": "#f34b7d",
         "name": "serenity",
-        "stars": 28141,
+        "stars": 28146,
         "url": "https://github.com/SerenityOS/serenity"
     },
     {
@@ -702,12 +707,12 @@
         ],
         "currentPeriodStars": 105,
         "description": "A natural language interface for computers",
-        "forks": 3688,
+        "forks": 3689,
         "fullname": "KillianLucas/open-interpreter",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "open-interpreter",
-        "stars": 41993,
+        "stars": 42002,
         "url": "https://github.com/KillianLucas/open-interpreter"
     },
     {
@@ -742,12 +747,12 @@
         ],
         "currentPeriodStars": 216,
         "description": "",
-        "forks": 113,
+        "forks": 115,
         "fullname": "OpenDevin/OpenDevin",
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "OpenDevin",
-        "stars": 1702,
+        "stars": 1718,
         "url": "https://github.com/OpenDevin/OpenDevin"
     },
     {
@@ -782,12 +787,12 @@
         ],
         "currentPeriodStars": 160,
         "description": "\ud83d\udcbd Soothing pastel theme for Tmux!",
-        "forks": 371,
+        "forks": 372,
         "fullname": "catppuccin/tmux",
         "language": "Shell",
         "languageColor": "#89e051",
         "name": "tmux",
-        "stars": 1071,
+        "stars": 1074,
         "url": "https://github.com/catppuccin/tmux"
     },
     {
@@ -807,7 +812,7 @@
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "developer-portfolio",
-        "stars": 650,
+        "stars": 656,
         "url": "https://github.com/said7388/developer-portfolio"
     },
     {
@@ -842,7 +847,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "mealie",
-        "stars": 4765,
+        "stars": 4769,
         "url": "https://github.com/mealie-recipes/mealie"
     }
 ]
