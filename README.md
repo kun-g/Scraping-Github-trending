@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [grok-1](https://github.com/xai-org/grok-1) | Grok open release |
+| [Open-Sora](https://github.com/hpcaitech/Open-Sora) | Open-Sora: Democratizing Efficient Video Production for All |
 | [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫 |
+| [supervision](https://github.com/roboflow/supervision) | We write your reusable computer vision tools. 💜 |
 | [grok](https://github.com/openai/grok) |  |
-| [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) | The first real AI developer |
-| [MetaGPT](https://github.com/geekan/MetaGPT) | 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo |
-| [rembg-webapp-tutorial](https://github.com/codediodeio/rembg-webapp-tutorial) | a simple webapp with rembg |
-| [full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) | Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more. |
-| [the-mirror](https://github.com/the-mirror-gdp/the-mirror) | The open-source Roblox & UEFN alternative giving you freedom to own what you create. An all-in-one, real-time, collaborative game development platform built on Godot. |
-| [clarity-upscaler](https://github.com/philz1337x/clarity-upscaler) | Clarity-Upscaler: Reimagined image upscaling for everyone |
-| [skyvern](https://github.com/Skyvern-AI/skyvern) | Automate browser-based workflows with LLMs and Computer Vision |
-| [narrator](https://github.com/cbh123/narrator) | David Attenborough narrates your life |
+| [chronos-forecasting](https://github.com/amazon-science/chronos-forecasting) | Chronos: Pretrained (Language) Models for Probabilistic Time Series Forecasting |
+| [MetaGPT](https://github.com/geekan/MetaGPT) | 🌟 The Multi-Agent Framework: Providing AI Software Company, Towards Natural Language Programming |
+| [ComfyUI-Workflows-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO) | 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection |
+| [LLM4Decompile](https://github.com/albertan017/LLM4Decompile) | Reverse Engineering: Decompiling Binary Code with Large Language Models |
+| [new-pac](https://github.com/Alvin9999/new-pac) | 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
