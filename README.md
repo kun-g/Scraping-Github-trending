@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫 |
+| [embedded-app-sdk](https://github.com/discord/embedded-app-sdk) | 🚀 The Discord Embedded App SDK lets you build rich, multiplayer experiences as Activities inside Discord. |
+| [supervision](https://github.com/roboflow/supervision) | We write your reusable computer vision tools. 💜 |
 | [grok-1](https://github.com/xai-org/grok-1) | Grok open release |
 | [Open-Sora](https://github.com/hpcaitech/Open-Sora) | Open-Sora: Democratizing Efficient Video Production for All |
-| [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫 |
-| [supervision](https://github.com/roboflow/supervision) | We write your reusable computer vision tools. 💜 |
-| [grok](https://github.com/openai/grok) |  |
-| [chronos-forecasting](https://github.com/amazon-science/chronos-forecasting) | Chronos: Pretrained (Language) Models for Probabilistic Time Series Forecasting |
-| [MetaGPT](https://github.com/geekan/MetaGPT) | 🌟 The Multi-Agent Framework: Providing AI Software Company, Towards Natural Language Programming |
+| [planka](https://github.com/plankanban/planka) | The realtime kanban board for workgroups built with React and Redux. |
+| [In-Place_Upgrade_Helper](https://github.com/TheMMC/In-Place_Upgrade_Helper) | Helper-Tool für Windows 10/11 Inplace-Upgrades und Editionswechsel |
+| [generative-models](https://github.com/Stability-AI/generative-models) | Generative Models by Stability AI |
+| [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 18 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
 | [ComfyUI-Workflows-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO) | 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection |
-| [LLM4Decompile](https://github.com/albertan017/LLM4Decompile) | Reverse Engineering: Decompiling Binary Code with Large Language Models |
-| [new-pac](https://github.com/Alvin9999/new-pac) | 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
