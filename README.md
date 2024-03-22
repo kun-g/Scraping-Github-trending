@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫 |
-| [embedded-app-sdk](https://github.com/discord/embedded-app-sdk) | 🚀 The Discord Embedded App SDK lets you build rich, multiplayer experiences as Activities inside Discord. |
-| [supervision](https://github.com/roboflow/supervision) | We write your reusable computer vision tools. 💜 |
-| [grok-1](https://github.com/xai-org/grok-1) | Grok open release |
+| [garnet](https://github.com/microsoft/garnet) | Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients. |
 | [Open-Sora](https://github.com/hpcaitech/Open-Sora) | Open-Sora: Democratizing Efficient Video Production for All |
-| [planka](https://github.com/plankanban/planka) | The realtime kanban board for workgroups built with React and Redux. |
-| [In-Place_Upgrade_Helper](https://github.com/TheMMC/In-Place_Upgrade_Helper) | Helper-Tool für Windows 10/11 Inplace-Upgrades und Editionswechsel |
-| [generative-models](https://github.com/Stability-AI/generative-models) | Generative Models by Stability AI |
-| [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 18 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
-| [ComfyUI-Workflows-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO) | 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection |
+| [ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) | 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP 等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！ |
+| [supervision](https://github.com/roboflow/supervision) | We write your reusable computer vision tools. 💜 |
+| [jnv](https://github.com/ynqa/jnv) | interactive JSON filter using jq |
+| [retina](https://github.com/microsoft/retina) | eBPF distributed networking observability tool for Kubernetes |
+| [lynis](https://github.com/CISOfy/lynis) | Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional. |
+| [ColossalAI](https://github.com/hpcaitech/ColossalAI) | Making large AI models cheaper, faster and more accessible |
+| [smartcomponents](https://github.com/dotnet-smartcomponents/smartcomponents) | Experimental, end-to-end AI features for .NET apps |
+| [vmail](https://github.com/yesmore/vmail) | Open source temporary email tool. 开源临时邮箱工具 👉 vmail.dev |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
