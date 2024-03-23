@@ -36,7 +36,7 @@
         "language": "Go",
         "languageColor": "#00ADD8",
         "name": "retina",
-        "stars": 1272,
+        "stars": 1284,
         "url": "https://github.com/microsoft/retina"
     },
     {
@@ -71,7 +71,7 @@
         "language": "C#",
         "languageColor": "#178600",
         "name": "garnet",
-        "stars": 5275,
+        "stars": 5288,
         "url": "https://github.com/microsoft/garnet"
     },
     {
@@ -101,7 +101,7 @@
         "language": "Rust",
         "languageColor": "#dea584",
         "name": "jnv",
-        "stars": 2627,
+        "stars": 2637,
         "url": "https://github.com/ynqa/jnv"
     },
     {
@@ -141,7 +141,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "transformers",
-        "stars": 122693,
+        "stars": 122696,
         "url": "https://github.com/huggingface/transformers"
     },
     {
@@ -181,7 +181,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "dev-rewards",
-        "stars": 397,
+        "stars": 398,
         "url": "https://github.com/fluencelabs/dev-rewards"
     },
     {
@@ -221,7 +221,7 @@
         "language": "Kotlin",
         "languageColor": "#A97BFF",
         "name": "auto-dev",
-        "stars": 1531,
+        "stars": 1535,
         "url": "https://github.com/unit-mesh/auto-dev"
     },
     {
@@ -241,7 +241,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "MoneyPrinterTurbo",
-        "stars": 333,
+        "stars": 336,
         "url": "https://github.com/harry0703/MoneyPrinterTurbo"
     },
     {
@@ -281,7 +281,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "embedded-app-sdk",
-        "stars": 937,
+        "stars": 938,
         "url": "https://github.com/discord/embedded-app-sdk"
     },
     {
@@ -321,7 +321,7 @@
         "language": "C++",
         "languageColor": "#f34b7d",
         "name": "rive-renderer",
-        "stars": 432,
+        "stars": 433,
         "url": "https://github.com/rive-app/rive-renderer"
     },
     {
@@ -351,12 +351,12 @@
         ],
         "currentPeriodStars": 30,
         "description": "",
-        "forks": 483,
+        "forks": 484,
         "fullname": "lewis-007/MediaCrawler",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "MediaCrawler",
-        "stars": 141,
+        "stars": 142,
         "url": "https://github.com/lewis-007/MediaCrawler"
     },
     {
@@ -396,7 +396,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "unilm",
-        "stars": 17961,
+        "stars": 17962,
         "url": "https://github.com/microsoft/unilm"
     },
     {
@@ -449,12 +449,12 @@
         ],
         "currentPeriodStars": 424,
         "description": "A natural language interface for computers",
-        "forks": 3752,
+        "forks": 3753,
         "fullname": "OpenInterpreter/open-interpreter",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "open-interpreter",
-        "stars": 42814,
+        "stars": 42817,
         "url": "https://github.com/OpenInterpreter/open-interpreter"
     },
     {
@@ -494,7 +494,7 @@
         "language": "Kotlin",
         "languageColor": "#A97BFF",
         "name": "ruam-mij-android",
-        "stars": 129,
+        "stars": 130,
         "url": "https://github.com/akexorcist/ruam-mij-android"
     },
     {
@@ -534,7 +534,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "midday",
-        "stars": 695,
+        "stars": 698,
         "url": "https://github.com/midday-ai/midday"
     },
     {
@@ -594,7 +594,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "img2img-turbo",
-        "stars": 410,
+        "stars": 413,
         "url": "https://github.com/GaParmar/img2img-turbo"
     },
     {
@@ -632,7 +632,7 @@
         "forks": 21305,
         "fullname": "practical-tutorials/project-based-learning",
         "name": "project-based-learning",
-        "stars": 161657,
+        "stars": 161660,
         "url": "https://github.com/practical-tutorials/project-based-learning"
     },
     {
@@ -667,7 +667,7 @@
         "language": "Rust",
         "languageColor": "#dea584",
         "name": "snarkOS",
-        "stars": 3763,
+        "stars": 3765,
         "url": "https://github.com/AleoHQ/snarkOS"
     },
     {
@@ -702,7 +702,7 @@
         "language": "Rust",
         "languageColor": "#dea584",
         "name": "reqwest",
-        "stars": 8902,
+        "stars": 8904,
         "url": "https://github.com/seanmonstar/reqwest"
     },
     {
@@ -737,12 +737,12 @@
         ],
         "currentPeriodStars": 54,
         "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",
-        "forks": 23144,
+        "forks": 23145,
         "fullname": "redis/redis",
         "language": "C",
         "languageColor": "#555555",
         "name": "redis",
-        "stars": 63898,
+        "stars": 63900,
         "url": "https://github.com/redis/redis"
     },
     {
@@ -812,7 +812,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "nodejs.org",
-        "stars": 3684,
+        "stars": 3686,
         "url": "https://github.com/nodejs/nodejs.org"
     },
     {
@@ -837,7 +837,7 @@
         "language": "Jupyter Notebook",
         "languageColor": "#DA5B0B",
         "name": "FeatUp",
-        "stars": 450,
+        "stars": 451,
         "url": "https://github.com/mhamilton723/FeatUp"
     },
     {
@@ -872,10 +872,10 @@
         ],
         "currentPeriodStars": 56,
         "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
-        "forks": 1060,
+        "forks": 1061,
         "fullname": "DataExpert-io/data-engineer-handbook",
         "name": "data-engineer-handbook",
-        "stars": 7644,
+        "stars": 7648,
         "url": "https://github.com/DataExpert-io/data-engineer-handbook"
     }
 ]
