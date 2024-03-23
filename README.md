@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [garnet](https://github.com/microsoft/garnet) | Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients. |
-| [Open-Sora](https://github.com/hpcaitech/Open-Sora) | Open-Sora: Democratizing Efficient Video Production for All |
-| [ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) | 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP 等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！ |
-| [supervision](https://github.com/roboflow/supervision) | We write your reusable computer vision tools. 💜 |
-| [jnv](https://github.com/ynqa/jnv) | interactive JSON filter using jq |
 | [retina](https://github.com/microsoft/retina) | eBPF distributed networking observability tool for Kubernetes |
-| [lynis](https://github.com/CISOfy/lynis) | Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional. |
-| [ColossalAI](https://github.com/hpcaitech/ColossalAI) | Making large AI models cheaper, faster and more accessible |
-| [smartcomponents](https://github.com/dotnet-smartcomponents/smartcomponents) | Experimental, end-to-end AI features for .NET apps |
-| [vmail](https://github.com/yesmore/vmail) | Open source temporary email tool. 开源临时邮箱工具 👉 vmail.dev |
+| [garnet](https://github.com/microsoft/garnet) | Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients. |
+| [jnv](https://github.com/ynqa/jnv) | interactive JSON filter using jq |
+| [transformers](https://github.com/huggingface/transformers) | 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. |
+| [dev-rewards](https://github.com/fluencelabs/dev-rewards) |  |
+| [auto-dev](https://github.com/unit-mesh/auto-dev) | 🧙‍AutoDev: The AI-powered coding wizard with multilingual support 🌐, auto code generation 🏗️, and a helpful bug-slaying assistant 🐞! Customizable prompts 🎨 and a magic Auto Dev/Testing/Document/Agent feature 🧪 included! 🚀 |
+| [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 利用大模型，一键生成短视频 |
+| [embedded-app-sdk](https://github.com/discord/embedded-app-sdk) | 🚀 The Discord Embedded App SDK lets you build rich, multiplayer experiences as Activities inside Discord. |
+| [rive-renderer](https://github.com/rive-app/rive-renderer) | Downstream repo for Rive renderer |
+| [MediaCrawler](https://github.com/lewis-007/MediaCrawler) |  |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
