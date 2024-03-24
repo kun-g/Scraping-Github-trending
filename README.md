@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [retina](https://github.com/microsoft/retina) | eBPF distributed networking observability tool for Kubernetes |
+| [devika](https://github.com/stitionai/devika) | Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. Devika aims to be a competitive open-source alternative to Devin by Cognition AI. |
+| [01](https://github.com/OpenInterpreter/01) | The open-source language model computer |
+| [open-interpreter](https://github.com/OpenInterpreter/open-interpreter) | A natural language interface for computers |
+| [gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) |  |
+| [lightning-thunder](https://github.com/Lightning-AI/lightning-thunder) | Make PyTorch models Lightning fast! Thunder is a source to source compiler for PyTorch. It enables using different hardware executors at once. |
 | [garnet](https://github.com/microsoft/garnet) | Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients. |
-| [jnv](https://github.com/ynqa/jnv) | interactive JSON filter using jq |
-| [transformers](https://github.com/huggingface/transformers) | 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. |
-| [dev-rewards](https://github.com/fluencelabs/dev-rewards) |  |
 | [auto-dev](https://github.com/unit-mesh/auto-dev) | 🧙‍AutoDev: The AI-powered coding wizard with multilingual support 🌐, auto code generation 🏗️, and a helpful bug-slaying assistant 🐞! Customizable prompts 🎨 and a magic Auto Dev/Testing/Document/Agent feature 🧪 included! 🚀 |
-| [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 利用大模型，一键生成短视频 |
-| [embedded-app-sdk](https://github.com/discord/embedded-app-sdk) | 🚀 The Discord Embedded App SDK lets you build rich, multiplayer experiences as Activities inside Discord. |
-| [rive-renderer](https://github.com/rive-app/rive-renderer) | Downstream repo for Rive renderer |
-| [MediaCrawler](https://github.com/lewis-007/MediaCrawler) |  |
+| [retina](https://github.com/microsoft/retina) | eBPF distributed networking observability tool for Kubernetes |
+| [jnv](https://github.com/ynqa/jnv) | interactive JSON filter using jq |
+| [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project-based tutorials |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
