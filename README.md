@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [devika](https://github.com/stitionai/devika) | Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. Devika aims to be a competitive open-source alternative to Devin by Cognition AI. |
-| [01](https://github.com/OpenInterpreter/01) | The open-source language model computer |
 | [open-interpreter](https://github.com/OpenInterpreter/open-interpreter) | A natural language interface for computers |
-| [gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) |  |
-| [lightning-thunder](https://github.com/Lightning-AI/lightning-thunder) | Make PyTorch models Lightning fast! Thunder is a source to source compiler for PyTorch. It enables using different hardware executors at once. |
-| [garnet](https://github.com/microsoft/garnet) | Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients. |
-| [auto-dev](https://github.com/unit-mesh/auto-dev) | 🧙‍AutoDev: The AI-powered coding wizard with multilingual support 🌐, auto code generation 🏗️, and a helpful bug-slaying assistant 🐞! Customizable prompts 🎨 and a magic Auto Dev/Testing/Document/Agent feature 🧪 included! 🚀 |
+| [01](https://github.com/OpenInterpreter/01) | The open-source language model computer |
+| [griddycode](https://github.com/face-hh/griddycode) | A code editor made with Godot. Code has never been more lit! |
+| [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | Implementing a ChatGPT-like LLM from scratch, step by step |
+| [lobe-chat](https://github.com/lobehub/lobe-chat) | 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application. |
 | [retina](https://github.com/microsoft/retina) | eBPF distributed networking observability tool for Kubernetes |
-| [jnv](https://github.com/ynqa/jnv) | interactive JSON filter using jq |
-| [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project-based tutorials |
+| [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 利用大模型，一键生成短视频 |
+| [gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) |  |
+| [immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
