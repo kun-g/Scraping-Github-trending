@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [devika](https://github.com/stitionai/devika) | Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. Devika aims to be a competitive open-source alternative to Devin by Cognition AI. |
+| [gpt-investor](https://github.com/mshumer/gpt-investor) |  |
 | [open-interpreter](https://github.com/OpenInterpreter/open-interpreter) | A natural language interface for computers |
-| [01](https://github.com/OpenInterpreter/01) | The open-source language model computer |
-| [griddycode](https://github.com/face-hh/griddycode) | A code editor made with Godot. Code has never been more lit! |
-| [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | Implementing a ChatGPT-like LLM from scratch, step by step |
+| [suyu](https://github.com/suyu-emu/suyu) | suyu is the continuation of the world's most popular, open-source, Nintendo Switch emulator, yuzu. It is written in C++ with portability in mind, and we're actively working on builds for Windows, Linux and Android. |
 | [lobe-chat](https://github.com/lobehub/lobe-chat) | 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application. |
-| [retina](https://github.com/microsoft/retina) | eBPF distributed networking observability tool for Kubernetes |
-| [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 利用大模型，一键生成短视频 |
+| [01](https://github.com/OpenInterpreter/01) | The open-source language model computer |
+| [nodejs.org](https://github.com/nodejs/nodejs.org) | The Node.js® Website |
 | [gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) |  |
-| [immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. |
+| [griddycode](https://github.com/face-hh/griddycode) | A code editor made with Godot. Code has never been more lit! |
+| [DARC](https://github.com/Project-DARC/DARC) | Decentralized Autonomous Regulated Company (DARC), a company virtual machine that runs on any EVM-compatible blockchain, with on-chain law system, multi-level tokens and dividends mechanism. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
