@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [AniPortrait](https://github.com/Zejun-Yang/AniPortrait) | AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation |
+| [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
+| [dbrx](https://github.com/databricks/dbrx) | Code examples and resources for DBRX, a large language model developed by Databricks |
+| [valkey](https://github.com/valkey-io/valkey) | A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, like a Valkyrie. |
 | [OpenDevin](https://github.com/OpenDevin/OpenDevin) | 🐚 OpenDevin: Code Less, Make More |
-| [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 利用大模型，一键生成短视频 |
-| [champ](https://github.com/fudan-generative-vision/champ) | Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance |
-| [crewAI](https://github.com/joaomdmoura/crewAI) | Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. |
-| [langchain-extract](https://github.com/langchain-ai/langchain-extract) | 🦜⛏️ Did you say you like data? |
+| [llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) | Build a Perplexity-Inspired Answer Engine Using Next.js, Groq, Mixtral, Langchain, OpenAI, Brave & Serper |
+| [codel](https://github.com/semanser/codel) | ✨ Fully autonomous AI Agent that can perform complicated tasks and projects using terminal, browser, and editor. |
 | [low_cost_robot](https://github.com/AlexanderKoch-Koch/low_cost_robot) |  |
-| [ugly-avatar](https://github.com/txstc55/ugly-avatar) |  |
-| [soybean-admin](https://github.com/soybeanjs/soybean-admin) | A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite5, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia, NaiveUI 和 UnoCSS。 |
-| [devika](https://github.com/stitionai/devika) | Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. Devika aims to be a competitive open-source alternative to Devin by Cognition AI. |
-| [langchain4j-examples](https://github.com/langchain4j/langchain4j-examples) |  |
+| [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) | 📱 Collaborative List of Open-Source iOS Apps |
+| [mojo](https://github.com/modularml/mojo) | The Mojo Programming Language |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
