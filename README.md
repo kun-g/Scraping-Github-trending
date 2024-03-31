@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [AniPortrait](https://github.com/Zejun-Yang/AniPortrait) | AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation |
-| [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
-| [dbrx](https://github.com/databricks/dbrx) | Code examples and resources for DBRX, a large language model developed by Databricks |
 | [valkey](https://github.com/valkey-io/valkey) | A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, like a Valkyrie. |
-| [OpenDevin](https://github.com/OpenDevin/OpenDevin) | 🐚 OpenDevin: Code Less, Make More |
+| [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
 | [llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) | Build a Perplexity-Inspired Answer Engine Using Next.js, Groq, Mixtral, Langchain, OpenAI, Brave & Serper |
-| [codel](https://github.com/semanser/codel) | ✨ Fully autonomous AI Agent that can perform complicated tasks and projects using terminal, browser, and editor. |
-| [low_cost_robot](https://github.com/AlexanderKoch-Koch/low_cost_robot) |  |
-| [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) | 📱 Collaborative List of Open-Source iOS Apps |
-| [mojo](https://github.com/modularml/mojo) | The Mojo Programming Language |
+| [AniPortrait](https://github.com/Zejun-Yang/AniPortrait) | AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation |
+| [OpenDevin](https://github.com/OpenDevin/OpenDevin) | 🐚 OpenDevin: Code Less, Make More |
+| [gpt-llm-trainer](https://github.com/mshumer/gpt-llm-trainer) |  |
+| [VoiceCraft](https://github.com/jasonppy/VoiceCraft) | Zero-Shot Speech Editing and Text-to-Speech in the Wild |
+| [one-person-businesses-methodology-v2.0](https://github.com/easychen/one-person-businesses-methodology-v2.0) | 《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。 |
+| [MuseV](https://github.com/TMElyralab/MuseV) | MuseV: Infinite-length and High Fidelity Virtual Human Video Generation with Visual Conditioned Parallel Denoising |
+| [dbrx](https://github.com/databricks/dbrx) | Code examples and resources for DBRX, a large language model developed by Databricks |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
