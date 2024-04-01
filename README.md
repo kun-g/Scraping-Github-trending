@@ -50,9 +50,9 @@
 | [screenshot-to-code](https://github.com/abi/screenshot-to-code) | Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue) |
 | [full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) | Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more. |
 | [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) | The first real AI developer |
-| [windows](https://github.com/dockur/windows) | Windows in a Docker container. |
-| [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 18 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
 | [hello-algo](https://github.com/krahets/hello-algo) | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Python, C++, Java, C#, Go, Swift, JS, TS, Dart, Rust, C, Zig 等语言。English edition ongoing |
-| [supervision](https://github.com/roboflow/supervision) | We write your reusable computer vision tools. 💜 |
+| [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 18 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
+| [windows](https://github.com/dockur/windows) | Windows in a Docker container. |
 | [MetaGPT](https://github.com/geekan/MetaGPT) | 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming |
+| [supervision](https://github.com/roboflow/supervision) | We write your reusable computer vision tools. 💜 |
 <!-- END OF MONTHLY_TOP10_REPOS -->
