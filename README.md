@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [SWE-agent](https://github.com/princeton-nlp/SWE-agent) | SWE-agent: Agent Computer Interfaces Enable Software Engineering Language Models |
-| [douyin](https://github.com/zyronon/douyin) | TikTok 抖音 Vue.js |
-| [openui](https://github.com/wandb/openui) | OpenUI let's you describe UI using your imagination, then see it rendered live. |
-| [QAnything](https://github.com/netease-youdao/QAnything) | Question and Answer based on Anything. |
-| [ipex-llm](https://github.com/intel-analytics/ipex-llm) | Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM, Qwen, Baichuan, Mixtral, Gemma, etc.) on Intel CPU and GPU (e.g., local PC with iGPU, discrete GPU such as Arc, Flex and Max). A PyTorch LLM library that seamlessly integrates with llama.cpp, HuggingFace, LangChain, LlamaIndex, DeepSpeed, vLLM, FastChat, ModelScope, etc. |
+| [plandex](https://github.com/plandex-ai/plandex) | An AI coding engine for complex tasks |
+| [SWE-agent](https://github.com/princeton-nlp/SWE-agent) | SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4. It solves 12.29% of bugs in the SWE-bench evaluation set (comparable to Devin) and take just 1.5 minutes to run (7x faster than Devin). |
+| [ore-cli](https://github.com/HardhatChad/ore-cli) |  |
 | [ragflow](https://github.com/infiniflow/ragflow) | RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. |
-| [bruno](https://github.com/usebruno/bruno) | Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia) |
-| [xzbot](https://github.com/amlweems/xzbot) | notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094) |
-| [nlw-unite-nodejs](https://github.com/rocketseat-education/nlw-unite-nodejs) | Back-end em Node.js desenvolvido durante o NLW Unite da Rocketseat |
 | [ore](https://github.com/HardhatChad/ore) |  |
+| [nlw-unite-react](https://github.com/rocketseat-education/nlw-unite-react) | Aplicação front-end em React desenvolvida durante o NLW Unite da Rocketseat |
+| [LLocalSearch](https://github.com/nilsherzig/LLocalSearch) | LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed. |
+| [gpt-author](https://github.com/mshumer/gpt-author) |  |
+| [aurora](https://github.com/aurora-develop/aurora) | free |
+| [availup](https://github.com/availproject/availup) |  |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
