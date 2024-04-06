@@ -36,7 +36,7 @@
         "language": "Go",
         "languageColor": "#00ADD8",
         "name": "plandex",
-        "stars": 2242,
+        "stars": 2262,
         "url": "https://github.com/plandex-ai/plandex"
     },
     {
@@ -71,12 +71,12 @@
         ],
         "currentPeriodStars": 1556,
         "description": "SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4. It solves 12.29% of bugs in the SWE-bench evaluation set (comparable to Devin) and take just 1.5 minutes to run (7x faster than Devin).",
-        "forks": 541,
+        "forks": 543,
         "fullname": "princeton-nlp/SWE-agent",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "SWE-agent",
-        "stars": 6277,
+        "stars": 6299,
         "url": "https://github.com/princeton-nlp/SWE-agent"
     },
     {
@@ -106,7 +106,7 @@
         "language": "Rust",
         "languageColor": "#dea584",
         "name": "ore-cli",
-        "stars": 137,
+        "stars": 138,
         "url": "https://github.com/HardhatChad/ore-cli"
     },
     {
@@ -146,7 +146,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "ragflow",
-        "stars": 2291,
+        "stars": 2300,
         "url": "https://github.com/infiniflow/ragflow"
     },
     {
@@ -166,7 +166,7 @@
         "language": "Rust",
         "languageColor": "#dea584",
         "name": "ore",
-        "stars": 166,
+        "stars": 167,
         "url": "https://github.com/HardhatChad/ore"
     },
     {
@@ -191,7 +191,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "nlw-unite-react",
-        "stars": 69,
+        "stars": 70,
         "url": "https://github.com/rocketseat-education/nlw-unite-react"
     },
     {
@@ -231,7 +231,7 @@
         "language": "Go",
         "languageColor": "#00ADD8",
         "name": "LLocalSearch",
-        "stars": 2929,
+        "stars": 2932,
         "url": "https://github.com/nilsherzig/LLocalSearch"
     },
     {
@@ -251,7 +251,7 @@
         "language": "Jupyter Notebook",
         "languageColor": "#DA5B0B",
         "name": "gpt-author",
-        "stars": 2098,
+        "stars": 2105,
         "url": "https://github.com/mshumer/gpt-author"
     },
     {
@@ -286,12 +286,12 @@
         ],
         "currentPeriodStars": 144,
         "description": "free",
-        "forks": 187,
+        "forks": 189,
         "fullname": "aurora-develop/aurora",
         "language": "HTML",
         "languageColor": "#e34c26",
         "name": "aurora",
-        "stars": 766,
+        "stars": 772,
         "url": "https://github.com/aurora-develop/aurora"
     },
     {
@@ -321,7 +321,7 @@
         "language": "Shell",
         "languageColor": "#89e051",
         "name": "availup",
-        "stars": 92,
+        "stars": 93,
         "url": "https://github.com/availproject/availup"
     },
     {
@@ -356,12 +356,12 @@
         ],
         "currentPeriodStars": 376,
         "description": "\u26d3\ufe0f Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.",
-        "forks": 2359,
+        "forks": 2361,
         "fullname": "logspace-ai/langflow",
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "langflow",
-        "stars": 15848,
+        "stars": 15852,
         "url": "https://github.com/logspace-ai/langflow"
     },
     {
@@ -401,7 +401,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "superset",
-        "stars": 58328,
+        "stars": 58331,
         "url": "https://github.com/apache/superset"
     },
     {
@@ -436,10 +436,10 @@
         ],
         "currentPeriodStars": 89,
         "description": "\ud83c\udf93 Path to a free self-taught education in Computer Science!",
-        "forks": 20239,
+        "forks": 20240,
         "fullname": "ossu/computer-science",
         "name": "computer-science",
-        "stars": 161299,
+        "stars": 161302,
         "url": "https://github.com/ossu/computer-science"
     },
     {
@@ -529,12 +529,12 @@
         ],
         "currentPeriodStars": 404,
         "description": "\ud83d\ude80\ud83c\udf89\ud83d\udcda SaaS Boilerplate built with Next.js + Tailwind CSS + Shadcn UI + TypeScript. \u26a1\ufe0f Full-stack React application with Auth, Multi-tenancy, Roles & Permissions, i18n, Landing Page, DB, Logging, Testing",
-        "forks": 104,
+        "forks": 105,
         "fullname": "ixartz/SaaS-Boilerplate",
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "SaaS-Boilerplate",
-        "stars": 901,
+        "stars": 910,
         "url": "https://github.com/ixartz/SaaS-Boilerplate"
     },
     {
@@ -574,7 +574,7 @@
         "language": "Lua",
         "languageColor": "#000080",
         "name": "AstroNvim",
-        "stars": 11341,
+        "stars": 11344,
         "url": "https://github.com/AstroNvim/AstroNvim"
     },
     {
@@ -609,7 +609,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "refine",
-        "stars": 23784,
+        "stars": 23789,
         "url": "https://github.com/refinedev/refine"
     },
     {
@@ -644,7 +644,7 @@
         "language": "Rust",
         "languageColor": "#dea584",
         "name": "uv",
-        "stars": 10412,
+        "stars": 10414,
         "url": "https://github.com/astral-sh/uv"
     },
     {
@@ -679,7 +679,7 @@
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "FreeTube",
-        "stars": 11475,
+        "stars": 11476,
         "url": "https://github.com/FreeTubeApp/FreeTube"
     },
     {
@@ -704,7 +704,7 @@
         "language": "HTML",
         "languageColor": "#e34c26",
         "name": "ui",
-        "stars": 6785,
+        "stars": 6786,
         "url": "https://github.com/atherosai/ui"
     },
     {
@@ -744,7 +744,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "setup-node",
-        "stars": 3531,
+        "stars": 3533,
         "url": "https://github.com/actions/setup-node"
     },
     {
@@ -779,7 +779,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "openui",
-        "stars": 3850,
+        "stars": 3856,
         "url": "https://github.com/wandb/openui"
     },
     {
@@ -819,7 +819,7 @@
         "language": "Zig",
         "languageColor": "#ec915c",
         "name": "bun",
-        "stars": 69772,
+        "stars": 69773,
         "url": "https://github.com/oven-sh/bun"
     },
     {
@@ -859,7 +859,7 @@
         "language": "Rust",
         "languageColor": "#dea584",
         "name": "avail",
-        "stars": 524,
+        "stars": 525,
         "url": "https://github.com/availproject/avail"
     }
 ]
