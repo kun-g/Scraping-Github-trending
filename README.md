@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [plandex](https://github.com/plandex-ai/plandex) | An AI coding engine for complex tasks |
-| [SWE-agent](https://github.com/princeton-nlp/SWE-agent) | SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4. It solves 12.29% of bugs in the SWE-bench evaluation set (comparable to Devin) and take just 1.5 minutes to run (7x faster than Devin). |
 | [ore-cli](https://github.com/HardhatChad/ore-cli) |  |
-| [ragflow](https://github.com/infiniflow/ragflow) | RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. |
+| [plandex](https://github.com/plandex-ai/plandex) | An AI coding engine for complex tasks |
+| [anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. |
 | [ore](https://github.com/HardhatChad/ore) |  |
-| [nlw-unite-react](https://github.com/rocketseat-education/nlw-unite-react) | Aplicação front-end em React desenvolvida durante o NLW Unite da Rocketseat |
-| [LLocalSearch](https://github.com/nilsherzig/LLocalSearch) | LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed. |
-| [gpt-author](https://github.com/mshumer/gpt-author) |  |
-| [aurora](https://github.com/aurora-develop/aurora) | free |
+| [SaaS-Boilerplate](https://github.com/ixartz/SaaS-Boilerplate) | 🚀🎉📚 SaaS Boilerplate built with Next.js + Tailwind CSS + Shadcn UI + TypeScript. ⚡️ Full-stack React application with Auth, Multi-tenancy, Roles & Permissions, i18n, Landing Page, DB, Logging, Testing |
+| [AstroNvim](https://github.com/AstroNvim/AstroNvim) | AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins |
 | [availup](https://github.com/availproject/availup) |  |
+| [LLocalSearch](https://github.com/nilsherzig/LLocalSearch) | LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed. |
+| [VAR](https://github.com/FoundationVision/VAR) | [GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction" |
+| [firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) | Firebase SDK for Apple App Development |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
