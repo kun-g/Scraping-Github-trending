@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [ore-cli](https://github.com/HardhatChad/ore-cli) |  |
 | [plandex](https://github.com/plandex-ai/plandex) | An AI coding engine for complex tasks |
-| [anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. |
+| [ore-cli](https://github.com/HardhatChad/ore-cli) |  |
+| [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) | 计算机自学指南 |
 | [ore](https://github.com/HardhatChad/ore) |  |
-| [SaaS-Boilerplate](https://github.com/ixartz/SaaS-Boilerplate) | 🚀🎉📚 SaaS Boilerplate built with Next.js + Tailwind CSS + Shadcn UI + TypeScript. ⚡️ Full-stack React application with Auth, Multi-tenancy, Roles & Permissions, i18n, Landing Page, DB, Logging, Testing |
 | [AstroNvim](https://github.com/AstroNvim/AstroNvim) | AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins |
-| [availup](https://github.com/availproject/availup) |  |
-| [LLocalSearch](https://github.com/nilsherzig/LLocalSearch) | LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed. |
-| [VAR](https://github.com/FoundationVision/VAR) | [GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction" |
-| [firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) | Firebase SDK for Apple App Development |
+| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
+| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [aurora](https://github.com/aurora-develop/aurora) | free |
+| [JetMoE](https://github.com/myshell-ai/JetMoE) | Reaching LLaMA2 Performance with 0.1M Dollars |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
