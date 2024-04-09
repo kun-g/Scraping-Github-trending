@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [plandex](https://github.com/plandex-ai/plandex) | An AI coding engine for complex tasks |
+| [FreeAskInternet](https://github.com/nashsu/FreeAskInternet) | FreeAskInternet is a completely free, private and locally running search aggregator & answer generate using LLM, without GPU needed. The user can ask a question and the system will make a multi engine search and combine the search result to the ChatGPT3.5 LLM and generate the answer based on search results. |
+| [VAR](https://github.com/FoundationVision/VAR) | [GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction" |
 | [ore-cli](https://github.com/HardhatChad/ore-cli) |  |
 | [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) | 计算机自学指南 |
-| [ore](https://github.com/HardhatChad/ore) |  |
-| [AstroNvim](https://github.com/AstroNvim/AstroNvim) | AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins |
-| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
+| [ChatGPT](https://github.com/PawanOsman/ChatGPT) | OpenAI API Free Reverse Proxy |
+| [QAnything](https://github.com/netease-youdao/QAnything) | Question and Answer based on Anything. |
+| [lobe-chat](https://github.com/lobehub/lobe-chat) | 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application. |
 | [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [aurora](https://github.com/aurora-develop/aurora) | free |
-| [JetMoE](https://github.com/myshell-ai/JetMoE) | Reaching LLaMA2 Performance with 0.1M Dollars |
+| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
