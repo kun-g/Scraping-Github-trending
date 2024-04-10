@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [plandex](https://github.com/plandex-ai/plandex) | An AI coding engine for complex tasks |
 | [FreeAskInternet](https://github.com/nashsu/FreeAskInternet) | FreeAskInternet is a completely free, private and locally running search aggregator & answer generate using LLM, without GPU needed. The user can ask a question and the system will make a multi engine search and combine the search result to the ChatGPT3.5 LLM and generate the answer based on search results. |
-| [VAR](https://github.com/FoundationVision/VAR) | [GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction" |
-| [ore-cli](https://github.com/HardhatChad/ore-cli) |  |
-| [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) | 计算机自学指南 |
+| [Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) | This project aim to reproduce Sora (Open AI T2V model), we deeply wish the open source community contribute to this project. |
 | [ChatGPT](https://github.com/PawanOsman/ChatGPT) | OpenAI API Free Reverse Proxy |
-| [QAnything](https://github.com/netease-youdao/QAnything) | Question and Answer based on Anything. |
-| [lobe-chat](https://github.com/lobehub/lobe-chat) | 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application. |
-| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
-| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
+| [drawdb](https://github.com/drawdb-io/drawdb) | Free, simple, and intuitive online database design tool and SQL generator. |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [windows](https://github.com/dockur/windows) | Windows in a Docker container. |
+| [pokerogue](https://github.com/pagefaultgames/pokerogue) |  |
+| [VAR](https://github.com/FoundationVision/VAR) | [GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction" |
+| [plandex](https://github.com/plandex-ai/plandex) | An AI coding engine for complex tasks |
+| [system-design](https://github.com/systemdesign42/system-design) | Building the best system design resource in the internet |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
