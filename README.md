@@ -13,15 +13,15 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [FreeAskInternet](https://github.com/nashsu/FreeAskInternet) | FreeAskInternet is a completely free, private and locally running search aggregator & answer generate using LLM, without GPU needed. The user can ask a question and the system will make a multi engine search and combine the search result to the ChatGPT3.5 LLM and generate the answer based on search results. |
-| [Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) | This project aim to reproduce Sora (Open AI T2V model), we deeply wish the open source community contribute to this project. |
-| [ChatGPT](https://github.com/PawanOsman/ChatGPT) | OpenAI API Free Reverse Proxy |
+| [Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) | This project aim to reproduce Sora (Open AI T2V model), we wish the open source community contribute to this project. |
+| [FreeAskInternet](https://github.com/nashsu/FreeAskInternet) | FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will make a multi engine search and combine the search result to LLM and generate the answer based on search results. It's all FREE to use. |
+| [dify](https://github.com/langgenius/dify) | Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. |
 | [drawdb](https://github.com/drawdb-io/drawdb) | Free, simple, and intuitive online database design tool and SQL generator. |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [windows](https://github.com/dockur/windows) | Windows in a Docker container. |
 | [pokerogue](https://github.com/pagefaultgames/pokerogue) |  |
-| [VAR](https://github.com/FoundationVision/VAR) | [GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction" |
-| [plandex](https://github.com/plandex-ai/plandex) | An AI coding engine for complex tasks |
+| [llm.c](https://github.com/karpathy/llm.c) | LLM training in simple, raw C/CUDA |
+| [morphic](https://github.com/miurla/morphic) | An AI-powered answer engine with a generative UI |
+| [nodejs.org](https://github.com/nodejs/nodejs.org) | The Node.js® Website |
+| [self-llm](https://github.com/datawhalechina/self-llm) | 《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程 |
 | [system-design](https://github.com/systemdesign42/system-design) | Building the best system design resource in the internet |
 <!-- END OF DAILY_TOP10_REPOS -->
 
