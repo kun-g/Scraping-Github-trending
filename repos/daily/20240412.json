@@ -14,29 +14,29 @@
                 "username": "lancerts"
             },
             {
+                "avatar": "https://avatars.githubusercontent.com/u/7938269",
+                "href": "https://github.com/ngc92",
+                "username": "ngc92"
+            },
+            {
                 "avatar": "https://avatars.githubusercontent.com/u/14809962",
                 "href": "https://github.com/Ricardicus",
                 "username": "Ricardicus"
             },
             {
-                "avatar": "https://avatars.githubusercontent.com/u/1638579",
-                "href": "https://github.com/alexziskind1",
-                "username": "alexziskind1"
-            },
-            {
-                "avatar": "https://avatars.githubusercontent.com/u/1688848",
-                "href": "https://github.com/onuralpszr",
-                "username": "onuralpszr"
+                "avatar": "https://avatars.githubusercontent.com/u/589843",
+                "href": "https://github.com/krrishnarraj",
+                "username": "krrishnarraj"
             }
         ],
         "currentPeriodStars": 2168,
         "description": "LLM training in simple, raw C/CUDA",
-        "forks": 1049,
+        "forks": 1059,
         "fullname": "karpathy/llm.c",
         "language": "Cuda",
         "languageColor": "#3A4E3A",
         "name": "llm.c",
-        "stars": 11969,
+        "stars": 12042,
         "url": "https://github.com/karpathy/llm.c"
     },
     {
@@ -51,12 +51,12 @@
         ],
         "currentPeriodStars": 1275,
         "description": "FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will make a multi engine search and combine the search result to LLM and generate the answer based on search results. It's all FREE to use.",
-        "forks": 601,
+        "forks": 603,
         "fullname": "nashsu/FreeAskInternet",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "FreeAskInternet",
-        "stars": 6044,
+        "stars": 6062,
         "url": "https://github.com/nashsu/FreeAskInternet"
     },
     {
@@ -76,12 +76,12 @@
         ],
         "currentPeriodStars": 481,
         "description": "An AI-powered answer engine with a generative UI",
-        "forks": 461,
+        "forks": 465,
         "fullname": "miurla/morphic",
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "morphic",
-        "stars": 2277,
+        "stars": 2293,
         "url": "https://github.com/miurla/morphic"
     },
     {
@@ -111,12 +111,12 @@
         ],
         "currentPeriodStars": 26,
         "description": "GoogleTest - Google Testing and Mocking Framework",
-        "forks": 9788,
+        "forks": 9789,
         "fullname": "google/googletest",
         "language": "C++",
         "languageColor": "#f34b7d",
         "name": "googletest",
-        "stars": 32752,
+        "stars": 32755,
         "url": "https://github.com/google/googletest"
     },
     {
@@ -151,12 +151,12 @@
         ],
         "currentPeriodStars": 172,
         "description": "Inference Llama 2 in one file of pure C",
-        "forks": 1688,
+        "forks": 1690,
         "fullname": "karpathy/llama2.c",
         "language": "C",
         "languageColor": "#555555",
         "name": "llama2.c",
-        "stars": 15267,
+        "stars": 15268,
         "url": "https://github.com/karpathy/llama2.c"
     },
     {
@@ -191,12 +191,12 @@
         ],
         "currentPeriodStars": 1059,
         "description": "This project aim to reproduce Sora (Open AI T2V model), we wish the open source community contribute to this project.",
-        "forks": 834,
+        "forks": 835,
         "fullname": "PKU-YuanGroup/Open-Sora-Plan",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "Open-Sora-Plan",
-        "stars": 9449,
+        "stars": 9453,
         "url": "https://github.com/PKU-YuanGroup/Open-Sora-Plan"
     },
     {
@@ -221,12 +221,12 @@
         ],
         "currentPeriodStars": 200,
         "description": "A project structure aware autonomous software engineer aiming for autonomous program improvement",
-        "forks": 102,
+        "forks": 105,
         "fullname": "nus-apr/auto-code-rover",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "auto-code-rover",
-        "stars": 1470,
+        "stars": 1475,
         "url": "https://github.com/nus-apr/auto-code-rover"
     },
     {
@@ -261,12 +261,12 @@
         ],
         "currentPeriodStars": 78,
         "description": "Python - 100\u5929\u4ece\u65b0\u624b\u5230\u5927\u5e08",
-        "forks": 51218,
+        "forks": 51219,
         "fullname": "jackfrued/Python-100-Days",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "Python-100-Days",
-        "stars": 149446,
+        "stars": 149451,
         "url": "https://github.com/jackfrued/Python-100-Days"
     },
     {
@@ -301,12 +301,12 @@
         ],
         "currentPeriodStars": 755,
         "description": "Free, simple, and intuitive online database design tool and SQL generator.",
-        "forks": 254,
+        "forks": 255,
         "fullname": "drawdb-io/drawdb",
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "drawdb",
-        "stars": 4020,
+        "stars": 4027,
         "url": "https://github.com/drawdb-io/drawdb"
     },
     {
@@ -341,12 +341,12 @@
         ],
         "currentPeriodStars": 510,
         "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
-        "forks": 2725,
+        "forks": 2726,
         "fullname": "langgenius/dify",
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "dify",
-        "stars": 20866,
+        "stars": 20872,
         "url": "https://github.com/langgenius/dify"
     },
     {
@@ -381,10 +381,10 @@
         ],
         "currentPeriodStars": 309,
         "description": "\ud83d\udc69\ud83c\udfff\u200d\ud83d\udcbb\ud83d\udc68\ud83c\udffe\u200d\ud83d\udcbb\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb\ud83d\udc68\ud83c\udffd\u200d\ud83d\udcbb\ud83d\udc69\ud83c\udffb\u200d\ud83d\udcbb\u4e2d\u56fd\u72ec\u7acb\u5f00\u53d1\u8005\u9879\u76ee\u5217\u8868 -- \u5206\u4eab\u5927\u5bb6\u90fd\u5728\u505a\u4ec0\u4e48",
-        "forks": 2674,
+        "forks": 2675,
         "fullname": "1c7/chinese-independent-developer",
         "name": "chinese-independent-developer",
-        "stars": 31770,
+        "stars": 31775,
         "url": "https://github.com/1c7/chinese-independent-developer"
     },
     {
@@ -419,12 +419,12 @@
         ],
         "currentPeriodStars": 35,
         "description": "JSON for Modern C++",
-        "forks": 6417,
+        "forks": 6418,
         "fullname": "nlohmann/json",
         "language": "C++",
         "languageColor": "#f34b7d",
         "name": "json",
-        "stars": 39929,
+        "stars": 39933,
         "url": "https://github.com/nlohmann/json"
     },
     {
@@ -439,12 +439,12 @@
         ],
         "currentPeriodStars": 138,
         "description": "\u672c\u9879\u76ee\u65e8\u5728\u5206\u4eab\u5927\u6a21\u578b\u76f8\u5173\u6280\u672f\u539f\u7406\u4ee5\u53ca\u5b9e\u6218\u7ecf\u9a8c\u3002",
-        "forks": 515,
+        "forks": 518,
         "fullname": "liguodongiot/llm-action",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "llm-action",
-        "stars": 5467,
+        "stars": 5483,
         "url": "https://github.com/liguodongiot/llm-action"
     },
     {
@@ -459,12 +459,12 @@
         ],
         "currentPeriodStars": 112,
         "description": "Concurrency library for C (coroutines)",
-        "forks": 13,
+        "forks": 15,
         "fullname": "tidwall/neco",
         "language": "C",
         "languageColor": "#555555",
         "name": "neco",
-        "stars": 613,
+        "stars": 622,
         "url": "https://github.com/tidwall/neco"
     },
     {
@@ -499,12 +499,12 @@
         ],
         "currentPeriodStars": 104,
         "description": "",
-        "forks": 173,
+        "forks": 175,
         "fullname": "pagefaultgames/pokerogue",
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "pokerogue",
-        "stars": 509,
+        "stars": 511,
         "url": "https://github.com/pagefaultgames/pokerogue"
     },
     {
@@ -539,12 +539,12 @@
         ],
         "currentPeriodStars": 39,
         "description": "Complete Open Source and Modular solution for MMO",
-        "forks": 2276,
+        "forks": 2278,
         "fullname": "azerothcore/azerothcore-wotlk",
         "language": "C++",
         "languageColor": "#f34b7d",
         "name": "azerothcore-wotlk",
-        "stars": 5491,
+        "stars": 5496,
         "url": "https://github.com/azerothcore/azerothcore-wotlk"
     },
     {
@@ -579,10 +579,10 @@
         ],
         "currentPeriodStars": 482,
         "description": "Curated list of project-based tutorials",
-        "forks": 21767,
+        "forks": 21768,
         "fullname": "practical-tutorials/project-based-learning",
         "name": "project-based-learning",
-        "stars": 165020,
+        "stars": 165025,
         "url": "https://github.com/practical-tutorials/project-based-learning"
     },
     {
@@ -597,10 +597,10 @@
         ],
         "currentPeriodStars": 248,
         "description": "Building the best system design resource in the internet",
-        "forks": 730,
+        "forks": 731,
         "fullname": "systemdesign42/system-design",
         "name": "system-design",
-        "stars": 7530,
+        "stars": 7533,
         "url": "https://github.com/systemdesign42/system-design"
     },
     {
@@ -635,12 +635,12 @@
         ],
         "currentPeriodStars": 95,
         "description": "OpenAI API Free Reverse Proxy",
-        "forks": 576,
+        "forks": 577,
         "fullname": "PawanOsman/ChatGPT",
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "ChatGPT",
-        "stars": 3326,
+        "stars": 3327,
         "url": "https://github.com/PawanOsman/ChatGPT"
     },
     {
@@ -675,12 +675,12 @@
         ],
         "currentPeriodStars": 148,
         "description": "Penpot: The open-source design tool for design and code collaboration",
-        "forks": 1268,
+        "forks": 1272,
         "fullname": "penpot/penpot",
         "language": "Clojure",
         "languageColor": "#db5855",
         "name": "penpot",
-        "stars": 26723,
+        "stars": 26735,
         "url": "https://github.com/penpot/penpot"
     },
     {
@@ -720,7 +720,7 @@
         "language": "C",
         "languageColor": "#555555",
         "name": "wcdb",
-        "stars": 10348,
+        "stars": 10350,
         "url": "https://github.com/Tencent/wcdb"
     },
     {
@@ -755,12 +755,12 @@
         ],
         "currentPeriodStars": 20,
         "description": "",
-        "forks": 333,
+        "forks": 334,
         "fullname": "code100x/cms",
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "cms",
-        "stars": 230,
+        "stars": 232,
         "url": "https://github.com/code100x/cms"
     },
     {
@@ -795,12 +795,12 @@
         ],
         "currentPeriodStars": 18,
         "description": "",
-        "forks": 886,
+        "forks": 887,
         "fullname": "Lunakepio/Mario-Kart-3.js",
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "Mario-Kart-3.js",
-        "stars": 3869,
+        "stars": 3870,
         "url": "https://github.com/Lunakepio/Mario-Kart-3.js"
     },
     {
@@ -835,12 +835,12 @@
         ],
         "currentPeriodStars": 126,
         "description": "A tool for writing better scripts",
-        "forks": 1011,
+        "forks": 1014,
         "fullname": "google/zx",
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "zx",
-        "stars": 41208,
+        "stars": 41216,
         "url": "https://github.com/google/zx"
     },
     {
@@ -875,12 +875,12 @@
         ],
         "currentPeriodStars": 160,
         "description": "A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training",
-        "forks": 2251,
+        "forks": 2253,
         "fullname": "karpathy/minGPT",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "minGPT",
-        "stars": 18583,
+        "stars": 18587,
         "url": "https://github.com/karpathy/minGPT"
     }
 ]
