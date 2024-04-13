@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [llm.c](https://github.com/karpathy/llm.c) | LLM training in simple, raw C/CUDA |
-| [FreeAskInternet](https://github.com/nashsu/FreeAskInternet) | FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will make a multi engine search and combine the search result to LLM and generate the answer based on search results. It's all FREE to use. |
+| [aiXcoder-7B](https://github.com/aixcoder-plugin/aiXcoder-7B) | official repository of aiXcoder-7B Code Large Language Model |
+| [citra](https://github.com/PabloMK7/citra) | A Nintendo 3DS Emulator |
+| [ExploitGSM](https://github.com/YuriiCrimson/ExploitGSM) | Exploit for 6.4 - 6.5 kernels and another exploit for 5.15 - 6.5 |
 | [morphic](https://github.com/miurla/morphic) | An AI-powered answer engine with a generative UI |
+| [llm.c](https://github.com/karpathy/llm.c) | LLM training in simple, raw C/CUDA |
+| [self-llm](https://github.com/datawhalechina/self-llm) | 《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程 |
 | [googletest](https://github.com/google/googletest) | GoogleTest - Google Testing and Mocking Framework |
-| [llama2.c](https://github.com/karpathy/llama2.c) | Inference Llama 2 in one file of pure C |
-| [Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) | This project aim to reproduce Sora (Open AI T2V model), we wish the open source community contribute to this project. |
-| [auto-code-rover](https://github.com/nus-apr/auto-code-rover) | A project structure aware autonomous software engineer aiming for autonomous program improvement |
-| [Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Python - 100天从新手到大师 |
-| [drawdb](https://github.com/drawdb-io/drawdb) | Free, simple, and intuitive online database design tool and SQL generator. |
-| [dify](https://github.com/langgenius/dify) | Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. |
+| [aider](https://github.com/paul-gauthier/aider) | aider is AI pair programming in your terminal |
+| [cookbook](https://github.com/google-gemini/cookbook) | A collection of guides and examples for the Gemini API. |
+| [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) | 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
