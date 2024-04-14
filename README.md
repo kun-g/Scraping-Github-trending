@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [aiXcoder-7B](https://github.com/aixcoder-plugin/aiXcoder-7B) | official repository of aiXcoder-7B Code Large Language Model |
+| [ssr-benchmark](https://github.com/eknkc/ssr-benchmark) | Benchmarking JS web framework SSR performance |
 | [citra](https://github.com/PabloMK7/citra) | A Nintendo 3DS Emulator |
-| [ExploitGSM](https://github.com/YuriiCrimson/ExploitGSM) | Exploit for 6.4 - 6.5 kernels and another exploit for 5.15 - 6.5 |
-| [morphic](https://github.com/miurla/morphic) | An AI-powered answer engine with a generative UI |
-| [llm.c](https://github.com/karpathy/llm.c) | LLM training in simple, raw C/CUDA |
-| [self-llm](https://github.com/datawhalechina/self-llm) | 《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程 |
+| [parler-tts](https://github.com/huggingface/parler-tts) | Inference and training library for high-quality TTS models. |
 | [googletest](https://github.com/google/googletest) | GoogleTest - Google Testing and Mocking Framework |
-| [aider](https://github.com/paul-gauthier/aider) | aider is AI pair programming in your terminal |
+| [dotnet9x](https://github.com/itsmattkc/dotnet9x) | Backport of .NET 2.0 - 3.5 to Windows 9x |
 | [cookbook](https://github.com/google-gemini/cookbook) | A collection of guides and examples for the Gemini API. |
-| [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) | 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么 |
+| [cms](https://github.com/code100x/cms) |  |
+| [json](https://github.com/nlohmann/json) | JSON for Modern C++ |
+| [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project-based tutorials |
+| [bisheng](https://github.com/dataelement/bisheng) | Bisheng is an open LLM devops platform for next generation AI applications. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
