@@ -31,12 +31,12 @@
         ],
         "currentPeriodStars": 48,
         "description": "Benchmarking JS web framework SSR performance",
-        "forks": 71,
+        "forks": 72,
         "fullname": "eknkc/ssr-benchmark",
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "ssr-benchmark",
-        "stars": 331,
+        "stars": 334,
         "url": "https://github.com/eknkc/ssr-benchmark"
     },
     {
@@ -76,7 +76,7 @@
         "language": "C++",
         "languageColor": "#f34b7d",
         "name": "citra",
-        "stars": 2006,
+        "stars": 2008,
         "url": "https://github.com/PabloMK7/citra"
     },
     {
@@ -96,12 +96,12 @@
         ],
         "currentPeriodStars": 164,
         "description": "Inference and training library for high-quality TTS models.",
-        "forks": 80,
+        "forks": 82,
         "fullname": "huggingface/parler-tts",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "parler-tts",
-        "stars": 1096,
+        "stars": 1100,
         "url": "https://github.com/huggingface/parler-tts"
     },
     {
@@ -131,12 +131,12 @@
         ],
         "currentPeriodStars": 79,
         "description": "GoogleTest - Google Testing and Mocking Framework",
-        "forks": 9870,
+        "forks": 9872,
         "fullname": "google/googletest",
         "language": "C++",
         "languageColor": "#f34b7d",
         "name": "googletest",
-        "stars": 32926,
+        "stars": 32928,
         "url": "https://github.com/google/googletest"
     },
     {
@@ -151,12 +151,12 @@
         ],
         "currentPeriodStars": 149,
         "description": "Backport of .NET 2.0 - 3.5 to Windows 9x",
-        "forks": 23,
+        "forks": 25,
         "fullname": "itsmattkc/dotnet9x",
         "language": "NSIS",
         "languageColor": "#ccc",
         "name": "dotnet9x",
-        "stars": 895,
+        "stars": 898,
         "url": "https://github.com/itsmattkc/dotnet9x"
     },
     {
@@ -191,7 +191,7 @@
         ],
         "currentPeriodStars": 312,
         "description": "A collection of guides and examples for the Gemini API.",
-        "forks": 118,
+        "forks": 119,
         "fullname": "google-gemini/cookbook",
         "language": "Jupyter Notebook",
         "languageColor": "#DA5B0B",
@@ -271,12 +271,12 @@
         ],
         "currentPeriodStars": 12,
         "description": "JSON for Modern C++",
-        "forks": 6450,
+        "forks": 6456,
         "fullname": "nlohmann/json",
         "language": "C++",
         "languageColor": "#f34b7d",
         "name": "json",
-        "stars": 40017,
+        "stars": 40024,
         "url": "https://github.com/nlohmann/json"
     },
     {
@@ -311,10 +311,10 @@
         ],
         "currentPeriodStars": 344,
         "description": "Curated list of project-based tutorials",
-        "forks": 21874,
+        "forks": 21875,
         "fullname": "practical-tutorials/project-based-learning",
         "name": "project-based-learning",
-        "stars": 165703,
+        "stars": 165708,
         "url": "https://github.com/practical-tutorials/project-based-learning"
     },
     {
@@ -349,12 +349,12 @@
         ],
         "currentPeriodStars": 28,
         "description": "Bisheng is an open LLM devops platform for next generation AI applications.",
-        "forks": 877,
+        "forks": 879,
         "fullname": "dataelement/bisheng",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "bisheng",
-        "stars": 5256,
+        "stars": 5258,
         "url": "https://github.com/dataelement/bisheng"
     },
     {
@@ -389,12 +389,12 @@
         ],
         "currentPeriodStars": 10,
         "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
-        "forks": 1580,
+        "forks": 1581,
         "fullname": "dotnet/maui",
         "language": "C#",
         "languageColor": "#178600",
         "name": "maui",
-        "stars": 21470,
+        "stars": 21473,
         "url": "https://github.com/dotnet/maui"
     },
     {
@@ -419,12 +419,12 @@
         ],
         "currentPeriodStars": 660,
         "description": "official repository of aiXcoder-7B Code Large Language Model",
-        "forks": 174,
+        "forks": 177,
         "fullname": "aixcoder-plugin/aiXcoder-7B",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "aiXcoder-7B",
-        "stars": 1055,
+        "stars": 1058,
         "url": "https://github.com/aixcoder-plugin/aiXcoder-7B"
     },
     {
@@ -464,7 +464,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "30-Days-Of-Python",
-        "stars": 30487,
+        "stars": 30490,
         "url": "https://github.com/Asabeneh/30-Days-Of-Python"
     },
     {
@@ -499,12 +499,12 @@
         ],
         "currentPeriodStars": 14,
         "description": "An Application Framework for AI Engineering",
-        "forks": 360,
+        "forks": 362,
         "fullname": "spring-projects/spring-ai",
         "language": "Java",
         "languageColor": "#b07219",
         "name": "spring-ai",
-        "stars": 1559,
+        "stars": 1562,
         "url": "https://github.com/spring-projects/spring-ai"
     },
     {
@@ -539,12 +539,12 @@
         ],
         "currentPeriodStars": 13,
         "description": "Microsoft Copilot for Security is a generative AI-powered security solution that helps increase the efficiency and capabilities of defenders to improve security outcomes at machine speed and scale, while remaining compliant to responsible AI principles",
-        "forks": 31,
+        "forks": 33,
         "fullname": "Azure/Copilot-For-Security",
         "language": "PowerShell",
         "languageColor": "#012456",
         "name": "Copilot-For-Security",
-        "stars": 151,
+        "stars": 154,
         "url": "https://github.com/Azure/Copilot-For-Security"
     },
     {
@@ -579,12 +579,12 @@
         ],
         "currentPeriodStars": 282,
         "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
-        "forks": 2823,
+        "forks": 2824,
         "fullname": "langgenius/dify",
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "dify",
-        "stars": 21476,
+        "stars": 21477,
         "url": "https://github.com/langgenius/dify"
     },
     {
@@ -619,12 +619,12 @@
         ],
         "currentPeriodStars": 43,
         "description": "Pretrain, finetune, deploy 20+ LLMs on your own data. Uses state-of-the-art techniques: flash attention, FSDP, 4-bit, LoRA, and more.",
-        "forks": 636,
+        "forks": 637,
         "fullname": "Lightning-AI/litgpt",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "litgpt",
-        "stars": 6038,
+        "stars": 6040,
         "url": "https://github.com/Lightning-AI/litgpt"
     },
     {
@@ -659,12 +659,12 @@
         ],
         "currentPeriodStars": 107,
         "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-        "forks": 9037,
+        "forks": 9038,
         "fullname": "ripienaar/free-for-dev",
         "language": "HTML",
         "languageColor": "#e34c26",
         "name": "free-for-dev",
-        "stars": 83400,
+        "stars": 83401,
         "url": "https://github.com/ripienaar/free-for-dev"
     },
     {
@@ -699,12 +699,12 @@
         ],
         "currentPeriodStars": 45,
         "description": "Port of OpenAI's Whisper model in C/C++",
-        "forks": 2882,
+        "forks": 2885,
         "fullname": "ggerganov/whisper.cpp",
         "language": "C",
         "languageColor": "#555555",
         "name": "whisper.cpp",
-        "stars": 29609,
+        "stars": 29612,
         "url": "https://github.com/ggerganov/whisper.cpp"
     },
     {
@@ -754,7 +754,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "pragmatic-drag-and-drop",
-        "stars": 3936,
+        "stars": 3942,
         "url": "https://github.com/atlassian/pragmatic-drag-and-drop"
     },
     {
@@ -779,12 +779,12 @@
         ],
         "currentPeriodStars": 42,
         "description": "Your Next SaaS Template or Boilerplate ! A magic trip start with `bun create saasfly` . The more stars, the more surprises",
-        "forks": 34,
+        "forks": 35,
         "fullname": "saasfly/saasfly",
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "saasfly",
-        "stars": 535,
+        "stars": 538,
         "url": "https://github.com/saasfly/saasfly"
     },
     {
@@ -799,12 +799,12 @@
         ],
         "currentPeriodStars": 46,
         "description": "Concurrency library for C (coroutines)",
-        "forks": 55,
+        "forks": 56,
         "fullname": "tidwall/neco",
         "language": "C",
         "languageColor": "#555555",
         "name": "neco",
-        "stars": 826,
+        "stars": 827,
         "url": "https://github.com/tidwall/neco"
     },
     {
@@ -839,12 +839,12 @@
         ],
         "currentPeriodStars": 39,
         "description": "Inference Llama 2 in one file of pure C",
-        "forks": 1735,
+        "forks": 1736,
         "fullname": "karpathy/llama2.c",
         "language": "C",
         "languageColor": "#555555",
         "name": "llama2.c",
-        "stars": 15450,
+        "stars": 15451,
         "url": "https://github.com/karpathy/llama2.c"
     },
     {
@@ -879,12 +879,12 @@
         ],
         "currentPeriodStars": 12,
         "description": "Zulip server and web application. Open-source team chat that helps teams stay productive and focused.",
-        "forks": 7364,
+        "forks": 7365,
         "fullname": "zulip/zulip",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "zulip",
-        "stars": 19756,
+        "stars": 19758,
         "url": "https://github.com/zulip/zulip"
     }
 ]
