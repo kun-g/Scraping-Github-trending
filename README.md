@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [aiXcoder-7B](https://github.com/aixcoder-plugin/aiXcoder-7B) | official repository of aiXcoder-7B Code Large Language Model |
+| [storm](https://github.com/stanford-oval/storm) | An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations. |
 | [ssr-benchmark](https://github.com/eknkc/ssr-benchmark) | Benchmarking JS web framework SSR performance |
-| [citra](https://github.com/PabloMK7/citra) | A Nintendo 3DS Emulator |
 | [parler-tts](https://github.com/huggingface/parler-tts) | Inference and training library for high-quality TTS models. |
-| [googletest](https://github.com/google/googletest) | GoogleTest - Google Testing and Mocking Framework |
-| [dotnet9x](https://github.com/itsmattkc/dotnet9x) | Backport of .NET 2.0 - 3.5 to Windows 9x |
-| [cookbook](https://github.com/google-gemini/cookbook) | A collection of guides and examples for the Gemini API. |
-| [cms](https://github.com/code100x/cms) |  |
-| [json](https://github.com/nlohmann/json) | JSON for Modern C++ |
-| [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project-based tutorials |
-| [bisheng](https://github.com/dataelement/bisheng) | Bisheng is an open LLM devops platform for next generation AI applications. |
+| [citra](https://github.com/PabloMK7/citra) | A Nintendo 3DS Emulator |
+| [simple-evals](https://github.com/openai/simple-evals) |  |
+| [zed](https://github.com/zed-industries/zed) | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. |
+| [Fooocus](https://github.com/lllyasviel/Fooocus) | Focus on prompting and generating |
+| [daily-code](https://github.com/code100x/daily-code) |  |
+| [mojo](https://github.com/modularml/mojo) | The Mojo Programming Language |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
