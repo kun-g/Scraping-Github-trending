@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [ui](https://github.com/atherosai/ui) | Simple UI examples from my social media |
-| [valkey](https://github.com/valkey-io/valkey) | A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore. |
-| [gpt_academic](https://github.com/binary-husky/gpt_academic) | 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。 |
 | [otel-profiling-agent](https://github.com/elastic/otel-profiling-agent) | The production-scale datacenter profiler |
-| [ATAC](https://github.com/Julien-cpsn/ATAC) | A simple API client (postman like) in your terminal |
-| [MiniGemini](https://github.com/dvlab-research/MiniGemini) | Official implementation for Mini-Gemini |
-| [harbor](https://github.com/goharbor/harbor) | An open source trusted cloud native registry project that stores, signs, and scans content. |
 | [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
-| [Descent3](https://github.com/kevinbentley/Descent3) | Descent 3 by Outrage Entertainment |
-| [code-connect](https://github.com/figma/code-connect) | A tool for connecting your design system components in code with your design system in Figma |
+| [torchtune](https://github.com/pytorch/torchtune) | A Native-PyTorch Library for LLM Fine-tuning |
+| [Delta](https://github.com/rileytestut/Delta) | Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices. |
+| [valkey](https://github.com/valkey-io/valkey) | A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore. |
+| [awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) | A one stop repository for generative AI research updates, interview resources, notebooks and much more! |
+| [PurpleLlama](https://github.com/meta-llama/PurpleLlama) | Set of tools to assess and improve LLM security. |
+| [lottie-ios](https://github.com/airbnb/lottie-ios) | An iOS library to natively render After Effects vector animations |
+| [bite](https://github.com/WINSDK/bite) | Disassembler focused on comprehensive rust support. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
