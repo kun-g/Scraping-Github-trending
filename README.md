@@ -29,16 +29,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [plandex](https://github.com/plandex-ai/plandex) | An AI coding engine for complex tasks |
-| [ore-cli](https://github.com/HardhatChad/ore-cli) |  |
-| [ragflow](https://github.com/infiniflow/ragflow) | RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. |
-| [Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) | This project aim to reproduce Sora (Open AI T2V model), we wish the open source community contribute to this project. |
-| [llama2.c](https://github.com/karpathy/llama2.c) | Inference Llama 2 in one file of pure C |
-| [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) | 计算机自学指南 |
-| [SWE-agent](https://github.com/princeton-nlp/SWE-agent) | SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.29% of bugs in the SWE-bench evaluation set and takes just 1.5 minutes to run. |
-| [dify](https://github.com/langgenius/dify) | Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. |
-| [proposal-signals](https://github.com/tc39/proposal-signals) | A proposal to add signals to JavaScript. |
-| [aurora](https://github.com/aurora-develop/aurora) | free |
+| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
+| [MaxKB](https://github.com/1Panel-dev/MaxKB) | 💬 基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。 |
+| [MiniGemini](https://github.com/dvlab-research/MiniGemini) | Official implementation for Mini-Gemini |
+| [ui](https://github.com/atherosai/ui) | Simple UI examples from my social media |
+| [aiXcoder-7B](https://github.com/aixcoder-plugin/aiXcoder-7B) | official repository of aiXcoder-7B Code Large Language Model |
+| [zed](https://github.com/zed-industries/zed) | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. |
+| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
+| [torchtune](https://github.com/pytorch/torchtune) | A Native-PyTorch Library for LLM Fine-tuning |
+| [social-app](https://github.com/bluesky-social/social-app) | The Bluesky Social application for Web, iOS, and Android |
+| [ssr-benchmark](https://github.com/eknkc/ssr-benchmark) | Benchmarking JS web framework SSR performance |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
