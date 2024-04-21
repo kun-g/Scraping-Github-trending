@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [ui](https://github.com/atherosai/ui) | Simple UI examples from my social media |
-| [otel-profiling-agent](https://github.com/elastic/otel-profiling-agent) | The production-scale datacenter profiler |
-| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
+| [llama3](https://github.com/meta-llama/llama3) | The official Meta Llama 3 GitHub site |
+| [chess](https://github.com/code100x/chess) | A multiplayer chess platform similar to https://chess.com/ |
 | [torchtune](https://github.com/pytorch/torchtune) | A Native-PyTorch Library for LLM Fine-tuning |
-| [Delta](https://github.com/rileytestut/Delta) | Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices. |
-| [valkey](https://github.com/valkey-io/valkey) | A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore. |
-| [awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) | A one stop repository for generative AI research updates, interview resources, notebooks and much more! |
+| [firecrawl](https://github.com/mendableai/firecrawl) | 🔥 Turn entire websites into LLM-ready markdown |
+| [ui](https://github.com/atherosai/ui) | Simple UI examples from my social media |
 | [PurpleLlama](https://github.com/meta-llama/PurpleLlama) | Set of tools to assess and improve LLM security. |
-| [lottie-ios](https://github.com/airbnb/lottie-ios) | An iOS library to natively render After Effects vector animations |
-| [bite](https://github.com/WINSDK/bite) | Disassembler focused on comprehensive rust support. |
+| [ord](https://github.com/ordinals/ord) | 👁‍🗨 Rare and exotic sats |
+| [llama-recipes](https://github.com/meta-llama/llama-recipes) | Scripts for fine-tuning Llama2 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization & question answering. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment.Demo apps to showcase Llama2 for WhatsApp & Messenger |
+| [chat-ollama](https://github.com/sugarforever/chat-ollama) | ChatOllama is an open source chatbot based on LLMs. It supports a wide range of language models, and knowledge base management. |
+| [codellama](https://github.com/meta-llama/codellama) | Inference code for CodeLlama models |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
