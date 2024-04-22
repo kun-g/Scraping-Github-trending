@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [llama3](https://github.com/meta-llama/llama3) | The official Meta Llama 3 GitHub site |
-| [chess](https://github.com/code100x/chess) | A multiplayer chess platform similar to https://chess.com/ |
-| [torchtune](https://github.com/pytorch/torchtune) | A Native-PyTorch Library for LLM Fine-tuning |
-| [firecrawl](https://github.com/mendableai/firecrawl) | 🔥 Turn entire websites into LLM-ready markdown |
-| [ui](https://github.com/atherosai/ui) | Simple UI examples from my social media |
 | [PurpleLlama](https://github.com/meta-llama/PurpleLlama) | Set of tools to assess and improve LLM security. |
-| [ord](https://github.com/ordinals/ord) | 👁‍🗨 Rare and exotic sats |
-| [llama-recipes](https://github.com/meta-llama/llama-recipes) | Scripts for fine-tuning Llama2 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization & question answering. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment.Demo apps to showcase Llama2 for WhatsApp & Messenger |
-| [chat-ollama](https://github.com/sugarforever/chat-ollama) | ChatOllama is an open source chatbot based on LLMs. It supports a wide range of language models, and knowledge base management. |
 | [codellama](https://github.com/meta-llama/codellama) | Inference code for CodeLlama models |
+| [puter](https://github.com/HeyPuter/puter) | 🌐 The Internet OS! Free, Open-Source, and Self-Hostable. |
+| [chess](https://github.com/code100x/chess) | A multiplayer chess platform |
+| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
+| [ollama](https://github.com/ollama/ollama) | Get up and running with Llama 3, Mistral, Gemma, and other large language models. |
+| [LocalAI](https://github.com/mudler/LocalAI) | 🤖 The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities. |
+| [center-randomize](https://github.com/moest-np/center-randomize) | Script is to assign exam centers to students |
+| [zig](https://github.com/ziglang/zig) | General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
