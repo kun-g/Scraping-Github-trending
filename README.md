@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [llama3](https://github.com/meta-llama/llama3) | The official Meta Llama 3 GitHub site |
-| [PurpleLlama](https://github.com/meta-llama/PurpleLlama) | Set of tools to assess and improve LLM security. |
-| [codellama](https://github.com/meta-llama/codellama) | Inference code for CodeLlama models |
-| [puter](https://github.com/HeyPuter/puter) | 🌐 The Internet OS! Free, Open-Source, and Self-Hostable. |
 | [chess](https://github.com/code100x/chess) | A multiplayer chess platform |
-| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
-| [ollama](https://github.com/ollama/ollama) | Get up and running with Llama 3, Mistral, Gemma, and other large language models. |
-| [LocalAI](https://github.com/mudler/LocalAI) | 🤖 The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities. |
 | [center-randomize](https://github.com/moest-np/center-randomize) | Script is to assign exam centers to students |
-| [zig](https://github.com/ziglang/zig) | General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. |
+| [ProgrammingVTuberLogos](https://github.com/Aikoyori/ProgrammingVTuberLogos) | High-quality PNGs for logos I made for fun |
+| [open-webui](https://github.com/open-webui/open-webui) | User-friendly WebUI for LLMs (Formerly Ollama WebUI) |
+| [codellama](https://github.com/meta-llama/codellama) | Inference code for CodeLlama models |
+| [ollama](https://github.com/ollama/ollama) | Get up and running with Llama 3, Mistral, Gemma, and other large language models. |
+| [crewAI](https://github.com/joaomdmoura/crewAI) | Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. |
+| [puter](https://github.com/HeyPuter/puter) | 🌐 The Internet OS! Free, Open-Source, and Self-Hostable. |
+| [llama.cpp](https://github.com/ggerganov/llama.cpp) | LLM inference in C/C++ |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
