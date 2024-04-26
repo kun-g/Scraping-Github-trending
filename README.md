@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [tiny11builder](https://github.com/ntdevlabs/tiny11builder) | Scripts to build a trimmed-down Windows 11 image. |
-| [ProgrammingVTuberLogos](https://github.com/Aikoyori/ProgrammingVTuberLogos) | High-quality PNGs for logos I made for fun |
+| [twenty](https://github.com/twentyhq/twenty) | Building a modern alternative to Salesforce, powered by the community. |
+| [Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) | Llama中文社区，Llama3在线体验和微调模型已开放，实时汇总最新Llama3学习资料，已将所有代码更新适配Llama3，构建最好的中文Llama大模型，完全开源可商用 |
+| [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux) |
+| [dio-lab-open-source](https://github.com/digitalinnovationone/dio-lab-open-source) | ⚠LEIA A ISSUE FIXADA! Repositório do lab Contribuindo em um Projeto Open Source no GitHub da Digital Innovation One. |
+| [TagStudio](https://github.com/CyanVoxel/TagStudio) | A file and photo management application and system. |
+| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
 | [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) | Unify Efficient Fine-Tuning of 100+ LLMs |
 | [gpt4all](https://github.com/nomic-ai/gpt4all) | gpt4all: run open-source LLMs anywhere |
-| [immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. |
-| [twenty](https://github.com/twentyhq/twenty) | Building a modern alternative to Salesforce, powered by the community. |
-| [phidata](https://github.com/phidatahq/phidata) | Add memory, knowledge and tools to LLMs |
-| [tixcraft_bot](https://github.com/max32002/tixcraft_bot) | MaxBot open source code bot |
-| [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) | 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。 |
-| [llama3-Chinese-chat](https://github.com/CrazyBoyM/llama3-Chinese-chat) | Llama3 中文仓库（聚合资料：各种网友及厂商微调、魔改版本有趣权重 & 训练、推理、部署教程视频 & 文档） |
+| [maxtext](https://github.com/google/maxtext) | A simple, performant and scalable Jax LLM! |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
