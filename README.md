@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [tiny11builder](https://github.com/ntdevlabs/tiny11builder) | Scripts to build a trimmed-down Windows 11 image. |
-| [twenty](https://github.com/twentyhq/twenty) | Building a modern alternative to Salesforce, powered by the community. |
-| [Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) | Llama中文社区，Llama3在线体验和微调模型已开放，实时汇总最新Llama3学习资料，已将所有代码更新适配Llama3，构建最好的中文Llama大模型，完全开源可商用 |
-| [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux) |
-| [dio-lab-open-source](https://github.com/digitalinnovationone/dio-lab-open-source) | ⚠LEIA A ISSUE FIXADA! Repositório do lab Contribuindo em um Projeto Open Source no GitHub da Digital Innovation One. |
+| [corenet](https://github.com/apple/corenet) | CoreNet: A library for training deep neural networks |
+| [ServiceLogos](https://github.com/SAWARATSUKI/ServiceLogos) | ロゴを可愛く作ろう　節度を持って利用してくださいね🫠 |
+| [cohere-toolkit](https://github.com/cohere-ai/cohere-toolkit) | Toolkit is a collection of prebuilt components enabling users to quickly build and deploy RAG applications. |
 | [TagStudio](https://github.com/CyanVoxel/TagStudio) | A file and photo management application and system. |
-| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
-| [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) | Unify Efficient Fine-Tuning of 100+ LLMs |
-| [gpt4all](https://github.com/nomic-ai/gpt4all) | gpt4all: run open-source LLMs anywhere |
-| [maxtext](https://github.com/google/maxtext) | A simple, performant and scalable Jax LLM! |
+| [llamafile](https://github.com/Mozilla-Ocho/llamafile) | Distribute and run LLMs with a single file. |
+| [ChatGPT](https://github.com/PawanOsman/ChatGPT) | OpenAI API Free Reverse Proxy |
+| [zkp-hmac-communication-js](https://github.com/zk-Call/zkp-hmac-communication-js) | "Zero-Knowledge" Proof Implementation with HMAC Communication in JavaScript |
+| [maestro](https://github.com/Doriandarko/maestro) | A framework for Claude Opus to intelligently orchestrate subagents. |
+| [webllama](https://github.com/McGill-NLP/webllama) | Llama-3 agents that can browse the web by following instructions and talking to you |
+| [Open-Sora](https://github.com/hpcaitech/Open-Sora) | Open-Sora: Democratizing Efficient Video Production for All |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
