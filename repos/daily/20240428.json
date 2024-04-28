@@ -11,12 +11,12 @@
         ],
         "currentPeriodStars": 1430,
         "description": "CoreNet: A library for training deep neural networks",
-        "forks": 265,
+        "forks": 269,
         "fullname": "apple/corenet",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "corenet",
-        "stars": 4154,
+        "stars": 4177,
         "url": "https://github.com/apple/corenet"
     },
     {
@@ -51,12 +51,12 @@
         ],
         "currentPeriodStars": 816,
         "description": "Instant voice cloning by MyShell.",
-        "forks": 1744,
+        "forks": 1746,
         "fullname": "myshell-ai/OpenVoice",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "OpenVoice",
-        "stars": 19392,
+        "stars": 19411,
         "url": "https://github.com/myshell-ai/OpenVoice"
     },
     {
@@ -76,7 +76,7 @@
         "language": "SystemVerilog",
         "languageColor": "#DAE1C2",
         "name": "tiny-gpu",
-        "stars": 2172,
+        "stars": 2188,
         "url": "https://github.com/adam-maj/tiny-gpu"
     },
     {
@@ -151,12 +151,12 @@
         ],
         "currentPeriodStars": 191,
         "description": "Open-Sora: Democratizing Efficient Video Production for All",
-        "forks": 1463,
+        "forks": 1465,
         "fullname": "hpcaitech/Open-Sora",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "Open-Sora",
-        "stars": 16032,
+        "stars": 16036,
         "url": "https://github.com/hpcaitech/Open-Sora"
     },
     {
@@ -191,12 +191,12 @@
         ],
         "currentPeriodStars": 440,
         "description": "Toolkit is a collection of prebuilt components enabling users to quickly build and deploy RAG applications.",
-        "forks": 151,
+        "forks": 152,
         "fullname": "cohere-ai/cohere-toolkit",
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "cohere-toolkit",
-        "stars": 1466,
+        "stars": 1471,
         "url": "https://github.com/cohere-ai/cohere-toolkit"
     },
     {
@@ -221,12 +221,12 @@
         ],
         "currentPeriodStars": 133,
         "description": "Vue3 + Pinia + Vite5 \u4eff\u6296\u97f3\uff0cVue \u5728\u79fb\u52a8\u7aef\u7684\u6700\u4f73\u5b9e\u8df5 . Imitate TikTok \uff0cVue Best practices on Mobile",
-        "forks": 1000,
+        "forks": 1002,
         "fullname": "zyronon/douyin",
         "language": "Vue",
         "languageColor": "#41b883",
         "name": "douyin",
-        "stars": 3529,
+        "stars": 3544,
         "url": "https://github.com/zyronon/douyin"
     },
     {
@@ -261,12 +261,12 @@
         ],
         "currentPeriodStars": 2921,
         "description": "The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes",
-        "forks": 3293,
+        "forks": 3299,
         "fullname": "microsoft/MS-DOS",
         "language": "Assembly",
         "languageColor": "#6E4C13",
         "name": "MS-DOS",
-        "stars": 24175,
+        "stars": 24196,
         "url": "https://github.com/microsoft/MS-DOS"
     },
     {
@@ -306,7 +306,7 @@
         "language": "Java",
         "languageColor": "#b07219",
         "name": "Chat2DB",
-        "stars": 12924,
+        "stars": 12927,
         "url": "https://github.com/chat2db/Chat2DB"
     },
     {
@@ -341,12 +341,12 @@
         ],
         "currentPeriodStars": 237,
         "description": "Free, simple, and intuitive online database design tool and SQL generator.",
-        "forks": 463,
+        "forks": 464,
         "fullname": "drawdb-io/drawdb",
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "drawdb",
-        "stars": 7694,
+        "stars": 7704,
         "url": "https://github.com/drawdb-io/drawdb"
     },
     {
@@ -381,12 +381,12 @@
         ],
         "currentPeriodStars": 240,
         "description": "Real-time face swap for PC streaming or video calls",
-        "forks": 3684,
+        "forks": 3686,
         "fullname": "iperov/DeepFaceLive",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "DeepFaceLive",
-        "stars": 22740,
+        "stars": 22749,
         "url": "https://github.com/iperov/DeepFaceLive"
     },
     {
@@ -426,7 +426,7 @@
         "language": "Rust",
         "languageColor": "#dea584",
         "name": "mistral.rs",
-        "stars": 350,
+        "stars": 353,
         "url": "https://github.com/EricLBuehler/mistral.rs"
     },
     {
@@ -461,12 +461,12 @@
         ],
         "currentPeriodStars": 209,
         "description": "\u4e3aGPT/GLM\u7b49LLM\u5927\u8bed\u8a00\u6a21\u578b\u63d0\u4f9b\u5b9e\u7528\u5316\u4ea4\u4e92\u63a5\u53e3\uff0c\u7279\u522b\u4f18\u5316\u8bba\u6587\u9605\u8bfb/\u6da6\u8272/\u5199\u4f5c\u4f53\u9a8c\uff0c\u6a21\u5757\u5316\u8bbe\u8ba1\uff0c\u652f\u6301\u81ea\u5b9a\u4e49\u5feb\u6377\u6309\u94ae&\u51fd\u6570\u63d2\u4ef6\uff0c\u652f\u6301Python\u548cC++\u7b49\u9879\u76ee\u5256\u6790&\u81ea\u8bd1\u89e3\u529f\u80fd\uff0cPDF/LaTex\u8bba\u6587\u7ffb\u8bd1&\u603b\u7ed3\u529f\u80fd\uff0c\u652f\u6301\u5e76\u884c\u95ee\u8be2\u591a\u79cdLLM\u6a21\u578b\uff0c\u652f\u6301chatglm3\u7b49\u672c\u5730\u6a21\u578b\u3002\u63a5\u5165\u901a\u4e49\u5343\u95ee, deepseekcoder, \u8baf\u98de\u661f\u706b, \u6587\u5fc3\u4e00\u8a00, llama2, rwkv, claude2, moss\u7b49\u3002",
-        "forks": 7106,
+        "forks": 7107,
         "fullname": "binary-husky/gpt_academic",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "gpt_academic",
-        "stars": 56297,
+        "stars": 56300,
         "url": "https://github.com/binary-husky/gpt_academic"
     },
     {
@@ -501,12 +501,12 @@
         ],
         "currentPeriodStars": 89,
         "description": "A natural language interface for computers",
-        "forks": 4159,
+        "forks": 4161,
         "fullname": "OpenInterpreter/open-interpreter",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "open-interpreter",
-        "stars": 47987,
+        "stars": 47994,
         "url": "https://github.com/OpenInterpreter/open-interpreter"
     },
     {
@@ -531,12 +531,12 @@
         ],
         "currentPeriodStars": 114,
         "description": "A private blockDAG using Homomorphic Encryption with Smart Contract support",
-        "forks": 45,
+        "forks": 46,
         "fullname": "xelis-project/xelis-blockchain",
         "language": "Rust",
         "languageColor": "#dea584",
         "name": "xelis-blockchain",
-        "stars": 242,
+        "stars": 243,
         "url": "https://github.com/xelis-project/xelis-blockchain"
     },
     {
@@ -571,10 +571,10 @@
         ],
         "currentPeriodStars": 1972,
         "description": "\u30ed\u30b4\u3092\u53ef\u611b\u304f\u4f5c\u308d\u3046\u3000\u7bc0\u5ea6\u3092\u6301\u3063\u3066\u5229\u7528\u3057\u3066\u304f\u3060\u3055\u3044\u306d\ud83e\udee0",
-        "forks": 222,
+        "forks": 223,
         "fullname": "SAWARATSUKI/ServiceLogos",
         "name": "ServiceLogos",
-        "stars": 7952,
+        "stars": 8005,
         "url": "https://github.com/SAWARATSUKI/ServiceLogos"
     },
     {
@@ -609,10 +609,10 @@
         ],
         "currentPeriodStars": 181,
         "description": "\ud83d\udc69\ud83c\udfff\u200d\ud83d\udcbb\ud83d\udc68\ud83c\udffe\u200d\ud83d\udcbb\ud83d\udc69\ud83c\udffc\u200d\ud83d\udcbb\ud83d\udc68\ud83c\udffd\u200d\ud83d\udcbb\ud83d\udc69\ud83c\udffb\u200d\ud83d\udcbb\u4e2d\u56fd\u72ec\u7acb\u5f00\u53d1\u8005\u9879\u76ee\u5217\u8868 -- \u5206\u4eab\u5927\u5bb6\u90fd\u5728\u505a\u4ec0\u4e48",
-        "forks": 2845,
+        "forks": 2846,
         "fullname": "1c7/chinese-independent-developer",
         "name": "chinese-independent-developer",
-        "stars": 33217,
+        "stars": 33239,
         "url": "https://github.com/1c7/chinese-independent-developer"
     },
     {
@@ -647,10 +647,10 @@
         ],
         "currentPeriodStars": 66,
         "description": "\ud83d\udcdd An awesome Data Science repository to learn and apply for real world problems.",
-        "forks": 5740,
+        "forks": 5741,
         "fullname": "academic/awesome-datascience",
         "name": "awesome-datascience",
-        "stars": 23648,
+        "stars": 23651,
         "url": "https://github.com/academic/awesome-datascience"
     },
     {
@@ -690,7 +690,7 @@
         "language": "HTML",
         "languageColor": "#e34c26",
         "name": "Lecture_Notes",
-        "stars": 123,
+        "stars": 125,
         "url": "https://github.com/KingsGambitLab/Lecture_Notes"
     },
     {
@@ -730,7 +730,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "system-design-primer",
-        "stars": 254771,
+        "stars": 254774,
         "url": "https://github.com/donnemartin/system-design-primer"
     },
     {
@@ -770,7 +770,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "Llama-Chinese",
-        "stars": 10966,
+        "stars": 10969,
         "url": "https://github.com/LlamaFamily/Llama-Chinese"
     },
     {
@@ -805,7 +805,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "langfuse",
-        "stars": 3214,
+        "stars": 3216,
         "url": "https://github.com/langfuse/langfuse"
     },
     {
@@ -865,12 +865,12 @@
         ],
         "currentPeriodStars": 34,
         "description": "A library for building fast, reliable and evolvable network services.",
-        "forks": 1041,
+        "forks": 1042,
         "fullname": "cloudflare/pingora",
         "language": "Rust",
         "languageColor": "#dea584",
         "name": "pingora",
-        "stars": 19308,
+        "stars": 19314,
         "url": "https://github.com/cloudflare/pingora"
     },
     {
@@ -885,12 +885,12 @@
         ],
         "currentPeriodStars": 148,
         "description": "IDM-VTON : Improving Diffusion Models for Authentic Virtual Try-on in the Wild",
-        "forks": 91,
+        "forks": 93,
         "fullname": "yisol/IDM-VTON",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "IDM-VTON",
-        "stars": 687,
+        "stars": 693,
         "url": "https://github.com/yisol/IDM-VTON"
     }
 ]
