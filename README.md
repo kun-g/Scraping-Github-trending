@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [corenet](https://github.com/apple/corenet) | CoreNet: A library for training deep neural networks |
-| [ServiceLogos](https://github.com/SAWARATSUKI/ServiceLogos) | ロゴを可愛く作ろう　節度を持って利用してくださいね🫠 |
-| [cohere-toolkit](https://github.com/cohere-ai/cohere-toolkit) | Toolkit is a collection of prebuilt components enabling users to quickly build and deploy RAG applications. |
-| [TagStudio](https://github.com/CyanVoxel/TagStudio) | A file and photo management application and system. |
-| [llamafile](https://github.com/Mozilla-Ocho/llamafile) | Distribute and run LLMs with a single file. |
-| [ChatGPT](https://github.com/PawanOsman/ChatGPT) | OpenAI API Free Reverse Proxy |
-| [zkp-hmac-communication-js](https://github.com/zk-Call/zkp-hmac-communication-js) | "Zero-Knowledge" Proof Implementation with HMAC Communication in JavaScript |
+| [OpenVoice](https://github.com/myshell-ai/OpenVoice) | Instant voice cloning by MyShell. |
+| [tiny-gpu](https://github.com/adam-maj/tiny-gpu) | A minimal GPU design in Verilog to learn how GPUs work from the ground up |
 | [maestro](https://github.com/Doriandarko/maestro) | A framework for Claude Opus to intelligently orchestrate subagents. |
-| [webllama](https://github.com/McGill-NLP/webllama) | Llama-3 agents that can browse the web by following instructions and talking to you |
 | [Open-Sora](https://github.com/hpcaitech/Open-Sora) | Open-Sora: Democratizing Efficient Video Production for All |
+| [cohere-toolkit](https://github.com/cohere-ai/cohere-toolkit) | Toolkit is a collection of prebuilt components enabling users to quickly build and deploy RAG applications. |
+| [douyin](https://github.com/zyronon/douyin) | Vue3 + Pinia + Vite5 仿抖音，Vue 在移动端的最佳实践 . Imitate TikTok ，Vue Best practices on Mobile |
+| [MS-DOS](https://github.com/microsoft/MS-DOS) | The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes |
+| [Chat2DB](https://github.com/chat2db/Chat2DB) | 🔥🔥🔥AI-driven data management platform Over 1 million developers are using Chat2DB |
+| [drawdb](https://github.com/drawdb-io/drawdb) | Free, simple, and intuitive online database design tool and SQL generator. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
