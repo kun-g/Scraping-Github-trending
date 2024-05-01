@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [hydra](https://github.com/hydralauncher/hydra) | Hydra is a game launcher with its own embedded bittorrent client and a self-managed repack scraper. |
 | [douyin](https://github.com/zyronon/douyin) | Vue3 + Pinia + Vite5 仿抖音，Vue 在移动端的最佳实践 . Imitate TikTok ，Vue Best practices on Mobile |
-| [OpenVoice](https://github.com/myshell-ai/OpenVoice) | Instant voice cloning by MyShell. |
-| [MS-DOS](https://github.com/microsoft/MS-DOS) | The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes |
-| [ServiceLogos](https://github.com/SAWARATSUKI/ServiceLogos) | ロゴを可愛く作ろう　節度を持って利用してくださいね🫠 |
-| [corenet](https://github.com/apple/corenet) | CoreNet: A library for training deep neural networks |
+| [Perplexica](https://github.com/ItzCrazyKns/Perplexica) | Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI |
 | [drawdb](https://github.com/drawdb-io/drawdb) | Free, simple, and intuitive online database design tool and SQL generator. |
-| [IDM-VTON](https://github.com/yisol/IDM-VTON) | IDM-VTON : Improving Diffusion Models for Authentic Virtual Try-on in the Wild |
-| [tiny-gpu](https://github.com/adam-maj/tiny-gpu) | A minimal GPU design in Verilog to learn how GPUs work from the ground up |
-| [netprobe_lite](https://github.com/plaintextpackets/netprobe_lite) | Simple internet performance tester written in Python |
-| [xelis-blockchain](https://github.com/xelis-project/xelis-blockchain) | A private blockDAG using Homomorphic Encryption with Smart Contract support |
+| [EasySpider](https://github.com/NaiboWang/EasySpider) | A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。 |
+| [fastapi-tips](https://github.com/Kludex/fastapi-tips) | FastAPI Tips by The FastAPI Expert! |
+| [zkp-hmac-communication-python](https://github.com/zk-Call/zkp-hmac-communication-python) | "Zero-Knowledge" Proof Implementation with HMAC Communication in Python |
+| [OSWorld](https://github.com/xlang-ai/OSWorld) | OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments |
+| [jailbreak-11](https://github.com/obhq/jailbreak-11) | Experimental PS4 jailbreak for 11.00 and lower |
+| [OpenVoice](https://github.com/myshell-ai/OpenVoice) | Instant voice cloning by MyShell. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
