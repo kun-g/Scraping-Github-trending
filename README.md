@@ -15,14 +15,14 @@
 | :----: | :----: |
 | [hydra](https://github.com/hydralauncher/hydra) | Hydra is a game launcher with its own embedded bittorrent client and a self-managed repack scraper. |
 | [douyin](https://github.com/zyronon/douyin) | Vue3 + Pinia + Vite5 仿抖音，Vue 在移动端的最佳实践 . Imitate TikTok ，Vue Best practices on Mobile |
-| [Perplexica](https://github.com/ItzCrazyKns/Perplexica) | Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI |
-| [drawdb](https://github.com/drawdb-io/drawdb) | Free, simple, and intuitive online database design tool and SQL generator. |
-| [EasySpider](https://github.com/NaiboWang/EasySpider) | A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。 |
-| [fastapi-tips](https://github.com/Kludex/fastapi-tips) | FastAPI Tips by The FastAPI Expert! |
-| [zkp-hmac-communication-python](https://github.com/zk-Call/zkp-hmac-communication-python) | "Zero-Knowledge" Proof Implementation with HMAC Communication in Python |
-| [OSWorld](https://github.com/xlang-ai/OSWorld) | OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments |
-| [jailbreak-11](https://github.com/obhq/jailbreak-11) | Experimental PS4 jailbreak for 11.00 and lower |
-| [OpenVoice](https://github.com/myshell-ai/OpenVoice) | Instant voice cloning by MyShell. |
+| [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | 💯 Curated coding interview preparation materials for busy software engineers |
+| [fullstackweek-foods](https://github.com/felipemotarocha/fullstackweek-foods) |  |
+| [first-game-in-godot](https://github.com/Brackeys/first-game-in-godot) | Project files for our video on making your first game in Godot. |
+| [lapce](https://github.com/lapce/lapce) | Lightning-fast and Powerful Code Editor written in Rust |
+| [lobe-chat](https://github.com/lobehub/lobe-chat) | 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application. |
+| [tiny-gpu](https://github.com/adam-maj/tiny-gpu) | A minimal GPU design in Verilog to learn how GPUs work from the ground up |
+| [Fika-Documentation](https://github.com/project-fika/Fika-Documentation) |  |
+| [hurl](https://github.com/Orange-OpenSource/hurl) | Hurl, run and test HTTP requests with plain text. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
