@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [GlaDOS](https://github.com/dnhkng/GlaDOS) | Personality Core |
+| [pykan](https://github.com/KindXiaoming/pykan) | Kolmogorov Arnold Networks |
 | [PPPwn](https://github.com/TheOfficialFloW/PPPwn) | PPPwn - PlayStation 4 PPPoE RCE |
-| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
 | [fastfetch](https://github.com/fastfetch-cli/fastfetch) | Like neofetch, but much faster because written mostly in C. |
+| [GlaDOS](https://github.com/dnhkng/GlaDOS) | This is the Personality Core for GLaDOS, the first steps towards a real-life implementation of the AI from the Portal series by Valve. |
+| [espeak-ng](https://github.com/espeak-ng/espeak-ng) | eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents. |
+| [swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) | A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind. |
 | [hydra](https://github.com/hydralauncher/hydra) | Hydra is a game launcher with its own embedded bittorrent client and a self-managed repack scraper. |
-| [tracecat](https://github.com/TracecatHQ/tracecat) | 😼 The open source alternative to Tines / Splunk SOAR. Build AI-assisted workflows, orchestrate alerts, and close cases fast. |
-| [coolify](https://github.com/coollabsio/coolify) | An open-source & self-hostable Heroku / Netlify / Vercel alternative. |
 | [neofetch](https://github.com/dylanaraps/neofetch) | 🖼️ A command-line system information tool written in bash 3.2+ |
-| [Perplexica](https://github.com/ItzCrazyKns/Perplexica) | Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI |
-| [hurl](https://github.com/Orange-OpenSource/hurl) | Hurl, run and test HTTP requests with plain text. |
+| [FourierKAN](https://github.com/GistNoesis/FourierKAN) |  |
+| [MemGPT](https://github.com/cpacker/MemGPT) | Create LLM agents with long-term memory and custom tools 📚🦙 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
