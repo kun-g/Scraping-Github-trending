@@ -29,16 +29,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [llama3](https://github.com/meta-llama/llama3) | The official Meta Llama 3 GitHub site |
-| [chess](https://github.com/code100x/chess) | A multiplayer chess platform |
-| [ollama](https://github.com/ollama/ollama) | Get up and running with Llama 3, Mistral, Gemma, and other large language models. |
-| [open-webui](https://github.com/open-webui/open-webui) | User-friendly WebUI for LLMs (Formerly Ollama WebUI) |
-| [unsloth](https://github.com/unslothai/unsloth) | Finetune Llama 3, Mistral & Gemma LLMs 2-5x faster with 80% less memory |
-| [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) | Unify Efficient Fine-Tuning of 100+ LLMs |
+| [MS-DOS](https://github.com/microsoft/MS-DOS) | The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes |
 | [OpenVoice](https://github.com/myshell-ai/OpenVoice) | Instant voice cloning by MyShell. |
-| [codellama](https://github.com/meta-llama/codellama) | Inference code for CodeLlama models |
-| [dify](https://github.com/langgenius/dify) | Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. |
-| [llama-recipes](https://github.com/meta-llama/llama-recipes) | Scripts for fine-tuning Meta Llama3 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment. Demo apps to showcase Meta Llama3 for WhatsApp & Messenger. |
+| [tiny-gpu](https://github.com/adam-maj/tiny-gpu) | A minimal GPU design in Verilog to learn how GPUs work from the ground up |
+| [corenet](https://github.com/apple/corenet) | CoreNet: A library for training deep neural networks |
+| [douyin](https://github.com/zyronon/douyin) | Vue3 + Pinia + Vite5 仿抖音，Vue 在移动端的最佳实践 . Imitate TikTok ，Vue Best practices on Mobile |
+| [IDM-VTON](https://github.com/yisol/IDM-VTON) | IDM-VTON : Improving Diffusion Models for Authentic Virtual Try-on in the Wild |
+| [TagStudio](https://github.com/TagStudioDev/TagStudio) | A file and photo management application and system. |
+| [tracecat](https://github.com/TracecatHQ/tracecat) | 😼 The open source alternative to Tines / Splunk SOAR. Build AI-assisted workflows, orchestrate alerts, and close cases fast. |
+| [lapce](https://github.com/lapce/lapce) | Lightning-fast and Powerful Code Editor written in Rust |
+| [cohere-toolkit](https://github.com/cohere-ai/cohere-toolkit) | Toolkit is a collection of prebuilt components enabling users to quickly build and deploy RAG applications. |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
