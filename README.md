@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [pykan](https://github.com/KindXiaoming/pykan) | Kolmogorov Arnold Networks |
-| [PPPwn](https://github.com/TheOfficialFloW/PPPwn) | PPPwn - PlayStation 4 PPPoE RCE |
 | [fastfetch](https://github.com/fastfetch-cli/fastfetch) | Like neofetch, but much faster because written mostly in C. |
-| [GlaDOS](https://github.com/dnhkng/GlaDOS) | This is the Personality Core for GLaDOS, the first steps towards a real-life implementation of the AI from the Portal series by Valve. |
-| [espeak-ng](https://github.com/espeak-ng/espeak-ng) | eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents. |
-| [swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) | A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind. |
-| [hydra](https://github.com/hydralauncher/hydra) | Hydra is a game launcher with its own embedded bittorrent client and a self-managed repack scraper. |
+| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
 | [neofetch](https://github.com/dylanaraps/neofetch) | 🖼️ A command-line system information tool written in bash 3.2+ |
-| [FourierKAN](https://github.com/GistNoesis/FourierKAN) |  |
-| [MemGPT](https://github.com/cpacker/MemGPT) | Create LLM agents with long-term memory and custom tools 📚🦙 |
+| [coolify](https://github.com/coollabsio/coolify) | An open-source & self-hostable Heroku / Netlify / Vercel alternative. |
+| [react-spectrum](https://github.com/adobe/react-spectrum) | A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences. |
+| [GlaDOS](https://github.com/dnhkng/GlaDOS) | This is the Personality Core for GLaDOS, the first steps towards a real-life implementation of the AI from the Portal series by Valve. |
+| [banking](https://github.com/adrianhajdin/banking) | Horizon is a modern banking platform for everyone. |
+| [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | #1 Locally hosted web application that allows you to perform various operations on PDF files |
+| [CCTV](https://github.com/IvanGlinkin/CCTV) | Close-Circuit Telegram Vision revolutionizes location tracking with its open-source design and Telegram API integration. Offering precise tracking within 50-100 meters, users can monitor others in real-time for logistics or safety, redefining how we navigate our surroundings |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
