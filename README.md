@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [pykan](https://github.com/KindXiaoming/pykan) | Kolmogorov Arnold Networks |
-| [OFGB](https://github.com/xM4ddy/OFGB) | GUI Tool To Removes Ads From Various Places Around Windows 11 |
+| [openui](https://github.com/wandb/openui) | OpenUI let's you describe UI using your imagination, then see it rendered live. |
+| [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections. |
+| [StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion) | Create Magic Story! |
+| [reor](https://github.com/reorproject/reor) | Private & local AI personal knowledge management app. |
 | [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | Implementing a ChatGPT-like LLM from scratch, step by step |
-| [CCTV](https://github.com/IvanGlinkin/CCTV) | Close-Circuit Telegram Vision revolutionizes location tracking with its open-source design and Telegram API integration. Offering precise tracking within 50-100 meters, users can monitor others in real-time for logistics or safety, redefining how we navigate our surroundings |
-| [llm.c](https://github.com/karpathy/llm.c) | LLM training in simple, raw C/CUDA |
-| [efficient-kan](https://github.com/Blealtan/efficient-kan) | An efficient pure-PyTorch implementation of Kolmogorov-Arnold Network (KAN). |
-| [lms](https://github.com/lmstudio-ai/lms) | LM Studio in your terminal |
-| [solana](https://github.com/solana-labs/solana) | Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces. |
-| [fastfetch](https://github.com/fastfetch-cli/fastfetch) | Like neofetch, but much faster because written mostly in C. |
-| [logfire](https://github.com/pydantic/logfire) | Uncomplicated Observability for Python and beyond! 🪵🔥 |
+| [remix-saas](https://github.com/dev-xo/remix-saas) | A Lightweight, Production-Ready Remix Stack for your next SaaS Application. |
+| [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. |
+| [secret-llama](https://github.com/abi/secret-llama) | Fully private LLM chatbot that runs entirely with a browser with no server needed. Supports Mistral and LLama 3. |
+| [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | #1 Locally hosted web application that allows you to perform various operations on PDF files |
+| [OFGB](https://github.com/xM4ddy/OFGB) | GUI Tool To Removes Ads From Various Places Around Windows 11 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
