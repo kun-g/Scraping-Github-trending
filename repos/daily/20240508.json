@@ -36,7 +36,7 @@
         "language": "Batchfile",
         "languageColor": "#C1F12E",
         "name": "Microsoft-Activation-Scripts",
-        "stars": 76683,
+        "stars": 76705,
         "url": "https://github.com/massgravel/Microsoft-Activation-Scripts"
     },
     {
@@ -56,7 +56,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "efficient-kan",
-        "stars": 1189,
+        "stars": 1205,
         "url": "https://github.com/Blealtan/efficient-kan"
     },
     {
@@ -74,11 +74,6 @@
                 "username": "zhoudaquan"
             },
             {
-                "avatar": "https://avatars.githubusercontent.com/u/32764782",
-                "href": "https://github.com/cryptowooser",
-                "username": "cryptowooser"
-            },
-            {
                 "avatar": "https://avatars.githubusercontent.com/u/70536672",
                 "href": "https://github.com/chenxwh",
                 "username": "chenxwh"
@@ -87,6 +82,11 @@
                 "avatar": "https://avatars.githubusercontent.com/u/75600543",
                 "href": "https://github.com/bearstonem",
                 "username": "bearstonem"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/14296819",
+                "href": "https://github.com/houqb",
+                "username": "houqb"
             }
         ],
         "currentPeriodStars": 653,
@@ -96,7 +96,7 @@
         "language": "Jupyter Notebook",
         "languageColor": "#DA5B0B",
         "name": "StoryDiffusion",
-        "stars": 2161,
+        "stars": 2171,
         "url": "https://github.com/HVision-NKU/StoryDiffusion"
     },
     {
@@ -126,12 +126,12 @@
         ],
         "currentPeriodStars": 2244,
         "description": "OpenUI let's you describe UI using your imagination, then see it rendered live.",
-        "forks": 848,
+        "forks": 849,
         "fullname": "wandb/openui",
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "openui",
-        "stars": 10458,
+        "stars": 10474,
         "url": "https://github.com/wandb/openui"
     },
     {
@@ -146,12 +146,12 @@
         ],
         "currentPeriodStars": 124,
         "description": "https://map.sistilli.dev/public/coding/SaaS+Boilerplate",
-        "forks": 41,
+        "forks": 42,
         "fullname": "AtotheY/saas-landingpage",
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "saas-landingpage",
-        "stars": 349,
+        "stars": 350,
         "url": "https://github.com/AtotheY/saas-landingpage"
     },
     {
@@ -186,12 +186,12 @@
         ],
         "currentPeriodStars": 397,
         "description": "Python scraper based on AI",
-        "forks": 198,
+        "forks": 203,
         "fullname": "VinciGit00/Scrapegraph-ai",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "Scrapegraph-ai",
-        "stars": 2567,
+        "stars": 2597,
         "url": "https://github.com/VinciGit00/Scrapegraph-ai"
     },
     {
@@ -226,12 +226,12 @@
         ],
         "currentPeriodStars": 383,
         "description": "Implementing a ChatGPT-like LLM from scratch, step by step",
-        "forks": 1409,
+        "forks": 1410,
         "fullname": "rasbt/LLMs-from-scratch",
         "language": "Jupyter Notebook",
         "languageColor": "#DA5B0B",
         "name": "LLMs-from-scratch",
-        "stars": 15580,
+        "stars": 15585,
         "url": "https://github.com/rasbt/LLMs-from-scratch"
     },
     {
@@ -266,7 +266,7 @@
         "language": "Java",
         "languageColor": "#b07219",
         "name": "Stirling-PDF",
-        "stars": 24704,
+        "stars": 24707,
         "url": "https://github.com/Stirling-Tools/Stirling-PDF"
     },
     {
@@ -286,7 +286,7 @@
         "language": "C#",
         "languageColor": "#178600",
         "name": "OFGB",
-        "stars": 3848,
+        "stars": 3854,
         "url": "https://github.com/xM4ddy/OFGB"
     },
     {
@@ -321,7 +321,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "gpt-researcher",
-        "stars": 9103,
+        "stars": 9108,
         "url": "https://github.com/assafelovic/gpt-researcher"
     },
     {
@@ -351,12 +351,12 @@
         ],
         "currentPeriodStars": 298,
         "description": "Windows in a Docker container.",
-        "forks": 1042,
+        "forks": 1043,
         "fullname": "dockur/windows",
         "language": "Shell",
         "languageColor": "#89e051",
         "name": "windows",
-        "stars": 13685,
+        "stars": 13691,
         "url": "https://github.com/dockur/windows"
     },
     {
@@ -391,12 +391,12 @@
         ],
         "currentPeriodStars": 163,
         "description": "Memory, knowledge and tools for LLMs",
-        "forks": 740,
+        "forks": 741,
         "fullname": "phidatahq/phidata",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "phidata",
-        "stars": 5466,
+        "stars": 5467,
         "url": "https://github.com/phidatahq/phidata"
     },
     {
@@ -431,12 +431,12 @@
         ],
         "currentPeriodStars": 788,
         "description": "Kolmogorov Arnold Networks",
-        "forks": 660,
+        "forks": 661,
         "fullname": "KindXiaoming/pykan",
         "language": "Jupyter Notebook",
         "languageColor": "#DA5B0B",
         "name": "pykan",
-        "stars": 8732,
+        "stars": 8737,
         "url": "https://github.com/KindXiaoming/pykan"
     },
     {
@@ -466,7 +466,7 @@
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "boss-show-time",
-        "stars": 368,
+        "stars": 369,
         "url": "https://github.com/tangzhiyao/boss-show-time"
     },
     {
@@ -506,7 +506,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "logfire",
-        "stars": 1115,
+        "stars": 1117,
         "url": "https://github.com/pydantic/logfire"
     },
     {
@@ -541,12 +541,12 @@
         ],
         "currentPeriodStars": 131,
         "description": "\ud83d\udd2e ChatGPT Desktop Application (Mac, Windows and Linux)",
-        "forks": 5424,
+        "forks": 5425,
         "fullname": "lencx/ChatGPT",
         "language": "Rust",
         "languageColor": "#dea584",
         "name": "ChatGPT",
-        "stars": 47196,
+        "stars": 47200,
         "url": "https://github.com/lencx/ChatGPT"
     },
     {
@@ -586,7 +586,7 @@
         "language": "Java",
         "languageColor": "#b07219",
         "name": "dolphinscheduler",
-        "stars": 12101,
+        "stars": 12103,
         "url": "https://github.com/apache/dolphinscheduler"
     },
     {
@@ -644,7 +644,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "openpilot",
-        "stars": 47807,
+        "stars": 47812,
         "url": "https://github.com/commaai/openpilot"
     },
     {
@@ -682,7 +682,7 @@
         "forks": 24703,
         "fullname": "codecrafters-io/build-your-own-x",
         "name": "build-your-own-x",
-        "stars": 260574,
+        "stars": 260580,
         "url": "https://github.com/codecrafters-io/build-your-own-x"
     },
     {
@@ -717,7 +717,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "renovate",
-        "stars": 15947,
+        "stars": 15951,
         "url": "https://github.com/renovatebot/renovate"
     },
     {
@@ -742,10 +742,10 @@
         ],
         "currentPeriodStars": 316,
         "description": "LLM Zoomcamp - a free online course about building an AI bot that can answer questions about your knowledge base",
-        "forks": 52,
+        "forks": 53,
         "fullname": "DataTalksClub/llm-zoomcamp",
         "name": "llm-zoomcamp",
-        "stars": 812,
+        "stars": 813,
         "url": "https://github.com/DataTalksClub/llm-zoomcamp"
     },
     {
@@ -780,12 +780,12 @@
         ],
         "currentPeriodStars": 91,
         "description": "A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). \u4e00\u952e\u62e5\u6709\u4f60\u81ea\u5df1\u7684\u8de8\u5e73\u53f0 ChatGPT/Gemini \u5e94\u7528\u3002",
-        "forks": 55465,
+        "forks": 55466,
         "fullname": "ChatGPTNextWeb/ChatGPT-Next-Web",
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "ChatGPT-Next-Web",
-        "stars": 68677,
+        "stars": 68679,
         "url": "https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web"
     },
     {
@@ -825,7 +825,7 @@
         "language": "Swift",
         "languageColor": "#F05138",
         "name": "lottie-ios",
-        "stars": 25193,
+        "stars": 25194,
         "url": "https://github.com/airbnb/lottie-ios"
     },
     {
