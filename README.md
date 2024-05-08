@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [openui](https://github.com/wandb/openui) | OpenUI let's you describe UI using your imagination, then see it rendered live. |
 | [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections. |
+| [efficient-kan](https://github.com/Blealtan/efficient-kan) | An efficient pure-PyTorch implementation of Kolmogorov-Arnold Network (KAN). |
 | [StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion) | Create Magic Story! |
-| [reor](https://github.com/reorproject/reor) | Private & local AI personal knowledge management app. |
+| [openui](https://github.com/wandb/openui) | OpenUI let's you describe UI using your imagination, then see it rendered live. |
+| [saas-landingpage](https://github.com/AtotheY/saas-landingpage) | https://map.sistilli.dev/public/coding/SaaS+Boilerplate |
+| [Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) | Python scraper based on AI |
 | [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | Implementing a ChatGPT-like LLM from scratch, step by step |
-| [remix-saas](https://github.com/dev-xo/remix-saas) | A Lightweight, Production-Ready Remix Stack for your next SaaS Application. |
-| [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. |
-| [secret-llama](https://github.com/abi/secret-llama) | Fully private LLM chatbot that runs entirely with a browser with no server needed. Supports Mistral and LLama 3. |
 | [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | #1 Locally hosted web application that allows you to perform various operations on PDF files |
 | [OFGB](https://github.com/xM4ddy/OFGB) | GUI Tool To Removes Ads From Various Places Around Windows 11 |
+| [gpt-researcher](https://github.com/assafelovic/gpt-researcher) | GPT based autonomous agent that does online comprehensive research on any given topic |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
