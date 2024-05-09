@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections. |
-| [efficient-kan](https://github.com/Blealtan/efficient-kan) | An efficient pure-PyTorch implementation of Kolmogorov-Arnold Network (KAN). |
+| [lerobot](https://github.com/huggingface/lerobot) | 🤗 LeRobot: State-of-the-art Machine Learning for Real-World Robotics in Pytorch |
 | [StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion) | Create Magic Story! |
+| [ant](https://github.com/ejoy/ant) | Ant game engine |
+| [2d-gaussian-splatting](https://github.com/hbb1/2d-gaussian-splatting) | [SIGGRAPH'24] 2D Gaussian Splatting for Geometrically Accurate Radiance Fields |
 | [openui](https://github.com/wandb/openui) | OpenUI let's you describe UI using your imagination, then see it rendered live. |
-| [saas-landingpage](https://github.com/AtotheY/saas-landingpage) | https://map.sistilli.dev/public/coding/SaaS+Boilerplate |
-| [Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) | Python scraper based on AI |
-| [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | Implementing a ChatGPT-like LLM from scratch, step by step |
-| [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | #1 Locally hosted web application that allows you to perform various operations on PDF files |
-| [OFGB](https://github.com/xM4ddy/OFGB) | GUI Tool To Removes Ads From Various Places Around Windows 11 |
+| [dify](https://github.com/langgenius/dify) | Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. |
+| [skyvern](https://github.com/Skyvern-AI/skyvern) | Automate browser-based workflows with LLMs and Computer Vision |
 | [gpt-researcher](https://github.com/assafelovic/gpt-researcher) | GPT based autonomous agent that does online comprehensive research on any given topic |
+| [NewJob](https://github.com/IcarusRyy/NewJob) | 一眼看出该职位最后修改时间，绿色为2周之内，暗橙色为1.5个月之内，红色为1.5个月以上 |
+| [spdlog](https://github.com/gabime/spdlog) | Fast C++ logging library. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
