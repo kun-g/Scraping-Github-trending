@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [it-tools](https://github.com/CorentinTh/it-tools) | Collection of handy online tools for developers, with great UX. |
+| [IC-Light](https://github.com/lllyasviel/IC-Light) | More relighting! |
+| [june](https://github.com/sophiajt/june) |  |
 | [Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) | Python scraper based on AI |
-| [AFFiNE](https://github.com/toeverything/AFFiNE) | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. |
-| [CCTV](https://github.com/IvanGlinkin/CCTV) | Close-Circuit Telegram Vision revolutionizes location tracking with its open-source design and Telegram API integration. Offering precise tracking within 50-100 meters, users can monitor others in real-time for logistics or safety, redefining how we navigate our surroundings |
-| [skyvern](https://github.com/Skyvern-AI/skyvern) | Automate browser-based workflows with LLMs and Computer Vision |
+| [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
+| [KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos) |  |
+| [pywinassistant](https://github.com/a-real-ai/pywinassistant) | The first open source Large Action Model generalist Artificial Narrow Intelligence that controls completely human user interfaces by only using natural language. PyWinAssistant utilizes Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models. |
 | [lerobot](https://github.com/huggingface/lerobot) | 🤗 LeRobot: State-of-the-art Machine Learning for Real-World Robotics in Pytorch |
-| [ant](https://github.com/ejoy/ant) | Ant game engine |
-| [OpenDevin](https://github.com/OpenDevin/OpenDevin) | 🐚 OpenDevin: Code Less, Make More |
-| [rustdesk](https://github.com/rustdesk/rustdesk) | An open-source remote desktop, and alternative to TeamViewer. |
-| [pokerogue](https://github.com/pagefaultgames/pokerogue) |  |
-| [saas-landingpage](https://github.com/AtotheY/saas-landingpage) | https://map.sistilli.dev/public/coding/SaaS+Boilerplate |
+| [SharedSolutions](https://github.com/CodingChallengesFYI/SharedSolutions) | Publicly shared solutions to Coding Challenges |
+| [Lecture_Notes](https://github.com/KingsGambitLab/Lecture_Notes) | This repository is there to store the combined lecture notes of all the lectures. We are using markdown to write the lecture notes. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
