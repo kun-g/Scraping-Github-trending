@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [it-tools](https://github.com/CorentinTh/it-tools) | Collection of handy online tools for developers, with great UX. |
+| [hydra](https://github.com/hydralauncher/hydra) | Hydra is a game launcher with its own embedded bittorrent client and a self-managed repack scraper. |
+| [backend](https://github.com/SOS-RS/backend) | Auxílio RS: Projetos de Resposta a Emergências por Chuvas e Alagamentos |
 | [IC-Light](https://github.com/lllyasviel/IC-Light) | More relighting! |
-| [june](https://github.com/sophiajt/june) |  |
-| [Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) | Python scraper based on AI |
-| [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
 | [KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos) |  |
-| [pywinassistant](https://github.com/a-real-ai/pywinassistant) | The first open source Large Action Model generalist Artificial Narrow Intelligence that controls completely human user interfaces by only using natural language. PyWinAssistant utilizes Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models. |
-| [lerobot](https://github.com/huggingface/lerobot) | 🤗 LeRobot: State-of-the-art Machine Learning for Real-World Robotics in Pytorch |
-| [SharedSolutions](https://github.com/CodingChallengesFYI/SharedSolutions) | Publicly shared solutions to Coding Challenges |
-| [Lecture_Notes](https://github.com/KingsGambitLab/Lecture_Notes) | This repository is there to store the combined lecture notes of all the lectures. We are using markdown to write the lecture notes. |
+| [it-tools](https://github.com/CorentinTh/it-tools) | Collection of handy online tools for developers, with great UX. |
+| [WeChatMsg](https://github.com/LC044/WeChatMsg) | 提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手 |
+| [june](https://github.com/sophiajt/june) |  |
+| [AFFiNE](https://github.com/toeverything/AFFiNE) | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. |
+| [CoinMarketCap-Trending](https://github.com/w3laba/CoinMarketCap-Trending) | CoinMarketCap (CMC) Trending | CMC, Coingecko, Dexscreener, Dextools Trending services |
+| [frontend](https://github.com/SOS-RS/frontend) |  |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
