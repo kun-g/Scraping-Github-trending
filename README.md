@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [hydra](https://github.com/hydralauncher/hydra) | Hydra is a game launcher with its own embedded bittorrent client and a self-managed repack scraper. |
-| [backend](https://github.com/SOS-RS/backend) | Auxílio RS: Projetos de Resposta a Emergências por Chuvas e Alagamentos |
-| [IC-Light](https://github.com/lllyasviel/IC-Light) | More relighting! |
-| [KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos) |  |
 | [it-tools](https://github.com/CorentinTh/it-tools) | Collection of handy online tools for developers, with great UX. |
-| [WeChatMsg](https://github.com/LC044/WeChatMsg) | 提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手 |
-| [june](https://github.com/sophiajt/june) |  |
-| [AFFiNE](https://github.com/toeverything/AFFiNE) | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. |
-| [CoinMarketCap-Trending](https://github.com/w3laba/CoinMarketCap-Trending) | CoinMarketCap (CMC) Trending | CMC, Coingecko, Dexscreener, Dextools Trending services |
+| [AutoGroq](https://github.com/jgravelle/AutoGroq) |  |
+| [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
+| [gemma-2B-10M](https://github.com/mustafaaljadery/gemma-2B-10M) | Gemma 2B with 10M context length using Infini-attention. |
 | [frontend](https://github.com/SOS-RS/frontend) |  |
+| [ui](https://github.com/atherosai/ui) | Simple UI examples from my social media |
+| [open-webui](https://github.com/open-webui/open-webui) | User-friendly WebUI for LLMs (Formerly Ollama WebUI) |
+| [bisheng](https://github.com/dataelement/bisheng) | Bisheng is an open LLM devops platform for next generation AI applications. |
+| [WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) | 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
