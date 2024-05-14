@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [N64Recomp](https://github.com/Mr-Wiseguy/N64Recomp) | Tool to statically recompile N64 games into native executables |
+| [Zelda64Recomp](https://github.com/Mr-Wiseguy/Zelda64Recomp) | Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux) |
 | [hydra](https://github.com/hydralauncher/hydra) | Hydra is a game launcher with its own embedded bittorrent client and a self-managed repack scraper. |
-| [it-tools](https://github.com/CorentinTh/it-tools) | Collection of handy online tools for developers, with great UX. |
-| [AutoGroq](https://github.com/jgravelle/AutoGroq) |  |
-| [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
-| [gemma-2B-10M](https://github.com/mustafaaljadery/gemma-2B-10M) | Gemma 2B with 10M context length using Infini-attention. |
-| [frontend](https://github.com/SOS-RS/frontend) |  |
-| [ui](https://github.com/atherosai/ui) | Simple UI examples from my social media |
+| [rt64](https://github.com/rt64/rt64) | RT64 is an N64 graphics renderer for playing with enhancements in emulators and native ports. |
+| [glance](https://github.com/glanceapp/glance) | A self-hosted dashboard that puts all your feeds in one place |
 | [open-webui](https://github.com/open-webui/open-webui) | User-friendly WebUI for LLMs (Formerly Ollama WebUI) |
-| [bisheng](https://github.com/dataelement/bisheng) | Bisheng is an open LLM devops platform for next generation AI applications. |
-| [WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) | 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic. |
+| [gemma-2B-10M](https://github.com/mustafaaljadery/gemma-2B-10M) | Gemma 2B with 10M context length using Infini-attention. |
+| [it-tools](https://github.com/CorentinTh/it-tools) | Collection of handy online tools for developers, with great UX. |
+| [ui](https://github.com/atherosai/ui) | Simple UI examples from my social media |
+| [AutoGroq](https://github.com/jgravelle/AutoGroq) |  |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
