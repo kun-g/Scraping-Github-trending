@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [nocobase](https://github.com/nocobase/nocobase) | NocoBase is a scalability-first, open-source no-code/low-code platform for building business applications and enterprise solutions. |
 | [ChatGPT](https://github.com/lencx/ChatGPT) | 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) |
-| [bilibot](https://github.com/linyiLYi/bilibot) | A local chatbot fine-tuned by bilibili user comments. |
-| [cookbook](https://github.com/google-gemini/cookbook) | A collection of guides and examples for the Gemini API. |
-| [hackbat](https://github.com/controlpaths/hackbat) | Hackbat repository |
-| [glance](https://github.com/glanceapp/glance) | A self-hosted dashboard that puts all your feeds in one place |
-| [piko](https://github.com/andydunstall/piko) | An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes) |
-| [HunyuanDiT](https://github.com/Tencent/HunyuanDiT) | Hunyuan-DiT : A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding |
-| [N64Recomp](https://github.com/Mr-Wiseguy/N64Recomp) | Tool to statically recompile N64 games into native executables |
-| [kotlin-multiplatform-samples](https://github.com/android/kotlin-multiplatform-samples) | Samples showcasing the experimental Kotlin Multiplatform Jetpack libraries |
+| [bulletproof-react](https://github.com/alan2207/bulletproof-react) | 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications. |
+| [nocobase](https://github.com/nocobase/nocobase) | NocoBase is a scalability-first, open-source no-code/low-code platform for building business applications and enterprise solutions. |
+| [screenshot-to-code](https://github.com/abi/screenshot-to-code) | Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue) |
+| [GlaDOS](https://github.com/dnhkng/GlaDOS) | This is the Personality Core for GLaDOS, the first steps towards a real-life implementation of the AI from the Portal series by Valve. |
+| [llama3.np](https://github.com/likejazz/llama3.np) | llama3.np is pure NumPy implementation for Llama 3 model. |
+| [phidata](https://github.com/phidatahq/phidata) | Build AI Assistants with memory, knowledge and tools. |
+| [Mario-Kart-3.js](https://github.com/Lunakepio/Mario-Kart-3.js) |  |
+| [InternVL](https://github.com/OpenGVLab/InternVL) | [CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative to GPT-4V. 接近GPT-4V表现的可商用开源多模态对话模型 |
+| [react-router](https://github.com/remix-run/react-router) | Declarative routing for React |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
