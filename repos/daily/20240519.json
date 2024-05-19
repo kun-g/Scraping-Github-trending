@@ -14,11 +14,6 @@
                 "username": "kings177"
             },
             {
-                "avatar": "https://avatars.githubusercontent.com/u/4893601",
-                "href": "https://github.com/developedby",
-                "username": "developedby"
-            },
-            {
                 "avatar": "https://avatars.githubusercontent.com/u/5505315",
                 "href": "https://github.com/enricozb",
                 "username": "enricozb"
@@ -27,6 +22,11 @@
                 "avatar": "https://avatars.githubusercontent.com/u/30930225",
                 "href": "https://github.com/edusporto",
                 "username": "edusporto"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/32969880",
+                "href": "https://github.com/sukrucildirr",
+                "username": "sukrucildirr"
             }
         ],
         "currentPeriodStars": 651,
@@ -36,7 +36,7 @@
         "language": "Cuda",
         "languageColor": "#3A4E3A",
         "name": "HVM",
-        "stars": 8458,
+        "stars": 8476,
         "url": "https://github.com/HigherOrderCO/HVM"
     },
     {
@@ -71,12 +71,12 @@
         ],
         "currentPeriodStars": 830,
         "description": "\ud83d\udd2e ChatGPT Desktop Application (Mac, Windows and Linux)",
-        "forks": 5601,
+        "forks": 5602,
         "fullname": "lencx/ChatGPT",
         "language": "Rust",
         "languageColor": "#dea584",
         "name": "ChatGPT",
-        "stars": 49813,
+        "stars": 49816,
         "url": "https://github.com/lencx/ChatGPT"
     },
     {
@@ -116,7 +116,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "nocobase",
-        "stars": 8613,
+        "stars": 8615,
         "url": "https://github.com/nocobase/nocobase"
     },
     {
@@ -176,7 +176,7 @@
         "language": "Vim Script",
         "languageColor": "#199f4b",
         "name": "neovim",
-        "stars": 77283,
+        "stars": 77285,
         "url": "https://github.com/neovim/neovim"
     },
     {
@@ -211,12 +211,12 @@
         ],
         "currentPeriodStars": 4583,
         "description": "A massively parallel, high-level programming language",
-        "forks": 140,
+        "forks": 141,
         "fullname": "HigherOrderCO/Bend",
         "language": "Rust",
         "languageColor": "#dea584",
         "name": "Bend",
-        "stars": 6544,
+        "stars": 6567,
         "url": "https://github.com/HigherOrderCO/Bend"
     },
     {
@@ -256,7 +256,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "react-conf-app",
-        "stars": 429,
+        "stars": 430,
         "url": "https://github.com/expo/react-conf-app"
     },
     {
@@ -296,7 +296,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "firecrawl",
-        "stars": 3179,
+        "stars": 3183,
         "url": "https://github.com/mendableai/firecrawl"
     },
     {
@@ -336,7 +336,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "chatgpt-on-wechat",
-        "stars": 25823,
+        "stars": 25824,
         "url": "https://github.com/zhayujie/chatgpt-on-wechat"
     },
     {
@@ -371,7 +371,7 @@
         "language": "Lua",
         "languageColor": "#000080",
         "name": "LazyVim",
-        "stars": 13263,
+        "stars": 13266,
         "url": "https://github.com/LazyVim/LazyVim"
     },
     {
@@ -431,7 +431,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "NGCBot",
-        "stars": 910,
+        "stars": 912,
         "url": "https://github.com/ngc660sec/NGCBot"
     },
     {
@@ -466,7 +466,7 @@
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "planka",
-        "stars": 6688,
+        "stars": 6691,
         "url": "https://github.com/plankanban/planka"
     },
     {
@@ -544,7 +544,7 @@
         "forks": 124,
         "fullname": "LayerZero-Labs/sybil-report",
         "name": "sybil-report",
-        "stars": 169,
+        "stars": 170,
         "url": "https://github.com/LayerZero-Labs/sybil-report"
     },
     {
@@ -584,7 +584,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "VILA",
-        "stars": 691,
+        "stars": 692,
         "url": "https://github.com/Efficient-Large-Model/VILA"
     },
     {
@@ -624,7 +624,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "maestro",
-        "stars": 1828,
+        "stars": 1829,
         "url": "https://github.com/Doriandarko/maestro"
     },
     {
@@ -704,7 +704,7 @@
         "language": "Shell",
         "languageColor": "#89e051",
         "name": "docker-selenium",
-        "stars": 7527,
+        "stars": 7533,
         "url": "https://github.com/SeleniumHQ/docker-selenium"
     },
     {
@@ -739,7 +739,7 @@
         ],
         "currentPeriodStars": 51,
         "description": "A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.",
-        "forks": 75,
+        "forks": 76,
         "fullname": "mintisan/awesome-kan",
         "name": "awesome-kan",
         "stars": 729,
@@ -762,7 +762,7 @@
         "language": "Lua",
         "languageColor": "#000080",
         "name": "config.nvim",
-        "stars": 170,
+        "stars": 171,
         "url": "https://github.com/tjdevries/config.nvim"
     },
     {
@@ -802,7 +802,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "fabric",
-        "stars": 10144,
+        "stars": 10148,
         "url": "https://github.com/danielmiessler/fabric"
     },
     {
@@ -837,7 +837,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "lobe-chat",
-        "stars": 31212,
+        "stars": 31216,
         "url": "https://github.com/lobehub/lobe-chat"
     },
     {
@@ -872,7 +872,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "scalar",
-        "stars": 4225,
+        "stars": 4228,
         "url": "https://github.com/scalar/scalar"
     }
 ]
