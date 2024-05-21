@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [Bend](https://github.com/HigherOrderCO/Bend) | A massively parallel, high-level programming language |
-| [HVM](https://github.com/HigherOrderCO/HVM) | A massively parallel, optimal functional runtime in Rust |
 | [neovim](https://github.com/neovim/neovim) | Vim-fork focused on extensibility and usability |
-| [bulletproof-react](https://github.com/alan2207/bulletproof-react) | 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications. |
 | [portfolio](https://github.com/adrianhajdin/portfolio) | Modern & Minimal JS Mastery Portfolio |
-| [java-design-patterns](https://github.com/iluwatar/java-design-patterns) | Design patterns implemented in Java |
 | [PPPwn](https://github.com/TheOfficialFloW/PPPwn) | PPPwn - PlayStation 4 PPPoE RCE |
-| [EasySpider](https://github.com/NaiboWang/EasySpider) | A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。 |
+| [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections. |
+| [initia](https://github.com/initia-labs/initia) |  |
+| [sybil-report](https://github.com/LayerZero-Labs/sybil-report) |  |
+| [firecrawl](https://github.com/mendableai/firecrawl) | 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl, search and extract with a single API. |
 | [100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) | A self-paced course to learn Rust, one exercise at a time. |
-| [ChatGPT](https://github.com/lencx/ChatGPT) | 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) |
+| [BibliotecaDev](https://github.com/KAYOKG/BibliotecaDev) | 📚 Biblioteca de livros essenciais da área da programação. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
