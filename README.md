@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [geektime-books](https://github.com/it-ebooks-0/geektime-books) | 📚 极客时间电子书 |
-| [MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) | MiniCPM-Llama3-V 2.5: A GPT-4V Level MLLM on Your Phone |
-| [java-design-patterns](https://github.com/iluwatar/java-design-patterns) | Design patterns implemented in Java |
-| [git_rce](https://github.com/amalmurali47/git_rce) | Exploit PoC for CVE-2024-32002 |
-| [llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) | llama3 implementation one matrix multiplication at a time |
-| [Baileys](https://github.com/WhiskeySockets/Baileys) | Lightweight full-featured typescript/javascript WhatsApp Web API |
-| [firecrawl](https://github.com/mendableai/firecrawl) | 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl, search and extract with a single API. |
 | [cover-agent](https://github.com/Codium-ai/cover-agent) | CodiumAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞 |
+| [geektime-books](https://github.com/it-ebooks-0/geektime-books) | 📚 极客时间电子书 |
+| [EasySpider](https://github.com/NaiboWang/EasySpider) | A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。 |
 | [web-llm](https://github.com/mlc-ai/web-llm) | Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support. |
-| [CogVLM2](https://github.com/THUDM/CogVLM2) | GPT4V-level open-source multi-modal model based on Llama3-8B |
+| [kotlin](https://github.com/JetBrains/kotlin) | The Kotlin Programming Language. |
+| [MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) | MiniCPM-Llama3-V 2.5: A GPT-4V Level Multimodal LLM on Your Phone |
+| [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity |
+| [namviek](https://github.com/hudy9x/namviek) | The open-source project manager for tiny teams |
+| [awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | Learn System Design concepts and prepare for interviews using free resources. |
+| [git_rce](https://github.com/amalmurali47/git_rce) | Exploit PoC for CVE-2024-32002 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
