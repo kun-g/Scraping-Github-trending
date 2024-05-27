@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [cover-agent](https://github.com/Codium-ai/cover-agent) | CodiumAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞 |
-| [khoj](https://github.com/khoj-ai/khoj) | Your AI second brain. A copilot to get answers to your questions, whether they be from your own notes or from the internet. Use powerful, online (e.g gpt4) or private, local (e.g llama3) LLMs. Self-host locally or use our cloud instance. Access from Obsidian, Emacs, Desktop app, Web or Whatsapp. |
+| [yolov10](https://github.com/THU-MIG/yolov10) | YOLOv10: Real-Time End-to-End Object Detection |
+| [khoj](https://github.com/khoj-ai/khoj) | Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use foundation models or private, local LLMs. Self-host locally or use our cloud instance. Access from Obsidian, Emacs, Desktop app, Web or Whatsapp. |
 | [univer](https://github.com/dream-num/univer) | Univer is an open-source alternative to Google Sheets, Slides, and Docs |
-| [Perplexica](https://github.com/ItzCrazyKns/Perplexica) | Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI |
-| [llm-course](https://github.com/mlabonne/llm-course) | Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. |
-| [data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) | This is a repo with links to everything you'd ever want to learn about data engineering |
-| [geektime-books](https://github.com/it-ebooks-0/geektime-books) | 📚 极客时间电子书 |
-| [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. |
+| [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI |
+| [ceremonyclient](https://github.com/QuilibriumNetwork/ceremonyclient) | Mirror of Quilibrium git repo: ceremonyclient |
+| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
 | [CADmium](https://github.com/CADmium-Co/CADmium) | A CAD program that runs in the browser |
-| [searxng](https://github.com/searxng/searxng) | SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled. |
+| [dataherald](https://github.com/Dataherald/dataherald) | Interact with your SQL database, Natural Language to SQL using LLMs |
+| [mistral-finetune](https://github.com/mistralai/mistral-finetune) |  |
+| [ragapp](https://github.com/ragapp/ragapp) | The easiest way to use Agentic RAG in any enterprise |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
