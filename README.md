@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [yolov10](https://github.com/THU-MIG/yolov10) | YOLOv10: Real-Time End-to-End Object Detection |
-| [khoj](https://github.com/khoj-ai/khoj) | Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use foundation models or private, local LLMs. Self-host locally or use our cloud instance. Access from Obsidian, Emacs, Desktop app, Web or Whatsapp. |
-| [univer](https://github.com/dream-num/univer) | Univer is an open-source alternative to Google Sheets, Slides, and Docs |
-| [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI |
-| [ceremonyclient](https://github.com/QuilibriumNetwork/ceremonyclient) | Mirror of Quilibrium git repo: ceremonyclient |
-| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
-| [CADmium](https://github.com/CADmium-Co/CADmium) | A CAD program that runs in the browser |
-| [dataherald](https://github.com/Dataherald/dataherald) | Interact with your SQL database, Natural Language to SQL using LLMs |
-| [mistral-finetune](https://github.com/mistralai/mistral-finetune) |  |
+| [khoj](https://github.com/khoj-ai/khoj) | Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our cloud instance. Access from Obsidian, Emacs, Desktop app, Web or Whatsapp. |
+| [ente](https://github.com/ente-io/ente) | Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos |
 | [ragapp](https://github.com/ragapp/ragapp) | The easiest way to use Agentic RAG in any enterprise |
+| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
+| [dataherald](https://github.com/Dataherald/dataherald) | Interact with your SQL database, Natural Language to SQL using LLMs |
+| [gpt_academic](https://github.com/binary-husky/gpt_academic) | 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。 |
+| [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI |
+| [bisheng](https://github.com/dataelement/bisheng) | Bisheng is an open LLM devops platform for next generation AI applications. |
+| [OpenDevin](https://github.com/OpenDevin/OpenDevin) | 🐚 OpenDevin: Code Less, Make More |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
