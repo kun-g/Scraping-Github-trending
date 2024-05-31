@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [yolov10](https://github.com/THU-MIG/yolov10) | YOLOv10: Real-Time End-to-End Object Detection |
-| [llama-fs](https://github.com/iyaja/llama-fs) | A self-organizing file system with llama 3 |
-| [ToolJet](https://github.com/ToolJet/ToolJet) | Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀 |
-| [cognita](https://github.com/truefoundry/cognita) | RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry |
-| [ragapp](https://github.com/ragapp/ragapp) | The easiest way to use Agentic RAG in any enterprise |
-| [FlashRAG](https://github.com/RUC-NLPIR/FlashRAG) | ⚡FlashRAG: A Python Toolkit for Efficient RAG Research |
+| [ChatTTS](https://github.com/2noise/ChatTTS) | ChatTTS is a generative speech model for daily dialogue. |
 | [fabric](https://github.com/danielmiessler/fabric) | fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere. |
-| [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | The Patterns of Scalable, Reliable, and Performant Large-Scale Systems |
-| [kong](https://github.com/Kong/kong) | 🦍 The Cloud-Native API Gateway and AI Gateway. |
-| [concurrentqueue](https://github.com/cameron314/concurrentqueue) | A fast multi-producer, multi-consumer lock-free concurrent queue for C++11 |
+| [xiaoju-survey](https://github.com/didi/xiaoju-survey) | 「快速」打造「专属」问卷系统, 让调研「更轻松」 |
+| [llama-fs](https://github.com/iyaja/llama-fs) | A self-organizing file system with llama 3 |
+| [yolov10](https://github.com/THU-MIG/yolov10) | YOLOv10: Real-Time End-to-End Object Detection |
+| [llm.c](https://github.com/karpathy/llm.c) | LLM training in simple, raw C/CUDA |
+| [V-Express](https://github.com/tencent-ailab/V-Express) | V-Express aims to generate a talking head video under the control of a reference image, an audio, and a sequence of V-Kps images. |
+| [elixir-google-api](https://github.com/googleapis/elixir-google-api) | Elixir client libraries for accessing Google APIs. |
+| [corinna-ai](https://github.com/webprodigies/corinna-ai) | Ai Chatbot that acts like a sales rep |
+| [MusePose](https://github.com/TMElyralab/MusePose) | MusePose: a Pose-Driven Image-to-Video Framework for Virtual Human Generation |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
