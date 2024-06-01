@@ -1,0 +1,845 @@
+[
+    {
+        "author": "2noise",
+        "avatar": "https://github.com/2noise.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/32587096",
+                "href": "https://github.com/lich99",
+                "username": "lich99"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/130631963",
+                "href": "https://github.com/anyvoiceai",
+                "username": "anyvoiceai"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3841370",
+                "href": "https://github.com/gary149",
+                "username": "gary149"
+            }
+        ],
+        "currentPeriodStars": 4594,
+        "description": "ChatTTS is a generative speech model for daily dialogue.",
+        "forks": 1252,
+        "fullname": "2noise/ChatTTS",
+        "language": "Jupyter Notebook",
+        "languageColor": "#DA5B0B",
+        "name": "ChatTTS",
+        "stars": 12465,
+        "url": "https://github.com/2noise/ChatTTS"
+    },
+    {
+        "author": "tencent-ailab",
+        "avatar": "https://github.com/tencent-ailab.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/19601425",
+                "href": "https://github.com/tiankuan93",
+                "username": "tiankuan93"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/38727063",
+                "href": "https://github.com/Tenvence",
+                "username": "Tenvence"
+            }
+        ],
+        "currentPeriodStars": 337,
+        "description": "V-Express aims to generate a talking head video under the control of a reference image, an audio, and a sequence of V-Kps images.",
+        "forks": 104,
+        "fullname": "tencent-ailab/V-Express",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "V-Express",
+        "stars": 953,
+        "url": "https://github.com/tencent-ailab/V-Express"
+    },
+    {
+        "author": "iyaja",
+        "avatar": "https://github.com/iyaja.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/52224044",
+                "href": "https://github.com/AshwinHegde",
+                "username": "AshwinHegde"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/14807319",
+                "href": "https://github.com/areibman",
+                "username": "areibman"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/30197649",
+                "href": "https://github.com/iyaja",
+                "username": "iyaja"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/27354660",
+                "href": "https://github.com/ThomasDh-C",
+                "username": "ThomasDh-C"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/596986",
+                "href": "https://github.com/JanWerder",
+                "username": "JanWerder"
+            }
+        ],
+        "currentPeriodStars": 324,
+        "description": "A self-organizing file system with llama 3",
+        "forks": 166,
+        "fullname": "iyaja/llama-fs",
+        "language": "Jupyter Notebook",
+        "languageColor": "#DA5B0B",
+        "name": "llama-fs",
+        "stars": 3036,
+        "url": "https://github.com/iyaja/llama-fs"
+    },
+    {
+        "author": "danielmiessler",
+        "avatar": "https://github.com/danielmiessler.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/50654",
+                "href": "https://github.com/danielmiessler",
+                "username": "danielmiessler"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/9218431",
+                "href": "https://github.com/xssdoctor",
+                "username": "xssdoctor"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/10410523",
+                "href": "https://github.com/agu3rra",
+                "username": "agu3rra"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1226059",
+                "href": "https://github.com/ksylvan",
+                "username": "ksylvan"
+            }
+        ],
+        "currentPeriodStars": 780,
+        "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+        "forks": 1392,
+        "fullname": "danielmiessler/fabric",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "fabric",
+        "stars": 13544,
+        "url": "https://github.com/danielmiessler/fabric"
+    },
+    {
+        "author": "VikParuchuri",
+        "avatar": "https://github.com/VikParuchuri.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/913340",
+                "href": "https://github.com/VikParuchuri",
+                "username": "VikParuchuri"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/899106",
+                "href": "https://github.com/yquemener",
+                "username": "yquemener"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/48665385",
+                "href": "https://github.com/yvrjsharma",
+                "username": "yvrjsharma"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/57938761",
+                "href": "https://github.com/alexandre-eymael",
+                "username": "alexandre-eymael"
+            }
+        ],
+        "currentPeriodStars": 130,
+        "description": "OCR, layout analysis, reading order, line detection in 90+ languages",
+        "forks": 469,
+        "fullname": "VikParuchuri/surya",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "surya",
+        "stars": 7687,
+        "url": "https://github.com/VikParuchuri/surya"
+    },
+    {
+        "author": "mlflow",
+        "avatar": "https://github.com/mlflow.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/17039389",
+                "href": "https://github.com/harupy",
+                "username": "harupy"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/39497902",
+                "href": "https://github.com/dbczumar",
+                "username": "dbczumar"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/39283302",
+                "href": "https://github.com/BenWilson2",
+                "username": "BenWilson2"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/61449322",
+                "href": "https://github.com/mlflow-automation",
+                "username": "mlflow-automation"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2358483",
+                "href": "https://github.com/smurching",
+                "username": "smurching"
+            }
+        ],
+        "currentPeriodStars": 22,
+        "description": "Open source platform for the machine learning lifecycle",
+        "forks": 3973,
+        "fullname": "mlflow/mlflow",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "mlflow",
+        "stars": 17565,
+        "url": "https://github.com/mlflow/mlflow"
+    },
+    {
+        "author": "redpanda-data",
+        "avatar": "https://github.com/redpanda-data.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3921142",
+                "href": "https://github.com/Jeffail",
+                "username": "Jeffail"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/788216",
+                "href": "https://github.com/mihaitodor",
+                "username": "mihaitodor"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/678548",
+                "href": "https://github.com/disintegrator",
+                "username": "disintegrator"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3995249",
+                "href": "https://github.com/mfamador",
+                "username": "mfamador"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/59438",
+                "href": "https://github.com/peczenyj",
+                "username": "peczenyj"
+            }
+        ],
+        "currentPeriodStars": 30,
+        "description": "Fancy stream processing made operationally mundane",
+        "forks": 763,
+        "fullname": "redpanda-data/connect",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "name": "connect",
+        "stars": 7816,
+        "url": "https://github.com/redpanda-data/connect"
+    },
+    {
+        "author": "amalmurali47",
+        "avatar": "https://github.com/amalmurali47.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3582096",
+                "href": "https://github.com/amalmurali47",
+                "username": "amalmurali47"
+            }
+        ],
+        "currentPeriodStars": 36,
+        "description": "Exploit PoC for CVE-2024-32002",
+        "forks": 105,
+        "fullname": "amalmurali47/git_rce",
+        "language": "Shell",
+        "languageColor": "#89e051",
+        "name": "git_rce",
+        "stars": 379,
+        "url": "https://github.com/amalmurali47/git_rce"
+    },
+    {
+        "author": "TMElyralab",
+        "avatar": "https://github.com/TMElyralab.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/47803475",
+                "href": "https://github.com/TZYSJTU",
+                "username": "TZYSJTU"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/17057815",
+                "href": "https://github.com/czk32611",
+                "username": "czk32611"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7385801",
+                "href": "https://github.com/phighting",
+                "username": "phighting"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/300092",
+                "href": "https://github.com/ansonkao",
+                "username": "ansonkao"
+            }
+        ],
+        "currentPeriodStars": 362,
+        "description": "MusePose: a Pose-Driven Image-to-Video Framework for Virtual Human Generation",
+        "forks": 48,
+        "fullname": "TMElyralab/MusePose",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "MusePose",
+        "stars": 973,
+        "url": "https://github.com/TMElyralab/MusePose"
+    },
+    {
+        "author": "Kong",
+        "avatar": "https://github.com/Kong.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1125431",
+                "href": "https://github.com/thibaultcha",
+                "username": "thibaultcha"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/964813",
+                "href": "https://github.com/subnetmarco",
+                "username": "subnetmarco"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/983257",
+                "href": "https://github.com/bungle",
+                "username": "bungle"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/245621",
+                "href": "https://github.com/hishamhm",
+                "username": "hishamhm"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1077043",
+                "href": "https://github.com/Tieske",
+                "username": "Tieske"
+            }
+        ],
+        "currentPeriodStars": 79,
+        "description": "\ud83e\udd8d The Cloud-Native API Gateway and AI Gateway.",
+        "forks": 4710,
+        "fullname": "Kong/kong",
+        "language": "Lua",
+        "languageColor": "#000080",
+        "name": "kong",
+        "stars": 37943,
+        "url": "https://github.com/Kong/kong"
+    },
+    {
+        "author": "google",
+        "avatar": "https://github.com/google.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/12735026",
+                "href": "https://github.com/gennadiycivil",
+                "username": "gennadiycivil"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/18310463",
+                "href": "https://github.com/kuzkry",
+                "username": "kuzkry"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/761129",
+                "href": "https://github.com/derekmauro",
+                "username": "derekmauro"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8611652",
+                "href": "https://github.com/BillyDonahue",
+                "username": "BillyDonahue"
+            }
+        ],
+        "currentPeriodStars": 74,
+        "description": "GoogleTest - Google Testing and Mocking Framework",
+        "forks": 9950,
+        "fullname": "google/googletest",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "name": "googletest",
+        "stars": 33405,
+        "url": "https://github.com/google/googletest"
+    },
+    {
+        "author": "alibaba-yuanjing-aigclab",
+        "avatar": "https://github.com/alibaba-yuanjing-aigclab.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/126166790",
+                "href": "https://github.com/BecauseImBatman0",
+                "username": "BecauseImBatman0"
+            }
+        ],
+        "currentPeriodStars": 36,
+        "description": "ViViD: Video Virtual Try-on using Diffusion Models",
+        "forks": 15,
+        "fullname": "alibaba-yuanjing-aigclab/ViViD",
+        "name": "ViViD",
+        "stars": 212,
+        "url": "https://github.com/alibaba-yuanjing-aigclab/ViViD"
+    },
+    {
+        "author": "truefoundry",
+        "avatar": "https://github.com/truefoundry.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/67226124",
+                "href": "https://github.com/akashg3627",
+                "username": "akashg3627"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/28920730",
+                "href": "https://github.com/S1LV3RJ1NX",
+                "username": "S1LV3RJ1NX"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/67837886",
+                "href": "https://github.com/SayanDeveloper",
+                "username": "SayanDeveloper"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/136362719",
+                "href": "https://github.com/sayan-truefoundry",
+                "username": "sayan-truefoundry"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1218534",
+                "href": "https://github.com/innoavator",
+                "username": "innoavator"
+            }
+        ],
+        "currentPeriodStars": 50,
+        "description": "RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry",
+        "forks": 168,
+        "fullname": "truefoundry/cognita",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "cognita",
+        "stars": 2215,
+        "url": "https://github.com/truefoundry/cognita"
+    },
+    {
+        "author": "apple",
+        "avatar": "https://github.com/apple.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/15467072",
+                "href": "https://github.com/swift-ci",
+                "username": "swift-ci"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/989428",
+                "href": "https://github.com/DougGregor",
+                "username": "DougGregor"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/66486",
+                "href": "https://github.com/slavapestov",
+                "username": "slavapestov"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/499423",
+                "href": "https://github.com/gottesmm",
+                "username": "gottesmm"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/147281",
+                "href": "https://github.com/jckarter",
+                "username": "jckarter"
+            }
+        ],
+        "currentPeriodStars": 30,
+        "description": "The Swift Programming Language",
+        "forks": 10238,
+        "fullname": "apple/swift",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "name": "swift",
+        "stars": 66217,
+        "url": "https://github.com/apple/swift"
+    },
+    {
+        "author": "primefaces",
+        "avatar": "https://github.com/primefaces.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/69278826",
+                "href": "https://github.com/cetincakiroglu",
+                "username": "cetincakiroglu"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/686247",
+                "href": "https://github.com/cagataycivici",
+                "username": "cagataycivici"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/19997575",
+                "href": "https://github.com/yigitfindikli",
+                "username": "yigitfindikli"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/92744169",
+                "href": "https://github.com/mehmetcetin01140",
+                "username": "mehmetcetin01140"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/11868120",
+                "href": "https://github.com/mertsincan",
+                "username": "mertsincan"
+            }
+        ],
+        "currentPeriodStars": 22,
+        "description": "The Most Complete Angular UI Component Library",
+        "forks": 4487,
+        "fullname": "primefaces/primeng",
+        "language": "CSS",
+        "languageColor": "#563d7c",
+        "name": "primeng",
+        "stars": 9659,
+        "url": "https://github.com/primefaces/primeng"
+    },
+    {
+        "author": "webprodigies",
+        "avatar": "https://github.com/webprodigies.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/145509080",
+                "href": "https://github.com/webprodigies",
+                "username": "webprodigies"
+            }
+        ],
+        "currentPeriodStars": 100,
+        "description": "Ai Chatbot that acts like a sales rep",
+        "forks": 74,
+        "fullname": "webprodigies/corinna-ai",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "corinna-ai",
+        "stars": 242,
+        "url": "https://github.com/webprodigies/corinna-ai"
+    },
+    {
+        "author": "pdm-project",
+        "avatar": "https://github.com/pdm-project.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/16336606",
+                "href": "https://github.com/frostming",
+                "username": "frostming"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/33452915",
+                "href": "https://github.com/danieleades",
+                "username": "danieleades"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/13523027",
+                "href": "https://github.com/linw1995",
+                "username": "linw1995"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/15725",
+                "href": "https://github.com/noirbizarre",
+                "username": "noirbizarre"
+            }
+        ],
+        "currentPeriodStars": 94,
+        "description": "A modern Python package and dependency manager supporting the latest PEP standards",
+        "forks": 346,
+        "fullname": "pdm-project/pdm",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "pdm",
+        "stars": 6929,
+        "url": "https://github.com/pdm-project/pdm"
+    },
+    {
+        "author": "Hillobar",
+        "avatar": "https://github.com/Hillobar.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/63615199",
+                "href": "https://github.com/Hillobar",
+                "username": "Hillobar"
+            }
+        ],
+        "currentPeriodStars": 28,
+        "description": "GUI-focused roop",
+        "forks": 531,
+        "fullname": "Hillobar/Rope",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "Rope",
+        "stars": 3645,
+        "url": "https://github.com/Hillobar/Rope"
+    },
+    {
+        "author": "microsoft",
+        "avatar": "https://github.com/microsoft.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4250911",
+                "href": "https://github.com/sonichi",
+                "username": "sonichi"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8920372",
+                "href": "https://github.com/qingyun-wu",
+                "username": "qingyun-wu"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/320302",
+                "href": "https://github.com/ekzhu",
+                "username": "ekzhu"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/24501525",
+                "href": "https://github.com/skzhang1",
+                "username": "skzhang1"
+            }
+        ],
+        "currentPeriodStars": 66,
+        "description": "A programming framework for agentic AI. Discord: https://aka.ms/autogen-dc. Roadmap: https://aka.ms/autogen-roadmap",
+        "forks": 3857,
+        "fullname": "microsoft/autogen",
+        "language": "Jupyter Notebook",
+        "languageColor": "#DA5B0B",
+        "name": "autogen",
+        "stars": 26643,
+        "url": "https://github.com/microsoft/autogen"
+    },
+    {
+        "author": "GaiaNet-AI",
+        "avatar": "https://github.com/GaiaNet-AI.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4726889",
+                "href": "https://github.com/apepkuss",
+                "username": "apepkuss"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/10806",
+                "href": "https://github.com/juntao",
+                "username": "juntao"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/71171646",
+                "href": "https://github.com/JYC0413",
+                "username": "JYC0413"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/60097",
+                "href": "https://github.com/longzhi",
+                "username": "longzhi"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/45785633",
+                "href": "https://github.com/alabulei1",
+                "username": "alabulei1"
+            }
+        ],
+        "currentPeriodStars": 207,
+        "description": "Install and run your own AI agent service",
+        "forks": 33,
+        "fullname": "GaiaNet-AI/gaianet-node",
+        "language": "Shell",
+        "languageColor": "#89e051",
+        "name": "gaianet-node",
+        "stars": 1055,
+        "url": "https://github.com/GaiaNet-AI/gaianet-node"
+    },
+    {
+        "author": "mustafaaljadery",
+        "avatar": "https://github.com/mustafaaljadery.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/68826650",
+                "href": "https://github.com/mustafaaljadery",
+                "username": "mustafaaljadery"
+            }
+        ],
+        "currentPeriodStars": 61,
+        "description": "A SOTA vision model built on top of llama3 8B.",
+        "forks": 13,
+        "fullname": "mustafaaljadery/llama3v",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "llama3v",
+        "stars": 456,
+        "url": "https://github.com/mustafaaljadery/llama3v"
+    },
+    {
+        "author": "googleapis",
+        "avatar": "https://github.com/googleapis.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/44816363",
+                "href": "https://github.com/yoshi-automation",
+                "username": "yoshi-automation"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/70984784",
+                "href": "https://github.com/yoshi-code-bot",
+                "username": "yoshi-code-bot"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8911",
+                "href": "https://github.com/dazuma",
+                "username": "dazuma"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/32483",
+                "href": "https://github.com/chingor13",
+                "username": "chingor13"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/25180681",
+                "href": "https://github.com/renovate-bot",
+                "username": "renovate-bot"
+            }
+        ],
+        "currentPeriodStars": 69,
+        "description": "Elixir client libraries for accessing Google APIs.",
+        "forks": 349,
+        "fullname": "googleapis/elixir-google-api",
+        "language": "Elixir",
+        "languageColor": "#6e4a7e",
+        "name": "elixir-google-api",
+        "stars": 908,
+        "url": "https://github.com/googleapis/elixir-google-api"
+    },
+    {
+        "author": "Alamofire",
+        "avatar": "https://github.com/Alamofire.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/169110",
+                "href": "https://github.com/cnoon",
+                "username": "cnoon"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/51020",
+                "href": "https://github.com/jshier",
+                "username": "jshier"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7659",
+                "href": "https://github.com/mattt",
+                "username": "mattt"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/44164",
+                "href": "https://github.com/kylef",
+                "username": "kylef"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/198768",
+                "href": "https://github.com/kcharwood",
+                "username": "kcharwood"
+            }
+        ],
+        "currentPeriodStars": 9,
+        "description": "Elegant HTTP Networking in Swift",
+        "forks": 7529,
+        "fullname": "Alamofire/Alamofire",
+        "language": "Swift",
+        "languageColor": "#F05138",
+        "name": "Alamofire",
+        "stars": 40649,
+        "url": "https://github.com/Alamofire/Alamofire"
+    },
+    {
+        "author": "duckdb",
+        "avatar": "https://github.com/duckdb.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3978469",
+                "href": "https://github.com/Mytherin",
+                "username": "Mytherin"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/17162323",
+                "href": "https://github.com/Tishj",
+                "username": "Tishj"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7377477",
+                "href": "https://github.com/pdet",
+                "username": "pdet"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/14329666",
+                "href": "https://github.com/lnkuiper",
+                "username": "lnkuiper"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/227792",
+                "href": "https://github.com/hannes",
+                "username": "hannes"
+            }
+        ],
+        "currentPeriodStars": 71,
+        "description": "DuckDB is an in-process SQL OLAP Database Management System",
+        "forks": 1507,
+        "fullname": "duckdb/duckdb",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "name": "duckdb",
+        "stars": 17661,
+        "url": "https://github.com/duckdb/duckdb"
+    },
+    {
+        "author": "infiniflow",
+        "avatar": "https://github.com/infiniflow.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/12318111",
+                "href": "https://github.com/KevinHuSh",
+                "username": "KevinHuSh"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8089971",
+                "href": "https://github.com/cike8899",
+                "username": "cike8899"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/93570324",
+                "href": "https://github.com/writinwaters",
+                "username": "writinwaters"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/33142505",
+                "href": "https://github.com/JinHai-CN",
+                "username": "JinHai-CN"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/40135906",
+                "href": "https://github.com/yangqianjuan",
+                "username": "yangqianjuan"
+            }
+        ],
+        "currentPeriodStars": 85,
+        "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+        "forks": 793,
+        "fullname": "infiniflow/ragflow",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "ragflow",
+        "stars": 8581,
+        "url": "https://github.com/infiniflow/ragflow"
+    }
+]

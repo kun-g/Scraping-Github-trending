@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [ChatTTS](https://github.com/2noise/ChatTTS) | ChatTTS is a generative speech model for daily dialogue. |
-| [fabric](https://github.com/danielmiessler/fabric) | fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere. |
-| [xiaoju-survey](https://github.com/didi/xiaoju-survey) | 「快速」打造「专属」问卷系统, 让调研「更轻松」 |
-| [llama-fs](https://github.com/iyaja/llama-fs) | A self-organizing file system with llama 3 |
-| [yolov10](https://github.com/THU-MIG/yolov10) | YOLOv10: Real-Time End-to-End Object Detection |
-| [llm.c](https://github.com/karpathy/llm.c) | LLM training in simple, raw C/CUDA |
 | [V-Express](https://github.com/tencent-ailab/V-Express) | V-Express aims to generate a talking head video under the control of a reference image, an audio, and a sequence of V-Kps images. |
-| [elixir-google-api](https://github.com/googleapis/elixir-google-api) | Elixir client libraries for accessing Google APIs. |
-| [corinna-ai](https://github.com/webprodigies/corinna-ai) | Ai Chatbot that acts like a sales rep |
+| [llama-fs](https://github.com/iyaja/llama-fs) | A self-organizing file system with llama 3 |
+| [fabric](https://github.com/danielmiessler/fabric) | fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere. |
+| [surya](https://github.com/VikParuchuri/surya) | OCR, layout analysis, reading order, line detection in 90+ languages |
+| [mlflow](https://github.com/mlflow/mlflow) | Open source platform for the machine learning lifecycle |
+| [connect](https://github.com/redpanda-data/connect) | Fancy stream processing made operationally mundane |
+| [git_rce](https://github.com/amalmurali47/git_rce) | Exploit PoC for CVE-2024-32002 |
 | [MusePose](https://github.com/TMElyralab/MusePose) | MusePose: a Pose-Driven Image-to-Video Framework for Virtual Human Generation |
+| [kong](https://github.com/Kong/kong) | 🦍 The Cloud-Native API Gateway and AI Gateway. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
