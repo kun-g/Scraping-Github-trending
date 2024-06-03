@@ -13,15 +13,15 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [ChatTTS](https://github.com/2noise/ChatTTS) | ChatTTS is a generative speech model for daily dialogue. |
-| [ChatTTS-ui](https://github.com/jianchang512/ChatTTS-ui) | 一个简单的本地网页界面，直接使用ChatTTS将文字合成为语音，同时支持对外提供API接口。 |
-| [revanced-patches](https://github.com/ReVanced/revanced-patches) | 🧩 Patches for ReVanced |
-| [xiaoju-survey](https://github.com/didi/xiaoju-survey) | 「快速」打造「专属」问卷系统, 让调研「更轻松」 |
-| [MusePose](https://github.com/TMElyralab/MusePose) | MusePose: a Pose-Driven Image-to-Video Framework for Virtual Human Generation |
-| [docker-unlock](https://github.com/StasPlov/docker-unlock) | Unlocks docker hub in Russia, Cuba, Iran, North Korea, Republic of Crimea, Sudan, and Syria |
+| [Omost](https://github.com/lllyasviel/Omost) | Your image is almost there! |
 | [ToonCrafter](https://github.com/ToonCrafter/ToonCrafter) | a research paper for generative cartoon interpolation |
-| [design-system-example-components](https://github.com/digital-go-jp/design-system-example-components) | デジタル庁デザインシステムのサンプルコンポーネント |
-| [fabric](https://github.com/danielmiessler/fabric) | fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere. |
+| [webx](https://github.com/face-hh/webx) | An alternative for the World Wide Web - browse websites such as buss://yippie.rizz made in HTML, CSS and Lua. Custom web browser, custom HTML rendering engine, custom search engine, and more. |
+| [ChatTTS](https://github.com/2noise/ChatTTS) | ChatTTS is a generative speech model for daily dialogue. |
+| [chat2api](https://github.com/lanqian528/chat2api) | A service that can convert ChatGPT on the web to OpenAI API format. |
+| [ChatTTS-ui](https://github.com/jianchang512/ChatTTS-ui) | 一个简单的本地网页界面，直接使用ChatTTS将文字合成为语音，同时支持对外提供API接口。 |
+| [sandbox](https://github.com/ishaan1013/sandbox) | A cloud-based code editing environment with an AI copilot and real-time collaboration. |
+| [KernelSU](https://github.com/tiann/KernelSU) | A Kernel based root solution for Android |
+| [revanced-patches](https://github.com/ReVanced/revanced-patches) | 🧩 Patches for ReVanced |
 | [V-Express](https://github.com/tencent-ailab/V-Express) | V-Express aims to generate a talking head video under the control of a reference image, an audio, and a sequence of V-Kps images. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
