@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [Omost](https://github.com/lllyasviel/Omost) | Your image is almost there! |
-| [ToonCrafter](https://github.com/ToonCrafter/ToonCrafter) | a research paper for generative cartoon interpolation |
-| [webx](https://github.com/face-hh/webx) | An alternative for the World Wide Web - browse websites such as buss://yippie.rizz made in HTML, CSS and Lua. Custom web browser, custom HTML rendering engine, custom search engine, and more. |
-| [ChatTTS](https://github.com/2noise/ChatTTS) | ChatTTS is a generative speech model for daily dialogue. |
-| [chat2api](https://github.com/lanqian528/chat2api) | A service that can convert ChatGPT on the web to OpenAI API format. |
+| [gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) | gpt-4o for windows, macos and ubuntu |
 | [ChatTTS-ui](https://github.com/jianchang512/ChatTTS-ui) | 一个简单的本地网页界面，直接使用ChatTTS将文字合成为语音，同时支持对外提供API接口。 |
-| [sandbox](https://github.com/ishaan1013/sandbox) | A cloud-based code editing environment with an AI copilot and real-time collaboration. |
-| [KernelSU](https://github.com/tiann/KernelSU) | A Kernel based root solution for Android |
-| [revanced-patches](https://github.com/ReVanced/revanced-patches) | 🧩 Patches for ReVanced |
-| [V-Express](https://github.com/tencent-ailab/V-Express) | V-Express aims to generate a talking head video under the control of a reference image, an audio, and a sequence of V-Kps images. |
+| [docker-unlock](https://github.com/StasPlov/docker-unlock) | Unlocks docker hub in Russia, Cuba, Iran, North Korea, Republic of Crimea, Sudan, and Syria |
+| [marker](https://github.com/VikParuchuri/marker) | Convert PDF to markdown quickly with high accuracy |
+| [immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. |
+| [ToonCrafter](https://github.com/ToonCrafter/ToonCrafter) | a research paper for generative cartoon interpolation |
+| [Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) | Python scraper based on AI |
+| [OSX-KVM](https://github.com/kholia/OSX-KVM) | Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required. |
+| [lazy.nvim](https://github.com/folke/lazy.nvim) | 💤 A modern plugin manager for Neovim |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
