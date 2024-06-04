@@ -21,7 +21,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "Omost",
-        "stars": 3297,
+        "stars": 3317,
         "url": "https://github.com/lllyasviel/Omost"
     },
     {
@@ -32,16 +32,31 @@
                 "avatar": "https://avatars.githubusercontent.com/u/41792982",
                 "href": "https://github.com/onuratakan",
                 "username": "onuratakan"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/22633385",
+                "href": "https://github.com/eltociear",
+                "username": "eltociear"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/79590180",
+                "href": "https://github.com/gokborayilmaz",
+                "username": "gokborayilmaz"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/149799623",
+                "href": "https://github.com/mumtazvurall",
+                "username": "mumtazvurall"
             }
         ],
         "currentPeriodStars": 138,
         "description": "gpt-4o for windows, macos and ubuntu",
-        "forks": 59,
+        "forks": 63,
         "fullname": "onuratakan/gpt-computer-assistant",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "gpt-computer-assistant",
-        "stars": 798,
+        "stars": 816,
         "url": "https://github.com/onuratakan/gpt-computer-assistant"
     },
     {
@@ -76,12 +91,12 @@
         ],
         "currentPeriodStars": 600,
         "description": "\u4e00\u4e2a\u7b80\u5355\u7684\u672c\u5730\u7f51\u9875\u754c\u9762\uff0c\u76f4\u63a5\u4f7f\u7528ChatTTS\u5c06\u6587\u5b57\u5408\u6210\u4e3a\u8bed\u97f3\uff0c\u540c\u65f6\u652f\u6301\u5bf9\u5916\u63d0\u4f9bAPI\u63a5\u53e3\u3002",
-        "forks": 225,
+        "forks": 226,
         "fullname": "jianchang512/ChatTTS-ui",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "ChatTTS-ui",
-        "stars": 2240,
+        "stars": 2252,
         "url": "https://github.com/jianchang512/ChatTTS-ui"
     },
     {
@@ -117,16 +132,21 @@
                 "avatar": "https://avatars.githubusercontent.com/u/125003",
                 "href": "https://github.com/samuell",
                 "username": "samuell"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/13705399",
+                "href": "https://github.com/tosaddler",
+                "username": "tosaddler"
             }
         ],
         "currentPeriodStars": 576,
         "description": "Convert PDF to markdown quickly with high accuracy",
-        "forks": 503,
+        "forks": 504,
         "fullname": "VikParuchuri/marker",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "marker",
-        "stars": 10416,
+        "stars": 10422,
         "url": "https://github.com/VikParuchuri/marker"
     },
     {
@@ -156,12 +176,12 @@
         ],
         "currentPeriodStars": 262,
         "description": "High performance self-hosted photo and video management solution.",
-        "forks": 1646,
+        "forks": 1647,
         "fullname": "immich-app/immich",
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "immich",
-        "stars": 34860,
+        "stars": 34864,
         "url": "https://github.com/immich-app/immich"
     },
     {
@@ -176,12 +196,12 @@
         ],
         "currentPeriodStars": 1360,
         "description": "a research paper for generative cartoon interpolation",
-        "forks": 216,
+        "forks": 218,
         "fullname": "ToonCrafter/ToonCrafter",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "ToonCrafter",
-        "stars": 2919,
+        "stars": 2924,
         "url": "https://github.com/ToonCrafter/ToonCrafter"
     },
     {
@@ -216,12 +236,12 @@
         ],
         "currentPeriodStars": 248,
         "description": "Python scraper based on AI",
-        "forks": 761,
+        "forks": 763,
         "fullname": "VinciGit00/Scrapegraph-ai",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "Scrapegraph-ai",
-        "stars": 9974,
+        "stars": 9976,
         "url": "https://github.com/VinciGit00/Scrapegraph-ai"
     },
     {
@@ -261,7 +281,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "OSX-KVM",
-        "stars": 18955,
+        "stars": 18958,
         "url": "https://github.com/kholia/OSX-KVM"
     },
     {
@@ -296,7 +316,7 @@
         "language": "Lua",
         "languageColor": "#000080",
         "name": "lazy.nvim",
-        "stars": 12282,
+        "stars": 12283,
         "url": "https://github.com/folke/lazy.nvim"
     },
     {
@@ -326,7 +346,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "podcastr",
-        "stars": 214,
+        "stars": 215,
         "url": "https://github.com/adrianhajdin/podcastr"
     },
     {
@@ -344,7 +364,7 @@
         "forks": 13,
         "fullname": "aaedmusa/Capstan-Drive",
         "name": "Capstan-Drive",
-        "stars": 139,
+        "stars": 140,
         "url": "https://github.com/aaedmusa/Capstan-Drive"
     },
     {
@@ -384,7 +404,7 @@
         "language": "Go",
         "languageColor": "#00ADD8",
         "name": "syncthing",
-        "stars": 60566,
+        "stars": 60570,
         "url": "https://github.com/syncthing/syncthing"
     },
     {
@@ -459,7 +479,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "soybean-admin",
-        "stars": 8314,
+        "stars": 8323,
         "url": "https://github.com/soybeanjs/soybean-admin"
     },
     {
@@ -494,7 +514,7 @@
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "ios_rule_script",
-        "stars": 15663,
+        "stars": 15662,
         "url": "https://github.com/blackmatrix7/ios_rule_script"
     },
     {
@@ -574,7 +594,7 @@
         "language": "Rust",
         "languageColor": "#dea584",
         "name": "webx",
-        "stars": 992,
+        "stars": 994,
         "url": "https://github.com/face-hh/webx"
     },
     {
@@ -609,7 +629,7 @@
         "language": "Kotlin",
         "languageColor": "#A97BFF",
         "name": "KernelSU",
-        "stars": 8732,
+        "stars": 8735,
         "url": "https://github.com/tiann/KernelSU"
     },
     {
@@ -674,7 +694,7 @@
         "language": "Jupyter Notebook",
         "languageColor": "#DA5B0B",
         "name": "LLMs-from-scratch",
-        "stars": 17699,
+        "stars": 17705,
         "url": "https://github.com/rasbt/LLMs-from-scratch"
     },
     {
@@ -709,10 +729,10 @@
         ],
         "currentPeriodStars": 184,
         "description": "Curated list of project-based tutorials",
-        "forks": 23056,
+        "forks": 23055,
         "fullname": "practical-tutorials/project-based-learning",
         "name": "project-based-learning",
-        "stars": 174995,
+        "stars": 174999,
         "url": "https://github.com/practical-tutorials/project-based-learning"
     },
     {
@@ -742,12 +762,12 @@
         ],
         "currentPeriodStars": 1845,
         "description": "ChatTTS is a generative speech model for daily dialogue.",
-        "forks": 1890,
+        "forks": 1895,
         "fullname": "2noise/ChatTTS",
         "language": "Jupyter Notebook",
         "languageColor": "#DA5B0B",
         "name": "ChatTTS",
-        "stars": 18089,
+        "stars": 18120,
         "url": "https://github.com/2noise/ChatTTS"
     },
     {
@@ -787,7 +807,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "IsaacLab",
-        "stars": 993,
+        "stars": 994,
         "url": "https://github.com/isaac-sim/IsaacLab"
     },
     {
@@ -827,7 +847,7 @@
         "language": "C++",
         "languageColor": "#f34b7d",
         "name": "imgui",
-        "stars": 56767,
+        "stars": 56769,
         "url": "https://github.com/ocornut/imgui"
     }
 ]
