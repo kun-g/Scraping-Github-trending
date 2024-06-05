@@ -15,14 +15,14 @@
 | :----: | :----: |
 | [Omost](https://github.com/lllyasviel/Omost) | Your image is almost there! |
 | [gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) | gpt-4o for windows, macos and ubuntu |
-| [ChatTTS-ui](https://github.com/jianchang512/ChatTTS-ui) | 一个简单的本地网页界面，直接使用ChatTTS将文字合成为语音，同时支持对外提供API接口。 |
-| [docker-unlock](https://github.com/StasPlov/docker-unlock) | Unlocks docker hub in Russia, Cuba, Iran, North Korea, Republic of Crimea, Sudan, and Syria |
-| [marker](https://github.com/VikParuchuri/marker) | Convert PDF to markdown quickly with high accuracy |
-| [immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. |
-| [ToonCrafter](https://github.com/ToonCrafter/ToonCrafter) | a research paper for generative cartoon interpolation |
 | [Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) | Python scraper based on AI |
-| [OSX-KVM](https://github.com/kholia/OSX-KVM) | Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required. |
-| [lazy.nvim](https://github.com/folke/lazy.nvim) | 💤 A modern plugin manager for Neovim |
+| [webx](https://github.com/face-hh/webx) | An alternative for the World Wide Web - browse websites such as buss://yippie.rizz made in HTML, CSS and Lua. Custom web browser, custom HTML rendering engine, custom search engine, and more. |
+| [ToonCrafter](https://github.com/ToonCrafter/ToonCrafter) | a research paper for generative cartoon interpolation |
+| [IsaacLab](https://github.com/isaac-sim/IsaacLab) | Unified framework for robot learning built on NVIDIA Isaac Sim |
+| [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 18 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
+| [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | Implementing a ChatGPT-like LLM in PyTorch from scratch, step by step |
+| [MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) | MiniCPM-Llama3-V 2.5: A GPT-4V Level Multimodal LLM on Your Phone |
+| [marker](https://github.com/VikParuchuri/marker) | Convert PDF to markdown quickly with high accuracy |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
