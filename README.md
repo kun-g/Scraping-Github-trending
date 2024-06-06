@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [Omost](https://github.com/lllyasviel/Omost) | Your image is almost there! |
-| [gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) | gpt-4o for windows, macos and ubuntu |
-| [Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) | Python scraper based on AI |
-| [webx](https://github.com/face-hh/webx) | An alternative for the World Wide Web - browse websites such as buss://yippie.rizz made in HTML, CSS and Lua. Custom web browser, custom HTML rendering engine, custom search engine, and more. |
-| [ToonCrafter](https://github.com/ToonCrafter/ToonCrafter) | a research paper for generative cartoon interpolation |
-| [IsaacLab](https://github.com/isaac-sim/IsaacLab) | Unified framework for robot learning built on NVIDIA Isaac Sim |
-| [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 18 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
-| [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | Implementing a ChatGPT-like LLM in PyTorch from scratch, step by step |
 | [MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) | MiniCPM-Llama3-V 2.5: A GPT-4V Level Multimodal LLM on Your Phone |
 | [marker](https://github.com/VikParuchuri/marker) | Convert PDF to markdown quickly with high accuracy |
+| [IsaacLab](https://github.com/isaac-sim/IsaacLab) | Unified framework for robot learning built on NVIDIA Isaac Sim |
+| [mamba](https://github.com/state-spaces/mamba) | Mamba SSM architecture |
+| [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 18 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
+| [aider](https://github.com/paul-gauthier/aider) | aider is AI pair programming in your terminal |
+| [spotube](https://github.com/KRTirtho/spotube) | 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile! |
+| [RemoveAdblockThing](https://github.com/TheRealJoelmatic/RemoveAdblockThing) | The intrusive "Ad blocker are not allowed on YouTube" message is annoying. This open-source project aims to address this issue by providing a solution to bypass YouTube's ad blocker detection |
+| [syncthing](https://github.com/syncthing/syncthing) | Open Source Continuous File Synchronization |
+| [ollama](https://github.com/ollama/ollama) | Get up and running with Llama 3, Mistral, Gemma, and other large language models. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
