@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) | MiniCPM-Llama3-V 2.5: A GPT-4V Level Multimodal LLM on Your Phone |
-| [marker](https://github.com/VikParuchuri/marker) | Convert PDF to markdown quickly with high accuracy |
-| [IsaacLab](https://github.com/isaac-sim/IsaacLab) | Unified framework for robot learning built on NVIDIA Isaac Sim |
-| [mamba](https://github.com/state-spaces/mamba) | Mamba SSM architecture |
 | [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 18 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
-| [aider](https://github.com/paul-gauthier/aider) | aider is AI pair programming in your terminal |
-| [spotube](https://github.com/KRTirtho/spotube) | 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile! |
+| [Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) | Python scraper based on AI |
+| [MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) | MiniCPM-Llama3-V 2.5: A GPT-4V Level Multimodal LLM on Your Phone |
+| [mamba](https://github.com/state-spaces/mamba) | Mamba SSM architecture |
+| [duckdb](https://github.com/duckdb/duckdb) | DuckDB is an analytical in-process SQL database management system |
+| [directus](https://github.com/directus/directus) | The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database. |
+| [puter](https://github.com/HeyPuter/puter) | 🌐 The Web OS! Free, Open-Source, and Self-Hostable. |
 | [RemoveAdblockThing](https://github.com/TheRealJoelmatic/RemoveAdblockThing) | The intrusive "Ad blocker are not allowed on YouTube" message is annoying. This open-source project aims to address this issue by providing a solution to bypass YouTube's ad blocker detection |
-| [syncthing](https://github.com/syncthing/syncthing) | Open Source Continuous File Synchronization |
-| [ollama](https://github.com/ollama/ollama) | Get up and running with Llama 3, Mistral, Gemma, and other large language models. |
+| [Sunshine](https://github.com/LizardByte/Sunshine) | Self-hosted game stream host for Moonlight. |
+| [bitcoin](https://github.com/bitcoin/bitcoin) | Bitcoin Core integration/staging tree |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
