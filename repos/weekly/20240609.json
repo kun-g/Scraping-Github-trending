@@ -1,0 +1,542 @@
+[
+    {
+        "author": "danielmiessler",
+        "avatar": "https://github.com/danielmiessler.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/50654",
+                "href": "https://github.com/danielmiessler",
+                "username": "danielmiessler"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/9218431",
+                "href": "https://github.com/xssdoctor",
+                "username": "xssdoctor"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/10410523",
+                "href": "https://github.com/agu3rra",
+                "username": "agu3rra"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1226059",
+                "href": "https://github.com/ksylvan",
+                "username": "ksylvan"
+            }
+        ],
+        "currentPeriodStars": 1569,
+        "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+        "forks": 1580,
+        "fullname": "danielmiessler/fabric",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "fabric",
+        "stars": 15300,
+        "url": "https://github.com/danielmiessler/fabric"
+    },
+    {
+        "author": "OpenBMB",
+        "avatar": "https://github.com/OpenBMB.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/28106858",
+                "href": "https://github.com/yiranyyu",
+                "username": "yiranyyu"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5380770",
+                "href": "https://github.com/iceflame89",
+                "username": "iceflame89"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/19372848",
+                "href": "https://github.com/yaoyuanTHU",
+                "username": "yaoyuanTHU"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/157115220",
+                "href": "https://github.com/tc-mb",
+                "username": "tc-mb"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/92843231",
+                "href": "https://github.com/Cuiunbo",
+                "username": "Cuiunbo"
+            }
+        ],
+        "currentPeriodStars": 2299,
+        "description": "MiniCPM-Llama3-V 2.5: A GPT-4V Level Multimodal LLM on Your Phone",
+        "forks": 462,
+        "fullname": "OpenBMB/MiniCPM-V",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "MiniCPM-V",
+        "stars": 6727,
+        "url": "https://github.com/OpenBMB/MiniCPM-V"
+    },
+    {
+        "author": "duckdb",
+        "avatar": "https://github.com/duckdb.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3978469",
+                "href": "https://github.com/Mytherin",
+                "username": "Mytherin"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/17162323",
+                "href": "https://github.com/Tishj",
+                "username": "Tishj"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7377477",
+                "href": "https://github.com/pdet",
+                "username": "pdet"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/14329666",
+                "href": "https://github.com/lnkuiper",
+                "username": "lnkuiper"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/227792",
+                "href": "https://github.com/hannes",
+                "username": "hannes"
+            }
+        ],
+        "currentPeriodStars": 972,
+        "description": "DuckDB is an analytical in-process SQL database management system",
+        "forks": 1554,
+        "fullname": "duckdb/duckdb",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "name": "duckdb",
+        "stars": 18723,
+        "url": "https://github.com/duckdb/duckdb"
+    },
+    {
+        "author": "microsoft",
+        "avatar": "https://github.com/microsoft.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7462909",
+                "href": "https://github.com/koreyspace",
+                "username": "koreyspace"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/64026625",
+                "href": "https://github.com/john0isaac",
+                "username": "john0isaac"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1871266",
+                "href": "https://github.com/yoshioterada",
+                "username": "yoshioterada"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1631477",
+                "href": "https://github.com/glaucia86",
+                "username": "glaucia86"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2511341",
+                "href": "https://github.com/leestott",
+                "username": "leestott"
+            }
+        ],
+        "currentPeriodStars": 2050,
+        "description": "18 Lessons, Get Started Building with Generative AI \ud83d\udd17 https://microsoft.github.io/generative-ai-for-beginners/",
+        "forks": 25493,
+        "fullname": "microsoft/generative-ai-for-beginners",
+        "language": "Jupyter Notebook",
+        "languageColor": "#DA5B0B",
+        "name": "generative-ai-for-beginners",
+        "stars": 46662,
+        "url": "https://github.com/microsoft/generative-ai-for-beginners"
+    },
+    {
+        "author": "Lightning-AI",
+        "avatar": "https://github.com/Lightning-AI.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/11067892",
+                "href": "https://github.com/carmocca",
+                "username": "carmocca"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5495193",
+                "href": "https://github.com/awaelchli",
+                "username": "awaelchli"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5618407",
+                "href": "https://github.com/rasbt",
+                "username": "rasbt"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/191033",
+                "href": "https://github.com/lantiga",
+                "username": "lantiga"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/58434077",
+                "href": "https://github.com/Andrei-Aksionov",
+                "username": "Andrei-Aksionov"
+            }
+        ],
+        "currentPeriodStars": 581,
+        "description": "Pretrain, finetune, deploy 20+ LLMs on your own data. Uses state-of-the-art techniques: flash attention, FSDP, 4-bit, LoRA, and more.",
+        "forks": 771,
+        "fullname": "Lightning-AI/litgpt",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "litgpt",
+        "stars": 7571,
+        "url": "https://github.com/Lightning-AI/litgpt"
+    },
+    {
+        "author": "jianchang512",
+        "avatar": "https://github.com/jianchang512.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3378335",
+                "href": "https://github.com/jianchang512",
+                "username": "jianchang512"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/20124029",
+                "href": "https://github.com/DoubleStarK",
+                "username": "DoubleStarK"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/582584",
+                "href": "https://github.com/wwqgtxx",
+                "username": "wwqgtxx"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/41135035",
+                "href": "https://github.com/Xuenew",
+                "username": "Xuenew"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/139017763",
+                "href": "https://github.com/alexsandropopovic",
+                "username": "alexsandropopovic"
+            }
+        ],
+        "currentPeriodStars": 436,
+        "description": "Translate the video from one language to another and add dubbing. \u5c06\u89c6\u9891\u4ece\u4e00\u79cd\u8bed\u8a00\u7ffb\u8bd1\u4e3a\u53e6\u4e00\u79cd\u8bed\u8a00\uff0c\u5e76\u6dfb\u52a0\u914d\u97f3",
+        "forks": 744,
+        "fullname": "jianchang512/pyvideotrans",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "pyvideotrans",
+        "stars": 6505,
+        "url": "https://github.com/jianchang512/pyvideotrans"
+    },
+    {
+        "author": "paul-gauthier",
+        "avatar": "https://github.com/paul-gauthier.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/69695708",
+                "href": "https://github.com/paul-gauthier",
+                "username": "paul-gauthier"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/72309",
+                "href": "https://github.com/joshuavial",
+                "username": "joshuavial"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1927187",
+                "href": "https://github.com/fahmad91",
+                "username": "fahmad91"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/236552",
+                "href": "https://github.com/ctoth",
+                "username": "ctoth"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/175499",
+                "href": "https://github.com/Taik",
+                "username": "Taik"
+            }
+        ],
+        "currentPeriodStars": 650,
+        "description": "aider is AI pair programming in your terminal",
+        "forks": 1058,
+        "fullname": "paul-gauthier/aider",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "aider",
+        "stars": 11066,
+        "url": "https://github.com/paul-gauthier/aider"
+    },
+    {
+        "author": "folke",
+        "avatar": "https://github.com/folke.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/292349",
+                "href": "https://github.com/folke",
+                "username": "folke"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/81827001",
+                "href": "https://github.com/max397574",
+                "username": "max397574"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/20475201",
+                "href": "https://github.com/tsakirist",
+                "username": "tsakirist"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/55766287",
+                "href": "https://github.com/ribru17",
+                "username": "ribru17"
+            }
+        ],
+        "currentPeriodStars": 247,
+        "description": "\ud83d\udca4 A modern plugin manager for Neovim",
+        "forks": 295,
+        "fullname": "folke/lazy.nvim",
+        "language": "Lua",
+        "languageColor": "#000080",
+        "name": "lazy.nvim",
+        "stars": 12423,
+        "url": "https://github.com/folke/lazy.nvim"
+    },
+    {
+        "author": "syncthing",
+        "avatar": "https://github.com/syncthing.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/125426",
+                "href": "https://github.com/calmh",
+                "username": "calmh"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1144861",
+                "href": "https://github.com/AudriusButkevicius",
+                "username": "AudriusButkevicius"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/15955093",
+                "href": "https://github.com/imsodin",
+                "username": "imsodin"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/14043830",
+                "href": "https://github.com/st-release",
+                "username": "st-release"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5431883",
+                "href": "https://github.com/jesselucas",
+                "username": "jesselucas"
+            }
+        ],
+        "currentPeriodStars": 949,
+        "description": "Open Source Continuous File Synchronization",
+        "forks": 4086,
+        "fullname": "syncthing/syncthing",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "name": "syncthing",
+        "stars": 61226,
+        "url": "https://github.com/syncthing/syncthing"
+    },
+    {
+        "author": "LazyVim",
+        "avatar": "https://github.com/LazyVim.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/292349",
+                "href": "https://github.com/folke",
+                "username": "folke"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/12776461",
+                "href": "https://github.com/dpetka2001",
+                "username": "dpetka2001"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/29718261",
+                "href": "https://github.com/amaanq",
+                "username": "amaanq"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8222059",
+                "href": "https://github.com/rubiin",
+                "username": "rubiin"
+            }
+        ],
+        "currentPeriodStars": 331,
+        "description": "Neovim config for the lazy",
+        "forks": 947,
+        "fullname": "LazyVim/LazyVim",
+        "language": "Lua",
+        "languageColor": "#000080",
+        "name": "LazyVim",
+        "stars": 14159,
+        "url": "https://github.com/LazyVim/LazyVim"
+    },
+    {
+        "author": "state-spaces",
+        "avatar": "https://github.com/state-spaces.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5616128",
+                "href": "https://github.com/tridao",
+                "username": "tridao"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8164679",
+                "href": "https://github.com/albertfgu",
+                "username": "albertfgu"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7476160",
+                "href": "https://github.com/epicfilemcnulty",
+                "username": "epicfilemcnulty"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/11698893",
+                "href": "https://github.com/jmercat",
+                "username": "jmercat"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2427042",
+                "href": "https://github.com/gaxler",
+                "username": "gaxler"
+            }
+        ],
+        "currentPeriodStars": 679,
+        "description": "Mamba SSM architecture",
+        "forks": 869,
+        "fullname": "state-spaces/mamba",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "mamba",
+        "stars": 10897,
+        "url": "https://github.com/state-spaces/mamba"
+    },
+    {
+        "author": "jackfrued",
+        "avatar": "https://github.com/jackfrued.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7474657",
+                "href": "https://github.com/jackfrued",
+                "username": "jackfrued"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/13017944",
+                "href": "https://github.com/softpo",
+                "username": "softpo"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/10865729",
+                "href": "https://github.com/geekya215",
+                "username": "geekya215"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/599268",
+                "href": "https://github.com/jankeromnes",
+                "username": "jankeromnes"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2331406",
+                "href": "https://github.com/royaso",
+                "username": "royaso"
+            }
+        ],
+        "currentPeriodStars": 575,
+        "description": "Python - 100\u5929\u4ece\u65b0\u624b\u5230\u5927\u5e08",
+        "forks": 51489,
+        "fullname": "jackfrued/Python-100-Days",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "Python-100-Days",
+        "stars": 151448,
+        "url": "https://github.com/jackfrued/Python-100-Days"
+    },
+    {
+        "author": "lizongying",
+        "avatar": "https://github.com/lizongying.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/16871545",
+                "href": "https://github.com/lizongying",
+                "username": "lizongying"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/112851743",
+                "href": "https://github.com/LeGend-wLw",
+                "username": "LeGend-wLw"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/159127017",
+                "href": "https://github.com/WoooKong",
+                "username": "WoooKong"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/15410727",
+                "href": "https://github.com/DavidDengHui",
+                "username": "DavidDengHui"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/74408214",
+                "href": "https://github.com/2926295173",
+                "username": "2926295173"
+            }
+        ],
+        "currentPeriodStars": 603,
+        "description": "\u6211\u7684\u7535\u89c6 \u7535\u89c6\u76f4\u64ad\u8f6f\u4ef6\uff0c\u5b89\u88c5\u5373\u53ef\u4f7f\u7528",
+        "forks": 3099,
+        "fullname": "lizongying/my-tv",
+        "language": "C",
+        "languageColor": "#555555",
+        "name": "my-tv",
+        "stars": 27661,
+        "url": "https://github.com/lizongying/my-tv"
+    },
+    {
+        "author": "tiann",
+        "avatar": "https://github.com/tiann.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4233744",
+                "href": "https://github.com/tiann",
+                "username": "tiann"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/30978685",
+                "href": "https://github.com/Ylarod",
+                "username": "Ylarod"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/134963561",
+                "href": "https://github.com/igormiguell",
+                "username": "igormiguell"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/79307765",
+                "href": "https://github.com/dabao1955",
+                "username": "dabao1955"
+            }
+        ],
+        "currentPeriodStars": 196,
+        "description": "A Kernel based root solution for Android",
+        "forks": 1423,
+        "fullname": "tiann/KernelSU",
+        "language": "Kotlin",
+        "languageColor": "#A97BFF",
+        "name": "KernelSU",
+        "stars": 8807,
+        "url": "https://github.com/tiann/KernelSU"
+    }
+]
