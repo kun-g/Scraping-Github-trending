@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [mi-gpt](https://github.com/idootop/mi-gpt) | 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。 |
 | [Ice](https://github.com/jordanbaird/Ice) | Powerful menu bar manager for macOS |
-| [stable-audio-tools](https://github.com/Stability-AI/stable-audio-tools) | Generative models for conditional audio generation |
-| [platform](https://github.com/hcengineering/platform) | Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) |
 | [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 18 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
+| [lsix](https://github.com/hackerb9/lsix) | Like "ls", but for images. Shows thumbnails in terminal using sixel graphics. |
 | [Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives) | A list of alternatives for Adobe software |
-| [livekit](https://github.com/livekit/livekit) | End-to-end stack for WebRTC. SFU media server and SDKs. |
-| [directus](https://github.com/directus/directus) | The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database. |
+| [transformers.js](https://github.com/xenova/transformers.js) | State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server! |
 | [mesop](https://github.com/google/mesop) |  |
-| [LazyVim](https://github.com/LazyVim/LazyVim) | Neovim config for the lazy |
-| [vscode](https://github.com/microsoft/vscode) | Visual Studio Code |
+| [delta](https://github.com/delta-io/delta) | An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs |
+| [livekit](https://github.com/livekit/livekit) | End-to-end stack for WebRTC. SFU media server and SDKs. |
+| [hiddify-next](https://github.com/hiddify/hiddify-next) | Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
