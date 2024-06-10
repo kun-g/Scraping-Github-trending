@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [coolify](https://github.com/coollabsio/coolify) | An open-source & self-hostable Heroku / Netlify / Vercel alternative. |
 | [mi-gpt](https://github.com/idootop/mi-gpt) | 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。 |
-| [Ice](https://github.com/jordanbaird/Ice) | Powerful menu bar manager for macOS |
-| [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 18 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
-| [lsix](https://github.com/hackerb9/lsix) | Like "ls", but for images. Shows thumbnails in terminal using sixel graphics. |
-| [Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives) | A list of alternatives for Adobe software |
-| [transformers.js](https://github.com/xenova/transformers.js) | State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server! |
-| [mesop](https://github.com/google/mesop) |  |
-| [delta](https://github.com/delta-io/delta) | An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs |
-| [livekit](https://github.com/livekit/livekit) | End-to-end stack for WebRTC. SFU media server and SDKs. |
+| [LazyVim](https://github.com/LazyVim/LazyVim) | Neovim config for the lazy |
 | [hiddify-next](https://github.com/hiddify/hiddify-next) | Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free. |
+| [Ventoy](https://github.com/ventoy/Ventoy) | A new bootable USB solution. |
+| [Ice](https://github.com/jordanbaird/Ice) | Powerful menu bar manager for macOS |
+| [gsplat](https://github.com/nerfstudio-project/gsplat) | CUDA accelerated rasterization of gaussian splatting |
+| [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) | The most customisable and low-latency cross platform/shell prompt renderer |
+| [RetroArch](https://github.com/libretro/RetroArch) | Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3. |
+| [alist](https://github.com/alist-org/alist) | 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
