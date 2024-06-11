@@ -15,13 +15,13 @@
 | :----: | :----: |
 | [coolify](https://github.com/coollabsio/coolify) | An open-source & self-hostable Heroku / Netlify / Vercel alternative. |
 | [mi-gpt](https://github.com/idootop/mi-gpt) | 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。 |
-| [LazyVim](https://github.com/LazyVim/LazyVim) | Neovim config for the lazy |
-| [hiddify-next](https://github.com/hiddify/hiddify-next) | Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free. |
-| [Ventoy](https://github.com/ventoy/Ventoy) | A new bootable USB solution. |
-| [Ice](https://github.com/jordanbaird/Ice) | Powerful menu bar manager for macOS |
-| [gsplat](https://github.com/nerfstudio-project/gsplat) | CUDA accelerated rasterization of gaussian splatting |
-| [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) | The most customisable and low-latency cross platform/shell prompt renderer |
-| [RetroArch](https://github.com/libretro/RetroArch) | Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3. |
+| [transformers.js](https://github.com/xenova/transformers.js) | State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server! |
+| [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. |
+| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A feature-rich command-line audio/video downloader |
+| [OrcaSlicer](https://github.com/SoftFever/OrcaSlicer) | G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.) |
+| [mesop](https://github.com/google/mesop) |  |
+| [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。 |
+| [stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) |  |
 | [alist](https://github.com/alist-org/alist) | 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
