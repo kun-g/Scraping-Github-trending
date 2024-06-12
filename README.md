@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [LazyVim](https://github.com/LazyVim/LazyVim) | Neovim config for the lazy |
+| [nanoGPT](https://github.com/karpathy/nanoGPT) | The simplest, fastest repository for training/finetuning medium-sized GPTs. |
 | [coolify](https://github.com/coollabsio/coolify) | An open-source & self-hostable Heroku / Netlify / Vercel alternative. |
-| [mi-gpt](https://github.com/idootop/mi-gpt) | 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。 |
 | [transformers.js](https://github.com/xenova/transformers.js) | State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server! |
+| [piku](https://github.com/piku/piku) | The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers. |
 | [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. |
-| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A feature-rich command-line audio/video downloader |
-| [OrcaSlicer](https://github.com/SoftFever/OrcaSlicer) | G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.) |
-| [mesop](https://github.com/google/mesop) |  |
-| [public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。 |
-| [stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) |  |
-| [alist](https://github.com/alist-org/alist) | 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。 |
+| [gpt-2](https://github.com/openai/gpt-2) | Code for the paper "Language Models are Unsupervised Multitask Learners" |
+| [frigate](https://github.com/blakeblackshear/frigate) | NVR with realtime local object detection for IP cameras |
+| [nvm](https://github.com/nvm-sh/nvm) | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
+| [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) | ⭐️ Companies that don't have a broken hiring process |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
