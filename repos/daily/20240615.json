@@ -1,0 +1,787 @@
+[
+    {
+        "author": "NVIDIA",
+        "avatar": "https://github.com/NVIDIA.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1845387",
+                "href": "https://github.com/rajeevsrao",
+                "username": "rajeevsrao"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/45886021",
+                "href": "https://github.com/kevinch-nv",
+                "username": "kevinch-nv"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/103954203",
+                "href": "https://github.com/shuyuelan",
+                "username": "shuyuelan"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/365590",
+                "href": "https://github.com/ttyio",
+                "username": "ttyio"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/49246958",
+                "href": "https://github.com/pranavm-nvidia",
+                "username": "pranavm-nvidia"
+            }
+        ],
+        "currentPeriodStars": 70,
+        "description": "NVIDIA\u00ae TensorRT\u2122 is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.",
+        "forks": 2046,
+        "fullname": "NVIDIA/TensorRT",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "name": "TensorRT",
+        "stars": 9744,
+        "url": "https://github.com/NVIDIA/TensorRT"
+    },
+    {
+        "author": "twentyhq",
+        "avatar": "https://github.com/twentyhq.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/12035771",
+                "href": "https://github.com/charlesBochet",
+                "username": "charlesBochet"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/26528466",
+                "href": "https://github.com/lucasbordeau",
+                "username": "lucasbordeau"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3098428",
+                "href": "https://github.com/thaisguigon",
+                "username": "thaisguigon"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1834158",
+                "href": "https://github.com/Weiko",
+                "username": "Weiko"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/71827178",
+                "href": "https://github.com/bosiraphael",
+                "username": "bosiraphael"
+            }
+        ],
+        "currentPeriodStars": 137,
+        "description": "Building a modern alternative to Salesforce, powered by the community.",
+        "forks": 1393,
+        "fullname": "twentyhq/twenty",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "twenty",
+        "stars": 14426,
+        "url": "https://github.com/twentyhq/twenty"
+    },
+    {
+        "author": "Azure",
+        "avatar": "https://github.com/Azure.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/53356347",
+                "href": "https://github.com/azure-sdk",
+                "username": "azure-sdk"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2320445",
+                "href": "https://github.com/jianghaolu",
+                "username": "jianghaolu"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/48699787",
+                "href": "https://github.com/alzimmermsft",
+                "username": "alzimmermsft"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1471612",
+                "href": "https://github.com/anuchandy",
+                "username": "anuchandy"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/53292327",
+                "href": "https://github.com/weidongxu-microsoft",
+                "username": "weidongxu-microsoft"
+            }
+        ],
+        "currentPeriodStars": 9,
+        "description": "This repository is for active development of the Azure SDK for Java. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/java/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-java.",
+        "forks": 1912,
+        "fullname": "Azure/azure-sdk-for-java",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "name": "azure-sdk-for-java",
+        "stars": 2219,
+        "url": "https://github.com/Azure/azure-sdk-for-java"
+    },
+    {
+        "author": "web-platform-tests",
+        "avatar": "https://github.com/web-platform-tests.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/294864",
+                "href": "https://github.com/jgraham",
+                "username": "jgraham"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/111161",
+                "href": "https://github.com/Ms2ger",
+                "username": "Ms2ger"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/16780864",
+                "href": "https://github.com/wpt-pr-bot",
+                "username": "wpt-pr-bot"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/498917",
+                "href": "https://github.com/foolip",
+                "username": "foolip"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/244772",
+                "href": "https://github.com/zcorpan",
+                "username": "zcorpan"
+            }
+        ],
+        "currentPeriodStars": 2,
+        "description": "Test suites for Web platform specs \u2014 including WHATWG, W3C, and others",
+        "forks": 2972,
+        "fullname": "web-platform-tests/wpt",
+        "language": "HTML",
+        "languageColor": "#e34c26",
+        "name": "wpt",
+        "stars": 4704,
+        "url": "https://github.com/web-platform-tests/wpt"
+    },
+    {
+        "author": "1Panel-dev",
+        "avatar": "https://github.com/1Panel-dev.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/80892890",
+                "href": "https://github.com/shaohuzhang1",
+                "username": "shaohuzhang1"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/79562285",
+                "href": "https://github.com/wangdan-fit2cloud",
+                "username": "wangdan-fit2cloud"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/20766823",
+                "href": "https://github.com/liqiang-fit2cloud",
+                "username": "liqiang-fit2cloud"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/41712985",
+                "href": "https://github.com/maninhill",
+                "username": "maninhill"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/118103548",
+                "href": "https://github.com/tongque0",
+                "username": "tongque0"
+            }
+        ],
+        "currentPeriodStars": 54,
+        "description": "\ud83d\ude80 \u57fa\u4e8e LLM \u5927\u8bed\u8a00\u6a21\u578b\u7684\u77e5\u8bc6\u5e93\u95ee\u7b54\u7cfb\u7edf\u3002\u5f00\u7bb1\u5373\u7528\uff0c\u652f\u6301\u5feb\u901f\u5d4c\u5165\u5230\u7b2c\u4e09\u65b9\u4e1a\u52a1\u7cfb\u7edf\uff0c1Panel \u5b98\u65b9\u51fa\u54c1\u3002",
+        "forks": 928,
+        "fullname": "1Panel-dev/MaxKB",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "MaxKB",
+        "stars": 6949,
+        "url": "https://github.com/1Panel-dev/MaxKB"
+    },
+    {
+        "author": "fleetdm",
+        "avatar": "https://github.com/fleetdm.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/575602",
+                "href": "https://github.com/zwass",
+                "username": "zwass"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/618009",
+                "href": "https://github.com/mikermcneil",
+                "username": "mikermcneil"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7445991",
+                "href": "https://github.com/eashaw",
+                "username": "eashaw"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/71795832",
+                "href": "https://github.com/RachelElysia",
+                "username": "RachelElysia"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/47070608",
+                "href": "https://github.com/noahtalerman",
+                "username": "noahtalerman"
+            }
+        ],
+        "currentPeriodStars": 28,
+        "description": "Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)",
+        "forks": 366,
+        "fullname": "fleetdm/fleet",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "name": "fleet",
+        "stars": 2421,
+        "url": "https://github.com/fleetdm/fleet"
+    },
+    {
+        "author": "comfyanonymous",
+        "avatar": "https://github.com/comfyanonymous.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/121283862",
+                "href": "https://github.com/comfyanonymous",
+                "username": "comfyanonymous"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/125205205",
+                "href": "https://github.com/pythongosssss",
+                "username": "pythongosssss"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/128333288",
+                "href": "https://github.com/ltdrdata",
+                "username": "ltdrdata"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/23466035",
+                "href": "https://github.com/EllangoK",
+                "username": "EllangoK"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/24979496",
+                "href": "https://github.com/space-nuko",
+                "username": "space-nuko"
+            }
+        ],
+        "currentPeriodStars": 277,
+        "description": "The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.",
+        "forks": 4057,
+        "fullname": "comfyanonymous/ComfyUI",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "ComfyUI",
+        "stars": 38108,
+        "url": "https://github.com/comfyanonymous/ComfyUI"
+    },
+    {
+        "author": "facebook",
+        "avatar": "https://github.com/facebook.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/169419",
+                "href": "https://github.com/yfeldblum",
+                "username": "yfeldblum"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/709247",
+                "href": "https://github.com/Orvid",
+                "username": "Orvid"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/163549",
+                "href": "https://github.com/simpkins",
+                "username": "simpkins"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/17024",
+                "href": "https://github.com/ot",
+                "username": "ot"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7255704",
+                "href": "https://github.com/andriigrynenko",
+                "username": "andriigrynenko"
+            }
+        ],
+        "currentPeriodStars": 10,
+        "description": "An open-source C++ library developed and used at Facebook.",
+        "forks": 5447,
+        "fullname": "facebook/folly",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "name": "folly",
+        "stars": 27347,
+        "url": "https://github.com/facebook/folly"
+    },
+    {
+        "author": "microsoft",
+        "avatar": "https://github.com/microsoft.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/25141164",
+                "href": "https://github.com/StrikerRUS",
+                "username": "StrikerRUS"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7608904",
+                "href": "https://github.com/jameslamb",
+                "username": "jameslamb"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/16040950",
+                "href": "https://github.com/guolinke",
+                "username": "guolinke"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/13624043",
+                "href": "https://github.com/wxchan",
+                "username": "wxchan"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/9083669",
+                "href": "https://github.com/Laurae2",
+                "username": "Laurae2"
+            }
+        ],
+        "currentPeriodStars": 16,
+        "description": "A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.",
+        "forks": 3786,
+        "fullname": "microsoft/LightGBM",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "name": "LightGBM",
+        "stars": 16247,
+        "url": "https://github.com/microsoft/LightGBM"
+    },
+    {
+        "author": "meetecho",
+        "avatar": "https://github.com/meetecho.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3684796",
+                "href": "https://github.com/lminiero",
+                "username": "lminiero"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3405061",
+                "href": "https://github.com/atoppi",
+                "username": "atoppi"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/317464",
+                "href": "https://github.com/saghul",
+                "username": "saghul"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/66862",
+                "href": "https://github.com/tmatth",
+                "username": "tmatth"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/649835",
+                "href": "https://github.com/ploxiln",
+                "username": "ploxiln"
+            }
+        ],
+        "currentPeriodStars": 9,
+        "description": "Janus WebRTC Server",
+        "forks": 2445,
+        "fullname": "meetecho/janus-gateway",
+        "language": "C",
+        "languageColor": "#555555",
+        "name": "janus-gateway",
+        "stars": 7917,
+        "url": "https://github.com/meetecho/janus-gateway"
+    },
+    {
+        "author": "lexbor",
+        "avatar": "https://github.com/lexbor.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4179845",
+                "href": "https://github.com/lexborisov",
+                "username": "lexborisov"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1422401",
+                "href": "https://github.com/vtorri",
+                "username": "vtorri"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7771979",
+                "href": "https://github.com/nielsdos",
+                "username": "nielsdos"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/95060",
+                "href": "https://github.com/kostya",
+                "username": "kostya"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/657617",
+                "href": "https://github.com/DavidKorczynski",
+                "username": "DavidKorczynski"
+            }
+        ],
+        "currentPeriodStars": 95,
+        "description": "Lexbor is development of an open source HTML Renderer library. https://lexbor.com",
+        "forks": 91,
+        "fullname": "lexbor/lexbor",
+        "language": "C",
+        "languageColor": "#555555",
+        "name": "lexbor",
+        "stars": 1367,
+        "url": "https://github.com/lexbor/lexbor"
+    },
+    {
+        "author": "apple",
+        "avatar": "https://github.com/apple.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3402571",
+                "href": "https://github.com/markblee",
+                "username": "markblee"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/29696544",
+                "href": "https://github.com/ruomingp",
+                "username": "ruomingp"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/143655008",
+                "href": "https://github.com/apghml",
+                "username": "apghml"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2136926",
+                "href": "https://github.com/zhiyun",
+                "username": "zhiyun"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2471422",
+                "href": "https://github.com/tgunter",
+                "username": "tgunter"
+            }
+        ],
+        "currentPeriodStars": 45,
+        "description": "An Extensible Deep Learning Library",
+        "forks": 171,
+        "fullname": "apple/axlearn",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "axlearn",
+        "stars": 1429,
+        "url": "https://github.com/apple/axlearn"
+    },
+    {
+        "author": "Azure",
+        "avatar": "https://github.com/Azure.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/53356347",
+                "href": "https://github.com/azure-sdk",
+                "username": "azure-sdk"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/54595583",
+                "href": "https://github.com/JoshLove-msft",
+                "username": "JoshLove-msft"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/913445",
+                "href": "https://github.com/jsquire",
+                "username": "jsquire"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1697911",
+                "href": "https://github.com/pakrym",
+                "username": "pakrym"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/857688",
+                "href": "https://github.com/stankovski",
+                "username": "stankovski"
+            }
+        ],
+        "currentPeriodStars": 6,
+        "description": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.",
+        "forks": 4515,
+        "fullname": "Azure/azure-sdk-for-net",
+        "language": "C#",
+        "languageColor": "#178600",
+        "name": "azure-sdk-for-net",
+        "stars": 5102,
+        "url": "https://github.com/Azure/azure-sdk-for-net"
+    },
+    {
+        "author": "Stability-AI",
+        "avatar": "https://github.com/Stability-AI.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4000772",
+                "href": "https://github.com/mcmonkey4eva",
+                "username": "mcmonkey4eva"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6065401",
+                "href": "https://github.com/nightgrey",
+                "username": "nightgrey"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/125205205",
+                "href": "https://github.com/pythongosssss",
+                "username": "pythongosssss"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/129571231",
+                "href": "https://github.com/xhoxye",
+                "username": "xhoxye"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/65950",
+                "href": "https://github.com/olivierlacan",
+                "username": "olivierlacan"
+            }
+        ],
+        "currentPeriodStars": 101,
+        "description": "StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.",
+        "forks": 254,
+        "fullname": "Stability-AI/StableSwarmUI",
+        "language": "C#",
+        "languageColor": "#178600",
+        "name": "StableSwarmUI",
+        "stars": 3077,
+        "url": "https://github.com/Stability-AI/StableSwarmUI"
+    },
+    {
+        "author": "google",
+        "avatar": "https://github.com/google.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/17255429",
+                "href": "https://github.com/jan-wassenberg",
+                "username": "jan-wassenberg"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/20875313",
+                "href": "https://github.com/austinvhuang",
+                "username": "austinvhuang"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5590046",
+                "href": "https://github.com/dan-zheng",
+                "username": "dan-zheng"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/9074039",
+                "href": "https://github.com/szabadka",
+                "username": "szabadka"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/9405195",
+                "href": "https://github.com/ufownl",
+                "username": "ufownl"
+            }
+        ],
+        "currentPeriodStars": 2,
+        "description": "lightweight, standalone C++ inference engine for Google's Gemma models.",
+        "forks": 477,
+        "fullname": "google/gemma.cpp",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "name": "gemma.cpp",
+        "stars": 5637,
+        "url": "https://github.com/google/gemma.cpp"
+    },
+    {
+        "author": "firebase",
+        "avatar": "https://github.com/firebase.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/73870",
+                "href": "https://github.com/paulb777",
+                "username": "paulb777"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/10249104",
+                "href": "https://github.com/wilhuff",
+                "username": "wilhuff"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/36927374",
+                "href": "https://github.com/ncooke3",
+                "username": "ncooke3"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1097316",
+                "href": "https://github.com/ryanwilson",
+                "username": "ryanwilson"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1841926",
+                "href": "https://github.com/maksymmalyhin",
+                "username": "maksymmalyhin"
+            }
+        ],
+        "currentPeriodStars": 1,
+        "description": "Firebase SDK for Apple App Development",
+        "forks": 1421,
+        "fullname": "firebase/firebase-ios-sdk",
+        "language": "Objective-C",
+        "languageColor": "#438eff",
+        "name": "firebase-ios-sdk",
+        "stars": 5381,
+        "url": "https://github.com/firebase/firebase-ios-sdk"
+    },
+    {
+        "author": "Raphire",
+        "avatar": "https://github.com/Raphire.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/9938813",
+                "href": "https://github.com/Raphire",
+                "username": "Raphire"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8408603",
+                "href": "https://github.com/jasonpatrickellykrause",
+                "username": "jasonpatrickellykrause"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/43364021",
+                "href": "https://github.com/JMacIV",
+                "username": "JMacIV"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/151682543",
+                "href": "https://github.com/DrbitsOFFICIAL",
+                "username": "DrbitsOFFICIAL"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/156520308",
+                "href": "https://github.com/loadstring1",
+                "username": "loadstring1"
+            }
+        ],
+        "currentPeriodStars": 57,
+        "description": "A simple, easy to use powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11.",
+        "forks": 198,
+        "fullname": "Raphire/Win11Debloat",
+        "language": "PowerShell",
+        "languageColor": "#012456",
+        "name": "Win11Debloat",
+        "stars": 4705,
+        "url": "https://github.com/Raphire/Win11Debloat"
+    },
+    {
+        "author": "google",
+        "avatar": "https://github.com/google.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/17255429",
+                "href": "https://github.com/jan-wassenberg",
+                "username": "jan-wassenberg"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/28941113",
+                "href": "https://github.com/johnplatts",
+                "username": "johnplatts"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/228803",
+                "href": "https://github.com/malaterre",
+                "username": "malaterre"
+            }
+        ],
+        "currentPeriodStars": 40,
+        "description": "Performance-portable, length-agnostic SIMD with runtime dispatch",
+        "forks": 300,
+        "fullname": "google/highway",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "name": "highway",
+        "stars": 3791,
+        "url": "https://github.com/google/highway"
+    },
+    {
+        "author": "protocolbuffers",
+        "avatar": "https://github.com/protocolbuffers.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/106703886",
+                "href": "https://github.com/protobuf-github-bot",
+                "username": "protobuf-github-bot"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1270",
+                "href": "https://github.com/haberman",
+                "username": "haberman"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/62662355",
+                "href": "https://github.com/mkruskal-google",
+                "username": "mkruskal-google"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8551050",
+                "href": "https://github.com/xfxyjwf",
+                "username": "xfxyjwf"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/105450428",
+                "href": "https://github.com/protobuf-team-bot",
+                "username": "protobuf-team-bot"
+            }
+        ],
+        "currentPeriodStars": 8,
+        "description": "Protocol Buffers - Google's data interchange format",
+        "forks": 15331,
+        "fullname": "protocolbuffers/protobuf",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "name": "protobuf",
+        "stars": 64221,
+        "url": "https://github.com/protocolbuffers/protobuf"
+    },
+    {
+        "author": "google",
+        "avatar": "https://github.com/google.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/12735026",
+                "href": "https://github.com/gennadiycivil",
+                "username": "gennadiycivil"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/18310463",
+                "href": "https://github.com/kuzkry",
+                "username": "kuzkry"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/761129",
+                "href": "https://github.com/derekmauro",
+                "username": "derekmauro"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8611652",
+                "href": "https://github.com/BillyDonahue",
+                "username": "BillyDonahue"
+            }
+        ],
+        "currentPeriodStars": 11,
+        "description": "GoogleTest - Google Testing and Mocking Framework",
+        "forks": 9964,
+        "fullname": "google/googletest",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "name": "googletest",
+        "stars": 33548,
+        "url": "https://github.com/google/googletest"
+    }
+]
