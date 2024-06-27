@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio) | Enjoy the magic of Diffusion models! |
-| [cosmopolitan](https://github.com/jart/cosmopolitan) | build-once run-anywhere c library |
-| [RTranslator](https://github.com/niedev/RTranslator) | World's first open source real-time translation app for Android. |
-| [maestro](https://github.com/Doriandarko/maestro) | A framework for Claude Opus to intelligently orchestrate subagents. |
-| [awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) | 🚀 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles. |
+| [RTranslator](https://github.com/niedev/RTranslator) | An open source real-time translation app for Android that runs locally |
 | [ente](https://github.com/ente-io/ente) | Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos |
-| [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. |
-| [coding-interview-university](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer. |
 | [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
-| [hello-algo](https://github.com/krahets/hello-algo) | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing |
+| [Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) | A curated list of free courses & certifications. |
+| [cosmopolitan](https://github.com/jart/cosmopolitan) | build-once run-anywhere c library |
+| [awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) | 🚀 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles. |
+| [ragflow](https://github.com/infiniflow/ragflow) | RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. |
+| [ciso-assistant-community](https://github.com/intuitem/ciso-assistant-community) | CISO Assistant is a one-stop-shop for GRC, covering Risk, AppSec and Audit Management and supporting +46 frameworks worldwide: NIST CSF, ISO 27001, SOC2, CIS, PCI DSS, NIS2, CMMC, PSPF, GDPR, HIPAA, Essential Eight, NYDFS-500, DORA, NIST AI RMF, 800-53, 800-171, CyFun, CJIS, AirCyber and so much more |
+| [lazy.nvim](https://github.com/folke/lazy.nvim) | 💤 A modern plugin manager for Neovim |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
