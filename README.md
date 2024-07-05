@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 18 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
-| [gs-quant](https://github.com/goldmansachs/gs-quant) | Python toolkit for quantitative finance |
-| [nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) | Community curated list of templates for the nuclei engine to find security vulnerabilities. |
-| [maybe](https://github.com/maybe-finance/maybe) | The OS for your personal finances |
-| [serenity](https://github.com/SerenityOS/serenity) | The Serenity Operating System 🐞 |
-| [BLAKE3](https://github.com/BLAKE3-team/BLAKE3) | the official Rust and C implementations of the BLAKE3 cryptographic hash function |
-| [tokyonight.nvim](https://github.com/folke/tokyonight.nvim) | 🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish. |
-| [EasySpider](https://github.com/NaiboWang/EasySpider) | A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。 |
-| [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) | A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app |
+| [fish-speech](https://github.com/fishaudio/fish-speech) | Brand new TTS solution |
+| [digitalhippo](https://github.com/joschan21/digitalhippo) | A Modern Fullstack E-Commerce Marketplace for Digital Products |
+| [graphrag-accelerator](https://github.com/Azure-Samples/graphrag-accelerator) | One-click deploy of a Knowledge Graph powered RAG (GraphRAG) in Azure |
+| [mindsdb](https://github.com/mindsdb/mindsdb) | The platform for building AI from enterprise data |
 | [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) | 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. |
+| [react-native](https://github.com/facebook/react-native) | A framework for building native applications using React |
+| [laravel](https://github.com/laravel/laravel) | Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
