@@ -14,6 +14,7 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 18 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
+| [graphrag](https://github.com/microsoft/graphrag) | A modular graph-based Retrieval-Augmented Generation (RAG) system |
 | [fish-speech](https://github.com/fishaudio/fish-speech) | Brand new TTS solution |
 | [digitalhippo](https://github.com/joschan21/digitalhippo) | A Modern Fullstack E-Commerce Marketplace for Digital Products |
 | [graphrag-accelerator](https://github.com/Azure-Samples/graphrag-accelerator) | One-click deploy of a Knowledge Graph powered RAG (GraphRAG) in Azure |
@@ -22,7 +23,6 @@
 | [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
 | [immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. |
 | [react-native](https://github.com/facebook/react-native) | A framework for building native applications using React |
-| [laravel](https://github.com/laravel/laravel) | Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
