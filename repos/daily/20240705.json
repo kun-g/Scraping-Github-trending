@@ -31,12 +31,12 @@
         ],
         "currentPeriodStars": 620,
         "description": "18 Lessons, Get Started Building with Generative AI \ud83d\udd17 https://microsoft.github.io/generative-ai-for-beginners/",
-        "forks": 28076,
+        "forks": 28077,
         "fullname": "microsoft/generative-ai-for-beginners",
         "language": "Jupyter Notebook",
         "languageColor": "#DA5B0B",
         "name": "generative-ai-for-beginners",
-        "stars": 54652,
+        "stars": 54664,
         "url": "https://github.com/microsoft/generative-ai-for-beginners"
     },
     {
@@ -44,14 +44,14 @@
         "avatar": "https://github.com/microsoft.png",
         "builtBy": [
             {
-                "avatar": "https://avatars.githubusercontent.com/u/113544",
-                "href": "https://github.com/darthtrevino",
-                "username": "darthtrevino"
-            },
-            {
                 "avatar": "https://avatars.githubusercontent.com/u/3671933",
                 "href": "https://github.com/AlonsoGuevara",
                 "username": "AlonsoGuevara"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/113544",
+                "href": "https://github.com/darthtrevino",
+                "username": "darthtrevino"
             },
             {
                 "avatar": "https://avatars.githubusercontent.com/u/654554",
@@ -71,12 +71,12 @@
         ],
         "currentPeriodStars": 1158,
         "description": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
-        "forks": 251,
+        "forks": 253,
         "fullname": "microsoft/graphrag",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "graphrag",
-        "stars": 3745,
+        "stars": 3786,
         "url": "https://github.com/microsoft/graphrag"
     },
     {
@@ -101,12 +101,12 @@
         ],
         "currentPeriodStars": 581,
         "description": "Brand new TTS solution",
-        "forks": 303,
+        "forks": 304,
         "fullname": "fishaudio/fish-speech",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "fish-speech",
-        "stars": 3822,
+        "stars": 3842,
         "url": "https://github.com/fishaudio/fish-speech"
     },
     {
@@ -136,7 +136,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "digitalhippo",
-        "stars": 2446,
+        "stars": 2454,
         "url": "https://github.com/joschan21/digitalhippo"
     },
     {
@@ -171,12 +171,12 @@
         ],
         "currentPeriodStars": 69,
         "description": "One-click deploy of a Knowledge Graph powered RAG (GraphRAG) in Azure",
-        "forks": 45,
+        "forks": 46,
         "fullname": "Azure-Samples/graphrag-accelerator",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "graphrag-accelerator",
-        "stars": 342,
+        "stars": 351,
         "url": "https://github.com/Azure-Samples/graphrag-accelerator"
     },
     {
@@ -216,7 +216,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "mindsdb",
-        "stars": 24835,
+        "stars": 24840,
         "url": "https://github.com/mindsdb/mindsdb"
     },
     {
@@ -256,7 +256,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "30-Days-Of-Python",
-        "stars": 36914,
+        "stars": 36921,
         "url": "https://github.com/Asabeneh/30-Days-Of-Python"
     },
     {
@@ -291,12 +291,12 @@
         ],
         "currentPeriodStars": 126,
         "description": "A collective list of free APIs",
-        "forks": 32266,
+        "forks": 32267,
         "fullname": "public-apis/public-apis",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "public-apis",
-        "stars": 297609,
+        "stars": 297620,
         "url": "https://github.com/public-apis/public-apis"
     },
     {
@@ -331,7 +331,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "immich",
-        "stars": 38740,
+        "stars": 38747,
         "url": "https://github.com/immich-app/immich"
     },
     {
@@ -371,7 +371,7 @@
         "language": "C++",
         "languageColor": "#f34b7d",
         "name": "react-native",
-        "stars": 117039,
+        "stars": 117041,
         "url": "https://github.com/facebook/react-native"
     },
     {
@@ -411,7 +411,7 @@
         "language": "PHP",
         "languageColor": "#4F5D95",
         "name": "laravel",
-        "stars": 77437,
+        "stars": 77440,
         "url": "https://github.com/laravel/laravel"
     },
     {
@@ -441,12 +441,12 @@
         ],
         "currentPeriodStars": 46,
         "description": "Fast, secure, efficient backup program",
-        "forks": 1506,
+        "forks": 1507,
         "fullname": "restic/restic",
         "language": "Go",
         "languageColor": "#00ADD8",
         "name": "restic",
-        "stars": 24768,
+        "stars": 24772,
         "url": "https://github.com/restic/restic"
     },
     {
@@ -486,7 +486,7 @@
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "next.js",
-        "stars": 122816,
+        "stars": 122818,
         "url": "https://github.com/vercel/next.js"
     },
     {
@@ -526,7 +526,7 @@
         "language": "Assembly",
         "languageColor": "#6E4C13",
         "name": "BLAKE3",
-        "stars": 4841,
+        "stars": 4843,
         "url": "https://github.com/BLAKE3-team/BLAKE3"
     }
 ]
