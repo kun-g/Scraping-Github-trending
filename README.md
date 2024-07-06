@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 18 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
 | [graphrag](https://github.com/microsoft/graphrag) | A modular graph-based Retrieval-Augmented Generation (RAG) system |
-| [fish-speech](https://github.com/fishaudio/fish-speech) | Brand new TTS solution |
-| [digitalhippo](https://github.com/joschan21/digitalhippo) | A Modern Fullstack E-Commerce Marketplace for Digital Products |
 | [graphrag-accelerator](https://github.com/Azure-Samples/graphrag-accelerator) | One-click deploy of a Knowledge Graph powered RAG (GraphRAG) in Azure |
-| [mindsdb](https://github.com/mindsdb/mindsdb) | The platform for building AI from enterprise data |
-| [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) | 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. |
-| [react-native](https://github.com/facebook/react-native) | A framework for building native applications using React |
+| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
+| [fish-speech](https://github.com/fishaudio/fish-speech) | Brand new TTS solution |
+| [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Interactive roadmaps, guides and other educational content to help developers grow in their careers. |
+| [spotify-player](https://github.com/aome510/spotify-player) | A Spotify player in the terminal with full feature parity |
+| [gpt4all](https://github.com/nomic-ai/gpt4all) | GPT4All: Chat with Local LLMs on Any Device |
+| [supabase](https://github.com/supabase/supabase) | The open source Firebase alternative. |
+| [nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) | Community curated list of templates for the nuclei engine to find security vulnerabilities. |
+| [BLAKE3](https://github.com/BLAKE3-team/BLAKE3) | the official Rust and C implementations of the BLAKE3 cryptographic hash function |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
