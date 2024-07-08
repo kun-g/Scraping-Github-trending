@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [graphrag](https://github.com/microsoft/graphrag) | A modular graph-based Retrieval-Augmented Generation (RAG) system |
-| [spotify-player](https://github.com/aome510/spotify-player) | A Spotify player in the terminal with full feature parity |
-| [fish-speech](https://github.com/fishaudio/fish-speech) | Brand new TTS solution |
-| [keyhunt](https://github.com/albertobsd/keyhunt) | privkey hunt for crypto currencies that use secp256k1 elliptic curve |
 | [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [security-research](https://github.com/google/security-research) | This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code. |
-| [bevy](https://github.com/bevyengine/bevy) | A refreshingly simple data-driven game engine built in Rust |
-| [Suhail-Md](https://github.com/SuhailTechInfo/Suhail-Md) | meet Suhail-Md, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. Suhail-Md brings a world of excitement and joy to your chats ✨🤖 |
-| [Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Python - 100天从新手到大师 |
+| [graphrag](https://github.com/microsoft/graphrag) | A modular graph-based Retrieval-Augmented Generation (RAG) system |
+| [ui](https://github.com/shadcn-ui/ui) | Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source. |
+| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
 | [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
+| [keyhunt](https://github.com/albertobsd/keyhunt) | privkey hunt for crypto currencies that use secp256k1 elliptic curve |
+| [gaianet-node](https://github.com/GaiaNet-AI/gaianet-node) | Install and run your own AI agent service |
+| [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) | 一个基于 electron 的音乐软件 |
+| [disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains) | a list of disposable and temporary email address domains |
+| [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project-based tutorials |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
