@@ -31,12 +31,12 @@
         ],
         "currentPeriodStars": 1201,
         "description": "\u300aHello \u7b97\u6cd5\u300b\uff1a\u52a8\u753b\u56fe\u89e3\u3001\u4e00\u952e\u8fd0\u884c\u7684\u6570\u636e\u7ed3\u6784\u4e0e\u7b97\u6cd5\u6559\u7a0b\u3002\u652f\u6301 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart \u4ee3\u7801\u3002\u7b80\u4f53\u7248\u548c\u7e41\u4f53\u7248\u540c\u6b65\u66f4\u65b0\uff0cEnglish version ongoing",
-        "forks": 10494,
+        "forks": 10503,
         "fullname": "krahets/hello-algo",
         "language": "Java",
         "languageColor": "#b07219",
         "name": "hello-algo",
-        "stars": 82721,
+        "stars": 82795,
         "url": "https://github.com/krahets/hello-algo"
     },
     {
@@ -71,12 +71,12 @@
         ],
         "currentPeriodStars": 251,
         "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
-        "forks": 616,
+        "forks": 618,
         "fullname": "stanford-oval/storm",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "storm",
-        "stars": 6043,
+        "stars": 6056,
         "url": "https://github.com/stanford-oval/storm"
     },
     {
@@ -111,7 +111,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "tiptap",
-        "stars": 25178,
+        "stars": 25183,
         "url": "https://github.com/ueberdosis/tiptap"
     },
     {
@@ -146,7 +146,7 @@
         "language": "Rust",
         "languageColor": "#dea584",
         "name": "tabby",
-        "stars": 19011,
+        "stars": 19029,
         "url": "https://github.com/TabbyML/tabby"
     },
     {
@@ -184,7 +184,7 @@
         "forks": 26928,
         "fullname": "codecrafters-io/build-your-own-x",
         "name": "build-your-own-x",
-        "stars": 286494,
+        "stars": 286504,
         "url": "https://github.com/codecrafters-io/build-your-own-x"
     },
     {
@@ -209,12 +209,12 @@
         ],
         "currentPeriodStars": 80,
         "description": "We write your reusable computer vision tools. \ud83d\udc9c",
-        "forks": 1345,
+        "forks": 1346,
         "fullname": "roboflow/supervision",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "supervision",
-        "stars": 17473,
+        "stars": 17480,
         "url": "https://github.com/roboflow/supervision"
     },
     {
@@ -254,7 +254,7 @@
         "language": "Shell",
         "languageColor": "#89e051",
         "name": "nvm",
-        "stars": 77651,
+        "stars": 77653,
         "url": "https://github.com/nvm-sh/nvm"
     },
     {
@@ -294,7 +294,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "aider",
-        "stars": 13604,
+        "stars": 13609,
         "url": "https://github.com/paul-gauthier/aider"
     },
     {
@@ -329,12 +329,12 @@
         ],
         "currentPeriodStars": 167,
         "description": "Code at the speed of thought \u2013 Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-        "forks": 2165,
+        "forks": 2166,
         "fullname": "zed-industries/zed",
         "language": "Rust",
         "languageColor": "#dea584",
         "name": "zed",
-        "stars": 41326,
+        "stars": 41332,
         "url": "https://github.com/zed-industries/zed"
     },
     {
@@ -369,7 +369,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "bunkerweb",
-        "stars": 4797,
+        "stars": 4802,
         "url": "https://github.com/bunkerity/bunkerweb"
     },
     {
@@ -409,7 +409,7 @@
         "language": "C",
         "languageColor": "#555555",
         "name": "obs-studio",
-        "stars": 57482,
+        "stars": 57490,
         "url": "https://github.com/obsproject/obs-studio"
     },
     {
@@ -449,7 +449,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "cpython",
-        "stars": 61067,
+        "stars": 61070,
         "url": "https://github.com/python/cpython"
     },
     {
@@ -479,12 +479,12 @@
         ],
         "currentPeriodStars": 330,
         "description": "Crawlee\u2014A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with BeautifulSoup, Playwright, and raw HTTP. Both headful and headless mode. With proxy rotation.",
-        "forks": 121,
+        "forks": 123,
         "fullname": "apify/crawlee-python",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "crawlee-python",
-        "stars": 1699,
+        "stars": 1710,
         "url": "https://github.com/apify/crawlee-python"
     },
     {
@@ -519,12 +519,12 @@
         ],
         "currentPeriodStars": 28,
         "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager \u2013 all in one",
-        "forks": 2568,
+        "forks": 2569,
         "fullname": "oven-sh/bun",
         "language": "Zig",
         "languageColor": "#ec915c",
         "name": "bun",
-        "stars": 71986,
+        "stars": 71989,
         "url": "https://github.com/oven-sh/bun"
     },
     {
@@ -599,12 +599,12 @@
         ],
         "currentPeriodStars": 15,
         "description": "The Cradle framework is a first attempt at General Computer Control (GCC). Cradle supports agents to ace any computer task by enabling strong reasoning abilities, self-improvment, and skill curation, in a standardized general environment with minimal requirements.",
-        "forks": 88,
+        "forks": 90,
         "fullname": "BAAI-Agents/Cradle",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "Cradle",
-        "stars": 898,
+        "stars": 900,
         "url": "https://github.com/BAAI-Agents/Cradle"
     },
     {
@@ -644,7 +644,7 @@
         "language": "Shell",
         "languageColor": "#89e051",
         "name": "termux-packages",
-        "stars": 12692,
+        "stars": 12693,
         "url": "https://github.com/termux/termux-packages"
     },
     {
@@ -679,7 +679,7 @@
         "language": "C++",
         "languageColor": "#f34b7d",
         "name": "Sunshine",
-        "stars": 15795,
+        "stars": 15797,
         "url": "https://github.com/LizardByte/Sunshine"
     },
     {
@@ -714,7 +714,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "text-generation-webui",
-        "stars": 38388,
+        "stars": 38391,
         "url": "https://github.com/oobabooga/text-generation-webui"
     },
     {
@@ -749,12 +749,12 @@
         ],
         "currentPeriodStars": 17,
         "description": "\ud83c\udf1f Wiki of OI / ICPC for everyone. \uff08\u67d0\u5927\u578b\u6e38\u620f\u7ebf\u4e0a\u653b\u7565\uff0c\u5185\u542b\u70ab\u9177\u7b97\u672f\u9b54\u6cd5\uff09",
-        "forks": 3710,
+        "forks": 3709,
         "fullname": "OI-wiki/OI-wiki",
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "OI-wiki",
-        "stars": 19518,
+        "stars": 19526,
         "url": "https://github.com/OI-wiki/OI-wiki"
     }
 ]
