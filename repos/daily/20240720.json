@@ -1,0 +1,527 @@
+[
+    {
+        "author": "tokio-rs",
+        "avatar": "https://github.com/tokio-rs.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/33116358",
+                "href": "https://github.com/traviscibot",
+                "username": "traviscibot"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6180",
+                "href": "https://github.com/carllerche",
+                "username": "carllerche"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/928074",
+                "href": "https://github.com/Darksonn",
+                "username": "Darksonn"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/64996",
+                "href": "https://github.com/alexcrichton",
+                "username": "alexcrichton"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/43724913",
+                "href": "https://github.com/taiki-e",
+                "username": "taiki-e"
+            }
+        ],
+        "currentPeriodStars": 123,
+        "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+        "forks": 2362,
+        "fullname": "tokio-rs/tokio",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "name": "tokio",
+        "stars": 25829,
+        "url": "https://github.com/tokio-rs/tokio"
+    },
+    {
+        "author": "mem0ai",
+        "avatar": "https://github.com/mem0ai.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4302268",
+                "href": "https://github.com/taranjeet",
+                "username": "taranjeet"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2945708",
+                "href": "https://github.com/deshraj",
+                "username": "deshraj"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/14180064",
+                "href": "https://github.com/cachho",
+                "username": "cachho"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/28777802",
+                "href": "https://github.com/deven298",
+                "username": "deven298"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/73601258",
+                "href": "https://github.com/sidmohanty11",
+                "username": "sidmohanty11"
+            }
+        ],
+        "currentPeriodStars": 765,
+        "description": "The memory layer for Personalized AI",
+        "forks": 1234,
+        "fullname": "mem0ai/mem0",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "mem0",
+        "stars": 10426,
+        "url": "https://github.com/mem0ai/mem0"
+    },
+    {
+        "author": "actions",
+        "avatar": "https://github.com/actions.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/72681142",
+                "href": "https://github.com/459680",
+                "username": "459680"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/47745270",
+                "href": "https://github.com/al-cheb",
+                "username": "al-cheb"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/48208649",
+                "href": "https://github.com/miketimofeev",
+                "username": "miketimofeev"
+            }
+        ],
+        "currentPeriodStars": 7,
+        "description": "GitHub Actions runner images",
+        "forks": 2949,
+        "fullname": "actions/runner-images",
+        "language": "PowerShell",
+        "languageColor": "#012456",
+        "name": "runner-images",
+        "stars": 9539,
+        "url": "https://github.com/actions/runner-images"
+    },
+    {
+        "author": "stanford-oval",
+        "avatar": "https://github.com/stanford-oval.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/67158122",
+                "href": "https://github.com/shaoyijia",
+                "username": "shaoyijia"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/51142637",
+                "href": "https://github.com/Yucheng-Jiang",
+                "username": "Yucheng-Jiang"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/20087851",
+                "href": "https://github.com/gavrielc",
+                "username": "gavrielc"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2359196",
+                "href": "https://github.com/rmcc3",
+                "username": "rmcc3"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/96901711",
+                "href": "https://github.com/AMMAS1",
+                "username": "AMMAS1"
+            }
+        ],
+        "currentPeriodStars": 263,
+        "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+        "forks": 719,
+        "fullname": "stanford-oval/storm",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "storm",
+        "stars": 7348,
+        "url": "https://github.com/stanford-oval/storm"
+    },
+    {
+        "author": "hiyouga",
+        "avatar": "https://github.com/hiyouga.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/16256802",
+                "href": "https://github.com/hiyouga",
+                "username": "hiyouga"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/64362896",
+                "href": "https://github.com/BUAADreamer",
+                "username": "BUAADreamer"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/11713241",
+                "href": "https://github.com/codemayq",
+                "username": "codemayq"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/45327989",
+                "href": "https://github.com/marko1616",
+                "username": "marko1616"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/10822018",
+                "href": "https://github.com/wangxingjun778",
+                "username": "wangxingjun778"
+            }
+        ],
+        "currentPeriodStars": 250,
+        "description": "A WebUI for Efficient Fine-Tuning of 100+ LLMs (ACL 2024)",
+        "forks": 3333,
+        "fullname": "hiyouga/LLaMA-Factory",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "LLaMA-Factory",
+        "stars": 27022,
+        "url": "https://github.com/hiyouga/LLaMA-Factory"
+    },
+    {
+        "author": "git-ecosystem",
+        "avatar": "https://github.com/git-ecosystem.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5658207",
+                "href": "https://github.com/mjcheetham",
+                "username": "mjcheetham"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/11321782",
+                "href": "https://github.com/ldennington",
+                "username": "ldennington"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/714283",
+                "href": "https://github.com/vtbassmatt",
+                "username": "vtbassmatt"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4755420",
+                "href": "https://github.com/kyle-rader",
+                "username": "kyle-rader"
+            }
+        ],
+        "currentPeriodStars": 126,
+        "description": "Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.",
+        "forks": 1654,
+        "fullname": "git-ecosystem/git-credential-manager",
+        "language": "C#",
+        "languageColor": "#178600",
+        "name": "git-credential-manager",
+        "stars": 6260,
+        "url": "https://github.com/git-ecosystem/git-credential-manager"
+    },
+    {
+        "author": "Raphire",
+        "avatar": "https://github.com/Raphire.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/9938813",
+                "href": "https://github.com/Raphire",
+                "username": "Raphire"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8408603",
+                "href": "https://github.com/jasonpatrickellykrause",
+                "username": "jasonpatrickellykrause"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/22633385",
+                "href": "https://github.com/eltociear",
+                "username": "eltociear"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/43364021",
+                "href": "https://github.com/JMacIV",
+                "username": "JMacIV"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/151682543",
+                "href": "https://github.com/DrbitsOFFICIAL",
+                "username": "DrbitsOFFICIAL"
+            }
+        ],
+        "currentPeriodStars": 287,
+        "description": "A simple, easy to use PowerShell script to remove pre-installed apps from windows, disable telemetry, remove Bing from windows search as well as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11.",
+        "forks": 315,
+        "fullname": "Raphire/Win11Debloat",
+        "language": "PowerShell",
+        "languageColor": "#012456",
+        "name": "Win11Debloat",
+        "stars": 7735,
+        "url": "https://github.com/Raphire/Win11Debloat"
+    },
+    {
+        "author": "terraform-aws-modules",
+        "avatar": "https://github.com/terraform-aws-modules.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/32174276",
+                "href": "https://github.com/semantic-release-bot",
+                "username": "semantic-release-bot"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/10913471",
+                "href": "https://github.com/bryantbiggs",
+                "username": "bryantbiggs"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/550783",
+                "href": "https://github.com/barryib",
+                "username": "barryib"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2502520",
+                "href": "https://github.com/brandonjbjelland",
+                "username": "brandonjbjelland"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8859277",
+                "href": "https://github.com/max-rocket-internet",
+                "username": "max-rocket-internet"
+            }
+        ],
+        "currentPeriodStars": 7,
+        "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources \ud83c\uddfa\ud83c\udde6",
+        "forks": 3999,
+        "fullname": "terraform-aws-modules/terraform-aws-eks",
+        "language": "HCL",
+        "languageColor": "#844FBA",
+        "name": "terraform-aws-eks",
+        "stars": 4280,
+        "url": "https://github.com/terraform-aws-modules/terraform-aws-eks"
+    },
+    {
+        "author": "samber",
+        "avatar": "https://github.com/samber.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2951285",
+                "href": "https://github.com/samber",
+                "username": "samber"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7072139",
+                "href": "https://github.com/CorentinClabaut",
+                "username": "CorentinClabaut"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/13454113",
+                "href": "https://github.com/jsrdxzw",
+                "username": "jsrdxzw"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/43294688",
+                "href": "https://github.com/wirekang",
+                "username": "wirekang"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/150219",
+                "href": "https://github.com/fossmo",
+                "username": "fossmo"
+            }
+        ],
+        "currentPeriodStars": 35,
+        "description": "\ud83d\udca5 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
+        "forks": 745,
+        "fullname": "samber/lo",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "name": "lo",
+        "stars": 16276,
+        "url": "https://github.com/samber/lo"
+    },
+    {
+        "author": "hashicorp",
+        "avatar": "https://github.com/hashicorp.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/28627",
+                "href": "https://github.com/jefferai",
+                "username": "jefferai"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3053672",
+                "href": "https://github.com/vishalnayak",
+                "username": "vishalnayak"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1916073",
+                "href": "https://github.com/briankassouf",
+                "username": "briankassouf"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/592032",
+                "href": "https://github.com/armon",
+                "username": "armon"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5587236",
+                "href": "https://github.com/ncabatoff",
+                "username": "ncabatoff"
+            }
+        ],
+        "currentPeriodStars": 170,
+        "description": "A tool for secrets management, encryption as a service, and privileged access management",
+        "forks": 4136,
+        "fullname": "hashicorp/vault",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "name": "vault",
+        "stars": 30360,
+        "url": "https://github.com/hashicorp/vault"
+    },
+    {
+        "author": "immich-app",
+        "avatar": "https://github.com/immich-app.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/27055614",
+                "href": "https://github.com/alextran1502",
+                "username": "alextran1502"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4334196",
+                "href": "https://github.com/jrasm91",
+                "username": "jrasm91"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/59014050",
+                "href": "https://github.com/michelheusschen",
+                "username": "michelheusschen"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/101130780",
+                "href": "https://github.com/mertalev",
+                "username": "mertalev"
+            }
+        ],
+        "currentPeriodStars": 112,
+        "description": "High performance self-hosted photo and video management solution.",
+        "forks": 1905,
+        "fullname": "immich-app/immich",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "immich",
+        "stars": 39731,
+        "url": "https://github.com/immich-app/immich"
+    },
+    {
+        "author": "microsoft",
+        "avatar": "https://github.com/microsoft.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/127216156",
+                "href": "https://github.com/markwallace-microsoft",
+                "username": "markwallace-microsoft"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/36091529",
+                "href": "https://github.com/shawncal",
+                "username": "shawncal"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/13853051",
+                "href": "https://github.com/dmytrostruk",
+                "username": "dmytrostruk"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2642209",
+                "href": "https://github.com/stephentoub",
+                "username": "stephentoub"
+            }
+        ],
+        "currentPeriodStars": 25,
+        "description": "Integrate cutting-edge LLM technology quickly and easily into your apps",
+        "forks": 2986,
+        "fullname": "microsoft/semantic-kernel",
+        "language": "C#",
+        "languageColor": "#178600",
+        "name": "semantic-kernel",
+        "stars": 20687,
+        "url": "https://github.com/microsoft/semantic-kernel"
+    },
+    {
+        "author": "abseil",
+        "avatar": "https://github.com/abseil.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/761129",
+                "href": "https://github.com/derekmauro",
+                "username": "derekmauro"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/69321728",
+                "href": "https://github.com/ezbr",
+                "username": "ezbr"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/13262534",
+                "href": "https://github.com/suertreus",
+                "username": "suertreus"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7139495",
+                "href": "https://github.com/dinord",
+                "username": "dinord"
+            }
+        ],
+        "currentPeriodStars": 80,
+        "description": "Abseil Common Libraries (C++)",
+        "forks": 2546,
+        "fullname": "abseil/abseil-cpp",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "name": "abseil-cpp",
+        "stars": 14468,
+        "url": "https://github.com/abseil/abseil-cpp"
+    },
+    {
+        "author": "NVIDIA",
+        "avatar": "https://github.com/NVIDIA.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/26294424",
+                "href": "https://github.com/kaiyux",
+                "username": "kaiyux"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/39303645",
+                "href": "https://github.com/Shixiaowei02",
+                "username": "Shixiaowei02"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/143764042",
+                "href": "https://github.com/juney-nvidia",
+                "username": "juney-nvidia"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/137257613",
+                "href": "https://github.com/nv-guomingz",
+                "username": "nv-guomingz"
+            }
+        ],
+        "currentPeriodStars": 29,
+        "description": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.",
+        "forks": 827,
+        "fullname": "NVIDIA/TensorRT-LLM",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "name": "TensorRT-LLM",
+        "stars": 7573,
+        "url": "https://github.com/NVIDIA/TensorRT-LLM"
+    }
+]
