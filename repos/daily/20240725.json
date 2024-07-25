@@ -26,12 +26,12 @@
         ],
         "currentPeriodStars": 476,
         "description": "#1 Locally hosted web application that allows you to perform various operations on PDF files",
-        "forks": 2523,
+        "forks": 2525,
         "fullname": "Stirling-Tools/Stirling-PDF",
         "language": "Java",
         "languageColor": "#b07219",
         "name": "Stirling-PDF",
-        "stars": 33869,
+        "stars": 33895,
         "url": "https://github.com/Stirling-Tools/Stirling-PDF"
     },
     {
@@ -56,7 +56,7 @@
         "language": "Java",
         "languageColor": "#b07219",
         "name": "maestro",
-        "stars": 1396,
+        "stars": 1411,
         "url": "https://github.com/Netflix/maestro"
     },
     {
@@ -91,12 +91,12 @@
         ],
         "currentPeriodStars": 768,
         "description": "A collective list of free APIs",
-        "forks": 32806,
+        "forks": 32807,
         "fullname": "public-apis/public-apis",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "public-apis",
-        "stars": 306272,
+        "stars": 306278,
         "url": "https://github.com/public-apis/public-apis"
     },
     {
@@ -124,9 +124,9 @@
                 "username": "mpu"
             },
             {
-                "avatar": "https://avatars.githubusercontent.com/u/5880981",
-                "href": "https://github.com/brozi",
-                "username": "brozi"
+                "avatar": "https://avatars.githubusercontent.com/u/1458245",
+                "href": "https://github.com/newmerator",
+                "username": "newmerator"
             }
         ],
         "currentPeriodStars": 34,
@@ -136,7 +136,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "codellama",
-        "stars": 15560,
+        "stars": 15561,
         "url": "https://github.com/meta-llama/codellama"
     },
     {
@@ -176,7 +176,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "mem0",
-        "stars": 16976,
+        "stars": 16984,
         "url": "https://github.com/mem0ai/mem0"
     },
     {
@@ -187,11 +187,6 @@
                 "avatar": "https://avatars.githubusercontent.com/u/96800776",
                 "href": "https://github.com/1ilit",
                 "username": "1ilit"
-            },
-            {
-                "avatar": "https://avatars.githubusercontent.com/u/139706527",
-                "href": "https://github.com/dott1e",
-                "username": "dott1e"
             },
             {
                 "avatar": "https://avatars.githubusercontent.com/u/2656517",
@@ -207,6 +202,11 @@
                 "avatar": "https://avatars.githubusercontent.com/u/57859613",
                 "href": "https://github.com/ClaPalo",
                 "username": "ClaPalo"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/67461134",
+                "href": "https://github.com/huyjs9",
+                "username": "huyjs9"
             }
         ],
         "currentPeriodStars": 318,
@@ -216,7 +216,7 @@
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "drawdb",
-        "stars": 12871,
+        "stars": 12884,
         "url": "https://github.com/drawdb-io/drawdb"
     },
     {
@@ -256,7 +256,7 @@
         "language": "C",
         "languageColor": "#555555",
         "name": "unleashed-firmware",
-        "stars": 15976,
+        "stars": 15977,
         "url": "https://github.com/DarkFlippers/unleashed-firmware"
     },
     {
@@ -296,7 +296,7 @@
         "language": "Go",
         "languageColor": "#00ADD8",
         "name": "testify",
-        "stars": 22690,
+        "stars": 22692,
         "url": "https://github.com/stretchr/testify"
     },
     {
@@ -331,12 +331,12 @@
         ],
         "currentPeriodStars": 234,
         "description": "The official Meta Llama 3 GitHub site",
-        "forks": 2590,
+        "forks": 2591,
         "fullname": "meta-llama/llama3",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "llama3",
-        "stars": 23889,
+        "stars": 23902,
         "url": "https://github.com/meta-llama/llama3"
     },
     {
@@ -371,7 +371,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "hoppscotch",
-        "stars": 61900,
+        "stars": 61904,
         "url": "https://github.com/hoppscotch/hoppscotch"
     },
     {
@@ -411,7 +411,7 @@
         "language": "C++",
         "languageColor": "#f34b7d",
         "name": "spdlog",
-        "stars": 23187,
+        "stars": 23188,
         "url": "https://github.com/gabime/spdlog"
     },
     {
@@ -446,12 +446,12 @@
         ],
         "currentPeriodStars": 178,
         "description": "LLM inference in C/C++",
-        "forks": 8938,
+        "forks": 8939,
         "fullname": "ggerganov/llama.cpp",
         "language": "C++",
         "languageColor": "#f34b7d",
         "name": "llama.cpp",
-        "stars": 62301,
+        "stars": 62303,
         "url": "https://github.com/ggerganov/llama.cpp"
     },
     {
@@ -491,7 +491,7 @@
         "language": "C",
         "languageColor": "#555555",
         "name": "lz4",
-        "stars": 9595,
+        "stars": 9598,
         "url": "https://github.com/lz4/lz4"
     },
     {
@@ -526,12 +526,12 @@
         ],
         "currentPeriodStars": 53,
         "description": "\ud83c\udfd3 The open-source synthetic monitoring platform \ud83c\udfd3",
-        "forks": 343,
+        "forks": 344,
         "fullname": "openstatusHQ/openstatus",
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "openstatus",
-        "stars": 5570,
+        "stars": 5574,
         "url": "https://github.com/openstatusHQ/openstatus"
     },
     {
@@ -566,7 +566,7 @@
         "language": "Rust",
         "languageColor": "#dea584",
         "name": "qdrant",
-        "stars": 19119,
+        "stars": 19122,
         "url": "https://github.com/qdrant/qdrant"
     }
 ]
