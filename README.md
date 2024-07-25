@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [mem0](https://github.com/mem0ai/mem0) | The memory layer for Personalized AI |
 | [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | #1 Locally hosted web application that allows you to perform various operations on PDF files |
+| [maestro](https://github.com/Netflix/maestro) | Maestro: Netflix’s Workflow Orchestrator |
 | [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [Xray-core](https://github.com/XTLS/Xray-core) | Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration. |
-| [v2rayNG](https://github.com/2dust/v2rayNG) | A V2Ray client for Android, support Xray core and v2fly core |
-| [DrissionPage](https://github.com/g1879/DrissionPage) | 基于python的网页自动化工具。既能控制浏览器，也能收发数据包。可兼顾浏览器自动化的便利性和requests的高效率。功能强大，内置无数人性化设计和便捷功能。语法简洁而优雅，代码量少。 |
-| [nativelink](https://github.com/TraceMachina/nativelink) | NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Buck2, Reclient, and other RBE-compatible build systems. It offers drastically faster builds, reduced test flakiness, and significant infrastructure cost savings. |
-| [LazyVim](https://github.com/LazyVim/LazyVim) | Neovim config for the lazy |
-| [typebot.io](https://github.com/baptisteArno/typebot.io) | 💬 Typebot is a powerful chatbot builder that you can self-host. |
-| [llama.cpp](https://github.com/ggerganov/llama.cpp) | LLM inference in C/C++ |
+| [codellama](https://github.com/meta-llama/codellama) | Inference code for CodeLlama models |
+| [mem0](https://github.com/mem0ai/mem0) | The memory layer for Personalized AI |
+| [drawdb](https://github.com/drawdb-io/drawdb) | Free, simple, and intuitive online database design tool and SQL generator. |
+| [unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) | Flipper Zero Unleashed Firmware |
+| [testify](https://github.com/stretchr/testify) | A toolkit with common assertions and mocks that plays nicely with the standard library |
+| [llama3](https://github.com/meta-llama/llama3) | The official Meta Llama 3 GitHub site |
+| [hoppscotch](https://github.com/hoppscotch/hoppscotch) | Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia) |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
