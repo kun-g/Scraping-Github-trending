@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [maestro](https://github.com/Netflix/maestro) | Maestro: Netflix’s Workflow Orchestrator |
-| [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | #1 Locally hosted web application that allows you to perform various operations on PDF files |
-| [llama3](https://github.com/meta-llama/llama3) | The official Meta Llama 3 GitHub site |
-| [dotnet-starter-kit](https://github.com/fullstackhero/dotnet-starter-kit) | Production Grade Cloud-Ready .NET 8 Starter Kit (Web API + Blazor Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included. |
-| [LazyVim](https://github.com/LazyVim/LazyVim) | Neovim config for the lazy |
+| [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics |
 | [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
-| [hoppscotch](https://github.com/hoppscotch/hoppscotch) | Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia) |
-| [lz4](https://github.com/lz4/lz4) | Extremely Fast Compression algorithm |
+| [maestro](https://github.com/Netflix/maestro) | Maestro: Netflix’s Workflow Orchestrator |
+| [llama3](https://github.com/meta-llama/llama3) | The official Meta Llama 3 GitHub site |
+| [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project-based tutorials |
 | [spdlog](https://github.com/gabime/spdlog) | Fast C++ logging library. |
-| [llama.cpp](https://github.com/ggerganov/llama.cpp) | LLM inference in C/C++ |
+| [dotnet-starter-kit](https://github.com/fullstackhero/dotnet-starter-kit) | Production Grade Cloud-Ready .NET 8 Starter Kit (Web API + Blazor Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included. |
+| [unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) | Flipper Zero Unleashed Firmware |
+| [lz4](https://github.com/lz4/lz4) | Extremely Fast Compression algorithm |
+| [folly](https://github.com/facebook/folly) | An open-source C++ library developed and used at Facebook. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
