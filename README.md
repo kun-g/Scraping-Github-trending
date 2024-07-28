@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics |
+| [lean4](https://github.com/leanprover/lean4) | Lean 4 programming language and theorem prover |
 | [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
-| [maestro](https://github.com/Netflix/maestro) | Maestro: Netflix’s Workflow Orchestrator |
-| [llama3](https://github.com/meta-llama/llama3) | The official Meta Llama 3 GitHub site |
-| [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project-based tutorials |
-| [spdlog](https://github.com/gabime/spdlog) | Fast C++ logging library. |
-| [dotnet-starter-kit](https://github.com/fullstackhero/dotnet-starter-kit) | Production Grade Cloud-Ready .NET 8 Starter Kit (Web API + Blazor Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included. |
-| [unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) | Flipper Zero Unleashed Firmware |
-| [lz4](https://github.com/lz4/lz4) | Extremely Fast Compression algorithm |
 | [folly](https://github.com/facebook/folly) | An open-source C++ library developed and used at Facebook. |
+| [drawdb](https://github.com/drawdb-io/drawdb) | Free, simple, and intuitive online database design tool and SQL generator. |
+| [llama3](https://github.com/meta-llama/llama3) | The official Meta Llama 3 GitHub site |
+| [ollama](https://github.com/ollama/ollama) | Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models. |
+| [lobe-chat](https://github.com/lobehub/lobe-chat) | 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application. |
+| [spdlog](https://github.com/gabime/spdlog) | Fast C++ logging library. |
+| [bulma](https://github.com/jgthms/bulma) | Modern CSS framework based on Flexbox |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
