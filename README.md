@@ -45,14 +45,14 @@
 <!-- START OF MONTHLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [hello-algo](https://github.com/krahets/hello-algo) | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing |
 | [storm](https://github.com/stanford-oval/storm) | An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations. |
-| [fish-speech](https://github.com/fishaudio/fish-speech) | Brand new TTS solution |
-| [books](https://github.com/free-educa/books) | o armazém de livros |
-| [mindsdb](https://github.com/mindsdb/mindsdb) | The platform for building AI from enterprise data |
-| [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) | 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw |
+| [hello-algo](https://github.com/krahets/hello-algo) | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing |
+| [graphrag](https://github.com/microsoft/graphrag) | A modular graph-based Retrieval-Augmented Generation (RAG) system |
 | [drawdb](https://github.com/drawdb-io/drawdb) | Free, simple, and intuitive online database design tool and SQL generator. |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [Docker-OSX](https://github.com/sickcodes/Docker-OSX) | Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers. |
+| [books](https://github.com/free-educa/books) | o armazém de livros |
+| [tiptap](https://github.com/ueberdosis/tiptap) | The headless rich text editor framework for web artisans. |
+| [graphrag-accelerator](https://github.com/Azure-Samples/graphrag-accelerator) | One-click deploy of a Knowledge Graph powered RAG (GraphRAG) in Azure |
 | [everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) | 人人都能用英语 |
-| [sing-box](https://github.com/SagerNet/sing-box) | The universal proxy platform |
+| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
 <!-- END OF MONTHLY_TOP10_REPOS -->
