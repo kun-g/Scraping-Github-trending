@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) | GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows) |
-| [zapret](https://github.com/bol-van/zapret) | DPI bypass multi platform |
-| [nuclei](https://github.com/projectdiscovery/nuclei) | Fast and customizable vulnerability scanner based on simple YAML based DSL. |
-| [googletest](https://github.com/google/googletest) | GoogleTest - Google Testing and Mocking Framework |
-| [uptime-kuma](https://github.com/louislam/uptime-kuma) | A fancy self-hosted monitoring tool |
-| [follow](https://github.com/RSSNext/follow) | 🧡 Next generation information browser |
 | [torchchat](https://github.com/pytorch/torchchat) | Run PyTorch LLMs locally on servers, desktop and mobile |
-| [pocketbase](https://github.com/pocketbase/pocketbase) | Open Source realtime backend in 1 file |
-| [dice](https://github.com/DiceDB/dice) | A drop-in replacement of Redis with SQL-based realtime reactivity. |
-| [Docker-OSX](https://github.com/sickcodes/Docker-OSX) | Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers. |
+| [sqlite-vec](https://github.com/asg017/sqlite-vec) | Work-in-progress vector search SQLite extension that runs anywhere. |
+| [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) | GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows) |
+| [vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) | A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！ |
+| [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | A collection of (mostly) technical things every software developer should know about |
+| [SpoofDPI](https://github.com/xvzc/SpoofDPI) | A simple and fast anti-censorship tool written in Go |
+| [zapret](https://github.com/bol-van/zapret) | DPI bypass multi platform |
+| [googletest](https://github.com/google/googletest) | GoogleTest - Google Testing and Mocking Framework |
+| [mlc-llm](https://github.com/mlc-ai/mlc-llm) | Universal LLM Deployment Engine with ML Compilation |
+| [follow](https://github.com/RSSNext/follow) | 🧡 Next generation information browser |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
