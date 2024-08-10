@@ -14,6 +14,11 @@
                 "username": "SamuraiBarbi"
             },
             {
+                "avatar": "https://avatars.githubusercontent.com/u/3577968",
+                "href": "https://github.com/Rhymond",
+                "username": "Rhymond"
+            },
+            {
                 "avatar": "https://avatars.githubusercontent.com/u/5254836",
                 "href": "https://github.com/c4fun",
                 "username": "c4fun"
@@ -26,12 +31,12 @@
         ],
         "currentPeriodStars": 1628,
         "description": "real time face swap and one-click video deepfake with only a single image (uncensored)",
-        "forks": 612,
+        "forks": 627,
         "fullname": "hacksider/Deep-Live-Cam",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "Deep-Live-Cam",
-        "stars": 5104,
+        "stars": 5194,
         "url": "https://github.com/hacksider/Deep-Live-Cam"
     },
     {
@@ -61,12 +66,12 @@
         ],
         "currentPeriodStars": 188,
         "description": "A visual no-code/code-free web crawler/spider\u6613\u91c7\u96c6\uff1a\u4e00\u4e2a\u53ef\u89c6\u5316\u6d4f\u89c8\u5668\u81ea\u52a8\u5316\u6d4b\u8bd5/\u6570\u636e\u91c7\u96c6/\u722c\u866b\u8f6f\u4ef6\uff0c\u53ef\u4ee5\u65e0\u4ee3\u7801\u56fe\u5f62\u5316\u7684\u8bbe\u8ba1\u548c\u6267\u884c\u722c\u866b\u4efb\u52a1\u3002\u522b\u540d\uff1aServiceWrapper\u9762\u5411Web\u5e94\u7528\u7684\u667a\u80fd\u5316\u670d\u52a1\u5c01\u88c5\u7cfb\u7edf\u3002",
-        "forks": 3793,
+        "forks": 3796,
         "fullname": "NaiboWang/EasySpider",
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "EasySpider",
-        "stars": 31636,
+        "stars": 31639,
         "url": "https://github.com/NaiboWang/EasySpider"
     },
     {
@@ -96,12 +101,12 @@
         ],
         "currentPeriodStars": 30,
         "description": "Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core",
-        "forks": 2748,
+        "forks": 2749,
         "fullname": "ardalis/CleanArchitecture",
         "language": "C#",
         "languageColor": "#178600",
         "name": "CleanArchitecture",
-        "stars": 15917,
+        "stars": 15918,
         "url": "https://github.com/ardalis/CleanArchitecture"
     },
     {
@@ -136,12 +141,12 @@
         ],
         "currentPeriodStars": 464,
         "description": "\u2728 The Next Gen Airtable Alternative: No-Code Postgres",
-        "forks": 371,
+        "forks": 372,
         "fullname": "teableio/teable",
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "teable",
-        "stars": 8653,
+        "stars": 8658,
         "url": "https://github.com/teableio/teable"
     },
     {
@@ -176,7 +181,7 @@
         "language": "Dockerfile",
         "languageColor": "#384d54",
         "name": "nodebestpractices",
-        "stars": 97997,
+        "stars": 98004,
         "url": "https://github.com/goldbergyoni/nodebestpractices"
     },
     {
@@ -216,7 +221,7 @@
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "ckeditor5",
-        "stars": 9115,
+        "stars": 9121,
         "url": "https://github.com/ckeditor/ckeditor5"
     },
     {
@@ -256,7 +261,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "MiniCPM-V",
-        "stars": 9731,
+        "stars": 9732,
         "url": "https://github.com/OpenBMB/MiniCPM-V"
     },
     {
@@ -296,7 +301,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "sentry",
-        "stars": 38049,
+        "stars": 38050,
         "url": "https://github.com/getsentry/sentry"
     },
     {
@@ -361,7 +366,7 @@
         "language": "Jupyter Notebook",
         "languageColor": "#DA5B0B",
         "name": "llm-course",
-        "stars": 35586,
+        "stars": 35588,
         "url": "https://github.com/mlabonne/llm-course"
     },
     {
@@ -401,7 +406,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "infisical",
-        "stars": 13899,
+        "stars": 13902,
         "url": "https://github.com/Infisical/infisical"
     },
     {
@@ -436,12 +441,12 @@
         ],
         "currentPeriodStars": 147,
         "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
-        "forks": 5654,
+        "forks": 5655,
         "fullname": "langgenius/dify",
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "dify",
-        "stars": 41128,
+        "stars": 41132,
         "url": "https://github.com/langgenius/dify"
     },
     {
@@ -481,7 +486,7 @@
         "language": "Swift",
         "languageColor": "#F05138",
         "name": "swift-composable-architecture",
-        "stars": 12023,
+        "stars": 12024,
         "url": "https://github.com/pointfreeco/swift-composable-architecture"
     },
     {
@@ -521,7 +526,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "taipy",
-        "stars": 10448,
+        "stars": 10449,
         "url": "https://github.com/Avaiga/taipy"
     }
 ]
