@@ -1,0 +1,585 @@
+[
+    {
+        "author": "grafana",
+        "avatar": "https://github.com/grafana.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/10999",
+                "href": "https://github.com/torkelo",
+                "username": "torkelo"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/618863",
+                "href": "https://github.com/bergquist",
+                "username": "bergquist"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1668778",
+                "href": "https://github.com/marefr",
+                "username": "marefr"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/705951",
+                "href": "https://github.com/ryantxu",
+                "username": "ryantxu"
+            }
+        ],
+        "currentPeriodStars": 275,
+        "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+        "forks": 11848,
+        "fullname": "grafana/grafana",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "grafana",
+        "stars": 62881,
+        "url": "https://github.com/grafana/grafana"
+    },
+    {
+        "author": "twbs",
+        "avatar": "https://github.com/twbs.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/98681",
+                "href": "https://github.com/mdo",
+                "username": "mdo"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/419884",
+                "href": "https://github.com/cvrebert",
+                "username": "cvrebert"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/349621",
+                "href": "https://github.com/XhmikosR",
+                "username": "XhmikosR"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/169705",
+                "href": "https://github.com/fat",
+                "username": "fat"
+            }
+        ],
+        "currentPeriodStars": 564,
+        "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+        "forks": 78680,
+        "fullname": "twbs/bootstrap",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "name": "bootstrap",
+        "stars": 169518,
+        "url": "https://github.com/twbs/bootstrap"
+    },
+    {
+        "author": "chen08209",
+        "avatar": "https://github.com/chen08209.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/66918471",
+                "href": "https://github.com/chen08209",
+                "username": "chen08209"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/41893946",
+                "href": "https://github.com/txyyh",
+                "username": "txyyh"
+            }
+        ],
+        "currentPeriodStars": 1151,
+        "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
+        "forks": 299,
+        "fullname": "chen08209/FlClash",
+        "language": "Dart",
+        "languageColor": "#00B4AB",
+        "name": "FlClash",
+        "stars": 5237,
+        "url": "https://github.com/chen08209/FlClash"
+    },
+    {
+        "author": "aws",
+        "avatar": "https://github.com/aws.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/26334334",
+                "href": "https://github.com/jonathan-innis",
+                "username": "jonathan-innis"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2585992",
+                "href": "https://github.com/ellistarn",
+                "username": "ellistarn"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3503707",
+                "href": "https://github.com/bwagner5",
+                "username": "bwagner5"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/74629455",
+                "href": "https://github.com/engedaam",
+                "username": "engedaam"
+            }
+        ],
+        "currentPeriodStars": 21,
+        "description": "Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",
+        "forks": 887,
+        "fullname": "aws/karpenter-provider-aws",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "name": "karpenter-provider-aws",
+        "stars": 6408,
+        "url": "https://github.com/aws/karpenter-provider-aws"
+    },
+    {
+        "author": "krahets",
+        "avatar": "https://github.com/krahets.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/26993056",
+                "href": "https://github.com/krahets",
+                "username": "krahets"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/24556310",
+                "href": "https://github.com/justin-tse",
+                "username": "justin-tse"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/99076655",
+                "href": "https://github.com/codingonion",
+                "username": "codingonion"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3739017",
+                "href": "https://github.com/nuomi1",
+                "username": "nuomi1"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/39959756",
+                "href": "https://github.com/Gonglja",
+                "username": "Gonglja"
+            }
+        ],
+        "currentPeriodStars": 223,
+        "description": "\u300aHello \u7b97\u6cd5\u300b\uff1a\u52a8\u753b\u56fe\u89e3\u3001\u4e00\u952e\u8fd0\u884c\u7684\u6570\u636e\u7ed3\u6784\u4e0e\u7b97\u6cd5\u6559\u7a0b\u3002\u652f\u6301 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart \u4ee3\u7801\u3002\u7b80\u4f53\u7248\u548c\u7e41\u4f53\u7248\u540c\u6b65\u66f4\u65b0\uff0cEnglish version ongoing",
+        "forks": 11715,
+        "fullname": "krahets/hello-algo",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "name": "hello-algo",
+        "stars": 92695,
+        "url": "https://github.com/krahets/hello-algo"
+    },
+    {
+        "author": "electric-sql",
+        "avatar": "https://github.com/electric-sql.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/31130",
+                "href": "https://github.com/samwillis",
+                "username": "samwillis"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/12274098",
+                "href": "https://github.com/msfstef",
+                "username": "msfstef"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/16009100",
+                "href": "https://github.com/pmp-p",
+                "username": "pmp-p"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1523305",
+                "href": "https://github.com/kamilogorek",
+                "username": "kamilogorek"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4133076",
+                "href": "https://github.com/gregnr",
+                "username": "gregnr"
+            }
+        ],
+        "currentPeriodStars": 232,
+        "description": "Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno from https://electric-sql.com",
+        "forks": 117,
+        "fullname": "electric-sql/pglite",
+        "language": "PLpgSQL",
+        "languageColor": "#336790",
+        "name": "pglite",
+        "stars": 6888,
+        "url": "https://github.com/electric-sql/pglite"
+    },
+    {
+        "author": "princeton-nlp",
+        "avatar": "https://github.com/princeton-nlp.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/13602468",
+                "href": "https://github.com/klieret",
+                "username": "klieret"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/20109662",
+                "href": "https://github.com/ofirpress",
+                "username": "ofirpress"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/10174390",
+                "href": "https://github.com/john-b-yang",
+                "username": "john-b-yang"
+            }
+        ],
+        "currentPeriodStars": 19,
+        "description": "SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.47% of bugs in the SWE-bench evaluation set and takes just 1 minute to run.",
+        "forks": 1234,
+        "fullname": "princeton-nlp/SWE-agent",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "SWE-agent",
+        "stars": 12373,
+        "url": "https://github.com/princeton-nlp/SWE-agent"
+    },
+    {
+        "author": "ostris",
+        "avatar": "https://github.com/ostris.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/195960",
+                "href": "https://github.com/jaretburkett",
+                "username": "jaretburkett"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/319055",
+                "href": "https://github.com/fofr",
+                "username": "fofr"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/19583189",
+                "href": "https://github.com/FoundSol",
+                "username": "FoundSol"
+            }
+        ],
+        "currentPeriodStars": 164,
+        "description": "Various AI scripts. Mostly Stable Diffusion stuff.",
+        "forks": 99,
+        "fullname": "ostris/ai-toolkit",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "ai-toolkit",
+        "stars": 1125,
+        "url": "https://github.com/ostris/ai-toolkit"
+    },
+    {
+        "author": "codecrafters-io",
+        "avatar": "https://github.com/codecrafters-io.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1736595",
+                "href": "https://github.com/danistefanovic",
+                "username": "danistefanovic"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3893573",
+                "href": "https://github.com/rohitpaulk",
+                "username": "rohitpaulk"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3149580",
+                "href": "https://github.com/sarupbanskota",
+                "username": "sarupbanskota"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/61480354",
+                "href": "https://github.com/fake-rookie",
+                "username": "fake-rookie"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/16154204",
+                "href": "https://github.com/bauripalash",
+                "username": "bauripalash"
+            }
+        ],
+        "currentPeriodStars": 444,
+        "description": "Master programming by recreating your favorite technologies from scratch.",
+        "forks": 27678,
+        "fullname": "codecrafters-io/build-your-own-x",
+        "name": "build-your-own-x",
+        "stars": 294895,
+        "url": "https://github.com/codecrafters-io/build-your-own-x"
+    },
+    {
+        "author": "hcengineering",
+        "avatar": "https://github.com/hcengineering.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/477235",
+                "href": "https://github.com/haiodo",
+                "username": "haiodo"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/80476319",
+                "href": "https://github.com/BykhovDenis",
+                "username": "BykhovDenis"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/75478678",
+                "href": "https://github.com/SasLord",
+                "username": "SasLord"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/87076238",
+                "href": "https://github.com/aplatoff",
+                "username": "aplatoff"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5876715",
+                "href": "https://github.com/aonnikov",
+                "username": "aonnikov"
+            }
+        ],
+        "currentPeriodStars": 81,
+        "description": "Huly \u2014 All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)",
+        "forks": 512,
+        "fullname": "hcengineering/platform",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "platform",
+        "stars": 6006,
+        "url": "https://github.com/hcengineering/platform"
+    },
+    {
+        "author": "meshery",
+        "avatar": "https://github.com/meshery.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7570704",
+                "href": "https://github.com/leecalcote",
+                "username": "leecalcote"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/79860504",
+                "href": "https://github.com/MUzairS15",
+                "username": "MUzairS15"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/73700530",
+                "href": "https://github.com/theBeginner86",
+                "username": "theBeginner86"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/43276904",
+                "href": "https://github.com/Revolyssup",
+                "username": "Revolyssup"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/48255244",
+                "href": "https://github.com/Abhishek-kumar09",
+                "username": "Abhishek-kumar09"
+            }
+        ],
+        "currentPeriodStars": 31,
+        "description": "Meshery, the cloud native manager",
+        "forks": 1682,
+        "fullname": "meshery/meshery",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "name": "meshery",
+        "stars": 5420,
+        "url": "https://github.com/meshery/meshery"
+    },
+    {
+        "author": "kedro-org",
+        "avatar": "https://github.com/kedro-org.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/49397448",
+                "href": "https://github.com/merelcht",
+                "username": "merelcht"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6642900",
+                "href": "https://github.com/lorenabalan",
+                "username": "lorenabalan"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5180475",
+                "href": "https://github.com/stichbury",
+                "username": "stichbury"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/18221871",
+                "href": "https://github.com/noklam",
+                "username": "noklam"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3482916",
+                "href": "https://github.com/idanov",
+                "username": "idanov"
+            }
+        ],
+        "currentPeriodStars": 18,
+        "description": "Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, and modular.",
+        "forks": 884,
+        "fullname": "kedro-org/kedro",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "kedro",
+        "stars": 9680,
+        "url": "https://github.com/kedro-org/kedro"
+    },
+    {
+        "author": "CopilotKit",
+        "avatar": "https://github.com/CopilotKit.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/746397",
+                "href": "https://github.com/ataibarkai",
+                "username": "ataibarkai"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/247775",
+                "href": "https://github.com/mme",
+                "username": "mme"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4976416",
+                "href": "https://github.com/arielweinberger",
+                "username": "arielweinberger"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/16150528",
+                "href": "https://github.com/arnoldmukisa",
+                "username": "arnoldmukisa"
+            }
+        ],
+        "currentPeriodStars": 143,
+        "description": "A framework for building custom AI Copilots \ud83e\udd16 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas.",
+        "forks": 892,
+        "fullname": "CopilotKit/CopilotKit",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "CopilotKit",
+        "stars": 9009,
+        "url": "https://github.com/CopilotKit/CopilotKit"
+    },
+    {
+        "author": "gogf",
+        "avatar": "https://github.com/gogf.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/26347176",
+                "href": "https://github.com/gqcn",
+                "username": "gqcn"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5014017",
+                "href": "https://github.com/jroam",
+                "username": "jroam"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4954644",
+                "href": "https://github.com/huangqian1985",
+                "username": "huangqian1985"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/29968474",
+                "href": "https://github.com/hailaz",
+                "username": "hailaz"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7379580",
+                "href": "https://github.com/jianchenma",
+                "username": "jianchenma"
+            }
+        ],
+        "currentPeriodStars": 9,
+        "description": "GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.",
+        "forks": 1549,
+        "fullname": "gogf/gf",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "name": "gf",
+        "stars": 11303,
+        "url": "https://github.com/gogf/gf"
+    },
+    {
+        "author": "neovim",
+        "avatar": "https://github.com/neovim.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/35768171",
+                "href": "https://github.com/zeertzjq",
+                "username": "zeertzjq"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1359421",
+                "href": "https://github.com/justinmk",
+                "username": "justinmk"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8740057",
+                "href": "https://github.com/janlazo",
+                "username": "janlazo"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1363104",
+                "href": "https://github.com/bfredl",
+                "username": "bfredl"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/322097",
+                "href": "https://github.com/ZyX-I",
+                "username": "ZyX-I"
+            }
+        ],
+        "currentPeriodStars": 46,
+        "description": "Vim-fork focused on extensibility and usability",
+        "forks": 5530,
+        "fullname": "neovim/neovim",
+        "language": "Vim Script",
+        "languageColor": "#199f4b",
+        "name": "neovim",
+        "stars": 80891,
+        "url": "https://github.com/neovim/neovim"
+    },
+    {
+        "author": "ollama",
+        "avatar": "https://github.com/ollama.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2372640",
+                "href": "https://github.com/mxyng",
+                "username": "mxyng"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/251292",
+                "href": "https://github.com/jmorganca",
+                "username": "jmorganca"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4033016",
+                "href": "https://github.com/dhiltgen",
+                "username": "dhiltgen"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5853428",
+                "href": "https://github.com/BruceMacD",
+                "username": "BruceMacD"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/633681",
+                "href": "https://github.com/technovangelist",
+                "username": "technovangelist"
+            }
+        ],
+        "currentPeriodStars": 168,
+        "description": "Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.",
+        "forks": 6569,
+        "fullname": "ollama/ollama",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "name": "ollama",
+        "stars": 85291,
+        "url": "https://github.com/ollama/ollama"
+    }
+]
