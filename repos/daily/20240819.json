@@ -1,0 +1,520 @@
+[
+    {
+        "author": "goauthentik",
+        "avatar": "https://github.com/goauthentik.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1932513",
+                "href": "https://github.com/BeryJu",
+                "username": "BeryJu"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/18313093",
+                "href": "https://github.com/rissson",
+                "username": "rissson"
+            }
+        ],
+        "currentPeriodStars": 348,
+        "description": "The authentication glue you need.",
+        "forks": 694,
+        "fullname": "goauthentik/authentik",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "authentik",
+        "stars": 9334,
+        "url": "https://github.com/goauthentik/authentik"
+    },
+    {
+        "author": "danielmiessler",
+        "avatar": "https://github.com/danielmiessler.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/50654",
+                "href": "https://github.com/danielmiessler",
+                "username": "danielmiessler"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/9218431",
+                "href": "https://github.com/xssdoctor",
+                "username": "xssdoctor"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/10410523",
+                "href": "https://github.com/agu3rra",
+                "username": "agu3rra"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1226059",
+                "href": "https://github.com/ksylvan",
+                "username": "ksylvan"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/147817765",
+                "href": "https://github.com/EugenEisler",
+                "username": "EugenEisler"
+            }
+        ],
+        "currentPeriodStars": 60,
+        "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+        "forks": 2141,
+        "fullname": "danielmiessler/fabric",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "name": "fabric",
+        "stars": 20563,
+        "url": "https://github.com/danielmiessler/fabric"
+    },
+    {
+        "author": "krahets",
+        "avatar": "https://github.com/krahets.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/26993056",
+                "href": "https://github.com/krahets",
+                "username": "krahets"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/24556310",
+                "href": "https://github.com/justin-tse",
+                "username": "justin-tse"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/99076655",
+                "href": "https://github.com/codingonion",
+                "username": "codingonion"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3739017",
+                "href": "https://github.com/nuomi1",
+                "username": "nuomi1"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/39959756",
+                "href": "https://github.com/Gonglja",
+                "username": "Gonglja"
+            }
+        ],
+        "currentPeriodStars": 138,
+        "description": "\u300aHello \u7b97\u6cd5\u300b\uff1a\u52a8\u753b\u56fe\u89e3\u3001\u4e00\u952e\u8fd0\u884c\u7684\u6570\u636e\u7ed3\u6784\u4e0e\u7b97\u6cd5\u6559\u7a0b\u3002\u652f\u6301 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart \u4ee3\u7801\u3002\u7b80\u4f53\u7248\u548c\u7e41\u4f53\u7248\u540c\u6b65\u66f4\u65b0\uff0cEnglish version ongoing",
+        "forks": 11754,
+        "fullname": "krahets/hello-algo",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "name": "hello-algo",
+        "stars": 93034,
+        "url": "https://github.com/krahets/hello-algo"
+    },
+    {
+        "author": "opendatalab",
+        "avatar": "https://github.com/opendatalab.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/11393164",
+                "href": "https://github.com/myhloli",
+                "username": "myhloli"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/102640628",
+                "href": "https://github.com/dt-yy",
+                "username": "dt-yy"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/60862764",
+                "href": "https://github.com/drunkpig",
+                "username": "drunkpig"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/25022954",
+                "href": "https://github.com/Focusshang",
+                "username": "Focusshang"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/47357227",
+                "href": "https://github.com/papayalove",
+                "username": "papayalove"
+            }
+        ],
+        "currentPeriodStars": 199,
+        "description": "A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.\u4e00\u7ad9\u5f0f\u5f00\u6e90\u9ad8\u8d28\u91cf\u6570\u636e\u63d0\u53d6\u5de5\u5177\uff0c\u652f\u6301PDF/\u7f51\u9875/\u591a\u683c\u5f0f\u7535\u5b50\u4e66\u63d0\u53d6\u3002",
+        "forks": 615,
+        "fullname": "opendatalab/MinerU",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "MinerU",
+        "stars": 8282,
+        "url": "https://github.com/opendatalab/MinerU"
+    },
+    {
+        "author": "AriaLyy",
+        "avatar": "https://github.com/AriaLyy.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/10437293",
+                "href": "https://github.com/AriaLyy",
+                "username": "AriaLyy"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1905070",
+                "href": "https://github.com/chenfei0928",
+                "username": "chenfei0928"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/16101638",
+                "href": "https://github.com/DaveBoy",
+                "username": "DaveBoy"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6185657",
+                "href": "https://github.com/ls1110924",
+                "username": "ls1110924"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7715791",
+                "href": "https://github.com/liuxiaowei",
+                "username": "liuxiaowei"
+            }
+        ],
+        "currentPeriodStars": 17,
+        "description": "",
+        "forks": 922,
+        "fullname": "AriaLyy/Aria",
+        "name": "Aria",
+        "stars": 5595,
+        "url": "https://github.com/AriaLyy/Aria"
+    },
+    {
+        "author": "toss",
+        "avatar": "https://github.com/toss.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3102175",
+                "href": "https://github.com/raon0211",
+                "username": "raon0211"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/50468628",
+                "href": "https://github.com/dayongkr",
+                "username": "dayongkr"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/70563791",
+                "href": "https://github.com/mass2527",
+                "username": "mass2527"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/49871906",
+                "href": "https://github.com/D-Sketon",
+                "username": "D-Sketon"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/99087502",
+                "href": "https://github.com/haejunejung",
+                "username": "haejunejung"
+            }
+        ],
+        "currentPeriodStars": 51,
+        "description": "A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller\u2014a major upgrade to lodash.",
+        "forks": 180,
+        "fullname": "toss/es-toolkit",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "es-toolkit",
+        "stars": 4468,
+        "url": "https://github.com/toss/es-toolkit"
+    },
+    {
+        "author": "microsoft",
+        "avatar": "https://github.com/microsoft.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3671933",
+                "href": "https://github.com/AlonsoGuevara",
+                "username": "AlonsoGuevara"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/113544",
+                "href": "https://github.com/darthtrevino",
+                "username": "darthtrevino"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/654554",
+                "href": "https://github.com/jgbradley1",
+                "username": "jgbradley1"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/90728133",
+                "href": "https://github.com/ha2trinh",
+                "username": "ha2trinh"
+            }
+        ],
+        "currentPeriodStars": 139,
+        "description": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
+        "forks": 1398,
+        "fullname": "microsoft/graphrag",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "graphrag",
+        "stars": 15340,
+        "url": "https://github.com/microsoft/graphrag"
+    },
+    {
+        "author": "tinygrad",
+        "avatar": "https://github.com/tinygrad.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/72895",
+                "href": "https://github.com/geohot",
+                "username": "geohot"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2525478",
+                "href": "https://github.com/chenyuxyz",
+                "username": "chenyuxyz"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/77887910",
+                "href": "https://github.com/Qazalin",
+                "username": "Qazalin"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/138685161",
+                "href": "https://github.com/nimlgen",
+                "username": "nimlgen"
+            }
+        ],
+        "currentPeriodStars": 20,
+        "description": "You like pytorch? You like micrograd? You love tinygrad! \u2764\ufe0f",
+        "forks": 2816,
+        "fullname": "tinygrad/tinygrad",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "tinygrad",
+        "stars": 25662,
+        "url": "https://github.com/tinygrad/tinygrad"
+    },
+    {
+        "author": "OpenBB-finance",
+        "avatar": "https://github.com/OpenBB-finance.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/25267873",
+                "href": "https://github.com/DidierRLopes",
+                "username": "DidierRLopes"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/18151143",
+                "href": "https://github.com/jmaslek",
+                "username": "jmaslek"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/72827203",
+                "href": "https://github.com/colin99d",
+                "username": "colin99d"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/79287829",
+                "href": "https://github.com/montezdesousa",
+                "username": "montezdesousa"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/85772166",
+                "href": "https://github.com/deeleeramone",
+                "username": "deeleeramone"
+            }
+        ],
+        "currentPeriodStars": 367,
+        "description": "Investment Research for Everyone, Everywhere.",
+        "forks": 2657,
+        "fullname": "OpenBB-finance/OpenBB",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "OpenBB",
+        "stars": 27628,
+        "url": "https://github.com/OpenBB-finance/OpenBB"
+    },
+    {
+        "author": "hcengineering",
+        "avatar": "https://github.com/hcengineering.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/477235",
+                "href": "https://github.com/haiodo",
+                "username": "haiodo"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/80476319",
+                "href": "https://github.com/BykhovDenis",
+                "username": "BykhovDenis"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/75478678",
+                "href": "https://github.com/SasLord",
+                "username": "SasLord"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/87076238",
+                "href": "https://github.com/aplatoff",
+                "username": "aplatoff"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5876715",
+                "href": "https://github.com/aonnikov",
+                "username": "aonnikov"
+            }
+        ],
+        "currentPeriodStars": 200,
+        "description": "Huly \u2014 All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)",
+        "forks": 534,
+        "fullname": "hcengineering/platform",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "platform",
+        "stars": 6505,
+        "url": "https://github.com/hcengineering/platform"
+    },
+    {
+        "author": "jellyfin",
+        "avatar": "https://github.com/jellyfin.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3607463",
+                "href": "https://github.com/LukePulverenti",
+                "username": "LukePulverenti"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/21289123",
+                "href": "https://github.com/Bond-009",
+                "username": "Bond-009"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/24963659",
+                "href": "https://github.com/crobibero",
+                "username": "crobibero"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/675118",
+                "href": "https://github.com/cvium",
+                "username": "cvium"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4031396",
+                "href": "https://github.com/joshuaboniface",
+                "username": "joshuaboniface"
+            }
+        ],
+        "currentPeriodStars": 45,
+        "description": "The Free Software Media System",
+        "forks": 2984,
+        "fullname": "jellyfin/jellyfin",
+        "language": "C#",
+        "languageColor": "#178600",
+        "name": "jellyfin",
+        "stars": 32636,
+        "url": "https://github.com/jellyfin/jellyfin"
+    },
+    {
+        "author": "princeton-nlp",
+        "avatar": "https://github.com/princeton-nlp.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/13602468",
+                "href": "https://github.com/klieret",
+                "username": "klieret"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/20109662",
+                "href": "https://github.com/ofirpress",
+                "username": "ofirpress"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/10174390",
+                "href": "https://github.com/john-b-yang",
+                "username": "john-b-yang"
+            }
+        ],
+        "currentPeriodStars": 33,
+        "description": "SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.47% of bugs in the SWE-bench evaluation set and takes just 1 minute to run.",
+        "forks": 1248,
+        "fullname": "princeton-nlp/SWE-agent",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "SWE-agent",
+        "stars": 12559,
+        "url": "https://github.com/princeton-nlp/SWE-agent"
+    },
+    {
+        "author": "DiceDB",
+        "avatar": "https://github.com/DiceDB.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4745789",
+                "href": "https://github.com/arpitbbhayani",
+                "username": "arpitbbhayani"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/33001894",
+                "href": "https://github.com/JyotinderSingh",
+                "username": "JyotinderSingh"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/36959497",
+                "href": "https://github.com/manav2401",
+                "username": "manav2401"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6272212",
+                "href": "https://github.com/gauravsarma1992",
+                "username": "gauravsarma1992"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/34504243",
+                "href": "https://github.com/yashs360",
+                "username": "yashs360"
+            }
+        ],
+        "currentPeriodStars": 18,
+        "description": "A drop-in replacement of Redis with SQL-based realtime reactivity.",
+        "forks": 379,
+        "fullname": "DiceDB/dice",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "name": "dice",
+        "stars": 2817,
+        "url": "https://github.com/DiceDB/dice"
+    },
+    {
+        "author": "mealie-recipes",
+        "avatar": "https://github.com/mealie-recipes.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/64056131",
+                "href": "https://github.com/hay-kot",
+                "username": "hay-kot"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/71845777",
+                "href": "https://github.com/michael-genson",
+                "username": "michael-genson"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3479092",
+                "href": "https://github.com/boc-the-git",
+                "username": "boc-the-git"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/24235032",
+                "href": "https://github.com/Kuchenpirat",
+                "username": "Kuchenpirat"
+            }
+        ],
+        "currentPeriodStars": 31,
+        "description": "Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor",
+        "forks": 642,
+        "fullname": "mealie-recipes/mealie",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "mealie",
+        "stars": 6030,
+        "url": "https://github.com/mealie-recipes/mealie"
+    }
+]
