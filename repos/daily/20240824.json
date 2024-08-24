@@ -1,0 +1,587 @@
+[
+    {
+        "author": "zed-industries",
+        "avatar": "https://github.com/zed-industries.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/482957",
+                "href": "https://github.com/as-cii",
+                "username": "as-cii"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/326587",
+                "href": "https://github.com/maxbrunsfeld",
+                "username": "maxbrunsfeld"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1789",
+                "href": "https://github.com/nathansobo",
+                "username": "nathansobo"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2280405",
+                "href": "https://github.com/mikayla-maki",
+                "username": "mikayla-maki"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1486634",
+                "href": "https://github.com/maxdeviant",
+                "username": "maxdeviant"
+            }
+        ],
+        "currentPeriodStars": 156,
+        "description": "Code at the speed of thought \u2013 Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+        "forks": 2434,
+        "fullname": "zed-industries/zed",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "name": "zed",
+        "stars": 44990,
+        "url": "https://github.com/zed-industries/zed"
+    },
+    {
+        "author": "QuivrHQ",
+        "avatar": "https://github.com/QuivrHQ.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/19614572",
+                "href": "https://github.com/StanGirard",
+                "username": "StanGirard"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/63923024",
+                "href": "https://github.com/mamadoudicko",
+                "username": "mamadoudicko"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/44063631",
+                "href": "https://github.com/Zewed",
+                "username": "Zewed"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/100568984",
+                "href": "https://github.com/gozineb",
+                "username": "gozineb"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/61308761",
+                "href": "https://github.com/adityanandanx",
+                "username": "adityanandanx"
+            }
+        ],
+        "currentPeriodStars": 248,
+        "description": "Open-source RAG Framework for building GenAI Second Brains \ud83e\udde0 Build productivity assistant (RAG) \u26a1\ufe0f\ud83e\udd16 Chat with your docs (PDF, CSV, ...) & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq that you can share with users ! Efficient retrieval augmented generation framework",
+        "forks": 3421,
+        "fullname": "QuivrHQ/quivr",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "quivr",
+        "stars": 35100,
+        "url": "https://github.com/QuivrHQ/quivr"
+    },
+    {
+        "author": "toss",
+        "avatar": "https://github.com/toss.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3102175",
+                "href": "https://github.com/raon0211",
+                "username": "raon0211"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/50468628",
+                "href": "https://github.com/dayongkr",
+                "username": "dayongkr"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/70563791",
+                "href": "https://github.com/mass2527",
+                "username": "mass2527"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/49871906",
+                "href": "https://github.com/D-Sketon",
+                "username": "D-Sketon"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/99087502",
+                "href": "https://github.com/haejunejung",
+                "username": "haejunejung"
+            }
+        ],
+        "currentPeriodStars": 286,
+        "description": "A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller\u2014a major upgrade to lodash.",
+        "forks": 233,
+        "fullname": "toss/es-toolkit",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "es-toolkit",
+        "stars": 5719,
+        "url": "https://github.com/toss/es-toolkit"
+    },
+    {
+        "author": "microsoft",
+        "avatar": "https://github.com/microsoft.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2171100",
+                "href": "https://github.com/daanx",
+                "username": "daanx"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4922778",
+                "href": "https://github.com/devnexen",
+                "username": "devnexen"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/478921",
+                "href": "https://github.com/jserv",
+                "username": "jserv"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4117506",
+                "href": "https://github.com/res2k",
+                "username": "res2k"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/67392",
+                "href": "https://github.com/asl",
+                "username": "asl"
+            }
+        ],
+        "currentPeriodStars": 106,
+        "description": "mimalloc is a compact general purpose allocator with excellent performance.",
+        "forks": 821,
+        "fullname": "microsoft/mimalloc",
+        "language": "C",
+        "languageColor": "#555555",
+        "name": "mimalloc",
+        "stars": 10071,
+        "url": "https://github.com/microsoft/mimalloc"
+    },
+    {
+        "author": "OpenCTI-Platform",
+        "avatar": "https://github.com/OpenCTI-Platform.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/285555",
+                "href": "https://github.com/richard-julien",
+                "username": "richard-julien"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1334279",
+                "href": "https://github.com/SamuelHassine",
+                "username": "SamuelHassine"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/75783086",
+                "href": "https://github.com/Archidoit",
+                "username": "Archidoit"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/50013774",
+                "href": "https://github.com/Kedae",
+                "username": "Kedae"
+            }
+        ],
+        "currentPeriodStars": 79,
+        "description": "Open Cyber Threat Intelligence Platform",
+        "forks": 865,
+        "fullname": "OpenCTI-Platform/opencti",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "opencti",
+        "stars": 5785,
+        "url": "https://github.com/OpenCTI-Platform/opencti"
+    },
+    {
+        "author": "astral-sh",
+        "avatar": "https://github.com/astral-sh.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1309177",
+                "href": "https://github.com/charliermarsh",
+                "username": "charliermarsh"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2586601",
+                "href": "https://github.com/zanieb",
+                "username": "zanieb"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6826232",
+                "href": "https://github.com/konstin",
+                "username": "konstin"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/456674",
+                "href": "https://github.com/BurntSushi",
+                "username": "BurntSushi"
+            }
+        ],
+        "currentPeriodStars": 461,
+        "description": "An extremely fast Python package and project manager, written in Rust.",
+        "forks": 507,
+        "fullname": "astral-sh/uv",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "name": "uv",
+        "stars": 17486,
+        "url": "https://github.com/astral-sh/uv"
+    },
+    {
+        "author": "microsoft",
+        "avatar": "https://github.com/microsoft.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2511341",
+                "href": "https://github.com/leestott",
+                "username": "leestott"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/99078115",
+                "href": "https://github.com/skytin1004",
+                "username": "skytin1004"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/93169410",
+                "href": "https://github.com/kinfey",
+                "username": "kinfey"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/34180719",
+                "href": "https://github.com/JamboChen",
+                "username": "JamboChen"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3533489",
+                "href": "https://github.com/elbruno",
+                "username": "elbruno"
+            }
+        ],
+        "currentPeriodStars": 188,
+        "description": "This is a Phi-3 book for getting started with Phi-3. Phi-3, a family of open AI models developed by Microsoft. Phi-3 models are the most capable and cost-effective small language models (SLMs) available, outperforming models of the same size and next size up across a variety of language, reasoning, coding, and math benchmarks.",
+        "forks": 189,
+        "fullname": "microsoft/Phi-3CookBook",
+        "language": "Jupyter Notebook",
+        "languageColor": "#DA5B0B",
+        "name": "Phi-3CookBook",
+        "stars": 1942,
+        "url": "https://github.com/microsoft/Phi-3CookBook"
+    },
+    {
+        "author": "s0md3v",
+        "avatar": "https://github.com/s0md3v.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/26716802",
+                "href": "https://github.com/s0md3v",
+                "username": "s0md3v"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1835397",
+                "href": "https://github.com/henryruhs",
+                "username": "henryruhs"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/13403439",
+                "href": "https://github.com/K1llMan",
+                "username": "K1llMan"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/28835093",
+                "href": "https://github.com/Moeblack",
+                "username": "Moeblack"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/14222322",
+                "href": "https://github.com/TitasDas",
+                "username": "TitasDas"
+            }
+        ],
+        "currentPeriodStars": 165,
+        "description": "one-click face swap",
+        "forks": 6505,
+        "fullname": "s0md3v/roop",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "roop",
+        "stars": 26562,
+        "url": "https://github.com/s0md3v/roop"
+    },
+    {
+        "author": "aws",
+        "avatar": "https://github.com/aws.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/43144185",
+                "href": "https://github.com/aws-sdk-python-automation",
+                "username": "aws-sdk-python-automation"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/368057",
+                "href": "https://github.com/jamesls",
+                "username": "jamesls"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4605355",
+                "href": "https://github.com/kyleknap",
+                "username": "kyleknap"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8496417",
+                "href": "https://github.com/awstools",
+                "username": "awstools"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2643092",
+                "href": "https://github.com/JordonPhillips",
+                "username": "JordonPhillips"
+            }
+        ],
+        "currentPeriodStars": 8,
+        "description": "Universal Command Line Interface for Amazon Web Services",
+        "forks": 4064,
+        "fullname": "aws/aws-cli",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "aws-cli",
+        "stars": 15255,
+        "url": "https://github.com/aws/aws-cli"
+    },
+    {
+        "author": "fmtlib",
+        "avatar": "https://github.com/fmtlib.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/576385",
+                "href": "https://github.com/vitaut",
+                "username": "vitaut"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/382460",
+                "href": "https://github.com/phprus",
+                "username": "phprus"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1554508",
+                "href": "https://github.com/alexezeder",
+                "username": "alexezeder"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1381823",
+                "href": "https://github.com/DanielaE",
+                "username": "DanielaE"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/33922675",
+                "href": "https://github.com/jk-jeon",
+                "username": "jk-jeon"
+            }
+        ],
+        "currentPeriodStars": 61,
+        "description": "A modern formatting library",
+        "forks": 2448,
+        "fullname": "fmtlib/fmt",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "name": "fmt",
+        "stars": 20205,
+        "url": "https://github.com/fmtlib/fmt"
+    },
+    {
+        "author": "usebruno",
+        "avatar": "https://github.com/usebruno.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/9350733",
+                "href": "https://github.com/helloanoop",
+                "username": "helloanoop"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/25679466",
+                "href": "https://github.com/lohxt1",
+                "username": "lohxt1"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/39559178",
+                "href": "https://github.com/Its-treason",
+                "username": "Its-treason"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/191879",
+                "href": "https://github.com/survivant",
+                "username": "survivant"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/76877078",
+                "href": "https://github.com/therealrinku",
+                "username": "therealrinku"
+            }
+        ],
+        "currentPeriodStars": 98,
+        "description": "Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)",
+        "forks": 1113,
+        "fullname": "usebruno/bruno",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "name": "bruno",
+        "stars": 24246,
+        "url": "https://github.com/usebruno/bruno"
+    },
+    {
+        "author": "amnezia-vpn",
+        "avatar": "https://github.com/amnezia-vpn.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/23482029",
+                "href": "https://github.com/pokamest",
+                "username": "pokamest"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/15364855",
+                "href": "https://github.com/Nethius",
+                "username": "Nethius"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/141177744",
+                "href": "https://github.com/albexk",
+                "username": "albexk"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5472761",
+                "href": "https://github.com/outspace",
+                "username": "outspace"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1857572",
+                "href": "https://github.com/kolobchanin",
+                "username": "kolobchanin"
+            }
+        ],
+        "currentPeriodStars": 54,
+        "description": "Amnezia VPN Client (Desktop+Mobile)",
+        "forks": 224,
+        "fullname": "amnezia-vpn/amnezia-client",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "name": "amnezia-client",
+        "stars": 2700,
+        "url": "https://github.com/amnezia-vpn/amnezia-client"
+    },
+    {
+        "author": "NVlabs",
+        "avatar": "https://github.com/NVlabs.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/91149044",
+                "href": "https://github.com/yaolug",
+                "username": "yaolug"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/156256291",
+                "href": "https://github.com/Efficient-Large-Language-Model",
+                "username": "Efficient-Large-Language-Model"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/17592131",
+                "href": "https://github.com/meenchen",
+                "username": "meenchen"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3068011",
+                "href": "https://github.com/songhan",
+                "username": "songhan"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7783214",
+                "href": "https://github.com/Lyken17",
+                "username": "Lyken17"
+            }
+        ],
+        "currentPeriodStars": 148,
+        "description": "VILA - a multi-image visual language model with training, inference and evaluation recipe, deployable from cloud to edge (Jetson Orin and laptops)",
+        "forks": 114,
+        "fullname": "NVlabs/VILA",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "VILA",
+        "stars": 1480,
+        "url": "https://github.com/NVlabs/VILA"
+    },
+    {
+        "author": "yangshun",
+        "avatar": "https://github.com/yangshun.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1315101",
+                "href": "https://github.com/yangshun",
+                "username": "yangshun"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/65328119",
+                "href": "https://github.com/keanecjy",
+                "username": "keanecjy"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/77266823",
+                "href": "https://github.com/BryannYeap",
+                "username": "BryannYeap"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8487294",
+                "href": "https://github.com/jeffsieu",
+                "username": "jeffsieu"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/77237808",
+                "href": "https://github.com/s7u4rt99",
+                "username": "s7u4rt99"
+            }
+        ],
+        "currentPeriodStars": 100,
+        "description": "\ud83d\udcaf Curated coding interview preparation materials for busy software engineers",
+        "forks": 14474,
+        "fullname": "yangshun/tech-interview-handbook",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "tech-interview-handbook",
+        "stars": 115724,
+        "url": "https://github.com/yangshun/tech-interview-handbook"
+    },
+    {
+        "author": "deepset-ai",
+        "avatar": "https://github.com/deepset-ai.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5703634",
+                "href": "https://github.com/ZanSara",
+                "username": "ZanSara"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1563902",
+                "href": "https://github.com/tholor",
+                "username": "tholor"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3314350",
+                "href": "https://github.com/silvanocerza",
+                "username": "silvanocerza"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7241",
+                "href": "https://github.com/masci",
+                "username": "masci"
+            }
+        ],
+        "currentPeriodStars": 38,
+        "description": "\ud83d\udd0d LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.",
+        "forks": 1769,
+        "fullname": "deepset-ai/haystack",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "haystack",
+        "stars": 15376,
+        "url": "https://github.com/deepset-ai/haystack"
+    }
+]
