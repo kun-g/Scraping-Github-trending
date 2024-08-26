@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [yas](https://github.com/nashtech-garage/yas) | YAS: Yet Another Shop, a sample microservices project in Java |
-| [quivr](https://github.com/QuivrHQ/quivr) | Open-source RAG Framework for building GenAI Second Brains 🧠 Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...) & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq that you can share with users ! Efficient retrieval augmented generation framework |
-| [VILA](https://github.com/NVlabs/VILA) | VILA - a multi-image visual language model with training, inference and evaluation recipe, deployable from cloud to edge (Jetson Orin and laptops) |
+| [amnezia-client](https://github.com/amnezia-vpn/amnezia-client) | Amnezia VPN Client (Desktop+Mobile) |
+| [roop](https://github.com/s0md3v/roop) | one-click face swap |
 | [mimalloc](https://github.com/microsoft/mimalloc) | mimalloc is a compact general purpose allocator with excellent performance. |
-| [system-design-101](https://github.com/ByteByteGoHq/system-design-101) | Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. |
-| [NanoLog](https://github.com/PlatformLab/NanoLog) | Nanolog is an extremely performant nanosecond scale logging system for C++ that exposes a simple printf-like API. |
-| [fmt](https://github.com/fmtlib/fmt) | A modern formatting library |
-| [flatbuffers](https://github.com/google/flatbuffers) | FlatBuffers: Memory Efficient Serialization Library |
-| [opencti](https://github.com/OpenCTI-Platform/opencti) | Open Cyber Threat Intelligence Platform |
-| [rnote](https://github.com/flxzt/rnote) | Sketch and take handwritten notes. |
+| [LitServe](https://github.com/Lightning-AI/LitServe) | Lightning-fast serving engine for AI models. Flexible. Easy. Enterprise-scale. |
+| [frigate](https://github.com/blakeblackshear/frigate) | NVR with realtime local object detection for IP cameras |
+| [umami](https://github.com/umami-software/umami) | Umami is a simple, fast, privacy-focused alternative to Google Analytics. |
+| [Vencord](https://github.com/Vendicated/Vencord) | The cutest Discord client mod |
+| [llm.c](https://github.com/karpathy/llm.c) | LLM training in simple, raw C/CUDA |
+| [zed](https://github.com/zed-industries/zed) | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. |
+| [termux-app](https://github.com/termux/termux-app) | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
