@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [amnezia-client](https://github.com/amnezia-vpn/amnezia-client) | Amnezia VPN Client (Desktop+Mobile) |
-| [roop](https://github.com/s0md3v/roop) | one-click face swap |
-| [mimalloc](https://github.com/microsoft/mimalloc) | mimalloc is a compact general purpose allocator with excellent performance. |
-| [LitServe](https://github.com/Lightning-AI/LitServe) | Lightning-fast serving engine for AI models. Flexible. Easy. Enterprise-scale. |
-| [frigate](https://github.com/blakeblackshear/frigate) | NVR with realtime local object detection for IP cameras |
-| [umami](https://github.com/umami-software/umami) | Umami is a simple, fast, privacy-focused alternative to Google Analytics. |
-| [Vencord](https://github.com/Vendicated/Vencord) | The cutest Discord client mod |
-| [llm.c](https://github.com/karpathy/llm.c) | LLM training in simple, raw C/CUDA |
-| [zed](https://github.com/zed-industries/zed) | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. |
-| [termux-app](https://github.com/termux/termux-app) | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
+| [FlClash](https://github.com/chen08209/FlClash) | A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free. |
+| [hackingtool](https://github.com/Z4nzu/hackingtool) | ALL IN ONE Hacking Tool For Hackers |
+| [core](https://github.com/home-assistant/core) | 🏡 Open source home automation that puts local control and privacy first. |
+| [DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) | DevOps Roadmap for 2024. with learning resources |
+| [spotify-downloader](https://github.com/spotDL/spotify-downloader) | Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found). |
+| [Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) | Telegram-iOS |
+| [haystack](https://github.com/deepset-ai/haystack) | 🔍 LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots. |
+| [Xray-core](https://github.com/XTLS/Xray-core) | Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration. |
+| [tdesktop](https://github.com/telegramdesktop/tdesktop) | Telegram Desktop messaging app |
+| [bunkerweb](https://github.com/bunkerity/bunkerweb) | 🛡️ Open-source and next-generation Web Application Firewall (WAF) |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
