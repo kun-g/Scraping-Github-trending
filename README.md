@@ -29,16 +29,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [authentik](https://github.com/goauthentik/authentik) | The authentication glue you need. |
-| [es-toolkit](https://github.com/toss/es-toolkit) | A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash. |
-| [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 18 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
-| [stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) |  |
-| [ai-toolkit](https://github.com/ostris/ai-toolkit) | Various AI scripts. Mostly Stable Diffusion stuff. |
-| [aria2](https://github.com/aria2/aria2) | aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink. |
-| [uv](https://github.com/astral-sh/uv) | An extremely fast Python package and project manager, written in Rust. |
-| [parler-tts](https://github.com/huggingface/parler-tts) | Inference and training library for high-quality TTS models. |
-| [AeroSpace](https://github.com/nikitabobko/AeroSpace) | AeroSpace is an i3-like tiling window manager for macOS |
-| [MetaGPT](https://github.com/geekan/MetaGPT) | 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming |
+| [sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username across social networks |
+| [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion. |
+| [nocodb](https://github.com/nocodb/nocodb) | 🔥 🔥 🔥 Open Source Airtable Alternative |
+| [firecrawl](https://github.com/mendableai/firecrawl) | 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API. |
+| [roop](https://github.com/s0md3v/roop) | one-click face swap |
+| [erpnext](https://github.com/frappe/erpnext) | Free and Open Source Enterprise Resource Planning (ERP) |
+| [courses](https://github.com/anthropics/courses) | Anthropic's educational courses |
+| [coolify](https://github.com/coollabsio/coolify) | An open-source & self-hostable Heroku / Netlify / Vercel alternative. |
+| [spotify-downloader](https://github.com/spotDL/spotify-downloader) | Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found). |
+| [AFFiNE](https://github.com/toeverything/AFFiNE) | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
