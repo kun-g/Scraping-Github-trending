@@ -9,11 +9,6 @@
                 "username": "Zeyi-Lin"
             },
             {
-                "avatar": "https://avatars.githubusercontent.com/u/79990647",
-                "href": "https://github.com/SAKURA-CAT",
-                "username": "SAKURA-CAT"
-            },
-            {
                 "avatar": "https://avatars.githubusercontent.com/u/4829346",
                 "href": "https://github.com/houseme",
                 "username": "houseme"
@@ -27,16 +22,21 @@
                 "avatar": "https://avatars.githubusercontent.com/u/55043165",
                 "href": "https://github.com/swpfY",
                 "username": "swpfY"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/13063899",
+                "href": "https://github.com/malobaidan",
+                "username": "malobaidan"
             }
         ],
         "currentPeriodStars": 1897,
         "description": "\u26a1\ufe0fHivisionIDPhotos: a lightweight and efficient AI ID photos tools. \u4e00\u4e2a\u8f7b\u91cf\u7ea7\u7684AI\u8bc1\u4ef6\u7167\u5236\u4f5c\u7b97\u6cd5\u3002",
-        "forks": 585,
+        "forks": 586,
         "fullname": "Zeyi-Lin/HivisionIDPhotos",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "HivisionIDPhotos",
-        "stars": 6583,
+        "stars": 6592,
         "url": "https://github.com/Zeyi-Lin/HivisionIDPhotos"
     },
     {
@@ -111,7 +111,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "postiz-app",
-        "stars": 5645,
+        "stars": 5654,
         "url": "https://github.com/gitroomhq/postiz-app"
     },
     {
@@ -151,7 +151,7 @@
         "language": "C++",
         "languageColor": "#f34b7d",
         "name": "react-native",
-        "stars": 117989,
+        "stars": 117991,
         "url": "https://github.com/facebook/react-native"
     },
     {
@@ -186,10 +186,10 @@
         ],
         "currentPeriodStars": 61,
         "description": "Master the command line, in one page",
-        "forks": 14487,
+        "forks": 14488,
         "fullname": "jlevy/the-art-of-command-line",
         "name": "the-art-of-command-line",
-        "stars": 152429,
+        "stars": 152436,
         "url": "https://github.com/jlevy/the-art-of-command-line"
     },
     {
@@ -219,12 +219,12 @@
         ],
         "currentPeriodStars": 6,
         "description": "Code samples used on cloud.google.com",
-        "forks": 6374,
+        "forks": 6375,
         "fullname": "GoogleCloudPlatform/python-docs-samples",
         "language": "Jupyter Notebook",
         "languageColor": "#DA5B0B",
         "name": "python-docs-samples",
-        "stars": 7200,
+        "stars": 7202,
         "url": "https://github.com/GoogleCloudPlatform/python-docs-samples"
     },
     {
@@ -259,12 +259,12 @@
         ],
         "currentPeriodStars": 4,
         "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
-        "forks": 4329,
+        "forks": 4330,
         "fullname": "grpc/grpc-go",
         "language": "Go",
         "languageColor": "#00ADD8",
         "name": "grpc-go",
-        "stars": 20778,
+        "stars": 20780,
         "url": "https://github.com/grpc/grpc-go"
     },
     {
@@ -304,7 +304,7 @@
         "language": "C++",
         "languageColor": "#f34b7d",
         "name": "quill",
-        "stars": 1295,
+        "stars": 1297,
         "url": "https://github.com/odygrd/quill"
     },
     {
@@ -344,7 +344,7 @@
         "language": "Rust",
         "languageColor": "#dea584",
         "name": "polkadot-sdk",
-        "stars": 1747,
+        "stars": 1748,
         "url": "https://github.com/paritytech/polkadot-sdk"
     },
     {
@@ -374,12 +374,12 @@
         ],
         "currentPeriodStars": 194,
         "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
-        "forks": 36977,
+        "forks": 36978,
         "fullname": "freeCodeCamp/freeCodeCamp",
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "freeCodeCamp",
-        "stars": 400587,
+        "stars": 400588,
         "url": "https://github.com/freeCodeCamp/freeCodeCamp"
     },
     {
@@ -419,7 +419,7 @@
         "language": "Go",
         "languageColor": "#00ADD8",
         "name": "lo",
-        "stars": 17025,
+        "stars": 17027,
         "url": "https://github.com/samber/lo"
     },
     {
@@ -459,7 +459,7 @@
         "language": "C",
         "languageColor": "#555555",
         "name": "librdkafka",
-        "stars": 154,
+        "stars": 156,
         "url": "https://github.com/confluentinc/librdkafka"
     },
     {
@@ -499,7 +499,7 @@
         "language": "Go",
         "languageColor": "#00ADD8",
         "name": "harbor",
-        "stars": 23542,
+        "stars": 23544,
         "url": "https://github.com/goharbor/harbor"
     },
     {
@@ -539,7 +539,7 @@
         "language": "Dart",
         "languageColor": "#00B4AB",
         "name": "flutter",
-        "stars": 164463,
+        "stars": 164466,
         "url": "https://github.com/flutter/flutter"
     },
     {
@@ -574,12 +574,12 @@
         ],
         "currentPeriodStars": 64,
         "description": "Windows system utilities to maximize productivity",
-        "forks": 6422,
+        "forks": 6421,
         "fullname": "microsoft/PowerToys",
         "language": "C#",
         "languageColor": "#178600",
         "name": "PowerToys",
-        "stars": 108723,
+        "stars": 108726,
         "url": "https://github.com/microsoft/PowerToys"
     }
 ]
