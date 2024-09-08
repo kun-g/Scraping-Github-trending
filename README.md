@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [lobe-chat](https://github.com/lobehub/lobe-chat) | 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application. |
-| [HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) | ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。 |
-| [lo](https://github.com/samber/lo) | 💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...) |
-| [black](https://github.com/psf/black) | The uncompromising Python code formatter |
-| [pytorch](https://github.com/pytorch/pytorch) | Tensors and Dynamic neural networks in Python with strong GPU acceleration |
-| [renovate](https://github.com/renovatebot/renovate) | Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io |
+| [linutil](https://github.com/ChrisTitusTech/linutil) | Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks. |
+| [quill](https://github.com/odygrd/quill) | Asynchronous Low Latency C++ Logging Library |
+| [nginx](https://github.com/nginx/nginx) | The official NGINX Open Source repository. |
+| [dataease](https://github.com/dataease/dataease) | 🔥 人人可用的开源 BI 工具，Tableau、帆软的开源替代。 |
+| [polar](https://github.com/polarsource/polar) | An Open Source Lemon Squeezy alternative with better pricing! Get paid coding on your passion. |
+| [immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. |
+| [grpc-go](https://github.com/grpc/grpc-go) | The Go language implementation of gRPC. HTTP/2 based RPC |
 | [swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) | A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind. |
-| [appsmith](https://github.com/appsmithorg/appsmith) | Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API. |
-| [spdlog](https://github.com/gabime/spdlog) | Fast C++ logging library. |
 | [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity |
+| [etcd](https://github.com/etcd-io/etcd) | Distributed reliable key-value store for the most critical data of a distributed system |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
