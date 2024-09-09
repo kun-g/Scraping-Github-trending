@@ -1,0 +1,727 @@
+[
+    {
+        "author": "nginx",
+        "avatar": "https://github.com/nginx.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/201187",
+                "href": "https://github.com/mdounin",
+                "username": "mdounin"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/11629712",
+                "href": "https://github.com/vl-homutov",
+                "username": "vl-homutov"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1236368",
+                "href": "https://github.com/arut",
+                "username": "arut"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2750827",
+                "href": "https://github.com/VBart",
+                "username": "VBart"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/190297",
+                "href": "https://github.com/PiotrSikora",
+                "username": "PiotrSikora"
+            }
+        ],
+        "currentPeriodStars": 324,
+        "description": "The official NGINX Open Source repository.",
+        "forks": 6759,
+        "fullname": "nginx/nginx",
+        "language": "C",
+        "languageColor": "#555555",
+        "name": "nginx",
+        "stars": 22172,
+        "url": "https://github.com/nginx/nginx"
+    },
+    {
+        "author": "bitcoin",
+        "avatar": "https://github.com/bitcoin.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/126646",
+                "href": "https://github.com/laanwj",
+                "username": "laanwj"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/863730",
+                "href": "https://github.com/fanquake",
+                "username": "fanquake"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/548488",
+                "href": "https://github.com/sipa",
+                "username": "sipa"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/32963518",
+                "href": "https://github.com/hebasto",
+                "username": "hebasto"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3782274",
+                "href": "https://github.com/achow101",
+                "username": "achow101"
+            }
+        ],
+        "currentPeriodStars": 125,
+        "description": "Bitcoin Core integration/staging tree",
+        "forks": 36183,
+        "fullname": "bitcoin/bitcoin",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "name": "bitcoin",
+        "stars": 78264,
+        "url": "https://github.com/bitcoin/bitcoin"
+    },
+    {
+        "author": "ChrisTitusTech",
+        "avatar": "https://github.com/ChrisTitusTech.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7896101",
+                "href": "https://github.com/ChrisTitusTech",
+                "username": "ChrisTitusTech"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/56155712",
+                "href": "https://github.com/afonsofrancof",
+                "username": "afonsofrancof"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/33645555",
+                "href": "https://github.com/lj3954",
+                "username": "lj3954"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/97960473",
+                "href": "https://github.com/jeevithakannan2",
+                "username": "jeevithakannan2"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/144965845",
+                "href": "https://github.com/nnyyxxxx",
+                "username": "nnyyxxxx"
+            }
+        ],
+        "currentPeriodStars": 236,
+        "description": "Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.",
+        "forks": 142,
+        "fullname": "ChrisTitusTech/linutil",
+        "language": "Shell",
+        "languageColor": "#89e051",
+        "name": "linutil",
+        "stars": 1297,
+        "url": "https://github.com/ChrisTitusTech/linutil"
+    },
+    {
+        "author": "rustdesk",
+        "avatar": "https://github.com/rustdesk.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/71636191",
+                "href": "https://github.com/rustdesk",
+                "username": "rustdesk"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/13586388",
+                "href": "https://github.com/fufesou",
+                "username": "fufesou"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/14891774",
+                "href": "https://github.com/21pages",
+                "username": "21pages"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/39793325",
+                "href": "https://github.com/Kingtous",
+                "username": "Kingtous"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/62206297",
+                "href": "https://github.com/Heap-Hop",
+                "username": "Heap-Hop"
+            }
+        ],
+        "currentPeriodStars": 106,
+        "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+        "forks": 8447,
+        "fullname": "rustdesk/rustdesk",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "name": "rustdesk",
+        "stars": 72018,
+        "url": "https://github.com/rustdesk/rustdesk"
+    },
+    {
+        "author": "microsoft",
+        "avatar": "https://github.com/microsoft.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1462282",
+                "href": "https://github.com/crutkas",
+                "username": "crutkas"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1169912",
+                "href": "https://github.com/bao-qian",
+                "username": "bao-qian"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1725475",
+                "href": "https://github.com/qianlifeng",
+                "username": "qianlifeng"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/26118718",
+                "href": "https://github.com/jaimecbernardo",
+                "username": "jaimecbernardo"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1828123",
+                "href": "https://github.com/yuyoyuppe",
+                "username": "yuyoyuppe"
+            }
+        ],
+        "currentPeriodStars": 153,
+        "description": "Windows system utilities to maximize productivity",
+        "forks": 6437,
+        "fullname": "microsoft/PowerToys",
+        "language": "C#",
+        "languageColor": "#178600",
+        "name": "PowerToys",
+        "stars": 109219,
+        "url": "https://github.com/microsoft/PowerToys"
+    },
+    {
+        "author": "lllyasviel",
+        "avatar": "https://github.com/lllyasviel.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/19834515",
+                "href": "https://github.com/lllyasviel",
+                "username": "lllyasviel"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/40751091",
+                "href": "https://github.com/w-e-w",
+                "username": "w-e-w"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/166248528",
+                "href": "https://github.com/DenOfEquity",
+                "username": "DenOfEquity"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/20920490",
+                "href": "https://github.com/AUTOMATIC1111",
+                "username": "AUTOMATIC1111"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/20929282",
+                "href": "https://github.com/huchenlei",
+                "username": "huchenlei"
+            }
+        ],
+        "currentPeriodStars": 65,
+        "description": "",
+        "forks": 694,
+        "fullname": "lllyasviel/stable-diffusion-webui-forge",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "stable-diffusion-webui-forge",
+        "stars": 7152,
+        "url": "https://github.com/lllyasviel/stable-diffusion-webui-forge"
+    },
+    {
+        "author": "afadil",
+        "avatar": "https://github.com/afadil.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8382496",
+                "href": "https://github.com/afadil",
+                "username": "afadil"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5512569",
+                "href": "https://github.com/alexanderameye",
+                "username": "alexanderameye"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/21188012",
+                "href": "https://github.com/gpibarra",
+                "username": "gpibarra"
+            }
+        ],
+        "currentPeriodStars": 274,
+        "description": "A Beautiful Private and Secure Desktop Investment Tracking Application",
+        "forks": 55,
+        "fullname": "afadil/wealthfolio",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "wealthfolio",
+        "stars": 1486,
+        "url": "https://github.com/afadil/wealthfolio"
+    },
+    {
+        "author": "OpenBMB",
+        "avatar": "https://github.com/OpenBMB.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8793452",
+                "href": "https://github.com/THUCSTHanxu13",
+                "username": "THUCSTHanxu13"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/47373076",
+                "href": "https://github.com/LDLINGLINGLING",
+                "username": "LDLINGLINGLING"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/32740627",
+                "href": "https://github.com/ShengdingHu",
+                "username": "ShengdingHu"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/47963924",
+                "href": "https://github.com/SUDA-HLT-ywfang",
+                "username": "SUDA-HLT-ywfang"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/44703133",
+                "href": "https://github.com/zh-zheng",
+                "username": "zh-zheng"
+            }
+        ],
+        "currentPeriodStars": 137,
+        "description": "MiniCPM3-4B: An edge-side LLM that surpasses GPT-3.5-Turbo.",
+        "forks": 365,
+        "fullname": "OpenBMB/MiniCPM",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "MiniCPM",
+        "stars": 5518,
+        "url": "https://github.com/OpenBMB/MiniCPM"
+    },
+    {
+        "author": "HiEventsDev",
+        "avatar": "https://github.com/HiEventsDev.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/166798",
+                "href": "https://github.com/daveearley",
+                "username": "daveearley"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/60230221",
+                "href": "https://github.com/zarevskaya",
+                "username": "zarevskaya"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/101149675",
+                "href": "https://github.com/tasnim0tantawi",
+                "username": "tasnim0tantawi"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/24919402",
+                "href": "https://github.com/Romerolweb",
+                "username": "Romerolweb"
+            }
+        ],
+        "currentPeriodStars": 161,
+        "description": "Open-source event management and ticket selling platform \ud83c\udf9f\ufe0f",
+        "forks": 114,
+        "fullname": "HiEventsDev/Hi.Events",
+        "language": "PHP",
+        "languageColor": "#4F5D95",
+        "name": "Hi.Events",
+        "stars": 1355,
+        "url": "https://github.com/HiEventsDev/Hi.Events"
+    },
+    {
+        "author": "CleverRaven",
+        "avatar": "https://github.com/CleverRaven.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/16213433",
+                "href": "https://github.com/ZhilkinSerg",
+                "username": "ZhilkinSerg"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/860276",
+                "href": "https://github.com/kevingranade",
+                "username": "kevingranade"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5084581",
+                "href": "https://github.com/Rivet-the-Zombie",
+                "username": "Rivet-the-Zombie"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5095435",
+                "href": "https://github.com/BevapDin",
+                "username": "BevapDin"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4195632",
+                "href": "https://github.com/KA101",
+                "username": "KA101"
+            }
+        ],
+        "currentPeriodStars": 22,
+        "description": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.",
+        "forks": 4105,
+        "fullname": "CleverRaven/Cataclysm-DDA",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "name": "Cataclysm-DDA",
+        "stars": 10148,
+        "url": "https://github.com/CleverRaven/Cataclysm-DDA"
+    },
+    {
+        "author": "Mintplex-Labs",
+        "avatar": "https://github.com/Mintplex-Labs.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/16845892",
+                "href": "https://github.com/timothycarambat",
+                "username": "timothycarambat"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2336488",
+                "href": "https://github.com/shatfield4",
+                "username": "shatfield4"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/984592",
+                "href": "https://github.com/franzbischoff",
+                "username": "franzbischoff"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2817636",
+                "href": "https://github.com/AntonioCiolino",
+                "username": "AntonioCiolino"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3033044",
+                "href": "https://github.com/MrSimonC",
+                "username": "MrSimonC"
+            }
+        ],
+        "currentPeriodStars": 346,
+        "description": "The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities.",
+        "forks": 2204,
+        "fullname": "Mintplex-Labs/anything-llm",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "name": "anything-llm",
+        "stars": 21224,
+        "url": "https://github.com/Mintplex-Labs/anything-llm"
+    },
+    {
+        "author": "PCSX2",
+        "avatar": "https://github.com/PCSX2.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1569559",
+                "href": "https://github.com/gregory38",
+                "username": "gregory38"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/11288319",
+                "href": "https://github.com/stenzek",
+                "username": "stenzek"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6278726",
+                "href": "https://github.com/refractionpcsx2",
+                "username": "refractionpcsx2"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/18107717",
+                "href": "https://github.com/lightningterror",
+                "username": "lightningterror"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/10976277",
+                "href": "https://github.com/turtleli",
+                "username": "turtleli"
+            }
+        ],
+        "currentPeriodStars": 17,
+        "description": "PCSX2 - The Playstation 2 Emulator",
+        "forks": 1580,
+        "fullname": "PCSX2/pcsx2",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "name": "pcsx2",
+        "stars": 11356,
+        "url": "https://github.com/PCSX2/pcsx2"
+    },
+    {
+        "author": "LizardByte",
+        "avatar": "https://github.com/LizardByte.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/42013603",
+                "href": "https://github.com/ReenigneArcher",
+                "username": "ReenigneArcher"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2695644",
+                "href": "https://github.com/cgutman",
+                "username": "cgutman"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3084139",
+                "href": "https://github.com/loki-47-6F-64",
+                "username": "loki-47-6F-64"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/108553330",
+                "href": "https://github.com/LizardByte-bot",
+                "username": "LizardByte-bot"
+            }
+        ],
+        "currentPeriodStars": 56,
+        "description": "Self-hosted game stream host for Moonlight.",
+        "forks": 857,
+        "fullname": "LizardByte/Sunshine",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "name": "Sunshine",
+        "stars": 17726,
+        "url": "https://github.com/LizardByte/Sunshine"
+    },
+    {
+        "author": "deepfakes",
+        "avatar": "https://github.com/deepfakes.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/36920800",
+                "href": "https://github.com/torzdf",
+                "username": "torzdf"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3772434",
+                "href": "https://github.com/kvrooman",
+                "username": "kvrooman"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/44308116",
+                "href": "https://github.com/kilroythethird",
+                "username": "kilroythethird"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4244600",
+                "href": "https://github.com/gdunstone",
+                "username": "gdunstone"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/873943",
+                "href": "https://github.com/Clorr",
+                "username": "Clorr"
+            }
+        ],
+        "currentPeriodStars": 105,
+        "description": "Deepfakes Software For All",
+        "forks": 13094,
+        "fullname": "deepfakes/faceswap",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "faceswap",
+        "stars": 50975,
+        "url": "https://github.com/deepfakes/faceswap"
+    },
+    {
+        "author": "TheOdinProject",
+        "avatar": "https://github.com/TheOdinProject.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/19835799",
+                "href": "https://github.com/105ron",
+                "username": "105ron"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7963776",
+                "href": "https://github.com/KevinMulhern",
+                "username": "KevinMulhern"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/60161078",
+                "href": "https://github.com/marvingay",
+                "username": "marvingay"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2977438",
+                "href": "https://github.com/eriktrautman",
+                "username": "eriktrautman"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/14863257",
+                "href": "https://github.com/mindovermiles262",
+                "username": "mindovermiles262"
+            }
+        ],
+        "currentPeriodStars": 40,
+        "description": "The open curriculum for learning web development",
+        "forks": 13047,
+        "fullname": "TheOdinProject/curriculum",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "name": "curriculum",
+        "stars": 9503,
+        "url": "https://github.com/TheOdinProject/curriculum"
+    },
+    {
+        "author": "immich-app",
+        "avatar": "https://github.com/immich-app.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/27055614",
+                "href": "https://github.com/alextran1502",
+                "username": "alextran1502"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4334196",
+                "href": "https://github.com/jrasm91",
+                "username": "jrasm91"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/59014050",
+                "href": "https://github.com/michelheusschen",
+                "username": "michelheusschen"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/101130780",
+                "href": "https://github.com/mertalev",
+                "username": "mertalev"
+            }
+        ],
+        "currentPeriodStars": 193,
+        "description": "High performance self-hosted photo and video management solution.",
+        "forks": 2150,
+        "fullname": "immich-app/immich",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "immich",
+        "stars": 44030,
+        "url": "https://github.com/immich-app/immich"
+    },
+    {
+        "author": "appsmithorg",
+        "avatar": "https://github.com/appsmithorg.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3897254",
+                "href": "https://github.com/Nikhil-Nandagopal",
+                "username": "Nikhil-Nandagopal"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/120119",
+                "href": "https://github.com/sharat87",
+                "username": "sharat87"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/458946",
+                "href": "https://github.com/mohanarpit",
+                "username": "mohanarpit"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/12022471",
+                "href": "https://github.com/hetunandu",
+                "username": "hetunandu"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8403079",
+                "href": "https://github.com/trishaanand",
+                "username": "trishaanand"
+            }
+        ],
+        "currentPeriodStars": 170,
+        "description": "Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.",
+        "forks": 3611,
+        "fullname": "appsmithorg/appsmith",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "appsmith",
+        "stars": 33433,
+        "url": "https://github.com/appsmithorg/appsmith"
+    },
+    {
+        "author": "ente-io",
+        "avatar": "https://github.com/ente-io.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/46242073",
+                "href": "https://github.com/abhinavkgrd",
+                "username": "abhinavkgrd"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/254676",
+                "href": "https://github.com/ua741",
+                "username": "ua741"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/24503581",
+                "href": "https://github.com/mnvr",
+                "username": "mnvr"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1161789",
+                "href": "https://github.com/vishnukvmd",
+                "username": "vishnukvmd"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/77285023",
+                "href": "https://github.com/ashilkn",
+                "username": "ashilkn"
+            }
+        ],
+        "currentPeriodStars": 116,
+        "description": "Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos",
+        "forks": 733,
+        "fullname": "ente-io/ente",
+        "language": "Dart",
+        "languageColor": "#00B4AB",
+        "name": "ente",
+        "stars": 14099,
+        "url": "https://github.com/ente-io/ente"
+    },
+    {
+        "author": "alist-org",
+        "avatar": "https://github.com/alist-org.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/36558727",
+                "href": "https://github.com/xhofe",
+                "username": "xhofe"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/95907542",
+                "href": "https://github.com/foxxorcat",
+                "username": "foxxorcat"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/32470225",
+                "href": "https://github.com/BoYanZh",
+                "username": "BoYanZh"
+            }
+        ],
+        "currentPeriodStars": 53,
+        "description": "\ud83d\uddc2\ufe0fA file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / \u4e00\u4e2a\u652f\u6301\u591a\u5b58\u50a8\u7684\u6587\u4ef6\u5217\u8868/WebDAV\u7a0b\u5e8f\uff0c\u4f7f\u7528 Gin \u548c Solidjs\u3002",
+        "forks": 5390,
+        "fullname": "alist-org/alist",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "name": "alist",
+        "stars": 41715,
+        "url": "https://github.com/alist-org/alist"
+    }
+]
