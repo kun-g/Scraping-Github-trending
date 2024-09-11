@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [MiniCPM](https://github.com/OpenBMB/MiniCPM) | MiniCPM3-4B: An edge-side LLM that surpasses GPT-3.5-Turbo. |
 | [Follow](https://github.com/RSSNext/Follow) | 🧡 Next generation information browser |
 | [wealthfolio](https://github.com/afadil/wealthfolio) | A Beautiful Private and Secure Desktop Investment Tracking Application |
+| [dice](https://github.com/DiceDB/dice) | DiceDB is an in-memory real-time database with SQL-based reactivity. It is hyper-optimized for building and scaling truly real-time applications on modern hardware while being a drop-in replacement for Redis. |
 | [nginx](https://github.com/nginx/nginx) | The official NGINX Open Source repository. |
-| [FtcRobotController](https://github.com/FIRST-Tech-Challenge/FtcRobotController) |  |
-| [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | #1 Locally hosted web application that allows you to perform various operations on PDF files |
-| [super-productivity](https://github.com/johannesjo/super-productivity) | Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project. |
-| [Hi.Events](https://github.com/HiEventsDev/Hi.Events) | Open-source event management and ticket selling platform 🎟️ |
-| [anything-llm](https://github.com/Mintplex-Labs/anything-llm) | The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities. |
-| [linutil](https://github.com/ChrisTitusTech/linutil) | Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks. |
-| [open-saas](https://github.com/wasp-lang/open-saas) | A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven. |
+| [rustdesk](https://github.com/rustdesk/rustdesk) | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
+| [MusicFree](https://github.com/maotoumao/MusicFree) | 插件化、定制化、无广告的免费音乐播放器 |
+| [helix](https://github.com/helix-editor/helix) | A post-modern modal text editor. |
+| [jd](https://github.com/josephburnett/jd) | JSON diff and patch |
+| [langflow](https://github.com/langflow-ai/langflow) | Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
