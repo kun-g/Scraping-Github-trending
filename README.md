@@ -45,14 +45,14 @@
 <!-- START OF MONTHLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | real time face swap and one-click video deepfake with only a single image |
+| [courses](https://github.com/anthropics/courses) | Anthropic's educational courses |
+| [midday](https://github.com/midday-ai/midday) | Run your business smarter 🪄 |
 | [Docker-OSX](https://github.com/sickcodes/Docker-OSX) | Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers. |
-| [stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) |  |
-| [authentik](https://github.com/goauthentik/authentik) | The authentication glue you need. |
 | [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion. |
-| [roop](https://github.com/s0md3v/roop) | one-click face swap |
-| [erpnext](https://github.com/frappe/erpnext) | Free and Open Source Enterprise Resource Planning (ERP) |
-| [CogVideo](https://github.com/THUDM/CogVideo) | Text-to-video generation: CogVideoX (2024) and CogVideo (ICLR 2023) |
-| [FlClash](https://github.com/chen08209/FlClash) | A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free. |
+| [authentik](https://github.com/goauthentik/authentik) | The authentication glue you need. |
+| [Follow](https://github.com/RSSNext/Follow) | 🧡 Next generation information browser. |
 | [sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username across social networks |
+| [lerobot](https://github.com/huggingface/lerobot) | 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning |
+| [ai-toolkit](https://github.com/ostris/ai-toolkit) | Various AI scripts. Mostly Stable Diffusion stuff. |
+| [roop](https://github.com/s0md3v/roop) | one-click face swap |
 <!-- END OF MONTHLY_TOP10_REPOS -->
