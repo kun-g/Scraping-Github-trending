@@ -15,14 +15,14 @@
 | :----: | :----: |
 | [ecapture](https://github.com/gojue/ecapture) | Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64. |
 | [fish-speech](https://github.com/fishaudio/fish-speech) | Brand new TTS solution |
-| [paper-qa](https://github.com/Future-House/paper-qa) | High accuracy RAG for answering questions from scientific documents with citations |
-| [jax](https://github.com/google/jax) | Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more |
-| [svelte](https://github.com/sveltejs/svelte) | Cybernetically enhanced web apps |
-| [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) | GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows) |
-| [dify](https://github.com/langgenius/dify) | Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. |
+| [hello-algo](https://github.com/krahets/hello-algo) | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing |
 | [taipy](https://github.com/Avaiga/taipy) | Turns Data and AI algorithms into production-ready web applications in no time. |
-| [computer-science](https://github.com/ossu/computer-science) | 🎓 Path to a free self-taught education in Computer Science! |
-| [googletest](https://github.com/google/googletest) | GoogleTest - Google Testing and Mocking Framework |
+| [agent-zero](https://github.com/frdel/agent-zero) | Agent Zero AI framework |
+| [iotdb](https://github.com/apache/iotdb) | Apache IoTDB |
+| [blog_os](https://github.com/phil-opp/blog_os) | Writing an OS in Rust |
+| [Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Python - 100天从新手到大师 |
+| [aider](https://github.com/paul-gauthier/aider) | aider is AI pair programming in your terminal |
+| [expert_readed_books](https://github.com/0voice/expert_readed_books) | 2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
