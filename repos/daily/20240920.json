@@ -31,12 +31,12 @@
         ],
         "currentPeriodStars": 181,
         "description": "Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.",
-        "forks": 645,
+        "forks": 646,
         "fullname": "krayin/laravel-crm",
         "language": "Blade",
         "languageColor": "#f7523f",
         "name": "laravel-crm",
-        "stars": 9988,
+        "stars": 9994,
         "url": "https://github.com/krayin/laravel-crm"
     },
     {
@@ -62,6 +62,11 @@
                 "avatar": "https://avatars.githubusercontent.com/u/24379098",
                 "href": "https://github.com/kyruzic",
                 "username": "kyruzic"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/35031356",
+                "href": "https://github.com/ftupas",
+                "username": "ftupas"
             }
         ],
         "currentPeriodStars": 224,
@@ -71,7 +76,7 @@
         "language": "Rust",
         "languageColor": "#dea584",
         "name": "rainfrog",
-        "stars": 1148,
+        "stars": 1156,
         "url": "https://github.com/achristmascarl/rainfrog"
     },
     {
@@ -106,7 +111,7 @@
         "language": "Shell",
         "languageColor": "#89e051",
         "name": "DevOps-Bash-tools",
-        "stars": 3886,
+        "stars": 3898,
         "url": "https://github.com/HariSekhon/DevOps-Bash-tools"
     },
     {
@@ -141,7 +146,7 @@
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "bootstrap",
-        "stars": 170106,
+        "stars": 170108,
         "url": "https://github.com/twbs/bootstrap"
     },
     {
@@ -171,7 +176,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "supervision",
-        "stars": 18894,
+        "stars": 18898,
         "url": "https://github.com/roboflow/supervision"
     },
     {
@@ -211,7 +216,7 @@
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "GDevelop",
-        "stars": 9969,
+        "stars": 9973,
         "url": "https://github.com/4ian/GDevelop"
     },
     {
@@ -251,7 +256,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "localstack",
-        "stars": 54366,
+        "stars": 54373,
         "url": "https://github.com/localstack/localstack"
     },
     {
@@ -286,12 +291,12 @@
         ],
         "currentPeriodStars": 226,
         "description": "Master programming by recreating your favorite technologies from scratch.",
-        "forks": 28235,
+        "forks": 28236,
         "fullname": "codecrafters-io/build-your-own-x",
         "language": "Markdown",
         "languageColor": "#083fa1",
         "name": "build-your-own-x",
-        "stars": 301016,
+        "stars": 301018,
         "url": "https://github.com/codecrafters-io/build-your-own-x"
     },
     {
@@ -326,12 +331,12 @@
         ],
         "currentPeriodStars": 48,
         "description": "An Open Source Machine Learning Framework for Everyone",
-        "forks": 74183,
+        "forks": 74182,
         "fullname": "tensorflow/tensorflow",
         "language": "C++",
         "languageColor": "#f34b7d",
         "name": "tensorflow",
-        "stars": 185595,
+        "stars": 185598,
         "url": "https://github.com/tensorflow/tensorflow"
     },
     {
@@ -366,10 +371,10 @@
         ],
         "currentPeriodStars": 344,
         "description": "\ud83c\udf93 Path to a free self-taught education in Computer Science!",
-        "forks": 21460,
+        "forks": 21461,
         "fullname": "ossu/computer-science",
         "name": "computer-science",
-        "stars": 169940,
+        "stars": 169944,
         "url": "https://github.com/ossu/computer-science"
     },
     {
@@ -409,7 +414,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "aws-cli",
-        "stars": 15394,
+        "stars": 15396,
         "url": "https://github.com/aws/aws-cli"
     },
     {
@@ -439,7 +444,7 @@
         "language": "Go",
         "languageColor": "#00ADD8",
         "name": "alist",
-        "stars": 42129,
+        "stars": 42133,
         "url": "https://github.com/alist-org/alist"
     },
     {
@@ -477,7 +482,7 @@
         "forks": 27690,
         "fullname": "sindresorhus/awesome",
         "name": "awesome",
-        "stars": 325073,
+        "stars": 325077,
         "url": "https://github.com/sindresorhus/awesome"
     },
     {
@@ -507,12 +512,12 @@
         ],
         "currentPeriodStars": 109,
         "description": "Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.",
-        "forks": 2428,
+        "forks": 2430,
         "fullname": "sickcodes/Docker-OSX",
         "language": "Shell",
         "languageColor": "#89e051",
         "name": "Docker-OSX",
-        "stars": 45726,
+        "stars": 45730,
         "url": "https://github.com/sickcodes/Docker-OSX"
     },
     {
@@ -552,7 +557,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "torchtitan",
-        "stars": 1905,
+        "stars": 1910,
         "url": "https://github.com/pytorch/torchtitan"
     }
 ]
