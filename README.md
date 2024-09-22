@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [rainfrog](https://github.com/achristmascarl/rainfrog) | 🐸 a database management tui for postgres |
-| [DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) | 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux.. |
-| [bootstrap](https://github.com/twbs/bootstrap) | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. |
+| [libcimbar](https://github.com/sz3/libcimbar) | Optimized implementation for color-icon-matrix barcodes |
+| [Qwen2.5](https://github.com/QwenLM/Qwen2.5) | Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud. |
 | [supervision](https://github.com/roboflow/supervision) | We write your reusable computer vision tools. 💜 |
-| [folly](https://github.com/facebook/folly) | An open-source C++ library developed and used at Facebook. |
-| [GDevelop](https://github.com/4ian/GDevelop) | 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone. |
-| [paimon](https://github.com/apache/paimon) | Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations. |
-| [localstack](https://github.com/localstack/localstack) | 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline |
-| [unstract](https://github.com/Zipstack/unstract) | No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents |
-| [cupy](https://github.com/cupy/cupy) | NumPy & SciPy for GPU |
+| [rainfrog](https://github.com/achristmascarl/rainfrog) | 🐸 a database management tui for postgres |
+| [laravel-crm](https://github.com/krayin/laravel-crm) | Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management. |
+| [eShop](https://github.com/dotnet/eShop) | A reference .NET application implementing an eCommerce site |
+| [simple-icons](https://github.com/simple-icons/simple-icons) | SVG icons for popular brands |
+| [weekly](https://github.com/ruanyf/weekly) | 科技爱好者周刊，每周五发布 |
+| [gpt4all](https://github.com/nomic-ai/gpt4all) | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. |
+| [scalar](https://github.com/scalar/scalar) | Scalar is an open-source platform with: 🌐 Modern Rest API Client　　　　　　　　📖 Beautiful API References　　　　　　✨ 1st-Class OpenAPI/Swagger Support |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
