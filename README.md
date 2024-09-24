@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [supervision](https://github.com/roboflow/supervision) | We write your reusable computer vision tools. 💜 |
-| [lobe-chat](https://github.com/lobehub/lobe-chat) | 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application. |
-| [localstack](https://github.com/localstack/localstack) | 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline |
-| [libcimbar](https://github.com/sz3/libcimbar) | Optimized implementation for color-icon-matrix barcodes |
-| [pygwalker](https://github.com/Kanaries/pygwalker) | PyGWalker: Turn your pandas dataframe into an interactive UI for visual analysis |
-| [cupy](https://github.com/cupy/cupy) | NumPy & SciPy for GPU |
-| [storm](https://github.com/stanford-oval/storm) | An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations. |
-| [TUnit](https://github.com/thomhurst/TUnit) | A modern, fast and flexible .NET testing framework |
-| [OpenHands](https://github.com/All-Hands-AI/OpenHands) | 🙌 OpenHands: Code Less, Make More |
 | [Introduction_to_Machine_Learning](https://github.com/SharifiZarchi/Introduction_to_Machine_Learning) | دوره‌ی مقدمه‌ای بر یادگیری ماشین، برای دانشجویان |
+| [supervision](https://github.com/roboflow/supervision) | We write your reusable computer vision tools. 💜 |
+| [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | real time face swap and one-click video deepfake with only a single image |
+| [godot](https://github.com/godotengine/godot) | Godot Engine – Multi-platform 2D and 3D game engine |
+| [libcimbar](https://github.com/sz3/libcimbar) | Optimized implementation for color-icon-matrix barcodes |
+| [simple-icons](https://github.com/simple-icons/simple-icons) | SVG icons for popular brands |
+| [lobe-chat](https://github.com/lobehub/lobe-chat) | 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application. |
+| [storm](https://github.com/stanford-oval/storm) | An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations. |
+| [self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) | The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows. |
+| [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
