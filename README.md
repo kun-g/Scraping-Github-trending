@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [GPU-Puzzles](https://github.com/srush/GPU-Puzzles) | Solve puzzles. Learn CUDA. |
-| [supervision](https://github.com/roboflow/supervision) | We write your reusable computer vision tools. 💜 |
-| [MemGPT](https://github.com/cpacker/MemGPT) | Letta (fka MemGPT) is a framework for creating stateful LLM services. |
 | [localsend](https://github.com/localsend/localsend) | An open-source cross-platform alternative to AirDrop |
+| [GPU-Puzzles](https://github.com/srush/GPU-Puzzles) | Solve puzzles. Learn CUDA. |
+| [Pake](https://github.com/tw93/Pake) | 🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用 |
 | [PicaComic](https://github.com/wgh136/PicaComic) | A comic app built with Flutter, supporting multiple comic sources. |
-| [Introduction_to_Machine_Learning](https://github.com/SharifiZarchi/Introduction_to_Machine_Learning) | دوره‌ی مقدمه‌ای بر یادگیری ماشین، برای دانشجویان |
+| [llama-stack](https://github.com/meta-llama/llama-stack) | Model components of the Llama Stack APIs |
 | [weekly](https://github.com/ruanyf/weekly) | 科技爱好者周刊，每周五发布 |
-| [azurelinux](https://github.com/microsoft/azurelinux) | Linux OS for Azure 1P services and edge appliances |
-| [kestra](https://github.com/kestra-io/kestra) | Infinitely scalable, event-driven, language-agnostic orchestration and scheduling platform to manage millions of workflows declaratively in code and from the UI. |
-| [dspy](https://github.com/stanfordnlp/dspy) | DSPy: The framework for programming—not prompting—foundation models |
+| [openfreemap](https://github.com/hyperknot/openfreemap) | Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data |
+| [kestra](https://github.com/kestra-io/kestra) | Orchestration and automation platform to execute millions of scheduled and event-driven workflows declaratively in code and from the UI |
+| [backstage](https://github.com/backstage/backstage) | Backstage is an open framework for building developer portals |
+| [llama-stack-apps](https://github.com/meta-llama/llama-stack-apps) | Agentic components of the Llama Stack APIs |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
