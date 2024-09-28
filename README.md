@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [localsend](https://github.com/localsend/localsend) | An open-source cross-platform alternative to AirDrop |
+| [immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. |
 | [GPU-Puzzles](https://github.com/srush/GPU-Puzzles) | Solve puzzles. Learn CUDA. |
-| [Pake](https://github.com/tw93/Pake) | 🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用 |
-| [PicaComic](https://github.com/wgh136/PicaComic) | A comic app built with Flutter, supporting multiple comic sources. |
+| [llama-recipes](https://github.com/meta-llama/llama-recipes) | Scripts for fine-tuning Meta Llama with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment. Demo apps to showcase Meta Llama for WhatsApp & Messenger. |
+| [localsend](https://github.com/localsend/localsend) | An open-source cross-platform alternative to AirDrop |
 | [llama-stack](https://github.com/meta-llama/llama-stack) | Model components of the Llama Stack APIs |
-| [weekly](https://github.com/ruanyf/weekly) | 科技爱好者周刊，每周五发布 |
-| [openfreemap](https://github.com/hyperknot/openfreemap) | Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data |
-| [kestra](https://github.com/kestra-io/kestra) | Orchestration and automation platform to execute millions of scheduled and event-driven workflows declaratively in code and from the UI |
-| [backstage](https://github.com/backstage/backstage) | Backstage is an open framework for building developer portals |
 | [llama-stack-apps](https://github.com/meta-llama/llama-stack-apps) | Agentic components of the Llama Stack APIs |
+| [anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. |
+| [assistant-ui](https://github.com/Yonom/assistant-ui) | React Components for AI Chat 💬 🚀 |
+| [dice](https://github.com/DiceDB/dice) | DiceDB is an in-memory real-time database with SQL-based reactivity. It is hyper-optimized for building and scaling truly real-time applications on modern hardware while being a drop-in replacement for Redis. |
+| [hercules](https://github.com/src-d/hercules) | Gaining advanced insights from Git repository history. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
