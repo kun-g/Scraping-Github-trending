@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. |
-| [GPU-Puzzles](https://github.com/srush/GPU-Puzzles) | Solve puzzles. Learn CUDA. |
-| [llama-recipes](https://github.com/meta-llama/llama-recipes) | Scripts for fine-tuning Meta Llama with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment. Demo apps to showcase Meta Llama for WhatsApp & Messenger. |
-| [localsend](https://github.com/localsend/localsend) | An open-source cross-platform alternative to AirDrop |
+| [Pake](https://github.com/tw93/Pake) | 🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用 |
 | [llama-stack](https://github.com/meta-llama/llama-stack) | Model components of the Llama Stack APIs |
-| [llama-stack-apps](https://github.com/meta-llama/llama-stack-apps) | Agentic components of the Llama Stack APIs |
-| [anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. |
-| [assistant-ui](https://github.com/Yonom/assistant-ui) | React Components for AI Chat 💬 🚀 |
-| [dice](https://github.com/DiceDB/dice) | DiceDB is an in-memory real-time database with SQL-based reactivity. It is hyper-optimized for building and scaling truly real-time applications on modern hardware while being a drop-in replacement for Redis. |
-| [hercules](https://github.com/src-d/hercules) | Gaining advanced insights from Git repository history. |
+| [screenpipe](https://github.com/mediar-ai/screenpipe) | 24/7 local AI screen & mic recording. Build AI apps that have the full context. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust. |
+| [mlx-swift-examples](https://github.com/ml-explore/mlx-swift-examples) | Examples using MLX Swift |
+| [localsend](https://github.com/localsend/localsend) | An open-source cross-platform alternative to AirDrop |
+| [si](https://github.com/systeminit/si) | The System Initiative software |
+| [exo](https://github.com/exo-explore/exo) | Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ |
+| [immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. |
+| [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) | Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup. |
+| [LeetCode-Questions-CompanyWise](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise) | Contains Company Wise Questions sorted based on Frequency and all time |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
