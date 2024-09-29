@@ -29,16 +29,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [fish-speech](https://github.com/fishaudio/fish-speech) | Brand new TTS solution |
-| [ecapture](https://github.com/gojue/ecapture) | Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64. |
-| [paper-qa](https://github.com/Future-House/paper-qa) | High accuracy RAG for answering questions from scientific documents with citations |
-| [ImHex](https://github.com/WerWolv/ImHex) | 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. |
-| [Follow](https://github.com/RSSNext/Follow) | 🧡 Next generation information browser. |
-| [duckstation](https://github.com/stenzek/duckstation) | Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64 |
-| [expert_readed_books](https://github.com/0voice/expert_readed_books) | 2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍 |
-| [core](https://github.com/home-assistant/core) | 🏡 Open source home automation that puts local control and privacy first. |
-| [super-productivity](https://github.com/johannesjo/super-productivity) | Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project. |
+| [localsend](https://github.com/localsend/localsend) | An open-source cross-platform alternative to AirDrop |
 | [supervision](https://github.com/roboflow/supervision) | We write your reusable computer vision tools. 💜 |
+| [kamal](https://github.com/basecamp/kamal) | Deploy web apps anywhere. |
+| [weekly](https://github.com/ruanyf/weekly) | 科技爱好者周刊，每周五发布 |
+| [dice](https://github.com/DiceDB/dice) | DiceDB is an in-memory, real-time, and reactive database with Redis and SQL support optimized for modern hardware and building real-time applications. |
+| [storm](https://github.com/stanford-oval/storm) | An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations. |
+| [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. |
+| [anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. |
+| [azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net) | This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net. |
+| [llama-stack](https://github.com/meta-llama/llama-stack) | Model components of the Llama Stack APIs |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
