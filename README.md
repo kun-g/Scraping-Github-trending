@@ -45,14 +45,14 @@
 <!-- START OF MONTHLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [kotaemon](https://github.com/Cinnamon/kotaemon) | An open-source RAG-based tool for chatting with your documents. |
 | [Follow](https://github.com/RSSNext/Follow) | 🧡 Next generation information browser. |
 | [ecapture](https://github.com/gojue/ecapture) | Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64. |
 | [fish-speech](https://github.com/fishaudio/fish-speech) | Brand new TTS solution |
 | [llama-stack](https://github.com/meta-llama/llama-stack) | Model components of the Llama Stack APIs |
+| [kotaemon](https://github.com/Cinnamon/kotaemon) | An open-source RAG-based tool for chatting with your documents. |
+| [Pake](https://github.com/tw93/Pake) | 🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用 |
 | [super-productivity](https://github.com/johannesjo/super-productivity) | Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project. |
-| [courses](https://github.com/anthropics/courses) | Anthropic's educational courses |
-| [supervision](https://github.com/roboflow/supervision) | We write your reusable computer vision tools. 💜 |
-| [firecrawl](https://github.com/mendableai/firecrawl) | 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API. |
+| [nginx](https://github.com/nginx/nginx) | The official NGINX Open Source repository. |
 | [linutil](https://github.com/ChrisTitusTech/linutil) | Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks. |
+| [kamal](https://github.com/basecamp/kamal) | Deploy web apps anywhere. |
 <!-- END OF MONTHLY_TOP10_REPOS -->
