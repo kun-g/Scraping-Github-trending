@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [materialYouNewTab](https://github.com/XengShi/materialYouNewTab) | A Simple New Tab ( browsers's home page ) inspired with Google's 'Material You' design |
+| [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) | The first real AI developer |
 | [screenpipe](https://github.com/mediar-ai/screenpipe) | 24/7 local AI screen & mic recording. Build AI apps that have the full context. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust. |
-| [exo](https://github.com/exo-explore/exo) | Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ |
-| [godot](https://github.com/godotengine/godot) | Godot Engine – Multi-platform 2D and 3D game engine |
-| [crawl4ai](https://github.com/unclecode/crawl4ai) | 🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper |
-| [ToolJet](https://github.com/ToolJet/ToolJet) | Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀 |
-| [web-llm](https://github.com/mlc-ai/web-llm) | High-performance In-browser LLM Inference Engine |
+| [simplex-chat](https://github.com/simplex-chat/simplex-chat) | SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱! |
+| [capa](https://github.com/mandiant/capa) | The FLARE team's open-source tool to identify capabilities in executable files. |
+| [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. |
+| [shardeum](https://github.com/shardeum/shardeum) | Shardeum is an EVM based autoscaling blockchain |
+| [dolphin](https://github.com/dolphin-emu/dolphin) | Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements. |
 | [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
-| [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering |
-| [OpenHands](https://github.com/All-Hands-AI/OpenHands) | 🙌 OpenHands: Code Less, Make More |
-| [whisper](https://github.com/openai/whisper) | Robust Speech Recognition via Large-Scale Weak Supervision |
+| [whisper-web](https://github.com/xenova/whisper-web) | ML-powered speech recognition directly in your browser |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
