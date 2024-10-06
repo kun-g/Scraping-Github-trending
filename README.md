@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
+| [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) | The first real AI developer |
+| [imgui](https://github.com/ocornut/imgui) | Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies |
 | [materialYouNewTab](https://github.com/XengShi/materialYouNewTab) | A Simple New Tab ( browsers's home page ) inspired with Google's 'Material You' design |
-| [citra](https://github.com/PabloMK7/citra) | A Nintendo 3DS Emulator |
 | [shardeum](https://github.com/shardeum/shardeum) | Shardeum is an EVM based autoscaling blockchain |
-| [Hacktoberfest2024](https://github.com/fineanmol/Hacktoberfest2024) | Make your first Pull Request on Hacktoberfest 2024. Don't forget to spread love and if you like give us a ⭐️ |
+| [taipy](https://github.com/Avaiga/taipy) | Turns Data and AI algorithms into production-ready web applications in no time. |
+| [Rust](https://github.com/TheAlgorithms/Rust) | All Algorithms implemented in Rust |
+| [capa](https://github.com/mandiant/capa) | The FLARE team's open-source tool to identify capabilities in executable files. |
+| [testify](https://github.com/stretchr/testify) | A toolkit with common assertions and mocks that plays nicely with the standard library |
 | [Java](https://github.com/TheAlgorithms/Java) | All Algorithms implemented in Java |
-| [ToolJet](https://github.com/ToolJet/ToolJet) | Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀 |
-| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
-| [continue](https://github.com/continuedev/continue) | ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains |
-| [meshery](https://github.com/meshery/meshery) | Meshery, the cloud native manager |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
