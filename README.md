@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
-| [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) | The first real AI developer |
-| [imgui](https://github.com/ocornut/imgui) | Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies |
-| [materialYouNewTab](https://github.com/XengShi/materialYouNewTab) | A Simple New Tab ( browsers's home page ) inspired with Google's 'Material You' design |
-| [shardeum](https://github.com/shardeum/shardeum) | Shardeum is an EVM based autoscaling blockchain |
-| [taipy](https://github.com/Avaiga/taipy) | Turns Data and AI algorithms into production-ready web applications in no time. |
-| [Rust](https://github.com/TheAlgorithms/Rust) | All Algorithms implemented in Rust |
-| [capa](https://github.com/mandiant/capa) | The FLARE team's open-source tool to identify capabilities in executable files. |
-| [testify](https://github.com/stretchr/testify) | A toolkit with common assertions and mocks that plays nicely with the standard library |
+| [agents](https://github.com/livekit/agents) | Build real-time multimodal AI applications 🤖🎙️📹 |
+| [obs-studio](https://github.com/obsproject/obs-studio) | OBS Studio - Free and open source software for live streaming and screen recording |
 | [Java](https://github.com/TheAlgorithms/Java) | All Algorithms implemented in Java |
+| [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) | The first real AI developer |
+| [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) | A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python |
+| [Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) | Telegram-iOS |
+| [imgui](https://github.com/ocornut/imgui) | Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies |
+| [generative_agents](https://github.com/joonspk-research/generative_agents) | Generative Agents: Interactive Simulacra of Human Behavior |
+| [one](https://github.com/onejs/one) | ❶ One is a new React framework that makes cross-platform simple. Target web and native with just Vite. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
