@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [platform](https://github.com/hcengineering/platform) | Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) |
-| [deno](https://github.com/denoland/deno) | A modern runtime for JavaScript and TypeScript. |
-| [zapret](https://github.com/bol-van/zapret) | DPI bypass multi platform |
-| [gradio](https://github.com/gradio-app/gradio) | Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work! |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
 | [formbricks](https://github.com/formbricks/formbricks) | Open Source Survey Platform |
-| [Hyprland](https://github.com/hyprwm/Hyprland) | Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks. |
-| [ultralytics](https://github.com/ultralytics/ultralytics) | Ultralytics YOLO11 🚀 |
-| [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) | Atmosphère is a work-in-progress customized firmware for the Nintendo Switch. |
-| [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
+| [huly-selfhost](https://github.com/hcengineering/huly-selfhost) | Huly for Self Hosting |
+| [deno](https://github.com/denoland/deno) | A modern runtime for JavaScript and TypeScript. |
+| [hanko](https://github.com/teamhanko/hanko) | The complete Authentication and User Management solution for developers. |
+| [unkey](https://github.com/unkeyed/unkey) | Open source API management platform |
+| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
+| [core](https://github.com/vuejs/core) | 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. |
+| [cline](https://github.com/cline/cline) | Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way. |
+| [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | real time face swap and one-click video deepfake with only a single image |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
