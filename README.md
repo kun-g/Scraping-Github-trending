@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [platform](https://github.com/hcengineering/platform) | Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) |
+| [manim](https://github.com/3b1b/manim) | Animation engine for explanatory math videos |
+| [papermark](https://github.com/mfts/papermark) | Papermark is the open-source DocSend alternative with built-in analytics and custom domains. |
+| [twenty](https://github.com/twentyhq/twenty) | Building a modern alternative to Salesforce, powered by the community. |
+| [manim](https://github.com/ManimCommunity/manim) | A community-maintained Python framework for creating mathematical animations. |
 | [formbricks](https://github.com/formbricks/formbricks) | Open Source Survey Platform |
-| [huly-selfhost](https://github.com/hcengineering/huly-selfhost) | Huly for Self Hosting |
-| [deno](https://github.com/denoland/deno) | A modern runtime for JavaScript and TypeScript. |
-| [hanko](https://github.com/teamhanko/hanko) | The complete Authentication and User Management solution for developers. |
+| [platform](https://github.com/hcengineering/platform) | Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) |
+| [Follow](https://github.com/RSSNext/Follow) | 🧡 Next generation information browser. |
 | [unkey](https://github.com/unkeyed/unkey) | Open source API management platform |
-| [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [core](https://github.com/vuejs/core) | 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. |
-| [cline](https://github.com/cline/cline) | Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way. |
-| [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | real time face swap and one-click video deepfake with only a single image |
+| [ultralytics](https://github.com/ultralytics/ultralytics) | Ultralytics YOLO11 🚀 |
+| [hanko](https://github.com/teamhanko/hanko) | Authentication and User Management solution for developers. Open source alternative to Clerk & Auth0. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
