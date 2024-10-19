@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [siyuan](https://github.com/siyuan-note/siyuan) | A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang. |
-| [WhisperKit](https://github.com/argmaxinc/WhisperKit) | On-device Speech Recognition for Apple Silicon |
-| [SecLists](https://github.com/danielmiessler/SecLists) | SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. |
-| [Kingfisher](https://github.com/onevcat/Kingfisher) | A lightweight, pure-Swift library for downloading and caching images from the web. |
-| [surya](https://github.com/VikParuchuri/surya) | OCR, layout analysis, reading order, table recognition in 90+ languages |
 | [json](https://github.com/nlohmann/json) | JSON for Modern C++ |
-| [electron](https://github.com/electron/electron) | Build cross-platform desktop apps with JavaScript, HTML, and CSS |
 | [cocos-engine](https://github.com/cocos/cocos-engine) | Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment. |
 | [iree](https://github.com/iree-org/iree) | A retargetable MLIR-based machine learning compiler and runtime toolkit. |
+| [deepface](https://github.com/serengil/deepface) | A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python |
 | [mbedtls](https://github.com/Mbed-TLS/mbedtls) | An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases. |
+| [kokkos](https://github.com/kokkos/kokkos) | Kokkos C++ Performance Portability Programming Ecosystem: The Programming Model - Parallel Execution and Memory Abstraction |
+| [testify](https://github.com/stretchr/testify) | A toolkit with common assertions and mocks that plays nicely with the standard library |
+| [googleapis](https://github.com/googleapis/googleapis) | Public interface definitions of Google APIs. |
+| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
+| [pglite](https://github.com/electric-sql/pglite) | Lightweight WASM Postgres with real-time, reactive bindings. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
