@@ -31,12 +31,12 @@
         ],
         "currentPeriodStars": 630,
         "description": "Scripts for fine-tuning Meta Llama with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment. Demo apps to showcase Meta Llama for WhatsApp & Messenger.",
-        "forks": 2077,
+        "forks": 2078,
         "fullname": "meta-llama/llama-recipes",
         "language": "Jupyter Notebook",
         "languageColor": "#DA5B0B",
         "name": "llama-recipes",
-        "stars": 14115,
+        "stars": 14121,
         "url": "https://github.com/meta-llama/llama-recipes"
     },
     {
@@ -76,7 +76,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "Amphion",
-        "stars": 5793,
+        "stars": 5799,
         "url": "https://github.com/open-mmlab/Amphion"
     },
     {
@@ -116,7 +116,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "you-get",
-        "stars": 52488,
+        "stars": 52499,
         "url": "https://github.com/soimort/you-get"
     },
     {
@@ -151,12 +151,12 @@
         ],
         "currentPeriodStars": 231,
         "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
-        "forks": 1164,
+        "forks": 1165,
         "fullname": "stanford-oval/storm",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "storm",
-        "stars": 12730,
+        "stars": 12733,
         "url": "https://github.com/stanford-oval/storm"
     },
     {
@@ -191,7 +191,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "lobe-chat",
-        "stars": 43816,
+        "stars": 43818,
         "url": "https://github.com/lobehub/lobe-chat"
     },
     {
@@ -226,7 +226,7 @@
         "language": "Go",
         "languageColor": "#00ADD8",
         "name": "memos",
-        "stars": 31709,
+        "stars": 31711,
         "url": "https://github.com/usememos/memos"
     },
     {
@@ -266,7 +266,7 @@
         "language": "Jupyter Notebook",
         "languageColor": "#DA5B0B",
         "name": "courses",
-        "stars": 6644,
+        "stars": 6648,
         "url": "https://github.com/anthropics/courses"
     },
     {
@@ -301,7 +301,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "faststream",
-        "stars": 2835,
+        "stars": 2839,
         "url": "https://github.com/airtai/faststream"
     },
     {
@@ -341,7 +341,7 @@
         "language": "Dart",
         "languageColor": "#00B4AB",
         "name": "flutter",
-        "stars": 165907,
+        "stars": 165909,
         "url": "https://github.com/flutter/flutter"
     },
     {
@@ -376,7 +376,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "mast3r",
-        "stars": 1184,
+        "stars": 1186,
         "url": "https://github.com/naver/mast3r"
     },
     {
@@ -416,7 +416,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "AutoRAG",
-        "stars": 2164,
+        "stars": 2167,
         "url": "https://github.com/Marker-Inc-Korea/AutoRAG"
     },
     {
@@ -456,7 +456,7 @@
         "language": "Rust",
         "languageColor": "#dea584",
         "name": "dioxus",
-        "stars": 21164,
+        "stars": 21168,
         "url": "https://github.com/DioxusLabs/dioxus"
     },
     {
@@ -496,7 +496,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "models",
-        "stars": 77118,
+        "stars": 77119,
         "url": "https://github.com/tensorflow/models"
     }
 ]
