@@ -1,0 +1,382 @@
+[
+    {
+        "author": "open-mmlab",
+        "avatar": "https://github.com/open-mmlab.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/33707885",
+                "href": "https://github.com/lmxue",
+                "username": "lmxue"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/76001578",
+                "href": "https://github.com/HeCheng0625",
+                "username": "HeCheng0625"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/44130602",
+                "href": "https://github.com/yuantuo666",
+                "username": "yuantuo666"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/24860155",
+                "href": "https://github.com/RMSnow",
+                "username": "RMSnow"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/68176557",
+                "href": "https://github.com/HarryHe11",
+                "username": "HarryHe11"
+            }
+        ],
+        "currentPeriodStars": 344,
+        "description": "Amphion (/\u00e6m\u02c8fa\u026a\u0259n/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development.",
+        "forks": 471,
+        "fullname": "open-mmlab/Amphion",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "Amphion",
+        "stars": 6334,
+        "url": "https://github.com/open-mmlab/Amphion"
+    },
+    {
+        "author": "usememos",
+        "avatar": "https://github.com/usememos.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/24653555",
+                "href": "https://github.com/boojack",
+                "username": "boojack"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/126313",
+                "href": "https://github.com/athurg",
+                "username": "athurg"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/31177490",
+                "href": "https://github.com/Zeng1998",
+                "username": "Zeng1998"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/38493346",
+                "href": "https://github.com/hyoban",
+                "username": "hyoban"
+            }
+        ],
+        "currentPeriodStars": 390,
+        "description": "An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.",
+        "forks": 2387,
+        "fullname": "usememos/memos",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "name": "memos",
+        "stars": 32089,
+        "url": "https://github.com/usememos/memos"
+    },
+    {
+        "author": "meta-llama",
+        "avatar": "https://github.com/meta-llama.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/9162336",
+                "href": "https://github.com/HamidShojanazeri",
+                "username": "HamidShojanazeri"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/13337103",
+                "href": "https://github.com/mreso",
+                "username": "mreso"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/535090",
+                "href": "https://github.com/jeffxtang",
+                "username": "jeffxtang"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/17387054",
+                "href": "https://github.com/wukaixingxp",
+                "username": "wukaixingxp"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/39230030",
+                "href": "https://github.com/Kyriection",
+                "username": "Kyriection"
+            }
+        ],
+        "currentPeriodStars": 344,
+        "description": "Scripts for fine-tuning Meta Llama with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment. Demo apps to showcase Meta Llama for WhatsApp & Messenger.",
+        "forks": 2105,
+        "fullname": "meta-llama/llama-recipes",
+        "language": "Jupyter Notebook",
+        "languageColor": "#DA5B0B",
+        "name": "llama-recipes",
+        "stars": 14383,
+        "url": "https://github.com/meta-llama/llama-recipes"
+    },
+    {
+        "author": "omnivore-app",
+        "avatar": "https://github.com/omnivore-app.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/75189",
+                "href": "https://github.com/jacksonh",
+                "username": "jacksonh"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/12963965",
+                "href": "https://github.com/sywhb",
+                "username": "sywhb"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/836745",
+                "href": "https://github.com/satindar",
+                "username": "satindar"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/107437442",
+                "href": "https://github.com/rupin90",
+                "username": "rupin90"
+            }
+        ],
+        "currentPeriodStars": 71,
+        "description": "Omnivore is a complete, open source read-it-later solution for people who like reading.",
+        "forks": 757,
+        "fullname": "omnivore-app/omnivore",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "omnivore",
+        "stars": 13028,
+        "url": "https://github.com/omnivore-app/omnivore"
+    },
+    {
+        "author": "novuhq",
+        "avatar": "https://github.com/novuhq.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8872447",
+                "href": "https://github.com/scopsy",
+                "username": "scopsy"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/39195835",
+                "href": "https://github.com/djabarovgeorge",
+                "username": "djabarovgeorge"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2233092",
+                "href": "https://github.com/davidsoderberg",
+                "username": "davidsoderberg"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7778680",
+                "href": "https://github.com/ainouzgali",
+                "username": "ainouzgali"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2607232",
+                "href": "https://github.com/LetItRock",
+                "username": "LetItRock"
+            }
+        ],
+        "currentPeriodStars": 98,
+        "description": "Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.",
+        "forks": 3720,
+        "fullname": "novuhq/novu",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "novu",
+        "stars": 35005,
+        "url": "https://github.com/novuhq/novu"
+    },
+    {
+        "author": "blackmatrix7",
+        "avatar": "https://github.com/blackmatrix7.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/27717518",
+                "href": "https://github.com/blackmatrix7",
+                "username": "blackmatrix7"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/62434508",
+                "href": "https://github.com/Flora-air",
+                "username": "Flora-air"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6800487",
+                "href": "https://github.com/eavan5",
+                "username": "eavan5"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/483419",
+                "href": "https://github.com/mrhaoji",
+                "username": "mrhaoji"
+            }
+        ],
+        "currentPeriodStars": 27,
+        "description": "\u5206\u6d41\u89c4\u5219\u3001\u91cd\u5199\u5199\u89c4\u5219\u53ca\u811a\u672c\u3002",
+        "forks": 2947,
+        "fullname": "blackmatrix7/ios_rule_script",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "name": "ios_rule_script",
+        "stars": 18126,
+        "url": "https://github.com/blackmatrix7/ios_rule_script"
+    },
+    {
+        "author": "rustdesk",
+        "avatar": "https://github.com/rustdesk.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/71636191",
+                "href": "https://github.com/rustdesk",
+                "username": "rustdesk"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/13586388",
+                "href": "https://github.com/fufesou",
+                "username": "fufesou"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/14891774",
+                "href": "https://github.com/21pages",
+                "username": "21pages"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/39793325",
+                "href": "https://github.com/Kingtous",
+                "username": "Kingtous"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/62206297",
+                "href": "https://github.com/Heap-Hop",
+                "username": "Heap-Hop"
+            }
+        ],
+        "currentPeriodStars": 69,
+        "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+        "forks": 9588,
+        "fullname": "rustdesk/rustdesk",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "name": "rustdesk",
+        "stars": 74989,
+        "url": "https://github.com/rustdesk/rustdesk"
+    },
+    {
+        "author": "AppFlowy-IO",
+        "avatar": "https://github.com/AppFlowy-IO.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/86001920",
+                "href": "https://github.com/appflowy",
+                "username": "appflowy"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/11863087",
+                "href": "https://github.com/LucasXu0",
+                "username": "LucasXu0"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/71320345",
+                "href": "https://github.com/richardshiue",
+                "username": "richardshiue"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/42929161",
+                "href": "https://github.com/Xazin",
+                "username": "Xazin"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2352832",
+                "href": "https://github.com/vincentdchan",
+                "username": "vincentdchan"
+            }
+        ],
+        "currentPeriodStars": 47,
+        "description": "Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.",
+        "forks": 3762,
+        "fullname": "AppFlowy-IO/AppFlowy",
+        "language": "Dart",
+        "languageColor": "#00B4AB",
+        "name": "AppFlowy",
+        "stars": 57384,
+        "url": "https://github.com/AppFlowy-IO/AppFlowy"
+    },
+    {
+        "author": "paperless-ngx",
+        "avatar": "https://github.com/paperless-ngx.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4887959",
+                "href": "https://github.com/shamoon",
+                "username": "shamoon"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/797416",
+                "href": "https://github.com/stumpylog",
+                "username": "stumpylog"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/218205",
+                "href": "https://github.com/danielquinn",
+                "username": "danielquinn"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/99855517",
+                "href": "https://github.com/paperlessngx-bot",
+                "username": "paperlessngx-bot"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/17569239",
+                "href": "https://github.com/jonaswinkler",
+                "username": "jonaswinkler"
+            }
+        ],
+        "currentPeriodStars": 107,
+        "description": "A community-supported supercharged version of paperless: scan, index and archive all your physical documents",
+        "forks": 1121,
+        "fullname": "paperless-ngx/paperless-ngx",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "paperless-ngx",
+        "stars": 20478,
+        "url": "https://github.com/paperless-ngx/paperless-ngx"
+    },
+    {
+        "author": "dgtlmoon",
+        "avatar": "https://github.com/dgtlmoon.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/275001",
+                "href": "https://github.com/dgtlmoon",
+                "username": "dgtlmoon"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/61624808",
+                "href": "https://github.com/Constantin1489",
+                "username": "Constantin1489"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6068319",
+                "href": "https://github.com/marceloalencar",
+                "username": "marceloalencar"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/33529490",
+                "href": "https://github.com/hmmbob",
+                "username": "hmmbob"
+            }
+        ],
+        "currentPeriodStars": 53,
+        "description": "The best and simplest free open source web page change detection, website watcher, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification",
+        "forks": 993,
+        "fullname": "dgtlmoon/changedetection.io",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "changedetection.io",
+        "stars": 17825,
+        "url": "https://github.com/dgtlmoon/changedetection.io"
+    }
+]
