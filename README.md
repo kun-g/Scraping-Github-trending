@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [Amphion](https://github.com/open-mmlab/Amphion) | Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development. |
-| [memos](https://github.com/usememos/memos) | An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way. |
-| [llama-recipes](https://github.com/meta-llama/llama-recipes) | Scripts for fine-tuning Meta Llama with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment. Demo apps to showcase Meta Llama for WhatsApp & Messenger. |
 | [omnivore](https://github.com/omnivore-app/omnivore) | Omnivore is a complete, open source read-it-later solution for people who like reading. |
-| [novu](https://github.com/novuhq/novu) | Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations. |
-| [ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) | 分流规则、重写写规则及脚本。 |
-| [rustdesk](https://github.com/rustdesk/rustdesk) | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
-| [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion. |
-| [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | A community-supported supercharged version of paperless: scan, index and archive all your physical documents |
-| [changedetection.io](https://github.com/dgtlmoon/changedetection.io) | The best and simplest free open source web page change detection, website watcher, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification |
+| [you-get](https://github.com/soimort/you-get) | ⏬ Dumb downloader that scrapes the web |
+| [cline](https://github.com/cline/cline) | Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way. |
+| [courses](https://github.com/anthropics/courses) | Anthropic's educational courses |
+| [storm](https://github.com/stanford-oval/storm) | An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations. |
+| [trufflehog](https://github.com/trufflesecurity/trufflehog) | Find, verify, and analyze leaked credentials |
+| [elasticsearch](https://github.com/elastic/elasticsearch) | Free and Open Source, Distributed, RESTful Search Engine |
+| [memos](https://github.com/usememos/memos) | An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way. |
+| [plate](https://github.com/udecode/plate) | A rich-text editor powered by AI |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
