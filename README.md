@@ -46,13 +46,13 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [platform](https://github.com/hcengineering/platform) | Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) |
-| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
 | [manim](https://github.com/3b1b/manim) | Animation engine for explanatory math videos |
 | [phidata](https://github.com/phidatahq/phidata) | Build AI Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI. |
-| [formbricks](https://github.com/formbricks/formbricks) | Open Source Survey Platform |
-| [surya](https://github.com/VikParuchuri/surya) | OCR, layout analysis, reading order, table recognition in 90+ languages |
+| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
 | [manim](https://github.com/ManimCommunity/manim) | A community-maintained Python framework for creating mathematical animations. |
+| [surya](https://github.com/VikParuchuri/surya) | OCR, layout analysis, reading order, table recognition in 90+ languages |
+| [formbricks](https://github.com/formbricks/formbricks) | Open Source Survey Platform |
 | [videos](https://github.com/3b1b/videos) | Code for the manim-generated scenes used in 3blue1brown videos |
 | [agents](https://github.com/livekit/agents) | Build real-time multimodal AI applications 🤖🎙️📹 |
-| [llama-recipes](https://github.com/meta-llama/llama-recipes) | Scripts for fine-tuning Meta Llama with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment. Demo apps to showcase Meta Llama for WhatsApp & Messenger. |
+| [mindcraft](https://github.com/kolbytn/mindcraft) |  |
 <!-- END OF MONTHLY_TOP10_REPOS -->
