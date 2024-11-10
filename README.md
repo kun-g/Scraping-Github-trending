@@ -45,14 +45,14 @@
 <!-- START OF MONTHLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [platform](https://github.com/hcengineering/platform) | Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) |
-| [manim](https://github.com/3b1b/manim) | Animation engine for explanatory math videos |
 | [phidata](https://github.com/phidatahq/phidata) | Build AI Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI. |
-| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
+| [manim](https://github.com/3b1b/manim) | Animation engine for explanatory math videos |
+| [docling](https://github.com/DS4SD/docling) | Get your documents ready for gen AI |
+| [videos](https://github.com/3b1b/videos) | Code for the manim-generated scenes used in 3blue1brown videos |
+| [twenty](https://github.com/twentyhq/twenty) | Building a modern alternative to Salesforce, powered by the community. |
 | [manim](https://github.com/ManimCommunity/manim) | A community-maintained Python framework for creating mathematical animations. |
 | [surya](https://github.com/VikParuchuri/surya) | OCR, layout analysis, reading order, table recognition in 90+ languages |
-| [formbricks](https://github.com/formbricks/formbricks) | Open Source Survey Platform |
-| [videos](https://github.com/3b1b/videos) | Code for the manim-generated scenes used in 3blue1brown videos |
-| [agents](https://github.com/livekit/agents) | Build real-time multimodal AI applications 🤖🎙️📹 |
-| [mindcraft](https://github.com/kolbytn/mindcraft) |  |
+| [social-app](https://github.com/bluesky-social/social-app) | The Bluesky Social application for Web, iOS, and Android |
+| [platform](https://github.com/hcengineering/platform) | Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) |
+| [screenshot-to-code](https://github.com/abi/screenshot-to-code) | Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue) |
 <!-- END OF MONTHLY_TOP10_REPOS -->
