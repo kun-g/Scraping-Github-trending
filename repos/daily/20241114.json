@@ -1,0 +1,655 @@
+[
+    {
+        "author": "dockur",
+        "avatar": "https://github.com/dockur.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5763256",
+                "href": "https://github.com/kroese",
+                "username": "kroese"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/55158851",
+                "href": "https://github.com/seitenca",
+                "username": "seitenca"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/46193371",
+                "href": "https://github.com/hellodword",
+                "username": "hellodword"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1847950",
+                "href": "https://github.com/zimmski",
+                "username": "zimmski"
+            }
+        ],
+        "currentPeriodStars": 1125,
+        "description": "OSX (macOS) inside a Docker container.",
+        "forks": 164,
+        "fullname": "dockur/macos",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "macos",
+        "stars": 4313,
+        "url": "https://github.com/dockur/macos"
+    },
+    {
+        "author": "microsoft",
+        "avatar": "https://github.com/microsoft.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1709404",
+                "href": "https://github.com/paulosalem",
+                "username": "paulosalem"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/22527892",
+                "href": "https://github.com/microsoftopensource",
+                "username": "microsoftopensource"
+            }
+        ],
+        "currentPeriodStars": 390,
+        "description": "LLM-powered multiagent persona simulation for imagination enhancement and business insights.",
+        "forks": 72,
+        "fullname": "microsoft/TinyTroupe",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "TinyTroupe",
+        "stars": 1417,
+        "url": "https://github.com/microsoft/TinyTroupe"
+    },
+    {
+        "author": "dockur",
+        "avatar": "https://github.com/dockur.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5763256",
+                "href": "https://github.com/kroese",
+                "username": "kroese"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/46193371",
+                "href": "https://github.com/hellodword",
+                "username": "hellodword"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2011450",
+                "href": "https://github.com/luisgmuniz",
+                "username": "luisgmuniz"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6342849",
+                "href": "https://github.com/arisudesu",
+                "username": "arisudesu"
+            }
+        ],
+        "currentPeriodStars": 2033,
+        "description": "Windows inside a Docker container.",
+        "forks": 1943,
+        "fullname": "dockur/windows",
+        "language": "Shell",
+        "languageColor": "#89e051",
+        "name": "windows",
+        "stars": 28071,
+        "url": "https://github.com/dockur/windows"
+    },
+    {
+        "author": "ai16z",
+        "avatar": "https://github.com/ai16z.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/18633264",
+                "href": "https://github.com/lalalune",
+                "username": "lalalune"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/28543",
+                "href": "https://github.com/sirkitree",
+                "username": "sirkitree"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/90423308",
+                "href": "https://github.com/ponderingdemocritus",
+                "username": "ponderingdemocritus"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/70625671",
+                "href": "https://github.com/MarcoMandar",
+                "username": "MarcoMandar"
+            }
+        ],
+        "currentPeriodStars": 79,
+        "description": "Conversational Agent for Twitter and Discord",
+        "forks": 218,
+        "fullname": "ai16z/eliza",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "eliza",
+        "stars": 735,
+        "url": "https://github.com/ai16z/eliza"
+    },
+    {
+        "author": "mudler",
+        "avatar": "https://github.com/mudler.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2420543",
+                "href": "https://github.com/mudler",
+                "username": "mudler"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/139863280",
+                "href": "https://github.com/localai-bot",
+                "username": "localai-bot"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/105103991",
+                "href": "https://github.com/ci-robbot",
+                "username": "ci-robbot"
+            }
+        ],
+        "currentPeriodStars": 215,
+        "description": "\ud83e\udd16 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",
+        "forks": 1919,
+        "fullname": "mudler/LocalAI",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "name": "LocalAI",
+        "stars": 25434,
+        "url": "https://github.com/mudler/LocalAI"
+    },
+    {
+        "author": "QwenLM",
+        "avatar": "https://github.com/QwenLM.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/13436140",
+                "href": "https://github.com/huybery",
+                "username": "huybery"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/17171126",
+                "href": "https://github.com/CSJianYang",
+                "username": "CSJianYang"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/17844362",
+                "href": "https://github.com/cyente",
+                "username": "cyente"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/27664428",
+                "href": "https://github.com/JustinLin610",
+                "username": "JustinLin610"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6203054",
+                "href": "https://github.com/Yangjiaxi",
+                "username": "Yangjiaxi"
+            }
+        ],
+        "currentPeriodStars": 311,
+        "description": "Qwen2.5-Coder is the code version of Qwen2.5, the large language model series developed by Qwen team, Alibaba Cloud.",
+        "forks": 118,
+        "fullname": "QwenLM/Qwen2.5-Coder",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "Qwen2.5-Coder",
+        "stars": 1661,
+        "url": "https://github.com/QwenLM/Qwen2.5-Coder"
+    },
+    {
+        "author": "exo-explore",
+        "avatar": "https://github.com/exo-explore.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/41707476",
+                "href": "https://github.com/AlexCheema",
+                "username": "AlexCheema"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/114382923",
+                "href": "https://github.com/blindcrone",
+                "username": "blindcrone"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/44467843",
+                "href": "https://github.com/DevEmilio96",
+                "username": "DevEmilio96"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/33058747",
+                "href": "https://github.com/GaetanLepage",
+                "username": "GaetanLepage"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/46036106",
+                "href": "https://github.com/ianpaul10",
+                "username": "ianpaul10"
+            }
+        ],
+        "currentPeriodStars": 1417,
+        "description": "Run your own AI cluster at home with everyday devices \ud83d\udcf1\ud83d\udcbb \ud83d\udda5\ufe0f\u231a",
+        "forks": 761,
+        "fullname": "exo-explore/exo",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "exo",
+        "stars": 14156,
+        "url": "https://github.com/exo-explore/exo"
+    },
+    {
+        "author": "automatisch",
+        "avatar": "https://github.com/automatisch.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2501931",
+                "href": "https://github.com/farukaydin",
+                "username": "farukaydin"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1263419",
+                "href": "https://github.com/barinali",
+                "username": "barinali"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/43352493",
+                "href": "https://github.com/ridvanakca",
+                "username": "ridvanakca"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/50657366",
+                "href": "https://github.com/kattoczko",
+                "username": "kattoczko"
+            }
+        ],
+        "currentPeriodStars": 124,
+        "description": "The open source Zapier alternative. Build workflow automation without spending time and money.",
+        "forks": 423,
+        "fullname": "automatisch/automatisch",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "name": "automatisch",
+        "stars": 5516,
+        "url": "https://github.com/automatisch/automatisch"
+    },
+    {
+        "author": "nvm-sh",
+        "avatar": "https://github.com/nvm-sh.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/45469",
+                "href": "https://github.com/ljharb",
+                "username": "ljharb"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3691490",
+                "href": "https://github.com/PeterDaveHello",
+                "username": "PeterDaveHello"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/89353",
+                "href": "https://github.com/creationix",
+                "username": "creationix"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/351038",
+                "href": "https://github.com/koenpunt",
+                "username": "koenpunt"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2123375",
+                "href": "https://github.com/lukechilds",
+                "username": "lukechilds"
+            }
+        ],
+        "currentPeriodStars": 121,
+        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+        "forks": 8019,
+        "fullname": "nvm-sh/nvm",
+        "language": "Shell",
+        "languageColor": "#89e051",
+        "name": "nvm",
+        "stars": 80219,
+        "url": "https://github.com/nvm-sh/nvm"
+    },
+    {
+        "author": "microsoft",
+        "avatar": "https://github.com/microsoft.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8054591",
+                "href": "https://github.com/sffamily",
+                "username": "sffamily"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/50425216",
+                "href": "https://github.com/tesych",
+                "username": "tesych"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4194864",
+                "href": "https://github.com/vriveras",
+                "username": "vriveras"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/49138419",
+                "href": "https://github.com/XiaofuHuang",
+                "username": "XiaofuHuang"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/9698542",
+                "href": "https://github.com/a1exwang",
+                "username": "a1exwang"
+            }
+        ],
+        "currentPeriodStars": 123,
+        "description": "",
+        "forks": 60,
+        "fullname": "microsoft/vscode-ai-toolkit",
+        "name": "vscode-ai-toolkit",
+        "stars": 1130,
+        "url": "https://github.com/microsoft/vscode-ai-toolkit"
+    },
+    {
+        "author": "jackfrued",
+        "avatar": "https://github.com/jackfrued.png",
+        "builtBy": [
+            {
+                "avatar": "https://private-avatars.githubusercontent.com/u/7474657?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzE1MzcwMDAsIm5iZiI6MTczMTUzNTgwMCwicGF0aCI6Ii91Lzc0NzQ2NTcifQ.8XGePI4QMDZicoXxAK42kQgE-iLTpXGwJV7nWnjt8bk&s=40&v=4",
+                "href": "https://github.com/jackfrued",
+                "username": "jackfrued"
+            },
+            {
+                "avatar": "https://private-avatars.githubusercontent.com/u/13017944?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzE1MzY2NDAsIm5iZiI6MTczMTUzNTQ0MCwicGF0aCI6Ii91LzEzMDE3OTQ0In0.43_jcGNVMz3xiJ4iD19RH3CiccyWIaIbp8JL6G9eQyY&s=40&v=4",
+                "href": "https://github.com/softpo",
+                "username": "softpo"
+            },
+            {
+                "avatar": "https://private-avatars.githubusercontent.com/u/10865729?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzE1MzY1ODAsIm5iZiI6MTczMTUzNTM4MCwicGF0aCI6Ii91LzEwODY1NzI5In0.yHnzQJ_UMlV_PVxE4QXTMqJ2DeG2_PbCNsZI1gpRmEk&s=40&v=4",
+                "href": "https://github.com/geekya215",
+                "username": "geekya215"
+            },
+            {
+                "avatar": "https://private-avatars.githubusercontent.com/u/599268?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzE1MzcwMDAsIm5iZiI6MTczMTUzNTgwMCwicGF0aCI6Ii91LzU5OTI2OCJ9.Qi0OEzNTU_Hot3ORhdJgcVPHYCWgPq2ff4MMZhTK22Q&s=40&v=4",
+                "href": "https://github.com/jankeromnes",
+                "username": "jankeromnes"
+            },
+            {
+                "avatar": "https://private-avatars.githubusercontent.com/u/2331406?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzE1MzcxMjAsIm5iZiI6MTczMTUzNTkyMCwicGF0aCI6Ii91LzIzMzE0MDYifQ.97YP8nZNaTLsGQk0EqJWEpa-w5dOqPD8jWqL5uqC_a8&s=40&v=4",
+                "href": "https://github.com/royaso",
+                "username": "royaso"
+            }
+        ],
+        "currentPeriodStars": 73,
+        "description": "Python - 100\u5929\u4ece\u65b0\u624b\u5230\u5927\u5e08",
+        "forks": 52400,
+        "fullname": "jackfrued/Python-100-Days",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "Python-100-Days",
+        "stars": 157195,
+        "url": "https://github.com/jackfrued/Python-100-Days"
+    },
+    {
+        "author": "vercel",
+        "avatar": "https://github.com/vercel.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4060187",
+                "href": "https://github.com/jaredpalmer",
+                "username": "jaredpalmer"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/124599",
+                "href": "https://github.com/shadcn",
+                "username": "shadcn"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/17938322",
+                "href": "https://github.com/jeremyphilemon",
+                "username": "jeremyphilemon"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/9113740",
+                "href": "https://github.com/leerob",
+                "username": "leerob"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3676859",
+                "href": "https://github.com/shuding",
+                "username": "shuding"
+            }
+        ],
+        "currentPeriodStars": 180,
+        "description": "A full-featured, hackable Next.js AI chatbot built by Vercel",
+        "forks": 2368,
+        "fullname": "vercel/ai-chatbot",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "ai-chatbot",
+        "stars": 9142,
+        "url": "https://github.com/vercel/ai-chatbot"
+    },
+    {
+        "author": "Guovin",
+        "avatar": "https://github.com/Guovin.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/37107669",
+                "href": "https://github.com/Guovin",
+                "username": "Guovin"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/26541344",
+                "href": "https://github.com/haohaitao",
+                "username": "haohaitao"
+            }
+        ],
+        "currentPeriodStars": 59,
+        "description": "\ud83d\udcfaIPTV\u7535\u89c6\u76f4\u64ad\u6e90\u66f4\u65b0\u5de5\u5177\ud83d\ude80\uff1a\u5305\u542b\ud83d\udcb0\u592e\u89c6(\u4ed8\u8d39)\u3001\ud83d\udce1\u536b\u89c6\u3001\ud83c\udfe0\u5e7f\u4e1c\u3001\ud83c\udf0a\u6e2f\u00b7\u6fb3\u00b7\u53f0\u3001\ud83c\udfac\u7535\u5f71\u3001\ud83c\udfa5\u54aa\u5495\u3001\ud83c\udfc0\u4f53\u80b2\u3001\ud83e\ude81\u52a8\u753b\u3001\ud83c\udfae\u6e38\u620f\u3001\ud83c\udfb5\u97f3\u4e50\u3001\ud83c\udfdb\u7ecf\u5178\u5267\u573a\uff1b\u652f\u6301\u81ea\u5b9a\u4e49\u589e\u52a0\u9891\u9053\uff1b\u652f\u6301\u7ec4\u64ad\u6e90\u3001\u9152\u5e97\u6e90\u3001\u8ba2\u9605\u6e90\u3001\u5173\u952e\u5b57\u641c\u7d22\uff1b\u6bcf\u5929\u81ea\u52a8\u66f4\u65b0\u4e24\u6b21\uff0c\u7ed3\u679c\u53ef\u7528\u4e8eTVBox\u7b49\u64ad\u653e\u8f6f\u4ef6\uff1b\u652f\u6301\u5de5\u4f5c\u6d41\u3001Docker(amd64/arm64)\u3001\u547d\u4ee4\u884c\u3001GUI\u8fd0\u884c\u65b9\u5f0f | IPTV live TV source update tool",
+        "forks": 1172,
+        "fullname": "Guovin/TV",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "TV",
+        "stars": 5139,
+        "url": "https://github.com/Guovin/TV"
+    },
+    {
+        "author": "microsoft",
+        "avatar": "https://github.com/microsoft.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4250911",
+                "href": "https://github.com/sonichi",
+                "username": "sonichi"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7558482",
+                "href": "https://github.com/jackgerrits",
+                "username": "jackgerrits"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/320302",
+                "href": "https://github.com/ekzhu",
+                "username": "ekzhu"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8920372",
+                "href": "https://github.com/qingyun-wu",
+                "username": "qingyun-wu"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3197038",
+                "href": "https://github.com/thinkall",
+                "username": "thinkall"
+            }
+        ],
+        "currentPeriodStars": 213,
+        "description": "A programming framework for agentic AI \ud83e\udd16",
+        "forks": 4884,
+        "fullname": "microsoft/autogen",
+        "language": "Jupyter Notebook",
+        "languageColor": "#DA5B0B",
+        "name": "autogen",
+        "stars": 33854,
+        "url": "https://github.com/microsoft/autogen"
+    },
+    {
+        "author": "donnemartin",
+        "avatar": "https://github.com/donnemartin.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5458997",
+                "href": "https://github.com/donnemartin",
+                "username": "donnemartin"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3709715",
+                "href": "https://github.com/cclauss",
+                "username": "cclauss"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/171818",
+                "href": "https://github.com/satob",
+                "username": "satob"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7440735",
+                "href": "https://github.com/fluency03",
+                "username": "fluency03"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8622362",
+                "href": "https://github.com/linhe0x0",
+                "username": "linhe0x0"
+            }
+        ],
+        "currentPeriodStars": 254,
+        "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+        "forks": 46259,
+        "fullname": "donnemartin/system-design-primer",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "system-design-primer",
+        "stars": 275315,
+        "url": "https://github.com/donnemartin/system-design-primer"
+    },
+    {
+        "author": "google-gemini",
+        "avatar": "https://github.com/google-gemini.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1414837",
+                "href": "https://github.com/MarkDaoust",
+                "username": "MarkDaoust"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/19695904",
+                "href": "https://github.com/random-forests",
+                "username": "random-forests"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/109308",
+                "href": "https://github.com/markmcd",
+                "username": "markmcd"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/31664851",
+                "href": "https://github.com/shilpakancharla",
+                "username": "shilpakancharla"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3638972",
+                "href": "https://github.com/Giom-V",
+                "username": "Giom-V"
+            }
+        ],
+        "currentPeriodStars": 39,
+        "description": "Examples and guides for using the Gemini API",
+        "forks": 779,
+        "fullname": "google-gemini/cookbook",
+        "language": "Jupyter Notebook",
+        "languageColor": "#DA5B0B",
+        "name": "cookbook",
+        "stars": 5269,
+        "url": "https://github.com/google-gemini/cookbook"
+    },
+    {
+        "author": "Huanshere",
+        "avatar": "https://github.com/Huanshere.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/147359634",
+                "href": "https://github.com/Huanshere",
+                "username": "Huanshere"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/62410385",
+                "href": "https://github.com/yxc0915",
+                "username": "yxc0915"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/16796652",
+                "href": "https://github.com/nexmoe",
+                "username": "nexmoe"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/23065064",
+                "href": "https://github.com/hikariming",
+                "username": "hikariming"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/29997045",
+                "href": "https://github.com/qianniucity",
+                "username": "qianniucity"
+            }
+        ],
+        "currentPeriodStars": 94,
+        "description": "Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix\u7ea7\u5b57\u5e55\u5207\u5272\u3001\u7ffb\u8bd1\u3001\u5bf9\u9f50\u3001\u751a\u81f3\u52a0\u4e0a\u914d\u97f3\uff0c\u4e00\u952e\u5168\u81ea\u52a8\u89c6\u9891\u642c\u8fd0AI\u5b57\u5e55\u7ec4",
+        "forks": 605,
+        "fullname": "Huanshere/VideoLingo",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "VideoLingo",
+        "stars": 5762,
+        "url": "https://github.com/Huanshere/VideoLingo"
+    },
+    {
+        "author": "AmruthPillai",
+        "avatar": "https://github.com/AmruthPillai.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1134738",
+                "href": "https://github.com/AmruthPillai",
+                "username": "AmruthPillai"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/63844628",
+                "href": "https://github.com/gianantoniopini",
+                "username": "gianantoniopini"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/58779643",
+                "href": "https://github.com/crowdin-bot",
+                "username": "crowdin-bot"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/91976421",
+                "href": "https://github.com/abizek",
+                "username": "abizek"
+            }
+        ],
+        "currentPeriodStars": 335,
+        "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
+        "forks": 2607,
+        "fullname": "AmruthPillai/Reactive-Resume",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "Reactive-Resume",
+        "stars": 25469,
+        "url": "https://github.com/AmruthPillai/Reactive-Resume"
+    }
+]
