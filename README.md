@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) | This is a repo with links to everything you'd ever want to learn about data engineering |
-| [generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) | Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI |
-| [eliza](https://github.com/ai16z/eliza) | Conversational Agent for Twitter and Discord |
-| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
-| [webvm](https://github.com/leaningtech/webvm) | Virtual Machine for the Web |
-| [libsql](https://github.com/tursodatabase/libsql) | libSQL is a fork of SQLite that is both Open Source, and Open Contributions. |
-| [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. |
-| [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI |
-| [seer](https://github.com/epasveer/seer) | Seer - a gui frontend to gdb |
+| [freqtrade](https://github.com/freqtrade/freqtrade) | Free, open source crypto trading bot |
 | [Perplexica](https://github.com/ItzCrazyKns/Perplexica) | Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI |
+| [gpt4free](https://github.com/xtekky/gpt4free) | The official gpt4free repository | various collection of powerful language models |
+| [motion](https://github.com/motiondivision/motion) | A modern animation library for React and JavaScript |
+| [eliza](https://github.com/ai16z/eliza) | Conversational Agent for Twitter and Discord |
+| [codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) | ✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama, OpenAI and xAI LLMs |
+| [ComfyUI](https://github.com/comfyanonymous/ComfyUI) | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. |
+| [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. |
+| [SDL](https://github.com/libsdl-org/SDL) | Simple Directmedia Layer |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
