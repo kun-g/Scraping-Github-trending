@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [twenty](https://github.com/twentyhq/twenty) | Building a modern alternative to Salesforce, powered by the community. |
+| [payload](https://github.com/payloadcms/payload) | Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications. |
 | [webvm](https://github.com/leaningtech/webvm) | Virtual Machine for the Web |
-| [eliza](https://github.com/ai16z/eliza) | Conversational Agent for Twitter and Discord |
-| [freqtrade](https://github.com/freqtrade/freqtrade) | Free, open source crypto trading bot |
 | [bbot](https://github.com/blacklanternsecurity/bbot) | A recursive internet scanner for hackers. |
-| [data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) | This is a repo with links to everything you'd ever want to learn about data engineering |
-| [garak](https://github.com/NVIDIA/garak) | the LLM vulnerability scanner |
-| [pensieve](https://github.com/arkohut/pensieve) | A passive recording project allows you to have complete control over your data. 一个完全由你掌控数据的「被动记录」项目。 |
-| [gpt4free](https://github.com/xtekky/gpt4free) | The official gpt4free repository | various collection of powerful language models |
-| [Perplexica](https://github.com/ItzCrazyKns/Perplexica) | Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI |
+| [langflow](https://github.com/langflow-ai/langflow) | Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database. |
+| [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) | ⭐️ Companies that don't have a broken hiring process |
+| [lvgl](https://github.com/lvgl/lvgl) | Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. |
+| [freqtrade](https://github.com/freqtrade/freqtrade) | Free, open source crypto trading bot |
 | [multi-agent-orchestrator](https://github.com/awslabs/multi-agent-orchestrator) | Flexible and powerful framework for managing multiple AI agents and handling complex conversations |
+| [Perplexica](https://github.com/ItzCrazyKns/Perplexica) | Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
