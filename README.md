@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [aisuite](https://github.com/andrewyng/aisuite) | Simple, unified interface to multiple Generative AI providers |
-| [screenshot-to-code](https://github.com/abi/screenshot-to-code) | Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue) |
+| [kyanos](https://github.com/hengyoush/kyanos) | Visualize the time packets spend in the kernel, watch & analyze in command line. |
+| [introduction-to-github](https://github.com/skills/introduction-to-github) | Get started using GitHub in less than an hour. |
 | [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | A collection of (mostly) technical things every software developer should know about |
-| [stock](https://github.com/myhhub/stock) | stock股票.获取股票数据,计算股票指标,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。 |
-| [sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) | A free, open source, multi-platform SQLite database manager. |
-| [open-interpreter](https://github.com/OpenInterpreter/open-interpreter) | A natural language interface for computers |
-| [dive](https://github.com/wagoodman/dive) | A tool for exploring each layer in a docker image |
-| [cypress](https://github.com/cypress-io/cypress) | Fast, easy and reliable testing for anything that runs in a browser. |
+| [Delta](https://github.com/SimonCropp/Delta) | An approach to implementing a 304 Not Modified leveraging SqlServer change tracking |
 | [Alamofire](https://github.com/Alamofire/Alamofire) | Elegant HTTP Networking in Swift |
-| [ollama-python](https://github.com/ollama/ollama-python) | Ollama Python library |
+| [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. |
+| [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | 💯 Curated coding interview preparation materials for busy software engineers |
+| [open-interpreter](https://github.com/OpenInterpreter/open-interpreter) | A natural language interface for computers |
+| [n8n](https://github.com/n8n-io/n8n) | Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
