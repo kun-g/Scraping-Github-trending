@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [stock](https://github.com/myhhub/stock) | stock股票.获取股票数据,计算股票指标,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。 |
 | [aisuite](https://github.com/andrewyng/aisuite) | Simple, unified interface to multiple Generative AI providers |
+| [keep](https://github.com/keephq/keep) | The open-source alert management and AIOps platform |
+| [xiaoju-survey](https://github.com/didi/xiaoju-survey) | XIAOJUSURVEY is an enterprises form builder and analytics platform that allows users to create questionnaires, exams, polls, quizzes, and analyze data online. |
+| [crawl4ai](https://github.com/unclecode/crawl4ai) | 🔥🕷️ Crawl4AI: Crawl Smarter, Faster, Freely. For AI. |
 | [kyanos](https://github.com/hengyoush/kyanos) | Visualize the time packets spend in the kernel, watch & analyze in command line. |
-| [introduction-to-github](https://github.com/skills/introduction-to-github) | Get started using GitHub in less than an hour. |
-| [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | A collection of (mostly) technical things every software developer should know about |
-| [Delta](https://github.com/SimonCropp/Delta) | An approach to implementing a 304 Not Modified leveraging SqlServer change tracking |
-| [Alamofire](https://github.com/Alamofire/Alamofire) | Elegant HTTP Networking in Swift |
 | [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. |
-| [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | 💯 Curated coding interview preparation materials for busy software engineers |
-| [open-interpreter](https://github.com/OpenInterpreter/open-interpreter) | A natural language interface for computers |
-| [n8n](https://github.com/n8n-io/n8n) | Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services. |
+| [Qwen2.5](https://github.com/QwenLM/Qwen2.5) | Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud. |
+| [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | A collection of (mostly) technical things every software developer should know about |
+| [MinerU](https://github.com/opendatalab/MinerU) | A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。 |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
