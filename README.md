@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [MegaParse](https://github.com/QuivrHQ/MegaParse) | File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs. |
-| [lobe-chat](https://github.com/lobehub/lobe-chat) | 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application. |
-| [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python |
-| [pydantic-ai](https://github.com/pydantic/pydantic-ai) | Agent Framework / shim to use Pydantic with LLMs |
-| [VAR](https://github.com/FoundationVision/VAR) | [NeurIPS 2024 Oral][GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction". An *ultra-simple, user-friendly yet state-of-the-art* codebase for autoregressive image generation! |
 | [fish-speech](https://github.com/fishaudio/fish-speech) | SOTA Open Source TTS |
-| [terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) | The AWS Provider enables Terraform to manage AWS resources. |
-| [qodo-cover](https://github.com/qodo-ai/qodo-cover) | Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞 |
-| [sqlfluff](https://github.com/sqlfluff/sqlfluff) | A modular SQL linter and auto-formatter with support for multiple dialects and templated code. |
-| [bitcoin](https://github.com/bitcoin/bitcoin) | Bitcoin Core integration/staging tree |
+| [MegaParse](https://github.com/QuivrHQ/MegaParse) | File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs. |
+| [react](https://github.com/facebook/react) | The library for web and native user interfaces. |
+| [cobalt](https://github.com/imputnet/cobalt) | best way to save what you love |
+| [wvp-GB28181-pro](https://github.com/648540858/wvp-GB28181-pro) | WEB VIDEO PLATFORM是一个基于GB28181-2016标准实现的网络视频平台，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR、DVR接入。支持国标级联，支持rtsp/rtmp等视频流转发到国标平台，支持rtsp/rtmp等推流转发到国标平台。 |
+| [github-pages](https://github.com/skills/github-pages) | Create a site or blog from your GitHub repositories with GitHub Pages. |
+| [invoify](https://github.com/al1abb/invoify) | An invoice generator app built using Next.js, Typescript, and Shadcn |
+| [copilot-codespaces-vscode](https://github.com/skills/copilot-codespaces-vscode) | Develop with AI-powered code suggestions using GitHub Copilot and VS Code |
+| [json](https://github.com/nlohmann/json) | JSON for Modern C++ |
+| [grpc-go](https://github.com/grpc/grpc-go) | The Go language implementation of gRPC. HTTP/2 based RPC |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
