@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [fish-speech](https://github.com/fishaudio/fish-speech) | SOTA Open Source TTS |
-| [MegaParse](https://github.com/QuivrHQ/MegaParse) | File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs. |
-| [react](https://github.com/facebook/react) | The library for web and native user interfaces. |
 | [cobalt](https://github.com/imputnet/cobalt) | best way to save what you love |
-| [wvp-GB28181-pro](https://github.com/648540858/wvp-GB28181-pro) | WEB VIDEO PLATFORM是一个基于GB28181-2016标准实现的网络视频平台，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR、DVR接入。支持国标级联，支持rtsp/rtmp等视频流转发到国标平台，支持rtsp/rtmp等推流转发到国标平台。 |
-| [github-pages](https://github.com/skills/github-pages) | Create a site or blog from your GitHub repositories with GitHub Pages. |
-| [invoify](https://github.com/al1abb/invoify) | An invoice generator app built using Next.js, Typescript, and Shadcn |
+| [maigret](https://github.com/soxoj/maigret) | 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites |
+| [ollama](https://github.com/ollama/ollama) | Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models. |
+| [bitcoin](https://github.com/bitcoin/bitcoin) | Bitcoin Core integration/staging tree |
+| [OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) | Experience macOS just like before |
+| [MegaParse](https://github.com/QuivrHQ/MegaParse) | File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs. |
+| [daytona](https://github.com/daytonaio/daytona) | The Open Source Dev Environment Manager. |
+| [litellm](https://github.com/BerriAI/litellm) | Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq] |
 | [copilot-codespaces-vscode](https://github.com/skills/copilot-codespaces-vscode) | Develop with AI-powered code suggestions using GitHub Copilot and VS Code |
-| [json](https://github.com/nlohmann/json) | JSON for Modern C++ |
-| [grpc-go](https://github.com/grpc/grpc-go) | The Go language implementation of gRPC. HTTP/2 based RPC |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
