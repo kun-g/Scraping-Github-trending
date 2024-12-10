@@ -1,0 +1,717 @@
+[
+    {
+        "author": "astral-sh",
+        "avatar": "https://github.com/astral-sh.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1309177",
+                "href": "https://github.com/charliermarsh",
+                "username": "charliermarsh"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2586601",
+                "href": "https://github.com/zanieb",
+                "username": "zanieb"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6826232",
+                "href": "https://github.com/konstin",
+                "username": "konstin"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/456674",
+                "href": "https://github.com/BurntSushi",
+                "username": "BurntSushi"
+            }
+        ],
+        "currentPeriodStars": 434,
+        "description": "An extremely fast Python package and project manager, written in Rust.",
+        "forks": 831,
+        "fullname": "astral-sh/uv",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "name": "uv",
+        "stars": 30363,
+        "url": "https://github.com/astral-sh/uv"
+    },
+    {
+        "author": "bitcoin",
+        "avatar": "https://github.com/bitcoin.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/126646",
+                "href": "https://github.com/laanwj",
+                "username": "laanwj"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/863730",
+                "href": "https://github.com/fanquake",
+                "username": "fanquake"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/548488",
+                "href": "https://github.com/sipa",
+                "username": "sipa"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/32963518",
+                "href": "https://github.com/hebasto",
+                "username": "hebasto"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3782274",
+                "href": "https://github.com/achow101",
+                "username": "achow101"
+            }
+        ],
+        "currentPeriodStars": 89,
+        "description": "Bitcoin Core integration/staging tree",
+        "forks": 36526,
+        "fullname": "bitcoin/bitcoin",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "name": "bitcoin",
+        "stars": 80352,
+        "url": "https://github.com/bitcoin/bitcoin"
+    },
+    {
+        "author": "DrKLO",
+        "avatar": "https://github.com/DrKLO.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7038595",
+                "href": "https://github.com/xaxtix",
+                "username": "xaxtix"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/69369",
+                "href": "https://github.com/DrKLO",
+                "username": "DrKLO"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/10834227",
+                "href": "https://github.com/dkaraush",
+                "username": "dkaraush"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3435533",
+                "href": "https://github.com/jsonchi",
+                "username": "jsonchi"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/105185",
+                "href": "https://github.com/Bubu",
+                "username": "Bubu"
+            }
+        ],
+        "currentPeriodStars": 11,
+        "description": "Telegram for Android source",
+        "forks": 8179,
+        "fullname": "DrKLO/Telegram",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "name": "Telegram",
+        "stars": 25403,
+        "url": "https://github.com/DrKLO/Telegram"
+    },
+    {
+        "author": "lmarzen",
+        "avatar": "https://github.com/lmarzen.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/98473324",
+                "href": "https://github.com/lmarzen",
+                "username": "lmarzen"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6757268",
+                "href": "https://github.com/cwitting",
+                "username": "cwitting"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/61236",
+                "href": "https://github.com/pjveltri",
+                "username": "pjveltri"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/570247",
+                "href": "https://github.com/jrial",
+                "username": "jrial"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/659972",
+                "href": "https://github.com/srt19170",
+                "username": "srt19170"
+            }
+        ],
+        "currentPeriodStars": 84,
+        "description": "A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.",
+        "forks": 224,
+        "fullname": "lmarzen/esp32-weather-epd",
+        "language": "C",
+        "languageColor": "#555555",
+        "name": "esp32-weather-epd",
+        "stars": 3007,
+        "url": "https://github.com/lmarzen/esp32-weather-epd"
+    },
+    {
+        "author": "fishaudio",
+        "avatar": "https://github.com/fishaudio.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/25119060",
+                "href": "https://github.com/leng-yue",
+                "username": "leng-yue"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/122108331",
+                "href": "https://github.com/AnyaCoder",
+                "username": "AnyaCoder"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/52093397",
+                "href": "https://github.com/Stardust-minus",
+                "username": "Stardust-minus"
+            }
+        ],
+        "currentPeriodStars": 404,
+        "description": "SOTA Open Source TTS",
+        "forks": 1246,
+        "fullname": "fishaudio/fish-speech",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "fish-speech",
+        "stars": 16446,
+        "url": "https://github.com/fishaudio/fish-speech"
+    },
+    {
+        "author": "pocketbase",
+        "avatar": "https://github.com/pocketbase.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8248071",
+                "href": "https://github.com/ganigeorgiev",
+                "username": "ganigeorgiev"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/43366254",
+                "href": "https://github.com/ValleyZw",
+                "username": "ValleyZw"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/17144564",
+                "href": "https://github.com/yuxiang-gao",
+                "username": "yuxiang-gao"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/550684",
+                "href": "https://github.com/pnmcosta",
+                "username": "pnmcosta"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3968727",
+                "href": "https://github.com/dschissler",
+                "username": "dschissler"
+            }
+        ],
+        "currentPeriodStars": 252,
+        "description": "Open Source realtime backend in 1 file",
+        "forks": 1967,
+        "fullname": "pocketbase/pocketbase",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "name": "pocketbase",
+        "stars": 41865,
+        "url": "https://github.com/pocketbase/pocketbase"
+    },
+    {
+        "author": "nexus-xyz",
+        "avatar": "https://github.com/nexus-xyz.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/864855",
+                "href": "https://github.com/govereau",
+                "username": "govereau"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/48099298",
+                "href": "https://github.com/slumber",
+                "username": "slumber"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/60114322",
+                "href": "https://github.com/danielmarinq",
+                "username": "danielmarinq"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/20324824",
+                "href": "https://github.com/sjudson",
+                "username": "sjudson"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/173047316",
+                "href": "https://github.com/yoichi-nexus",
+                "username": "yoichi-nexus"
+            }
+        ],
+        "currentPeriodStars": 17,
+        "description": "The Nexus zkVM: The zero-knowledge virtual machine",
+        "forks": 260,
+        "fullname": "nexus-xyz/nexus-zkvm",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "name": "nexus-zkvm",
+        "stars": 860,
+        "url": "https://github.com/nexus-xyz/nexus-zkvm"
+    },
+    {
+        "author": "daytonaio",
+        "avatar": "https://github.com/daytonaio.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/25279767",
+                "href": "https://github.com/idagelic",
+                "username": "idagelic"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/26512078",
+                "href": "https://github.com/Tpuljak",
+                "username": "Tpuljak"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/34857453",
+                "href": "https://github.com/tarunrajput",
+                "username": "tarunrajput"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/116551028",
+                "href": "https://github.com/lbrecic",
+                "username": "lbrecic"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/13081153",
+                "href": "https://github.com/vedranjukic",
+                "username": "vedranjukic"
+            }
+        ],
+        "currentPeriodStars": 251,
+        "description": "The Open Source Dev Environment Manager.",
+        "forks": 988,
+        "fullname": "daytonaio/daytona",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "name": "daytona",
+        "stars": 13048,
+        "url": "https://github.com/daytonaio/daytona"
+    },
+    {
+        "author": "LizardByte",
+        "avatar": "https://github.com/LizardByte.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/42013603",
+                "href": "https://github.com/ReenigneArcher",
+                "username": "ReenigneArcher"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2695644",
+                "href": "https://github.com/cgutman",
+                "username": "cgutman"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3084139",
+                "href": "https://github.com/loki-47-6F-64",
+                "username": "loki-47-6F-64"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/108553330",
+                "href": "https://github.com/LizardByte-bot",
+                "username": "LizardByte-bot"
+            }
+        ],
+        "currentPeriodStars": 41,
+        "description": "Self-hosted game stream host for Moonlight.",
+        "forks": 982,
+        "fullname": "LizardByte/Sunshine",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "name": "Sunshine",
+        "stars": 20501,
+        "url": "https://github.com/LizardByte/Sunshine"
+    },
+    {
+        "author": "phidatahq",
+        "avatar": "https://github.com/phidatahq.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/22579644",
+                "href": "https://github.com/ashpreetbedi",
+                "username": "ashpreetbedi"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/101447028",
+                "href": "https://github.com/ysolanky",
+                "username": "ysolanky"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/26749795",
+                "href": "https://github.com/jacobweiss2305",
+                "username": "jacobweiss2305"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/42516515",
+                "href": "https://github.com/manthanguptaa",
+                "username": "manthanguptaa"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/97244608",
+                "href": "https://github.com/Ayush0054",
+                "username": "Ayush0054"
+            }
+        ],
+        "currentPeriodStars": 63,
+        "description": "Build multi-modal Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.",
+        "forks": 2196,
+        "fullname": "phidatahq/phidata",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "phidata",
+        "stars": 15993,
+        "url": "https://github.com/phidatahq/phidata"
+    },
+    {
+        "author": "libsdl-org",
+        "avatar": "https://github.com/libsdl-org.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2100061",
+                "href": "https://github.com/slouken",
+                "username": "slouken"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/673562",
+                "href": "https://github.com/icculus",
+                "username": "icculus"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4222725",
+                "href": "https://github.com/sezero",
+                "username": "sezero"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/818728",
+                "href": "https://github.com/1bsyl",
+                "username": "1bsyl"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4138939",
+                "href": "https://github.com/madebr",
+                "username": "madebr"
+            }
+        ],
+        "currentPeriodStars": 40,
+        "description": "Simple Directmedia Layer",
+        "forks": 1879,
+        "fullname": "libsdl-org/SDL",
+        "language": "C",
+        "languageColor": "#555555",
+        "name": "SDL",
+        "stars": 10407,
+        "url": "https://github.com/libsdl-org/SDL"
+    },
+    {
+        "author": "koreader",
+        "avatar": "https://github.com/koreader.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/670302",
+                "href": "https://github.com/houqp",
+                "username": "houqp"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/751535",
+                "href": "https://github.com/chrox",
+                "username": "chrox"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/111974",
+                "href": "https://github.com/NiLuJe",
+                "username": "NiLuJe"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/202757",
+                "href": "https://github.com/Frenzie",
+                "username": "Frenzie"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/24273478",
+                "href": "https://github.com/poire-z",
+                "username": "poire-z"
+            }
+        ],
+        "currentPeriodStars": 47,
+        "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+        "forks": 1281,
+        "fullname": "koreader/koreader",
+        "language": "Lua",
+        "languageColor": "#000080",
+        "name": "koreader",
+        "stars": 17152,
+        "url": "https://github.com/koreader/koreader"
+    },
+    {
+        "author": "ollama",
+        "avatar": "https://github.com/ollama.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2372640",
+                "href": "https://github.com/mxyng",
+                "username": "mxyng"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/251292",
+                "href": "https://github.com/jmorganca",
+                "username": "jmorganca"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4033016",
+                "href": "https://github.com/dhiltgen",
+                "username": "dhiltgen"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5853428",
+                "href": "https://github.com/BruceMacD",
+                "username": "BruceMacD"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/633681",
+                "href": "https://github.com/technovangelist",
+                "username": "technovangelist"
+            }
+        ],
+        "currentPeriodStars": 333,
+        "description": "Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.",
+        "forks": 8131,
+        "fullname": "ollama/ollama",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "name": "ollama",
+        "stars": 101785,
+        "url": "https://github.com/ollama/ollama"
+    },
+    {
+        "author": "microsoft",
+        "avatar": "https://github.com/microsoft.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/12021217",
+                "href": "https://github.com/adamjstewart",
+                "username": "adamjstewart"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1088078",
+                "href": "https://github.com/calebrob6",
+                "username": "calebrob6"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/22203655",
+                "href": "https://github.com/isaaccorley",
+                "username": "isaaccorley"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/35272119",
+                "href": "https://github.com/nilsleh",
+                "username": "nilsleh"
+            }
+        ],
+        "currentPeriodStars": 25,
+        "description": "TorchGeo: datasets, samplers, transforms, and pre-trained models for geospatial data",
+        "forks": 359,
+        "fullname": "microsoft/torchgeo",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "torchgeo",
+        "stars": 2892,
+        "url": "https://github.com/microsoft/torchgeo"
+    },
+    {
+        "author": "jdx",
+        "avatar": "https://github.com/jdx.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/216188",
+                "href": "https://github.com/jdx",
+                "username": "jdx"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/123107610",
+                "href": "https://github.com/mise-en-dev",
+                "username": "mise-en-dev"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/20798510",
+                "href": "https://github.com/jthegedus",
+                "username": "jthegedus"
+            }
+        ],
+        "currentPeriodStars": 534,
+        "description": "dev tools, env vars, task runner",
+        "forks": 314,
+        "fullname": "jdx/mise",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "name": "mise",
+        "stars": 11435,
+        "url": "https://github.com/jdx/mise"
+    },
+    {
+        "author": "cline",
+        "avatar": "https://github.com/cline.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7799382",
+                "href": "https://github.com/saoudrizwan",
+                "username": "saoudrizwan"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2868",
+                "href": "https://github.com/mdp",
+                "username": "mdp"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1054593",
+                "href": "https://github.com/philfung",
+                "username": "philfung"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/862951",
+                "href": "https://github.com/sammcj",
+                "username": "sammcj"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/914320",
+                "href": "https://github.com/vladstudio",
+                "username": "vladstudio"
+            }
+        ],
+        "currentPeriodStars": 275,
+        "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
+        "forks": 1116,
+        "fullname": "cline/cline",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "cline",
+        "stars": 13993,
+        "url": "https://github.com/cline/cline"
+    },
+    {
+        "author": "iptv-org",
+        "avatar": "https://github.com/iptv-org.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7253922",
+                "href": "https://github.com/freearhey",
+                "username": "freearhey"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/30985701",
+                "href": "https://github.com/BellezaEmporium",
+                "username": "BellezaEmporium"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5430116",
+                "href": "https://github.com/Dum4G",
+                "username": "Dum4G"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/108294295",
+                "href": "https://github.com/UltraHDR",
+                "username": "UltraHDR"
+            }
+        ],
+        "currentPeriodStars": 167,
+        "description": "Collection of publicly available IPTV channels from all over the world",
+        "forks": 2799,
+        "fullname": "iptv-org/iptv",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "name": "iptv",
+        "stars": 87378,
+        "url": "https://github.com/iptv-org/iptv"
+    },
+    {
+        "author": "meta-llama",
+        "avatar": "https://github.com/meta-llama.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/19390",
+                "href": "https://github.com/ashwinb",
+                "username": "ashwinb"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6599399",
+                "href": "https://github.com/dltn",
+                "username": "dltn"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4712975",
+                "href": "https://github.com/samuelselvan",
+                "username": "samuelselvan"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/11398925",
+                "href": "https://github.com/jspisak",
+                "username": "jspisak"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/19946372",
+                "href": "https://github.com/yanxi0830",
+                "username": "yanxi0830"
+            }
+        ],
+        "currentPeriodStars": 41,
+        "description": "Utilities intended for use with Llama models.",
+        "forks": 872,
+        "fullname": "meta-llama/llama-models",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "llama-models",
+        "stars": 5160,
+        "url": "https://github.com/meta-llama/llama-models"
+    },
+    {
+        "author": "al1abb",
+        "avatar": "https://github.com/al1abb.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/60220042",
+                "href": "https://github.com/al1abb",
+                "username": "al1abb"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/117514522",
+                "href": "https://github.com/JeevanJoshi4434",
+                "username": "JeevanJoshi4434"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/26571905",
+                "href": "https://github.com/nicobts",
+                "username": "nicobts"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/69118979",
+                "href": "https://github.com/nothingbutlucas",
+                "username": "nothingbutlucas"
+            }
+        ],
+        "currentPeriodStars": 141,
+        "description": "An invoice generator app built using Next.js, Typescript, and Shadcn",
+        "forks": 143,
+        "fullname": "al1abb/invoify",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "invoify",
+        "stars": 1083,
+        "url": "https://github.com/al1abb/invoify"
+    }
+]

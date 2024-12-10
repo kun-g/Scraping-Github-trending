@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [fish-speech](https://github.com/fishaudio/fish-speech) | SOTA Open Source TTS |
-| [cobalt](https://github.com/imputnet/cobalt) | best way to save what you love |
-| [maigret](https://github.com/soxoj/maigret) | 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites |
-| [ollama](https://github.com/ollama/ollama) | Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models. |
+| [uv](https://github.com/astral-sh/uv) | An extremely fast Python package and project manager, written in Rust. |
 | [bitcoin](https://github.com/bitcoin/bitcoin) | Bitcoin Core integration/staging tree |
-| [OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) | Experience macOS just like before |
-| [MegaParse](https://github.com/QuivrHQ/MegaParse) | File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs. |
+| [Telegram](https://github.com/DrKLO/Telegram) | Telegram for Android source |
+| [esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) | A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API. |
+| [fish-speech](https://github.com/fishaudio/fish-speech) | SOTA Open Source TTS |
+| [pocketbase](https://github.com/pocketbase/pocketbase) | Open Source realtime backend in 1 file |
+| [nexus-zkvm](https://github.com/nexus-xyz/nexus-zkvm) | The Nexus zkVM: The zero-knowledge virtual machine |
 | [daytona](https://github.com/daytonaio/daytona) | The Open Source Dev Environment Manager. |
-| [litellm](https://github.com/BerriAI/litellm) | Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq] |
-| [copilot-codespaces-vscode](https://github.com/skills/copilot-codespaces-vscode) | Develop with AI-powered code suggestions using GitHub Copilot and VS Code |
+| [Sunshine](https://github.com/LizardByte/Sunshine) | Self-hosted game stream host for Moonlight. |
+| [phidata](https://github.com/phidatahq/phidata) | Build multi-modal Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
