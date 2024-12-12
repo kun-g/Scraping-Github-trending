@@ -1,0 +1,467 @@
+[
+    {
+        "author": "nexus-xyz",
+        "avatar": "https://github.com/nexus-xyz.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/864855",
+                "href": "https://github.com/govereau",
+                "username": "govereau"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/48099298",
+                "href": "https://github.com/slumber",
+                "username": "slumber"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/60114322",
+                "href": "https://github.com/danielmarinq",
+                "username": "danielmarinq"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/20324824",
+                "href": "https://github.com/sjudson",
+                "username": "sjudson"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/173047316",
+                "href": "https://github.com/yoichi-nexus",
+                "username": "yoichi-nexus"
+            }
+        ],
+        "currentPeriodStars": 39,
+        "description": "The Nexus zkVM: The zero-knowledge virtual machine",
+        "forks": 310,
+        "fullname": "nexus-xyz/nexus-zkvm",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "name": "nexus-zkvm",
+        "stars": 1418,
+        "url": "https://github.com/nexus-xyz/nexus-zkvm"
+    },
+    {
+        "author": "DioxusLabs",
+        "avatar": "https://github.com/DioxusLabs.png",
+        "builtBy": [
+            {
+                "avatar": "https://private-avatars.githubusercontent.com/u/10237910?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzM5NjEwNjAsIm5iZiI6MTczMzk1OTg2MCwicGF0aCI6Ii91LzEwMjM3OTEwIn0.WwSpB2yuFs7D0GOjCp8A1wZ6qmD3eH2vcUwUcaVfu_4&s=40&v=4",
+                "href": "https://github.com/jkelleyrtp",
+                "username": "jkelleyrtp"
+            },
+            {
+                "avatar": "https://private-avatars.githubusercontent.com/u/66571940?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzM5NjEwNjAsIm5iZiI6MTczMzk1OTg2MCwicGF0aCI6Ii91LzY2NTcxOTQwIn0.feSTc0pZbq78G21blnshkX_pJI6GCzZDSHzJaOqmIOI&s=40&v=4",
+                "href": "https://github.com/ealmloff",
+                "username": "ealmloff"
+            },
+            {
+                "avatar": "https://private-avatars.githubusercontent.com/u/41265098?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzM5NjE3ODAsIm5iZiI6MTczMzk2MDU4MCwicGF0aCI6Ii91LzQxMjY1MDk4In0.xnQgsrx0G0Q4venMMIL2_7j6oEUZNEW5KYso_3zrKgI&s=40&v=4",
+                "href": "https://github.com/mrxiaozhuox",
+                "username": "mrxiaozhuox"
+            },
+            {
+                "avatar": "https://private-avatars.githubusercontent.com/u/30190859?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzM5NjEzNjAsIm5iZiI6MTczMzk2MDE2MCwicGF0aCI6Ii91LzMwMTkwODU5In0.DzwHEM4Z6wT6yV6AzRKA6jQ_YLwL5xIqLZI6ABCKx34&s=40&v=4",
+                "href": "https://github.com/DogeDark",
+                "username": "DogeDark"
+            },
+            {
+                "avatar": "https://private-avatars.githubusercontent.com/u/11248241?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzM5NjE3ODAsIm5iZiI6MTczMzk2MDU4MCwicGF0aCI6Ii91LzExMjQ4MjQxIn0.8RBAlX1IzZVVy_xZqHeBcgR_yE_m_0TrRBXmuSpXQls&s=40&v=4",
+                "href": "https://github.com/rMazeiks",
+                "username": "rMazeiks"
+            }
+        ],
+        "currentPeriodStars": 116,
+        "description": "Fullstack app framework for web, desktop, mobile, and more.",
+        "forks": 849,
+        "fullname": "DioxusLabs/dioxus",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "name": "dioxus",
+        "stars": 22153,
+        "url": "https://github.com/DioxusLabs/dioxus"
+    },
+    {
+        "author": "nexus-xyz",
+        "avatar": "https://github.com/nexus-xyz.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/394889",
+                "href": "https://github.com/collinjackson",
+                "username": "collinjackson"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1202924",
+                "href": "https://github.com/dprats",
+                "username": "dprats"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/10066952",
+                "href": "https://github.com/stupidmelon",
+                "username": "stupidmelon"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1364393",
+                "href": "https://github.com/mfaulk",
+                "username": "mfaulk"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1669432",
+                "href": "https://github.com/toanbk",
+                "username": "toanbk"
+            }
+        ],
+        "currentPeriodStars": 18,
+        "description": "High-performance interface for supplying compute to the Nexus network.",
+        "forks": 53,
+        "fullname": "nexus-xyz/network-api",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "name": "network-api",
+        "stars": 106,
+        "url": "https://github.com/nexus-xyz/network-api"
+    },
+    {
+        "author": "0xPlaygrounds",
+        "avatar": "https://github.com/0xPlaygrounds.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3653954",
+                "href": "https://github.com/cvauclair",
+                "username": "cvauclair"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/60986356",
+                "href": "https://github.com/garance-buricatu",
+                "username": "garance-buricatu"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/26660420",
+                "href": "https://github.com/mateobelanger",
+                "username": "mateobelanger"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/103326951",
+                "href": "https://github.com/0xMochan",
+                "username": "0xMochan"
+            }
+        ],
+        "currentPeriodStars": 63,
+        "description": "\u2699\ufe0f\ud83e\udd80 Build portable, modular & lightweight Fullstack Agents",
+        "forks": 33,
+        "fullname": "0xPlaygrounds/rig",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "name": "rig",
+        "stars": 476,
+        "url": "https://github.com/0xPlaygrounds/rig"
+    },
+    {
+        "author": "lmarzen",
+        "avatar": "https://github.com/lmarzen.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/98473324",
+                "href": "https://github.com/lmarzen",
+                "username": "lmarzen"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6757268",
+                "href": "https://github.com/cwitting",
+                "username": "cwitting"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/61236",
+                "href": "https://github.com/pjveltri",
+                "username": "pjveltri"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/570247",
+                "href": "https://github.com/jrial",
+                "username": "jrial"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/659972",
+                "href": "https://github.com/srt19170",
+                "username": "srt19170"
+            }
+        ],
+        "currentPeriodStars": 404,
+        "description": "A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.",
+        "forks": 253,
+        "fullname": "lmarzen/esp32-weather-epd",
+        "language": "C",
+        "languageColor": "#555555",
+        "name": "esp32-weather-epd",
+        "stars": 3962,
+        "url": "https://github.com/lmarzen/esp32-weather-epd"
+    },
+    {
+        "author": "Alamofire",
+        "avatar": "https://github.com/Alamofire.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/169110",
+                "href": "https://github.com/cnoon",
+                "username": "cnoon"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/51020",
+                "href": "https://github.com/jshier",
+                "username": "jshier"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7659",
+                "href": "https://github.com/mattt",
+                "username": "mattt"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/44164",
+                "href": "https://github.com/kylef",
+                "username": "kylef"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/198768",
+                "href": "https://github.com/kcharwood",
+                "username": "kcharwood"
+            }
+        ],
+        "currentPeriodStars": 42,
+        "description": "Elegant HTTP Networking in Swift",
+        "forks": 7568,
+        "fullname": "Alamofire/Alamofire",
+        "language": "Swift",
+        "languageColor": "#F05138",
+        "name": "Alamofire",
+        "stars": 41390,
+        "url": "https://github.com/Alamofire/Alamofire"
+    },
+    {
+        "author": "soxoj",
+        "avatar": "https://github.com/soxoj.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/31013580",
+                "href": "https://github.com/soxoj",
+                "username": "soxoj"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/99247491",
+                "href": "https://github.com/kustermariocoding",
+                "username": "kustermariocoding"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/37670363",
+                "href": "https://github.com/fen0s",
+                "username": "fen0s"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/70950106",
+                "href": "https://github.com/cyb3rk0tik",
+                "username": "cyb3rk0tik"
+            }
+        ],
+        "currentPeriodStars": 711,
+        "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
+        "forks": 884,
+        "fullname": "soxoj/maigret",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "maigret",
+        "stars": 12358,
+        "url": "https://github.com/soxoj/maigret"
+    },
+    {
+        "author": "astral-sh",
+        "avatar": "https://github.com/astral-sh.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1309177",
+                "href": "https://github.com/charliermarsh",
+                "username": "charliermarsh"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2586601",
+                "href": "https://github.com/zanieb",
+                "username": "zanieb"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6826232",
+                "href": "https://github.com/konstin",
+                "username": "konstin"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/456674",
+                "href": "https://github.com/BurntSushi",
+                "username": "BurntSushi"
+            }
+        ],
+        "currentPeriodStars": 418,
+        "description": "An extremely fast Python package and project manager, written in Rust.",
+        "forks": 854,
+        "fullname": "astral-sh/uv",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "name": "uv",
+        "stars": 31698,
+        "url": "https://github.com/astral-sh/uv"
+    },
+    {
+        "author": "langflow-ai",
+        "avatar": "https://github.com/langflow-ai.png",
+        "builtBy": [
+            {
+                "avatar": "https://private-avatars.githubusercontent.com/u/24829397?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzM5NjE2MDAsIm5iZiI6MTczMzk2MDQwMCwicGF0aCI6Ii91LzI0ODI5Mzk3In0.lcwaD1CghDWHJqvNn6bhtTMcHrz-ggmNzlF_Bx-SvYA&s=40&v=4",
+                "href": "https://github.com/ogabrielluiz",
+                "username": "ogabrielluiz"
+            },
+            {
+                "avatar": "https://private-avatars.githubusercontent.com/u/70824914?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzM5NjE2NjAsIm5iZiI6MTczMzk2MDQ2MCwicGF0aCI6Ii91LzcwODI0OTE0In0.hLyJsvJRgU7zSDtZU7Op55jTVHngshBOoE4PV4vrMM8&s=40&v=4",
+                "href": "https://github.com/anovazzi1",
+                "username": "anovazzi1"
+            },
+            {
+                "avatar": "https://private-avatars.githubusercontent.com/u/62335616?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzM5NjE3MjAsIm5iZiI6MTczMzk2MDUyMCwicGF0aCI6Ii91LzYyMzM1NjE2In0.ZfdWep_v_iucNEiqJjgWVerZ8jMmhR439U8DY1k_ICg&s=40&v=4",
+                "href": "https://github.com/lucaseduoli",
+                "username": "lucaseduoli"
+            },
+            {
+                "avatar": "https://private-avatars.githubusercontent.com/u/72977554?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzM5NjExMjAsIm5iZiI6MTczMzk1OTkyMCwicGF0aCI6Ii91LzcyOTc3NTU0In0.ttVCvOU1aSNvP2_FeHpqn-UroCM7PZdkwbgJ9bo2WHk&s=40&v=4",
+                "href": "https://github.com/Cristhianzl",
+                "username": "Cristhianzl"
+            },
+            {
+                "avatar": "https://private-avatars.githubusercontent.com/u/64559670?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzM5NjE3ODAsIm5iZiI6MTczMzk2MDU4MCwicGF0aCI6Ii91LzY0NTU5NjcwIn0.DPXVhNekVTCEGMEuDKLMyZY4ZNIm8TzM8vkdi6NSr70&s=40&v=4",
+                "href": "https://github.com/igorrCarvalho",
+                "username": "igorrCarvalho"
+            }
+        ],
+        "currentPeriodStars": 189,
+        "description": "Langflow is a low-code app builder for RAG and multi-agent AI applications. It\u2019s Python-based and agnostic to any model, API, or database.",
+        "forks": 4391,
+        "fullname": "langflow-ai/langflow",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "langflow",
+        "stars": 37979,
+        "url": "https://github.com/langflow-ai/langflow"
+    },
+    {
+        "author": "apache",
+        "avatar": "https://github.com/apache.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/28628088",
+                "href": "https://github.com/break60",
+                "username": "break60"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/23756105",
+                "href": "https://github.com/qiaozhanwei",
+                "username": "qiaozhanwei"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/22415594",
+                "href": "https://github.com/ruanwenjun",
+                "username": "ruanwenjun"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/15833811",
+                "href": "https://github.com/davidzollo",
+                "username": "davidzollo"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/29528966",
+                "href": "https://github.com/lenboo",
+                "username": "lenboo"
+            }
+        ],
+        "currentPeriodStars": 7,
+        "description": "Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code",
+        "forks": 4659,
+        "fullname": "apache/dolphinscheduler",
+        "language": "Java",
+        "languageColor": "#b07219",
+        "name": "dolphinscheduler",
+        "stars": 13049,
+        "url": "https://github.com/apache/dolphinscheduler"
+    },
+    {
+        "author": "leerob",
+        "avatar": "https://github.com/leerob.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/9113740",
+                "href": "https://github.com/leerob",
+                "username": "leerob"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/106848418",
+                "href": "https://github.com/Prathamesh-chougale-17",
+                "username": "Prathamesh-chougale-17"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/74396",
+                "href": "https://github.com/slavingia",
+                "username": "slavingia"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/517753",
+                "href": "https://github.com/webda2l",
+                "username": "webda2l"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/869535",
+                "href": "https://github.com/dikaio",
+                "username": "dikaio"
+            }
+        ],
+        "currentPeriodStars": 365,
+        "description": "Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.",
+        "forks": 705,
+        "fullname": "leerob/next-saas-starter",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "next-saas-starter",
+        "stars": 6306,
+        "url": "https://github.com/leerob/next-saas-starter"
+    },
+    {
+        "author": "bitcoin",
+        "avatar": "https://github.com/bitcoin.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/126646",
+                "href": "https://github.com/laanwj",
+                "username": "laanwj"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/863730",
+                "href": "https://github.com/fanquake",
+                "username": "fanquake"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/548488",
+                "href": "https://github.com/sipa",
+                "username": "sipa"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/32963518",
+                "href": "https://github.com/hebasto",
+                "username": "hebasto"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3782274",
+                "href": "https://github.com/achow101",
+                "username": "achow101"
+            }
+        ],
+        "currentPeriodStars": 130,
+        "description": "Bitcoin Core integration/staging tree",
+        "forks": 36542,
+        "fullname": "bitcoin/bitcoin",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "name": "bitcoin",
+        "stars": 80587,
+        "url": "https://github.com/bitcoin/bitcoin"
+    }
+]
