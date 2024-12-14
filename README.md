@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [limbo](https://github.com/tursodatabase/limbo) | Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite. |
-| [nexus-zkvm](https://github.com/nexus-xyz/nexus-zkvm) | The Nexus zkVM: The zero-knowledge virtual machine |
-| [maigret](https://github.com/soxoj/maigret) | 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites |
-| [next-saas-starter](https://github.com/leerob/next-saas-starter) | Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui. |
-| [logicanalyzer](https://github.com/gusmanb/logicanalyzer) | 24 channel, 100Msps logic analyzer hardware and software |
-| [rig](https://github.com/0xPlaygrounds/rig) | ⚙️🦀 Build portable, modular & lightweight Fullstack Agents |
+| [PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) | PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker |
+| [dioxus](https://github.com/DioxusLabs/dioxus) | Fullstack app framework for web, desktop, mobile, and more. |
+| [helium](https://github.com/mherrmann/helium) | Lighter web automation with Python |
 | [docling](https://github.com/DS4SD/docling) | Get your documents ready for gen AI |
-| [shardeum](https://github.com/shardeum/shardeum) | Shardeum is an EVM based autoscaling blockchain |
-| [Alamofire](https://github.com/Alamofire/Alamofire) | Elegant HTTP Networking in Swift |
-| [libsql](https://github.com/tursodatabase/libsql) | libSQL is a fork of SQLite that is both Open Source, and Open Contributions. |
+| [esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) | A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API. |
+| [cookbook](https://github.com/google-gemini/cookbook) | Examples and guides for using the Gemini API |
+| [checkmate](https://github.com/bluewave-labs/checkmate) | Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. |
+| [limbo](https://github.com/tursodatabase/limbo) | Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite. |
+| [typeorm](https://github.com/typeorm/typeorm) | ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms. |
+| [terragrunt](https://github.com/gruntwork-io/terragrunt) | Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
