@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [waveterm](https://github.com/wavetermdev/waveterm) | An open-source, cross-platform terminal for seamless workflows |
-| [cookbook](https://github.com/google-gemini/cookbook) | Examples and guides for using the Gemini API |
-| [aisuite](https://github.com/andrewyng/aisuite) | Simple, unified interface to multiple Generative AI providers |
-| [logicanalyzer](https://github.com/gusmanb/logicanalyzer) | 24 channel, 100Msps logic analyzer hardware and software |
-| [TEN-Agent](https://github.com/TEN-framework/TEN-Agent) | TEN Agent is a realtime conversational AI agent powered by TEN. It seamlessly integrates the OpenAI Realtime API, RTC capabilities, and advanced features like weather updates, web search, computer vision, and Retrieval-Augmented Generation (RAG). |
 | [PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) | PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker |
-| [gitea](https://github.com/go-gitea/gitea) | Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD |
+| [htmx](https://github.com/bigskysoftware/htmx) | </> htmx - high power tools for HTML |
+| [TEN-Agent](https://github.com/TEN-framework/TEN-Agent) | TEN Agent is a realtime conversational AI agent powered by TEN. It seamlessly integrates the OpenAI Realtime API, RTC capabilities, and advanced features like weather updates, web search, computer vision, and Retrieval-Augmented Generation (RAG). |
+| [cookbook](https://github.com/google-gemini/cookbook) | Examples and guides for using the Gemini API |
+| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A feature-rich command-line audio/video downloader |
 | [blink.cmp](https://github.com/Saghen/blink.cmp) | Performant, batteries-included completion plugin for Neovim |
-| [eliza](https://github.com/ai16z/eliza) | Autonomous agents for everyone |
-| [curl](https://github.com/curl/curl) | A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features |
+| [system-design-101](https://github.com/ByteByteGoHq/system-design-101) | Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. |
+| [waveterm](https://github.com/wavetermdev/waveterm) | An open-source, cross-platform terminal for seamless workflows |
+| [docling](https://github.com/DS4SD/docling) | Get your documents ready for gen AI |
+| [openpilot](https://github.com/commaai/openpilot) | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
