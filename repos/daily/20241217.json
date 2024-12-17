@@ -31,12 +31,12 @@
         ],
         "currentPeriodStars": 649,
         "description": "Examples and guides for using the Gemini API",
-        "forks": 973,
+        "forks": 974,
         "fullname": "google-gemini/cookbook",
         "language": "Jupyter Notebook",
         "languageColor": "#DA5B0B",
         "name": "cookbook",
-        "stars": 7512,
+        "stars": 7547,
         "url": "https://github.com/google-gemini/cookbook"
     },
     {
@@ -44,27 +44,27 @@
         "avatar": "https://github.com/TEN-framework.png",
         "builtBy": [
             {
-                "avatar": "https://private-avatars.githubusercontent.com/u/471561?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzODU5ODAsIm5iZiI6MTczNDM4NDc4MCwicGF0aCI6Ii91LzQ3MTU2MSJ9.svl9GhirweesKX7EMH_rvR4roLMw0cgY28Ngvk_zVtM&s=40&v=4",
+                "avatar": "https://avatars.githubusercontent.com/u/471561",
                 "href": "https://github.com/plutoless",
                 "username": "plutoless"
             },
             {
-                "avatar": "https://private-avatars.githubusercontent.com/u/1905370?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzODYxMDAsIm5iZiI6MTczNDM4NDkwMCwicGF0aCI6Ii91LzE5MDUzNzAifQ.ZTcunilKIzhqRAMbP9oepP9KHVY96ZDcjvJBNaxsiWw&s=40&v=4",
+                "avatar": "https://avatars.githubusercontent.com/u/1905370",
                 "href": "https://github.com/wangyoucao577",
                 "username": "wangyoucao577"
             },
             {
-                "avatar": "https://private-avatars.githubusercontent.com/u/2340896?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzODU3NDAsIm5iZiI6MTczNDM4NDU0MCwicGF0aCI6Ii91LzIzNDA4OTYifQ.flA55fdraYMnYTS4W_PfEWijoCc9irPplBKikC_7wzs&s=40&v=4",
+                "avatar": "https://avatars.githubusercontent.com/u/2340896",
                 "href": "https://github.com/cyfyifanchen",
                 "username": "cyfyifanchen"
             },
             {
-                "avatar": "https://private-avatars.githubusercontent.com/u/67892682?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzODU5MjAsIm5iZiI6MTczNDM4NDcyMCwicGF0aCI6Ii91LzY3ODkyNjgyIn0.jQN43fHawbjLjJk_Mgi8EPa_8PNJYoG-m-a2dHv7g9A&s=40&v=4",
+                "avatar": "https://avatars.githubusercontent.com/u/67892682",
                 "href": "https://github.com/tomasliu-agora",
                 "username": "tomasliu-agora"
             },
             {
-                "avatar": "https://private-avatars.githubusercontent.com/u/5187981?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzODYzNDAsIm5iZiI6MTczNDM4NTE0MCwicGF0aCI6Ii91LzUxODc5ODEifQ.Wbe1P3wpvR0jS1DG_UmV6DOntbS8d9FWB7RF8mJWq0s&s=40&v=4",
+                "avatar": "https://avatars.githubusercontent.com/u/5187981",
                 "href": "https://github.com/sunshinexcode",
                 "username": "sunshinexcode"
             }
@@ -76,7 +76,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "TEN-Agent",
-        "stars": 3081,
+        "stars": 3090,
         "url": "https://github.com/TEN-framework/TEN-Agent"
     },
     {
@@ -111,12 +111,12 @@
         ],
         "currentPeriodStars": 1559,
         "description": "PDF scientific paper translation with preserved formats - \u57fa\u4e8e AI \u5b8c\u6574\u4fdd\u7559\u6392\u7248\u7684 PDF \u6587\u6863\u5168\u6587\u53cc\u8bed\u7ffb\u8bd1\uff0c\u652f\u6301 Google/DeepL/Ollama/OpenAI \u7b49\u670d\u52a1\uff0c\u63d0\u4f9b CLI/GUI/Docker",
-        "forks": 593,
+        "forks": 595,
         "fullname": "Byaidu/PDFMathTranslate",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "PDFMathTranslate",
-        "stars": 8294,
+        "stars": 8347,
         "url": "https://github.com/Byaidu/PDFMathTranslate"
     },
     {
@@ -146,7 +146,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "waveterm",
-        "stars": 6674,
+        "stars": 6692,
         "url": "https://github.com/wavetermdev/waveterm"
     },
     {
@@ -154,27 +154,27 @@
         "avatar": "https://github.com/Shubhamsaboo.png",
         "builtBy": [
             {
-                "avatar": "https://private-avatars.githubusercontent.com/u/31396011?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzOTU1ODAsIm5iZiI6MTczNDM5NDM4MCwicGF0aCI6Ii91LzMxMzk2MDExIn0.OtNlJF-GdD-2qsoxbxFUi53DA_aCa87oq5rMJuwlgPY&s=40&v=4",
+                "avatar": "https://avatars.githubusercontent.com/u/31396011",
                 "href": "https://github.com/Shubhamsaboo",
                 "username": "Shubhamsaboo"
             },
             {
-                "avatar": "https://private-avatars.githubusercontent.com/u/124294538?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzOTU2NDAsIm5iZiI6MTczNDM5NDQ0MCwicGF0aCI6Ii91LzEyNDI5NDUzOCJ9.2-CU4feaD8Yz6LLgaLgLf_xDFbNSxClJb3wRTqnsw_M&s=40&v=4",
+                "avatar": "https://avatars.githubusercontent.com/u/124294538",
                 "href": "https://github.com/Madhuvod",
                 "username": "Madhuvod"
             },
             {
-                "avatar": "https://private-avatars.githubusercontent.com/u/917273?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzOTU5NDAsIm5iZiI6MTczNDM5NDc0MCwicGF0aCI6Ii91LzkxNzI3MyJ9.qS3nEZ46e99E3dPLonKYxL0i7-fN5snpzBcEGbaxRjA&s=40&v=4",
+                "avatar": "https://avatars.githubusercontent.com/u/917273",
                 "href": "https://github.com/Vadiml1024",
                 "username": "Vadiml1024"
             },
             {
-                "avatar": "https://private-avatars.githubusercontent.com/u/145006093?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzOTU1MjAsIm5iZiI6MTczNDM5NDMyMCwicGF0aCI6Ii91LzE0NTAwNjA5MyJ9.3w-66gpnafAsHKxGN_1c9ty8gGKmh7zT3TAqHiKvMYE&s=40&v=4",
+                "avatar": "https://avatars.githubusercontent.com/u/145006093",
                 "href": "https://github.com/gargigupta97",
                 "username": "gargigupta97"
             },
             {
-                "avatar": "https://private-avatars.githubusercontent.com/u/261698?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzOTU5NDAsIm5iZiI6MTczNDM5NDc0MCwicGF0aCI6Ii91LzI2MTY5OCJ9.zbf1wx7o1ZhSJuCUR7yW4xMjGkoRHNZDJ-cCIKec_ls&s=40&v=4",
+                "avatar": "https://avatars.githubusercontent.com/u/261698",
                 "href": "https://github.com/ideal",
                 "username": "ideal"
             }
@@ -186,7 +186,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "awesome-llm-apps",
-        "stars": 6530,
+        "stars": 6543,
         "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
     },
     {
@@ -221,12 +221,12 @@
         ],
         "currentPeriodStars": 332,
         "description": "A feature-rich command-line audio/video downloader",
-        "forks": 7267,
+        "forks": 7268,
         "fullname": "yt-dlp/yt-dlp",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "yt-dlp",
-        "stars": 93316,
+        "stars": 93326,
         "url": "https://github.com/yt-dlp/yt-dlp"
     },
     {
@@ -261,12 +261,12 @@
         ],
         "currentPeriodStars": 123,
         "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.",
-        "forks": 9200,
+        "forks": 9201,
         "fullname": "commaai/openpilot",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "openpilot",
-        "stars": 50882,
+        "stars": 50886,
         "url": "https://github.com/commaai/openpilot"
     },
     {
@@ -274,27 +274,27 @@
         "avatar": "https://github.com/Radarr.png",
         "builtBy": [
             {
-                "avatar": "https://private-avatars.githubusercontent.com/u/413544?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNjUyMjAsIm5iZiI6MTczNDM2NDAyMCwicGF0aCI6Ii91LzQxMzU0NCJ9.eha_BUPYgl4Ioh-brckpwyPuR0OdXFCayTu3qsMzla4&s=40&v=4",
+                "avatar": "https://avatars.githubusercontent.com/u/413544",
                 "href": "https://github.com/markus101",
                 "username": "markus101"
             },
             {
-                "avatar": "https://private-avatars.githubusercontent.com/u/412280?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNjYwMDAsIm5iZiI6MTczNDM2NDgwMCwicGF0aCI6Ii91LzQxMjI4MCJ9.R_jFmnMEoyBzLXao5Kqp8ZCOoAK6EicoiQJLbmf7yYQ&s=40&v=4",
+                "avatar": "https://avatars.githubusercontent.com/u/412280",
                 "href": "https://github.com/kayone",
                 "username": "kayone"
             },
             {
-                "avatar": "https://private-avatars.githubusercontent.com/u/376117?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNjUyMjAsIm5iZiI6MTczNDM2NDAyMCwicGF0aCI6Ii91LzM3NjExNyJ9.d0djFWiZFhnZwSeURW32Q_dvuG14ulNaPWbOy309EZg&s=40&v=4",
+                "avatar": "https://avatars.githubusercontent.com/u/376117",
                 "href": "https://github.com/Qstick",
                 "username": "Qstick"
             },
             {
-                "avatar": "https://private-avatars.githubusercontent.com/u/707714?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNjU4MjAsIm5iZiI6MTczNDM2NDYyMCwicGF0aCI6Ii91LzcwNzcxNCJ9.xocOfX3TnnvEsAYrxzRU2ZUr28UmINOQ6MEqno0YJ78&s=40&v=4",
+                "avatar": "https://avatars.githubusercontent.com/u/707714",
                 "href": "https://github.com/mynameisbogdan",
                 "username": "mynameisbogdan"
             },
             {
-                "avatar": "https://private-avatars.githubusercontent.com/u/6383890?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNjU1ODAsIm5iZiI6MTczNDM2NDM4MCwicGF0aCI6Ii91LzYzODM4OTAifQ.cK_8bg3RiYQc9_1MVr4ZmZTRJVlquaJnSfbwFfDs5Vg&s=40&v=4",
+                "avatar": "https://avatars.githubusercontent.com/u/6383890",
                 "href": "https://github.com/Taloth",
                 "username": "Taloth"
             }
@@ -306,7 +306,7 @@
         "language": "C#",
         "languageColor": "#178600",
         "name": "Radarr",
-        "stars": 10529,
+        "stars": 10537,
         "url": "https://github.com/Radarr/Radarr"
     },
     {
@@ -341,12 +341,12 @@
         ],
         "currentPeriodStars": 138,
         "description": "Performant, batteries-included completion plugin for Neovim",
-        "forks": 106,
+        "forks": 105,
         "fullname": "Saghen/blink.cmp",
         "language": "Lua",
         "languageColor": "#000080",
         "name": "blink.cmp",
-        "stars": 1934,
+        "stars": 1935,
         "url": "https://github.com/Saghen/blink.cmp"
     },
     {
@@ -386,7 +386,7 @@
         "language": "C++",
         "languageColor": "#f34b7d",
         "name": "pcsx2",
-        "stars": 12057,
+        "stars": 12060,
         "url": "https://github.com/PCSX2/pcsx2"
     },
     {
@@ -426,7 +426,7 @@
         "language": "Go",
         "languageColor": "#00ADD8",
         "name": "dice",
-        "stars": 7183,
+        "stars": 7185,
         "url": "https://github.com/DiceDB/dice"
     },
     {
@@ -466,7 +466,7 @@
         "language": "C",
         "languageColor": "#555555",
         "name": "Tasmota",
-        "stars": 22382,
+        "stars": 22384,
         "url": "https://github.com/arendst/Tasmota"
     },
     {
@@ -506,7 +506,7 @@
         "language": "Rust",
         "languageColor": "#dea584",
         "name": "windows-rs",
-        "stars": 10733,
+        "stars": 10736,
         "url": "https://github.com/microsoft/windows-rs"
     },
     {
@@ -544,7 +544,7 @@
         "forks": 6959,
         "fullname": "ByteByteGoHq/system-design-101",
         "name": "system-design-101",
-        "stars": 65999,
+        "stars": 66007,
         "url": "https://github.com/ByteByteGoHq/system-design-101"
     },
     {
@@ -574,12 +574,12 @@
         ],
         "currentPeriodStars": 91,
         "description": "Free, open source crypto trading bot",
-        "forks": 6528,
+        "forks": 6530,
         "fullname": "freqtrade/freqtrade",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "freqtrade",
-        "stars": 32525,
+        "stars": 32528,
         "url": "https://github.com/freqtrade/freqtrade"
     },
     {
@@ -587,22 +587,22 @@
         "avatar": "https://github.com/LazyVim.png",
         "builtBy": [
             {
-                "avatar": "https://private-avatars.githubusercontent.com/u/292349?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzODE0MjAsIm5iZiI6MTczNDM4MDIyMCwicGF0aCI6Ii91LzI5MjM0OSJ9.bNW1YcnlxLI9hVZ-f1un3i6E_ZDoxjetWwdSNoniLxs&s=40&v=4",
+                "avatar": "https://avatars.githubusercontent.com/u/292349",
                 "href": "https://github.com/folke",
                 "username": "folke"
             },
             {
-                "avatar": "https://private-avatars.githubusercontent.com/u/12776461?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzODE0ODAsIm5iZiI6MTczNDM4MDI4MCwicGF0aCI6Ii91LzEyNzc2NDYxIn0.-H1uN6Rlv21OPpCKRaaIYUbxCexg4PmKENwNbLSIT0M&s=40&v=4",
+                "avatar": "https://avatars.githubusercontent.com/u/12776461",
                 "href": "https://github.com/dpetka2001",
                 "username": "dpetka2001"
             },
             {
-                "avatar": "https://private-avatars.githubusercontent.com/u/29718261?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzODExODAsIm5iZiI6MTczNDM3OTk4MCwicGF0aCI6Ii91LzI5NzE4MjYxIn0.vvlDzqAiriEUR2LfV-7U7o2UYn87XPEuWYBf_beG9ck&s=40&v=4",
+                "avatar": "https://avatars.githubusercontent.com/u/29718261",
                 "href": "https://github.com/amaanq",
                 "username": "amaanq"
             },
             {
-                "avatar": "https://private-avatars.githubusercontent.com/u/8222059?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzODExODAsIm5iZiI6MTczNDM3OTk4MCwicGF0aCI6Ii91LzgyMjIwNTkifQ.ZHyUP5VukGGo5JpnyAjvFLOd87c7quFeDvK_OUkXztk&s=40&v=4",
+                "avatar": "https://avatars.githubusercontent.com/u/8222059",
                 "href": "https://github.com/rubiin",
                 "username": "rubiin"
             }
@@ -614,7 +614,7 @@
         "language": "Lua",
         "languageColor": "#000080",
         "name": "LazyVim",
-        "stars": 18105,
+        "stars": 18110,
         "url": "https://github.com/LazyVim/LazyVim"
     }
 ]
