@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) | PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker |
-| [htmx](https://github.com/bigskysoftware/htmx) | </> htmx - high power tools for HTML |
-| [openpilot](https://github.com/commaai/openpilot) | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars. |
+| [ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home) | Xiaomi Home Integration for Home Assistant |
 | [cookbook](https://github.com/google-gemini/cookbook) | Examples and guides for using the Gemini API |
+| [AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) | Code to accompany "A Method for Animating Children's Drawings of the Human Figure" |
+| [unitree_rl_gym](https://github.com/unitreerobotics/unitree_rl_gym) |  |
+| [anoma](https://github.com/anoma/anoma) | Reference implementation of Anoma |
+| [concurrentqueue](https://github.com/cameron314/concurrentqueue) | A fast multi-producer, multi-consumer lock-free concurrent queue for C++11 |
 | [stripe-ios](https://github.com/stripe/stripe-ios) | Stripe iOS SDK |
-| [RIOT](https://github.com/RIOT-OS/RIOT) | RIOT - The friendly OS for IoT |
-| [EasyVolcap](https://github.com/zju3dv/EasyVolcap) | [SIGGRAPH Asia 2023 (Technical Communications)] EasyVolcap: Accelerating Neural Volumetric Video Research |
-| [TEN-Agent](https://github.com/TEN-framework/TEN-Agent) | TEN Agent is a conversational AI powered by TEN, integrating Gemini 2.0 Multimodal Live API, OpenAI Realtime API, RTC, and more. It offers real-time capabilities to see, hear, and speak, along with advanced tools like weather checks, web search, and RAG. |
-| [docling](https://github.com/DS4SD/docling) | Get your documents ready for gen AI |
-| [iptv-api](https://github.com/Guovin/iptv-api) | 📺IPTV电视直播源更新工具🚀：✨央视、📡卫视、☘️广东及各省份地方台、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持IPv4/IPv6；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update tool |
+| [frpc-desktop](https://github.com/luckjiawei/frpc-desktop) | frp跨平台桌面客户端，可视化配置，轻松实现内网穿透！ 支持所有frp版本 |
+| [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | The communications platform that puts data protection first. |
+| [aisuite](https://github.com/andrewyng/aisuite) | Simple, unified interface to multiple Generative AI providers |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
