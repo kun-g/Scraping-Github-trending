@@ -1,0 +1,592 @@
+[
+    {
+        "author": "XiaoMi",
+        "avatar": "https://github.com/XiaoMi.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/32349595",
+                "href": "https://github.com/topsworld",
+                "username": "topsworld"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5947653",
+                "href": "https://github.com/SusanPhevos",
+                "username": "SusanPhevos"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/19425968",
+                "href": "https://github.com/CodeMakerLi",
+                "username": "CodeMakerLi"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/88626207",
+                "href": "https://github.com/wheresrofl",
+                "username": "wheresrofl"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5201888",
+                "href": "https://github.com/hudsonbrendon",
+                "username": "hudsonbrendon"
+            }
+        ],
+        "currentPeriodStars": 2959,
+        "description": "Xiaomi Home Integration for Home Assistant",
+        "forks": 490,
+        "fullname": "XiaoMi/ha_xiaomi_home",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "ha_xiaomi_home",
+        "stars": 11441,
+        "url": "https://github.com/XiaoMi/ha_xiaomi_home"
+    },
+    {
+        "author": "comet-ml",
+        "avatar": "https://github.com/comet-ml.png",
+        "builtBy": [
+            {
+                "avatar": "https://private-avatars.githubusercontent.com/u/98702584?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MjQ2MDAsIm5iZiI6MTczNDYyMzQwMCwicGF0aCI6Ii91Lzk4NzAyNTg0In0.ez8Ptixq_DlBF4gNk_7qOLGZr6-JxglxnQ6aKWhysbE&s=40&v=4",
+                "href": "https://github.com/alexkuzmik",
+                "username": "alexkuzmik"
+            },
+            {
+                "avatar": "https://private-avatars.githubusercontent.com/u/11963145?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MjQ0ODAsIm5iZiI6MTczNDYyMzI4MCwicGF0aCI6Ii91LzExOTYzMTQ1In0.C-WVPVV9dgGCBLk95yVKvJ2vN2RcjMRqGGmmiuLmgfQ&s=40&v=4",
+                "href": "https://github.com/andriidudar",
+                "username": "andriidudar"
+            },
+            {
+                "avatar": "https://private-avatars.githubusercontent.com/u/7562001?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MjUwODAsIm5iZiI6MTczNDYyMzg4MCwicGF0aCI6Ii91Lzc1NjIwMDEifQ.fLPJCcU6aTwtNlx-3u906gyYoy2s1iT7WV7V0svKMLM&s=40&v=4",
+                "href": "https://github.com/jverre",
+                "username": "jverre"
+            },
+            {
+                "avatar": "https://private-avatars.githubusercontent.com/u/6633270?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MjQ5MDAsIm5iZiI6MTczNDYyMzcwMCwicGF0aCI6Ii91LzY2MzMyNzAifQ.g6oGO5-Ej2-IEPUttFOpUA2lImc-PNmNMmFx1zHO5do&s=40&v=4",
+                "href": "https://github.com/thiagohora",
+                "username": "thiagohora"
+            },
+            {
+                "avatar": "https://private-avatars.githubusercontent.com/u/243665?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MjUyMDAsIm5iZiI6MTczNDYyNDAwMCwicGF0aCI6Ii91LzI0MzY2NSJ9.mUKC9fwP4eFFPsAtyB_yc5MGw8ZRjeH-SBKnVUi5Cus&s=40&v=4",
+                "href": "https://github.com/Lothiraldan",
+                "username": "Lothiraldan"
+            }
+        ],
+        "currentPeriodStars": 111,
+        "description": "Open-source end-to-end LLM Development Platform",
+        "forks": 172,
+        "fullname": "comet-ml/opik",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "opik",
+        "stars": 2830,
+        "url": "https://github.com/comet-ml/opik"
+    },
+    {
+        "author": "EbookFoundation",
+        "avatar": "https://github.com/EbookFoundation.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2022803",
+                "href": "https://github.com/vhf",
+                "username": "vhf"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/926513",
+                "href": "https://github.com/eshellman",
+                "username": "eshellman"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3125580",
+                "href": "https://github.com/davorpa",
+                "username": "davorpa"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2694949",
+                "href": "https://github.com/MHM5000",
+                "username": "MHM5000"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/10100659",
+                "href": "https://github.com/kadhirash",
+                "username": "kadhirash"
+            }
+        ],
+        "currentPeriodStars": 224,
+        "description": "\ud83d\udcda Freely available programming books",
+        "forks": 62044,
+        "fullname": "EbookFoundation/free-programming-books",
+        "language": "HTML",
+        "languageColor": "#e34c26",
+        "name": "free-programming-books",
+        "stars": 342004,
+        "url": "https://github.com/EbookFoundation/free-programming-books"
+    },
+    {
+        "author": "konfig-dev",
+        "avatar": "https://github.com/konfig-dev.png",
+        "builtBy": [
+            {
+                "avatar": "https://private-avatars.githubusercontent.com/u/14287381?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTQzNjAsIm5iZiI6MTczNDY1MzE2MCwicGF0aCI6Ii91LzE0Mjg3MzgxIn0.4KrVlI0gbcWVvY0D7glHDbMUGt5dqZrLDdQkl7trgdQ&s=40&v=4",
+                "href": "https://github.com/dphuang2",
+                "username": "dphuang2"
+            },
+            {
+                "avatar": "https://private-avatars.githubusercontent.com/u/35413716?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTQ1NDAsIm5iZiI6MTczNDY1MzM0MCwicGF0aCI6Ii91LzM1NDEzNzE2In0.ETmVbORtWsnIbtVAZJdkgVLvW0b1cy4f-V823UBomw0&s=40&v=4",
+                "href": "https://github.com/eddiechayes",
+                "username": "eddiechayes"
+            },
+            {
+                "avatar": "https://private-avatars.githubusercontent.com/u/105567872?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTQ2MDAsIm5iZiI6MTczNDY1MzQwMCwicGF0aCI6Ii91LzEwNTU2Nzg3MiJ9.bqPQrFwNtlKQX_VuvsbgRpUyrbJc6VegrkQj5iLUGGw&s=40&v=4",
+                "href": "https://github.com/anhtuanbui2",
+                "username": "anhtuanbui2"
+            },
+            {
+                "avatar": "https://private-avatars.githubusercontent.com/u/139401294?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTQzMDAsIm5iZiI6MTczNDY1MzEwMCwicGF0aCI6Ii91LzEzOTQwMTI5NCJ9.5eHbUlzh_QAHjlz76-q3Rx6aV2fOIfnkdnieOUDrIp8&s=40&v=4",
+                "href": "https://github.com/konfig-publisher",
+                "username": "konfig-publisher"
+            }
+        ],
+        "currentPeriodStars": 207,
+        "description": "SDK & API Docs Generator. Sunset as of December 2024",
+        "forks": 201,
+        "fullname": "konfig-dev/konfig",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "konfig",
+        "stars": 758,
+        "url": "https://github.com/konfig-dev/konfig"
+    },
+    {
+        "author": "anoma",
+        "avatar": "https://github.com/anoma.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/32526923",
+                "href": "https://github.com/mariari",
+                "username": "mariari"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/115765",
+                "href": "https://github.com/juped",
+                "username": "juped"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/67437331",
+                "href": "https://github.com/agureev",
+                "username": "agureev"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3200825",
+                "href": "https://github.com/karbyshev",
+                "username": "karbyshev"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4094822",
+                "href": "https://github.com/m1dnight",
+                "username": "m1dnight"
+            }
+        ],
+        "currentPeriodStars": 4053,
+        "description": "Reference implementation of Anoma",
+        "forks": 463,
+        "fullname": "anoma/anoma",
+        "language": "Elixir",
+        "languageColor": "#6e4a7e",
+        "name": "anoma",
+        "stars": 10262,
+        "url": "https://github.com/anoma/anoma"
+    },
+    {
+        "author": "stripe",
+        "avatar": "https://github.com/stripe.png",
+        "builtBy": [
+            {
+                "avatar": "https://private-avatars.githubusercontent.com/u/23086671?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MjUwMjAsIm5iZiI6MTczNDYyMzgyMCwicGF0aCI6Ii91LzIzMDg2NjcxIn0.ETv_rirjiZng8Dymm0FFPZ_rdwNfKFGNQl-Sd6G1RuI&s=40&v=4",
+                "href": "https://github.com/jack-stripe",
+                "username": "jack-stripe"
+            },
+            {
+                "avatar": "https://private-avatars.githubusercontent.com/u/47796191?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MjUwODAsIm5iZiI6MTczNDYyMzg4MCwicGF0aCI6Ii91LzQ3Nzk2MTkxIn0.VDGF8raE41HfR6-pafwcgGGHHFuHj3Caje0EWzLvjIU&s=40&v=4",
+                "href": "https://github.com/yuki-stripe",
+                "username": "yuki-stripe"
+            },
+            {
+                "avatar": "https://private-avatars.githubusercontent.com/u/52758633?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MjQ0MjAsIm5iZiI6MTczNDYyMzIyMCwicGF0aCI6Ii91LzUyNzU4NjMzIn0.c_ZQSxuik_wygjH8AmtfNwNjheHvXfTbaYbWTJfwJN4&s=40&v=4",
+                "href": "https://github.com/davidme-stripe",
+                "username": "davidme-stripe"
+            },
+            {
+                "avatar": "https://private-avatars.githubusercontent.com/u/23086960?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MjQ2NjAsIm5iZiI6MTczNDYyMzQ2MCwicGF0aCI6Ii91LzIzMDg2OTYwIn0.xDLFe4Fv50kEVzCsTHOclA_Umh-2N5fBPkJlRVTiNoA&s=40&v=4",
+                "href": "https://github.com/bg-stripe",
+                "username": "bg-stripe"
+            },
+            {
+                "avatar": "https://private-avatars.githubusercontent.com/u/105514761?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MjQ2MDAsIm5iZiI6MTczNDYyMzQwMCwicGF0aCI6Ii91LzEwNTUxNDc2MSJ9.N4sNcjmYHjbVzyrIN7wXbDUDwgGsswAhtiWUavRgWLI&s=40&v=4",
+                "href": "https://github.com/kgaidis-stripe",
+                "username": "kgaidis-stripe"
+            }
+        ],
+        "currentPeriodStars": 49,
+        "description": "Stripe iOS SDK",
+        "forks": 1001,
+        "fullname": "stripe/stripe-ios",
+        "language": "Swift",
+        "languageColor": "#F05138",
+        "name": "stripe-ios",
+        "stars": 2300,
+        "url": "https://github.com/stripe/stripe-ios"
+    },
+    {
+        "author": "Guovin",
+        "avatar": "https://github.com/Guovin.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/37107669",
+                "href": "https://github.com/Guovin",
+                "username": "Guovin"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/26541344",
+                "href": "https://github.com/haohaitao",
+                "username": "haohaitao"
+            }
+        ],
+        "currentPeriodStars": 97,
+        "description": "\ud83d\udcfaIPTV\u7535\u89c6\u76f4\u64ad\u6e90\u66f4\u65b0\u5de5\u5177\ud83d\ude80\uff1a\u2728\u592e\u89c6\u3001\ud83d\udce1\u536b\u89c6\u3001\u2618\ufe0f\u5e7f\u4e1c\u53ca\u5404\u7701\u4efd\u5730\u65b9\u53f0\u3001\ud83c\udf0a\u6e2f\u00b7\u6fb3\u00b7\u53f0\u3001\ud83c\udfac\u7535\u5f71\u3001\ud83c\udfa5\u54aa\u5495\u3001\ud83c\udfc0\u4f53\u80b2\u3001\ud83e\ude81\u52a8\u753b\u3001\ud83c\udfae\u6e38\u620f\u3001\ud83c\udfb5\u97f3\u4e50\u3001\ud83c\udfdb\u7ecf\u5178\u5267\u573a\uff1b\u652f\u6301IPv4/IPv6\uff1b\u652f\u6301\u81ea\u5b9a\u4e49\u589e\u52a0\u9891\u9053\uff1b\u652f\u6301\u7ec4\u64ad\u6e90\u3001\u9152\u5e97\u6e90\u3001\u8ba2\u9605\u6e90\u3001\u5173\u952e\u5b57\u641c\u7d22\uff1b\u6bcf\u5929\u81ea\u52a8\u66f4\u65b0\u4e24\u6b21\uff0c\u7ed3\u679c\u53ef\u7528\u4e8eTVBox\u7b49\u64ad\u653e\u8f6f\u4ef6\uff1b\u652f\u6301\u5de5\u4f5c\u6d41\u3001Docker(amd64/arm64/arm v7)\u3001\u547d\u4ee4\u884c\u3001GUI\u8fd0\u884c\u65b9\u5f0f | IPTV live TV source update tool",
+        "forks": 2011,
+        "fullname": "Guovin/iptv-api",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "iptv-api",
+        "stars": 9417,
+        "url": "https://github.com/Guovin/iptv-api"
+    },
+    {
+        "author": "facebookresearch",
+        "avatar": "https://github.com/facebookresearch.png",
+        "builtBy": [
+            {
+                "avatar": "https://private-avatars.githubusercontent.com/u/6675724?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MjY0NjAsIm5iZiI6MTczNDYyNTI2MCwicGF0aCI6Ii91LzY2NzU3MjQifQ.9Qgmw_9Yo4nXPigNIvAOtYDcaX8FLjnovK06l08Q7Sw&s=40&v=4",
+                "href": "https://github.com/hjessmith",
+                "username": "hjessmith"
+            },
+            {
+                "avatar": "https://private-avatars.githubusercontent.com/u/84393628?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MjU4MDAsIm5iZiI6MTczNDYyNDYwMCwicGF0aCI6Ii91Lzg0MzkzNjI4In0.RaLpap0FeZwwPJj047cmLb8YfFmykzxJAgQ0LV-KJqs&s=40&v=4",
+                "href": "https://github.com/sahirgomez1",
+                "username": "sahirgomez1"
+            },
+            {
+                "avatar": "https://private-avatars.githubusercontent.com/u/425059?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MjY1MjAsIm5iZiI6MTczNDYyNTMyMCwicGF0aCI6Ii91LzQyNTA1OSJ9.lnX3-PKHDdrF62YTXcjYZgvkE79I87qzXAOynCCS-MY&s=40&v=4",
+                "href": "https://github.com/pringshia",
+                "username": "pringshia"
+            },
+            {
+                "avatar": "https://private-avatars.githubusercontent.com/u/16622377?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MjY1ODAsIm5iZiI6MTczNDYyNTM4MCwicGF0aCI6Ii91LzE2NjIyMzc3In0.dX0XUu724ZhLoPBSexUuTvUrxdOuPlz_gQzwONa-tkI&s=40&v=4",
+                "href": "https://github.com/hossinasaadi",
+                "username": "hossinasaadi"
+            },
+            {
+                "avatar": "https://private-avatars.githubusercontent.com/u/21337386?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MjY1MjAsIm5iZiI6MTczNDYyNTMyMCwicGF0aCI6Ii91LzIxMzM3Mzg2In0.tYzIvjFHY9PJQbfROgA3d6JXGWFzjBNNxbiNY8c6Uzw&s=40&v=4",
+                "href": "https://github.com/yihleego",
+                "username": "yihleego"
+            }
+        ],
+        "currentPeriodStars": 393,
+        "description": "Code to accompany \"A Method for Animating Children's Drawings of the Human Figure\"",
+        "forks": 990,
+        "fullname": "facebookresearch/AnimatedDrawings",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "AnimatedDrawings",
+        "stars": 11521,
+        "url": "https://github.com/facebookresearch/AnimatedDrawings"
+    },
+    {
+        "author": "apache",
+        "avatar": "https://github.com/apache.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/595491",
+                "href": "https://github.com/potiuk",
+                "username": "potiuk"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/487433",
+                "href": "https://github.com/mistercrunch",
+                "username": "mistercrunch"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8811558",
+                "href": "https://github.com/kaxil",
+                "username": "kaxil"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/34150",
+                "href": "https://github.com/ashb",
+                "username": "ashb"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/12058428",
+                "href": "https://github.com/mik-laj",
+                "username": "mik-laj"
+            }
+        ],
+        "currentPeriodStars": 31,
+        "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+        "forks": 14411,
+        "fullname": "apache/airflow",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "airflow",
+        "stars": 37745,
+        "url": "https://github.com/apache/airflow"
+    },
+    {
+        "author": "seleniumbase",
+        "avatar": "https://github.com/seleniumbase.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6788579",
+                "href": "https://github.com/mdmintz",
+                "username": "mdmintz"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/10913529",
+                "href": "https://github.com/hiqqs",
+                "username": "hiqqs"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5632761",
+                "href": "https://github.com/piotrkochan",
+                "username": "piotrkochan"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/11387076",
+                "href": "https://github.com/surevs",
+                "username": "surevs"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/12161724",
+                "href": "https://github.com/stevemachacz",
+                "username": "stevemachacz"
+            }
+        ],
+        "currentPeriodStars": 624,
+        "description": "Python APIs for web automation, testing, and bypassing bot-detection.",
+        "forks": 1033,
+        "fullname": "seleniumbase/SeleniumBase",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "SeleniumBase",
+        "stars": 6771,
+        "url": "https://github.com/seleniumbase/SeleniumBase"
+    },
+    {
+        "author": "unitreerobotics",
+        "avatar": "https://github.com/unitreerobotics.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/42887408",
+                "href": "https://github.com/craipy-hub",
+                "username": "craipy-hub"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/24558452",
+                "href": "https://github.com/cyoahs",
+                "username": "cyoahs"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/35455965",
+                "href": "https://github.com/brook-bee",
+                "username": "brook-bee"
+            }
+        ],
+        "currentPeriodStars": 128,
+        "description": "",
+        "forks": 125,
+        "fullname": "unitreerobotics/unitree_rl_gym",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "unitree_rl_gym",
+        "stars": 828,
+        "url": "https://github.com/unitreerobotics/unitree_rl_gym"
+    },
+    {
+        "author": "microsoft",
+        "avatar": "https://github.com/microsoft.png",
+        "builtBy": [
+            {
+                "avatar": "https://private-avatars.githubusercontent.com/u/1462282?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MjQ3MjAsIm5iZiI6MTczNDYyMzUyMCwicGF0aCI6Ii91LzE0NjIyODIifQ.ZRLCUNi_mFnyFlqPozaKACt2sBo5tpHRMbR2HgMj1mc&s=40&v=4",
+                "href": "https://github.com/crutkas",
+                "username": "crutkas"
+            },
+            {
+                "avatar": "https://private-avatars.githubusercontent.com/u/1169912?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MjQzNjAsIm5iZiI6MTczNDYyMzE2MCwicGF0aCI6Ii91LzExNjk5MTIifQ.gWLAoFSbHIIWkIJznkmvggAy2ZC77VlkOOeGXp6kYns&s=40&v=4",
+                "href": "https://github.com/bao-qian",
+                "username": "bao-qian"
+            },
+            {
+                "avatar": "https://private-avatars.githubusercontent.com/u/1725475?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MjQ0ODAsIm5iZiI6MTczNDYyMzI4MCwicGF0aCI6Ii91LzE3MjU0NzUifQ.Z53etq81iIJO6HQ6vrKaiE0l42ZtZJLugAyB8_WyXQI&s=40&v=4",
+                "href": "https://github.com/qianlifeng",
+                "username": "qianlifeng"
+            },
+            {
+                "avatar": "https://private-avatars.githubusercontent.com/u/26118718?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MjUyMDAsIm5iZiI6MTczNDYyNDAwMCwicGF0aCI6Ii91LzI2MTE4NzE4In0.OTxHRi4l1XY5fNyRinpgEU1_eoS_cb2m_dE-h2LTiQ0&s=40&v=4",
+                "href": "https://github.com/jaimecbernardo",
+                "username": "jaimecbernardo"
+            },
+            {
+                "avatar": "https://private-avatars.githubusercontent.com/u/57057282?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MjQ5NjAsIm5iZiI6MTczNDYyMzc2MCwicGF0aCI6Ii91LzU3MDU3MjgyIn0.wUIklAmtyijIOknccx8KFqApamppgC1331XHjJPxyTU&s=40&v=4",
+                "href": "https://github.com/stefansjfw",
+                "username": "stefansjfw"
+            }
+        ],
+        "currentPeriodStars": 87,
+        "description": "Windows system utilities to maximize productivity",
+        "forks": 6637,
+        "fullname": "microsoft/PowerToys",
+        "language": "C#",
+        "languageColor": "#178600",
+        "name": "PowerToys",
+        "stars": 112576,
+        "url": "https://github.com/microsoft/PowerToys"
+    },
+    {
+        "author": "luckjiawei",
+        "avatar": "https://github.com/luckjiawei.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/55422300",
+                "href": "https://github.com/luckjiawei",
+                "username": "luckjiawei"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/43224707",
+                "href": "https://github.com/forestxieCode",
+                "username": "forestxieCode"
+            }
+        ],
+        "currentPeriodStars": 314,
+        "description": "frp\u8de8\u5e73\u53f0\u684c\u9762\u5ba2\u6237\u7aef\uff0c\u53ef\u89c6\u5316\u914d\u7f6e\uff0c\u8f7b\u677e\u5b9e\u73b0\u5185\u7f51\u7a7f\u900f\uff01 \u652f\u6301\u6240\u6709frp\u7248\u672c",
+        "forks": 234,
+        "fullname": "luckjiawei/frpc-desktop",
+        "language": "Vue",
+        "languageColor": "#41b883",
+        "name": "frpc-desktop",
+        "stars": 3601,
+        "url": "https://github.com/luckjiawei/frpc-desktop"
+    },
+    {
+        "author": "mui",
+        "avatar": "https://github.com/mui.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4696105",
+                "href": "https://github.com/michaldudak",
+                "username": "michaldudak"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3165635",
+                "href": "https://github.com/oliviertassinari",
+                "username": "oliviertassinari"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4512430",
+                "href": "https://github.com/mnajdova",
+                "username": "mnajdova"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/22450188",
+                "href": "https://github.com/atomiks",
+                "username": "atomiks"
+            }
+        ],
+        "currentPeriodStars": 323,
+        "description": "Base UI is an open-source library of accessible, unstyled UI components for React.",
+        "forks": 61,
+        "fullname": "mui/base-ui",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "base-ui",
+        "stars": 1176,
+        "url": "https://github.com/mui/base-ui"
+    },
+    {
+        "author": "oven-sh",
+        "avatar": "https://github.com/oven-sh.png",
+        "builtBy": [
+            {
+                "avatar": "https://private-avatars.githubusercontent.com/u/709451?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2Mzc5ODAsIm5iZiI6MTczNDYzNjc4MCwicGF0aCI6Ii91LzcwOTQ1MSJ9.ehaPfTV4hRtrm0EkymD66LdmJB7eiNR4e5U-61wVfq0&s=40&v=4",
+                "href": "https://github.com/Jarred-Sumner",
+                "username": "Jarred-Sumner"
+            },
+            {
+                "avatar": "https://private-avatars.githubusercontent.com/u/35280289?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2Mzc2MjAsIm5iZiI6MTczNDYzNjQyMCwicGF0aCI6Ii91LzM1MjgwMjg5In0.rMmfnZVwD5lOSdjMezkr8ajtTBDuaE9-TEh_qHrx3Sg&s=40&v=4",
+                "href": "https://github.com/dylan-conway",
+                "username": "dylan-conway"
+            },
+            {
+                "avatar": "https://private-avatars.githubusercontent.com/u/24465214?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2Mzc3NDAsIm5iZiI6MTczNDYzNjU0MCwicGF0aCI6Ii91LzI0NDY1MjE0In0.9doZA-mV0Kmkh1WDnSx13Exls1gtpR4-M05hqxn_JSQ&s=40&v=4",
+                "href": "https://github.com/paperdave",
+                "username": "paperdave"
+            },
+            {
+                "avatar": "https://private-avatars.githubusercontent.com/u/3238291?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MzczODAsIm5iZiI6MTczNDYzNjE4MCwicGF0aCI6Ii91LzMyMzgyOTEifQ._M7VIMBo8DxpYOUnWOXohuU26sEnDW4D9zT0mTcBRNc&s=40&v=4",
+                "href": "https://github.com/Electroid",
+                "username": "Electroid"
+            },
+            {
+                "avatar": "https://private-avatars.githubusercontent.com/u/5464072?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MzgwNDAsIm5iZiI6MTczNDYzNjg0MCwicGF0aCI6Ii91LzU0NjQwNzIifQ.Y95XmJGN0CDPi9ZGw3dOVDZzbOjFY_DgpqGc3GtOwck&s=40&v=4",
+                "href": "https://github.com/nektro",
+                "username": "nektro"
+            }
+        ],
+        "currentPeriodStars": 34,
+        "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager \u2013 all in one",
+        "forks": 2800,
+        "fullname": "oven-sh/bun",
+        "language": "Zig",
+        "languageColor": "#ec915c",
+        "name": "bun",
+        "stars": 74887,
+        "url": "https://github.com/oven-sh/bun"
+    },
+    {
+        "author": "fatedier",
+        "avatar": "https://github.com/fatedier.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7346661",
+                "href": "https://github.com/fatedier",
+                "username": "fatedier"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4812302",
+                "href": "https://github.com/blizard863",
+                "username": "blizard863"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/16872",
+                "href": "https://github.com/GuyLewin",
+                "username": "GuyLewin"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/18277081",
+                "href": "https://github.com/yuyulei",
+                "username": "yuyulei"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3859951",
+                "href": "https://github.com/maodanp",
+                "username": "maodanp"
+            }
+        ],
+        "currentPeriodStars": 79,
+        "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+        "forks": 13522,
+        "fullname": "fatedier/frp",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "name": "frp",
+        "stars": 88189,
+        "url": "https://github.com/fatedier/frp"
+    }
+]
