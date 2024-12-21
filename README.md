@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [Genesis](https://github.com/Genesis-Embodied-AI/Genesis) | A generative world for general-purpose robotics & embodied AI learning. |
+| [opik](https://github.com/comet-ml/opik) | From RAG chatbots to code assistants to complex agentic pipelines and beyond, build LLM systems that run better, faster, and cheaper with tracing, evaluations, and dashboards. |
+| [CopilotForXcode](https://github.com/github/CopilotForXcode) | Xcode extension for GitHub Copilot |
+| [helicone](https://github.com/Helicone/helicone) | 🧊 Open source LLM-Observability Platform for Developers. One-line integration for monitoring, metrics, evals, agent tracing, prompt management, playground, etc. Supports OpenAI SDK, Vercel AI SDK, Anthropic SDK, LiteLLM, LLamaIndex, LangChain, and more. 🍓 YC W23 |
 | [ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home) | Xiaomi Home Integration for Home Assistant |
-| [opik](https://github.com/comet-ml/opik) | Open-source end-to-end LLM Development Platform |
-| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 📚 Freely available programming books |
-| [konfig](https://github.com/konfig-dev/konfig) | SDK & API Docs Generator. Sunset as of December 2024 |
-| [anoma](https://github.com/anoma/anoma) | Reference implementation of Anoma |
-| [stripe-ios](https://github.com/stripe/stripe-ios) | Stripe iOS SDK |
-| [iptv-api](https://github.com/Guovin/iptv-api) | 📺IPTV电视直播源更新工具🚀：✨央视、📡卫视、☘️广东及各省份地方台、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持IPv4/IPv6；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update tool |
-| [AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) | Code to accompany "A Method for Animating Children's Drawings of the Human Figure" |
-| [airflow](https://github.com/apache/airflow) | Apache Airflow - A platform to programmatically author, schedule, and monitor workflows |
 | [SeleniumBase](https://github.com/seleniumbase/SeleniumBase) | Python APIs for web automation, testing, and bypassing bot-detection. |
+| [cline](https://github.com/cline/cline) | Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way. |
+| [anoma](https://github.com/anoma/anoma) | Reference implementation of Anoma |
+| [awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) | 📄 A curated list of awesome .cursorrules files |
+| [scylladb](https://github.com/scylladb/scylladb) | NoSQL data store using the seastar framework, compatible with Apache Cassandra |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
