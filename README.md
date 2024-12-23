@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [clay](https://github.com/nicbarker/clay) | High performance UI layout library in C. |
+| [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
 | [Genesis](https://github.com/Genesis-Embodied-AI/Genesis) | A generative world for general-purpose robotics & embodied AI learning. |
-| [nullboard](https://github.com/apankrat/nullboard) | Nullboard is a minimalist kanban board, focused on compactness and readability. |
-| [airflow](https://github.com/apache/airflow) | Apache Airflow - A platform to programmatically author, schedule, and monitor workflows |
-| [SeleniumBase](https://github.com/seleniumbase/SeleniumBase) | Python APIs for web automation, testing, and bypassing bot-detection. |
-| [unstract](https://github.com/Zipstack/unstract) | No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents |
+| [tldraw](https://github.com/tldraw/tldraw) | whiteboard / infinite canvas SDK |
+| [zapret](https://github.com/bol-van/zapret) | DPI bypass multi platform |
+| [monolith](https://github.com/bytedance/monolith) | ByteDance's Recommendation System |
+| [ARC-AGI](https://github.com/fchollet/ARC-AGI) | The Abstraction and Reasoning Corpus |
 | [anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. |
-| [midscene](https://github.com/web-infra-dev/midscene) | An AI-powered automation SDK can control the page, perform assertions, and extract data in JSON format using natural language. |
-| [PromptWizard](https://github.com/microsoft/PromptWizard) | Task-Aware Agent-driven Prompt Optimization Framework |
 | [taichi](https://github.com/taichi-dev/taichi) | Productive, portable, and performant GPU programming in Python. |
+| [uBlock](https://github.com/gorhill/uBlock) | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
