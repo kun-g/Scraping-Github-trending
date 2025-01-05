@@ -1,0 +1,232 @@
+[
+    {
+        "author": "DrewThomasson",
+        "avatar": "https://github.com/DrewThomasson.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/126999465",
+                "href": "https://github.com/DrewThomasson",
+                "username": "DrewThomasson"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2649072",
+                "href": "https://github.com/ROBERT-MCDOWELL",
+                "username": "ROBERT-MCDOWELL"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/108031419",
+                "href": "https://github.com/Wesam-1110111",
+                "username": "Wesam-1110111"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/30292597",
+                "href": "https://github.com/Rihcus",
+                "username": "Rihcus"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/78308016",
+                "href": "https://github.com/WUYIN66",
+                "username": "WUYIN66"
+            }
+        ],
+        "currentPeriodStars": 2865,
+        "description": "Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!",
+        "forks": 314,
+        "fullname": "DrewThomasson/ebook2audiobook",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "ebook2audiobook",
+        "stars": 4878,
+        "url": "https://github.com/DrewThomasson/ebook2audiobook"
+    },
+    {
+        "author": "OpenSPG",
+        "avatar": "https://github.com/OpenSPG.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/30171612",
+                "href": "https://github.com/northmachine",
+                "username": "northmachine"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/15404227",
+                "href": "https://github.com/caszkgui",
+                "username": "caszkgui"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5087599",
+                "href": "https://github.com/xionghuaidong",
+                "username": "xionghuaidong"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/19925690",
+                "href": "https://github.com/andylau-55",
+                "username": "andylau-55"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5119000",
+                "href": "https://github.com/royzhao",
+                "username": "royzhao"
+            }
+        ],
+        "currentPeriodStars": 1311,
+        "description": "KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs. It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model.",
+        "forks": 186,
+        "fullname": "OpenSPG/KAG",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "KAG",
+        "stars": 3055,
+        "url": "https://github.com/OpenSPG/KAG"
+    },
+    {
+        "author": "stanford-oval",
+        "avatar": "https://github.com/stanford-oval.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/67158122",
+                "href": "https://github.com/shaoyijia",
+                "username": "shaoyijia"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/51142637",
+                "href": "https://github.com/Yucheng-Jiang",
+                "username": "Yucheng-Jiang"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/35606009",
+                "href": "https://github.com/zenith110",
+                "username": "zenith110"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/96901711",
+                "href": "https://github.com/AMMAS1",
+                "username": "AMMAS1"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/24313466",
+                "href": "https://github.com/evidencebp",
+                "username": "evidencebp"
+            }
+        ],
+        "currentPeriodStars": 2353,
+        "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+        "forks": 1503,
+        "fullname": "stanford-oval/storm",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "storm",
+        "stars": 16412,
+        "url": "https://github.com/stanford-oval/storm"
+    },
+    {
+        "author": "elizaOS",
+        "avatar": "https://github.com/elizaOS.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/18633264",
+                "href": "https://github.com/lalalune",
+                "username": "lalalune"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/165377636",
+                "href": "https://github.com/shakkernerd",
+                "username": "shakkernerd"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/15067321",
+                "href": "https://github.com/monilpat",
+                "username": "monilpat"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/90423308",
+                "href": "https://github.com/ponderingdemocritus",
+                "username": "ponderingdemocritus"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/16395496",
+                "href": "https://github.com/odilitime",
+                "username": "odilitime"
+            }
+        ],
+        "currentPeriodStars": 3022,
+        "description": "Autonomous agents for everyone",
+        "forks": 2446,
+        "fullname": "elizaOS/eliza",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "eliza",
+        "stars": 9358,
+        "url": "https://github.com/elizaOS/eliza"
+    },
+    {
+        "author": "bytedance",
+        "avatar": "https://github.com/bytedance.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/992199",
+                "href": "https://github.com/zhangpiu",
+                "username": "zhangpiu"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/112458890",
+                "href": "https://github.com/zlqiszlqbd",
+                "username": "zlqiszlqbd"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/21034047",
+                "href": "https://github.com/hanzhi713",
+                "username": "hanzhi713"
+            }
+        ],
+        "currentPeriodStars": 2661,
+        "description": "A Lightweight Recommendation System",
+        "forks": 478,
+        "fullname": "bytedance/monolith",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "monolith",
+        "stars": 6402,
+        "url": "https://github.com/bytedance/monolith"
+    },
+    {
+        "author": "janhq",
+        "avatar": "https://github.com/janhq.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/133622055",
+                "href": "https://github.com/louis-jan",
+                "username": "louis-jan"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/150573299",
+                "href": "https://github.com/0xHieu01",
+                "username": "0xHieu01"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/10354610",
+                "href": "https://github.com/urmauur",
+                "username": "urmauur"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/136811300",
+                "href": "https://github.com/jan-service-account",
+                "username": "jan-service-account"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/136591877",
+                "href": "https://github.com/hiento09",
+                "username": "hiento09"
+            }
+        ],
+        "currentPeriodStars": 1118,
+        "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
+        "forks": 1469,
+        "fullname": "janhq/jan",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "jan",
+        "stars": 25560,
+        "url": "https://github.com/janhq/jan"
+    }
+]
