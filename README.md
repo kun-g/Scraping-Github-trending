@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [khoj](https://github.com/khoj-ai/khoj) | Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free. |
-| [swarms](https://github.com/kyegomez/swarms) | The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework Join our Community: https://discord.gg/jM3Z6M9uMq |
-| [docs](https://github.com/inkonchain/docs) | Ink Documentation |
 | [Resume-Matcher](https://github.com/srbhr/Resume-Matcher) | Resume Matcher is an open source, free tool to improve your resume. It works by using AI, Reader LLMs, to compare and rank resumes with job descriptions. |
 | [node](https://github.com/inkonchain/node) | How to run an Ink Node |
-| [minimind](https://github.com/jingyaogong/minimind) | 「大模型」3小时完全从0训练26M的小参数GPT，个人显卡即可推理训练！ |
-| [dify](https://github.com/langgenius/dify) | Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. |
-| [miniperplx](https://github.com/zaidmukaddam/miniperplx) | A minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0. |
+| [VILA](https://github.com/NVlabs/VILA) | VILA is a family of state-of-the-art vision language models (VLMs) for diverse multimodal AI tasks across the edge, data center, and cloud. |
+| [crawl4ai](https://github.com/unclecode/crawl4ai) | 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper |
+| [docs](https://github.com/inkonchain/docs) | Ink Documentation |
+| [googletest](https://github.com/google/googletest) | GoogleTest - Google Testing and Mocking Framework |
 | [xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) | Build your own AI friend |
-| [nuclei](https://github.com/projectdiscovery/nuclei) | Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations. |
+| [firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) | Firebase SDK for Apple App Development |
+| [torchtune](https://github.com/pytorch/torchtune) | PyTorch native post-training library |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
