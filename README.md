@@ -20,9 +20,9 @@
 | [automatisch](https://github.com/automatisch/automatisch) | The open source Zapier alternative. Build workflow automation without spending time and money. |
 | [plyr](https://github.com/sampotts/plyr) | A simple HTML5, YouTube and Vimeo player |
 | [code2prompt](https://github.com/mufeedvh/code2prompt) | A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting. |
-| [iptv-api](https://github.com/Guovin/iptv-api) | 📺IPTV电视直播源更新项目『✨秒播级体验🚀』：支持IPv4/IPv6；支持自定义频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update project |
 | [MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | Automate the process of making money online. |
 | [awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) | A curated list of modern Generative Artificial Intelligence projects and services |
+| [GlaDOS](https://github.com/dnhkng/GlaDOS) | This is the Personality Core for GLaDOS, the first steps towards a real-life implementation of the AI from the Portal series by Valve. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
