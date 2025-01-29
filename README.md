@@ -13,15 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [maybe](https://github.com/maybe-finance/maybe) | The OS for your personal finances |
-| [onlook](https://github.com/onlook-dev/onlook) | The open source Cursor for Designers. Design directly in your live React app and publish your changes to code. |
-| [awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) |  |
 | [DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) | DeepSeek Coder: Let the Code Write Itself |
-| [ollama](https://github.com/ollama/ollama) | Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models. |
+| [awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) |  |
+| [DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) | DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence |
 | [DeepSeek-LLM](https://github.com/deepseek-ai/DeepSeek-LLM) | DeepSeek LLM: Let there be answers |
-| [llama-stack](https://github.com/meta-llama/llama-stack) | Composable building blocks to build Llama Apps |
-| [marker](https://github.com/VikParuchuri/marker) | Convert PDF to markdown + JSON quickly with high accuracy |
-| [it-tools](https://github.com/CorentinTh/it-tools) | Collection of handy online tools for developers, with great UX. |
+| [maybe](https://github.com/maybe-finance/maybe) | The OS for your personal finances |
+| [Janus](https://github.com/deepseek-ai/Janus) | Janus-Series: Unified Multimodal Understanding and Generation Models |
+| [DeepSeek-VL](https://github.com/deepseek-ai/DeepSeek-VL) | DeepSeek-VL: Towards Real-World Vision-Language Understanding |
+| [DeepSeek-V2](https://github.com/deepseek-ai/DeepSeek-V2) | DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model |
+| [DeepSeek-Math](https://github.com/deepseek-ai/DeepSeek-Math) | DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models |
+| [DreamCraft3D](https://github.com/deepseek-ai/DreamCraft3D) | [ICLR 2024] Official implementation of DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
