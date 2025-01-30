@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [Janus](https://github.com/deepseek-ai/Janus) | Janus-Series: Unified Multimodal Understanding and Generation Models |
 | [DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) | DeepSeek Coder: Let the Code Write Itself |
+| [DeepSeek-LLM](https://github.com/deepseek-ai/DeepSeek-LLM) | DeepSeek LLM: Let there be answers |
 | [awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) |  |
 | [DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) | DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence |
-| [DeepSeek-LLM](https://github.com/deepseek-ai/DeepSeek-LLM) | DeepSeek LLM: Let there be answers |
-| [maybe](https://github.com/maybe-finance/maybe) | The OS for your personal finances |
-| [Janus](https://github.com/deepseek-ai/Janus) | Janus-Series: Unified Multimodal Understanding and Generation Models |
-| [DeepSeek-VL](https://github.com/deepseek-ai/DeepSeek-VL) | DeepSeek-VL: Towards Real-World Vision-Language Understanding |
+| [llama.cpp](https://github.com/ggerganov/llama.cpp) | LLM inference in C/C++ |
+| [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL) | Qwen2.5-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud. |
 | [DeepSeek-V2](https://github.com/deepseek-ai/DeepSeek-V2) | DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model |
-| [DeepSeek-Math](https://github.com/deepseek-ai/DeepSeek-Math) | DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models |
 | [DreamCraft3D](https://github.com/deepseek-ai/DreamCraft3D) | [ICLR 2024] Official implementation of DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior |
+| [DeepSeek-Math](https://github.com/deepseek-ai/DeepSeek-Math) | DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
