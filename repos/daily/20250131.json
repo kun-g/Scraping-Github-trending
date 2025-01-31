@@ -1,0 +1,595 @@
+[
+    {
+        "author": "block",
+        "avatar": "https://github.com/block.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4003538",
+                "href": "https://github.com/acekyd",
+                "username": "acekyd"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/15972783",
+                "href": "https://github.com/angiejones",
+                "username": "angiejones"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/14976",
+                "href": "https://github.com/michaelneale",
+                "username": "michaelneale"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7858054",
+                "href": "https://github.com/baxen",
+                "username": "baxen"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/55366651",
+                "href": "https://github.com/EbonyLouis",
+                "username": "EbonyLouis"
+            }
+        ],
+        "currentPeriodStars": 746,
+        "description": "an open-source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+        "forks": 230,
+        "fullname": "block/goose",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "name": "goose",
+        "stars": 3292,
+        "url": "https://github.com/block/goose"
+    },
+    {
+        "author": "QwenLM",
+        "avatar": "https://github.com/QwenLM.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/17811943",
+                "href": "https://github.com/jklj077",
+                "username": "jklj077"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/27664428",
+                "href": "https://github.com/JustinLin610",
+                "username": "JustinLin610"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/51609737",
+                "href": "https://github.com/bug-orz",
+                "username": "bug-orz"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/13436140",
+                "href": "https://github.com/huybery",
+                "username": "huybery"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7543016",
+                "href": "https://github.com/JianxinMa",
+                "username": "JianxinMa"
+            }
+        ],
+        "currentPeriodStars": 429,
+        "description": "Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.",
+        "forks": 833,
+        "fullname": "QwenLM/Qwen2.5",
+        "language": "Shell",
+        "languageColor": "#89e051",
+        "name": "Qwen2.5",
+        "stars": 12914,
+        "url": "https://github.com/QwenLM/Qwen2.5"
+    },
+    {
+        "author": "deepseek-ai",
+        "avatar": "https://github.com/deepseek-ai.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/152240452",
+                "href": "https://github.com/DeepSeekPH",
+                "username": "DeepSeekPH"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/37035235",
+                "href": "https://github.com/stack-heap-overflow",
+                "username": "stack-heap-overflow"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/33708987",
+                "href": "https://github.com/zdaxie",
+                "username": "zdaxie"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/101861465",
+                "href": "https://github.com/Freja71122",
+                "username": "Freja71122"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/13479945",
+                "href": "https://github.com/luofuli",
+                "username": "luofuli"
+            }
+        ],
+        "currentPeriodStars": 307,
+        "description": "DeepSeek LLM: Let there be answers",
+        "forks": 635,
+        "fullname": "deepseek-ai/DeepSeek-LLM",
+        "language": "Makefile",
+        "languageColor": "#427819",
+        "name": "DeepSeek-LLM",
+        "stars": 4758,
+        "url": "https://github.com/deepseek-ai/DeepSeek-LLM"
+    },
+    {
+        "author": "deepseek-ai",
+        "avatar": "https://github.com/deepseek-ai.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/40300434",
+                "href": "https://github.com/guoday",
+                "username": "guoday"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/25882802",
+                "href": "https://github.com/DejianYang",
+                "username": "DejianYang"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8534653",
+                "href": "https://github.com/soloice",
+                "username": "soloice"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/9302255",
+                "href": "https://github.com/Ying1123",
+                "username": "Ying1123"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/13479945",
+                "href": "https://github.com/luofuli",
+                "username": "luofuli"
+            }
+        ],
+        "currentPeriodStars": 258,
+        "description": "DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence",
+        "forks": 568,
+        "fullname": "deepseek-ai/DeepSeek-Coder-V2",
+        "name": "DeepSeek-Coder-V2",
+        "stars": 4338,
+        "url": "https://github.com/deepseek-ai/DeepSeek-Coder-V2"
+    },
+    {
+        "author": "n4ze3m",
+        "avatar": "https://github.com/n4ze3m.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/39720973",
+                "href": "https://github.com/n4ze3m",
+                "username": "n4ze3m"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/113997856",
+                "href": "https://github.com/Abubakar115e",
+                "username": "Abubakar115e"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1169963",
+                "href": "https://github.com/colin-campbell",
+                "username": "colin-campbell"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/791137",
+                "href": "https://github.com/josx",
+                "username": "josx"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7223028",
+                "href": "https://github.com/PierreMesure",
+                "username": "PierreMesure"
+            }
+        ],
+        "currentPeriodStars": 71,
+        "description": "Use your locally running AI models to assist you in your web browsing",
+        "forks": 214,
+        "fullname": "n4ze3m/page-assist",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "page-assist",
+        "stars": 2315,
+        "url": "https://github.com/n4ze3m/page-assist"
+    },
+    {
+        "author": "deepseek-ai",
+        "avatar": "https://github.com/deepseek-ai.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/40300434",
+                "href": "https://github.com/guoday",
+                "username": "guoday"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/26244259",
+                "href": "https://github.com/pkuzqh",
+                "username": "pkuzqh"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/25882802",
+                "href": "https://github.com/DejianYang",
+                "username": "DejianYang"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/35299455",
+                "href": "https://github.com/LyricZhao",
+                "username": "LyricZhao"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/151806429",
+                "href": "https://github.com/BingxuanWang",
+                "username": "BingxuanWang"
+            }
+        ],
+        "currentPeriodStars": 684,
+        "description": "DeepSeek Coder: Let the Code Write Itself",
+        "forks": 1613,
+        "fullname": "deepseek-ai/DeepSeek-Coder",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "DeepSeek-Coder",
+        "stars": 15860,
+        "url": "https://github.com/deepseek-ai/DeepSeek-Coder"
+    },
+    {
+        "author": "ollama",
+        "avatar": "https://github.com/ollama.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2372640",
+                "href": "https://github.com/mxyng",
+                "username": "mxyng"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/251292",
+                "href": "https://github.com/jmorganca",
+                "username": "jmorganca"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4033016",
+                "href": "https://github.com/dhiltgen",
+                "username": "dhiltgen"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5853428",
+                "href": "https://github.com/BruceMacD",
+                "username": "BruceMacD"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/75239",
+                "href": "https://github.com/pdevine",
+                "username": "pdevine"
+            }
+        ],
+        "currentPeriodStars": 1162,
+        "description": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.",
+        "forks": 9191,
+        "fullname": "ollama/ollama",
+        "language": "Go",
+        "languageColor": "#00ADD8",
+        "name": "ollama",
+        "stars": 115431,
+        "url": "https://github.com/ollama/ollama"
+    },
+    {
+        "author": "deepseek-ai",
+        "avatar": "https://github.com/deepseek-ai.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1081377",
+                "href": "https://github.com/learningpro",
+                "username": "learningpro"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/60053707",
+                "href": "https://github.com/hills-code",
+                "username": "hills-code"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3240071",
+                "href": "https://github.com/TheOneTrueGuy",
+                "username": "TheOneTrueGuy"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4133025",
+                "href": "https://github.com/mowentian",
+                "username": "mowentian"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8534653",
+                "href": "https://github.com/soloice",
+                "username": "soloice"
+            }
+        ],
+        "currentPeriodStars": 3050,
+        "description": "Janus-Series: Unified Multimodal Understanding and Generation Models",
+        "forks": 1499,
+        "fullname": "deepseek-ai/Janus",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "Janus",
+        "stars": 12615,
+        "url": "https://github.com/deepseek-ai/Janus"
+    },
+    {
+        "author": "deepseek-ai",
+        "avatar": "https://github.com/deepseek-ai.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/40300434",
+                "href": "https://github.com/guoday",
+                "username": "guoday"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/38103684",
+                "href": "https://github.com/ZhihongShao",
+                "username": "ZhihongShao"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/70536672",
+                "href": "https://github.com/chenxwh",
+                "username": "chenxwh"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/26244259",
+                "href": "https://github.com/pkuzqh",
+                "username": "pkuzqh"
+            }
+        ],
+        "currentPeriodStars": 213,
+        "description": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+        "forks": 309,
+        "fullname": "deepseek-ai/DeepSeek-Math",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "DeepSeek-Math",
+        "stars": 1899,
+        "url": "https://github.com/deepseek-ai/DeepSeek-Math"
+    },
+    {
+        "author": "deepseek-ai",
+        "avatar": "https://github.com/deepseek-ai.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/45503891",
+                "href": "https://github.com/MrTornado24",
+                "username": "MrTornado24"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/104205278",
+                "href": "https://github.com/farmmanic",
+                "username": "farmmanic"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/141332950",
+                "href": "https://github.com/tonybear999",
+                "username": "tonybear999"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/690008",
+                "href": "https://github.com/jd7h",
+                "username": "jd7h"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/19733683",
+                "href": "https://github.com/snyk-bot",
+                "username": "snyk-bot"
+            }
+        ],
+        "currentPeriodStars": 135,
+        "description": "[ICLR 2024] Official implementation of DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior",
+        "forks": 247,
+        "fullname": "deepseek-ai/DreamCraft3D",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "DreamCraft3D",
+        "stars": 2626,
+        "url": "https://github.com/deepseek-ai/DreamCraft3D"
+    },
+    {
+        "author": "unslothai",
+        "avatar": "https://github.com/unslothai.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/23090290",
+                "href": "https://github.com/danielhanchen",
+                "username": "danielhanchen"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/107991372",
+                "href": "https://github.com/shimmyshimmer",
+                "username": "shimmyshimmer"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/68678137",
+                "href": "https://github.com/Erland366",
+                "username": "Erland366"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/39181234",
+                "href": "https://github.com/Datta0",
+                "username": "Datta0"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/9495054",
+                "href": "https://github.com/xyangk",
+                "username": "xyangk"
+            }
+        ],
+        "currentPeriodStars": 271,
+        "description": "Finetune Llama 3.3, Mistral, Phi-4, Qwen 2.5 & Gemma LLMs 2-5x faster with 70% less memory",
+        "forks": 1560,
+        "fullname": "unslothai/unsloth",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "unsloth",
+        "stars": 22420,
+        "url": "https://github.com/unslothai/unsloth"
+    },
+    {
+        "author": "polarsource",
+        "avatar": "https://github.com/polarsource.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/47952",
+                "href": "https://github.com/zegl",
+                "username": "zegl"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1144727",
+                "href": "https://github.com/frankie567",
+                "username": "frankie567"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/10053249",
+                "href": "https://github.com/emilwidlund",
+                "username": "emilwidlund"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/281715",
+                "href": "https://github.com/birkjernstrom",
+                "username": "birkjernstrom"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/374824",
+                "href": "https://github.com/hult",
+                "username": "hult"
+            }
+        ],
+        "currentPeriodStars": 196,
+        "description": "An open source Merchant of Record. Sell SaaS and digital products in minutes.",
+        "forks": 196,
+        "fullname": "polarsource/polar",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "polar",
+        "stars": 4050,
+        "url": "https://github.com/polarsource/polar"
+    },
+    {
+        "author": "github",
+        "avatar": "https://github.com/github.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/63058869",
+                "href": "https://github.com/Octomerger",
+                "username": "Octomerger"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/77750099",
+                "href": "https://github.com/docs-bot",
+                "username": "docs-bot"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/26739",
+                "href": "https://github.com/peterbe",
+                "username": "peterbe"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/42146119",
+                "href": "https://github.com/mchammer01",
+                "username": "mchammer01"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/821071",
+                "href": "https://github.com/sarahs",
+                "username": "sarahs"
+            }
+        ],
+        "currentPeriodStars": 17,
+        "description": "The open-source repo for docs.github.com",
+        "forks": 60688,
+        "fullname": "github/docs",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "docs",
+        "stars": 16742,
+        "url": "https://github.com/github/docs"
+    },
+    {
+        "author": "aws-samples",
+        "avatar": "https://github.com/aws-samples.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/73256380",
+                "href": "https://github.com/kyleblocksom",
+                "username": "kyleblocksom"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/102240958",
+                "href": "https://github.com/mttanke",
+                "username": "mttanke"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/102243526",
+                "href": "https://github.com/rsgrewal-aws",
+                "username": "rsgrewal-aws"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/73082957",
+                "href": "https://github.com/rppth",
+                "username": "rppth"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7109053",
+                "href": "https://github.com/isingh09",
+                "username": "isingh09"
+            }
+        ],
+        "currentPeriodStars": 6,
+        "description": "This repository contains examples for customers to get started using the Amazon Bedrock Service. This contains examples for all available foundational models",
+        "forks": 359,
+        "fullname": "aws-samples/amazon-bedrock-samples",
+        "language": "Jupyter Notebook",
+        "languageColor": "#DA5B0B",
+        "name": "amazon-bedrock-samples",
+        "stars": 775,
+        "url": "https://github.com/aws-samples/amazon-bedrock-samples"
+    },
+    {
+        "author": "QwenLM",
+        "avatar": "https://github.com/QwenLM.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/43326198",
+                "href": "https://github.com/ShuaiBai623",
+                "username": "ShuaiBai623"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/136600500",
+                "href": "https://github.com/kq-chen",
+                "username": "kq-chen"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/13191886",
+                "href": "https://github.com/jinze1994",
+                "username": "jinze1994"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/22515857",
+                "href": "https://github.com/LibertFan",
+                "username": "LibertFan"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/16256802",
+                "href": "https://github.com/hiyouga",
+                "username": "hiyouga"
+            }
+        ],
+        "currentPeriodStars": 381,
+        "description": "Qwen2.5-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.",
+        "forks": 368,
+        "fullname": "QwenLM/Qwen2.5-VL",
+        "language": "Jupyter Notebook",
+        "languageColor": "#DA5B0B",
+        "name": "Qwen2.5-VL",
+        "stars": 5292,
+        "url": "https://github.com/QwenLM/Qwen2.5-VL"
+    }
+]
