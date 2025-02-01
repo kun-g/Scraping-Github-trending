@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [goose](https://github.com/block/goose) | an open-source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
 | [Qwen2.5](https://github.com/QwenLM/Qwen2.5) | Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud. |
-| [DeepSeek-LLM](https://github.com/deepseek-ai/DeepSeek-LLM) | DeepSeek LLM: Let there be answers |
-| [DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) | DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence |
-| [page-assist](https://github.com/n4ze3m/page-assist) | Use your locally running AI models to assist you in your web browsing |
-| [DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) | DeepSeek Coder: Let the Code Write Itself |
+| [goose](https://github.com/block/goose) | an open-source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
+| [Qwen](https://github.com/QwenLM/Qwen) | The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud. |
+| [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL) | Qwen2.5-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud. |
+| [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | A community-supported supercharged version of paperless: scan, index and archive all your physical documents |
 | [ollama](https://github.com/ollama/ollama) | Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models. |
-| [Janus](https://github.com/deepseek-ai/Janus) | Janus-Series: Unified Multimodal Understanding and Generation Models |
-| [DeepSeek-Math](https://github.com/deepseek-ai/DeepSeek-Math) | DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models |
-| [DreamCraft3D](https://github.com/deepseek-ai/DreamCraft3D) | [ICLR 2024] Official implementation of DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior |
+| [Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) | Agent framework and applications built upon Qwen>=2.0, featuring Function Calling, Code Interpreter, RAG, and Chrome extension. |
+| [Qwen2.5-Coder](https://github.com/QwenLM/Qwen2.5-Coder) | Qwen2.5-Coder is the code version of Qwen2.5, the large language model series developed by Qwen team, Alibaba Cloud. |
+| [librdkafka](https://github.com/confluentinc/librdkafka) | The Apache Kafka C/C++ library |
+| [hyperswitch](https://github.com/juspay/hyperswitch) | An open source payments switch written in Rust to make payments fast, reliable and affordable |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
