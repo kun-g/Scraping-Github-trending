@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [oumi](https://github.com/oumi-ai/oumi) | Everything you need to build state-of-the-art foundation models, end-to-end. |
-| [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL) | Qwen2.5-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud. |
-| [goose](https://github.com/block/goose) | an open-source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
-| [docs](https://github.com/github/docs) | The open-source repo for docs.github.com |
-| [penpot](https://github.com/penpot/penpot) | Penpot: The open-source design tool for design and code collaboration |
-| [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
-| [meridian](https://github.com/google/meridian) | Meridian is an MMM framework that enables advertisers to set up and run their own in-house models. |
-| [Qwen2.5](https://github.com/QwenLM/Qwen2.5) | Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud. |
-| [open-webui](https://github.com/open-webui/open-webui) | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
+| [v2rayN](https://github.com/2dust/v2rayN) | A GUI client for Windows, Linux and macOS, support Xray and sing-box and others |
 | [Qwen](https://github.com/QwenLM/Qwen) | The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud. |
+| [self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) | The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows. |
+| [telegram-tt](https://github.com/Ajaxy/telegram-tt) | Telegram Web A, GPL v3 |
+| [excalidraw](https://github.com/excalidraw/excalidraw) | Virtual whiteboard for sketching hand-drawn like diagrams |
+| [solidtime](https://github.com/solidtime-io/solidtime) | Modern open-source time-tracking app |
+| [agentkit](https://github.com/coinbase/agentkit) |  |
+| [documenso](https://github.com/documenso/documenso) | The Open Source DocuSign Alternative. |
+| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A feature-rich command-line audio/video downloader |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
