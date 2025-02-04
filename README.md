@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [oumi](https://github.com/oumi-ai/oumi) | Everything you need to build state-of-the-art foundation models, end-to-end. |
-| [v2rayN](https://github.com/2dust/v2rayN) | A GUI client for Windows, Linux and macOS, support Xray and sing-box and others |
-| [Qwen](https://github.com/QwenLM/Qwen) | The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud. |
-| [self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) | The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows. |
-| [telegram-tt](https://github.com/Ajaxy/telegram-tt) | Telegram Web A, GPL v3 |
-| [excalidraw](https://github.com/excalidraw/excalidraw) | Virtual whiteboard for sketching hand-drawn like diagrams |
-| [solidtime](https://github.com/solidtime-io/solidtime) | Modern open-source time-tracking app |
-| [agentkit](https://github.com/coinbase/agentkit) |  |
+| [penpot](https://github.com/penpot/penpot) | Penpot: The open-source design tool for design and code collaboration |
+| [lobe-chat](https://github.com/lobehub/lobe-chat) | 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application. |
+| [frigate](https://github.com/blakeblackshear/frigate) | NVR with realtime local object detection for IP cameras |
+| [register](https://github.com/is-a-dev/register) | Grab your own sweet-looking '.is-a.dev' subdomain. |
+| [anything-llm](https://github.com/Mintplex-Labs/anything-llm) | The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more. |
+| [dify](https://github.com/langgenius/dify) | Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. |
+| [tencentcloud-sdk-nodejs](https://github.com/TencentCloud/tencentcloud-sdk-nodejs) | Tencent Cloud API 3.0 SDK for NodeJS |
 | [documenso](https://github.com/documenso/documenso) | The Open Source DocuSign Alternative. |
-| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A feature-rich command-line audio/video downloader |
+| [math](https://github.com/ossu/math) | 🧮 Path to a free self-taught education in Mathematics! |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
