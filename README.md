@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [oumi](https://github.com/oumi-ai/oumi) | Everything you need to build state-of-the-art foundation models, end-to-end. |
+| [metabase](https://github.com/metabase/metabase) | The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋 |
+| [register](https://github.com/is-a-dev/register) | Grab your own sweet-looking '.is-a.dev' subdomain. |
+| [aspnetcore](https://github.com/dotnet/aspnetcore) | ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux. |
+| [solidtime](https://github.com/solidtime-io/solidtime) | Modern open-source time-tracking app |
+| [documenso](https://github.com/documenso/documenso) | The Open Source DocuSign Alternative. |
 | [penpot](https://github.com/penpot/penpot) | Penpot: The open-source design tool for design and code collaboration |
 | [lobe-chat](https://github.com/lobehub/lobe-chat) | 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application. |
-| [frigate](https://github.com/blakeblackshear/frigate) | NVR with realtime local object detection for IP cameras |
-| [register](https://github.com/is-a-dev/register) | Grab your own sweet-looking '.is-a.dev' subdomain. |
-| [anything-llm](https://github.com/Mintplex-Labs/anything-llm) | The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more. |
-| [dify](https://github.com/langgenius/dify) | Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. |
-| [tencentcloud-sdk-nodejs](https://github.com/TencentCloud/tencentcloud-sdk-nodejs) | Tencent Cloud API 3.0 SDK for NodeJS |
-| [documenso](https://github.com/documenso/documenso) | The Open Source DocuSign Alternative. |
-| [math](https://github.com/ossu/math) | 🧮 Path to a free self-taught education in Mathematics! |
+| [llm-course](https://github.com/mlabonne/llm-course) | Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. |
+| [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) | OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
