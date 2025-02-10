@@ -1,0 +1,653 @@
+[
+    {
+        "author": "langgenius",
+        "avatar": "https://github.com/langgenius.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5485478",
+                "href": "https://github.com/takatost",
+                "username": "takatost"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/100913391",
+                "href": "https://github.com/crazywoola",
+                "username": "crazywoola"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/16485841",
+                "href": "https://github.com/laipz8200",
+                "username": "laipz8200"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2120155",
+                "href": "https://github.com/iamjoel",
+                "username": "iamjoel"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/76649700",
+                "href": "https://github.com/JohnJyong",
+                "username": "JohnJyong"
+            }
+        ],
+        "currentPeriodStars": 376,
+        "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+        "forks": 9440,
+        "fullname": "langgenius/dify",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "dify",
+        "stars": 64021,
+        "url": "https://github.com/langgenius/dify"
+    },
+    {
+        "author": "infiniflow",
+        "avatar": "https://github.com/infiniflow.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/12318111",
+                "href": "https://github.com/KevinHuSh",
+                "username": "KevinHuSh"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/8089971",
+                "href": "https://github.com/cike8899",
+                "username": "cike8899"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/93570324",
+                "href": "https://github.com/writinwaters",
+                "username": "writinwaters"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/153784",
+                "href": "https://github.com/yuzhichang",
+                "username": "yuzhichang"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/33142505",
+                "href": "https://github.com/JinHai-CN",
+                "username": "JinHai-CN"
+            }
+        ],
+        "currentPeriodStars": 466,
+        "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+        "forks": 3040,
+        "fullname": "infiniflow/ragflow",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "ragflow",
+        "stars": 33300,
+        "url": "https://github.com/infiniflow/ragflow"
+    },
+    {
+        "author": "unslothai",
+        "avatar": "https://github.com/unslothai.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/23090290",
+                "href": "https://github.com/danielhanchen",
+                "username": "danielhanchen"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/107991372",
+                "href": "https://github.com/shimmyshimmer",
+                "username": "shimmyshimmer"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/68678137",
+                "href": "https://github.com/Erland366",
+                "username": "Erland366"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/39181234",
+                "href": "https://github.com/Datta0",
+                "username": "Datta0"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/9495054",
+                "href": "https://github.com/xyangk",
+                "username": "xyangk"
+            }
+        ],
+        "currentPeriodStars": 501,
+        "description": "Finetune Llama 3.3, DeepSeek-R1 & Reasoning LLMs 2x faster with 70% less memory",
+        "forks": 1705,
+        "fullname": "unslothai/unsloth",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "unsloth",
+        "stars": 25018,
+        "url": "https://github.com/unslothai/unsloth"
+    },
+    {
+        "author": "lobehub",
+        "avatar": "https://github.com/lobehub.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/32174276",
+                "href": "https://github.com/semantic-release-bot",
+                "username": "semantic-release-bot"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/28616219",
+                "href": "https://github.com/arvinxx",
+                "username": "arvinxx"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/17870709",
+                "href": "https://github.com/canisminor1990",
+                "username": "canisminor1990"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/134299653",
+                "href": "https://github.com/lobehubbot",
+                "username": "lobehubbot"
+            }
+        ],
+        "currentPeriodStars": 299,
+        "description": "\ud83e\udd2f Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.",
+        "forks": 11701,
+        "fullname": "lobehub/lobe-chat",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "lobe-chat",
+        "stars": 54491,
+        "url": "https://github.com/lobehub/lobe-chat"
+    },
+    {
+        "author": "zhayujie",
+        "avatar": "https://github.com/zhayujie.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/26161723",
+                "href": "https://github.com/zhayujie",
+                "username": "zhayujie"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/26515464",
+                "href": "https://github.com/lanvent",
+                "username": "lanvent"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/38057450",
+                "href": "https://github.com/6vision",
+                "username": "6vision"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/9778880",
+                "href": "https://github.com/JS00000",
+                "username": "JS00000"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/138805485",
+                "href": "https://github.com/Saboteur7",
+                "username": "Saboteur7"
+            }
+        ],
+        "currentPeriodStars": 98,
+        "description": "\u57fa\u4e8e\u5927\u6a21\u578b\u642d\u5efa\u7684\u804a\u5929\u673a\u5668\u4eba\uff0c\u540c\u65f6\u652f\u6301 \u5fae\u4fe1\u516c\u4f17\u53f7\u3001\u4f01\u4e1a\u5fae\u4fe1\u5e94\u7528\u3001\u98de\u4e66\u3001\u9489\u9489 \u7b49\u63a5\u5165\uff0c\u53ef\u9009\u62e9GPT3.5/GPT-4o/GPT-o1/ DeepSeek/Claude/\u6587\u5fc3\u4e00\u8a00/\u8baf\u98de\u661f\u706b/\u901a\u4e49\u5343\u95ee/ Gemini/GLM-4/Claude/Kimi/LinkAI\uff0c\u80fd\u5904\u7406\u6587\u672c\u3001\u8bed\u97f3\u548c\u56fe\u7247\uff0c\u8bbf\u95ee\u64cd\u4f5c\u7cfb\u7edf\u548c\u4e92\u8054\u7f51\uff0c\u652f\u6301\u57fa\u4e8e\u81ea\u6709\u77e5\u8bc6\u5e93\u8fdb\u884c\u5b9a\u5236\u4f01\u4e1a\u667a\u80fd\u5ba2\u670d\u3002",
+        "forks": 8706,
+        "fullname": "zhayujie/chatgpt-on-wechat",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "chatgpt-on-wechat",
+        "stars": 33870,
+        "url": "https://github.com/zhayujie/chatgpt-on-wechat"
+    },
+    {
+        "author": "microsoft",
+        "avatar": "https://github.com/microsoft.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/189190",
+                "href": "https://github.com/DHowett",
+                "username": "DHowett"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/18356694",
+                "href": "https://github.com/zadjii-msft",
+                "username": "zadjii-msft"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2256941",
+                "href": "https://github.com/lhecker",
+                "username": "lhecker"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/18221333",
+                "href": "https://github.com/miniksa",
+                "username": "miniksa"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/11050425",
+                "href": "https://github.com/carlos-zamora",
+                "username": "carlos-zamora"
+            }
+        ],
+        "currentPeriodStars": 141,
+        "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+        "forks": 8448,
+        "fullname": "microsoft/terminal",
+        "language": "C++",
+        "languageColor": "#f34b7d",
+        "name": "terminal",
+        "stars": 96896,
+        "url": "https://github.com/microsoft/terminal"
+    },
+    {
+        "author": "RockChinQ",
+        "avatar": "https://github.com/RockChinQ.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/45992437",
+                "href": "https://github.com/RockChinQ",
+                "username": "RockChinQ"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/17528205",
+                "href": "https://github.com/chordfish-k",
+                "username": "chordfish-k"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/60596228",
+                "href": "https://github.com/LINSTCL",
+                "username": "LINSTCL"
+            }
+        ],
+        "currentPeriodStars": 101,
+        "description": "\ud83d\ude0e\u4e30\u5bcc\u751f\u6001\u3001\ud83e\udde9\u652f\u6301\u6269\u5c55\u3001\ud83e\udd84\u591a\u6a21\u6001 - \u5927\u6a21\u578b\u539f\u751f\u5373\u65f6\u901a\u4fe1\u673a\u5668\u4eba\u5e73\u53f0 \ud83e\udd16 | \u9002\u914d QQ / \u5fae\u4fe1\uff08\u4f01\u4e1a\u5fae\u4fe1\u3001\u4e2a\u4eba\u5fae\u4fe1\uff09/ \u98de\u4e66\uff08feishu\uff09/ Discord / OneBot \u7b49\u6d88\u606f\u5e73\u53f0 | \u652f\u6301 OpenAI GPT\u3001ChatGPT\u3001DeepSeek\u3001Dify\u3001Claude\u3001Gemini\u3001Ollama\u3001LM Studio\u3001SiliconFlow\u3001Qwen\u3001Moonshot\u3001ChatGLM \u7b49 LLM \u7684\u673a\u5668\u4eba / Agent | LLM-based instant messaging bots platform, supports Discord, WeChat, Lark, QQ platform, OpenAI ChatGPT, DeepSeek.",
+        "forks": 421,
+        "fullname": "RockChinQ/LangBot",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "LangBot",
+        "stars": 6366,
+        "url": "https://github.com/RockChinQ/LangBot"
+    },
+    {
+        "author": "songquanpeng",
+        "avatar": "https://github.com/songquanpeng.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/39998050",
+                "href": "https://github.com/songquanpeng",
+                "username": "songquanpeng"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/483419",
+                "href": "https://github.com/mrhaoji",
+                "username": "mrhaoji"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4532436",
+                "href": "https://github.com/Laisky",
+                "username": "Laisky"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/34326532",
+                "href": "https://github.com/igophper",
+                "username": "igophper"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/30899719",
+                "href": "https://github.com/quzard",
+                "username": "quzard"
+            }
+        ],
+        "currentPeriodStars": 68,
+        "description": "LLM API \u7ba1\u7406 & \u5206\u53d1\u7cfb\u7edf\uff0c\u652f\u6301 OpenAI\u3001Azure\u3001Anthropic Claude\u3001Google Gemini\u3001DeepSeek\u3001\u5b57\u8282\u8c46\u5305\u3001ChatGLM\u3001\u6587\u5fc3\u4e00\u8a00\u3001\u8baf\u98de\u661f\u706b\u3001\u901a\u4e49\u5343\u95ee\u3001360 \u667a\u8111\u3001\u817e\u8baf\u6df7\u5143\u7b49\u4e3b\u6d41\u6a21\u578b\uff0c\u7edf\u4e00 API \u9002\u914d\uff0c\u53ef\u7528\u4e8e key \u7ba1\u7406\u4e0e\u4e8c\u6b21\u5206\u53d1\u3002\u5355\u53ef\u6267\u884c\u6587\u4ef6\uff0c\u63d0\u4f9b Docker \u955c\u50cf\uff0c\u4e00\u952e\u90e8\u7f72\uff0c\u5f00\u7bb1\u5373\u7528\u3002LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.",
+        "forks": 4670,
+        "fullname": "songquanpeng/one-api",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "name": "one-api",
+        "stars": 21811,
+        "url": "https://github.com/songquanpeng/one-api"
+    },
+    {
+        "author": "mendableai",
+        "avatar": "https://github.com/mendableai.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/20311743",
+                "href": "https://github.com/nickscamara",
+                "username": "nickscamara"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/66118807",
+                "href": "https://github.com/mogery",
+                "username": "mogery"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/150964962",
+                "href": "https://github.com/rafaelsideguide",
+                "username": "rafaelsideguide"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/43451761",
+                "href": "https://github.com/ericciarla",
+                "username": "ericciarla"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/44934913",
+                "href": "https://github.com/calebpeffer",
+                "username": "calebpeffer"
+            }
+        ],
+        "currentPeriodStars": 326,
+        "description": "\ud83d\udd25 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.",
+        "forks": 1991,
+        "fullname": "mendableai/firecrawl",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "firecrawl",
+        "stars": 24390,
+        "url": "https://github.com/mendableai/firecrawl"
+    },
+    {
+        "author": "AUTOMATIC1111",
+        "avatar": "https://github.com/AUTOMATIC1111.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/20920490",
+                "href": "https://github.com/AUTOMATIC1111",
+                "username": "AUTOMATIC1111"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/40751091",
+                "href": "https://github.com/w-e-w",
+                "username": "w-e-w"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/35278260",
+                "href": "https://github.com/dfaker",
+                "username": "dfaker"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/58669",
+                "href": "https://github.com/akx",
+                "username": "akx"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/122327233",
+                "href": "https://github.com/catboxanon",
+                "username": "catboxanon"
+            }
+        ],
+        "currentPeriodStars": 78,
+        "description": "Stable Diffusion web UI",
+        "forks": 27549,
+        "fullname": "AUTOMATIC1111/stable-diffusion-webui",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "stable-diffusion-webui",
+        "stars": 147256,
+        "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
+    },
+    {
+        "author": "Mintplex-Labs",
+        "avatar": "https://github.com/Mintplex-Labs.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/16845892",
+                "href": "https://github.com/timothycarambat",
+                "username": "timothycarambat"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2336488",
+                "href": "https://github.com/shatfield4",
+                "username": "shatfield4"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3033044",
+                "href": "https://github.com/MrSimonC",
+                "username": "MrSimonC"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/984592",
+                "href": "https://github.com/franzbischoff",
+                "username": "franzbischoff"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/532526",
+                "href": "https://github.com/blazeyo",
+                "username": "blazeyo"
+            }
+        ],
+        "currentPeriodStars": 403,
+        "description": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.",
+        "forks": 3420,
+        "fullname": "Mintplex-Labs/anything-llm",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "name": "anything-llm",
+        "stars": 35069,
+        "url": "https://github.com/Mintplex-Labs/anything-llm"
+    },
+    {
+        "author": "yamadashy",
+        "avatar": "https://github.com/yamadashy.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5019072",
+                "href": "https://github.com/yamadashy",
+                "username": "yamadashy"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/119860259",
+                "href": "https://github.com/huy-trn",
+                "username": "huy-trn"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/65467162",
+                "href": "https://github.com/vznh",
+                "username": "vznh"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/63982489",
+                "href": "https://github.com/thecurz",
+                "username": "thecurz"
+            }
+        ],
+        "currentPeriodStars": 88,
+        "description": "\ud83d\udce6 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.",
+        "forks": 396,
+        "fullname": "yamadashy/repomix",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "repomix",
+        "stars": 8430,
+        "url": "https://github.com/yamadashy/repomix"
+    },
+    {
+        "author": "Bin-Huang",
+        "avatar": "https://github.com/Bin-Huang.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/20723142",
+                "href": "https://github.com/Bin-Huang",
+                "username": "Bin-Huang"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/19162201",
+                "href": "https://github.com/hiNISAL",
+                "username": "hiNISAL"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1571956",
+                "href": "https://github.com/joegoldin",
+                "username": "joegoldin"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5771087",
+                "href": "https://github.com/paddingme",
+                "username": "paddingme"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/6491222",
+                "href": "https://github.com/liuzesen",
+                "username": "liuzesen"
+            }
+        ],
+        "currentPeriodStars": 328,
+        "description": "User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)",
+        "forks": 2789,
+        "fullname": "Bin-Huang/chatbox",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "chatbox",
+        "stars": 29050,
+        "url": "https://github.com/Bin-Huang/chatbox"
+    },
+    {
+        "author": "open-webui",
+        "avatar": "https://github.com/open-webui.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/25473318",
+                "href": "https://github.com/tjbck",
+                "username": "tjbck"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/818368",
+                "href": "https://github.com/cheahjs",
+                "username": "cheahjs"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/69747628",
+                "href": "https://github.com/jannikstdl",
+                "username": "jannikstdl"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/78477503",
+                "href": "https://github.com/michaelpoluektov",
+                "username": "michaelpoluektov"
+            }
+        ],
+        "currentPeriodStars": 479,
+        "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+        "forks": 8386,
+        "fullname": "open-webui/open-webui",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "name": "open-webui",
+        "stars": 70901,
+        "url": "https://github.com/open-webui/open-webui"
+    },
+    {
+        "author": "deepseek-ai",
+        "avatar": "https://github.com/deepseek-ai.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4133025",
+                "href": "https://github.com/mowentian",
+                "username": "mowentian"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/155953822",
+                "href": "https://github.com/Bin788",
+                "username": "Bin788"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/13600976",
+                "href": "https://github.com/DillionApple",
+                "username": "DillionApple"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/59196087",
+                "href": "https://github.com/yh-xu",
+                "username": "yh-xu"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/24671280",
+                "href": "https://github.com/XieJiSS",
+                "username": "XieJiSS"
+            }
+        ],
+        "currentPeriodStars": 626,
+        "description": "",
+        "forks": 1126,
+        "fullname": "deepseek-ai/awesome-deepseek-integration",
+        "name": "awesome-deepseek-integration",
+        "stars": 10040,
+        "url": "https://github.com/deepseek-ai/awesome-deepseek-integration"
+    },
+    {
+        "author": "n4ze3m",
+        "avatar": "https://github.com/n4ze3m.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/39720973",
+                "href": "https://github.com/n4ze3m",
+                "username": "n4ze3m"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/113997856",
+                "href": "https://github.com/Abubakar115e",
+                "username": "Abubakar115e"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2322981",
+                "href": "https://github.com/yz778",
+                "username": "yz778"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1169963",
+                "href": "https://github.com/colin-campbell",
+                "username": "colin-campbell"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/791137",
+                "href": "https://github.com/josx",
+                "username": "josx"
+            }
+        ],
+        "currentPeriodStars": 136,
+        "description": "Use your locally running AI models to assist you in your web browsing",
+        "forks": 312,
+        "fullname": "n4ze3m/page-assist",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "page-assist",
+        "stars": 3614,
+        "url": "https://github.com/n4ze3m/page-assist"
+    },
+    {
+        "author": "practical-tutorials",
+        "avatar": "https://github.com/practical-tutorials.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/13454011",
+                "href": "https://github.com/tuvtran",
+                "username": "tuvtran"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/29180645",
+                "href": "https://github.com/sayands",
+                "username": "sayands"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/17646853",
+                "href": "https://github.com/enkeyz",
+                "username": "enkeyz"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/675506",
+                "href": "https://github.com/bobeff",
+                "username": "bobeff"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/24525097",
+                "href": "https://github.com/olucode",
+                "username": "olucode"
+            }
+        ],
+        "currentPeriodStars": 272,
+        "description": "Curated list of project-based tutorials",
+        "forks": 28234,
+        "fullname": "practical-tutorials/project-based-learning",
+        "name": "project-based-learning",
+        "stars": 216657,
+        "url": "https://github.com/practical-tutorials/project-based-learning"
+    }
+]
