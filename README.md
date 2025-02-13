@@ -14,15 +14,15 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [data-formulator](https://github.com/microsoft/data-formulator) | 🪄 Create rich visualizations with AI |
-| [page-assist](https://github.com/n4ze3m/page-assist) | Use your locally running AI models to assist you in your web browsing |
 | [unsloth](https://github.com/unslothai/unsloth) | Finetune Llama 3.3, DeepSeek-R1 & Reasoning LLMs 2x faster with 70% less memory! 🦥 |
-| [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
-| [awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) |  |
-| [potpie](https://github.com/potpie-ai/potpie) | Prompt-To-Agent : Create custom engineering agents for your codebase |
-| [LLM4Decompile](https://github.com/albertan017/LLM4Decompile) | Reverse Engineering: Decompiling Binary Code with Large Language Models |
-| [dify](https://github.com/langgenius/dify) | Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. |
-| [firecrawl](https://github.com/mendableai/firecrawl) | 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API. |
+| [vision-agent](https://github.com/landing-ai/vision-agent) | Vision agent |
+| [hyperswitch](https://github.com/juspay/hyperswitch) | An open source payments switch written in Rust to make payments fast, reliable and affordable |
 | [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. |
+| [aisuite](https://github.com/andrewyng/aisuite) | Simple, unified interface to multiple Generative AI providers |
+| [5d-diplomacy-with-multiverse-time-travel](https://github.com/Oliveriver/5d-diplomacy-with-multiverse-time-travel) | 5D Diplomacy With Multiverse Time Travel |
+| [firefly-iii](https://github.com/firefly-iii/firefly-iii) | Firefly III: a personal finances manager |
+| [walrus-docs](https://github.com/MystenLabs/walrus-docs) | Documentation and examples for the Walrus decentralized storage system |
+| [onlook](https://github.com/onlook-dev/onlook) | The open source Cursor for Designers. Design directly in your live React app and publish your changes to code. |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
