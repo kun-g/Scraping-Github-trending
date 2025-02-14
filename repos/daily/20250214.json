@@ -1,0 +1,617 @@
+[
+    {
+        "author": "microsoft",
+        "avatar": "https://github.com/microsoft.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/11507384",
+                "href": "https://github.com/danmarshall",
+                "username": "danmarshall"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/93549116",
+                "href": "https://github.com/Chenglong-MS",
+                "username": "Chenglong-MS"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/22527892",
+                "href": "https://github.com/microsoftopensource",
+                "username": "microsoftopensource"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/20134145",
+                "href": "https://github.com/terrchen",
+                "username": "terrchen"
+            }
+        ],
+        "currentPeriodStars": 820,
+        "description": "\ud83e\ude84 Create rich visualizations with AI",
+        "forks": 431,
+        "fullname": "microsoft/data-formulator",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "data-formulator",
+        "stars": 5736,
+        "url": "https://github.com/microsoft/data-formulator"
+    },
+    {
+        "author": "block",
+        "avatar": "https://github.com/block.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/15972783",
+                "href": "https://github.com/angiejones",
+                "username": "angiejones"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/4003538",
+                "href": "https://github.com/acekyd",
+                "username": "acekyd"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/55366651",
+                "href": "https://github.com/EbonyLouis",
+                "username": "EbonyLouis"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/14976",
+                "href": "https://github.com/michaelneale",
+                "username": "michaelneale"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7154255",
+                "href": "https://github.com/salman1993",
+                "username": "salman1993"
+            }
+        ],
+        "currentPeriodStars": 377,
+        "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+        "forks": 488,
+        "fullname": "block/goose",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "name": "goose",
+        "stars": 7594,
+        "url": "https://github.com/block/goose"
+    },
+    {
+        "author": "labring",
+        "avatar": "https://github.com/labring.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/50446880",
+                "href": "https://github.com/c121914yu",
+                "username": "c121914yu"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/71265218",
+                "href": "https://github.com/newfish-cmyk",
+                "username": "newfish-cmyk"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/15308462",
+                "href": "https://github.com/yangchuansheng",
+                "username": "yangchuansheng"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/32237950",
+                "href": "https://github.com/FinleyGe",
+                "username": "FinleyGe"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/109422393",
+                "href": "https://github.com/Patrickill",
+                "username": "Patrickill"
+            }
+        ],
+        "currentPeriodStars": 259,
+        "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
+        "forks": 5398,
+        "fullname": "labring/FastGPT",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "FastGPT",
+        "stars": 20907,
+        "url": "https://github.com/labring/FastGPT"
+    },
+    {
+        "author": "nocodb",
+        "avatar": "https://github.com/nocodb.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/61551451",
+                "href": "https://github.com/pranavxc",
+                "username": "pranavxc"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/35857179",
+                "href": "https://github.com/wingkwong",
+                "username": "wingkwong"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5435402",
+                "href": "https://github.com/o1lab",
+                "username": "o1lab"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/86527202",
+                "href": "https://github.com/dstala",
+                "username": "dstala"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/59797957",
+                "href": "https://github.com/mertmit",
+                "username": "mertmit"
+            }
+        ],
+        "currentPeriodStars": 30,
+        "description": "\ud83d\udd25 \ud83d\udd25 \ud83d\udd25 Open Source Airtable Alternative",
+        "forks": 3567,
+        "fullname": "nocodb/nocodb",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "nocodb",
+        "stars": 51582,
+        "url": "https://github.com/nocodb/nocodb"
+    },
+    {
+        "author": "cypress-io",
+        "avatar": "https://github.com/cypress-io.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1268976",
+                "href": "https://github.com/brian-mann",
+                "username": "brian-mann"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1157043",
+                "href": "https://github.com/chrisbreiding",
+                "username": "chrisbreiding"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1271364",
+                "href": "https://github.com/jennifer-shehane",
+                "username": "jennifer-shehane"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1151760",
+                "href": "https://github.com/flotwig",
+                "username": "flotwig"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2212006",
+                "href": "https://github.com/bahmutov",
+                "username": "bahmutov"
+            }
+        ],
+        "currentPeriodStars": 16,
+        "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+        "forks": 3235,
+        "fullname": "cypress-io/cypress",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "name": "cypress",
+        "stars": 47910,
+        "url": "https://github.com/cypress-io/cypress"
+    },
+    {
+        "author": "codecrafters-io",
+        "avatar": "https://github.com/codecrafters-io.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1736595",
+                "href": "https://github.com/danistefanovic",
+                "username": "danistefanovic"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3893573",
+                "href": "https://github.com/rohitpaulk",
+                "username": "rohitpaulk"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3149580",
+                "href": "https://github.com/sarupbanskota",
+                "username": "sarupbanskota"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/61480354",
+                "href": "https://github.com/fake-rookie",
+                "username": "fake-rookie"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/16154204",
+                "href": "https://github.com/bauripalash",
+                "username": "bauripalash"
+            }
+        ],
+        "currentPeriodStars": 853,
+        "description": "Master programming by recreating your favorite technologies from scratch.",
+        "forks": 30846,
+        "fullname": "codecrafters-io/build-your-own-x",
+        "language": "Markdown",
+        "languageColor": "#083fa1",
+        "name": "build-your-own-x",
+        "stars": 333262,
+        "url": "https://github.com/codecrafters-io/build-your-own-x"
+    },
+    {
+        "author": "Oliveriver",
+        "avatar": "https://github.com/Oliveriver.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/7430433",
+                "href": "https://github.com/Oliveriver",
+                "username": "Oliveriver"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/10822890",
+                "href": "https://github.com/CaptainMeme",
+                "username": "CaptainMeme"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1868537",
+                "href": "https://github.com/penteract",
+                "username": "penteract"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/9348976",
+                "href": "https://github.com/leonard-IMBERT",
+                "username": "leonard-IMBERT"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/80181074",
+                "href": "https://github.com/inkyant",
+                "username": "inkyant"
+            }
+        ],
+        "currentPeriodStars": 153,
+        "description": "5D Diplomacy With Multiverse Time Travel",
+        "forks": 58,
+        "fullname": "Oliveriver/5d-diplomacy-with-multiverse-time-travel",
+        "language": "C#",
+        "languageColor": "#178600",
+        "name": "5d-diplomacy-with-multiverse-time-travel",
+        "stars": 631,
+        "url": "https://github.com/Oliveriver/5d-diplomacy-with-multiverse-time-travel"
+    },
+    {
+        "author": "juspay",
+        "avatar": "https://github.com/juspay.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/22217505",
+                "href": "https://github.com/SanchithHegde",
+                "username": "SanchithHegde"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/48803246",
+                "href": "https://github.com/Narayanbhat166",
+                "username": "Narayanbhat166"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/61539176",
+                "href": "https://github.com/hrithikesh026",
+                "username": "hrithikesh026"
+            }
+        ],
+        "currentPeriodStars": 209,
+        "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+        "forks": 1416,
+        "fullname": "juspay/hyperswitch",
+        "language": "Rust",
+        "languageColor": "#dea584",
+        "name": "hyperswitch",
+        "stars": 13628,
+        "url": "https://github.com/juspay/hyperswitch"
+    },
+    {
+        "author": "datawhalechina",
+        "avatar": "https://github.com/datawhalechina.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/74288839",
+                "href": "https://github.com/logan-zou",
+                "username": "logan-zou"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/84648701",
+                "href": "https://github.com/Beyondzjl",
+                "username": "Beyondzjl"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/64852985",
+                "href": "https://github.com/xuhu0115",
+                "username": "xuhu0115"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/65588374",
+                "href": "https://github.com/Weihong-Liu",
+                "username": "Weihong-Liu"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/140427007",
+                "href": "https://github.com/Aphasia0515",
+                "username": "Aphasia0515"
+            }
+        ],
+        "currentPeriodStars": 371,
+        "description": "\u9762\u5411\u5f00\u53d1\u8005\u7684 LLM \u5165\u95e8\u6559\u7a0b\uff0c\u5434\u6069\u8fbe\u5927\u6a21\u578b\u7cfb\u5217\u8bfe\u7a0b\u4e2d\u6587\u7248",
+        "forks": 1820,
+        "fullname": "datawhalechina/llm-cookbook",
+        "language": "Jupyter Notebook",
+        "languageColor": "#DA5B0B",
+        "name": "llm-cookbook",
+        "stars": 14455,
+        "url": "https://github.com/datawhalechina/llm-cookbook"
+    },
+    {
+        "author": "Kong",
+        "avatar": "https://github.com/Kong.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/1125431",
+                "href": "https://github.com/thibaultcha",
+                "username": "thibaultcha"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/983257",
+                "href": "https://github.com/bungle",
+                "username": "bungle"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/964813",
+                "href": "https://github.com/subnetmarco",
+                "username": "subnetmarco"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/245621",
+                "href": "https://github.com/hishamhm",
+                "username": "hishamhm"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3711407",
+                "href": "https://github.com/chronolaw",
+                "username": "chronolaw"
+            }
+        ],
+        "currentPeriodStars": 22,
+        "description": "\ud83e\udd8d The Cloud-Native API Gateway and AI Gateway.",
+        "forks": 4853,
+        "fullname": "Kong/kong",
+        "language": "Lua",
+        "languageColor": "#000080",
+        "name": "kong",
+        "stars": 40035,
+        "url": "https://github.com/Kong/kong"
+    },
+    {
+        "author": "RexanWONG",
+        "avatar": "https://github.com/RexanWONG.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/96183717",
+                "href": "https://github.com/RexanWONG",
+                "username": "RexanWONG"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/76515905",
+                "href": "https://github.com/MatinAniss",
+                "username": "MatinAniss"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/86641528",
+                "href": "https://github.com/Adarsh-Raut",
+                "username": "Adarsh-Raut"
+            }
+        ],
+        "currentPeriodStars": 20,
+        "description": "https://textbehindimage.rexanwong.xyz - create text behind image designs easily",
+        "forks": 279,
+        "fullname": "RexanWONG/text-behind-image",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "text-behind-image",
+        "stars": 1564,
+        "url": "https://github.com/RexanWONG/text-behind-image"
+    },
+    {
+        "author": "landing-ai",
+        "avatar": "https://github.com/landing-ai.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/92344512",
+                "href": "https://github.com/AsiaCao",
+                "username": "AsiaCao"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3057947",
+                "href": "https://github.com/dillonalaird",
+                "username": "dillonalaird"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2736300",
+                "href": "https://github.com/humpydonkey",
+                "username": "humpydonkey"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/90070882",
+                "href": "https://github.com/shankar-vision-eng",
+                "username": "shankar-vision-eng"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/132986242",
+                "href": "https://github.com/wuyiqunLu",
+                "username": "wuyiqunLu"
+            }
+        ],
+        "currentPeriodStars": 314,
+        "description": "Vision agent",
+        "forks": 300,
+        "fullname": "landing-ai/vision-agent",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "vision-agent",
+        "stars": 2624,
+        "url": "https://github.com/landing-ai/vision-agent"
+    },
+    {
+        "author": "potpie-ai",
+        "avatar": "https://github.com/potpie-ai.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/19893222",
+                "href": "https://github.com/dhirenmathur",
+                "username": "dhirenmathur"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/109784095",
+                "href": "https://github.com/vineetshar",
+                "username": "vineetshar"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/49873295",
+                "href": "https://github.com/GodReaper",
+                "username": "GodReaper"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/159244038",
+                "href": "https://github.com/maipkhu",
+                "username": "maipkhu"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/120293778",
+                "href": "https://github.com/kinshuksinghbist",
+                "username": "kinshuksinghbist"
+            }
+        ],
+        "currentPeriodStars": 97,
+        "description": "Prompt-To-Agent : Create custom engineering agents for your codebase",
+        "forks": 192,
+        "fullname": "potpie-ai/potpie",
+        "language": "Python",
+        "languageColor": "#3572A5",
+        "name": "potpie",
+        "stars": 2191,
+        "url": "https://github.com/potpie-ai/potpie"
+    },
+    {
+        "author": "netdata",
+        "avatar": "https://github.com/netdata.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2662304",
+                "href": "https://github.com/ktsaou",
+                "username": "ktsaou"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/43409846",
+                "href": "https://github.com/netdatabot",
+                "username": "netdatabot"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/22274335",
+                "href": "https://github.com/ilyam8",
+                "username": "ilyam8"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/905151",
+                "href": "https://github.com/Ferroin",
+                "username": "Ferroin"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/52996999",
+                "href": "https://github.com/stelfrag",
+                "username": "stelfrag"
+            }
+        ],
+        "currentPeriodStars": 23,
+        "description": "Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!",
+        "forks": 6006,
+        "fullname": "netdata/netdata",
+        "language": "C",
+        "languageColor": "#555555",
+        "name": "netdata",
+        "stars": 73377,
+        "url": "https://github.com/netdata/netdata"
+    },
+    {
+        "author": "ant-design",
+        "avatar": "https://github.com/ant-design.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/507615",
+                "href": "https://github.com/afc163",
+                "username": "afc163"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/5378891",
+                "href": "https://github.com/zombieJ",
+                "username": "zombieJ"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/27722486",
+                "href": "https://github.com/MadCcc",
+                "username": "MadCcc"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/49217418",
+                "href": "https://github.com/li-jia-nan",
+                "username": "li-jia-nan"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/3580607",
+                "href": "https://github.com/benjycui",
+                "username": "benjycui"
+            }
+        ],
+        "currentPeriodStars": 46,
+        "description": "An enterprise-class UI design language and React UI library",
+        "forks": 51115,
+        "fullname": "ant-design/ant-design",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "name": "ant-design",
+        "stars": 93571,
+        "url": "https://github.com/ant-design/ant-design"
+    },
+    {
+        "author": "OpenZeppelin",
+        "avatar": "https://github.com/OpenZeppelin.png",
+        "builtBy": [
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/481465",
+                "href": "https://github.com/frangio",
+                "username": "frangio"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2432299",
+                "href": "https://github.com/Amxx",
+                "username": "Amxx"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/2530770",
+                "href": "https://github.com/nventuro",
+                "username": "nventuro"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/33379285",
+                "href": "https://github.com/ernestognw",
+                "username": "ernestognw"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/287189",
+                "href": "https://github.com/maraoz",
+                "username": "maraoz"
+            }
+        ],
+        "currentPeriodStars": 10,
+        "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
+        "forks": 11945,
+        "fullname": "OpenZeppelin/openzeppelin-contracts",
+        "language": "Solidity",
+        "languageColor": "#AA6746",
+        "name": "openzeppelin-contracts",
+        "stars": 25370,
+        "url": "https://github.com/OpenZeppelin/openzeppelin-contracts"
+    }
+]
