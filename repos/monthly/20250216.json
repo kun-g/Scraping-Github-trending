@@ -31,7 +31,7 @@
         ],
         "currentPeriodStars": 9389,
         "description": "DeepSeek Coder: Let the Code Write Itself",
-        "forks": 2171,
+        "forks": 2172,
         "fullname": "deepseek-ai/DeepSeek-Coder",
         "language": "Python",
         "languageColor": "#3572A5",
@@ -76,7 +76,7 @@
         "language": "Go",
         "languageColor": "#00ADD8",
         "name": "ollama",
-        "stars": 126336,
+        "stars": 126338,
         "url": "https://github.com/ollama/ollama"
     },
     {
@@ -111,7 +111,7 @@
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "open-webui",
-        "stars": 74619,
+        "stars": 74620,
         "url": "https://github.com/open-webui/open-webui"
     },
     {
@@ -169,6 +169,11 @@
                 "username": "gregpr07"
             },
             {
+                "avatar": "https://avatars.githubusercontent.com/u/78056833",
+                "href": "https://github.com/k-w-lee",
+                "username": "k-w-lee"
+            },
+            {
                 "avatar": "https://avatars.githubusercontent.com/u/3924224",
                 "href": "https://github.com/maticzav",
                 "username": "maticzav"
@@ -177,21 +182,16 @@
                 "avatar": "https://avatars.githubusercontent.com/u/29437782",
                 "href": "https://github.com/shyam-king",
                 "username": "shyam-king"
-            },
-            {
-                "avatar": "https://avatars.githubusercontent.com/u/83891205",
-                "href": "https://github.com/Malik-Talha",
-                "username": "Malik-Talha"
             }
         ],
         "currentPeriodStars": 14358,
         "description": "Make websites accessible for AI agents",
-        "forks": 2884,
+        "forks": 2885,
         "fullname": "browser-use/browser-use",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "browser-use",
-        "stars": 28688,
+        "stars": 28689,
         "url": "https://github.com/browser-use/browser-use"
     },
     {
@@ -231,7 +231,7 @@
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "anything-llm",
-        "stars": 36891,
+        "stars": 36893,
         "url": "https://github.com/Mintplex-Labs/anything-llm"
     },
     {
@@ -311,7 +311,7 @@
         "language": "C++",
         "languageColor": "#f34b7d",
         "name": "llama.cpp",
-        "stars": 74351,
+        "stars": 74352,
         "url": "https://github.com/ggml-org/llama.cpp"
     },
     {
@@ -381,12 +381,12 @@
         ],
         "currentPeriodStars": 8969,
         "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
-        "forks": 9863,
+        "forks": 9864,
         "fullname": "langgenius/dify",
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "dify",
-        "stars": 67502,
+        "stars": 67505,
         "url": "https://github.com/langgenius/dify"
     },
     {
@@ -454,9 +454,9 @@
                 "username": "190km"
             },
             {
-                "avatar": "https://avatars.githubusercontent.com/u/72890",
-                "href": "https://github.com/drudge",
-                "username": "drudge"
+                "avatar": "https://avatars.githubusercontent.com/u/58747968",
+                "href": "https://github.com/DrMxrcy",
+                "username": "DrMxrcy"
             }
         ],
         "currentPeriodStars": 6201,
@@ -466,7 +466,7 @@
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "dokploy",
-        "stars": 17042,
+        "stars": 17044,
         "url": "https://github.com/Dokploy/dokploy"
     },
     {
@@ -491,7 +491,7 @@
         "language": "Jupyter Notebook",
         "languageColor": "#DA5B0B",
         "name": "llm-course",
-        "stars": 46402,
+        "stars": 46403,
         "url": "https://github.com/mlabonne/llm-course"
     },
     {
@@ -571,7 +571,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "exo",
-        "stars": 22802,
+        "stars": 22803,
         "url": "https://github.com/exo-explore/exo"
     },
     {
@@ -606,12 +606,12 @@
         ],
         "currentPeriodStars": 7916,
         "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
-        "forks": 3234,
+        "forks": 3235,
         "fullname": "infiniflow/ragflow",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "ragflow",
-        "stars": 36189,
+        "stars": 36190,
         "url": "https://github.com/infiniflow/ragflow"
     },
     {
@@ -691,7 +691,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "vllm",
-        "stars": 37935,
+        "stars": 37937,
         "url": "https://github.com/vllm-project/vllm"
     },
     {
@@ -726,7 +726,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "minimind",
-        "stars": 8970,
+        "stars": 8971,
         "url": "https://github.com/jingyaogong/minimind"
     }
 ]
