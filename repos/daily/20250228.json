@@ -36,7 +36,7 @@
         "language": "C++",
         "languageColor": "#f34b7d",
         "name": "ggwave",
-        "stars": 5135,
+        "stars": 5146,
         "url": "https://github.com/ggerganov/ggwave"
     },
     {
@@ -76,7 +76,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "DiffSynth-Studio",
-        "stars": 7160,
+        "stars": 7165,
         "url": "https://github.com/modelscope/DiffSynth-Studio"
     },
     {
@@ -116,7 +116,7 @@
         "language": "C++",
         "languageColor": "#f34b7d",
         "name": "cutlass",
-        "stars": 6845,
+        "stars": 6847,
         "url": "https://github.com/NVIDIA/cutlass"
     },
     {
@@ -151,12 +151,12 @@
         ],
         "currentPeriodStars": 407,
         "description": "This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.",
-        "forks": 976,
+        "forks": 977,
         "fullname": "NirDiamant/GenAI_Agents",
         "language": "Jupyter Notebook",
         "languageColor": "#DA5B0B",
         "name": "GenAI_Agents",
-        "stars": 7447,
+        "stars": 7456,
         "url": "https://github.com/NirDiamant/GenAI_Agents"
     },
     {
@@ -196,7 +196,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "AstrBot",
-        "stars": 3784,
+        "stars": 3800,
         "url": "https://github.com/Soulter/AstrBot"
     },
     {
@@ -216,12 +216,12 @@
         ],
         "currentPeriodStars": 800,
         "description": "Toolkit for linearizing PDFs for LLM datasets/training",
-        "forks": 131,
+        "forks": 132,
         "fullname": "allenai/olmocr",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "olmocr",
-        "stars": 1923,
+        "stars": 1966,
         "url": "https://github.com/allenai/olmocr"
     },
     {
@@ -256,12 +256,12 @@
         ],
         "currentPeriodStars": 151,
         "description": "Building a modern alternative to Salesforce, powered by the community.",
-        "forks": 2765,
+        "forks": 2767,
         "fullname": "twentyhq/twenty",
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "twenty",
-        "stars": 26020,
+        "stars": 26028,
         "url": "https://github.com/twentyhq/twenty"
     },
     {
@@ -296,12 +296,12 @@
         ],
         "currentPeriodStars": 917,
         "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
-        "forks": 10879,
+        "forks": 10882,
         "fullname": "langgenius/dify",
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "dify",
-        "stars": 74655,
+        "stars": 74668,
         "url": "https://github.com/langgenius/dify"
     },
     {
@@ -317,26 +317,16 @@
                 "avatar": "https://avatars.githubusercontent.com/u/11801849",
                 "href": "https://github.com/Wauplin",
                 "username": "Wauplin"
-            },
-            {
-                "avatar": "https://avatars.githubusercontent.com/u/566610",
-                "href": "https://github.com/derekforeman",
-                "username": "derekforeman"
-            },
-            {
-                "avatar": "https://avatars.githubusercontent.com/u/19620375",
-                "href": "https://github.com/burtenshaw",
-                "username": "burtenshaw"
             }
         ],
         "currentPeriodStars": 186,
         "description": "The python library for real-time communication",
-        "forks": 82,
+        "forks": 83,
         "fullname": "freddyaboulton/fastrtc",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "fastrtc",
-        "stars": 863,
+        "stars": 873,
         "url": "https://github.com/freddyaboulton/fastrtc"
     },
     {
@@ -371,7 +361,7 @@
         "language": "Ruby",
         "languageColor": "#701516",
         "name": "maybe",
-        "stars": 41673,
+        "stars": 41677,
         "url": "https://github.com/maybe-finance/maybe"
     },
     {
@@ -401,12 +391,12 @@
         ],
         "currentPeriodStars": 466,
         "description": "An Open Source YouTube app for privacy",
-        "forks": 1032,
+        "forks": 1033,
         "fullname": "FreeTubeApp/FreeTube",
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "FreeTube",
-        "stars": 16437,
+        "stars": 16439,
         "url": "https://github.com/FreeTubeApp/FreeTube"
     }
 ]
