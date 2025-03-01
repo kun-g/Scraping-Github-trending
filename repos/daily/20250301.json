@@ -12,16 +12,21 @@
                 "avatar": "https://avatars.githubusercontent.com/u/44740048",
                 "href": "https://github.com/aman-17",
                 "username": "aman-17"
+            },
+            {
+                "avatar": "https://avatars.githubusercontent.com/u/13603748",
+                "href": "https://github.com/kyleclo",
+                "username": "kyleclo"
             }
         ],
         "currentPeriodStars": 1329,
         "description": "Toolkit for linearizing PDFs for LLM datasets/training",
-        "forks": 225,
+        "forks": 227,
         "fullname": "allenai/olmocr",
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "olmocr",
-        "stars": 3522,
+        "stars": 3583,
         "url": "https://github.com/allenai/olmocr"
     },
     {
@@ -61,7 +66,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "AstrBot",
-        "stars": 4184,
+        "stars": 4188,
         "url": "https://github.com/Soulter/AstrBot"
     },
     {
@@ -101,7 +106,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "vision-agent",
-        "stars": 3258,
+        "stars": 3265,
         "url": "https://github.com/landing-ai/vision-agent"
     },
     {
@@ -141,7 +146,7 @@
         "language": "Jupyter Notebook",
         "languageColor": "#DA5B0B",
         "name": "GenAI_Agents",
-        "stars": 7734,
+        "stars": 7737,
         "url": "https://github.com/NirDiamant/GenAI_Agents"
     },
     {
@@ -181,7 +186,7 @@
         "language": "C++",
         "languageColor": "#f34b7d",
         "name": "OrcaSlicer",
-        "stars": 8827,
+        "stars": 8829,
         "url": "https://github.com/SoftFever/OrcaSlicer"
     },
     {
@@ -216,7 +221,7 @@
         "language": "Python",
         "languageColor": "#3572A5",
         "name": "fastrtc",
-        "stars": 1235,
+        "stars": 1244,
         "url": "https://github.com/freddyaboulton/fastrtc"
     },
     {
@@ -256,7 +261,7 @@
         "language": "Rust",
         "languageColor": "#dea584",
         "name": "fish-shell",
-        "stars": 28405,
+        "stars": 28414,
         "url": "https://github.com/fish-shell/fish-shell"
     },
     {
@@ -296,7 +301,7 @@
         "language": "JavaScript",
         "languageColor": "#f1e05a",
         "name": "drawdb",
-        "stars": 25023,
+        "stars": 25029,
         "url": "https://github.com/drawdb-io/drawdb"
     },
     {
@@ -331,12 +336,12 @@
         ],
         "currentPeriodStars": 692,
         "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
-        "forks": 10981,
+        "forks": 10986,
         "fullname": "langgenius/dify",
         "language": "TypeScript",
         "languageColor": "#3178c6",
         "name": "dify",
-        "stars": 75357,
+        "stars": 75366,
         "url": "https://github.com/langgenius/dify"
     }
 ]
