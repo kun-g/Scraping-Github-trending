@@ -29,16 +29,16 @@
 <!-- START OF WEEKLY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
-| [FreeTube](https://github.com/FreeTubeApp/FreeTube) | An Open Source YouTube app for privacy |
-| [mastra](https://github.com/mastra-ai/mastra) | The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama. |
-| [dify](https://github.com/langgenius/dify) | Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. |
+| [ladybird](https://github.com/LadybirdBrowser/ladybird) | Truly independent web browser |
+| [ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | An AI Hedge Fund Team |
+| [olmocr](https://github.com/allenai/olmocr) | Toolkit for linearizing PDFs for LLM datasets/training |
 | [MetaGPT](https://github.com/geekan/MetaGPT) | 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming |
-| [GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) | This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems. |
-| [pandas-ai](https://github.com/sinaptik-ai/pandas-ai) | Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG. |
-| [drawdb](https://github.com/drawdb-io/drawdb) | Free, simple, and intuitive online database diagram editor and SQL generator. |
-| [open_deep_research](https://github.com/langchain-ai/open_deep_research) |  |
-| [pyspur](https://github.com/PySpur-Dev/pyspur) | AI Agent Builder in Python |
-| [xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) | Build your own AI friend |
+| [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience |
+| [ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) |  |
+| [hoppscotch](https://github.com/hoppscotch/hoppscotch) | Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia) |
+| [composio](https://github.com/ComposioHQ/composio) | Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling |
+| [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Master programming by recreating your favorite technologies from scratch. |
+| [DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio) | Enjoy the magic of Diffusion models! |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10
