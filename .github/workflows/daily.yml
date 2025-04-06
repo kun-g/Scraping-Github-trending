@@ -18,6 +18,8 @@ jobs:
     - name: Update README
       run: |-
         python scrape.py --period daily
+        python scrape.py --period weekly
+        python scrape.py --period monthly
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
