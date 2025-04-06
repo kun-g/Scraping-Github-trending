@@ -1,30 +1,21 @@
 from datetime import datetime
 import json, click
 
-from lib.fetch import fetch_repos, fetch_developers
+from lib.fetch import fetch_repos
 
 @click.command()
-@click.option("--fetch", default='repos', help="repos or developers")
 @click.option("--period", default='daily', help="daily, weekly or monthly")
-@click.option("--lang", help="Programming language filter")
-def scrape(fetch, period='daily', lang=None):
-    if fetch == 'repos':
-        func = fetch_repos
-    else:
-        func = fetch_developers
+def scrape(period='daily'):
+    func = fetch_repos
     time = datetime.now().strftime("%Y%m%d")
-    if lang:
-        filename = f'{fetch}/{period}/{lang}_{time}.json'
-        data = func(since=period, language=lang)
-    else:
-        filename = f'{fetch}/{period}/{time}.json'
-        data = func(since=period)
+
+    filename = f'repos/{period}/{time}.json'
+    data = func(since=period)
 
     with open(filename, 'w') as of:
         json.dump(data, of, indent=4, sort_keys=True)
 
-    if fetch == 'repos':
-        update_readme(period, data)
+    update_readme(period, data)
 
 N = 10
 def update_readme(period, repos):

@@ -1,133 +1,38 @@
-"""
-Fetch trending repositories and developers using github-trending-api
-"""
-
-from urllib.parse import quote as urlquote
-from typing import List, Optional
-
 import requests
+from bs4 import BeautifulSoup
 
-from .common import URL_REPOS, URL_DEVELOPERS
+BASE_URL = "https://github.com/trending?since="
+def fetch_repos(since="daily"):
+    url = f"{BASE_URL}{since}"
+    headers = {
+        "User-Agent": "Mozilla/5.0"
+    }
 
-from .trend_utils import (
-    check_language,
-    check_spoken_language_code,
-    check_since,
-    convert_language_name_to_param,
-)
+    response = requests.get(url, headers=headers)
+    if response.status_code != 200:
+        raise Exception(f"Failed to fetch data: {response.status_code}")
 
+    soup = BeautifulSoup(response.text, "html.parser")
+    repo_list = soup.find_all("article", class_="Box-row")
 
-def fetch_repos(
-    language: Optional[str] = "",
-    spoken_language_code: Optional[str] = "",
-    since: Optional[str] = "daily",
-) -> List[dict]:
-    """Fetch trending repositories on GitHub.
+    trending_repos = []
+    for repo in repo_list:
+        title_tag = repo.h2.a
+        repo_name = title_tag.get_text(strip=True).replace('\n', '').replace(' ', '')
+        repo_url = f"https://github.com{title_tag['href']}"
+        description_tag = repo.find("p", class_="col-9")
+        description = description_tag.get_text(strip=True) if description_tag else ""
+        language_tag = repo.find("span", itemprop="programmingLanguage")
+        language = language_tag.get_text(strip=True) if language_tag else "N/A"
+        stars_tag = repo.find("a", href=lambda x: x and x.endswith("/stargazers"))
+        stars = stars_tag.get_text(strip=True) if stars_tag else "0"
 
-    Parameters:
-        language (str, optional):  Filtering by language, eg: python, common-lisp
-        spoken_language_code (str, optional): The spoken language, eg: en for english
-        since (str, optional): The time range, choose from: [daily, weekly, monthly].
-                               Defaults to "daily".
+        trending_repos.append({
+            "name": repo_name,
+            "url": repo_url,
+            "description": description,
+            "language": language,
+            "stars": stars
+        })
 
-    Note:
-        spoken_language_code argument must be the language code ("en" and not
-        "english"). To convert language name to language code, use
-        convert_spoken_language_name_to_code().
-
-        Likewise, language argument must be the parameter value ("common-lisp"
-        not "Common Lisp"). To convert the name to param, use
-        convert_language_name_to_param().
-
-    Returns:
-        list(dict): A list of dictionaries containing information for each trending repository found
-
-    Raises:
-        ValueError: When any of the arguments are invalid
-
-    Examples:
-        ::
-
-            fetch_repos()
-            fetch_repos(language="python")
-            fetch_repos("C", "zh", "monthly")
-    """
-
-    # or has lower precedence than and
-    if (
-        not isinstance(language, (str, type(None)))
-        or language
-        and not check_language(language)
-    ):
-        raise ValueError(f"Invalid language argument: {language}")
-    language_param = urlquote(language, safe="+") if language else ""
-
-    if (
-        not isinstance(spoken_language_code, (str, type(None)))
-        or spoken_language_code
-        and not check_spoken_language_code(spoken_language_code)
-    ):
-        raise ValueError(
-            f"Invalid spoken_language_code argument: {spoken_language_code}"
-        )
-
-    if not isinstance(since, (str, type(None))) or since and not check_since(since):
-        raise ValueError(
-            f"Invalid since argument (must be 'daily', 'weekly' or 'monthly'): {since}"
-        )
-    since = since or "daily"
-
-    url: str = f"{URL_REPOS}?language={language_param}&since={since}&spoken_language_code={spoken_language_code}"
-
-    res = requests.get(url).json()
-    repos = []
-    for repo in res:
-        repo["fullname"] = f"{repo['author']}/{repo['name']}"
-
-        repos.append(repo)
-    return res
-
-
-def fetch_developers(
-    language: Optional[str] = "", since: Optional[str] = "daily"
-) -> List[dict]:
-    """Fetch trending developers on GitHub.
-
-    Parameters:
-        language (str, optional): The programming language, eg: python
-        since (str, optional): The time range, choose from [daily, weekly, monthly].
-                               Defaults to "daily".
-
-    Returns:
-        list(dict): A list of dictionaries containing information for each trending developer found
-
-    Raises:
-        ValueError: When any of the arguments are invalid
-
-    Examples:
-        ::
-
-            fetch_developers()
-            fetch_repos(language="python")
-            fetch_repos("C", since="monthly")
-    """
-
-    if (
-        not isinstance(language, (str, type(None)))
-        or language
-        and not check_language(language)
-    ):
-        raise ValueError(f"Invalid language argument: {language}")
-    language_param = urlquote(language, safe="+") if language else ""
-
-    if not isinstance(since, (str, type(None))) or since and not check_since(since):
-        raise ValueError(
-            f"Invalid since argument (must be 'daily', 'weekly' or 'monthly'): {since}"
-        )
-
-    url: str = (
-        f"{URL_DEVELOPERS}?language={language_param}&since={since}"
-    )
-
-    res = requests.get(url).json()
-    return res
+    return trending_repos
