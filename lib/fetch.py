@@ -25,7 +25,7 @@ def fetch_repos(since="daily"):
         language_tag = repo.find("span", itemprop="programmingLanguage")
         language = language_tag.get_text(strip=True) if language_tag else "N/A"
         stars_tag = repo.find("a", href=lambda x: x and x.endswith("/stargazers"))
-        stars = stars_tag.get_text(strip=True) if stars_tag else "0"
+        stars = stars_tag.get_text(strip=True).replace(',', '') if stars_tag else "0"
 
         trending_repos.append({
             "name": repo_name,
