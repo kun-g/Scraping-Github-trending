@@ -1,0 +1,100 @@
+[
+    {
+        "description": "Official inference framework for 1-bit LLMs",
+        "language": "C++",
+        "name": "microsoft/BitNet",
+        "stars": "14861",
+        "url": "https://github.com/microsoft/BitNet"
+    },
+    {
+        "description": "PDF scientific paper translation with preserved formats - \u57fa\u4e8e AI \u5b8c\u6574\u4fdd\u7559\u6392\u7248\u7684 PDF \u6587\u6863\u5168\u6587\u53cc\u8bed\u7ffb\u8bd1\uff0c\u652f\u6301 Google/DeepL/Ollama/OpenAI \u7b49\u670d\u52a1\uff0c\u63d0\u4f9b CLI/GUI/Docker/Zotero",
+        "language": "Python",
+        "name": "Byaidu/PDFMathTranslate",
+        "stars": "20714",
+        "url": "https://github.com/Byaidu/PDFMathTranslate"
+    },
+    {
+        "description": "A collective list of free APIs",
+        "language": "Python",
+        "name": "public-apis/public-apis",
+        "stars": "336698",
+        "url": "https://github.com/public-apis/public-apis"
+    },
+    {
+        "description": "\u7a0b\u5e8f\u5458\u5728\u5bb6\u505a\u996d\u65b9\u6cd5\u6307\u5357\u3002Programmer's guide about how to cook at home (Simplified Chinese only).",
+        "language": "Dockerfile",
+        "name": "Anduin2017/HowToCook",
+        "stars": "78483",
+        "url": "https://github.com/Anduin2017/HowToCook"
+    },
+    {
+        "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+        "language": "Python",
+        "name": "Shubhamsaboo/awesome-llm-apps",
+        "stars": "28848",
+        "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+    },
+    {
+        "description": "\ud83d\ude80 The fast, Pythonic way to build MCP servers and clients",
+        "language": "Python",
+        "name": "jlowin/fastmcp",
+        "stars": "6391",
+        "url": "https://github.com/jlowin/fastmcp"
+    },
+    {
+        "description": "\ud83d\udd25 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.",
+        "language": "Go",
+        "name": "1Panel-dev/1Panel",
+        "stars": "27645",
+        "url": "https://github.com/1Panel-dev/1Panel"
+    },
+    {
+        "description": "NocoBase is an extensibility-first, open-source no-code/low-code platform for building business applications and enterprise solutions.",
+        "language": "TypeScript",
+        "name": "nocobase/nocobase",
+        "stars": "14797",
+        "url": "https://github.com/nocobase/nocobase"
+    },
+    {
+        "description": "A feature-rich command-line audio/video downloader",
+        "language": "Python",
+        "name": "yt-dlp/yt-dlp",
+        "stars": "108346",
+        "url": "https://github.com/yt-dlp/yt-dlp"
+    },
+    {
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "language": "Python",
+        "name": "microsoft/markitdown",
+        "stars": "50430",
+        "url": "https://github.com/microsoft/markitdown"
+    },
+    {
+        "description": "AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+        "language": "TypeScript",
+        "name": "elie222/inbox-zero",
+        "stars": "6347",
+        "url": "https://github.com/elie222/inbox-zero"
+    },
+    {
+        "description": "Playing around \"Less Slow\" coding practices in C++ 20, C, CUDA, PTX, & Assembly, from numerics & SIMD to coroutines, ranges, exception handling, networking and user-space IO",
+        "language": "C++",
+        "name": "ashvardanian/less_slow.cpp",
+        "stars": "1284",
+        "url": "https://github.com/ashvardanian/less_slow.cpp"
+    },
+    {
+        "description": "OpenUI let's you describe UI using your imagination, then see it rendered live.",
+        "language": "TypeScript",
+        "name": "wandb/openui",
+        "stars": "20529",
+        "url": "https://github.com/wandb/openui"
+    },
+    {
+        "description": "Main repository for the Linera protocol",
+        "language": "Rust",
+        "name": "linera-io/linera-protocol",
+        "stars": "24137",
+        "url": "https://github.com/linera-io/linera-protocol"
+    }
+]
