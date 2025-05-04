@@ -1,0 +1,142 @@
+[
+    {
+        "description": "ACI.dev is the open source platform that connects your AI agents to 600+ tool integrations with multi-tenant auth, granular permissions, and access through direct function calling or a unified MCP server.",
+        "language": "Python",
+        "name": "aipotheosis-labs/aci",
+        "stars": "1884",
+        "url": "https://github.com/aipotheosis-labs/aci"
+    },
+    {
+        "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+        "language": "Rust",
+        "name": "unionlabs/union",
+        "stars": "56734",
+        "url": "https://github.com/unionlabs/union"
+    },
+    {
+        "description": "Atmosph\u00e8re is a work-in-progress customized firmware for the Nintendo Switch.",
+        "language": "C++",
+        "name": "Atmosphere-NX/Atmosphere",
+        "stars": "15917",
+        "url": "https://github.com/Atmosphere-NX/Atmosphere"
+    },
+    {
+        "description": "real time face swap and one-click video deepfake with only a single image",
+        "language": "Python",
+        "name": "hacksider/Deep-Live-Cam",
+        "stars": "59370",
+        "url": "https://github.com/hacksider/Deep-Live-Cam"
+    },
+    {
+        "description": "",
+        "language": "TypeScript",
+        "name": "cloudflare/mcp-server-cloudflare",
+        "stars": "1706",
+        "url": "https://github.com/cloudflare/mcp-server-cloudflare"
+    },
+    {
+        "description": "The official AWS SDK for Java - Version 2",
+        "language": "Java",
+        "name": "aws/aws-sdk-java-v2",
+        "stars": "2360",
+        "url": "https://github.com/aws/aws-sdk-java-v2"
+    },
+    {
+        "description": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",
+        "language": "PowerShell",
+        "name": "ChrisTitusTech/winutil",
+        "stars": "33597",
+        "url": "https://github.com/ChrisTitusTech/winutil"
+    },
+    {
+        "description": "Python - 100\u5929\u4ece\u65b0\u624b\u5230\u5927\u5e08",
+        "language": "Jupyter Notebook",
+        "name": "jackfrued/Python-100-Days",
+        "stars": "165651",
+        "url": "https://github.com/jackfrued/Python-100-Days"
+    },
+    {
+        "description": "An open source, self-hosted implementation of the Tailscale control server",
+        "language": "Go",
+        "name": "juanfont/headscale",
+        "stars": "27658",
+        "url": "https://github.com/juanfont/headscale"
+    },
+    {
+        "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+        "language": "Lua",
+        "name": "koreader/koreader",
+        "stars": "20912",
+        "url": "https://github.com/koreader/koreader"
+    },
+    {
+        "description": "A Git-compatible VCS that is both simple and powerful",
+        "language": "Rust",
+        "name": "jj-vcs/jj",
+        "stars": "13101",
+        "url": "https://github.com/jj-vcs/jj"
+    },
+    {
+        "description": "Experience email the way you want with 0 \u2013 the first open source email app that puts your privacy and safety first. Join the discord:https://discord.gg/0email",
+        "language": "TypeScript",
+        "name": "Mail-0/Zero",
+        "stars": "5683",
+        "url": "https://github.com/Mail-0/Zero"
+    },
+    {
+        "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+        "language": "Python",
+        "name": "donnemartin/system-design-primer",
+        "stars": "297955",
+        "url": "https://github.com/donnemartin/system-design-primer"
+    },
+    {
+        "description": "MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md)",
+        "language": "C++",
+        "name": "alibaba/MNN",
+        "stars": "10605",
+        "url": "https://github.com/alibaba/MNN"
+    },
+    {
+        "description": "Data validation using Python type hints",
+        "language": "Python",
+        "name": "pydantic/pydantic",
+        "stars": "23621",
+        "url": "https://github.com/pydantic/pydantic"
+    },
+    {
+        "description": "A cross-platform, OpenGL terminal emulator.",
+        "language": "Rust",
+        "name": "alacritty/alacritty",
+        "stars": "58616",
+        "url": "https://github.com/alacritty/alacritty"
+    },
+    {
+        "description": "A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.",
+        "language": "PHP",
+        "name": "filamentphp/filament",
+        "stars": "23184",
+        "url": "https://github.com/filamentphp/filament"
+    },
+    {
+        "description": "An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !",
+        "language": "HTML",
+        "name": "htr-tech/zphisher",
+        "stars": "12799",
+        "url": "https://github.com/htr-tech/zphisher"
+    },
+    {
+        "description": "A little fail-safe filesystem designed for microcontrollers",
+        "language": "C",
+        "name": "littlefs-project/littlefs",
+        "stars": "5746",
+        "url": "https://github.com/littlefs-project/littlefs"
+    },
+    {
+        "description": "sunnypilot is an open source driver assistance system. sunnypilot offers the user a unique driving experience for over 300 supported car makes and models with modified behaviors of driving assist engagements. sunnypilot complies with the safety policy from comma.ai's openpilot as accurately as possible.",
+        "language": "Python",
+        "name": "sunnypilot/sunnypilot",
+        "stars": "1130",
+        "url": "https://github.com/sunnypilot/sunnypilot"
+    }
+]
