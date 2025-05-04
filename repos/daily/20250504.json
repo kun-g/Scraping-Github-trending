@@ -3,14 +3,14 @@
         "description": "ACI.dev is the open source platform that connects your AI agents to 600+ tool integrations with multi-tenant auth, granular permissions, and access through direct function calling or a unified MCP server.",
         "language": "Python",
         "name": "aipotheosis-labs/aci",
-        "stars": "1884",
+        "stars": "1891",
         "url": "https://github.com/aipotheosis-labs/aci"
     },
     {
         "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
         "language": "Rust",
         "name": "unionlabs/union",
-        "stars": "56734",
+        "stars": "56740",
         "url": "https://github.com/unionlabs/union"
     },
     {
@@ -24,7 +24,7 @@
         "description": "real time face swap and one-click video deepfake with only a single image",
         "language": "Python",
         "name": "hacksider/Deep-Live-Cam",
-        "stars": "59370",
+        "stars": "59389",
         "url": "https://github.com/hacksider/Deep-Live-Cam"
     },
     {
@@ -52,14 +52,14 @@
         "description": "Python - 100\u5929\u4ece\u65b0\u624b\u5230\u5927\u5e08",
         "language": "Jupyter Notebook",
         "name": "jackfrued/Python-100-Days",
-        "stars": "165651",
+        "stars": "165653",
         "url": "https://github.com/jackfrued/Python-100-Days"
     },
     {
         "description": "An open source, self-hosted implementation of the Tailscale control server",
         "language": "Go",
         "name": "juanfont/headscale",
-        "stars": "27658",
+        "stars": "27659",
         "url": "https://github.com/juanfont/headscale"
     },
     {
@@ -73,14 +73,14 @@
         "description": "A Git-compatible VCS that is both simple and powerful",
         "language": "Rust",
         "name": "jj-vcs/jj",
-        "stars": "13101",
+        "stars": "13104",
         "url": "https://github.com/jj-vcs/jj"
     },
     {
         "description": "Experience email the way you want with 0 \u2013 the first open source email app that puts your privacy and safety first. Join the discord:https://discord.gg/0email",
         "language": "TypeScript",
         "name": "Mail-0/Zero",
-        "stars": "5683",
+        "stars": "5688",
         "url": "https://github.com/Mail-0/Zero"
     },
     {
@@ -94,21 +94,21 @@
         "description": "MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md)",
         "language": "C++",
         "name": "alibaba/MNN",
-        "stars": "10605",
+        "stars": "10606",
         "url": "https://github.com/alibaba/MNN"
     },
     {
         "description": "Data validation using Python type hints",
         "language": "Python",
         "name": "pydantic/pydantic",
-        "stars": "23621",
+        "stars": "23623",
         "url": "https://github.com/pydantic/pydantic"
     },
     {
         "description": "A cross-platform, OpenGL terminal emulator.",
         "language": "Rust",
         "name": "alacritty/alacritty",
-        "stars": "58616",
+        "stars": "58617",
         "url": "https://github.com/alacritty/alacritty"
     },
     {
@@ -122,7 +122,7 @@
         "description": "An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !",
         "language": "HTML",
         "name": "htr-tech/zphisher",
-        "stars": "12799",
+        "stars": "12801",
         "url": "https://github.com/htr-tech/zphisher"
     },
     {
@@ -136,7 +136,7 @@
         "description": "sunnypilot is an open source driver assistance system. sunnypilot offers the user a unique driving experience for over 300 supported car makes and models with modified behaviors of driving assist engagements. sunnypilot complies with the safety policy from comma.ai's openpilot as accurately as possible.",
         "language": "Python",
         "name": "sunnypilot/sunnypilot",
-        "stars": "1130",
+        "stars": "1132",
         "url": "https://github.com/sunnypilot/sunnypilot"
     }
 ]
