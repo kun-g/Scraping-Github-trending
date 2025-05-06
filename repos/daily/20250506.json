@@ -3,84 +3,84 @@
         "description": "real time face swap and one-click video deepfake with only a single image",
         "language": "Python",
         "name": "hacksider/Deep-Live-Cam",
-        "stars": "62590",
+        "stars": "62609",
         "url": "https://github.com/hacksider/Deep-Live-Cam"
     },
     {
         "description": "Truly independent web browser",
         "language": "C++",
         "name": "LadybirdBrowser/ladybird",
-        "stars": "38831",
+        "stars": "38835",
         "url": "https://github.com/LadybirdBrowser/ladybird"
     },
     {
         "description": "\ud83d\udcda Freely available programming books",
         "language": "HTML",
         "name": "EbookFoundation/free-programming-books",
-        "stars": "356560",
+        "stars": "356561",
         "url": "https://github.com/EbookFoundation/free-programming-books"
     },
     {
         "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
         "language": "Lua",
         "name": "koreader/koreader",
-        "stars": "21067",
+        "stars": "21071",
         "url": "https://github.com/koreader/koreader"
     },
     {
         "description": "10 Lessons to Get Started Building AI Agents",
         "language": "Jupyter Notebook",
         "name": "microsoft/ai-agents-for-beginners",
-        "stars": "18558",
+        "stars": "18560",
         "url": "https://github.com/microsoft/ai-agents-for-beginners"
     },
     {
         "description": "AI powered Kubernetes Assistant",
         "language": "Go",
         "name": "GoogleCloudPlatform/kubectl-ai",
-        "stars": "782",
+        "stars": "788",
         "url": "https://github.com/GoogleCloudPlatform/kubectl-ai"
     },
     {
         "description": "Atmosph\u00e8re is a work-in-progress customized firmware for the Nintendo Switch.",
         "language": "C++",
         "name": "Atmosphere-NX/Atmosphere",
-        "stars": "16042",
+        "stars": "16045",
         "url": "https://github.com/Atmosphere-NX/Atmosphere"
     },
     {
         "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
         "language": "Rust",
         "name": "unionlabs/union",
-        "stars": "57811",
+        "stars": "57815",
         "url": "https://github.com/unionlabs/union"
     },
     {
         "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
         "language": "Python",
         "name": "Shubhamsaboo/awesome-llm-apps",
-        "stars": "30820",
+        "stars": "30824",
         "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
     },
     {
         "description": "An open source, self-hosted implementation of the Tailscale control server",
         "language": "Go",
         "name": "juanfont/headscale",
-        "stars": "27986",
+        "stars": "27989",
         "url": "https://github.com/juanfont/headscale"
     },
     {
         "description": "ACI.dev is the open source platform that connects your AI agents to 600+ tool integrations with multi-tenant auth, granular permissions, and access through direct function calling or a unified MCP server.",
         "language": "Python",
         "name": "aipotheosis-labs/aci",
-        "stars": "2564",
+        "stars": "2572",
         "url": "https://github.com/aipotheosis-labs/aci"
     },
     {
         "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
         "language": "TypeScript",
         "name": "CapSoftware/Cap",
-        "stars": "8393",
+        "stars": "8403",
         "url": "https://github.com/CapSoftware/Cap"
     },
     {
@@ -94,35 +94,35 @@
         "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
         "language": "Python",
         "name": "donnemartin/system-design-primer",
-        "stars": "298363",
+        "stars": "298364",
         "url": "https://github.com/donnemartin/system-design-primer"
     },
     {
         "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
         "language": "Python",
         "name": "commaai/openpilot",
-        "stars": "53438",
+        "stars": "53439",
         "url": "https://github.com/commaai/openpilot"
     },
     {
         "description": "#1 Locally hosted web application that allows you to perform various operations on PDF files",
         "language": "Java",
         "name": "Stirling-Tools/Stirling-PDF",
-        "stars": "57747",
+        "stars": "57750",
         "url": "https://github.com/Stirling-Tools/Stirling-PDF"
     },
     {
         "description": "sunnypilot is an open source driver assistance system. sunnypilot offers the user a unique driving experience for over 300 supported car makes and models with modified behaviors of driving assist engagements. sunnypilot complies with the safety policy from comma.ai's openpilot as accurately as possible.",
         "language": "Python",
         "name": "sunnypilot/sunnypilot",
-        "stars": "1246",
+        "stars": "1249",
         "url": "https://github.com/sunnypilot/sunnypilot"
     },
     {
         "description": "\ud83c\udfe1 Open source home automation that puts local control and privacy first.",
         "language": "Python",
         "name": "home-assistant/core",
-        "stars": "78597",
+        "stars": "78601",
         "url": "https://github.com/home-assistant/core"
     }
 ]
