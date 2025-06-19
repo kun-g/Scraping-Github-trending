@@ -3,70 +3,70 @@
         "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
         "language": "Python",
         "name": "Shubhamsaboo/awesome-llm-apps",
-        "stars": "44206",
+        "stars": "44212",
         "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
     },
     {
         "description": "This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium based solutions do!",
         "language": "Python",
         "name": "jdepoix/youtube-transcript-api",
-        "stars": "5242",
+        "stars": "5248",
         "url": "https://github.com/jdepoix/youtube-transcript-api"
     },
     {
         "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
         "language": "TypeScript",
         "name": "menloresearch/jan",
-        "stars": "31660",
+        "stars": "31674",
         "url": "https://github.com/menloresearch/jan"
     },
     {
         "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
         "language": "Jupyter Notebook",
         "name": "anthropics/anthropic-cookbook",
-        "stars": "15580",
+        "stars": "15613",
         "url": "https://github.com/anthropics/anthropic-cookbook"
     },
     {
         "description": "\ud83e\udd17 LeRobot: Making AI for Robotics more accessible with end-to-end learning",
         "language": "Python",
         "name": "huggingface/lerobot",
-        "stars": "14949",
+        "stars": "14951",
         "url": "https://github.com/huggingface/lerobot"
     },
     {
         "description": "\u5065\u5eb7\u5b66\u4e60\u5230150\u5c81 - \u4eba\u4f53\u7cfb\u7edf\u8c03\u4f18\u4e0d\u5b8c\u5168\u6307\u5357",
         "language": "N/A",
         "name": "zijie0/HumanSystemOptimization",
-        "stars": "18269",
+        "stars": "18276",
         "url": "https://github.com/zijie0/HumanSystemOptimization"
     },
     {
         "description": "[CVPR 2025 Best Paper Award] VGGT: Visual Geometry Grounded Transformer",
         "language": "Python",
         "name": "facebookresearch/vggt",
-        "stars": "8408",
+        "stars": "8410",
         "url": "https://github.com/facebookresearch/vggt"
     },
     {
         "description": "\u4e00\u6b3e\u63d0\u793a\u8bcd\u4f18\u5316\u5668\uff0c\u52a9\u529b\u4e8e\u7f16\u5199\u9ad8\u8d28\u91cf\u7684\u63d0\u793a\u8bcd",
         "language": "TypeScript",
         "name": "linshenkx/prompt-optimizer",
-        "stars": "6738",
+        "stars": "6769",
         "url": "https://github.com/linshenkx/prompt-optimizer"
     },
     {
         "description": "TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.",
         "language": "Rust",
         "name": "tensorzero/tensorzero",
-        "stars": "7575",
+        "stars": "7578",
         "url": "https://github.com/tensorzero/tensorzero"
     },
     {
         "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
         "language": "Shell",
         "name": "anthropics/claude-code",
-        "stars": "13604",
+        "stars": "13609",
         "url": "https://github.com/anthropics/claude-code"
     },
     {
@@ -80,14 +80,14 @@
         "description": "",
         "language": "Batchfile",
         "name": "Flowseal/zapret-discord-youtube",
-        "stars": "13877",
+        "stars": "13878",
         "url": "https://github.com/Flowseal/zapret-discord-youtube"
     },
     {
         "description": "\ud83d\ude0e Awesome lists about all kinds of interesting topics",
         "language": "N/A",
         "name": "sindresorhus/awesome",
-        "stars": "369642",
+        "stars": "369654",
         "url": "https://github.com/sindresorhus/awesome"
     }
 ]
