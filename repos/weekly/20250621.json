@@ -3,42 +3,42 @@
         "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
         "language": "Python",
         "name": "Shubhamsaboo/awesome-llm-apps",
-        "stars": "44848",
+        "stars": "44852",
         "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
     },
     {
         "description": "Implementation of all RAG techniques in a simpler way",
         "language": "Jupyter Notebook",
         "name": "FareedKhan-dev/all-rag-techniques",
-        "stars": "5059",
+        "stars": "5061",
         "url": "https://github.com/FareedKhan-dev/all-rag-techniques"
     },
     {
         "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
         "language": "Jupyter Notebook",
         "name": "DataExpert-io/data-engineer-handbook",
-        "stars": "32658",
+        "stars": "32681",
         "url": "https://github.com/DataExpert-io/data-engineer-handbook"
     },
     {
         "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
         "language": "TypeScript",
         "name": "menloresearch/jan",
-        "stars": "32523",
+        "stars": "32525",
         "url": "https://github.com/menloresearch/jan"
     },
     {
         "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
         "language": "Jupyter Notebook",
         "name": "anthropics/anthropic-cookbook",
-        "stars": "16451",
+        "stars": "16456",
         "url": "https://github.com/anthropics/anthropic-cookbook"
     },
     {
         "description": "A web-based 3D CAD application for online model design and editing",
         "language": "TypeScript",
         "name": "xiangechen/chili3d",
-        "stars": "3162",
+        "stars": "3164",
         "url": "https://github.com/xiangechen/chili3d"
     },
     {
@@ -52,7 +52,7 @@
         "description": "[CVPR 2025 Best Paper Award] VGGT: Visual Geometry Grounded Transformer",
         "language": "Python",
         "name": "facebookresearch/vggt",
-        "stars": "8609",
+        "stars": "8610",
         "url": "https://github.com/facebookresearch/vggt"
     },
     {
@@ -73,42 +73,42 @@
         "description": "This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium based solutions do!",
         "language": "Python",
         "name": "jdepoix/youtube-transcript-api",
-        "stars": "5353",
+        "stars": "5354",
         "url": "https://github.com/jdepoix/youtube-transcript-api"
     },
     {
         "description": "DeepEP: an efficient expert-parallel communication library",
         "language": "Cuda",
         "name": "deepseek-ai/DeepEP",
-        "stars": "8149",
+        "stars": "8150",
         "url": "https://github.com/deepseek-ai/DeepEP"
     },
     {
         "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
         "language": "Shell",
         "name": "anthropics/claude-code",
-        "stars": "14007",
+        "stars": "14011",
         "url": "https://github.com/anthropics/claude-code"
     },
     {
         "description": "\ud83e\udddf The modern PHP app server",
         "language": "Go",
         "name": "php/frankenphp",
-        "stars": "8927",
+        "stars": "8928",
         "url": "https://github.com/php/frankenphp"
     },
     {
         "description": "Ever\u00ae Gauzy\u2122 - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co",
         "language": "TypeScript",
         "name": "ever-co/ever-gauzy",
-        "stars": "2836",
+        "stars": "2838",
         "url": "https://github.com/ever-co/ever-gauzy"
     },
     {
         "description": "TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.",
         "language": "Rust",
         "name": "tensorzero/tensorzero",
-        "stars": "7742",
+        "stars": "7745",
         "url": "https://github.com/tensorzero/tensorzero"
     }
 ]
