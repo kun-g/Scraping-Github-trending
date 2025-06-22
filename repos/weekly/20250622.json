@@ -3,28 +3,28 @@
         "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
         "language": "TypeScript",
         "name": "menloresearch/jan",
-        "stars": "32704",
+        "stars": "32707",
         "url": "https://github.com/menloresearch/jan"
     },
     {
         "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
         "language": "Jupyter Notebook",
         "name": "DataExpert-io/data-engineer-handbook",
-        "stars": "33263",
+        "stars": "33270",
         "url": "https://github.com/DataExpert-io/data-engineer-handbook"
     },
     {
         "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
         "language": "Jupyter Notebook",
         "name": "anthropics/anthropic-cookbook",
-        "stars": "16605",
+        "stars": "16607",
         "url": "https://github.com/anthropics/anthropic-cookbook"
     },
     {
         "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
         "language": "Python",
         "name": "Shubhamsaboo/awesome-llm-apps",
-        "stars": "45162",
+        "stars": "45168",
         "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
     },
     {
@@ -38,7 +38,7 @@
         "description": "Implementation of all RAG techniques in a simpler way",
         "language": "Jupyter Notebook",
         "name": "FareedKhan-dev/all-rag-techniques",
-        "stars": "5146",
+        "stars": "5148",
         "url": "https://github.com/FareedKhan-dev/all-rag-techniques"
     },
     {
@@ -52,7 +52,7 @@
         "description": "[CVPR 2025 Best Paper Award] VGGT: Visual Geometry Grounded Transformer",
         "language": "Python",
         "name": "facebookresearch/vggt",
-        "stars": "8686",
+        "stars": "8688",
         "url": "https://github.com/facebookresearch/vggt"
     },
     {
@@ -66,7 +66,7 @@
         "description": "This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium based solutions do!",
         "language": "Python",
         "name": "jdepoix/youtube-transcript-api",
-        "stars": "5388",
+        "stars": "5390",
         "url": "https://github.com/jdepoix/youtube-transcript-api"
     },
     {
@@ -87,21 +87,21 @@
         "description": "A scrollable-tiling Wayland compositor.",
         "language": "Rust",
         "name": "YaLTeR/niri",
-        "stars": "8990",
+        "stars": "8989",
         "url": "https://github.com/YaLTeR/niri"
     },
     {
         "description": "Ever\u00ae Gauzy\u2122 - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co",
         "language": "TypeScript",
         "name": "ever-co/ever-gauzy",
-        "stars": "2889",
+        "stars": "2890",
         "url": "https://github.com/ever-co/ever-gauzy"
     },
     {
         "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
         "language": "Shell",
         "name": "anthropics/claude-code",
-        "stars": "14177",
+        "stars": "14180",
         "url": "https://github.com/anthropics/claude-code"
     }
 ]
