@@ -1,0 +1,107 @@
+[
+    {
+        "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
+        "language": "TypeScript",
+        "name": "menloresearch/jan",
+        "stars": "32704",
+        "url": "https://github.com/menloresearch/jan"
+    },
+    {
+        "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
+        "language": "Jupyter Notebook",
+        "name": "DataExpert-io/data-engineer-handbook",
+        "stars": "33263",
+        "url": "https://github.com/DataExpert-io/data-engineer-handbook"
+    },
+    {
+        "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+        "language": "Jupyter Notebook",
+        "name": "anthropics/anthropic-cookbook",
+        "stars": "16605",
+        "url": "https://github.com/anthropics/anthropic-cookbook"
+    },
+    {
+        "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+        "language": "Python",
+        "name": "Shubhamsaboo/awesome-llm-apps",
+        "stars": "45162",
+        "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+    },
+    {
+        "description": "\u4e00\u6b3e\u63d0\u793a\u8bcd\u4f18\u5316\u5668\uff0c\u52a9\u529b\u4e8e\u7f16\u5199\u9ad8\u8d28\u91cf\u7684\u63d0\u793a\u8bcd",
+        "language": "TypeScript",
+        "name": "linshenkx/prompt-optimizer",
+        "stars": "7375",
+        "url": "https://github.com/linshenkx/prompt-optimizer"
+    },
+    {
+        "description": "Implementation of all RAG techniques in a simpler way",
+        "language": "Jupyter Notebook",
+        "name": "FareedKhan-dev/all-rag-techniques",
+        "stars": "5146",
+        "url": "https://github.com/FareedKhan-dev/all-rag-techniques"
+    },
+    {
+        "description": "",
+        "language": "Batchfile",
+        "name": "Flowseal/zapret-discord-youtube",
+        "stars": "14167",
+        "url": "https://github.com/Flowseal/zapret-discord-youtube"
+    },
+    {
+        "description": "[CVPR 2025 Best Paper Award] VGGT: Visual Geometry Grounded Transformer",
+        "language": "Python",
+        "name": "facebookresearch/vggt",
+        "stars": "8686",
+        "url": "https://github.com/facebookresearch/vggt"
+    },
+    {
+        "description": "\ud83e\udd17 LeRobot: Making AI for Robotics more accessible with end-to-end learning",
+        "language": "Python",
+        "name": "huggingface/lerobot",
+        "stars": "15109",
+        "url": "https://github.com/huggingface/lerobot"
+    },
+    {
+        "description": "This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium based solutions do!",
+        "language": "Python",
+        "name": "jdepoix/youtube-transcript-api",
+        "stars": "5388",
+        "url": "https://github.com/jdepoix/youtube-transcript-api"
+    },
+    {
+        "description": "\ud83e\udddf The modern PHP app server",
+        "language": "Go",
+        "name": "php/frankenphp",
+        "stars": "9020",
+        "url": "https://github.com/php/frankenphp"
+    },
+    {
+        "description": "DeepEP: an efficient expert-parallel communication library",
+        "language": "Cuda",
+        "name": "deepseek-ai/DeepEP",
+        "stars": "8165",
+        "url": "https://github.com/deepseek-ai/DeepEP"
+    },
+    {
+        "description": "A scrollable-tiling Wayland compositor.",
+        "language": "Rust",
+        "name": "YaLTeR/niri",
+        "stars": "8990",
+        "url": "https://github.com/YaLTeR/niri"
+    },
+    {
+        "description": "Ever\u00ae Gauzy\u2122 - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co",
+        "language": "TypeScript",
+        "name": "ever-co/ever-gauzy",
+        "stars": "2889",
+        "url": "https://github.com/ever-co/ever-gauzy"
+    },
+    {
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "language": "Shell",
+        "name": "anthropics/claude-code",
+        "stars": "14177",
+        "url": "https://github.com/anthropics/claude-code"
+    }
+]
