@@ -1,0 +1,72 @@
+[
+    {
+        "description": "Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.",
+        "language": "TypeScript",
+        "name": "musistudio/claude-code-router",
+        "stars": "2083",
+        "url": "https://github.com/musistudio/claude-code-router"
+    },
+    {
+        "description": "Telegram for Android source",
+        "language": "Java",
+        "name": "DrKLO/Telegram",
+        "stars": "26822",
+        "url": "https://github.com/DrKLO/Telegram"
+    },
+    {
+        "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
+        "language": "Jupyter Notebook",
+        "name": "DataExpert-io/data-engineer-handbook",
+        "stars": "34211",
+        "url": "https://github.com/DataExpert-io/data-engineer-handbook"
+    },
+    {
+        "description": "Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase",
+        "language": "Python",
+        "name": "cyclotruc/gitingest",
+        "stars": "10329",
+        "url": "https://github.com/cyclotruc/gitingest"
+    },
+    {
+        "description": "We all edit.",
+        "language": "Rust",
+        "name": "microsoft/edit",
+        "stars": "10895",
+        "url": "https://github.com/microsoft/edit"
+    },
+    {
+        "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+        "language": "Jupyter Notebook",
+        "name": "patchy631/ai-engineering-hub",
+        "stars": "12850",
+        "url": "https://github.com/patchy631/ai-engineering-hub"
+    },
+    {
+        "description": "A cross-platform, reimplementation of Notepad++",
+        "language": "C++",
+        "name": "dail8859/NotepadNext",
+        "stars": "11514",
+        "url": "https://github.com/dail8859/NotepadNext"
+    },
+    {
+        "description": "Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.",
+        "language": "TypeScript",
+        "name": "mui/base-ui",
+        "stars": "4123",
+        "url": "https://github.com/mui/base-ui"
+    },
+    {
+        "description": "A new markup-based typesetting system that is powerful and easy to learn.",
+        "language": "Rust",
+        "name": "typst/typst",
+        "stars": "43329",
+        "url": "https://github.com/typst/typst"
+    },
+    {
+        "description": "The open source Zapier alternative. Build workflow automation without spending time and money.",
+        "language": "JavaScript",
+        "name": "automatisch/automatisch",
+        "stars": "12104",
+        "url": "https://github.com/automatisch/automatisch"
+    }
+]
