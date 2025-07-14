@@ -3,84 +3,84 @@
         "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
         "language": "PowerShell",
         "name": "anthropics/claude-code",
-        "stars": "20095",
+        "stars": "20129",
         "url": "https://github.com/anthropics/claude-code"
     },
     {
         "description": "Next.js Commerce",
         "language": "TypeScript",
         "name": "vercel/commerce",
-        "stars": "12834",
+        "stars": "12843",
         "url": "https://github.com/vercel/commerce"
     },
     {
         "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
         "language": "Rust",
         "name": "block/goose",
-        "stars": "16246",
+        "stars": "16256",
         "url": "https://github.com/block/goose"
     },
     {
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "language": "N/A",
         "name": "trimstray/the-book-of-secret-knowledge",
-        "stars": "177362",
+        "stars": "177375",
         "url": "https://github.com/trimstray/the-book-of-secret-knowledge"
     },
     {
         "description": "CUDA Templates for Linear Algebra Subroutines",
         "language": "C++",
         "name": "NVIDIA/cutlass",
-        "stars": "7923",
+        "stars": "7925",
         "url": "https://github.com/NVIDIA/cutlass"
     },
     {
         "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
         "language": "HTML",
         "name": "ripienaar/free-for-dev",
-        "stars": "104679",
+        "stars": "104693",
         "url": "https://github.com/ripienaar/free-for-dev"
     },
     {
         "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
         "language": "JavaScript",
         "name": "gorhill/uBlock",
-        "stars": "55644",
+        "stars": "55653",
         "url": "https://github.com/gorhill/uBlock"
     },
     {
         "description": "This repository contains a 90-day cybersecurity study plan, along with resources and materials for learning various cybersecurity concepts and technologies. The plan is organized into daily tasks, covering topics such as Network+, Security+, Linux, Python, Traffic Analysis, Git, ELK, AWS, Azure, and Hacking. The repository also includes a `LEARN.md",
         "language": "N/A",
         "name": "farhanashrafdev/90DaysOfCyberSecurity",
-        "stars": "9713",
+        "stars": "9727",
         "url": "https://github.com/farhanashrafdev/90DaysOfCyberSecurity"
     },
     {
         "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped withhttps://github.com/microsoft/RD-Agentto automate R&D process.",
         "language": "Python",
         "name": "microsoft/qlib",
-        "stars": "26693",
+        "stars": "26697",
         "url": "https://github.com/microsoft/qlib"
     },
     {
         "description": "The AI Browser Automation Framework",
         "language": "TypeScript",
         "name": "browserbase/stagehand",
-        "stars": "13707",
+        "stars": "13717",
         "url": "https://github.com/browserbase/stagehand"
     },
     {
         "description": "Python library for Agentic Document Extraction from LandingAI",
         "language": "Python",
         "name": "landing-ai/agentic-doc",
-        "stars": "1116",
+        "stars": "1118",
         "url": "https://github.com/landing-ai/agentic-doc"
     },
     {
         "description": "Build Real-Time Knowledge Graphs for AI Agents",
         "language": "Python",
         "name": "getzep/graphiti",
-        "stars": "12945",
+        "stars": "12951",
         "url": "https://github.com/getzep/graphiti"
     }
 ]
