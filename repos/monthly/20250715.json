@@ -3,35 +3,35 @@
         "description": "\u5c0f\u7ea2\u4e66\u7b14\u8bb0 | \u8bc4\u8bba\u722c\u866b\u3001\u6296\u97f3\u89c6\u9891 | \u8bc4\u8bba\u722c\u866b\u3001\u5feb\u624b\u89c6\u9891 | \u8bc4\u8bba\u722c\u866b\u3001B \u7ad9\u89c6\u9891 \uff5c \u8bc4\u8bba\u722c\u866b\u3001\u5fae\u535a\u5e16\u5b50 \uff5c \u8bc4\u8bba\u722c\u866b\u3001\u767e\u5ea6\u8d34\u5427\u5e16\u5b50 \uff5c \u767e\u5ea6\u8d34\u5427\u8bc4\u8bba\u56de\u590d\u722c\u866b | \u77e5\u4e4e\u95ee\u7b54\u6587\u7ae0\uff5c\u8bc4\u8bba\u722c\u866b",
         "language": "Python",
         "name": "NanmiCoder/MediaCrawler",
-        "stars": "31347",
+        "stars": "31358",
         "url": "https://github.com/NanmiCoder/MediaCrawler"
     },
     {
         "description": "An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics \u2014 featuring node-based procedural editing",
         "language": "Rust",
         "name": "GraphiteEditor/Graphite",
-        "stars": "19182",
+        "stars": "19185",
         "url": "https://github.com/GraphiteEditor/Graphite"
     },
     {
         "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
         "language": "TypeScript",
         "name": "menloresearch/jan",
-        "stars": "34782",
+        "stars": "34783",
         "url": "https://github.com/menloresearch/jan"
     },
     {
         "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
         "language": "Jupyter Notebook",
         "name": "DataExpert-io/data-engineer-handbook",
-        "stars": "35355",
+        "stars": "35356",
         "url": "https://github.com/DataExpert-io/data-engineer-handbook"
     },
     {
         "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
         "language": "Go",
         "name": "googleapis/genai-toolbox",
-        "stars": "6519",
+        "stars": "6527",
         "url": "https://github.com/googleapis/genai-toolbox"
     },
     {
@@ -45,35 +45,35 @@
         "description": "Building a modern alternative to Salesforce, powered by the community.",
         "language": "TypeScript",
         "name": "twentyhq/twenty",
-        "stars": "33886",
+        "stars": "33887",
         "url": "https://github.com/twentyhq/twenty"
     },
     {
         "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
         "language": "PowerShell",
         "name": "anthropics/claude-code",
-        "stars": "22048",
+        "stars": "22108",
         "url": "https://github.com/anthropics/claude-code"
     },
     {
         "description": "\ud83d\udcda \u4ece\u96f6\u5f00\u59cb\u7684\u5927\u8bed\u8a00\u6a21\u578b\u539f\u7406\u4e0e\u5b9e\u8df5\u6559\u7a0b",
         "language": "Jupyter Notebook",
         "name": "datawhalechina/happy-llm",
-        "stars": "11187",
+        "stars": "11195",
         "url": "https://github.com/datawhalechina/happy-llm"
     },
     {
         "description": "Agent framework for the JVM. Pronounced Em-BAY-bel /\u025bm\u02c8be\u026ab\u0259l/",
         "language": "Kotlin",
         "name": "embabel/embabel-agent",
-        "stars": "2131",
+        "stars": "2132",
         "url": "https://github.com/embabel/embabel-agent"
     },
     {
         "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
         "language": "TypeScript",
         "name": "humanlayer/12-factor-agents",
-        "stars": "8801",
+        "stars": "8809",
         "url": "https://github.com/humanlayer/12-factor-agents"
     },
     {
@@ -87,21 +87,21 @@
         "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
         "language": "Jupyter Notebook",
         "name": "anthropics/anthropic-cookbook",
-        "stars": "18147",
+        "stars": "18148",
         "url": "https://github.com/anthropics/anthropic-cookbook"
     },
     {
         "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
         "language": "HTML",
         "name": "microsoft/ML-For-Beginners",
-        "stars": "74641",
+        "stars": "74642",
         "url": "https://github.com/microsoft/ML-For-Beginners"
     },
     {
         "description": "Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social",
         "language": "TypeScript",
         "name": "Kilo-Org/kilocode",
-        "stars": "4516",
+        "stars": "4520",
         "url": "https://github.com/Kilo-Org/kilocode"
     },
     {
@@ -115,21 +115,21 @@
         "description": "\u4e00\u6b3e\u63d0\u793a\u8bcd\u4f18\u5316\u5668\uff0c\u52a9\u529b\u4e8e\u7f16\u5199\u9ad8\u8d28\u91cf\u7684\u63d0\u793a\u8bcd",
         "language": "TypeScript",
         "name": "linshenkx/prompt-optimizer",
-        "stars": "9714",
+        "stars": "9715",
         "url": "https://github.com/linshenkx/prompt-optimizer"
     },
     {
         "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
         "language": "Python",
         "name": "stanford-oval/storm",
-        "stars": "26584",
+        "stars": "26585",
         "url": "https://github.com/stanford-oval/storm"
     },
     {
         "description": "Gemini polling proxy service \uff08gemini\u8f6e\u8be2\u4ee3\u7406\u670d\u52a1\uff09",
         "language": "Python",
         "name": "snailyp/gemini-balance",
-        "stars": "3190",
+        "stars": "3193",
         "url": "https://github.com/snailyp/gemini-balance"
     }
 ]

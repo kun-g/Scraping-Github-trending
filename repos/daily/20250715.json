@@ -3,105 +3,105 @@
         "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
         "language": "PowerShell",
         "name": "anthropics/claude-code",
-        "stars": "22048",
+        "stars": "22108",
         "url": "https://github.com/anthropics/claude-code"
     },
     {
         "description": "Python tool for converting files and office documents to Markdown.",
         "language": "Python",
         "name": "microsoft/markitdown",
-        "stars": "61191",
+        "stars": "61220",
         "url": "https://github.com/microsoft/markitdown"
     },
     {
         "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
         "language": "JavaScript",
         "name": "gorhill/uBlock",
-        "stars": "55963",
+        "stars": "55971",
         "url": "https://github.com/gorhill/uBlock"
     },
     {
         "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped withhttps://github.com/microsoft/RD-Agentto automate R&D process.",
         "language": "Python",
         "name": "microsoft/qlib",
-        "stars": "26933",
+        "stars": "26942",
         "url": "https://github.com/microsoft/qlib"
     },
     {
         "description": "Next.js Commerce",
         "language": "TypeScript",
         "name": "vercel/commerce",
-        "stars": "13112",
+        "stars": "13117",
         "url": "https://github.com/vercel/commerce"
     },
     {
         "description": "AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need",
         "language": "Python",
         "name": "mindsdb/mindsdb",
-        "stars": "34106",
+        "stars": "34122",
         "url": "https://github.com/mindsdb/mindsdb"
     },
     {
         "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
         "language": "HTML",
         "name": "ripienaar/free-for-dev",
-        "stars": "105352",
+        "stars": "105375",
         "url": "https://github.com/ripienaar/free-for-dev"
     },
     {
         "description": "Virtual Machine for the Web",
         "language": "JavaScript",
         "name": "leaningtech/webvm",
-        "stars": "14919",
+        "stars": "14934",
         "url": "https://github.com/leaningtech/webvm"
     },
     {
         "description": "Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more!",
         "language": "Python",
         "name": "OpenPipe/ART",
-        "stars": "1822",
+        "stars": "1847",
         "url": "https://github.com/OpenPipe/ART"
     },
     {
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "language": "N/A",
         "name": "trimstray/the-book-of-secret-knowledge",
-        "stars": "177867",
+        "stars": "177882",
         "url": "https://github.com/trimstray/the-book-of-secret-knowledge"
     },
     {
         "description": "Use Wireless Android Auto with a car that supports only wired Android Auto using a Raspberry Pi.",
         "language": "C++",
         "name": "nisargjhaveri/WirelessAndroidAutoDongle",
-        "stars": "1518",
+        "stars": "1525",
         "url": "https://github.com/nisargjhaveri/WirelessAndroidAutoDongle"
     },
     {
         "description": "Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.",
         "language": "TypeScript",
         "name": "musistudio/claude-code-router",
-        "stars": "4043",
+        "stars": "4066",
         "url": "https://github.com/musistudio/claude-code-router"
     },
     {
         "description": "KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also create recipes and add items based on what you want to cook.",
         "language": "Dart",
         "name": "TomBursch/kitchenowl",
-        "stars": "2132",
+        "stars": "2140",
         "url": "https://github.com/TomBursch/kitchenowl"
     },
     {
         "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
         "language": "Python",
         "name": "comfyanonymous/ComfyUI",
-        "stars": "82499",
+        "stars": "82506",
         "url": "https://github.com/comfyanonymous/ComfyUI"
     },
     {
         "description": "Build Real-Time Knowledge Graphs for AI Agents",
         "language": "Python",
         "name": "getzep/graphiti",
-        "stars": "13270",
+        "stars": "13279",
         "url": "https://github.com/getzep/graphiti"
     }
 ]
