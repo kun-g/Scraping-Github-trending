@@ -1,0 +1,65 @@
+[
+    {
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "language": "Python",
+        "name": "microsoft/markitdown",
+        "stars": "67822",
+        "url": "https://github.com/microsoft/markitdown"
+    },
+    {
+        "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
+        "language": "JavaScript",
+        "name": "gorhill/uBlock",
+        "stars": "56364",
+        "url": "https://github.com/gorhill/uBlock"
+    },
+    {
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "language": "PowerShell",
+        "name": "anthropics/claude-code",
+        "stars": "24423",
+        "url": "https://github.com/anthropics/claude-code"
+    },
+    {
+        "description": "Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.",
+        "language": "TypeScript",
+        "name": "musistudio/claude-code-router",
+        "stars": "5819",
+        "url": "https://github.com/musistudio/claude-code-router"
+    },
+    {
+        "description": "\ud83c\udf10 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailorhttps://arxiv.org/pdf/2507.02592",
+        "language": "Python",
+        "name": "Alibaba-NLP/WebAgent",
+        "stars": "4590",
+        "url": "https://github.com/Alibaba-NLP/WebAgent"
+    },
+    {
+        "description": "Build Real-Time Knowledge Graphs for AI Agents",
+        "language": "Python",
+        "name": "getzep/graphiti",
+        "stars": "14176",
+        "url": "https://github.com/getzep/graphiti"
+    },
+    {
+        "description": "Investment Research for Everyone, Everywhere.",
+        "language": "Python",
+        "name": "OpenBB-finance/OpenBB",
+        "stars": "43179",
+        "url": "https://github.com/OpenBB-finance/OpenBB"
+    },
+    {
+        "description": "Biomni: a general-purpose biomedical AI agent",
+        "language": "Python",
+        "name": "snap-stanford/Biomni",
+        "stars": "1766",
+        "url": "https://github.com/snap-stanford/Biomni"
+    },
+    {
+        "description": "OpenTelemetry Go API and SDK",
+        "language": "Go",
+        "name": "open-telemetry/opentelemetry-go",
+        "stars": "5967",
+        "url": "https://github.com/open-telemetry/opentelemetry-go"
+    }
+]
