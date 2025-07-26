@@ -1,0 +1,93 @@
+[
+    {
+        "description": "Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.",
+        "language": "Python",
+        "name": "QwenLM/Qwen3-Coder",
+        "stars": "8839",
+        "url": "https://github.com/QwenLM/Qwen3-Coder"
+    },
+    {
+        "description": "A self hosted virtual browser that runs in docker and uses WebRTC.",
+        "language": "Go",
+        "name": "m1k1o/neko",
+        "stars": "13604",
+        "url": "https://github.com/m1k1o/neko"
+    },
+    {
+        "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+        "language": "Rust",
+        "name": "juspay/hyperswitch",
+        "stars": "22744",
+        "url": "https://github.com/juspay/hyperswitch"
+    },
+    {
+        "description": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
+        "language": "OCaml",
+        "name": "semgrep/semgrep",
+        "stars": "12254",
+        "url": "https://github.com/semgrep/semgrep"
+    },
+    {
+        "description": "Investment Research for Everyone, Everywhere.",
+        "language": "Python",
+        "name": "OpenBB-finance/OpenBB",
+        "stars": "46069",
+        "url": "https://github.com/OpenBB-finance/OpenBB"
+    },
+    {
+        "description": "Open Source HR and Payroll Software",
+        "language": "Python",
+        "name": "frappe/hrms",
+        "stars": "4221",
+        "url": "https://github.com/frappe/hrms"
+    },
+    {
+        "description": "TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.",
+        "language": "Rust",
+        "name": "tensorzero/tensorzero",
+        "stars": "8926",
+        "url": "https://github.com/tensorzero/tensorzero"
+    },
+    {
+        "description": "React Native's Animated library reimplemented",
+        "language": "TypeScript",
+        "name": "software-mansion/react-native-reanimated",
+        "stars": "9939",
+        "url": "https://github.com/software-mansion/react-native-reanimated"
+    },
+    {
+        "description": "A curated list of modern Generative Artificial Intelligence projects and services",
+        "language": "N/A",
+        "name": "steven2358/awesome-generative-ai",
+        "stars": "9404",
+        "url": "https://github.com/steven2358/awesome-generative-ai"
+    },
+    {
+        "description": "Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.",
+        "language": "TypeScript",
+        "name": "srbhr/Resume-Matcher",
+        "stars": "19674",
+        "url": "https://github.com/srbhr/Resume-Matcher"
+    },
+    {
+        "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing \u2014 fully self-hosted, dev-friendly, and free from monthly fees. Join the discord:https://discord.gg/asfXzBUhZr",
+        "language": "Go",
+        "name": "aaPanel/BillionMail",
+        "stars": "7707",
+        "url": "https://github.com/aaPanel/BillionMail"
+    },
+    {
+        "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+        "language": "Go",
+        "name": "moby/moby",
+        "stars": "70300",
+        "url": "https://github.com/moby/moby"
+    },
+    {
+        "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+        "language": "MDX",
+        "name": "twbs/bootstrap",
+        "stars": "172658",
+        "url": "https://github.com/twbs/bootstrap"
+    }
+]
