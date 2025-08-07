@@ -3,14 +3,14 @@
         "description": "Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps",
         "language": "Python",
         "name": "9001/copyparty",
-        "stars": "21260",
+        "stars": "21266",
         "url": "https://github.com/9001/copyparty"
     },
     {
         "description": "Free, local, open-source AI app builder \u2728 v0 / lovable / Bolt alternative \ud83c\udf1f Star if you like it!",
         "language": "TypeScript",
         "name": "dyad-sh/dyad",
-        "stars": "10704",
+        "stars": "10727",
         "url": "https://github.com/dyad-sh/dyad"
     },
     {
@@ -24,7 +24,7 @@
         "description": "This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.",
         "language": "Python",
         "name": "microsoft/mcp-for-beginners",
-        "stars": "7648",
+        "stars": "7654",
         "url": "https://github.com/microsoft/mcp-for-beginners"
     },
     {
@@ -38,14 +38,14 @@
         "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
         "language": "Python",
         "name": "Shubhamsaboo/awesome-llm-apps",
-        "stars": "56006",
+        "stars": "56016",
         "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
     },
     {
         "description": "A powerful little TUI framework \ud83c\udfd7",
         "language": "Go",
         "name": "charmbracelet/bubbletea",
-        "stars": "34007",
+        "stars": "34008",
         "url": "https://github.com/charmbracelet/bubbletea"
     },
     {
@@ -66,14 +66,14 @@
         "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
         "language": "Rust",
         "name": "rustdesk/rustdesk",
-        "stars": "95216",
+        "stars": "95217",
         "url": "https://github.com/rustdesk/rustdesk"
     },
     {
         "description": "Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation.",
         "language": "C++",
         "name": "eclipse-sumo/sumo",
-        "stars": "3526",
+        "stars": "3527",
         "url": "https://github.com/eclipse-sumo/sumo"
     },
     {
@@ -87,14 +87,14 @@
         "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
         "language": "Python",
         "name": "comfyanonymous/ComfyUI",
-        "stars": "84644",
+        "stars": "84647",
         "url": "https://github.com/comfyanonymous/ComfyUI"
     },
     {
         "description": "Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.",
         "language": "TypeScript",
         "name": "musistudio/claude-code-router",
-        "stars": "10727",
+        "stars": "10734",
         "url": "https://github.com/musistudio/claude-code-router"
     }
 ]
