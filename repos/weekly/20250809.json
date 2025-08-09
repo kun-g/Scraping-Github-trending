@@ -1,0 +1,93 @@
+[
+    {
+        "description": "Free, local, open-source AI app builder \u2728 v0 / lovable / Bolt alternative \ud83c\udf1f Star if you like it!",
+        "language": "TypeScript",
+        "name": "dyad-sh/dyad",
+        "stars": "11687",
+        "url": "https://github.com/dyad-sh/dyad"
+    },
+    {
+        "description": "Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps",
+        "language": "Python",
+        "name": "9001/copyparty",
+        "stars": "22050",
+        "url": "https://github.com/9001/copyparty"
+    },
+    {
+        "description": "A high-performance algorithmic trading platform and event-driven backtester",
+        "language": "Rust",
+        "name": "nautechsystems/nautilus_trader",
+        "stars": "13100",
+        "url": "https://github.com/nautechsystems/nautilus_trader"
+    },
+    {
+        "description": "Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.",
+        "language": "Go",
+        "name": "ollama/ollama",
+        "stars": "149601",
+        "url": "https://github.com/ollama/ollama"
+    },
+    {
+        "description": "A local-first personal finance app",
+        "language": "TypeScript",
+        "name": "actualbudget/actual",
+        "stars": "21342",
+        "url": "https://github.com/actualbudget/actual"
+    },
+    {
+        "description": "This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.",
+        "language": "Python",
+        "name": "microsoft/mcp-for-beginners",
+        "stars": "8196",
+        "url": "https://github.com/microsoft/mcp-for-beginners"
+    },
+    {
+        "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+        "language": "Python",
+        "name": "Shubhamsaboo/awesome-llm-apps",
+        "stars": "56468",
+        "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+    },
+    {
+        "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+        "language": "Jupyter Notebook",
+        "name": "rasbt/LLMs-from-scratch",
+        "stars": "62897",
+        "url": "https://github.com/rasbt/LLMs-from-scratch"
+    },
+    {
+        "description": "Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.",
+        "language": "TypeScript",
+        "name": "musistudio/claude-code-router",
+        "stars": "11528",
+        "url": "https://github.com/musistudio/claude-code-router"
+    },
+    {
+        "description": "LLM inference in C/C++",
+        "language": "C++",
+        "name": "ggml-org/llama.cpp",
+        "stars": "84353",
+        "url": "https://github.com/ggml-org/llama.cpp"
+    },
+    {
+        "description": "Examples and guides for using the OpenAI API",
+        "language": "Jupyter Notebook",
+        "name": "openai/openai-cookbook",
+        "stars": "66614",
+        "url": "https://github.com/openai/openai-cookbook"
+    },
+    {
+        "description": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+        "language": "C",
+        "name": "lvgl/lvgl",
+        "stars": "20751",
+        "url": "https://github.com/lvgl/lvgl"
+    },
+    {
+        "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+        "language": "Python",
+        "name": "comfyanonymous/ComfyUI",
+        "stars": "84893",
+        "url": "https://github.com/comfyanonymous/ComfyUI"
+    }
+]
