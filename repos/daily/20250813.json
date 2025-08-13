@@ -1,0 +1,135 @@
+[
+    {
+        "description": "Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.",
+        "language": "Ruby",
+        "name": "ubicloud/ubicloud",
+        "stars": "6854",
+        "url": "https://github.com/ubicloud/ubicloud"
+    },
+    {
+        "description": "Prompt Orchestration Markup Language",
+        "language": "TypeScript",
+        "name": "microsoft/poml",
+        "stars": "904",
+        "url": "https://github.com/microsoft/poml"
+    },
+    {
+        "description": "Generate audiobooks from EPUBs, PDFs and text with synchronized captions.",
+        "language": "Python",
+        "name": "denizsafak/abogen",
+        "stars": "2292",
+        "url": "https://github.com/denizsafak/abogen"
+    },
+    {
+        "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
+        "language": "C++",
+        "name": "nomic-ai/gpt4all",
+        "stars": "76012",
+        "url": "https://github.com/nomic-ai/gpt4all"
+    },
+    {
+        "description": "Umami is a modern, privacy-focused alternative to Google Analytics.",
+        "language": "TypeScript",
+        "name": "umami-software/umami",
+        "stars": "29584",
+        "url": "https://github.com/umami-software/umami"
+    },
+    {
+        "description": "100+ Fine-tuning LLM Notebooks on Google Colab, Kaggle, and more.",
+        "language": "Jupyter Notebook",
+        "name": "unslothai/notebooks",
+        "stars": "2985",
+        "url": "https://github.com/unslothai/notebooks"
+    },
+    {
+        "description": "Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.",
+        "language": "TypeScript",
+        "name": "fastapi/full-stack-fastapi-template",
+        "stars": "36213",
+        "url": "https://github.com/fastapi/full-stack-fastapi-template"
+    },
+    {
+        "description": "OpenTelemetry Collector",
+        "language": "Go",
+        "name": "open-telemetry/opentelemetry-collector",
+        "stars": "5546",
+        "url": "https://github.com/open-telemetry/opentelemetry-collector"
+    },
+    {
+        "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+        "language": "Python",
+        "name": "donnemartin/system-design-primer",
+        "stars": "315645",
+        "url": "https://github.com/donnemartin/system-design-primer"
+    },
+    {
+        "description": "Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata.",
+        "language": "TypeScript",
+        "name": "apple/embedding-atlas",
+        "stars": "1410",
+        "url": "https://github.com/apple/embedding-atlas"
+    },
+    {
+        "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models.",
+        "language": "N/A",
+        "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+        "stars": "75502",
+        "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+    },
+    {
+        "description": "Simple Directmedia Layer",
+        "language": "C",
+        "name": "libsdl-org/SDL",
+        "stars": "13344",
+        "url": "https://github.com/libsdl-org/SDL"
+    },
+    {
+        "description": "",
+        "language": "Python",
+        "name": "trailofbits/buttercup",
+        "stars": "705",
+        "url": "https://github.com/trailofbits/buttercup"
+    },
+    {
+        "description": "\u7b80\u7b80\u5355\u5355\u7684\u770b\u76f4\u64ad",
+        "language": "Dart",
+        "name": "xiaoyaocz/dart_simple_live",
+        "stars": "12378",
+        "url": "https://github.com/xiaoyaocz/dart_simple_live"
+    },
+    {
+        "description": "Conductor is an event driven orchestration platform providing durable and highly resilient execution engine for your applications",
+        "language": "Java",
+        "name": "conductor-oss/conductor",
+        "stars": "25067",
+        "url": "https://github.com/conductor-oss/conductor"
+    },
+    {
+        "description": "Redis Go client",
+        "language": "Go",
+        "name": "redis/go-redis",
+        "stars": "21235",
+        "url": "https://github.com/redis/go-redis"
+    },
+    {
+        "description": "Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.",
+        "language": "Shell",
+        "name": "ChrisTitusTech/linutil",
+        "stars": "4000",
+        "url": "https://github.com/ChrisTitusTech/linutil"
+    },
+    {
+        "description": "Action for checking out a repo",
+        "language": "TypeScript",
+        "name": "actions/checkout",
+        "stars": "6844",
+        "url": "https://github.com/actions/checkout"
+    },
+    {
+        "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+        "language": "Go",
+        "name": "FiloSottile/mkcert",
+        "stars": "55410",
+        "url": "https://github.com/FiloSottile/mkcert"
+    }
+]

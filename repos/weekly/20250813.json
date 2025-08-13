@@ -1,0 +1,100 @@
+[
+    {
+        "description": "A high-performance algorithmic trading platform and event-driven backtester",
+        "language": "Rust",
+        "name": "nautechsystems/nautilus_trader",
+        "stars": "13751",
+        "url": "https://github.com/nautechsystems/nautilus_trader"
+    },
+    {
+        "description": "Free, local, open-source AI app builder \u2728 v0 / lovable / Bolt alternative \ud83c\udf1f Star if you like it!",
+        "language": "TypeScript",
+        "name": "dyad-sh/dyad",
+        "stars": "12485",
+        "url": "https://github.com/dyad-sh/dyad"
+    },
+    {
+        "description": "Lightweight coding agent that runs in your terminal",
+        "language": "Rust",
+        "name": "openai/codex",
+        "stars": "34653",
+        "url": "https://github.com/openai/codex"
+    },
+    {
+        "description": "Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.",
+        "language": "Go",
+        "name": "ollama/ollama",
+        "stars": "150035",
+        "url": "https://github.com/ollama/ollama"
+    },
+    {
+        "description": "Examples and guides for using the OpenAI API",
+        "language": "Jupyter Notebook",
+        "name": "openai/openai-cookbook",
+        "stars": "66965",
+        "url": "https://github.com/openai/openai-cookbook"
+    },
+    {
+        "description": "The AI Browser Automation Framework",
+        "language": "TypeScript",
+        "name": "browserbase/stagehand",
+        "stars": "16219",
+        "url": "https://github.com/browserbase/stagehand"
+    },
+    {
+        "description": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+        "language": "C",
+        "name": "lvgl/lvgl",
+        "stars": "20932",
+        "url": "https://github.com/lvgl/lvgl"
+    },
+    {
+        "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+        "language": "Python",
+        "name": "vllm-project/vllm",
+        "stars": "54995",
+        "url": "https://github.com/vllm-project/vllm"
+    },
+    {
+        "description": "Umami is a modern, privacy-focused alternative to Google Analytics.",
+        "language": "TypeScript",
+        "name": "umami-software/umami",
+        "stars": "29584",
+        "url": "https://github.com/umami-software/umami"
+    },
+    {
+        "description": "Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.",
+        "language": "TypeScript",
+        "name": "simstudioai/sim",
+        "stars": "7216",
+        "url": "https://github.com/simstudioai/sim"
+    },
+    {
+        "description": "A local-first personal finance app",
+        "language": "TypeScript",
+        "name": "actualbudget/actual",
+        "stars": "21563",
+        "url": "https://github.com/actualbudget/actual"
+    },
+    {
+        "description": "LLM inference in C/C++",
+        "language": "C++",
+        "name": "ggml-org/llama.cpp",
+        "stars": "84705",
+        "url": "https://github.com/ggml-org/llama.cpp"
+    },
+    {
+        "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+        "language": "Jupyter Notebook",
+        "name": "patchy631/ai-engineering-hub",
+        "stars": "16941",
+        "url": "https://github.com/patchy631/ai-engineering-hub"
+    },
+    {
+        "description": "The official Go library for the OpenAI API",
+        "language": "Go",
+        "name": "openai/openai-go",
+        "stars": "2212",
+        "url": "https://github.com/openai/openai-go"
+    }
+]
