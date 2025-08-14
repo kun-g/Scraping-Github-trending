@@ -10,7 +10,7 @@
         "description": "Lightweight coding agent that runs in your terminal",
         "language": "Rust",
         "name": "openai/codex",
-        "stars": "34809",
+        "stars": "34812",
         "url": "https://github.com/openai/codex"
     },
     {
@@ -24,70 +24,70 @@
         "description": "Examples and guides for using the OpenAI API",
         "language": "Jupyter Notebook",
         "name": "openai/openai-cookbook",
-        "stars": "67032",
+        "stars": "67035",
         "url": "https://github.com/openai/openai-cookbook"
     },
     {
         "description": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
         "language": "C",
         "name": "lvgl/lvgl",
-        "stars": "20999",
+        "stars": "21000",
         "url": "https://github.com/lvgl/lvgl"
     },
     {
         "description": "Free, local, open-source AI app builder \u2728 v0 / lovable / Bolt alternative \ud83c\udf1f Star if you like it!",
         "language": "TypeScript",
         "name": "dyad-sh/dyad",
-        "stars": "12693",
+        "stars": "12698",
         "url": "https://github.com/dyad-sh/dyad"
     },
     {
         "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
         "language": "TypeScript",
         "name": "menloresearch/jan",
-        "stars": "36746",
+        "stars": "36749",
         "url": "https://github.com/menloresearch/jan"
     },
     {
         "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
         "language": "Jupyter Notebook",
         "name": "patchy631/ai-engineering-hub",
-        "stars": "17115",
+        "stars": "17117",
         "url": "https://github.com/patchy631/ai-engineering-hub"
     },
     {
         "description": "Umami is a modern, privacy-focused alternative to Google Analytics.",
         "language": "TypeScript",
         "name": "umami-software/umami",
-        "stars": "29786",
+        "stars": "29787",
         "url": "https://github.com/umami-software/umami"
     },
     {
         "description": "simple terminal UI for git commands",
         "language": "Go",
         "name": "jesseduffield/lazygit",
-        "stars": "63545",
+        "stars": "63546",
         "url": "https://github.com/jesseduffield/lazygit"
     },
     {
         "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
         "language": "Python",
         "name": "vllm-project/vllm",
-        "stars": "55133",
+        "stars": "55135",
         "url": "https://github.com/vllm-project/vllm"
     },
     {
         "description": "The official Go library for the OpenAI API",
         "language": "Go",
         "name": "openai/openai-go",
-        "stars": "2253",
+        "stars": "2254",
         "url": "https://github.com/openai/openai-go"
     },
     {
         "description": "The AI Browser Automation Framework",
         "language": "TypeScript",
         "name": "browserbase/stagehand",
-        "stars": "16292",
+        "stars": "16293",
         "url": "https://github.com/browserbase/stagehand"
     },
     {
@@ -108,14 +108,14 @@
         "description": "Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!",
         "language": "Python",
         "name": "tadata-org/fastapi_mcp",
-        "stars": "8075",
+        "stars": "8084",
         "url": "https://github.com/tadata-org/fastapi_mcp"
     },
     {
         "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
         "language": "JavaScript",
         "name": "open-webui/open-webui",
-        "stars": "106551",
+        "stars": "106554",
         "url": "https://github.com/open-webui/open-webui"
     }
 ]
