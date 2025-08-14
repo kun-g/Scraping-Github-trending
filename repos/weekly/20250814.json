@@ -1,0 +1,121 @@
+[
+    {
+        "description": "A high-performance algorithmic trading platform and event-driven backtester",
+        "language": "Rust",
+        "name": "nautechsystems/nautilus_trader",
+        "stars": "13850",
+        "url": "https://github.com/nautechsystems/nautilus_trader"
+    },
+    {
+        "description": "Lightweight coding agent that runs in your terminal",
+        "language": "Rust",
+        "name": "openai/codex",
+        "stars": "34809",
+        "url": "https://github.com/openai/codex"
+    },
+    {
+        "description": "Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.",
+        "language": "Go",
+        "name": "ollama/ollama",
+        "stars": "150123",
+        "url": "https://github.com/ollama/ollama"
+    },
+    {
+        "description": "Examples and guides for using the OpenAI API",
+        "language": "Jupyter Notebook",
+        "name": "openai/openai-cookbook",
+        "stars": "67032",
+        "url": "https://github.com/openai/openai-cookbook"
+    },
+    {
+        "description": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+        "language": "C",
+        "name": "lvgl/lvgl",
+        "stars": "20999",
+        "url": "https://github.com/lvgl/lvgl"
+    },
+    {
+        "description": "Free, local, open-source AI app builder \u2728 v0 / lovable / Bolt alternative \ud83c\udf1f Star if you like it!",
+        "language": "TypeScript",
+        "name": "dyad-sh/dyad",
+        "stars": "12693",
+        "url": "https://github.com/dyad-sh/dyad"
+    },
+    {
+        "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
+        "language": "TypeScript",
+        "name": "menloresearch/jan",
+        "stars": "36746",
+        "url": "https://github.com/menloresearch/jan"
+    },
+    {
+        "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+        "language": "Jupyter Notebook",
+        "name": "patchy631/ai-engineering-hub",
+        "stars": "17115",
+        "url": "https://github.com/patchy631/ai-engineering-hub"
+    },
+    {
+        "description": "Umami is a modern, privacy-focused alternative to Google Analytics.",
+        "language": "TypeScript",
+        "name": "umami-software/umami",
+        "stars": "29786",
+        "url": "https://github.com/umami-software/umami"
+    },
+    {
+        "description": "simple terminal UI for git commands",
+        "language": "Go",
+        "name": "jesseduffield/lazygit",
+        "stars": "63545",
+        "url": "https://github.com/jesseduffield/lazygit"
+    },
+    {
+        "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+        "language": "Python",
+        "name": "vllm-project/vllm",
+        "stars": "55133",
+        "url": "https://github.com/vllm-project/vllm"
+    },
+    {
+        "description": "The official Go library for the OpenAI API",
+        "language": "Go",
+        "name": "openai/openai-go",
+        "stars": "2253",
+        "url": "https://github.com/openai/openai-go"
+    },
+    {
+        "description": "The AI Browser Automation Framework",
+        "language": "TypeScript",
+        "name": "browserbase/stagehand",
+        "stars": "16292",
+        "url": "https://github.com/browserbase/stagehand"
+    },
+    {
+        "description": "OCR, layout analysis, reading order, table recognition in 90+ languages",
+        "language": "Python",
+        "name": "datalab-to/surya",
+        "stars": "18146",
+        "url": "https://github.com/datalab-to/surya"
+    },
+    {
+        "description": "A unified inference and post-training framework for accelerated video generation.",
+        "language": "Python",
+        "name": "hao-ai-lab/FastVideo",
+        "stars": "1960",
+        "url": "https://github.com/hao-ai-lab/FastVideo"
+    },
+    {
+        "description": "Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!",
+        "language": "Python",
+        "name": "tadata-org/fastapi_mcp",
+        "stars": "8075",
+        "url": "https://github.com/tadata-org/fastapi_mcp"
+    },
+    {
+        "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+        "language": "JavaScript",
+        "name": "open-webui/open-webui",
+        "stars": "106551",
+        "url": "https://github.com/open-webui/open-webui"
+    }
+]
