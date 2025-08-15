@@ -1,0 +1,100 @@
+[
+    {
+        "description": "Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.",
+        "language": "Ruby",
+        "name": "ubicloud/ubicloud",
+        "stars": "8907",
+        "url": "https://github.com/ubicloud/ubicloud"
+    },
+    {
+        "description": "Prompt Orchestration Markup Language",
+        "language": "TypeScript",
+        "name": "microsoft/poml",
+        "stars": "2058",
+        "url": "https://github.com/microsoft/poml"
+    },
+    {
+        "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+        "language": "Python",
+        "name": "pathwaycom/pathway",
+        "stars": "31222",
+        "url": "https://github.com/pathwaycom/pathway"
+    },
+    {
+        "description": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+        "language": "Go",
+        "name": "external-secrets/external-secrets",
+        "stars": "5430",
+        "url": "https://github.com/external-secrets/external-secrets"
+    },
+    {
+        "description": "Redis Go client",
+        "language": "Go",
+        "name": "redis/go-redis",
+        "stars": "21306",
+        "url": "https://github.com/redis/go-redis"
+    },
+    {
+        "description": "COLMAP - Structure-from-Motion and Multi-View Stereo",
+        "language": "C++",
+        "name": "colmap/colmap",
+        "stars": "9262",
+        "url": "https://github.com/colmap/colmap"
+    },
+    {
+        "description": "Component infrastructure and Material Design components for Angular",
+        "language": "TypeScript",
+        "name": "angular/components",
+        "stars": "24827",
+        "url": "https://github.com/angular/components"
+    },
+    {
+        "description": "The Open-sourced Multimodal AI Agent Stack connecting Cutting-edge AI Models and Agent Infra.",
+        "language": "TypeScript",
+        "name": "bytedance/UI-TARS-desktop",
+        "stars": "16309",
+        "url": "https://github.com/bytedance/UI-TARS-desktop"
+    },
+    {
+        "description": "Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers",
+        "language": "TypeScript",
+        "name": "midday-ai/midday",
+        "stars": "10518",
+        "url": "https://github.com/midday-ai/midday"
+    },
+    {
+        "description": "Conductor is an event driven orchestration platform providing durable and highly resilient execution engine for your applications",
+        "language": "Java",
+        "name": "conductor-oss/conductor",
+        "stars": "25469",
+        "url": "https://github.com/conductor-oss/conductor"
+    },
+    {
+        "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+        "language": "Go",
+        "name": "hashicorp/terraform",
+        "stars": "46106",
+        "url": "https://github.com/hashicorp/terraform"
+    },
+    {
+        "description": "The ultimate training toolkit for finetuning diffusion models",
+        "language": "Python",
+        "name": "ostris/ai-toolkit",
+        "stars": "5792",
+        "url": "https://github.com/ostris/ai-toolkit"
+    },
+    {
+        "description": "Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata.",
+        "language": "TypeScript",
+        "name": "apple/embedding-atlas",
+        "stars": "2339",
+        "url": "https://github.com/apple/embedding-atlas"
+    },
+    {
+        "description": "Modern YouTube downloader with a clean PySide6 interface. Download videos in any quality, extract audio, fetch subtitles, sponserBlock, and view video metadata. Built with yt-dlp for reliable performance.",
+        "language": "Python",
+        "name": "oop7/YTSage",
+        "stars": "1501",
+        "url": "https://github.com/oop7/YTSage"
+    }
+]
