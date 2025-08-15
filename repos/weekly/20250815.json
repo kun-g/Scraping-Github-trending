@@ -3,63 +3,63 @@
         "description": "Lightweight coding agent that runs in your terminal",
         "language": "Rust",
         "name": "openai/codex",
-        "stars": "34960",
+        "stars": "34963",
         "url": "https://github.com/openai/codex"
     },
     {
         "description": "A high-performance algorithmic trading platform and event-driven backtester",
         "language": "Rust",
         "name": "nautechsystems/nautilus_trader",
-        "stars": "13934",
+        "stars": "13935",
         "url": "https://github.com/nautechsystems/nautilus_trader"
     },
     {
         "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
         "language": "TypeScript",
         "name": "menloresearch/jan",
-        "stars": "36915",
+        "stars": "36918",
         "url": "https://github.com/menloresearch/jan"
     },
     {
         "description": "Examples and guides for using the OpenAI API",
         "language": "Jupyter Notebook",
         "name": "openai/openai-cookbook",
-        "stars": "67107",
+        "stars": "67112",
         "url": "https://github.com/openai/openai-cookbook"
     },
     {
         "description": "Umami is a modern, privacy-focused alternative to Google Analytics.",
         "language": "TypeScript",
         "name": "umami-software/umami",
-        "stars": "29866",
+        "stars": "29868",
         "url": "https://github.com/umami-software/umami"
     },
     {
         "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
         "language": "Go",
         "name": "FiloSottile/mkcert",
-        "stars": "55917",
+        "stars": "55924",
         "url": "https://github.com/FiloSottile/mkcert"
     },
     {
         "description": "The official Go library for the OpenAI API",
         "language": "Go",
         "name": "openai/openai-go",
-        "stars": "2290",
+        "stars": "2292",
         "url": "https://github.com/openai/openai-go"
     },
     {
         "description": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
         "language": "C",
         "name": "lvgl/lvgl",
-        "stars": "21048",
+        "stars": "21049",
         "url": "https://github.com/lvgl/lvgl"
     },
     {
         "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
         "language": "Jupyter Notebook",
         "name": "patchy631/ai-engineering-hub",
-        "stars": "17246",
+        "stars": "17248",
         "url": "https://github.com/patchy631/ai-engineering-hub"
     },
     {
@@ -73,14 +73,14 @@
         "description": "The Open-sourced Multimodal AI Agent Stack connecting Cutting-edge AI Models and Agent Infra.",
         "language": "TypeScript",
         "name": "bytedance/UI-TARS-desktop",
-        "stars": "16313",
+        "stars": "16317",
         "url": "https://github.com/bytedance/UI-TARS-desktop"
     },
     {
         "description": "Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!",
         "language": "Python",
         "name": "tadata-org/fastapi_mcp",
-        "stars": "8437",
+        "stars": "8448",
         "url": "https://github.com/tadata-org/fastapi_mcp"
     },
     {
@@ -94,7 +94,7 @@
         "description": "Open Source Continuous File Synchronization",
         "language": "Go",
         "name": "syncthing/syncthing",
-        "stars": "74837",
+        "stars": "74847",
         "url": "https://github.com/syncthing/syncthing"
     }
 ]
