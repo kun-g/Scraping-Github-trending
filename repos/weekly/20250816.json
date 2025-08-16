@@ -1,0 +1,107 @@
+[
+    {
+        "description": "Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.",
+        "language": "Python",
+        "name": "coleam00/Archon",
+        "stars": "5901",
+        "url": "https://github.com/coleam00/Archon"
+    },
+    {
+        "description": "Lightweight coding agent that runs in your terminal",
+        "language": "Rust",
+        "name": "openai/codex",
+        "stars": "35071",
+        "url": "https://github.com/openai/codex"
+    },
+    {
+        "description": "\u7b80\u7b80\u5355\u5355\u7684\u770b\u76f4\u64ad",
+        "language": "Dart",
+        "name": "xiaoyaocz/dart_simple_live",
+        "stars": "12494",
+        "url": "https://github.com/xiaoyaocz/dart_simple_live"
+    },
+    {
+        "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
+        "language": "TypeScript",
+        "name": "menloresearch/jan",
+        "stars": "36999",
+        "url": "https://github.com/menloresearch/jan"
+    },
+    {
+        "description": "A high-performance algorithmic trading platform and event-driven backtester",
+        "language": "Rust",
+        "name": "nautechsystems/nautilus_trader",
+        "stars": "14005",
+        "url": "https://github.com/nautechsystems/nautilus_trader"
+    },
+    {
+        "description": "Umami is a modern, privacy-focused alternative to Google Analytics.",
+        "language": "TypeScript",
+        "name": "umami-software/umami",
+        "stars": "29937",
+        "url": "https://github.com/umami-software/umami"
+    },
+    {
+        "description": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+        "language": "Go",
+        "name": "external-secrets/external-secrets",
+        "stars": "5522",
+        "url": "https://github.com/external-secrets/external-secrets"
+    },
+    {
+        "description": "Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project",
+        "language": "TypeScript",
+        "name": "idosal/git-mcp",
+        "stars": "5222",
+        "url": "https://github.com/idosal/git-mcp"
+    },
+    {
+        "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+        "language": "Go",
+        "name": "FiloSottile/mkcert",
+        "stars": "55990",
+        "url": "https://github.com/FiloSottile/mkcert"
+    },
+    {
+        "description": "Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!",
+        "language": "Python",
+        "name": "tadata-org/fastapi_mcp",
+        "stars": "8694",
+        "url": "https://github.com/tadata-org/fastapi_mcp"
+    },
+    {
+        "description": "Open Source Continuous File Synchronization",
+        "language": "Go",
+        "name": "syncthing/syncthing",
+        "stars": "74938",
+        "url": "https://github.com/syncthing/syncthing"
+    },
+    {
+        "description": "The Open-sourced Multimodal AI Agent Stack connecting Cutting-edge AI Models and Agent Infra.",
+        "language": "TypeScript",
+        "name": "bytedance/UI-TARS-desktop",
+        "stars": "16428",
+        "url": "https://github.com/bytedance/UI-TARS-desktop"
+    },
+    {
+        "description": "A powerful open source UI framework for Laravel \u2022 Build and ship admin panels & apps fast with Livewire",
+        "language": "PHP",
+        "name": "filamentphp/filament",
+        "stars": "25707",
+        "url": "https://github.com/filamentphp/filament"
+    },
+    {
+        "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+        "language": "Jupyter Notebook",
+        "name": "patchy631/ai-engineering-hub",
+        "stars": "17325",
+        "url": "https://github.com/patchy631/ai-engineering-hub"
+    },
+    {
+        "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+        "language": "Python",
+        "name": "lfnovo/open-notebook",
+        "stars": "3465",
+        "url": "https://github.com/lfnovo/open-notebook"
+    }
+]
