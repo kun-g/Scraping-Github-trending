@@ -1,0 +1,100 @@
+[
+    {
+        "description": "Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.",
+        "language": "Ruby",
+        "name": "ubicloud/ubicloud",
+        "stars": "9767",
+        "url": "https://github.com/ubicloud/ubicloud"
+    },
+    {
+        "description": "Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata.",
+        "language": "TypeScript",
+        "name": "apple/embedding-atlas",
+        "stars": "2729",
+        "url": "https://github.com/apple/embedding-atlas"
+    },
+    {
+        "description": "The Open-sourced Multimodal AI Agent Stack connecting Cutting-edge AI Models and Agent Infra.",
+        "language": "TypeScript",
+        "name": "bytedance/UI-TARS-desktop",
+        "stars": "17443",
+        "url": "https://github.com/bytedance/UI-TARS-desktop"
+    },
+    {
+        "description": "Super Magic. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)",
+        "language": "PHP",
+        "name": "dtyq/magic",
+        "stars": "2698",
+        "url": "https://github.com/dtyq/magic"
+    },
+    {
+        "description": "Generate audiobooks from EPUBs, PDFs and text with synchronized captions.",
+        "language": "Python",
+        "name": "denizsafak/abogen",
+        "stars": "2798",
+        "url": "https://github.com/denizsafak/abogen"
+    },
+    {
+        "description": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+        "language": "Go",
+        "name": "external-secrets/external-secrets",
+        "stars": "5606",
+        "url": "https://github.com/external-secrets/external-secrets"
+    },
+    {
+        "description": "",
+        "language": "Python",
+        "name": "trailofbits/buttercup",
+        "stars": "921",
+        "url": "https://github.com/trailofbits/buttercup"
+    },
+    {
+        "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
+        "language": "TypeScript",
+        "name": "menloresearch/jan",
+        "stars": "37197",
+        "url": "https://github.com/menloresearch/jan"
+    },
+    {
+        "description": "Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!",
+        "language": "Python",
+        "name": "tadata-org/fastapi_mcp",
+        "stars": "9040",
+        "url": "https://github.com/tadata-org/fastapi_mcp"
+    },
+    {
+        "description": "Open Source Continuous File Synchronization",
+        "language": "Go",
+        "name": "syncthing/syncthing",
+        "stars": "75159",
+        "url": "https://github.com/syncthing/syncthing"
+    },
+    {
+        "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
+        "language": "C++",
+        "name": "nomic-ai/gpt4all",
+        "stars": "76454",
+        "url": "https://github.com/nomic-ai/gpt4all"
+    },
+    {
+        "description": "Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.",
+        "language": "TypeScript",
+        "name": "jitsi/jitsi-meet",
+        "stars": "26782",
+        "url": "https://github.com/jitsi/jitsi-meet"
+    },
+    {
+        "description": "Open Source Spotify client library",
+        "language": "Rust",
+        "name": "librespot-org/librespot",
+        "stars": "5500",
+        "url": "https://github.com/librespot-org/librespot"
+    },
+    {
+        "description": "A powerful open source UI framework for Laravel \u2022 Build and ship admin panels & apps fast with Livewire",
+        "language": "PHP",
+        "name": "filamentphp/filament",
+        "stars": "25826",
+        "url": "https://github.com/filamentphp/filament"
+    }
+]
