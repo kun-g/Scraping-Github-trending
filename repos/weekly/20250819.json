@@ -3,42 +3,42 @@
         "description": "Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.",
         "language": "Ruby",
         "name": "ubicloud/ubicloud",
-        "stars": "9771",
+        "stars": "9776",
         "url": "https://github.com/ubicloud/ubicloud"
     },
     {
         "description": "Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata.",
         "language": "TypeScript",
         "name": "apple/embedding-atlas",
-        "stars": "2730",
+        "stars": "2732",
         "url": "https://github.com/apple/embedding-atlas"
     },
     {
         "description": "The Open-sourced Multimodal AI Agent Stack connecting Cutting-edge AI Models and Agent Infra.",
         "language": "TypeScript",
         "name": "bytedance/UI-TARS-desktop",
-        "stars": "17446",
+        "stars": "17457",
         "url": "https://github.com/bytedance/UI-TARS-desktop"
     },
     {
         "description": "Super Magic. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)",
         "language": "PHP",
         "name": "dtyq/magic",
-        "stars": "2704",
+        "stars": "2712",
         "url": "https://github.com/dtyq/magic"
     },
     {
         "description": "Generate audiobooks from EPUBs, PDFs and text with synchronized captions.",
         "language": "Python",
         "name": "denizsafak/abogen",
-        "stars": "2800",
+        "stars": "2803",
         "url": "https://github.com/denizsafak/abogen"
     },
     {
         "description": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
         "language": "Go",
         "name": "external-secrets/external-secrets",
-        "stars": "5606",
+        "stars": "5607",
         "url": "https://github.com/external-secrets/external-secrets"
     },
     {
@@ -52,28 +52,28 @@
         "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
         "language": "TypeScript",
         "name": "menloresearch/jan",
-        "stars": "37198",
+        "stars": "37199",
         "url": "https://github.com/menloresearch/jan"
     },
     {
         "description": "Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!",
         "language": "Python",
         "name": "tadata-org/fastapi_mcp",
-        "stars": "9051",
+        "stars": "9058",
         "url": "https://github.com/tadata-org/fastapi_mcp"
     },
     {
         "description": "Open Source Continuous File Synchronization",
         "language": "Go",
         "name": "syncthing/syncthing",
-        "stars": "75160",
+        "stars": "75162",
         "url": "https://github.com/syncthing/syncthing"
     },
     {
         "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
         "language": "C++",
         "name": "nomic-ai/gpt4all",
-        "stars": "76454",
+        "stars": "76456",
         "url": "https://github.com/nomic-ai/gpt4all"
     },
     {
@@ -94,7 +94,7 @@
         "description": "A powerful open source UI framework for Laravel \u2022 Build and ship admin panels & apps fast with Livewire",
         "language": "PHP",
         "name": "filamentphp/filament",
-        "stars": "25828",
+        "stars": "25830",
         "url": "https://github.com/filamentphp/filament"
     }
 ]
