@@ -1,0 +1,100 @@
+[
+    {
+        "description": "Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.",
+        "language": "Ruby",
+        "name": "ubicloud/ubicloud",
+        "stars": "9956",
+        "url": "https://github.com/ubicloud/ubicloud"
+    },
+    {
+        "description": "Prompt Orchestration Markup Language",
+        "language": "TypeScript",
+        "name": "microsoft/poml",
+        "stars": "3563",
+        "url": "https://github.com/microsoft/poml"
+    },
+    {
+        "description": "Super Magic. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)",
+        "language": "PHP",
+        "name": "dtyq/magic",
+        "stars": "3052",
+        "url": "https://github.com/dtyq/magic"
+    },
+    {
+        "description": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+        "language": "Go",
+        "name": "external-secrets/external-secrets",
+        "stars": "5655",
+        "url": "https://github.com/external-secrets/external-secrets"
+    },
+    {
+        "description": "The Open-sourced Multimodal AI Agent Stack connecting Cutting-edge AI Models and Agent Infra.",
+        "language": "TypeScript",
+        "name": "bytedance/UI-TARS-desktop",
+        "stars": "17796",
+        "url": "https://github.com/bytedance/UI-TARS-desktop"
+    },
+    {
+        "description": "PixiEditor is a Universal Editor for all your 2D needs",
+        "language": "C#",
+        "name": "PixiEditor/PixiEditor",
+        "stars": "5183",
+        "url": "https://github.com/PixiEditor/PixiEditor"
+    },
+    {
+        "description": "Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!",
+        "language": "Python",
+        "name": "tadata-org/fastapi_mcp",
+        "stars": "9338",
+        "url": "https://github.com/tadata-org/fastapi_mcp"
+    },
+    {
+        "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+        "language": "Python",
+        "name": "Shubhamsaboo/awesome-llm-apps",
+        "stars": "60654",
+        "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+    },
+    {
+        "description": "Open Source Continuous File Synchronization",
+        "language": "Go",
+        "name": "syncthing/syncthing",
+        "stars": "75329",
+        "url": "https://github.com/syncthing/syncthing"
+    },
+    {
+        "description": "Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata.",
+        "language": "TypeScript",
+        "name": "apple/embedding-atlas",
+        "stars": "2988",
+        "url": "https://github.com/apple/embedding-atlas"
+    },
+    {
+        "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
+        "language": "TypeScript",
+        "name": "menloresearch/jan",
+        "stars": "37295",
+        "url": "https://github.com/menloresearch/jan"
+    },
+    {
+        "description": "Conductor is an event driven orchestration platform providing durable and highly resilient execution engine for your applications",
+        "language": "Java",
+        "name": "conductor-oss/conductor",
+        "stars": "26314",
+        "url": "https://github.com/conductor-oss/conductor"
+    },
+    {
+        "description": "\ud83d\udc96\ud83e\uddf8 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+        "language": "Vue",
+        "name": "moeru-ai/airi",
+        "stars": "3824",
+        "url": "https://github.com/moeru-ai/airi"
+    },
+    {
+        "description": "Open-source search and retrieval database for AI applications.",
+        "language": "Rust",
+        "name": "chroma-core/chroma",
+        "stars": "21876",
+        "url": "https://github.com/chroma-core/chroma"
+    }
+]
