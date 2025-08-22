@@ -1,0 +1,79 @@
+[
+    {
+        "description": "Prompt Orchestration Markup Language",
+        "language": "TypeScript",
+        "name": "microsoft/poml",
+        "stars": "3716",
+        "url": "https://github.com/microsoft/poml"
+    },
+    {
+        "description": "Super Magic. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)",
+        "language": "PHP",
+        "name": "dtyq/magic",
+        "stars": "3189",
+        "url": "https://github.com/dtyq/magic"
+    },
+    {
+        "description": "\ud83d\udc96\ud83e\uddf8 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+        "language": "Vue",
+        "name": "moeru-ai/airi",
+        "stars": "5431",
+        "url": "https://github.com/moeru-ai/airi"
+    },
+    {
+        "description": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+        "language": "Go",
+        "name": "external-secrets/external-secrets",
+        "stars": "5684",
+        "url": "https://github.com/external-secrets/external-secrets"
+    },
+    {
+        "description": "PixiEditor is a Universal Editor for all your 2D needs",
+        "language": "C#",
+        "name": "PixiEditor/PixiEditor",
+        "stars": "5387",
+        "url": "https://github.com/PixiEditor/PixiEditor"
+    },
+    {
+        "description": "Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.",
+        "language": "Ruby",
+        "name": "ubicloud/ubicloud",
+        "stars": "10022",
+        "url": "https://github.com/ubicloud/ubicloud"
+    },
+    {
+        "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+        "language": "Python",
+        "name": "Shubhamsaboo/awesome-llm-apps",
+        "stars": "61002",
+        "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+    },
+    {
+        "description": "Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!",
+        "language": "Python",
+        "name": "tadata-org/fastapi_mcp",
+        "stars": "9440",
+        "url": "https://github.com/tadata-org/fastapi_mcp"
+    },
+    {
+        "description": "Open Source Continuous File Synchronization",
+        "language": "Go",
+        "name": "syncthing/syncthing",
+        "stars": "75396",
+        "url": "https://github.com/syncthing/syncthing"
+    },
+    {
+        "description": "The Open-sourced Multimodal AI Agent Stack connecting Cutting-edge AI Models and Agent Infra.",
+        "language": "TypeScript",
+        "name": "bytedance/UI-TARS-desktop",
+        "stars": "17879",
+        "url": "https://github.com/bytedance/UI-TARS-desktop"
+    },
+    {
+        "description": "Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.",
+        "language": "TypeScript",
+        "name": "MotiaDev/motia",
+        "stars": "7021",
+        "url": "https://github.com/MotiaDev/motia"
+    }
+]
