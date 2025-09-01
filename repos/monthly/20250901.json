@@ -3,42 +3,42 @@
         "description": "Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.",
         "language": "TypeScript",
         "name": "coleam00/Archon",
-        "stars": "11273",
+        "stars": "11275",
         "url": "https://github.com/coleam00/Archon"
     },
     {
         "description": "\ud83d\udc96\ud83e\uddf8 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
         "language": "Vue",
         "name": "moeru-ai/airi",
-        "stars": "12028",
+        "stars": "12030",
         "url": "https://github.com/moeru-ai/airi"
     },
     {
         "description": "Free, local, open-source AI app builder \u2728 v0 / lovable / Bolt alternative \ud83c\udf1f Star if you like it!",
         "language": "TypeScript",
         "name": "dyad-sh/dyad",
-        "stars": "14232",
+        "stars": "14233",
         "url": "https://github.com/dyad-sh/dyad"
     },
     {
         "description": "Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.",
         "language": "TypeScript",
         "name": "simstudioai/sim",
-        "stars": "13392",
+        "stars": "13396",
         "url": "https://github.com/simstudioai/sim"
     },
     {
         "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
         "language": "JavaScript",
         "name": "asgeirtj/system_prompts_leaks",
-        "stars": "17531",
+        "stars": "17538",
         "url": "https://github.com/asgeirtj/system_prompts_leaks"
     },
     {
         "description": "Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork ofhttps://github.com/Fmstrat/winapps/",
         "language": "Shell",
         "name": "winapps-org/winapps",
-        "stars": "8279",
+        "stars": "8281",
         "url": "https://github.com/winapps-org/winapps"
     },
     {
@@ -52,49 +52,49 @@
         "description": "Lightweight coding agent that runs in your terminal",
         "language": "Rust",
         "name": "openai/codex",
-        "stars": "37673",
+        "stars": "37676",
         "url": "https://github.com/openai/codex"
     },
     {
         "description": "The glamourous AI coding agent for your favourite terminal \ud83d\udc98",
         "language": "Go",
         "name": "charmbracelet/crush",
-        "stars": "11455",
+        "stars": "11456",
         "url": "https://github.com/charmbracelet/crush"
     },
     {
         "description": "This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.",
         "language": "Jupyter Notebook",
         "name": "microsoft/mcp-for-beginners",
-        "stars": "10105",
+        "stars": "10106",
         "url": "https://github.com/microsoft/mcp-for-beginners"
     },
     {
         "description": "A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & Agno integration)",
         "language": "Python",
         "name": "oraios/serena",
-        "stars": "10603",
+        "stars": "10605",
         "url": "https://github.com/oraios/serena"
     },
     {
         "description": "Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.",
         "language": "TypeScript",
         "name": "musistudio/claude-code-router",
-        "stars": "16108",
+        "stars": "16111",
         "url": "https://github.com/musistudio/claude-code-router"
     },
     {
         "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
         "language": "Python",
         "name": "vllm-project/vllm",
-        "stars": "56774",
+        "stars": "56775",
         "url": "https://github.com/vllm-project/vllm"
     },
     {
         "description": "LLM inference in C/C++",
         "language": "C++",
         "name": "ggml-org/llama.cpp",
-        "stars": "85858",
+        "stars": "85860",
         "url": "https://github.com/ggml-org/llama.cpp"
     },
     {
@@ -108,7 +108,7 @@
         "description": "Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps",
         "language": "Python",
         "name": "9001/copyparty",
-        "stars": "28095",
+        "stars": "28102",
         "url": "https://github.com/9001/copyparty"
     }
 ]
