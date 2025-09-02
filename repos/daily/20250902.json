@@ -1,0 +1,100 @@
+[
+    {
+        "description": "Windows inside a Docker container.",
+        "language": "Shell",
+        "name": "dockur/windows",
+        "stars": "41096",
+        "url": "https://github.com/dockur/windows"
+    },
+    {
+        "description": "Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms \u2013 from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems",
+        "language": "Kotlin",
+        "name": "JetBrains/koog",
+        "stars": "2303",
+        "url": "https://github.com/JetBrains/koog"
+    },
+    {
+        "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+        "language": "Rust",
+        "name": "juspay/hyperswitch",
+        "stars": "26198",
+        "url": "https://github.com/juspay/hyperswitch"
+    },
+    {
+        "description": "Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.",
+        "language": "Python",
+        "name": "QuentinFuxa/WhisperLiveKit",
+        "stars": "5535",
+        "url": "https://github.com/QuentinFuxa/WhisperLiveKit"
+    },
+    {
+        "description": "AI Agents & MCPs & AI Workflow Automation \u2022 (280+ MCP servers for AI agents) \u2022 AI Automation / AI Agent with MCPs \u2022 AI Workflows & AI Agents \u2022 MCPs for AI Agents",
+        "language": "TypeScript",
+        "name": "activepieces/activepieces",
+        "stars": "17008",
+        "url": "https://github.com/activepieces/activepieces"
+    },
+    {
+        "description": "Focus on prompting and generating",
+        "language": "Python",
+        "name": "lllyasviel/Fooocus",
+        "stars": "46208",
+        "url": "https://github.com/lllyasviel/Fooocus"
+    },
+    {
+        "description": "E-mails, subdomains and names Harvester - OSINT",
+        "language": "Python",
+        "name": "laramies/theHarvester",
+        "stars": "13987",
+        "url": "https://github.com/laramies/theHarvester"
+    },
+    {
+        "description": "HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more. Bring your LLM and Framework of choice and start giving your AI agents safe access to the world. Agentic Workflows, human in the loop, tool calling",
+        "language": "TypeScript",
+        "name": "humanlayer/humanlayer",
+        "stars": "1948",
+        "url": "https://github.com/humanlayer/humanlayer"
+    },
+    {
+        "description": "SoTA open-source TTS",
+        "language": "Python",
+        "name": "resemble-ai/chatterbox",
+        "stars": "11099",
+        "url": "https://github.com/resemble-ai/chatterbox"
+    },
+    {
+        "description": "MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone",
+        "language": "Python",
+        "name": "OpenBMB/MiniCPM-V",
+        "stars": "20967",
+        "url": "https://github.com/OpenBMB/MiniCPM-V"
+    },
+    {
+        "description": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.",
+        "language": "N/A",
+        "name": "ashishpatel26/500-AI-Agents-Projects",
+        "stars": "7502",
+        "url": "https://github.com/ashishpatel26/500-AI-Agents-Projects"
+    },
+    {
+        "description": "\ud83e\udde0 Cognitive Load is what matters",
+        "language": "N/A",
+        "name": "zakirullin/cognitive-load",
+        "stars": "9748",
+        "url": "https://github.com/zakirullin/cognitive-load"
+    },
+    {
+        "description": "Generate audiobooks from EPUBs, PDFs and text with synchronized captions.",
+        "language": "Python",
+        "name": "denizsafak/abogen",
+        "stars": "3244",
+        "url": "https://github.com/denizsafak/abogen"
+    },
+    {
+        "description": "A refreshingly simple data-driven game engine built in Rust",
+        "language": "Rust",
+        "name": "bevyengine/bevy",
+        "stars": "41619",
+        "url": "https://github.com/bevyengine/bevy"
+    }
+]
