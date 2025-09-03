@@ -1,0 +1,86 @@
+[
+    {
+        "description": "Windows inside a Docker container.",
+        "language": "Shell",
+        "name": "dockur/windows",
+        "stars": "42976",
+        "url": "https://github.com/dockur/windows"
+    },
+    {
+        "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+        "language": "Python",
+        "name": "crewAIInc/crewAI",
+        "stars": "36901",
+        "url": "https://github.com/crewAIInc/crewAI"
+    },
+    {
+        "description": "Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms \u2013 from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems",
+        "language": "Kotlin",
+        "name": "JetBrains/koog",
+        "stars": "2674",
+        "url": "https://github.com/JetBrains/koog"
+    },
+    {
+        "description": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.",
+        "language": "N/A",
+        "name": "ashishpatel26/500-AI-Agents-Projects",
+        "stars": "8521",
+        "url": "https://github.com/ashishpatel26/500-AI-Agents-Projects"
+    },
+    {
+        "description": "",
+        "language": "Go",
+        "name": "google/mangle",
+        "stars": "2048",
+        "url": "https://github.com/google/mangle"
+    },
+    {
+        "description": "SoTA open-source TTS",
+        "language": "Python",
+        "name": "resemble-ai/chatterbox",
+        "stars": "11482",
+        "url": "https://github.com/resemble-ai/chatterbox"
+    },
+    {
+        "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+        "language": "JavaScript",
+        "name": "pedroslopez/whatsapp-web.js",
+        "stars": "18237",
+        "url": "https://github.com/pedroslopez/whatsapp-web.js"
+    },
+    {
+        "description": "Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.",
+        "language": "TypeScript",
+        "name": "LukeGus/Termix",
+        "stars": "2082",
+        "url": "https://github.com/LukeGus/Termix"
+    },
+    {
+        "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+        "language": "Rust",
+        "name": "rustdesk/rustdesk",
+        "stars": "97137",
+        "url": "https://github.com/rustdesk/rustdesk"
+    },
+    {
+        "description": "Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.",
+        "language": "TypeScript",
+        "name": "bytebot-ai/bytebot",
+        "stars": "3525",
+        "url": "https://github.com/bytebot-ai/bytebot"
+    },
+    {
+        "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
+        "language": "Rust",
+        "name": "google/comprehensive-rust",
+        "stars": "31363",
+        "url": "https://github.com/google/comprehensive-rust"
+    },
+    {
+        "description": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
+        "language": "JavaScript",
+        "name": "projectdiscovery/nuclei-templates",
+        "stars": "10789",
+        "url": "https://github.com/projectdiscovery/nuclei-templates"
+    }
+]
