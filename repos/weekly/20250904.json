@@ -1,0 +1,107 @@
+[
+    {
+        "description": "Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.",
+        "language": "Python",
+        "name": "QuentinFuxa/WhisperLiveKit",
+        "stars": "6128",
+        "url": "https://github.com/QuentinFuxa/WhisperLiveKit"
+    },
+    {
+        "description": "Windows inside a Docker container.",
+        "language": "Shell",
+        "name": "dockur/windows",
+        "stars": "43973",
+        "url": "https://github.com/dockur/windows"
+    },
+    {
+        "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
+        "language": "JavaScript",
+        "name": "asgeirtj/system_prompts_leaks",
+        "stars": "18576",
+        "url": "https://github.com/asgeirtj/system_prompts_leaks"
+    },
+    {
+        "description": "E-mails, subdomains and names Harvester - OSINT",
+        "language": "Python",
+        "name": "laramies/theHarvester",
+        "stars": "14164",
+        "url": "https://github.com/laramies/theHarvester"
+    },
+    {
+        "description": "MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone",
+        "language": "Python",
+        "name": "OpenBMB/MiniCPM-V",
+        "stars": "21160",
+        "url": "https://github.com/OpenBMB/MiniCPM-V"
+    },
+    {
+        "description": "\u26a1\ufe0f GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered insights in seconds.",
+        "language": "TypeScript",
+        "name": "Canner/WrenAI",
+        "stars": "11499",
+        "url": "https://github.com/Canner/WrenAI"
+    },
+    {
+        "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+        "language": "Rust",
+        "name": "juspay/hyperswitch",
+        "stars": "26505",
+        "url": "https://github.com/juspay/hyperswitch"
+    },
+    {
+        "description": "Secure and fast microVMs for serverless computing.",
+        "language": "Rust",
+        "name": "firecracker-microvm/firecracker",
+        "stars": "30148",
+        "url": "https://github.com/firecracker-microvm/firecracker"
+    },
+    {
+        "description": "Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord:https://discord.gg/ejRNvftDp9",
+        "language": "Python",
+        "name": "MODSetter/SurfSense",
+        "stars": "7532",
+        "url": "https://github.com/MODSetter/SurfSense"
+    },
+    {
+        "description": "1\ufe0f\u20e3\ud83d\udc1d\ud83c\udfce\ufe0f The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java",
+        "language": "Java",
+        "name": "gunnarmorling/1brc",
+        "stars": "7314",
+        "url": "https://github.com/gunnarmorling/1brc"
+    },
+    {
+        "description": "Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms \u2013 from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems",
+        "language": "Kotlin",
+        "name": "JetBrains/koog",
+        "stars": "2799",
+        "url": "https://github.com/JetBrains/koog"
+    },
+    {
+        "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped withhttps://github.com/microsoft/RD-Agentto automate R&D process.",
+        "language": "Python",
+        "name": "microsoft/qlib",
+        "stars": "29832",
+        "url": "https://github.com/microsoft/qlib"
+    },
+    {
+        "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+        "language": "JavaScript",
+        "name": "pedroslopez/whatsapp-web.js",
+        "stars": "18774",
+        "url": "https://github.com/pedroslopez/whatsapp-web.js"
+    },
+    {
+        "description": "A complete computer science study plan to become a software engineer.",
+        "language": "N/A",
+        "name": "jwasham/coding-interview-university",
+        "stars": "326323",
+        "url": "https://github.com/jwasham/coding-interview-university"
+    },
+    {
+        "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+        "language": "C++",
+        "name": "microsoft/terminal",
+        "stars": "99888",
+        "url": "https://github.com/microsoft/terminal"
+    }
+]
