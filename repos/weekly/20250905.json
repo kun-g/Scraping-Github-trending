@@ -3,49 +3,49 @@
         "description": "Windows inside a Docker container.",
         "language": "Shell",
         "name": "dockur/windows",
-        "stars": "44300",
+        "stars": "44304",
         "url": "https://github.com/dockur/windows"
     },
     {
         "description": "Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.",
         "language": "Python",
         "name": "QuentinFuxa/WhisperLiveKit",
-        "stars": "6254",
+        "stars": "6258",
         "url": "https://github.com/QuentinFuxa/WhisperLiveKit"
     },
     {
         "description": "Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.",
         "language": "TypeScript",
         "name": "bytebot-ai/bytebot",
-        "stars": "4637",
+        "stars": "4650",
         "url": "https://github.com/bytebot-ai/bytebot"
     },
     {
         "description": "E-mails, subdomains and names Harvester - OSINT",
         "language": "Python",
         "name": "laramies/theHarvester",
-        "stars": "14201",
+        "stars": "14202",
         "url": "https://github.com/laramies/theHarvester"
     },
     {
         "description": "MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone",
         "language": "Python",
         "name": "OpenBMB/MiniCPM-V",
-        "stars": "21225",
+        "stars": "21226",
         "url": "https://github.com/OpenBMB/MiniCPM-V"
     },
     {
         "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
         "language": "JavaScript",
         "name": "asgeirtj/system_prompts_leaks",
-        "stars": "18848",
+        "stars": "18852",
         "url": "https://github.com/asgeirtj/system_prompts_leaks"
     },
     {
         "description": "\u26a1\ufe0f GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered insights in seconds.",
         "language": "TypeScript",
         "name": "Canner/WrenAI",
-        "stars": "11615",
+        "stars": "11619",
         "url": "https://github.com/Canner/WrenAI"
     },
     {
@@ -59,14 +59,14 @@
         "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
         "language": "JavaScript",
         "name": "pedroslopez/whatsapp-web.js",
-        "stars": "19148",
+        "stars": "19149",
         "url": "https://github.com/pedroslopez/whatsapp-web.js"
     },
     {
         "description": "Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms \u2013 from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems",
         "language": "Kotlin",
         "name": "JetBrains/koog",
-        "stars": "2882",
+        "stars": "2883",
         "url": "https://github.com/JetBrains/koog"
     },
     {
@@ -80,21 +80,21 @@
         "description": "Grist is the evolution of spreadsheets.",
         "language": "TypeScript",
         "name": "gristlabs/grist-core",
-        "stars": "9282",
+        "stars": "9284",
         "url": "https://github.com/gristlabs/grist-core"
     },
     {
         "description": "1\ufe0f\u20e3\ud83d\udc1d\ud83c\udfce\ufe0f The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java",
         "language": "Java",
         "name": "gunnarmorling/1brc",
-        "stars": "7327",
+        "stars": "7328",
         "url": "https://github.com/gunnarmorling/1brc"
     },
     {
         "description": "Mobile-Agent: The Powerful GUI Agent Family",
         "language": "Python",
         "name": "X-PLUG/MobileAgent",
-        "stars": "5415",
+        "stars": "5416",
         "url": "https://github.com/X-PLUG/MobileAgent"
     }
 ]
