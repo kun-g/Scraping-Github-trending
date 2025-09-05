@@ -3,63 +3,63 @@
         "description": "Windows inside a Docker container.",
         "language": "Shell",
         "name": "dockur/windows",
-        "stars": "44304",
+        "stars": "44306",
         "url": "https://github.com/dockur/windows"
     },
     {
         "description": "Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.",
         "language": "Python",
         "name": "QuentinFuxa/WhisperLiveKit",
-        "stars": "6258",
+        "stars": "6259",
         "url": "https://github.com/QuentinFuxa/WhisperLiveKit"
     },
     {
         "description": "Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.",
         "language": "TypeScript",
         "name": "bytebot-ai/bytebot",
-        "stars": "4650",
+        "stars": "4678",
         "url": "https://github.com/bytebot-ai/bytebot"
     },
     {
         "description": "E-mails, subdomains and names Harvester - OSINT",
         "language": "Python",
         "name": "laramies/theHarvester",
-        "stars": "14202",
+        "stars": "14203",
         "url": "https://github.com/laramies/theHarvester"
     },
     {
         "description": "MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone",
         "language": "Python",
         "name": "OpenBMB/MiniCPM-V",
-        "stars": "21226",
+        "stars": "21227",
         "url": "https://github.com/OpenBMB/MiniCPM-V"
     },
     {
         "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
         "language": "JavaScript",
         "name": "asgeirtj/system_prompts_leaks",
-        "stars": "18852",
+        "stars": "18858",
         "url": "https://github.com/asgeirtj/system_prompts_leaks"
     },
     {
         "description": "\u26a1\ufe0f GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered insights in seconds.",
         "language": "TypeScript",
         "name": "Canner/WrenAI",
-        "stars": "11619",
+        "stars": "11623",
         "url": "https://github.com/Canner/WrenAI"
     },
     {
         "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
         "language": "Rust",
         "name": "juspay/hyperswitch",
-        "stars": "26533",
+        "stars": "26535",
         "url": "https://github.com/juspay/hyperswitch"
     },
     {
         "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
         "language": "JavaScript",
         "name": "pedroslopez/whatsapp-web.js",
-        "stars": "19149",
+        "stars": "19153",
         "url": "https://github.com/pedroslopez/whatsapp-web.js"
     },
     {
@@ -73,14 +73,14 @@
         "description": "SoTA open-source TTS",
         "language": "Python",
         "name": "resemble-ai/chatterbox",
-        "stars": "11762",
+        "stars": "11766",
         "url": "https://github.com/resemble-ai/chatterbox"
     },
     {
         "description": "Grist is the evolution of spreadsheets.",
         "language": "TypeScript",
         "name": "gristlabs/grist-core",
-        "stars": "9284",
+        "stars": "9286",
         "url": "https://github.com/gristlabs/grist-core"
     },
     {
@@ -94,7 +94,7 @@
         "description": "Mobile-Agent: The Powerful GUI Agent Family",
         "language": "Python",
         "name": "X-PLUG/MobileAgent",
-        "stars": "5416",
+        "stars": "5417",
         "url": "https://github.com/X-PLUG/MobileAgent"
     }
 ]

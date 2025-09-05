@@ -3,98 +3,98 @@
         "description": "Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.",
         "language": "TypeScript",
         "name": "bytebot-ai/bytebot",
-        "stars": "4650",
+        "stars": "4678",
         "url": "https://github.com/bytebot-ai/bytebot"
     },
     {
         "description": "Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.",
         "language": "TypeScript",
         "name": "LukeGus/Termix",
-        "stars": "2890",
+        "stars": "2903",
         "url": "https://github.com/LukeGus/Termix"
     },
     {
         "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
         "language": "Rust",
         "name": "rustdesk/rustdesk",
-        "stars": "97541",
+        "stars": "97549",
         "url": "https://github.com/rustdesk/rustdesk"
     },
     {
         "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
         "language": "Python",
         "name": "crewAIInc/crewAI",
-        "stars": "37565",
+        "stars": "37570",
         "url": "https://github.com/crewAIInc/crewAI"
     },
     {
         "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
         "language": "Go",
         "name": "aquasecurity/trivy",
-        "stars": "28361",
+        "stars": "28367",
         "url": "https://github.com/aquasecurity/trivy"
     },
     {
         "description": "Windows system utilities to maximize productivity",
         "language": "C#",
         "name": "microsoft/PowerToys",
-        "stars": "123180",
+        "stars": "123185",
         "url": "https://github.com/microsoft/PowerToys"
     },
     {
         "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
         "language": "JavaScript",
         "name": "pedroslopez/whatsapp-web.js",
-        "stars": "19149",
+        "stars": "19153",
         "url": "https://github.com/pedroslopez/whatsapp-web.js"
     },
     {
         "description": "Find, verify, and analyze leaked credentials",
         "language": "Go",
         "name": "trufflesecurity/trufflehog",
-        "stars": "20561",
+        "stars": "20567",
         "url": "https://github.com/trufflesecurity/trufflehog"
     },
     {
         "description": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.",
         "language": "Python",
         "name": "eriklindernoren/ML-From-Scratch",
-        "stars": "27950",
+        "stars": "27961",
         "url": "https://github.com/eriklindernoren/ML-From-Scratch"
     },
     {
         "description": "Open Source realtime backend in 1 file",
         "language": "Go",
         "name": "pocketbase/pocketbase",
-        "stars": "50426",
+        "stars": "50431",
         "url": "https://github.com/pocketbase/pocketbase"
     },
     {
         "description": "Python package and backend for the Elysia platform app.",
         "language": "Python",
         "name": "weaviate/elysia",
-        "stars": "1332",
+        "stars": "1335",
         "url": "https://github.com/weaviate/elysia"
     },
     {
         "description": "Advanced Wazuh Rules for more accurate threat detection. Feel free to implement within your own Wazuh environment, contribute, or fork!",
         "language": "Python",
         "name": "socfortress/Wazuh-Rules",
-        "stars": "981",
+        "stars": "985",
         "url": "https://github.com/socfortress/Wazuh-Rules"
     },
     {
         "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems.https://docs.ansible.com.",
         "language": "Python",
         "name": "ansible/ansible",
-        "stars": "66249",
+        "stars": "66256",
         "url": "https://github.com/ansible/ansible"
     },
     {
         "description": "TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.",
         "language": "Rust",
         "name": "tensorzero/tensorzero",
-        "stars": "10052",
+        "stars": "10061",
         "url": "https://github.com/tensorzero/tensorzero"
     }
 ]
