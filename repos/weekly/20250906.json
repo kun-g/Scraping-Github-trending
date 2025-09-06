@@ -3,21 +3,21 @@
         "description": "Windows inside a Docker container.",
         "language": "Shell",
         "name": "dockur/windows",
-        "stars": "44465",
+        "stars": "44468",
         "url": "https://github.com/dockur/windows"
     },
     {
         "description": "Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.",
         "language": "Python",
         "name": "QuentinFuxa/WhisperLiveKit",
-        "stars": "6372",
+        "stars": "6373",
         "url": "https://github.com/QuentinFuxa/WhisperLiveKit"
     },
     {
         "description": "Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.",
         "language": "TypeScript",
         "name": "bytebot-ai/bytebot",
-        "stars": "5281",
+        "stars": "5289",
         "url": "https://github.com/bytebot-ai/bytebot"
     },
     {
@@ -38,21 +38,21 @@
         "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
         "language": "JavaScript",
         "name": "pedroslopez/whatsapp-web.js",
-        "stars": "19210",
+        "stars": "19211",
         "url": "https://github.com/pedroslopez/whatsapp-web.js"
     },
     {
         "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
         "language": "Rust",
         "name": "juspay/hyperswitch",
-        "stars": "26667",
+        "stars": "26668",
         "url": "https://github.com/juspay/hyperswitch"
     },
     {
         "description": "MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone",
         "language": "Python",
         "name": "OpenBMB/MiniCPM-V",
-        "stars": "21341",
+        "stars": "21342",
         "url": "https://github.com/OpenBMB/MiniCPM-V"
     },
     {
@@ -80,7 +80,7 @@
         "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
         "language": "Python",
         "name": "HKUDS/DeepCode",
-        "stars": "5609",
+        "stars": "5610",
         "url": "https://github.com/HKUDS/DeepCode"
     },
     {
@@ -94,7 +94,7 @@
         "description": "Python package and backend for the Elysia platform app.",
         "language": "Python",
         "name": "weaviate/elysia",
-        "stars": "1426",
+        "stars": "1427",
         "url": "https://github.com/weaviate/elysia"
     }
 ]
