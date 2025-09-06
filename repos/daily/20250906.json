@@ -3,63 +3,63 @@
         "description": "Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.",
         "language": "TypeScript",
         "name": "bytebot-ai/bytebot",
-        "stars": "5289",
+        "stars": "5298",
         "url": "https://github.com/bytebot-ai/bytebot"
     },
     {
         "description": "Official inference framework for 1-bit LLMs",
         "language": "Python",
         "name": "microsoft/BitNet",
-        "stars": "21466",
+        "stars": "21469",
         "url": "https://github.com/microsoft/BitNet"
     },
     {
         "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
         "language": "Go",
         "name": "aquasecurity/trivy",
-        "stars": "28502",
+        "stars": "28504",
         "url": "https://github.com/aquasecurity/trivy"
     },
     {
         "description": "Find, verify, and analyze leaked credentials",
         "language": "Go",
         "name": "trufflesecurity/trufflehog",
-        "stars": "20781",
+        "stars": "20782",
         "url": "https://github.com/trufflesecurity/trufflehog"
     },
     {
         "description": "Xray\u3001Tuic\u3001hysteria2\u3001sing-box \u516b\u5408\u4e00\u4e00\u952e\u811a\u672c",
         "language": "Shell",
         "name": "mack-a/v2ray-agent",
-        "stars": "16969",
+        "stars": "16975",
         "url": "https://github.com/mack-a/v2ray-agent"
     },
     {
         "description": "Streaming music player that finds free music for you",
         "language": "TypeScript",
         "name": "nukeop/nuclear",
-        "stars": "14330",
+        "stars": "14342",
         "url": "https://github.com/nukeop/nuclear"
     },
     {
         "description": "Evolution API is an open-source WhatsApp integration API",
         "language": "TypeScript",
         "name": "EvolutionAPI/evolution-api",
-        "stars": "5176",
+        "stars": "5182",
         "url": "https://github.com/EvolutionAPI/evolution-api"
     },
     {
         "description": "Awesome MCP Servers - A curated list of Model Context Protocol servers",
         "language": "N/A",
         "name": "appcypher/awesome-mcp-servers",
-        "stars": "4354",
+        "stars": "4360",
         "url": "https://github.com/appcypher/awesome-mcp-servers"
     },
     {
         "description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.",
         "language": "Python",
         "name": "emcie-co/parlant",
-        "stars": "8952",
+        "stars": "8959",
         "url": "https://github.com/emcie-co/parlant"
     },
     {
@@ -73,35 +73,35 @@
         "description": "\u26a1 Universal Workflow Orchestration Platform \u2014 Code in any language, run anywhere. 800+ plugins for data, infrastructure, and AI automation.",
         "language": "Java",
         "name": "kestra-io/kestra",
-        "stars": "20847",
+        "stars": "20853",
         "url": "https://github.com/kestra-io/kestra"
     },
     {
         "description": "FinGPT: Open-Source Financial Large Language Models! Revolutionize \ud83d\udd25 We release the trained model on HuggingFace.",
         "language": "Jupyter Notebook",
         "name": "AI4Finance-Foundation/FinGPT",
-        "stars": "17343",
+        "stars": "17345",
         "url": "https://github.com/AI4Finance-Foundation/FinGPT"
     },
     {
         "description": "\u6240\u6709\u5c0f\u521d\u9ad8\u3001\u5927\u5b66PDF\u6559\u6750\u3002",
         "language": "Roff",
         "name": "TapXWorld/ChinaTextbook",
-        "stars": "48466",
+        "stars": "48472",
         "url": "https://github.com/TapXWorld/ChinaTextbook"
     },
     {
         "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
         "language": "Python",
         "name": "apache/airflow",
-        "stars": "42001",
+        "stars": "42004",
         "url": "https://github.com/apache/airflow"
     },
     {
         "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
         "language": "C",
         "name": "wazuh/wazuh",
-        "stars": "13350",
+        "stars": "13354",
         "url": "https://github.com/wazuh/wazuh"
     }
 ]

@@ -3,21 +3,21 @@
         "description": "Windows inside a Docker container.",
         "language": "Shell",
         "name": "dockur/windows",
-        "stars": "44468",
+        "stars": "44471",
         "url": "https://github.com/dockur/windows"
     },
     {
         "description": "Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.",
         "language": "Python",
         "name": "QuentinFuxa/WhisperLiveKit",
-        "stars": "6373",
+        "stars": "6375",
         "url": "https://github.com/QuentinFuxa/WhisperLiveKit"
     },
     {
         "description": "Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.",
         "language": "TypeScript",
         "name": "bytebot-ai/bytebot",
-        "stars": "5289",
+        "stars": "5298",
         "url": "https://github.com/bytebot-ai/bytebot"
     },
     {
@@ -52,7 +52,7 @@
         "description": "MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone",
         "language": "Python",
         "name": "OpenBMB/MiniCPM-V",
-        "stars": "21342",
+        "stars": "21343",
         "url": "https://github.com/OpenBMB/MiniCPM-V"
     },
     {
@@ -80,7 +80,7 @@
         "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
         "language": "Python",
         "name": "HKUDS/DeepCode",
-        "stars": "5610",
+        "stars": "5611",
         "url": "https://github.com/HKUDS/DeepCode"
     },
     {
@@ -94,7 +94,7 @@
         "description": "Python package and backend for the Elysia platform app.",
         "language": "Python",
         "name": "weaviate/elysia",
-        "stars": "1427",
+        "stars": "1428",
         "url": "https://github.com/weaviate/elysia"
     }
 ]
