@@ -1,0 +1,114 @@
+[
+    {
+        "description": "Windows inside a Docker container.",
+        "language": "Shell",
+        "name": "dockur/windows",
+        "stars": "44574",
+        "url": "https://github.com/dockur/windows"
+    },
+    {
+        "description": "Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.",
+        "language": "TypeScript",
+        "name": "bytebot-ai/bytebot",
+        "stars": "5656",
+        "url": "https://github.com/bytebot-ai/bytebot"
+    },
+    {
+        "description": "Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.",
+        "language": "Python",
+        "name": "QuentinFuxa/WhisperLiveKit",
+        "stars": "6441",
+        "url": "https://github.com/QuentinFuxa/WhisperLiveKit"
+    },
+    {
+        "description": "HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more. Bring your LLM and Framework of choice and start giving your AI agents safe access to the world. Agentic Workflows, human in the loop, tool calling",
+        "language": "TypeScript",
+        "name": "humanlayer/humanlayer",
+        "stars": "2206",
+        "url": "https://github.com/humanlayer/humanlayer"
+    },
+    {
+        "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+        "language": "JavaScript",
+        "name": "pedroslopez/whatsapp-web.js",
+        "stars": "19242",
+        "url": "https://github.com/pedroslopez/whatsapp-web.js"
+    },
+    {
+        "description": "Official Elixir Language Server Protocol implementation",
+        "language": "Elixir",
+        "name": "elixir-lang/expert",
+        "stars": "1372",
+        "url": "https://github.com/elixir-lang/expert"
+    },
+    {
+        "description": "[WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)",
+        "language": "Jupyter Notebook",
+        "name": "chiphuyen/aie-book",
+        "stars": "7982",
+        "url": "https://github.com/chiphuyen/aie-book"
+    },
+    {
+        "description": "MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone",
+        "language": "Python",
+        "name": "OpenBMB/MiniCPM-V",
+        "stars": "21392",
+        "url": "https://github.com/OpenBMB/MiniCPM-V"
+    },
+    {
+        "description": "E-mails, subdomains and names Harvester - OSINT",
+        "language": "Python",
+        "name": "laramies/theHarvester",
+        "stars": "14284",
+        "url": "https://github.com/laramies/theHarvester"
+    },
+    {
+        "description": "Grist is the evolution of spreadsheets.",
+        "language": "TypeScript",
+        "name": "gristlabs/grist-core",
+        "stars": "9419",
+        "url": "https://github.com/gristlabs/grist-core"
+    },
+    {
+        "description": "Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms \u2013 from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems",
+        "language": "Kotlin",
+        "name": "JetBrains/koog",
+        "stars": "2934",
+        "url": "https://github.com/JetBrains/koog"
+    },
+    {
+        "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+        "language": "Python",
+        "name": "HKUDS/DeepCode",
+        "stars": "5683",
+        "url": "https://github.com/HKUDS/DeepCode"
+    },
+    {
+        "description": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. \ud83d\udd17https://aka.ms/RD-Agent-Tech-Report",
+        "language": "Python",
+        "name": "microsoft/RD-Agent",
+        "stars": "7475",
+        "url": "https://github.com/microsoft/RD-Agent"
+    },
+    {
+        "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
+        "language": "Rust",
+        "name": "google/comprehensive-rust",
+        "stars": "31695",
+        "url": "https://github.com/google/comprehensive-rust"
+    },
+    {
+        "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+        "language": "Go",
+        "name": "aquasecurity/trivy",
+        "stars": "28605",
+        "url": "https://github.com/aquasecurity/trivy"
+    },
+    {
+        "description": "1\ufe0f\u20e3\ud83d\udc1d\ud83c\udfce\ufe0f The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java",
+        "language": "Java",
+        "name": "gunnarmorling/1brc",
+        "stars": "7353",
+        "url": "https://github.com/gunnarmorling/1brc"
+    }
+]

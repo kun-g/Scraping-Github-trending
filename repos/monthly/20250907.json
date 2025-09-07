@@ -1,0 +1,121 @@
+[
+    {
+        "description": "\ud83d\udc96\ud83e\uddf8 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+        "language": "Vue",
+        "name": "moeru-ai/airi",
+        "stars": "13009",
+        "url": "https://github.com/moeru-ai/airi"
+    },
+    {
+        "description": "Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.",
+        "language": "Python",
+        "name": "coleam00/Archon",
+        "stars": "11676",
+        "url": "https://github.com/coleam00/Archon"
+    },
+    {
+        "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
+        "language": "JavaScript",
+        "name": "asgeirtj/system_prompts_leaks",
+        "stars": "19187",
+        "url": "https://github.com/asgeirtj/system_prompts_leaks"
+    },
+    {
+        "description": "Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork ofhttps://github.com/Fmstrat/winapps/",
+        "language": "Shell",
+        "name": "winapps-org/winapps",
+        "stars": "8866",
+        "url": "https://github.com/winapps-org/winapps"
+    },
+    {
+        "description": "Open-source platform to build and deploy AI agent workflows.",
+        "language": "TypeScript",
+        "name": "simstudioai/sim",
+        "stars": "14280",
+        "url": "https://github.com/simstudioai/sim"
+    },
+    {
+        "description": "Lightweight coding agent that runs in your terminal",
+        "language": "Rust",
+        "name": "openai/codex",
+        "stars": "39055",
+        "url": "https://github.com/openai/codex"
+    },
+    {
+        "description": "An Open-Source Asynchronous Coding Agent",
+        "language": "TypeScript",
+        "name": "langchain-ai/open-swe",
+        "stars": "4704",
+        "url": "https://github.com/langchain-ai/open-swe"
+    },
+    {
+        "description": "Windows inside a Docker container.",
+        "language": "Shell",
+        "name": "dockur/windows",
+        "stars": "44574",
+        "url": "https://github.com/dockur/windows"
+    },
+    {
+        "description": "Opinionated Arch/Hyprland Setup",
+        "language": "Shell",
+        "name": "basecamp/omarchy",
+        "stars": "7062",
+        "url": "https://github.com/basecamp/omarchy"
+    },
+    {
+        "description": "Super Magic. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)",
+        "language": "PHP",
+        "name": "dtyq/magic",
+        "stars": "3960",
+        "url": "https://github.com/dtyq/magic"
+    },
+    {
+        "description": "Cybersecurity AI (CAI), the framework for AI Security",
+        "language": "Python",
+        "name": "aliasrobotics/cai",
+        "stars": "3560",
+        "url": "https://github.com/aliasrobotics/cai"
+    },
+    {
+        "description": "Open Source Spotify client library",
+        "language": "Rust",
+        "name": "librespot-org/librespot",
+        "stars": "5599",
+        "url": "https://github.com/librespot-org/librespot"
+    },
+    {
+        "description": "\u26a1\ufe0f GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered insights in seconds.",
+        "language": "TypeScript",
+        "name": "Canner/WrenAI",
+        "stars": "11714",
+        "url": "https://github.com/Canner/WrenAI"
+    },
+    {
+        "description": "GoogleTest - Google Testing and Mocking Framework",
+        "language": "C++",
+        "name": "google/googletest",
+        "stars": "37028",
+        "url": "https://github.com/google/googletest"
+    },
+    {
+        "description": "A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)",
+        "language": "Python",
+        "name": "oraios/serena",
+        "stars": "11653",
+        "url": "https://github.com/oraios/serena"
+    },
+    {
+        "description": "MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone",
+        "language": "Python",
+        "name": "OpenBMB/MiniCPM-V",
+        "stars": "21392",
+        "url": "https://github.com/OpenBMB/MiniCPM-V"
+    },
+    {
+        "description": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+        "language": "Go",
+        "name": "external-secrets/external-secrets",
+        "stars": "5785",
+        "url": "https://github.com/external-secrets/external-secrets"
+    }
+]
