@@ -1,0 +1,128 @@
+[
+    {
+        "description": "Windows inside a Docker container.",
+        "language": "Shell",
+        "name": "dockur/windows",
+        "stars": "44692",
+        "url": "https://github.com/dockur/windows"
+    },
+    {
+        "description": "Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.",
+        "language": "TypeScript",
+        "name": "bytebot-ai/bytebot",
+        "stars": "5844",
+        "url": "https://github.com/bytebot-ai/bytebot"
+    },
+    {
+        "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+        "language": "JavaScript",
+        "name": "pedroslopez/whatsapp-web.js",
+        "stars": "19272",
+        "url": "https://github.com/pedroslopez/whatsapp-web.js"
+    },
+    {
+        "description": "HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more. Bring your LLM and Framework of choice and start giving your AI agents safe access to the world. Agentic Workflows, human in the loop, tool calling",
+        "language": "TypeScript",
+        "name": "humanlayer/humanlayer",
+        "stars": "2273",
+        "url": "https://github.com/humanlayer/humanlayer"
+    },
+    {
+        "description": "Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.",
+        "language": "Python",
+        "name": "QuentinFuxa/WhisperLiveKit",
+        "stars": "6513",
+        "url": "https://github.com/QuentinFuxa/WhisperLiveKit"
+    },
+    {
+        "description": "Koog is the official Kotlin framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms \u2013 from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems",
+        "language": "Kotlin",
+        "name": "JetBrains/koog",
+        "stars": "2953",
+        "url": "https://github.com/JetBrains/koog"
+    },
+    {
+        "description": "Grist is the evolution of spreadsheets.",
+        "language": "TypeScript",
+        "name": "gristlabs/grist-core",
+        "stars": "9472",
+        "url": "https://github.com/gristlabs/grist-core"
+    },
+    {
+        "description": "MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone",
+        "language": "Python",
+        "name": "OpenBMB/MiniCPM-V",
+        "stars": "21455",
+        "url": "https://github.com/OpenBMB/MiniCPM-V"
+    },
+    {
+        "description": "SoTA open-source TTS",
+        "language": "Python",
+        "name": "resemble-ai/chatterbox",
+        "stars": "12271",
+        "url": "https://github.com/resemble-ai/chatterbox"
+    },
+    {
+        "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+        "language": "Go",
+        "name": "aquasecurity/trivy",
+        "stars": "28705",
+        "url": "https://github.com/aquasecurity/trivy"
+    },
+    {
+        "description": "",
+        "language": "Go",
+        "name": "google/mangle",
+        "stars": "2436",
+        "url": "https://github.com/google/mangle"
+    },
+    {
+        "description": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. \ud83d\udd17https://aka.ms/RD-Agent-Tech-Report",
+        "language": "Python",
+        "name": "microsoft/RD-Agent",
+        "stars": "7524",
+        "url": "https://github.com/microsoft/RD-Agent"
+    },
+    {
+        "description": "1\ufe0f\u20e3\ud83d\udc1d\ud83c\udfce\ufe0f The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java",
+        "language": "Java",
+        "name": "gunnarmorling/1brc",
+        "stars": "7361",
+        "url": "https://github.com/gunnarmorling/1brc"
+    },
+    {
+        "description": "Official Elixir Language Server Protocol implementation",
+        "language": "Elixir",
+        "name": "elixir-lang/expert",
+        "stars": "1385",
+        "url": "https://github.com/elixir-lang/expert"
+    },
+    {
+        "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
+        "language": "Rust",
+        "name": "google/comprehensive-rust",
+        "stars": "31756",
+        "url": "https://github.com/google/comprehensive-rust"
+    },
+    {
+        "description": "Distributed query engine providing simple and reliable data processing for any modality and scale",
+        "language": "Rust",
+        "name": "Eventual-Inc/Daft",
+        "stars": "3902",
+        "url": "https://github.com/Eventual-Inc/Daft"
+    },
+    {
+        "description": "A reference .NET application implementing an eCommerce site",
+        "language": "C#",
+        "name": "dotnet/eShop",
+        "stars": "8972",
+        "url": "https://github.com/dotnet/eShop"
+    },
+    {
+        "description": "Find, verify, and analyze leaked credentials",
+        "language": "Go",
+        "name": "trufflesecurity/trufflehog",
+        "stars": "21167",
+        "url": "https://github.com/trufflesecurity/trufflehog"
+    }
+]
