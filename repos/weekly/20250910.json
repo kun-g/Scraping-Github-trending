@@ -3,14 +3,14 @@
         "description": "Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.",
         "language": "TypeScript",
         "name": "bytebot-ai/bytebot",
-        "stars": "6274",
+        "stars": "6278",
         "url": "https://github.com/bytebot-ai/bytebot"
     },
     {
         "description": "Windows inside a Docker container.",
         "language": "Shell",
         "name": "dockur/windows",
-        "stars": "44971",
+        "stars": "44972",
         "url": "https://github.com/dockur/windows"
     },
     {
@@ -24,7 +24,7 @@
         "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
         "language": "JavaScript",
         "name": "pedroslopez/whatsapp-web.js",
-        "stars": "19339",
+        "stars": "19340",
         "url": "https://github.com/pedroslopez/whatsapp-web.js"
     },
     {
@@ -38,7 +38,7 @@
         "description": "Distributed query engine providing simple and reliable data processing for any modality and scale",
         "language": "Rust",
         "name": "Eventual-Inc/Daft",
-        "stars": "4174",
+        "stars": "4177",
         "url": "https://github.com/Eventual-Inc/Daft"
     },
     {
@@ -52,28 +52,28 @@
         "description": "Find, verify, and analyze leaked credentials",
         "language": "Go",
         "name": "trufflesecurity/trufflehog",
-        "stars": "21334",
+        "stars": "21335",
         "url": "https://github.com/trufflesecurity/trufflehog"
     },
     {
         "description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.",
         "language": "Python",
         "name": "emcie-co/parlant",
-        "stars": "11215",
+        "stars": "11222",
         "url": "https://github.com/emcie-co/parlant"
     },
     {
         "description": "",
         "language": "Go",
         "name": "google/mangle",
-        "stars": "2576",
+        "stars": "2577",
         "url": "https://github.com/google/mangle"
     },
     {
         "description": "#1 Locally hosted web application that allows you to perform various operations on PDF files",
         "language": "Java",
         "name": "Stirling-Tools/Stirling-PDF",
-        "stars": "66344",
+        "stars": "66348",
         "url": "https://github.com/Stirling-Tools/Stirling-PDF"
     },
     {
@@ -94,7 +94,7 @@
         "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
         "language": "Rust",
         "name": "rustdesk/rustdesk",
-        "stars": "97976",
+        "stars": "97977",
         "url": "https://github.com/rustdesk/rustdesk"
     },
     {
@@ -108,7 +108,7 @@
         "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
         "language": "Rust",
         "name": "google/comprehensive-rust",
-        "stars": "31857",
+        "stars": "31858",
         "url": "https://github.com/google/comprehensive-rust"
     },
     {
