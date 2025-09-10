@@ -1,0 +1,121 @@
+[
+    {
+        "description": "Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.",
+        "language": "TypeScript",
+        "name": "bytebot-ai/bytebot",
+        "stars": "6274",
+        "url": "https://github.com/bytebot-ai/bytebot"
+    },
+    {
+        "description": "Windows inside a Docker container.",
+        "language": "Shell",
+        "name": "dockur/windows",
+        "stars": "44971",
+        "url": "https://github.com/dockur/windows"
+    },
+    {
+        "description": "Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.",
+        "language": "TypeScript",
+        "name": "LukeGus/Termix",
+        "stars": "3360",
+        "url": "https://github.com/LukeGus/Termix"
+    },
+    {
+        "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+        "language": "JavaScript",
+        "name": "pedroslopez/whatsapp-web.js",
+        "stars": "19339",
+        "url": "https://github.com/pedroslopez/whatsapp-web.js"
+    },
+    {
+        "description": "SoTA open-source TTS",
+        "language": "Python",
+        "name": "resemble-ai/chatterbox",
+        "stars": "12505",
+        "url": "https://github.com/resemble-ai/chatterbox"
+    },
+    {
+        "description": "Distributed query engine providing simple and reliable data processing for any modality and scale",
+        "language": "Rust",
+        "name": "Eventual-Inc/Daft",
+        "stars": "4174",
+        "url": "https://github.com/Eventual-Inc/Daft"
+    },
+    {
+        "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+        "language": "Go",
+        "name": "aquasecurity/trivy",
+        "stars": "28808",
+        "url": "https://github.com/aquasecurity/trivy"
+    },
+    {
+        "description": "Find, verify, and analyze leaked credentials",
+        "language": "Go",
+        "name": "trufflesecurity/trufflehog",
+        "stars": "21334",
+        "url": "https://github.com/trufflesecurity/trufflehog"
+    },
+    {
+        "description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.",
+        "language": "Python",
+        "name": "emcie-co/parlant",
+        "stars": "11215",
+        "url": "https://github.com/emcie-co/parlant"
+    },
+    {
+        "description": "",
+        "language": "Go",
+        "name": "google/mangle",
+        "stars": "2576",
+        "url": "https://github.com/google/mangle"
+    },
+    {
+        "description": "#1 Locally hosted web application that allows you to perform various operations on PDF files",
+        "language": "Java",
+        "name": "Stirling-Tools/Stirling-PDF",
+        "stars": "66344",
+        "url": "https://github.com/Stirling-Tools/Stirling-PDF"
+    },
+    {
+        "description": "HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more. Bring your LLM and Framework of choice and start giving your AI agents safe access to the world. Agentic Workflows, human in the loop, tool calling",
+        "language": "TypeScript",
+        "name": "humanlayer/humanlayer",
+        "stars": "2384",
+        "url": "https://github.com/humanlayer/humanlayer"
+    },
+    {
+        "description": "Cross-platform Rust rewrite of the GNU coreutils",
+        "language": "Rust",
+        "name": "uutils/coreutils",
+        "stars": "21364",
+        "url": "https://github.com/uutils/coreutils"
+    },
+    {
+        "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+        "language": "Rust",
+        "name": "rustdesk/rustdesk",
+        "stars": "97976",
+        "url": "https://github.com/rustdesk/rustdesk"
+    },
+    {
+        "description": "\u26a1 Universal Workflow Orchestration Platform \u2014 Code in any language, run anywhere. 900+ plugins for data, infrastructure, and AI automation.",
+        "language": "Java",
+        "name": "kestra-io/kestra",
+        "stars": "21038",
+        "url": "https://github.com/kestra-io/kestra"
+    },
+    {
+        "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
+        "language": "Rust",
+        "name": "google/comprehensive-rust",
+        "stars": "31857",
+        "url": "https://github.com/google/comprehensive-rust"
+    },
+    {
+        "description": "Open Source realtime backend in 1 file",
+        "language": "Go",
+        "name": "pocketbase/pocketbase",
+        "stars": "50686",
+        "url": "https://github.com/pocketbase/pocketbase"
+    }
+]
