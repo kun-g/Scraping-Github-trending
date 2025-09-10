@@ -3,21 +3,21 @@
         "description": "Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.",
         "language": "TypeScript",
         "name": "bytebot-ai/bytebot",
-        "stars": "6278",
+        "stars": "6286",
         "url": "https://github.com/bytebot-ai/bytebot"
     },
     {
         "description": "Windows inside a Docker container.",
         "language": "Shell",
         "name": "dockur/windows",
-        "stars": "44972",
+        "stars": "44974",
         "url": "https://github.com/dockur/windows"
     },
     {
         "description": "Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.",
         "language": "TypeScript",
         "name": "LukeGus/Termix",
-        "stars": "3360",
+        "stars": "3362",
         "url": "https://github.com/LukeGus/Termix"
     },
     {
@@ -31,21 +31,21 @@
         "description": "SoTA open-source TTS",
         "language": "Python",
         "name": "resemble-ai/chatterbox",
-        "stars": "12505",
+        "stars": "12506",
         "url": "https://github.com/resemble-ai/chatterbox"
     },
     {
         "description": "Distributed query engine providing simple and reliable data processing for any modality and scale",
         "language": "Rust",
         "name": "Eventual-Inc/Daft",
-        "stars": "4177",
+        "stars": "4182",
         "url": "https://github.com/Eventual-Inc/Daft"
     },
     {
         "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
         "language": "Go",
         "name": "aquasecurity/trivy",
-        "stars": "28808",
+        "stars": "28809",
         "url": "https://github.com/aquasecurity/trivy"
     },
     {
@@ -59,42 +59,42 @@
         "description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.",
         "language": "Python",
         "name": "emcie-co/parlant",
-        "stars": "11222",
+        "stars": "11228",
         "url": "https://github.com/emcie-co/parlant"
     },
     {
         "description": "",
         "language": "Go",
         "name": "google/mangle",
-        "stars": "2577",
+        "stars": "2578",
         "url": "https://github.com/google/mangle"
     },
     {
         "description": "#1 Locally hosted web application that allows you to perform various operations on PDF files",
         "language": "Java",
         "name": "Stirling-Tools/Stirling-PDF",
-        "stars": "66348",
+        "stars": "66355",
         "url": "https://github.com/Stirling-Tools/Stirling-PDF"
     },
     {
         "description": "HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more. Bring your LLM and Framework of choice and start giving your AI agents safe access to the world. Agentic Workflows, human in the loop, tool calling",
         "language": "TypeScript",
         "name": "humanlayer/humanlayer",
-        "stars": "2384",
+        "stars": "2386",
         "url": "https://github.com/humanlayer/humanlayer"
     },
     {
         "description": "Cross-platform Rust rewrite of the GNU coreutils",
         "language": "Rust",
         "name": "uutils/coreutils",
-        "stars": "21364",
+        "stars": "21366",
         "url": "https://github.com/uutils/coreutils"
     },
     {
         "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
         "language": "Rust",
         "name": "rustdesk/rustdesk",
-        "stars": "97977",
+        "stars": "97978",
         "url": "https://github.com/rustdesk/rustdesk"
     },
     {
@@ -115,7 +115,7 @@
         "description": "Open Source realtime backend in 1 file",
         "language": "Go",
         "name": "pocketbase/pocketbase",
-        "stars": "50686",
+        "stars": "50689",
         "url": "https://github.com/pocketbase/pocketbase"
     }
 ]
