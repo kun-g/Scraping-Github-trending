@@ -1,0 +1,128 @@
+[
+    {
+        "description": "Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.",
+        "language": "TypeScript",
+        "name": "bytebot-ai/bytebot",
+        "stars": "6457",
+        "url": "https://github.com/bytebot-ai/bytebot"
+    },
+    {
+        "description": "#1 Locally hosted web application that allows you to perform various operations on PDF files",
+        "language": "Java",
+        "name": "Stirling-Tools/Stirling-PDF",
+        "stars": "66685",
+        "url": "https://github.com/Stirling-Tools/Stirling-PDF"
+    },
+    {
+        "description": "Cross-platform Rust rewrite of the GNU coreutils",
+        "language": "Rust",
+        "name": "uutils/coreutils",
+        "stars": "21393",
+        "url": "https://github.com/uutils/coreutils"
+    },
+    {
+        "description": "Distributed query engine providing simple and reliable data processing for any modality and scale",
+        "language": "Rust",
+        "name": "Eventual-Inc/Daft",
+        "stars": "4303",
+        "url": "https://github.com/Eventual-Inc/Daft"
+    },
+    {
+        "description": "",
+        "language": "Python",
+        "name": "Physical-Intelligence/openpi",
+        "stars": "5534",
+        "url": "https://github.com/Physical-Intelligence/openpi"
+    },
+    {
+        "description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.",
+        "language": "Python",
+        "name": "emcie-co/parlant",
+        "stars": "11525",
+        "url": "https://github.com/emcie-co/parlant"
+    },
+    {
+        "description": "Find, verify, and analyze leaked credentials",
+        "language": "Go",
+        "name": "trufflesecurity/trufflehog",
+        "stars": "21388",
+        "url": "https://github.com/trufflesecurity/trufflehog"
+    },
+    {
+        "description": "SoTA open-source TTS",
+        "language": "Python",
+        "name": "resemble-ai/chatterbox",
+        "stars": "12579",
+        "url": "https://github.com/resemble-ai/chatterbox"
+    },
+    {
+        "description": "Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.",
+        "language": "TypeScript",
+        "name": "LukeGus/Termix",
+        "stars": "3477",
+        "url": "https://github.com/LukeGus/Termix"
+    },
+    {
+        "description": "The world's first open-source multimodal creative assistant This is a substitute for Canva and Manus that prioritizes privacy and is usable locally.",
+        "language": "TypeScript",
+        "name": "11cafe/jaaz",
+        "stars": "3954",
+        "url": "https://github.com/11cafe/jaaz"
+    },
+    {
+        "description": "A community driven registry service for Model Context Protocol (MCP) servers.",
+        "language": "Go",
+        "name": "modelcontextprotocol/registry",
+        "stars": "3117",
+        "url": "https://github.com/modelcontextprotocol/registry"
+    },
+    {
+        "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+        "language": "JavaScript",
+        "name": "pedroslopez/whatsapp-web.js",
+        "stars": "19370",
+        "url": "https://github.com/pedroslopez/whatsapp-web.js"
+    },
+    {
+        "description": "Windows inside a Docker container.",
+        "language": "Shell",
+        "name": "dockur/windows",
+        "stars": "45072",
+        "url": "https://github.com/dockur/windows"
+    },
+    {
+        "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+        "language": "Go",
+        "name": "aquasecurity/trivy",
+        "stars": "28840",
+        "url": "https://github.com/aquasecurity/trivy"
+    },
+    {
+        "description": "12 Lessons to Get Started Building AI Agents",
+        "language": "Jupyter Notebook",
+        "name": "microsoft/ai-agents-for-beginners",
+        "stars": "37578",
+        "url": "https://github.com/microsoft/ai-agents-for-beginners"
+    },
+    {
+        "description": "Open Source realtime backend in 1 file",
+        "language": "Go",
+        "name": "pocketbase/pocketbase",
+        "stars": "50727",
+        "url": "https://github.com/pocketbase/pocketbase"
+    },
+    {
+        "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
+        "language": "Rust",
+        "name": "google/comprehensive-rust",
+        "stars": "31892",
+        "url": "https://github.com/google/comprehensive-rust"
+    },
+    {
+        "description": "Python package and backend for the Elysia platform app.",
+        "language": "Python",
+        "name": "weaviate/elysia",
+        "stars": "1587",
+        "url": "https://github.com/weaviate/elysia"
+    }
+]
