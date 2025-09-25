@@ -10,7 +10,7 @@
         "description": "Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.",
         "language": "Python",
         "name": "QuentinFuxa/WhisperLiveKit",
-        "stars": "7004",
+        "stars": "7005",
         "url": "https://github.com/QuentinFuxa/WhisperLiveKit"
     },
     {
@@ -24,14 +24,14 @@
         "description": "Windows inside a Docker container.",
         "language": "Shell",
         "name": "dockur/windows",
-        "stars": "46128",
+        "stars": "46129",
         "url": "https://github.com/dockur/windows"
     },
     {
         "description": "Lightweight coding agent that runs in your terminal",
         "language": "Rust",
         "name": "openai/codex",
-        "stars": "44241",
+        "stars": "44243",
         "url": "https://github.com/openai/codex"
     },
     {
@@ -45,21 +45,21 @@
         "description": "Tongyi Deep Research, the Leading Open-source Deep Research Agent",
         "language": "Python",
         "name": "Alibaba-NLP/DeepResearch",
-        "stars": "14412",
+        "stars": "14416",
         "url": "https://github.com/Alibaba-NLP/DeepResearch"
     },
     {
         "description": "A community driven registry service for Model Context Protocol (MCP) servers.",
         "language": "Go",
         "name": "modelcontextprotocol/registry",
-        "stars": "5089",
+        "stars": "5090",
         "url": "https://github.com/modelcontextprotocol/registry"
     },
     {
         "description": "\ud83d\udd25 \u57fa\u4e8e\u5927\u6a21\u578b\u548c RAG \u7684\u667a\u80fd\u95ee\u6570\u7cfb\u7edf\u3002Text-to-SQL Generation via LLMs using RAG.",
         "language": "Python",
         "name": "dataease/SQLBot",
-        "stars": "2838",
+        "stars": "2841",
         "url": "https://github.com/dataease/SQLBot"
     },
     {
@@ -73,7 +73,7 @@
         "description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
         "language": "Python",
         "name": "CorentinJ/Real-Time-Voice-Cloning",
-        "stars": "57296",
+        "stars": "57297",
         "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning"
     },
     {
@@ -108,14 +108,14 @@
         "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped withhttps://github.com/microsoft/RD-Agentto automate R&D process.",
         "language": "Python",
         "name": "microsoft/qlib",
-        "stars": "31094",
+        "stars": "31095",
         "url": "https://github.com/microsoft/qlib"
     },
     {
         "description": "E-mails, subdomains and names Harvester - OSINT",
         "language": "Python",
         "name": "laramies/theHarvester",
-        "stars": "14558",
+        "stars": "14559",
         "url": "https://github.com/laramies/theHarvester"
     }
 ]
