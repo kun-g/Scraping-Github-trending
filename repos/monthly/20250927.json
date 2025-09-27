@@ -31,14 +31,14 @@
         "description": "Lightweight coding agent that runs in your terminal",
         "language": "Rust",
         "name": "openai/codex",
-        "stars": "44693",
+        "stars": "44695",
         "url": "https://github.com/openai/codex"
     },
     {
         "description": "Tongyi Deep Research, the Leading Open-source Deep Research Agent",
         "language": "Python",
         "name": "Alibaba-NLP/DeepResearch",
-        "stars": "14789",
+        "stars": "14790",
         "url": "https://github.com/Alibaba-NLP/DeepResearch"
     },
     {
@@ -52,7 +52,7 @@
         "description": "\ud83d\udd25 \u57fa\u4e8e\u5927\u6a21\u578b\u548c RAG \u7684\u667a\u80fd\u95ee\u6570\u7cfb\u7edf\u3002Text-to-SQL Generation via LLMs using RAG.",
         "language": "Python",
         "name": "dataease/SQLBot",
-        "stars": "3148",
+        "stars": "3154",
         "url": "https://github.com/dataease/SQLBot"
     },
     {
@@ -66,14 +66,14 @@
         "description": "Cross-platform Rust rewrite of the GNU coreutils",
         "language": "Rust",
         "name": "uutils/coreutils",
-        "stars": "21677",
+        "stars": "21678",
         "url": "https://github.com/uutils/coreutils"
     },
     {
         "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance\u2014up to 40 times faster\u2014thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
         "language": "Go",
         "name": "gin-gonic/gin",
-        "stars": "85876",
+        "stars": "85879",
         "url": "https://github.com/gin-gonic/gin"
     },
     {
@@ -87,14 +87,14 @@
         "description": "Find, verify, and analyze leaked credentials",
         "language": "Go",
         "name": "trufflesecurity/trufflehog",
-        "stars": "22434",
+        "stars": "22435",
         "url": "https://github.com/trufflesecurity/trufflehog"
     },
     {
         "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
         "language": "JavaScript",
         "name": "pedroslopez/whatsapp-web.js",
-        "stars": "19644",
+        "stars": "19645",
         "url": "https://github.com/pedroslopez/whatsapp-web.js"
     },
     {
@@ -115,7 +115,7 @@
         "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
         "language": "Python",
         "name": "HKUDS/DeepCode",
-        "stars": "7210",
+        "stars": "7211",
         "url": "https://github.com/HKUDS/DeepCode"
     }
 ]
