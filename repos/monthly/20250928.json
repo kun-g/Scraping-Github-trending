@@ -3,14 +3,14 @@
         "description": "Source code for the X Recommendation Algorithm",
         "language": "Scala",
         "name": "twitter/the-algorithm",
-        "stars": "67216",
+        "stars": "67217",
         "url": "https://github.com/twitter/the-algorithm"
     },
     {
         "description": "Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.",
         "language": "TypeScript",
         "name": "bytebot-ai/bytebot",
-        "stars": "7967",
+        "stars": "7970",
         "url": "https://github.com/bytebot-ai/bytebot"
     },
     {
@@ -24,56 +24,56 @@
         "description": "Windows inside a Docker container.",
         "language": "Shell",
         "name": "dockur/windows",
-        "stars": "46295",
+        "stars": "46296",
         "url": "https://github.com/dockur/windows"
     },
     {
         "description": "Lightweight coding agent that runs in your terminal",
         "language": "Rust",
         "name": "openai/codex",
-        "stars": "44850",
+        "stars": "44854",
         "url": "https://github.com/openai/codex"
     },
     {
         "description": "Tongyi Deep Research, the Leading Open-source Deep Research Agent",
         "language": "Python",
         "name": "Alibaba-NLP/DeepResearch",
-        "stars": "14887",
+        "stars": "14889",
         "url": "https://github.com/Alibaba-NLP/DeepResearch"
     },
     {
         "description": "Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.",
         "language": "Python",
         "name": "QuentinFuxa/WhisperLiveKit",
-        "stars": "7174",
+        "stars": "7182",
         "url": "https://github.com/QuentinFuxa/WhisperLiveKit"
     },
     {
         "description": "A community driven registry service for Model Context Protocol (MCP) servers.",
         "language": "Go",
         "name": "modelcontextprotocol/registry",
-        "stars": "5229",
+        "stars": "5230",
         "url": "https://github.com/modelcontextprotocol/registry"
     },
     {
         "description": "\ud83d\udd25 \u57fa\u4e8e\u5927\u6a21\u578b\u548c RAG \u7684\u667a\u80fd\u95ee\u6570\u7cfb\u7edf\u3002Text-to-SQL Generation via LLMs using RAG.",
         "language": "Python",
         "name": "dataease/SQLBot",
-        "stars": "3294",
+        "stars": "3304",
         "url": "https://github.com/dataease/SQLBot"
     },
     {
         "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance\u2014up to 40 times faster\u2014thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
         "language": "Go",
         "name": "gin-gonic/gin",
-        "stars": "85971",
+        "stars": "85970",
         "url": "https://github.com/gin-gonic/gin"
     },
     {
         "description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
         "language": "Python",
         "name": "CorentinJ/Real-Time-Voice-Cloning",
-        "stars": "57491",
+        "stars": "57494",
         "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning"
     },
     {
@@ -87,35 +87,35 @@
         "description": "A payments protocol for the internet. Built on HTTP.",
         "language": "TypeScript",
         "name": "coinbase/x402",
-        "stars": "1573",
+        "stars": "1577",
         "url": "https://github.com/coinbase/x402"
     },
     {
         "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
         "language": "TypeScript",
         "name": "firebase/genkit",
-        "stars": "4107",
+        "stars": "4109",
         "url": "https://github.com/firebase/genkit"
     },
     {
         "description": "Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI",
         "language": "TypeScript",
         "name": "ItzCrazyKns/Perplexica",
-        "stars": "25994",
+        "stars": "25998",
         "url": "https://github.com/ItzCrazyKns/Perplexica"
     },
     {
         "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
         "language": "JavaScript",
         "name": "pedroslopez/whatsapp-web.js",
-        "stars": "19663",
+        "stars": "19664",
         "url": "https://github.com/pedroslopez/whatsapp-web.js"
     },
     {
         "description": "SoTA open-source TTS",
         "language": "Python",
         "name": "resemble-ai/chatterbox",
-        "stars": "13465",
+        "stars": "13467",
         "url": "https://github.com/resemble-ai/chatterbox"
     }
 ]
