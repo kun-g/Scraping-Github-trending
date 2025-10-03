@@ -3,84 +3,84 @@
         "description": "\u2601\ufe0f Nextcloud server, a safe home for all your data",
         "language": "PHP",
         "name": "nextcloud/server",
-        "stars": "32231",
+        "stars": "32242",
         "url": "https://github.com/nextcloud/server"
     },
     {
         "description": "A JAX-native LLM Post-Training Library",
         "language": "Python",
         "name": "google/tunix",
-        "stars": "881",
+        "stars": "895",
         "url": "https://github.com/google/tunix"
     },
     {
         "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
         "language": "Python",
         "name": "pathwaycom/pathway",
-        "stars": "43983",
+        "stars": "43984",
         "url": "https://github.com/pathwaycom/pathway"
     },
     {
         "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
         "language": "TypeScript",
         "name": "cjpais/Handy",
-        "stars": "1556",
+        "stars": "1565",
         "url": "https://github.com/cjpais/Handy"
     },
     {
         "description": "",
         "language": "Python",
         "name": "anthropics/claude-agent-sdk-python",
-        "stars": "1981",
+        "stars": "1984",
         "url": "https://github.com/anthropics/claude-agent-sdk-python"
     },
     {
         "description": "\ud83d\udcd6 Runbooks that run",
         "language": "TypeScript",
         "name": "atuinsh/desktop",
-        "stars": "954",
+        "stars": "959",
         "url": "https://github.com/atuinsh/desktop"
     },
     {
         "description": "Asynchronous image downloader with cache support as a UIImageView category",
         "language": "Objective-C",
         "name": "SDWebImage/SDWebImage",
-        "stars": "25699",
+        "stars": "25700",
         "url": "https://github.com/SDWebImage/SDWebImage"
     },
     {
         "description": "Official repository for LTX-Video",
         "language": "Python",
         "name": "Lightricks/LTX-Video",
-        "stars": "8191",
+        "stars": "8194",
         "url": "https://github.com/Lightricks/LTX-Video"
     },
     {
         "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
         "language": "Rust",
         "name": "juspay/hyperswitch",
-        "stars": "34878",
+        "stars": "34880",
         "url": "https://github.com/juspay/hyperswitch"
     },
     {
         "description": "High performance self-hosted photo and video management solution.",
         "language": "TypeScript",
         "name": "immich-app/immich",
-        "stars": "78884",
+        "stars": "78893",
         "url": "https://github.com/immich-app/immich"
     },
     {
         "description": "[WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)",
         "language": "Jupyter Notebook",
         "name": "chiphuyen/aie-book",
-        "stars": "9801",
+        "stars": "9808",
         "url": "https://github.com/chiphuyen/aie-book"
     },
     {
         "description": "GitHub Actions runner images",
         "language": "PowerShell",
         "name": "actions/runner-images",
-        "stars": "11980",
+        "stars": "11981",
         "url": "https://github.com/actions/runner-images"
     },
     {
@@ -94,56 +94,56 @@
         "description": "Open-source platform to build and deploy AI agent workflows.",
         "language": "TypeScript",
         "name": "simstudioai/sim",
-        "stars": "16076",
+        "stars": "16079",
         "url": "https://github.com/simstudioai/sim"
     },
     {
         "description": "Blazor Component Library based on Material Design principles with an emphasis on ease of use and extensibility",
         "language": "C#",
         "name": "MudBlazor/MudBlazor",
-        "stars": "9599",
+        "stars": "9600",
         "url": "https://github.com/MudBlazor/MudBlazor"
     },
     {
         "description": "\u57fa\u4e8e\u591a\u667a\u80fd\u4f53LLM\u7684\u4e2d\u6587\u91d1\u878d\u4ea4\u6613\u6846\u67b6 - TradingAgents\u4e2d\u6587\u589e\u5f3a\u7248",
         "language": "Python",
         "name": "hsliuping/TradingAgents-CN",
-        "stars": "7777",
+        "stars": "7783",
         "url": "https://github.com/hsliuping/TradingAgents-CN"
     },
     {
         "description": "Quarkus: Supersonic Subatomic Java.",
         "language": "Java",
         "name": "quarkusio/quarkus",
-        "stars": "15050",
+        "stars": "15051",
         "url": "https://github.com/quarkusio/quarkus"
     },
     {
         "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
         "language": "TypeScript",
         "name": "anthropics/claude-code",
-        "stars": "35291",
+        "stars": "35298",
         "url": "https://github.com/anthropics/claude-code"
     },
     {
         "description": "Supercharge your workflow automation with this curated collection of n8n templates! Instantly connect your favorite apps-like Gmail, Telegram, Google Drive, Slack, and more-with ready-to-use, AI-powered automations. Save time, boost productivity, and unlock the true potential of n8n in just a few clicks.",
         "language": "N/A",
         "name": "enescingoz/awesome-n8n-templates",
-        "stars": "12940",
+        "stars": "12945",
         "url": "https://github.com/enescingoz/awesome-n8n-templates"
     },
     {
         "description": "Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.",
         "language": "Java",
         "name": "kestra-io/kestra",
-        "stars": "21528",
+        "stars": "21530",
         "url": "https://github.com/kestra-io/kestra"
     },
     {
         "description": "The financial transactions database designed for mission critical safety and performance.",
         "language": "Zig",
         "name": "tigerbeetle/tigerbeetle",
-        "stars": "13709",
+        "stars": "13712",
         "url": "https://github.com/tigerbeetle/tigerbeetle"
     }
 ]
