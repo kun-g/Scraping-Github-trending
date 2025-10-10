@@ -3,28 +3,28 @@
         "description": "Official inference framework for 1-bit LLMs",
         "language": "Python",
         "name": "microsoft/BitNet",
-        "stars": "24015",
+        "stars": "24016",
         "url": "https://github.com/microsoft/BitNet"
     },
     {
         "description": "Infisical is the open-source platform for secrets management, PKI, and SSH access.",
         "language": "TypeScript",
         "name": "Infisical/infisical",
-        "stars": "22432",
+        "stars": "22437",
         "url": "https://github.com/Infisical/infisical"
     },
     {
         "description": "The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.",
         "language": "Python",
         "name": "BeehiveInnovations/zen-mcp-server",
-        "stars": "8525",
+        "stars": "8528",
         "url": "https://github.com/BeehiveInnovations/zen-mcp-server"
     },
     {
         "description": "\u57fa\u4e8e\u591a\u667a\u80fd\u4f53LLM\u7684\u4e2d\u6587\u91d1\u878d\u4ea4\u6613\u6846\u67b6 - TradingAgents\u4e2d\u6587\u589e\u5f3a\u7248",
         "language": "Python",
         "name": "hsliuping/TradingAgents-CN",
-        "stars": "9842",
+        "stars": "9852",
         "url": "https://github.com/hsliuping/TradingAgents-CN"
     },
     {
@@ -45,42 +45,42 @@
         "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
         "language": "TypeScript",
         "name": "cjpais/Handy",
-        "stars": "2458",
+        "stars": "2459",
         "url": "https://github.com/cjpais/Handy"
     },
     {
         "description": "Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.",
         "language": "Java",
         "name": "kestra-io/kestra",
-        "stars": "22392",
+        "stars": "22395",
         "url": "https://github.com/kestra-io/kestra"
     },
     {
         "description": "Bitcoin Core integration/staging tree",
         "language": "C++",
         "name": "bitcoin/bitcoin",
-        "stars": "85999",
+        "stars": "86000",
         "url": "https://github.com/bitcoin/bitcoin"
     },
     {
         "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
         "language": "Rust",
         "name": "juspay/hyperswitch",
-        "stars": "36476",
+        "stars": "36477",
         "url": "https://github.com/juspay/hyperswitch"
     },
     {
         "description": "A scrollable-tiling Wayland compositor.",
         "language": "Rust",
         "name": "YaLTeR/niri",
-        "stars": "13105",
+        "stars": "13108",
         "url": "https://github.com/YaLTeR/niri"
     },
     {
         "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
         "language": "Python",
         "name": "trycua/cua",
-        "stars": "10528",
+        "stars": "10530",
         "url": "https://github.com/trycua/cua"
     },
     {
@@ -94,14 +94,14 @@
         "description": "Firefly III: a personal finances manager",
         "language": "PHP",
         "name": "firefly-iii/firefly-iii",
-        "stars": "21001",
+        "stars": "21006",
         "url": "https://github.com/firefly-iii/firefly-iii"
     },
     {
         "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
         "language": "C++",
         "name": "tile-ai/tilelang",
-        "stars": "3351",
+        "stars": "3354",
         "url": "https://github.com/tile-ai/tilelang"
     },
     {
@@ -115,21 +115,21 @@
         "description": "PostgreSQL driver and toolkit for Go",
         "language": "Go",
         "name": "jackc/pgx",
-        "stars": "12614",
+        "stars": "12615",
         "url": "https://github.com/jackc/pgx"
     },
     {
         "description": "Stremio - Freedom to Stream",
         "language": "JavaScript",
         "name": "Stremio/stremio-web",
-        "stars": "6717",
+        "stars": "6737",
         "url": "https://github.com/Stremio/stremio-web"
     },
     {
         "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
         "language": "Python",
         "name": "microsoft/agent-framework",
-        "stars": "3252",
+        "stars": "3257",
         "url": "https://github.com/microsoft/agent-framework"
     }
 ]
