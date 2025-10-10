@@ -3,14 +3,14 @@
         "description": "Official inference framework for 1-bit LLMs",
         "language": "Python",
         "name": "microsoft/BitNet",
-        "stars": "24013",
+        "stars": "24015",
         "url": "https://github.com/microsoft/BitNet"
     },
     {
         "description": "Infisical is the open-source platform for secrets management, PKI, and SSH access.",
         "language": "TypeScript",
         "name": "Infisical/infisical",
-        "stars": "22429",
+        "stars": "22432",
         "url": "https://github.com/Infisical/infisical"
     },
     {
@@ -24,7 +24,7 @@
         "description": "\u57fa\u4e8e\u591a\u667a\u80fd\u4f53LLM\u7684\u4e2d\u6587\u91d1\u878d\u4ea4\u6613\u6846\u67b6 - TradingAgents\u4e2d\u6587\u589e\u5f3a\u7248",
         "language": "Python",
         "name": "hsliuping/TradingAgents-CN",
-        "stars": "9838",
+        "stars": "9842",
         "url": "https://github.com/hsliuping/TradingAgents-CN"
     },
     {
@@ -38,35 +38,35 @@
         "description": "The most popular open source electronic health records and medical practice management solution.",
         "language": "PHP",
         "name": "openemr/openemr",
-        "stars": "4278",
+        "stars": "4279",
         "url": "https://github.com/openemr/openemr"
     },
     {
         "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
         "language": "TypeScript",
         "name": "cjpais/Handy",
-        "stars": "2455",
+        "stars": "2458",
         "url": "https://github.com/cjpais/Handy"
     },
     {
         "description": "Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.",
         "language": "Java",
         "name": "kestra-io/kestra",
-        "stars": "22391",
+        "stars": "22392",
         "url": "https://github.com/kestra-io/kestra"
     },
     {
         "description": "Bitcoin Core integration/staging tree",
         "language": "C++",
         "name": "bitcoin/bitcoin",
-        "stars": "85998",
+        "stars": "85999",
         "url": "https://github.com/bitcoin/bitcoin"
     },
     {
         "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
         "language": "Rust",
         "name": "juspay/hyperswitch",
-        "stars": "36475",
+        "stars": "36476",
         "url": "https://github.com/juspay/hyperswitch"
     },
     {
@@ -80,14 +80,14 @@
         "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
         "language": "Python",
         "name": "trycua/cua",
-        "stars": "10525",
+        "stars": "10528",
         "url": "https://github.com/trycua/cua"
     },
     {
         "description": "Design patterns implemented in Java",
         "language": "Java",
         "name": "iluwatar/java-design-patterns",
-        "stars": "92985",
+        "stars": "92986",
         "url": "https://github.com/iluwatar/java-design-patterns"
     },
     {
@@ -101,14 +101,14 @@
         "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
         "language": "C++",
         "name": "tile-ai/tilelang",
-        "stars": "3350",
+        "stars": "3351",
         "url": "https://github.com/tile-ai/tilelang"
     },
     {
         "description": "World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.",
         "language": "Java",
         "name": "apache/gravitino",
-        "stars": "2190",
+        "stars": "2191",
         "url": "https://github.com/apache/gravitino"
     },
     {
@@ -122,14 +122,14 @@
         "description": "Stremio - Freedom to Stream",
         "language": "JavaScript",
         "name": "Stremio/stremio-web",
-        "stars": "6706",
+        "stars": "6717",
         "url": "https://github.com/Stremio/stremio-web"
     },
     {
         "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
         "language": "Python",
         "name": "microsoft/agent-framework",
-        "stars": "3251",
+        "stars": "3252",
         "url": "https://github.com/microsoft/agent-framework"
     }
 ]
