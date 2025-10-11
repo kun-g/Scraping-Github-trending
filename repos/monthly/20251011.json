@@ -3,7 +3,7 @@
         "description": "Tongyi Deep Research, the Leading Open-source Deep Research Agent",
         "language": "Python",
         "name": "Alibaba-NLP/DeepResearch",
-        "stars": "15715",
+        "stars": "15716",
         "url": "https://github.com/Alibaba-NLP/DeepResearch"
     },
     {
@@ -31,7 +31,7 @@
         "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
         "language": "C++",
         "name": "tile-ai/tilelang",
-        "stars": "3422",
+        "stars": "3423",
         "url": "https://github.com/tile-ai/tilelang"
     },
     {
@@ -45,14 +45,14 @@
         "description": "Lightweight coding agent that runs in your terminal",
         "language": "Rust",
         "name": "openai/codex",
-        "stars": "46867",
+        "stars": "46868",
         "url": "https://github.com/openai/codex"
     },
     {
         "description": "",
         "language": "Python",
         "name": "anthropics/claude-agent-sdk-python",
-        "stars": "2387",
+        "stars": "2388",
         "url": "https://github.com/anthropics/claude-agent-sdk-python"
     },
     {
@@ -73,7 +73,7 @@
         "description": "\ud83d\udd25 \u57fa\u4e8e\u5927\u6a21\u578b\u548c RAG \u7684\u667a\u80fd\u95ee\u6570\u7cfb\u7edf\u3002Text-to-SQL Generation via LLMs using RAG.",
         "language": "Python",
         "name": "dataease/SQLBot",
-        "stars": "3705",
+        "stars": "3706",
         "url": "https://github.com/dataease/SQLBot"
     },
     {
@@ -94,21 +94,21 @@
         "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance\u2014up to 40 times faster\u2014thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
         "language": "Go",
         "name": "gin-gonic/gin",
-        "stars": "86391",
+        "stars": "86392",
         "url": "https://github.com/gin-gonic/gin"
     },
     {
         "description": "Scripts to build a trimmed-down Windows 11 image.",
         "language": "PowerShell",
         "name": "ntdevlabs/tiny11builder",
-        "stars": "14667",
+        "stars": "14668",
         "url": "https://github.com/ntdevlabs/tiny11builder"
     },
     {
         "description": "the elegant TypeScript UI framework",
         "language": "JavaScript",
         "name": "trueadm/ripple",
-        "stars": "5603",
+        "stars": "5604",
         "url": "https://github.com/trueadm/ripple"
     },
     {
@@ -122,14 +122,14 @@
         "description": "Generate code from the terminal!",
         "language": "TypeScript",
         "name": "CodebuffAI/codebuff",
-        "stars": "2315",
+        "stars": "2316",
         "url": "https://github.com/CodebuffAI/codebuff"
     },
     {
         "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
         "language": "TypeScript",
         "name": "firebase/genkit",
-        "stars": "4584",
+        "stars": "4585",
         "url": "https://github.com/firebase/genkit"
     }
 ]
