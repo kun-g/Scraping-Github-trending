@@ -1,0 +1,86 @@
+[
+    {
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "language": "TypeScript",
+        "name": "anthropics/claude-code",
+        "stars": "36951",
+        "url": "https://github.com/anthropics/claude-code"
+    },
+    {
+        "description": "Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.",
+        "language": "Jupyter Notebook",
+        "name": "QwenLM/Qwen3-VL",
+        "stars": "14056",
+        "url": "https://github.com/QwenLM/Qwen3-VL"
+    },
+    {
+        "description": "Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord:https://discord.gg/ejRNvftDp9",
+        "language": "Python",
+        "name": "MODSetter/SurfSense",
+        "stars": "9341",
+        "url": "https://github.com/MODSetter/SurfSense"
+    },
+    {
+        "description": "CLI tool for configuring and monitoring Claude Code",
+        "language": "JavaScript",
+        "name": "davila7/claude-code-templates",
+        "stars": "7218",
+        "url": "https://github.com/davila7/claude-code-templates"
+    },
+    {
+        "description": "Store your data from all your accounts and devices in a single cohesive timeline on your own computer",
+        "language": "Go",
+        "name": "timelinize/timelinize",
+        "stars": "2561",
+        "url": "https://github.com/timelinize/timelinize"
+    },
+    {
+        "description": "Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.",
+        "language": "Zig",
+        "name": "PixelGuys/Cubyz",
+        "stars": "1804",
+        "url": "https://github.com/PixelGuys/Cubyz"
+    },
+    {
+        "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+        "language": "TypeScript",
+        "name": "supermemoryai/supermemory",
+        "stars": "11793",
+        "url": "https://github.com/supermemoryai/supermemory"
+    },
+    {
+        "description": "\ud83d\udecd\ufe0f Typescript E-commerce Platform",
+        "language": "TypeScript",
+        "name": "evershopcommerce/evershop",
+        "stars": "6784",
+        "url": "https://github.com/evershopcommerce/evershop"
+    },
+    {
+        "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
+        "language": "TypeScript",
+        "name": "CapSoftware/Cap",
+        "stars": "12664",
+        "url": "https://github.com/CapSoftware/Cap"
+    },
+    {
+        "description": "\ud83d\udd25 \u57fa\u4e8e\u5927\u6a21\u578b\u548c RAG \u7684\u667a\u80fd\u95ee\u6570\u7cfb\u7edf\u3002Text-to-SQL Generation via LLMs using RAG.",
+        "language": "Python",
+        "name": "dataease/SQLBot",
+        "stars": "3802",
+        "url": "https://github.com/dataease/SQLBot"
+    },
+    {
+        "description": "Run Windows apps on \ud83d\udc27 Linux with \u2728 seamless integration",
+        "language": "TypeScript",
+        "name": "TibixDev/winboat",
+        "stars": "9973",
+        "url": "https://github.com/TibixDev/winboat"
+    },
+    {
+        "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
+        "language": "TypeScript",
+        "name": "clash-verge-rev/clash-verge-rev",
+        "stars": "77507",
+        "url": "https://github.com/clash-verge-rev/clash-verge-rev"
+    }
+]
