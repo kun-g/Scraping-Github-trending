@@ -1,0 +1,142 @@
+[
+    {
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "language": "TypeScript",
+        "name": "anthropics/claude-code",
+        "stars": "37877",
+        "url": "https://github.com/anthropics/claude-code"
+    },
+    {
+        "description": "CLI tool for configuring and monitoring Claude Code",
+        "language": "JavaScript",
+        "name": "davila7/claude-code-templates",
+        "stars": "7496",
+        "url": "https://github.com/davila7/claude-code-templates"
+    },
+    {
+        "description": "\ud83d\udecd\ufe0f Typescript E-commerce Platform",
+        "language": "TypeScript",
+        "name": "evershopcommerce/evershop",
+        "stars": "7144",
+        "url": "https://github.com/evershopcommerce/evershop"
+    },
+    {
+        "description": "An MCP-based chatbot | \u4e00\u4e2a\u57fa\u4e8eMCP\u7684\u804a\u5929\u673a\u5668\u4eba",
+        "language": "C++",
+        "name": "78/xiaozhi-esp32",
+        "stars": "19831",
+        "url": "https://github.com/78/xiaozhi-esp32"
+    },
+    {
+        "description": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code",
+        "language": "TypeScript",
+        "name": "daytonaio/daytona",
+        "stars": "22933",
+        "url": "https://github.com/daytonaio/daytona"
+    },
+    {
+        "description": "\u6240\u6709\u5c0f\u521d\u9ad8\u3001\u5927\u5b66PDF\u6559\u6750\u3002",
+        "language": "Roff",
+        "name": "TapXWorld/ChinaTextbook",
+        "stars": "53057",
+        "url": "https://github.com/TapXWorld/ChinaTextbook"
+    },
+    {
+        "description": "\u5927\u9ea6\u81ea\u52a8\u62a2\u7968\uff0c\u652f\u6301\u4eba\u5458\u3001\u57ce\u5e02\u3001\u65e5\u671f\u573a\u6b21\u3001\u4ef7\u683c\u9009\u62e9",
+        "language": "Python",
+        "name": "WECENG/ticket-purchase",
+        "stars": "4803",
+        "url": "https://github.com/WECENG/ticket-purchase"
+    },
+    {
+        "description": "\ud83e\udde1 Everything is RSSible",
+        "language": "TypeScript",
+        "name": "DIYgod/RSSHub",
+        "stars": "39140",
+        "url": "https://github.com/DIYgod/RSSHub"
+    },
+    {
+        "description": "A context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools.",
+        "language": "C#",
+        "name": "DearVa/Everywhere",
+        "stars": "537",
+        "url": "https://github.com/DearVa/Everywhere"
+    },
+    {
+        "description": "\u7a0b\u5e8f\u5458\u5728\u5bb6\u505a\u996d\u65b9\u6cd5\u6307\u5357\u3002Programmer's guide about how to cook at home (Simplified Chinese only).",
+        "language": "Dockerfile",
+        "name": "Anduin2017/HowToCook",
+        "stars": "94828",
+        "url": "https://github.com/Anduin2017/HowToCook"
+    },
+    {
+        "description": "An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.",
+        "language": "TypeScript",
+        "name": "coze-dev/coze-studio",
+        "stars": "17739",
+        "url": "https://github.com/coze-dev/coze-studio"
+    },
+    {
+        "description": "\ud83e\udd2f Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.",
+        "language": "TypeScript",
+        "name": "lobehub/lobe-chat",
+        "stars": "66704",
+        "url": "https://github.com/lobehub/lobe-chat"
+    },
+    {
+        "description": "Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.",
+        "language": "Zig",
+        "name": "PixelGuys/Cubyz",
+        "stars": "2115",
+        "url": "https://github.com/PixelGuys/Cubyz"
+    },
+    {
+        "description": "Opinionated Arch/Hyprland Setup",
+        "language": "Shell",
+        "name": "basecamp/omarchy",
+        "stars": "13657",
+        "url": "https://github.com/basecamp/omarchy"
+    },
+    {
+        "description": "Run Windows apps on \ud83d\udc27 Linux with \u2728 seamless integration",
+        "language": "TypeScript",
+        "name": "TibixDev/winboat",
+        "stars": "10557",
+        "url": "https://github.com/TibixDev/winboat"
+    },
+    {
+        "description": "Agentic AI Framework for Java Developers",
+        "language": "Java",
+        "name": "alibaba/spring-ai-alibaba",
+        "stars": "6124",
+        "url": "https://github.com/alibaba/spring-ai-alibaba"
+    },
+    {
+        "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager \u2013 all in one",
+        "language": "Zig",
+        "name": "oven-sh/bun",
+        "stars": "81091",
+        "url": "https://github.com/oven-sh/bun"
+    },
+    {
+        "description": "\ud83e\udd17 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.",
+        "language": "Python",
+        "name": "huggingface/diffusers",
+        "stars": "31136",
+        "url": "https://github.com/huggingface/diffusers"
+    },
+    {
+        "description": "Klavis AI (YC X25): MCP integration platforms that let AI agents use tools reliably at any scale",
+        "language": "Python",
+        "name": "Klavis-AI/klavis",
+        "stars": "4803",
+        "url": "https://github.com/Klavis-AI/klavis"
+    },
+    {
+        "description": "Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.",
+        "language": "Python",
+        "name": "opendatalab/MinerU",
+        "stars": "45881",
+        "url": "https://github.com/opendatalab/MinerU"
+    }
+]
