@@ -3,77 +3,77 @@
         "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
         "language": "Jupyter Notebook",
         "name": "anthropics/claude-cookbooks",
-        "stars": "22086",
+        "stars": "22104",
         "url": "https://github.com/anthropics/claude-cookbooks"
     },
     {
         "description": "An Open Source implementation of Notebook LM with more flexibility and features",
         "language": "TypeScript",
         "name": "lfnovo/open-notebook",
-        "stars": "5657",
+        "stars": "5666",
         "url": "https://github.com/lfnovo/open-notebook"
     },
     {
         "description": "\ud83d\ude80\ud83d\ude80 \u300c\u5927\u6a21\u578b\u300d2\u5c0f\u65f6\u5b8c\u5168\u4ece0\u8bad\u7ec326M\u7684\u5c0f\u53c2\u6570GPT\uff01\ud83c\udf0f Train a 26M-parameter GPT from scratch in just 2h!",
         "language": "Python",
         "name": "jingyaogong/minimind",
-        "stars": "30192",
+        "stars": "30197",
         "url": "https://github.com/jingyaogong/minimind"
     },
     {
         "description": "\ud83d\udcd6 Runbooks that run",
         "language": "TypeScript",
         "name": "atuinsh/desktop",
-        "stars": "1715",
+        "stars": "1720",
         "url": "https://github.com/atuinsh/desktop"
     },
     {
         "description": "\ud83d\udcda Freely available programming books",
         "language": "Python",
         "name": "EbookFoundation/free-programming-books",
-        "stars": "373408",
+        "stars": "373417",
         "url": "https://github.com/EbookFoundation/free-programming-books"
     },
     {
         "description": "The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC \ud83e\uddac",
         "language": "TypeScript",
         "name": "mountain-loop/yaak",
-        "stars": "8413",
+        "stars": "8428",
         "url": "https://github.com/mountain-loop/yaak"
     },
     {
         "description": "Automate browser-based workflows with LLMs and Computer Vision",
         "language": "Python",
         "name": "Skyvern-AI/skyvern",
-        "stars": "14740",
+        "stars": "14744",
         "url": "https://github.com/Skyvern-AI/skyvern"
     },
     {
         "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
         "language": "Python",
         "name": "PaddlePaddle/PaddleOCR",
-        "stars": "58928",
+        "stars": "58945",
         "url": "https://github.com/PaddlePaddle/PaddleOCR"
     },
     {
         "description": "All Algorithms implemented in Python",
         "language": "Python",
         "name": "TheAlgorithms/Python",
-        "stars": "211406",
+        "stars": "211411",
         "url": "https://github.com/TheAlgorithms/Python"
     },
     {
         "description": "\ud83d\udc2cDeepChat - A smart assistant that connects powerful AI to your personal world",
         "language": "TypeScript",
         "name": "ThinkInAIXYZ/deepchat",
-        "stars": "4527",
+        "stars": "4529",
         "url": "https://github.com/ThinkInAIXYZ/deepchat"
     },
     {
         "description": "An open-source, cross-platform terminal for seamless workflows",
         "language": "Go",
         "name": "wavetermdev/waveterm",
-        "stars": "12010",
+        "stars": "12009",
         "url": "https://github.com/wavetermdev/waveterm"
     },
     {
@@ -87,56 +87,56 @@
         "description": "A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API",
         "language": "Jupyter Notebook",
         "name": "karpathy/micrograd",
-        "stars": "13061",
+        "stars": "13065",
         "url": "https://github.com/karpathy/micrograd"
     },
     {
         "description": "Generate audiobooks from e-books, voice cloning & 1107+ languages!",
         "language": "Python",
         "name": "DrewThomasson/ebook2audiobook",
-        "stars": "12057",
+        "stars": "12062",
         "url": "https://github.com/DrewThomasson/ebook2audiobook"
     },
     {
         "description": "Open source codebase powering the HuggingChat app",
         "language": "TypeScript",
         "name": "huggingface/chat-ui",
-        "stars": "9404",
+        "stars": "9408",
         "url": "https://github.com/huggingface/chat-ui"
     },
     {
         "description": "Multiplayer at the speed of light",
         "language": "Rust",
         "name": "clockworklabs/SpacetimeDB",
-        "stars": "17785",
+        "stars": "17790",
         "url": "https://github.com/clockworklabs/SpacetimeDB"
     },
     {
         "description": "\ud83d\udd78\ufe0f Web apps in pure Python \ud83d\udc0d",
         "language": "Python",
         "name": "reflex-dev/reflex",
-        "stars": "26933",
+        "stars": "26936",
         "url": "https://github.com/reflex-dev/reflex"
     },
     {
         "description": "qBittorrent BitTorrent client",
         "language": "C++",
         "name": "qbittorrent/qBittorrent",
-        "stars": "33465",
+        "stars": "33468",
         "url": "https://github.com/qbittorrent/qBittorrent"
     },
     {
         "description": "C++ Library Manager for Windows, Linux, and MacOS",
         "language": "CMake",
         "name": "microsoft/vcpkg",
-        "stars": "25877",
+        "stars": "25878",
         "url": "https://github.com/microsoft/vcpkg"
     },
     {
         "description": "Instant voice cloning by MIT and MyShell. Audio foundation model.",
         "language": "Python",
         "name": "myshell-ai/OpenVoice",
-        "stars": "34904",
+        "stars": "34907",
         "url": "https://github.com/myshell-ai/OpenVoice"
     }
 ]
