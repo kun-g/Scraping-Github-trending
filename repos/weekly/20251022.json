@@ -3,70 +3,70 @@
         "description": "\ud83d\ude80\ud83d\ude80 \u300c\u5927\u6a21\u578b\u300d2\u5c0f\u65f6\u5b8c\u5168\u4ece0\u8bad\u7ec326M\u7684\u5c0f\u53c2\u6570GPT\uff01\ud83c\udf0f Train a 26M-parameter GPT from scratch in just 2h!",
         "language": "Python",
         "name": "jingyaogong/minimind",
-        "stars": "30974",
+        "stars": "30980",
         "url": "https://github.com/jingyaogong/minimind"
     },
     {
         "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
         "language": "Python",
         "name": "karpathy/nanoGPT",
-        "stars": "47318",
+        "stars": "47321",
         "url": "https://github.com/karpathy/nanoGPT"
     },
     {
         "description": "Anthropic's Interactive Prompt Engineering Tutorial",
         "language": "Jupyter Notebook",
         "name": "anthropics/prompt-eng-interactive-tutorial",
-        "stars": "24813",
+        "stars": "24815",
         "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial"
     },
     {
         "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
         "language": "Jupyter Notebook",
         "name": "anthropics/claude-cookbooks",
-        "stars": "24333",
+        "stars": "24342",
         "url": "https://github.com/anthropics/claude-cookbooks"
     },
     {
         "description": "An Open Source implementation of Notebook LM with more flexibility and features",
         "language": "TypeScript",
         "name": "lfnovo/open-notebook",
-        "stars": "6752",
+        "stars": "6768",
         "url": "https://github.com/lfnovo/open-notebook"
     },
     {
         "description": "The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC \ud83e\uddac",
         "language": "TypeScript",
         "name": "mountain-loop/yaak",
-        "stars": "10307",
+        "stars": "10352",
         "url": "https://github.com/mountain-loop/yaak"
     },
     {
         "description": "CLI tool for configuring and monitoring Claude Code",
         "language": "JavaScript",
         "name": "davila7/claude-code-templates",
-        "stars": "9104",
+        "stars": "9106",
         "url": "https://github.com/davila7/claude-code-templates"
     },
     {
         "description": "MineContext is your proactive context-aware AI partner\uff08Context-Engineering+ChatGPT Pulse\uff09",
         "language": "Python",
         "name": "volcengine/MineContext",
-        "stars": "2428",
+        "stars": "2431",
         "url": "https://github.com/volcengine/MineContext"
     },
     {
         "description": "A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API",
         "language": "Jupyter Notebook",
         "name": "karpathy/micrograd",
-        "stars": "13275",
+        "stars": "13278",
         "url": "https://github.com/karpathy/micrograd"
     },
     {
         "description": "Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks",
         "language": "C#",
         "name": "microsoft/PowerToys",
-        "stars": "124993",
+        "stars": "124995",
         "url": "https://github.com/microsoft/PowerToys"
     },
     {
@@ -80,28 +80,28 @@
         "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
         "language": "C++",
         "name": "microsoft/terminal",
-        "stars": "100683",
+        "stars": "100684",
         "url": "https://github.com/microsoft/terminal"
     },
     {
         "description": "Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.",
         "language": "TypeScript",
         "name": "nitrojs/nitro",
-        "stars": "9258",
+        "stars": "9259",
         "url": "https://github.com/nitrojs/nitro"
     },
     {
         "description": "Cloud-native high-performance edge/middle/service proxy",
         "language": "C++",
         "name": "envoyproxy/envoy",
-        "stars": "26884",
+        "stars": "26885",
         "url": "https://github.com/envoyproxy/envoy"
     },
     {
         "description": "\ud83d\udc19 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
         "language": "MDX",
         "name": "dair-ai/Prompt-Engineering-Guide",
-        "stars": "64917",
+        "stars": "64922",
         "url": "https://github.com/dair-ai/Prompt-Engineering-Guide"
     },
     {
@@ -115,14 +115,14 @@
         "description": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
         "language": "Rust",
         "name": "servo/servo",
-        "stars": "32486",
+        "stars": "32497",
         "url": "https://github.com/servo/servo"
     },
     {
         "description": "Hierarchical Reasoning Model Official Release",
         "language": "Python",
         "name": "sapientinc/HRM",
-        "stars": "11497",
+        "stars": "11498",
         "url": "https://github.com/sapientinc/HRM"
     }
 ]
