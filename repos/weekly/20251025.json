@@ -3,63 +3,63 @@
         "description": "The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC \ud83e\uddac",
         "language": "TypeScript",
         "name": "mountain-loop/yaak",
-        "stars": "13593",
+        "stars": "13604",
         "url": "https://github.com/mountain-loop/yaak"
     },
     {
         "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
         "language": "Jupyter Notebook",
         "name": "anthropics/claude-cookbooks",
-        "stars": "25222",
+        "stars": "25226",
         "url": "https://github.com/anthropics/claude-cookbooks"
     },
     {
         "description": "Generate audiobooks from e-books, voice cloning & 1107+ languages!",
         "language": "Python",
         "name": "DrewThomasson/ebook2audiobook",
-        "stars": "13616",
+        "stars": "13621",
         "url": "https://github.com/DrewThomasson/ebook2audiobook"
     },
     {
         "description": "An Open Source implementation of Notebook LM with more flexibility and features",
         "language": "TypeScript",
         "name": "lfnovo/open-notebook",
-        "stars": "7929",
+        "stars": "7934",
         "url": "https://github.com/lfnovo/open-notebook"
     },
     {
         "description": "\ud83d\ude80\ud83d\ude80 \u300c\u5927\u6a21\u578b\u300d2\u5c0f\u65f6\u5b8c\u5168\u4ece0\u8bad\u7ec326M\u7684\u5c0f\u53c2\u6570GPT\uff01\ud83c\udf0f Train a 26M-parameter GPT from scratch in just 2h!",
         "language": "Python",
         "name": "jingyaogong/minimind",
-        "stars": "31502",
+        "stars": "31507",
         "url": "https://github.com/jingyaogong/minimind"
     },
     {
         "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
         "language": "Go",
         "name": "minio/minio",
-        "stars": "57141",
+        "stars": "57142",
         "url": "https://github.com/minio/minio"
     },
     {
         "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
         "language": "Python",
         "name": "karpathy/nanoGPT",
-        "stars": "47811",
+        "stars": "47815",
         "url": "https://github.com/karpathy/nanoGPT"
     },
     {
         "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
         "language": "Python",
         "name": "PaddlePaddle/PaddleOCR",
-        "stars": "61021",
+        "stars": "61025",
         "url": "https://github.com/PaddlePaddle/PaddleOCR"
     },
     {
         "description": "Multiplayer at the speed of light",
         "language": "Rust",
         "name": "clockworklabs/SpacetimeDB",
-        "stars": "18370",
+        "stars": "18371",
         "url": "https://github.com/clockworklabs/SpacetimeDB"
     },
     {
@@ -73,7 +73,7 @@
         "description": "Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks",
         "language": "C#",
         "name": "microsoft/PowerToys",
-        "stars": "125144",
+        "stars": "125145",
         "url": "https://github.com/microsoft/PowerToys"
     },
     {
@@ -87,28 +87,28 @@
         "description": "\ud83d\udc19 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
         "language": "MDX",
         "name": "dair-ai/Prompt-Engineering-Guide",
-        "stars": "65324",
+        "stars": "65323",
         "url": "https://github.com/dair-ai/Prompt-Engineering-Guide"
     },
     {
         "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
         "language": "JavaScript",
         "name": "drawdb-io/drawdb",
-        "stars": "34107",
+        "stars": "34113",
         "url": "https://github.com/drawdb-io/drawdb"
     },
     {
         "description": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",
         "language": "Go",
         "name": "seaweedfs/seaweedfs",
-        "stars": "26400",
+        "stars": "26407",
         "url": "https://github.com/seaweedfs/seaweedfs"
     },
     {
         "description": "Amnezia VPN Client (Desktop+Mobile)",
         "language": "C++",
         "name": "amnezia-vpn/amnezia-client",
-        "stars": "8677",
+        "stars": "8678",
         "url": "https://github.com/amnezia-vpn/amnezia-client"
     }
 ]
