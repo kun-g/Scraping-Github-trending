@@ -3,28 +3,28 @@
         "description": "The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC \ud83e\uddac",
         "language": "TypeScript",
         "name": "mountain-loop/yaak",
-        "stars": "13909",
+        "stars": "13914",
         "url": "https://github.com/mountain-loop/yaak"
     },
     {
         "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
         "language": "Go",
         "name": "minio/minio",
-        "stars": "57408",
+        "stars": "57409",
         "url": "https://github.com/minio/minio"
     },
     {
         "description": "An Open Source implementation of Notebook LM with more flexibility and features",
         "language": "TypeScript",
         "name": "lfnovo/open-notebook",
-        "stars": "8339",
+        "stars": "8344",
         "url": "https://github.com/lfnovo/open-notebook"
     },
     {
         "description": "Generate audiobooks from e-books, voice cloning & 1107+ languages!",
         "language": "Python",
         "name": "DrewThomasson/ebook2audiobook",
-        "stars": "13818",
+        "stars": "13820",
         "url": "https://github.com/DrewThomasson/ebook2audiobook"
     },
     {
@@ -38,28 +38,28 @@
         "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
         "language": "Jupyter Notebook",
         "name": "anthropics/claude-cookbooks",
-        "stars": "25411",
+        "stars": "25413",
         "url": "https://github.com/anthropics/claude-cookbooks"
     },
     {
         "description": "Truly independent web browser",
         "language": "C++",
         "name": "LadybirdBrowser/ladybird",
-        "stars": "53616",
+        "stars": "53652",
         "url": "https://github.com/LadybirdBrowser/ladybird"
     },
     {
         "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
         "language": "Python",
         "name": "PaddlePaddle/PaddleOCR",
-        "stars": "61324",
+        "stars": "61333",
         "url": "https://github.com/PaddlePaddle/PaddleOCR"
     },
     {
         "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
         "language": "Python",
         "name": "karpathy/nanoGPT",
-        "stars": "48031",
+        "stars": "48045",
         "url": "https://github.com/karpathy/nanoGPT"
     },
     {
@@ -80,21 +80,21 @@
         "description": "SOTA Open Source TTS",
         "language": "Python",
         "name": "fishaudio/fish-speech",
-        "stars": "23790",
+        "stars": "23792",
         "url": "https://github.com/fishaudio/fish-speech"
     },
     {
         "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
         "language": "JavaScript",
         "name": "drawdb-io/drawdb",
-        "stars": "34362",
+        "stars": "34363",
         "url": "https://github.com/drawdb-io/drawdb"
     },
     {
         "description": "Open source codebase powering the HuggingChat app",
         "language": "TypeScript",
         "name": "huggingface/chat-ui",
-        "stars": "10134",
+        "stars": "10136",
         "url": "https://github.com/huggingface/chat-ui"
     },
     {
@@ -108,14 +108,14 @@
         "description": "\ud83d\ude80\ud83d\ude80 \u300c\u5927\u6a21\u578b\u300d2\u5c0f\u65f6\u5b8c\u5168\u4ece0\u8bad\u7ec326M\u7684\u5c0f\u53c2\u6570GPT\uff01\ud83c\udf0f Train a 26M-parameter GPT from scratch in just 2h!",
         "language": "Python",
         "name": "jingyaogong/minimind",
-        "stars": "31669",
+        "stars": "31671",
         "url": "https://github.com/jingyaogong/minimind"
     },
     {
         "description": "A fancy self-hosted monitoring tool",
         "language": "JavaScript",
         "name": "louislam/uptime-kuma",
-        "stars": "77255",
+        "stars": "77258",
         "url": "https://github.com/louislam/uptime-kuma"
     }
 ]
