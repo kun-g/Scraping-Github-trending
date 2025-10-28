@@ -3,56 +3,56 @@
         "description": "The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC \ud83e\uddac",
         "language": "TypeScript",
         "name": "mountain-loop/yaak",
-        "stars": "14104",
+        "stars": "14113",
         "url": "https://github.com/mountain-loop/yaak"
     },
     {
         "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
         "language": "Go",
         "name": "minio/minio",
-        "stars": "57456",
+        "stars": "57457",
         "url": "https://github.com/minio/minio"
     },
     {
         "description": "An Open Source implementation of Notebook LM with more flexibility and features",
         "language": "TypeScript",
         "name": "lfnovo/open-notebook",
-        "stars": "8566",
+        "stars": "8572",
         "url": "https://github.com/lfnovo/open-notebook"
     },
     {
         "description": "Generate audiobooks from e-books, voice cloning & 1107+ languages!",
         "language": "Python",
         "name": "DrewThomasson/ebook2audiobook",
-        "stars": "13932",
+        "stars": "13935",
         "url": "https://github.com/DrewThomasson/ebook2audiobook"
     },
     {
         "description": "Truly independent web browser",
         "language": "C++",
         "name": "LadybirdBrowser/ladybird",
-        "stars": "54350",
+        "stars": "54356",
         "url": "https://github.com/LadybirdBrowser/ladybird"
     },
     {
         "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
         "language": "Jupyter Notebook",
         "name": "anthropics/claude-cookbooks",
-        "stars": "25520",
+        "stars": "25521",
         "url": "https://github.com/anthropics/claude-cookbooks"
     },
     {
         "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
         "language": "Python",
         "name": "PaddlePaddle/PaddleOCR",
-        "stars": "61567",
+        "stars": "61574",
         "url": "https://github.com/PaddlePaddle/PaddleOCR"
     },
     {
         "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
         "language": "Python",
         "name": "karpathy/nanoGPT",
-        "stars": "48186",
+        "stars": "48189",
         "url": "https://github.com/karpathy/nanoGPT"
     },
     {
@@ -66,35 +66,35 @@
         "description": "SOTA Open Source TTS",
         "language": "Python",
         "name": "fishaudio/fish-speech",
-        "stars": "23844",
+        "stars": "23845",
         "url": "https://github.com/fishaudio/fish-speech"
     },
     {
         "description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 12 programming languages",
         "language": "C++",
         "name": "k2-fsa/sherpa-onnx",
-        "stars": "8509",
+        "stars": "8510",
         "url": "https://github.com/k2-fsa/sherpa-onnx"
     },
     {
         "description": "\ud83d\ude80\ud83d\ude80 \u300c\u5927\u6a21\u578b\u300d2\u5c0f\u65f6\u5b8c\u5168\u4ece0\u8bad\u7ec326M\u7684\u5c0f\u53c2\u6570GPT\uff01\ud83c\udf0f Train a 26M-parameter GPT from scratch in just 2h!",
         "language": "Python",
         "name": "jingyaogong/minimind",
-        "stars": "31816",
+        "stars": "31822",
         "url": "https://github.com/jingyaogong/minimind"
     },
     {
         "description": "The absolute trainer to light up AI agents.",
         "language": "Python",
         "name": "microsoft/agent-lightning",
-        "stars": "2855",
+        "stars": "2867",
         "url": "https://github.com/microsoft/agent-lightning"
     },
     {
         "description": "Open-Source API Development Ecosystem \u2022https://hoppscotch.io\u2022 Offline, On-Prem & Cloud \u2022 Web, Desktop & CLI \u2022 Open-Source Alternative to Postman, Insomnia",
         "language": "TypeScript",
         "name": "hoppscotch/hoppscotch",
-        "stars": "76372",
+        "stars": "76376",
         "url": "https://github.com/hoppscotch/hoppscotch"
     },
     {
@@ -108,28 +108,28 @@
         "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
         "language": "JavaScript",
         "name": "drawdb-io/drawdb",
-        "stars": "34448",
+        "stars": "34449",
         "url": "https://github.com/drawdb-io/drawdb"
     },
     {
         "description": "The automation tower defense RTS",
         "language": "Java",
         "name": "Anuken/Mindustry",
-        "stars": "25555",
+        "stars": "25553",
         "url": "https://github.com/Anuken/Mindustry"
     },
     {
         "description": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",
         "language": "Go",
         "name": "seaweedfs/seaweedfs",
-        "stars": "26626",
+        "stars": "26627",
         "url": "https://github.com/seaweedfs/seaweedfs"
     },
     {
         "description": "\u7ec3\u4e60\u82f1\u8bed\uff0c\u4e00\u6b21\u6572\u51fb\uff0c\u4e00\u70b9\u8fdb\u6b65\uff1bPractice English, one strike, one step forward",
         "language": "Vue",
         "name": "zyronon/TypeWords",
-        "stars": "4710",
+        "stars": "4714",
         "url": "https://github.com/zyronon/TypeWords"
     }
 ]
