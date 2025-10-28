@@ -3,7 +3,7 @@
         "description": "The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC \ud83e\uddac",
         "language": "TypeScript",
         "name": "mountain-loop/yaak",
-        "stars": "14101",
+        "stars": "14104",
         "url": "https://github.com/mountain-loop/yaak"
     },
     {
@@ -17,7 +17,7 @@
         "description": "An Open Source implementation of Notebook LM with more flexibility and features",
         "language": "TypeScript",
         "name": "lfnovo/open-notebook",
-        "stars": "8564",
+        "stars": "8566",
         "url": "https://github.com/lfnovo/open-notebook"
     },
     {
@@ -38,21 +38,21 @@
         "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
         "language": "Jupyter Notebook",
         "name": "anthropics/claude-cookbooks",
-        "stars": "25518",
+        "stars": "25520",
         "url": "https://github.com/anthropics/claude-cookbooks"
     },
     {
         "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
         "language": "Python",
         "name": "PaddlePaddle/PaddleOCR",
-        "stars": "61563",
+        "stars": "61567",
         "url": "https://github.com/PaddlePaddle/PaddleOCR"
     },
     {
         "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
         "language": "Python",
         "name": "karpathy/nanoGPT",
-        "stars": "48184",
+        "stars": "48186",
         "url": "https://github.com/karpathy/nanoGPT"
     },
     {
@@ -73,28 +73,28 @@
         "description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 12 programming languages",
         "language": "C++",
         "name": "k2-fsa/sherpa-onnx",
-        "stars": "8508",
+        "stars": "8509",
         "url": "https://github.com/k2-fsa/sherpa-onnx"
     },
     {
         "description": "\ud83d\ude80\ud83d\ude80 \u300c\u5927\u6a21\u578b\u300d2\u5c0f\u65f6\u5b8c\u5168\u4ece0\u8bad\u7ec326M\u7684\u5c0f\u53c2\u6570GPT\uff01\ud83c\udf0f Train a 26M-parameter GPT from scratch in just 2h!",
         "language": "Python",
         "name": "jingyaogong/minimind",
-        "stars": "31814",
+        "stars": "31816",
         "url": "https://github.com/jingyaogong/minimind"
     },
     {
         "description": "The absolute trainer to light up AI agents.",
         "language": "Python",
         "name": "microsoft/agent-lightning",
-        "stars": "2845",
+        "stars": "2855",
         "url": "https://github.com/microsoft/agent-lightning"
     },
     {
         "description": "Open-Source API Development Ecosystem \u2022https://hoppscotch.io\u2022 Offline, On-Prem & Cloud \u2022 Web, Desktop & CLI \u2022 Open-Source Alternative to Postman, Insomnia",
         "language": "TypeScript",
         "name": "hoppscotch/hoppscotch",
-        "stars": "76370",
+        "stars": "76372",
         "url": "https://github.com/hoppscotch/hoppscotch"
     },
     {
@@ -108,7 +108,7 @@
         "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
         "language": "JavaScript",
         "name": "drawdb-io/drawdb",
-        "stars": "34447",
+        "stars": "34448",
         "url": "https://github.com/drawdb-io/drawdb"
     },
     {
@@ -122,14 +122,14 @@
         "description": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.",
         "language": "Go",
         "name": "seaweedfs/seaweedfs",
-        "stars": "26625",
+        "stars": "26626",
         "url": "https://github.com/seaweedfs/seaweedfs"
     },
     {
         "description": "\u7ec3\u4e60\u82f1\u8bed\uff0c\u4e00\u6b21\u6572\u51fb\uff0c\u4e00\u70b9\u8fdb\u6b65\uff1bPractice English, one strike, one step forward",
         "language": "Vue",
         "name": "zyronon/TypeWords",
-        "stars": "4709",
+        "stars": "4710",
         "url": "https://github.com/zyronon/TypeWords"
     }
 ]
