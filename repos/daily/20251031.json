@@ -3,112 +3,112 @@
         "description": "The Kubernetes Package Manager",
         "language": "Go",
         "name": "helm/helm",
-        "stars": "28789",
+        "stars": "28799",
         "url": "https://github.com/helm/helm"
     },
     {
         "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation",
         "language": "TypeScript",
         "name": "storybookjs/storybook",
-        "stars": "88369",
+        "stars": "88383",
         "url": "https://github.com/storybookjs/storybook"
     },
     {
         "description": "OpenTelemetry Collector",
         "language": "Go",
         "name": "open-telemetry/opentelemetry-collector",
-        "stars": "6066",
+        "stars": "6074",
         "url": "https://github.com/open-telemetry/opentelemetry-collector"
     },
     {
         "description": "API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \\ websites",
         "language": "JavaScript",
         "name": "qeeqbox/social-analyzer",
-        "stars": "16327",
+        "stars": "16337",
         "url": "https://github.com/qeeqbox/social-analyzer"
     },
     {
         "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
         "language": "Jupyter Notebook",
         "name": "patchy631/ai-engineering-hub",
-        "stars": "19838",
+        "stars": "19845",
         "url": "https://github.com/patchy631/ai-engineering-hub"
     },
     {
         "description": "A C++ header-only HTTP/HTTPS server and client library",
         "language": "C++",
         "name": "yhirose/cpp-httplib",
-        "stars": "15270",
+        "stars": "15274",
         "url": "https://github.com/yhirose/cpp-httplib"
     },
     {
         "description": "Toolkit for linearizing PDFs for LLM datasets/training",
         "language": "Python",
         "name": "allenai/olmocr",
-        "stars": "15364",
+        "stars": "15368",
         "url": "https://github.com/allenai/olmocr"
     },
     {
         "description": "AI Toolkit for Healthcare Imaging",
         "language": "Python",
         "name": "Project-MONAI/MONAI",
-        "stars": "7130",
+        "stars": "7146",
         "url": "https://github.com/Project-MONAI/MONAI"
     },
     {
         "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
         "language": "TypeScript",
         "name": "janhq/jan",
-        "stars": "38588",
+        "stars": "38598",
         "url": "https://github.com/janhq/jan"
     },
     {
         "description": "Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.",
         "language": "Python",
         "name": "mem0ai/mem0",
-        "stars": "42262",
+        "stars": "42273",
         "url": "https://github.com/mem0ai/mem0"
     },
     {
         "description": "AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples.",
         "language": "Python",
         "name": "iam-veeramalla/aws-devops-zero-to-hero",
-        "stars": "9380",
+        "stars": "9387",
         "url": "https://github.com/iam-veeramalla/aws-devops-zero-to-hero"
     },
     {
         "description": "The absolute trainer to light up AI agents.",
         "language": "Python",
         "name": "microsoft/agent-lightning",
-        "stars": "4362",
+        "stars": "4376",
         "url": "https://github.com/microsoft/agent-lightning"
     },
     {
         "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
         "language": "Go",
         "name": "Tencent/WeKnora",
-        "stars": "6911",
+        "stars": "6920",
         "url": "https://github.com/Tencent/WeKnora"
     },
     {
         "description": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
         "language": "JavaScript",
         "name": "projectdiscovery/nuclei-templates",
-        "stars": "11149",
+        "stars": "11150",
         "url": "https://github.com/projectdiscovery/nuclei-templates"
     },
     {
         "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
         "language": "JavaScript",
         "name": "microsoft/Web-Dev-For-Beginners",
-        "stars": "93132",
+        "stars": "93138",
         "url": "https://github.com/microsoft/Web-Dev-For-Beginners"
     },
     {
         "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
         "language": "Shell",
         "name": "nvm-sh/nvm",
-        "stars": "88673",
+        "stars": "88677",
         "url": "https://github.com/nvm-sh/nvm"
     }
 ]
