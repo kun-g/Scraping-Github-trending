@@ -1,0 +1,163 @@
+[
+    {
+        "description": "Anthropic's Interactive Prompt Engineering Tutorial",
+        "language": "Jupyter Notebook",
+        "name": "anthropics/prompt-eng-interactive-tutorial",
+        "stars": "25435",
+        "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial"
+    },
+    {
+        "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+        "language": "Jupyter Notebook",
+        "name": "anthropics/claude-cookbooks",
+        "stars": "26488",
+        "url": "https://github.com/anthropics/claude-cookbooks"
+    },
+    {
+        "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+        "language": "TypeScript",
+        "name": "cjpais/Handy",
+        "stars": "4863",
+        "url": "https://github.com/cjpais/Handy"
+    },
+    {
+        "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
+        "language": "Python",
+        "name": "karpathy/nanoGPT",
+        "stars": "48527",
+        "url": "https://github.com/karpathy/nanoGPT"
+    },
+    {
+        "description": "Truly independent web browser",
+        "language": "C++",
+        "name": "LadybirdBrowser/ladybird",
+        "stars": "54722",
+        "url": "https://github.com/LadybirdBrowser/ladybird"
+    },
+    {
+        "description": "Generate audiobooks from e-books, voice cloning & 1107+ languages!",
+        "language": "Python",
+        "name": "DrewThomasson/ebook2audiobook",
+        "stars": "14237",
+        "url": "https://github.com/DrewThomasson/ebook2audiobook"
+    },
+    {
+        "description": "\ud83d\udecd\ufe0f Typescript E-commerce Platform",
+        "language": "TypeScript",
+        "name": "evershopcommerce/evershop",
+        "stars": "8489",
+        "url": "https://github.com/evershopcommerce/evershop"
+    },
+    {
+        "description": "Run Windows apps on \ud83d\udc27 Linux with \u2728 seamless integration",
+        "language": "TypeScript",
+        "name": "TibixDev/winboat",
+        "stars": "14229",
+        "url": "https://github.com/TibixDev/winboat"
+    },
+    {
+        "description": "\ud83d\ude80\ud83d\ude80 \u300c\u5927\u6a21\u578b\u300d2\u5c0f\u65f6\u5b8c\u5168\u4ece0\u8bad\u7ec326M\u7684\u5c0f\u53c2\u6570GPT\uff01\ud83c\udf0f Train a 26M-parameter GPT from scratch in just 2h!",
+        "language": "Python",
+        "name": "jingyaogong/minimind",
+        "stars": "32089",
+        "url": "https://github.com/jingyaogong/minimind"
+    },
+    {
+        "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+        "language": "TypeScript",
+        "name": "lfnovo/open-notebook",
+        "stars": "9045",
+        "url": "https://github.com/lfnovo/open-notebook"
+    },
+    {
+        "description": "Infisical is the open-source platform for secrets, certificates, and privileged access management.",
+        "language": "TypeScript",
+        "name": "Infisical/infisical",
+        "stars": "23385",
+        "url": "https://github.com/Infisical/infisical"
+    },
+    {
+        "description": "\u57fa\u4e8e\u591a\u667a\u80fd\u4f53LLM\u7684\u4e2d\u6587\u91d1\u878d\u4ea4\u6613\u6846\u67b6 - TradingAgents\u4e2d\u6587\u589e\u5f3a\u7248",
+        "language": "Python",
+        "name": "hsliuping/TradingAgents-CN",
+        "stars": "11968",
+        "url": "https://github.com/hsliuping/TradingAgents-CN"
+    },
+    {
+        "description": "Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.",
+        "language": "Jupyter Notebook",
+        "name": "QwenLM/Qwen3-VL",
+        "stars": "15730",
+        "url": "https://github.com/QwenLM/Qwen3-VL"
+    },
+    {
+        "description": "A payments protocol for the internet. Built on HTTP.",
+        "language": "TypeScript",
+        "name": "coinbase/x402",
+        "stars": "3496",
+        "url": "https://github.com/coinbase/x402"
+    },
+    {
+        "description": "Agent S: an open agentic framework that uses computers like a human",
+        "language": "Python",
+        "name": "simular-ai/Agent-S",
+        "stars": "7749",
+        "url": "https://github.com/simular-ai/Agent-S"
+    },
+    {
+        "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+        "language": "Go",
+        "name": "minio/minio",
+        "stars": "57615",
+        "url": "https://github.com/minio/minio"
+    },
+    {
+        "description": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
+        "language": "Rust",
+        "name": "servo/servo",
+        "stars": "33391",
+        "url": "https://github.com/servo/servo"
+    },
+    {
+        "description": "[Support 0.49.x]\uff08Reset Cursor AI MachineID & Bypass Higher Token Limit\uff09 Cursor Ai \uff0c\u81ea\u52a8\u91cd\u7f6e\u673a\u5668ID \uff0c \u514d\u8d39\u5347\u7ea7\u4f7f\u7528Pro\u529f\u80fd: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.",
+        "language": "Python",
+        "name": "yeongpin/cursor-free-vip",
+        "stars": "39554",
+        "url": "https://github.com/yeongpin/cursor-free-vip"
+    },
+    {
+        "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+        "language": "Python",
+        "name": "PaddlePaddle/PaddleOCR",
+        "stars": "62062",
+        "url": "https://github.com/PaddlePaddle/PaddleOCR"
+    },
+    {
+        "description": "Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.",
+        "language": "TypeScript",
+        "name": "nitrojs/nitro",
+        "stars": "9480",
+        "url": "https://github.com/nitrojs/nitro"
+    },
+    {
+        "description": "A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API",
+        "language": "Jupyter Notebook",
+        "name": "karpathy/micrograd",
+        "stars": "13554",
+        "url": "https://github.com/karpathy/micrograd"
+    },
+    {
+        "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+        "language": "C++",
+        "name": "tile-ai/tilelang",
+        "stars": "3794",
+        "url": "https://github.com/tile-ai/tilelang"
+    },
+    {
+        "description": "RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO and designed for fine-tuning.",
+        "language": "Python",
+        "name": "roboflow/rf-detr",
+        "stars": "3914",
+        "url": "https://github.com/roboflow/rf-detr"
+    }
+]
