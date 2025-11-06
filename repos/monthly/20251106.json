@@ -10,7 +10,7 @@
         "description": "Anthropic's Interactive Prompt Engineering Tutorial",
         "language": "Jupyter Notebook",
         "name": "anthropics/prompt-eng-interactive-tutorial",
-        "stars": "25870",
+        "stars": "25871",
         "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial"
     },
     {
@@ -24,21 +24,21 @@
         "description": "The absolute trainer to light up AI agents.",
         "language": "Python",
         "name": "microsoft/agent-lightning",
-        "stars": "7088",
+        "stars": "7089",
         "url": "https://github.com/microsoft/agent-lightning"
     },
     {
         "description": "An Open Source implementation of Notebook LM with more flexibility and features",
         "language": "TypeScript",
         "name": "lfnovo/open-notebook",
-        "stars": "9570",
+        "stars": "9571",
         "url": "https://github.com/lfnovo/open-notebook"
     },
     {
         "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
         "language": "Python",
         "name": "karpathy/nanoGPT",
-        "stars": "48978",
+        "stars": "48979",
         "url": "https://github.com/karpathy/nanoGPT"
     },
     {
@@ -66,7 +66,7 @@
         "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
         "language": "TypeScript",
         "name": "cjpais/Handy",
-        "stars": "5807",
+        "stars": "5808",
         "url": "https://github.com/cjpais/Handy"
     },
     {
@@ -80,21 +80,21 @@
         "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
         "language": "Go",
         "name": "minio/minio",
-        "stars": "57853",
+        "stars": "57854",
         "url": "https://github.com/minio/minio"
     },
     {
         "description": "A payments protocol for the internet. Built on HTTP.",
         "language": "TypeScript",
         "name": "coinbase/x402",
-        "stars": "3764",
+        "stars": "3766",
         "url": "https://github.com/coinbase/x402"
     },
     {
         "description": "Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.",
         "language": "Jupyter Notebook",
         "name": "QwenLM/Qwen3-VL",
-        "stars": "15989",
+        "stars": "15990",
         "url": "https://github.com/QwenLM/Qwen3-VL"
     },
     {
@@ -115,7 +115,7 @@
         "description": "Run Windows apps on \ud83d\udc27 Linux with \u2728 seamless integration",
         "language": "TypeScript",
         "name": "TibixDev/winboat",
-        "stars": "14928",
+        "stars": "14930",
         "url": "https://github.com/TibixDev/winboat"
     },
     {
@@ -129,14 +129,14 @@
         "description": "CLI tool for configuring and monitoring Claude Code",
         "language": "JavaScript",
         "name": "davila7/claude-code-templates",
-        "stars": "10264",
+        "stars": "10265",
         "url": "https://github.com/davila7/claude-code-templates"
     },
     {
         "description": "Truly independent web browser",
         "language": "C++",
         "name": "LadybirdBrowser/ladybird",
-        "stars": "55197",
+        "stars": "55199",
         "url": "https://github.com/LadybirdBrowser/ladybird"
     }
 ]
