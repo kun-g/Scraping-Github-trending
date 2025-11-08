@@ -13,16 +13,16 @@
 <!-- START OF DAILY_TOP10_REPOS -->
 | 名字 | 简介 |
 | :----: | :----: |
+| [prometheus/alertmanager](https://github.com/prometheus/alertmanager) | Prometheus Alertmanager |
 | [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 |
-| [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | Automate browser based workflows with AI |
-| [nocobase/nocobase](https://github.com/nocobase/nocobase) | NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions. |
-| [mudler/LocalAI](https://github.com/mudler/LocalAI) | 🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference |
-| [sst/opentui](https://github.com/sst/opentui) | OpenTUI is a library for building terminal user interfaces (TUIs) |
+| [simstudioai/sim](https://github.com/simstudioai/sim) | Open-source platform to build and deploy AI agent workflows. |
+| [lima-vm/lima](https://github.com/lima-vm/lima) | Linux virtual machines, with a focus on running containers |
+| [awslabs/mcp](https://github.com/awslabs/mcp) | AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP. |
+| [usestrix/strix](https://github.com/usestrix/strix) | ✨ Open-source AI hackers for your apps 👨🏻‍💻 |
+| [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) | NVR with realtime local object detection for IP cameras |
 | [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) | An evolving how-to guide for securing a Linux server. |
-| [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) | The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google. |
+| [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) | FFmpeg Assembly Language Lessons |
 | [ad-on-is/rachoon](https://github.com/ad-on-is/rachoon) | 🦝 Rachoon — A self-hostable way to handle invoices |
-| [KotatsuApp/Kotatsu](https://github.com/KotatsuApp/Kotatsu) | Manga reader for Android |
-| [ggml-org/ggml](https://github.com/ggml-org/ggml) | Tensor library for machine learning |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
@@ -30,14 +30,14 @@
 | 名字 | 简介 |
 | :----: | :----: |
 | [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 |
-| [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | The absolute trainer to light up AI agents. |
 | [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)" |
-| [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) | API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites |
+| [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | The absolute trainer to light up AI agents. |
 | [mudler/LocalAI](https://github.com/mudler/LocalAI) | 🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference |
-| [get-convex/chef](https://github.com/get-convex/chef) | The only AI app builder that knows backend |
-| [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
 | [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) | Nano vLLM |
+| [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | Automate browser based workflows with AI |
 | [nocobase/nocobase](https://github.com/nocobase/nocobase) | NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions. |
+| [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) | API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites |
+| [usestrix/strix](https://github.com/usestrix/strix) | ✨ Open-source AI hackers for your apps 👨🏻‍💻 |
 | [sst/opentui](https://github.com/sst/opentui) | OpenTUI is a library for building terminal user interfaces (TUIs) |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
@@ -54,5 +54,5 @@
 | [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) | Generate audiobooks from e-books, voice cloning & 1107+ languages! |
 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h! |
 | [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) | 🛍️ Typescript E-commerce Platform |
-| [cjpais/Handy](https://github.com/cjpais/Handy) | A free, open source, and extensible speech-to-text application that works completely offline. |
+| [minio/minio](https://github.com/minio/minio) | MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license. |
 <!-- END OF MONTHLY_TOP10_REPOS -->
