@@ -22,7 +22,7 @@
 | [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation" |
 | [bobeff/open-source-games](https://github.com/bobeff/open-source-games) | A list of open source games. |
 | [volcengine/verl](https://github.com/volcengine/verl) | verl: Volcano Engine Reinforcement Learning for LLMs |
-| [GibsonAI/Memori](https://github.com/GibsonAI/Memori) | Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems |
+| [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) | Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems |
 <!-- END OF DAILY_TOP10_REPOS -->
 
 ## 本周TOP10
