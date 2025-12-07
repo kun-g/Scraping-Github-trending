@@ -1,0 +1,114 @@
+[
+    {
+        "description": "A research prototype of a human-centered web agent",
+        "language": "Python",
+        "name": "microsoft/magentic-ui",
+        "stars": "8709",
+        "url": "https://github.com/microsoft/magentic-ui"
+    },
+    {
+        "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager \u2013 all in one",
+        "language": "Zig",
+        "name": "oven-sh/bun",
+        "stars": "84385",
+        "url": "https://github.com/oven-sh/bun"
+    },
+    {
+        "description": "The ultimate training toolkit for finetuning diffusion models",
+        "language": "Python",
+        "name": "ostris/ai-toolkit",
+        "stars": "7700",
+        "url": "https://github.com/ostris/ai-toolkit"
+    },
+    {
+        "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+        "language": "Python",
+        "name": "anthropics/claude-quickstarts",
+        "stars": "10855",
+        "url": "https://github.com/anthropics/claude-quickstarts"
+    },
+    {
+        "description": "\ud83d\ude802.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+        "language": "Rust",
+        "name": "rustfs/rustfs",
+        "stars": "15129",
+        "url": "https://github.com/rustfs/rustfs"
+    },
+    {
+        "description": "The React Framework",
+        "language": "JavaScript",
+        "name": "vercel/next.js",
+        "stars": "136271",
+        "url": "https://github.com/vercel/next.js"
+    },
+    {
+        "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+        "language": "Python",
+        "name": "comfyanonymous/ComfyUI",
+        "stars": "95903",
+        "url": "https://github.com/comfyanonymous/ComfyUI"
+    },
+    {
+        "description": "1\ufe0f\u20e3\ud83d\udc1d\ud83c\udfce\ufe0f The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java",
+        "language": "Java",
+        "name": "gunnarmorling/1brc",
+        "stars": "7751",
+        "url": "https://github.com/gunnarmorling/1brc"
+    },
+    {
+        "description": "Cybersecurity AI (CAI), the framework for AI Security",
+        "language": "Python",
+        "name": "aliasrobotics/cai",
+        "stars": "6107",
+        "url": "https://github.com/aliasrobotics/cai"
+    },
+    {
+        "description": "Implement common use cases with Jetpack Navigation 3",
+        "language": "Kotlin",
+        "name": "android/nav3-recipes",
+        "stars": "969",
+        "url": "https://github.com/android/nav3-recipes"
+    },
+    {
+        "description": "Simultaneous speech-to-text model",
+        "language": "Python",
+        "name": "QuentinFuxa/WhisperLiveKit",
+        "stars": "9042",
+        "url": "https://github.com/QuentinFuxa/WhisperLiveKit"
+    },
+    {
+        "description": "The iconic SVG, font, and CSS toolkit",
+        "language": "JavaScript",
+        "name": "FortAwesome/Font-Awesome",
+        "stars": "75916",
+        "url": "https://github.com/FortAwesome/Font-Awesome"
+    },
+    {
+        "description": "Staging repo for development of native port of TypeScript",
+        "language": "Go",
+        "name": "microsoft/typescript-go",
+        "stars": "23113",
+        "url": "https://github.com/microsoft/typescript-go"
+    },
+    {
+        "description": "ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.",
+        "language": "Python",
+        "name": "Comfy-Org/ComfyUI-Manager",
+        "stars": "12557",
+        "url": "https://github.com/Comfy-Org/ComfyUI-Manager"
+    },
+    {
+        "description": "Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork ofhttps://github.com/Fmstrat/winapps/",
+        "language": "Shell",
+        "name": "winapps-org/winapps",
+        "stars": "12844",
+        "url": "https://github.com/winapps-org/winapps"
+    },
+    {
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "language": "Shell",
+        "name": "anthropics/claude-code",
+        "stars": "44852",
+        "url": "https://github.com/anthropics/claude-code"
+    }
+]
