@@ -3,42 +3,42 @@
         "description": "A research prototype of a human-centered web agent",
         "language": "Python",
         "name": "microsoft/magentic-ui",
-        "stars": "8788",
+        "stars": "8790",
         "url": "https://github.com/microsoft/magentic-ui"
     },
     {
         "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager \u2013 all in one",
         "language": "Zig",
         "name": "oven-sh/bun",
-        "stars": "84519",
+        "stars": "84522",
         "url": "https://github.com/oven-sh/bun"
     },
     {
         "description": "\ud83d\ude802.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
         "language": "Rust",
         "name": "rustfs/rustfs",
-        "stars": "15517",
+        "stars": "15537",
         "url": "https://github.com/rustfs/rustfs"
     },
     {
         "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
         "language": "Python",
         "name": "anthropics/claude-quickstarts",
-        "stars": "11139",
+        "stars": "11152",
         "url": "https://github.com/anthropics/claude-quickstarts"
     },
     {
         "description": "The React Framework",
         "language": "JavaScript",
         "name": "vercel/next.js",
-        "stars": "136294",
+        "stars": "136296",
         "url": "https://github.com/vercel/next.js"
     },
     {
         "description": "Staging repo for development of native port of TypeScript",
         "language": "Go",
         "name": "microsoft/typescript-go",
-        "stars": "23138",
+        "stars": "23139",
         "url": "https://github.com/microsoft/typescript-go"
     },
     {
@@ -73,42 +73,42 @@
         "description": "Implement common use cases with Jetpack Navigation 3",
         "language": "Kotlin",
         "name": "android/nav3-recipes",
-        "stars": "986",
+        "stars": "987",
         "url": "https://github.com/android/nav3-recipes"
     },
     {
         "description": "The ultimate training toolkit for finetuning diffusion models",
         "language": "Python",
         "name": "ostris/ai-toolkit",
-        "stars": "7774",
+        "stars": "7776",
         "url": "https://github.com/ostris/ai-toolkit"
     },
     {
         "description": "The best way to get AI coding agents to solve hard problems in complex codebases.",
         "language": "TypeScript",
         "name": "humanlayer/humanlayer",
-        "stars": "7417",
+        "stars": "7418",
         "url": "https://github.com/humanlayer/humanlayer"
     },
     {
         "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
         "language": "Shell",
         "name": "anthropics/claude-code",
-        "stars": "44951",
+        "stars": "44955",
         "url": "https://github.com/anthropics/claude-code"
     },
     {
         "description": "",
         "language": "Ruby",
         "name": "basecamp/once-campfire",
-        "stars": "3679",
+        "stars": "3680",
         "url": "https://github.com/basecamp/once-campfire"
     },
     {
         "description": "Telegram-iOS",
         "language": "Swift",
         "name": "TelegramMessenger/Telegram-iOS",
-        "stars": "7638",
+        "stars": "7641",
         "url": "https://github.com/TelegramMessenger/Telegram-iOS"
     },
     {
@@ -122,14 +122,14 @@
         "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
         "language": "Python",
         "name": "comfyanonymous/ComfyUI",
-        "stars": "96033",
+        "stars": "96042",
         "url": "https://github.com/comfyanonymous/ComfyUI"
     },
     {
         "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
         "language": "Go",
         "name": "minio/minio",
-        "stars": "59033",
+        "stars": "59034",
         "url": "https://github.com/minio/minio"
     }
 ]
