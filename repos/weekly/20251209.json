@@ -3,42 +3,42 @@
         "description": "\ud83d\ude802.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
         "language": "Rust",
         "name": "rustfs/rustfs",
-        "stars": "15961",
+        "stars": "15970",
         "url": "https://github.com/rustfs/rustfs"
     },
     {
         "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager \u2013 all in one",
         "language": "Zig",
         "name": "oven-sh/bun",
-        "stars": "84653",
+        "stars": "84655",
         "url": "https://github.com/oven-sh/bun"
     },
     {
         "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
         "language": "Python",
         "name": "anthropics/claude-quickstarts",
-        "stars": "11478",
+        "stars": "11494",
         "url": "https://github.com/anthropics/claude-quickstarts"
     },
     {
         "description": "Staging repo for development of native port of TypeScript",
         "language": "Go",
         "name": "microsoft/typescript-go",
-        "stars": "23180",
+        "stars": "23181",
         "url": "https://github.com/microsoft/typescript-go"
     },
     {
         "description": "A research prototype of a human-centered web agent",
         "language": "Python",
         "name": "microsoft/magentic-ui",
-        "stars": "8880",
+        "stars": "8883",
         "url": "https://github.com/microsoft/magentic-ui"
     },
     {
         "description": "The React Framework",
         "language": "JavaScript",
         "name": "vercel/next.js",
-        "stars": "136334",
+        "stars": "136335",
         "url": "https://github.com/vercel/next.js"
     },
     {
@@ -52,14 +52,14 @@
         "description": "Empower the Web community and invite more to build across platforms.",
         "language": "C++",
         "name": "lynx-family/lynx",
-        "stars": "13839",
+        "stars": "13840",
         "url": "https://github.com/lynx-family/lynx"
     },
     {
         "description": "The best way to get AI coding agents to solve hard problems in complex codebases.",
         "language": "TypeScript",
         "name": "humanlayer/humanlayer",
-        "stars": "7524",
+        "stars": "7525",
         "url": "https://github.com/humanlayer/humanlayer"
     },
     {
@@ -73,7 +73,7 @@
         "description": "The iconic SVG, font, and CSS toolkit",
         "language": "JavaScript",
         "name": "FortAwesome/Font-Awesome",
-        "stars": "75974",
+        "stars": "75976",
         "url": "https://github.com/FortAwesome/Font-Awesome"
     },
     {
@@ -94,35 +94,35 @@
         "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
         "language": "Python",
         "name": "comfyanonymous/ComfyUI",
-        "stars": "96196",
+        "stars": "96201",
         "url": "https://github.com/comfyanonymous/ComfyUI"
     },
     {
         "description": "The ultimate training toolkit for finetuning diffusion models",
         "language": "Python",
         "name": "ostris/ai-toolkit",
-        "stars": "7855",
+        "stars": "7859",
         "url": "https://github.com/ostris/ai-toolkit"
     },
     {
         "description": "",
         "language": "Ruby",
         "name": "basecamp/once-campfire",
-        "stars": "3703",
+        "stars": "3704",
         "url": "https://github.com/basecamp/once-campfire"
     },
     {
         "description": "Cybersecurity AI (CAI), the framework for AI Security",
         "language": "Python",
         "name": "aliasrobotics/cai",
-        "stars": "6222",
+        "stars": "6225",
         "url": "https://github.com/aliasrobotics/cai"
     },
     {
         "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
         "language": "Go",
         "name": "minio/minio",
-        "stars": "59073",
+        "stars": "59074",
         "url": "https://github.com/minio/minio"
     }
 ]
