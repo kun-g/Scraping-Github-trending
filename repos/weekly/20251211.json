@@ -3,105 +3,105 @@
         "description": "Kanban as it should be. Not as it has been.",
         "language": "Ruby",
         "name": "basecamp/fizzy",
-        "stars": "5356",
+        "stars": "5359",
         "url": "https://github.com/basecamp/fizzy"
     },
     {
         "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
         "language": "TypeScript",
         "name": "DayuanJiang/next-ai-draw-io",
-        "stars": "6351",
+        "stars": "6373",
         "url": "https://github.com/DayuanJiang/next-ai-draw-io"
     },
     {
         "description": "\ud83d\ude802.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
         "language": "Rust",
         "name": "rustfs/rustfs",
-        "stars": "16502",
+        "stars": "16511",
         "url": "https://github.com/rustfs/rustfs"
     },
     {
         "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
         "language": "Python",
         "name": "anthropics/claude-quickstarts",
-        "stars": "11833",
+        "stars": "11838",
         "url": "https://github.com/anthropics/claude-quickstarts"
     },
     {
         "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager \u2013 all in one",
         "language": "Zig",
         "name": "oven-sh/bun",
-        "stars": "84841",
+        "stars": "84842",
         "url": "https://github.com/oven-sh/bun"
     },
     {
         "description": "Staging repo for development of native port of TypeScript",
         "language": "Go",
         "name": "microsoft/typescript-go",
-        "stars": "23260",
+        "stars": "23261",
         "url": "https://github.com/microsoft/typescript-go"
     },
     {
         "description": "A framework for efficient model inference with omni-modality models",
         "language": "Python",
         "name": "vllm-project/vllm-omni",
-        "stars": "803",
+        "stars": "808",
         "url": "https://github.com/vllm-project/vllm-omni"
     },
     {
         "description": "The best way to get AI coding agents to solve hard problems in complex codebases.",
         "language": "TypeScript",
         "name": "humanlayer/humanlayer",
-        "stars": "7688",
+        "stars": "7692",
         "url": "https://github.com/humanlayer/humanlayer"
     },
     {
         "description": "The React Framework",
         "language": "JavaScript",
         "name": "vercel/next.js",
-        "stars": "136417",
+        "stars": "136420",
         "url": "https://github.com/vercel/next.js"
     },
     {
         "description": "An Open Source implementation of Notebook LM with more flexibility and features",
         "language": "TypeScript",
         "name": "lfnovo/open-notebook",
-        "stars": "14029",
+        "stars": "14044",
         "url": "https://github.com/lfnovo/open-notebook"
     },
     {
         "description": "Empower the Web community and invite more to build across platforms.",
         "language": "C++",
         "name": "lynx-family/lynx",
-        "stars": "13869",
+        "stars": "13870",
         "url": "https://github.com/lynx-family/lynx"
     },
     {
         "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
         "language": "Go",
         "name": "aquasecurity/trivy",
-        "stars": "30391",
+        "stars": "30392",
         "url": "https://github.com/aquasecurity/trivy"
     },
     {
         "description": "Telegram-iOS",
         "language": "Swift",
         "name": "TelegramMessenger/Telegram-iOS",
-        "stars": "7741",
+        "stars": "7742",
         "url": "https://github.com/TelegramMessenger/Telegram-iOS"
     },
     {
         "description": "Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.",
         "language": "Python",
         "name": "srbhr/Resume-Matcher",
-        "stars": "24559",
+        "stars": "24565",
         "url": "https://github.com/srbhr/Resume-Matcher"
     },
     {
         "description": "The ultimate training toolkit for finetuning diffusion models",
         "language": "Python",
         "name": "ostris/ai-toolkit",
-        "stars": "8000",
+        "stars": "8003",
         "url": "https://github.com/ostris/ai-toolkit"
     },
     {
@@ -115,7 +115,7 @@
         "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
         "language": "Shell",
         "name": "anthropics/claude-code",
-        "stars": "45357",
+        "stars": "45361",
         "url": "https://github.com/anthropics/claude-code"
     }
 ]
