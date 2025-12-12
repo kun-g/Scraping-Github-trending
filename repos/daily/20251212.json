@@ -1,0 +1,93 @@
+[
+    {
+        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+        "language": "JavaScript",
+        "name": "thedotmack/claude-mem",
+        "stars": "3772",
+        "url": "https://github.com/thedotmack/claude-mem"
+    },
+    {
+        "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
+        "language": "Go",
+        "name": "Tencent/WeKnora",
+        "stars": "8097",
+        "url": "https://github.com/Tencent/WeKnora"
+    },
+    {
+        "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+        "language": "Rust",
+        "name": "block/goose",
+        "stars": "23781",
+        "url": "https://github.com/block/goose"
+    },
+    {
+        "description": "General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor",
+        "language": "Go",
+        "name": "KaijuEngine/kaiju",
+        "stars": "3372",
+        "url": "https://github.com/KaijuEngine/kaiju"
+    },
+    {
+        "description": "the blockchain for payments",
+        "language": "Rust",
+        "name": "tempoxyz/tempo",
+        "stars": "334",
+        "url": "https://github.com/tempoxyz/tempo"
+    },
+    {
+        "description": "Experimental menu for GTA 5: Enhanced",
+        "language": "C++",
+        "name": "YimMenu/YimMenuV2",
+        "stars": "743",
+        "url": "https://github.com/YimMenu/YimMenuV2"
+    },
+    {
+        "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+        "language": "N/A",
+        "name": "mlabonne/llm-course",
+        "stars": "69860",
+        "url": "https://github.com/mlabonne/llm-course"
+    },
+    {
+        "description": "AGENTS.md \u2014 a simple, open format for guiding coding agents",
+        "language": "TypeScript",
+        "name": "agentsmd/agents.md",
+        "stars": "10283",
+        "url": "https://github.com/agentsmd/agents.md"
+    },
+    {
+        "description": "Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store\u2728",
+        "language": "C#",
+        "name": "HotCakeX/Harden-Windows-Security",
+        "stars": "3561",
+        "url": "https://github.com/HotCakeX/Harden-Windows-Security"
+    },
+    {
+        "description": "\u6240\u6709\u5c0f\u521d\u9ad8\u3001\u5927\u5b66PDF\u6559\u6750\u3002",
+        "language": "Roff",
+        "name": "TapXWorld/ChinaTextbook",
+        "stars": "61632",
+        "url": "https://github.com/TapXWorld/ChinaTextbook"
+    },
+    {
+        "description": "Federated query engine for AI - The only MCP Server you'll ever need",
+        "language": "Python",
+        "name": "mindsdb/mindsdb",
+        "stars": "37633",
+        "url": "https://github.com/mindsdb/mindsdb"
+    },
+    {
+        "description": "Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability.",
+        "language": "Python",
+        "name": "GoogleCloudPlatform/agent-starter-pack",
+        "stars": "4104",
+        "url": "https://github.com/GoogleCloudPlatform/agent-starter-pack"
+    },
+    {
+        "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+        "language": "Rust",
+        "name": "rustdesk/rustdesk",
+        "stars": "103932",
+        "url": "https://github.com/rustdesk/rustdesk"
+    }
+]
