@@ -3,49 +3,49 @@
         "description": "Kanban as it should be. Not as it has been.",
         "language": "Ruby",
         "name": "basecamp/fizzy",
-        "stars": "5487",
+        "stars": "5491",
         "url": "https://github.com/basecamp/fizzy"
     },
     {
         "description": "\ud83d\ude802.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
         "language": "Rust",
         "name": "rustfs/rustfs",
-        "stars": "16700",
+        "stars": "16703",
         "url": "https://github.com/rustfs/rustfs"
     },
     {
         "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
         "language": "TypeScript",
         "name": "DayuanJiang/next-ai-draw-io",
-        "stars": "7186",
+        "stars": "7201",
         "url": "https://github.com/DayuanJiang/next-ai-draw-io"
     },
     {
         "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
         "language": "Python",
         "name": "anthropics/claude-quickstarts",
-        "stars": "11939",
+        "stars": "11943",
         "url": "https://github.com/anthropics/claude-quickstarts"
     },
     {
         "description": "AGENTS.md \u2014 a simple, open format for guiding coding agents",
         "language": "TypeScript",
         "name": "agentsmd/agents.md",
-        "stars": "10283",
+        "stars": "10298",
         "url": "https://github.com/agentsmd/agents.md"
     },
     {
         "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager \u2013 all in one",
         "language": "Zig",
         "name": "oven-sh/bun",
-        "stars": "84913",
+        "stars": "84914",
         "url": "https://github.com/oven-sh/bun"
     },
     {
         "description": "Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.",
         "language": "Python",
         "name": "srbhr/Resume-Matcher",
-        "stars": "24650",
+        "stars": "24653",
         "url": "https://github.com/srbhr/Resume-Matcher"
     },
     {
@@ -80,7 +80,7 @@
         "description": "An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack",
         "language": "TypeScript",
         "name": "cloudflare/vibesdk",
-        "stars": "4277",
+        "stars": "4280",
         "url": "https://github.com/cloudflare/vibesdk"
     },
     {
@@ -108,14 +108,14 @@
         "description": "The React Framework",
         "language": "JavaScript",
         "name": "vercel/next.js",
-        "stars": "136457",
+        "stars": "136458",
         "url": "https://github.com/vercel/next.js"
     },
     {
         "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
         "language": "Shell",
         "name": "anthropics/claude-code",
-        "stars": "45514",
+        "stars": "45519",
         "url": "https://github.com/anthropics/claude-code"
     }
 ]
