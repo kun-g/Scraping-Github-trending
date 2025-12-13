@@ -3,42 +3,42 @@
         "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
         "language": "TypeScript",
         "name": "DayuanJiang/next-ai-draw-io",
-        "stars": "8229",
+        "stars": "8242",
         "url": "https://github.com/DayuanJiang/next-ai-draw-io"
     },
     {
         "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
         "language": "Python",
         "name": "anthropics/claude-quickstarts",
-        "stars": "12063",
+        "stars": "12064",
         "url": "https://github.com/anthropics/claude-quickstarts"
     },
     {
         "description": "\ud83d\ude802.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
         "language": "Rust",
         "name": "rustfs/rustfs",
-        "stars": "16892",
+        "stars": "16894",
         "url": "https://github.com/rustfs/rustfs"
     },
     {
         "description": "AGENTS.md \u2014 a simple, open format for guiding coding agents",
         "language": "TypeScript",
         "name": "agentsmd/agents.md",
-        "stars": "10855",
+        "stars": "10865",
         "url": "https://github.com/agentsmd/agents.md"
     },
     {
         "description": "Kanban as it should be. Not as it has been.",
         "language": "Ruby",
         "name": "basecamp/fizzy",
-        "stars": "5617",
+        "stars": "5619",
         "url": "https://github.com/basecamp/fizzy"
     },
     {
         "description": "An Open Source implementation of Notebook LM with more flexibility and features",
         "language": "TypeScript",
         "name": "lfnovo/open-notebook",
-        "stars": "14498",
+        "stars": "14504",
         "url": "https://github.com/lfnovo/open-notebook"
     },
     {
@@ -52,28 +52,28 @@
         "description": "Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.",
         "language": "Python",
         "name": "srbhr/Resume-Matcher",
-        "stars": "24722",
+        "stars": "24726",
         "url": "https://github.com/srbhr/Resume-Matcher"
     },
     {
         "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
         "language": "Rust",
         "name": "block/goose",
-        "stars": "24060",
+        "stars": "24063",
         "url": "https://github.com/block/goose"
     },
     {
         "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
         "language": "Go",
         "name": "Tencent/WeKnora",
-        "stars": "8364",
+        "stars": "8367",
         "url": "https://github.com/Tencent/WeKnora"
     },
     {
         "description": "Staging repo for development of native port of TypeScript",
         "language": "Go",
         "name": "microsoft/typescript-go",
-        "stars": "23321",
+        "stars": "23322",
         "url": "https://github.com/microsoft/typescript-go"
     },
     {
@@ -87,42 +87,42 @@
         "description": "Empower the Web community and invite more to build across platforms.",
         "language": "C++",
         "name": "lynx-family/lynx",
-        "stars": "13903",
+        "stars": "13904",
         "url": "https://github.com/lynx-family/lynx"
     },
     {
         "description": "The best way to get AI coding agents to solve hard problems in complex codebases.",
         "language": "TypeScript",
         "name": "humanlayer/humanlayer",
-        "stars": "7778",
+        "stars": "7779",
         "url": "https://github.com/humanlayer/humanlayer"
     },
     {
         "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager \u2013 all in one",
         "language": "Zig",
         "name": "oven-sh/bun",
-        "stars": "84974",
+        "stars": "84976",
         "url": "https://github.com/oven-sh/bun"
     },
     {
         "description": "\ud83d\udcda \u300a\u4ece\u96f6\u5f00\u59cb\u6784\u5efa\u667a\u80fd\u4f53\u300b\u2014\u2014\u4ece\u96f6\u5f00\u59cb\u7684\u667a\u80fd\u4f53\u539f\u7406\u4e0e\u5b9e\u8df5\u6559\u7a0b",
         "language": "Python",
         "name": "datawhalechina/hello-agents",
-        "stars": "8310",
+        "stars": "8322",
         "url": "https://github.com/datawhalechina/hello-agents"
     },
     {
         "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
         "language": "Shell",
         "name": "anthropics/claude-code",
-        "stars": "45660",
+        "stars": "45661",
         "url": "https://github.com/anthropics/claude-code"
     },
     {
         "description": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
         "language": "JavaScript",
         "name": "projectdiscovery/nuclei-templates",
-        "stars": "11640",
+        "stars": "11641",
         "url": "https://github.com/projectdiscovery/nuclei-templates"
     }
 ]
