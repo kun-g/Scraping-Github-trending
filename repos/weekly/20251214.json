@@ -1,0 +1,107 @@
+[
+    {
+        "description": "Open-Source Frontier Voice AI",
+        "language": "Python",
+        "name": "microsoft/VibeVoice",
+        "stars": "17726",
+        "url": "https://github.com/microsoft/VibeVoice"
+    },
+    {
+        "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+        "language": "TypeScript",
+        "name": "DayuanJiang/next-ai-draw-io",
+        "stars": "9088",
+        "url": "https://github.com/DayuanJiang/next-ai-draw-io"
+    },
+    {
+        "description": "AGENTS.md \u2014 a simple, open format for guiding coding agents",
+        "language": "TypeScript",
+        "name": "agentsmd/agents.md",
+        "stars": "11223",
+        "url": "https://github.com/agentsmd/agents.md"
+    },
+    {
+        "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+        "language": "Python",
+        "name": "anthropics/claude-quickstarts",
+        "stars": "12138",
+        "url": "https://github.com/anthropics/claude-quickstarts"
+    },
+    {
+        "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+        "language": "Rust",
+        "name": "block/goose",
+        "stars": "24258",
+        "url": "https://github.com/block/goose"
+    },
+    {
+        "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+        "language": "TypeScript",
+        "name": "lfnovo/open-notebook",
+        "stars": "14696",
+        "url": "https://github.com/lfnovo/open-notebook"
+    },
+    {
+        "description": "\ud83d\ude802.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+        "language": "Rust",
+        "name": "rustfs/rustfs",
+        "stars": "17003",
+        "url": "https://github.com/rustfs/rustfs"
+    },
+    {
+        "description": "Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.",
+        "language": "Python",
+        "name": "srbhr/Resume-Matcher",
+        "stars": "24830",
+        "url": "https://github.com/srbhr/Resume-Matcher"
+    },
+    {
+        "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+        "language": "Jupyter Notebook",
+        "name": "microsoft/ML-For-Beginners",
+        "stars": "81762",
+        "url": "https://github.com/microsoft/ML-For-Beginners"
+    },
+    {
+        "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
+        "language": "Go",
+        "name": "Tencent/WeKnora",
+        "stars": "8546",
+        "url": "https://github.com/Tencent/WeKnora"
+    },
+    {
+        "description": "\ud83d\udcda \u300a\u4ece\u96f6\u5f00\u59cb\u6784\u5efa\u667a\u80fd\u4f53\u300b\u2014\u2014\u4ece\u96f6\u5f00\u59cb\u7684\u667a\u80fd\u4f53\u539f\u7406\u4e0e\u5b9e\u8df5\u6559\u7a0b",
+        "language": "Python",
+        "name": "datawhalechina/hello-agents",
+        "stars": "8701",
+        "url": "https://github.com/datawhalechina/hello-agents"
+    },
+    {
+        "description": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
+        "language": "C++",
+        "name": "leejet/stable-diffusion.cpp",
+        "stars": "4861",
+        "url": "https://github.com/leejet/stable-diffusion.cpp"
+    },
+    {
+        "description": "Central repository for biomolecular foundation models with shared trainers and pipeline components",
+        "language": "Python",
+        "name": "RosettaCommons/foundry",
+        "stars": "548",
+        "url": "https://github.com/RosettaCommons/foundry"
+    },
+    {
+        "description": "Turso is an in-process SQL database, compatible with SQLite.",
+        "language": "Rust",
+        "name": "tursodatabase/turso",
+        "stars": "15358",
+        "url": "https://github.com/tursodatabase/turso"
+    },
+    {
+        "description": "A model-driven approach to building AI agents in just a few lines of code.",
+        "language": "Python",
+        "name": "strands-agents/sdk-python",
+        "stars": "4459",
+        "url": "https://github.com/strands-agents/sdk-python"
+    }
+]
