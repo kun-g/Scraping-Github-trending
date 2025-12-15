@@ -1,0 +1,107 @@
+[
+    {
+        "description": "Open-source platform to build and deploy AI agent workflows.",
+        "language": "TypeScript",
+        "name": "simstudioai/sim",
+        "stars": "20244",
+        "url": "https://github.com/simstudioai/sim"
+    },
+    {
+        "description": "Lightweight coding agent that runs in your terminal",
+        "language": "Rust",
+        "name": "openai/codex",
+        "stars": "53108",
+        "url": "https://github.com/openai/codex"
+    },
+    {
+        "description": "The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.",
+        "language": "Markdown",
+        "name": "mdn/content",
+        "stars": "9995",
+        "url": "https://github.com/mdn/content"
+    },
+    {
+        "description": "Feature packed AUR helper",
+        "language": "Rust",
+        "name": "Morganamilo/paru",
+        "stars": "7812",
+        "url": "https://github.com/Morganamilo/paru"
+    },
+    {
+        "description": "Common User Passwords Profiler (CUPP)",
+        "language": "Python",
+        "name": "Mebus/cupp",
+        "stars": "5199",
+        "url": "https://github.com/Mebus/cupp"
+    },
+    {
+        "description": "A book for Learning the Foundations of LLMs",
+        "language": "N/A",
+        "name": "ZJU-LLMs/Foundations-of-LLMs",
+        "stars": "13648",
+        "url": "https://github.com/ZJU-LLMs/Foundations-of-LLMs"
+    },
+    {
+        "description": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code",
+        "language": "TypeScript",
+        "name": "daytonaio/daytona",
+        "stars": "37234",
+        "url": "https://github.com/daytonaio/daytona"
+    },
+    {
+        "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
+        "language": "TypeScript",
+        "name": "shadcn-ui/ui",
+        "stars": "102331",
+        "url": "https://github.com/shadcn-ui/ui"
+    },
+    {
+        "description": "\ud83d\udcda \u300a\u4ece\u96f6\u5f00\u59cb\u6784\u5efa\u667a\u80fd\u4f53\u300b\u2014\u2014\u4ece\u96f6\u5f00\u59cb\u7684\u667a\u80fd\u4f53\u539f\u7406\u4e0e\u5b9e\u8df5\u6559\u7a0b",
+        "language": "Python",
+        "name": "datawhalechina/hello-agents",
+        "stars": "9058",
+        "url": "https://github.com/datawhalechina/hello-agents"
+    },
+    {
+        "description": "\ud83c\udf40 A cross-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS\uff08\u4e00\u6b3e\u57fa\u4e8eRust+Vue3\u6781\u81f4\u6027\u80fd\u7684\u8de8\u5e73\u53f0\u5373\u65f6\u901a\u8baf\u684c\u9762\u5e94\u7528\uff0c\u517c\u5bb9Windows\u3001MacOS\u3001Linux\u3001Android\u3001IOS\uff09",
+        "language": "Vue",
+        "name": "HuLaSpark/HuLa",
+        "stars": "5909",
+        "url": "https://github.com/HuLaSpark/HuLa"
+    },
+    {
+        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+        "language": "TypeScript",
+        "name": "thedotmack/claude-mem",
+        "stars": "5768",
+        "url": "https://github.com/thedotmack/claude-mem"
+    },
+    {
+        "description": "Post-training with Tinker",
+        "language": "Python",
+        "name": "thinking-machines-lab/tinker-cookbook",
+        "stars": "2469",
+        "url": "https://github.com/thinking-machines-lab/tinker-cookbook"
+    },
+    {
+        "description": "Turso is an in-process SQL database, compatible with SQLite.",
+        "language": "Rust",
+        "name": "tursodatabase/turso",
+        "stars": "15490",
+        "url": "https://github.com/tursodatabase/turso"
+    },
+    {
+        "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
+        "language": "Go",
+        "name": "Tencent/WeKnora",
+        "stars": "8746",
+        "url": "https://github.com/Tencent/WeKnora"
+    },
+    {
+        "description": "An AI Hedge Fund Team",
+        "language": "Python",
+        "name": "virattt/ai-hedge-fund",
+        "stars": "42729",
+        "url": "https://github.com/virattt/ai-hedge-fund"
+    }
+]
