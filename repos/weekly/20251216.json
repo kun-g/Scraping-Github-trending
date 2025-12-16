@@ -3,98 +3,98 @@
         "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
         "language": "TypeScript",
         "name": "thedotmack/claude-mem",
-        "stars": "6826",
+        "stars": "6843",
         "url": "https://github.com/thedotmack/claude-mem"
     },
     {
         "description": "Open-Source Frontier Voice AI",
         "language": "Python",
         "name": "microsoft/VibeVoice",
-        "stars": "18131",
+        "stars": "18140",
         "url": "https://github.com/microsoft/VibeVoice"
     },
     {
         "description": "AGENTS.md \u2014 a simple, open format for guiding coding agents",
         "language": "TypeScript",
         "name": "agentsmd/agents.md",
-        "stars": "11850",
+        "stars": "11860",
         "url": "https://github.com/agentsmd/agents.md"
     },
     {
         "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
         "language": "TypeScript",
         "name": "DayuanJiang/next-ai-draw-io",
-        "stars": "11588",
+        "stars": "11628",
         "url": "https://github.com/DayuanJiang/next-ai-draw-io"
     },
     {
         "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
         "language": "Rust",
         "name": "block/goose",
-        "stars": "24451",
+        "stars": "24456",
         "url": "https://github.com/block/goose"
     },
     {
         "description": "cuTile is a programming model for writing parallel kernels for NVIDIA GPUs",
         "language": "Python",
         "name": "NVIDIA/cutile-python",
-        "stars": "1543",
+        "stars": "1545",
         "url": "https://github.com/NVIDIA/cutile-python"
     },
     {
         "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
         "language": "Go",
         "name": "Tencent/WeKnora",
-        "stars": "8991",
+        "stars": "8996",
         "url": "https://github.com/Tencent/WeKnora"
     },
     {
         "description": "\ud83d\udcda \u300a\u4ece\u96f6\u5f00\u59cb\u6784\u5efa\u667a\u80fd\u4f53\u300b\u2014\u2014\u4ece\u96f6\u5f00\u59cb\u7684\u667a\u80fd\u4f53\u539f\u7406\u4e0e\u5b9e\u8df5\u6559\u7a0b",
         "language": "Python",
         "name": "datawhalechina/hello-agents",
-        "stars": "9638",
+        "stars": "9660",
         "url": "https://github.com/datawhalechina/hello-agents"
     },
     {
         "description": "Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.",
         "language": "Python",
         "name": "srbhr/Resume-Matcher",
-        "stars": "25007",
+        "stars": "25010",
         "url": "https://github.com/srbhr/Resume-Matcher"
     },
     {
         "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
         "language": "Python",
         "name": "anthropics/claude-quickstarts",
-        "stars": "12301",
+        "stars": "12308",
         "url": "https://github.com/anthropics/claude-quickstarts"
     },
     {
         "description": "Turso is an in-process SQL database, compatible with SQLite.",
         "language": "Rust",
         "name": "tursodatabase/turso",
-        "stars": "15639",
+        "stars": "15642",
         "url": "https://github.com/tursodatabase/turso"
     },
     {
         "description": "An Open Source implementation of Notebook LM with more flexibility and features",
         "language": "TypeScript",
         "name": "lfnovo/open-notebook",
-        "stars": "14995",
+        "stars": "15003",
         "url": "https://github.com/lfnovo/open-notebook"
     },
     {
         "description": "\ud83d\ude802.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
         "language": "Rust",
         "name": "rustfs/rustfs",
-        "stars": "17251",
+        "stars": "17256",
         "url": "https://github.com/rustfs/rustfs"
     },
     {
         "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
         "language": "Jupyter Notebook",
         "name": "microsoft/ML-For-Beginners",
-        "stars": "82020",
+        "stars": "82023",
         "url": "https://github.com/microsoft/ML-For-Beginners"
     }
 ]
