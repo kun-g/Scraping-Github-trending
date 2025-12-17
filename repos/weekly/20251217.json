@@ -3,119 +3,119 @@
         "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
         "language": "TypeScript",
         "name": "thedotmack/claude-mem",
-        "stars": "7409",
+        "stars": "7422",
         "url": "https://github.com/thedotmack/claude-mem"
     },
     {
         "description": "AGENTS.md \u2014 a simple, open format for guiding coding agents",
         "language": "TypeScript",
         "name": "agentsmd/agents.md",
-        "stars": "12096",
+        "stars": "12099",
         "url": "https://github.com/agentsmd/agents.md"
     },
     {
         "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
         "language": "TypeScript",
         "name": "DayuanJiang/next-ai-draw-io",
-        "stars": "12266",
+        "stars": "12289",
         "url": "https://github.com/DayuanJiang/next-ai-draw-io"
     },
     {
         "description": "Open-Source Frontier Voice AI",
         "language": "Python",
         "name": "microsoft/VibeVoice",
-        "stars": "18390",
+        "stars": "18394",
         "url": "https://github.com/microsoft/VibeVoice"
     },
     {
         "description": "Open-source platform to build and deploy AI agent workflows.",
         "language": "TypeScript",
         "name": "simstudioai/sim",
-        "stars": "22895",
+        "stars": "22918",
         "url": "https://github.com/simstudioai/sim"
     },
     {
         "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
         "language": "Go",
         "name": "Tencent/WeKnora",
-        "stars": "9106",
+        "stars": "9109",
         "url": "https://github.com/Tencent/WeKnora"
     },
     {
         "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
         "language": "Rust",
         "name": "block/goose",
-        "stars": "24549",
+        "stars": "24555",
         "url": "https://github.com/block/goose"
     },
     {
         "description": "\ud83d\udcda \u300a\u4ece\u96f6\u5f00\u59cb\u6784\u5efa\u667a\u80fd\u4f53\u300b\u2014\u2014\u4ece\u96f6\u5f00\u59cb\u7684\u667a\u80fd\u4f53\u539f\u7406\u4e0e\u5b9e\u8df5\u6559\u7a0b",
         "language": "Python",
         "name": "datawhalechina/hello-agents",
-        "stars": "10009",
+        "stars": "10023",
         "url": "https://github.com/datawhalechina/hello-agents"
     },
     {
         "description": "Turso is an in-process SQL database, compatible with SQLite.",
         "language": "Rust",
         "name": "tursodatabase/turso",
-        "stars": "15716",
+        "stars": "15719",
         "url": "https://github.com/tursodatabase/turso"
     },
     {
         "description": "cuTile is a programming model for writing parallel kernels for NVIDIA GPUs",
         "language": "Python",
         "name": "NVIDIA/cutile-python",
-        "stars": "1576",
+        "stars": "1577",
         "url": "https://github.com/NVIDIA/cutile-python"
     },
     {
         "description": "An Open Source implementation of Notebook LM with more flexibility and features",
         "language": "TypeScript",
         "name": "lfnovo/open-notebook",
-        "stars": "15182",
+        "stars": "15187",
         "url": "https://github.com/lfnovo/open-notebook"
     },
     {
         "description": "Federated query engine for AI - The only MCP Server you'll ever need",
         "language": "Python",
         "name": "mindsdb/mindsdb",
-        "stars": "37927",
+        "stars": "37931",
         "url": "https://github.com/mindsdb/mindsdb"
     },
     {
         "description": "Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.",
         "language": "Python",
         "name": "srbhr/Resume-Matcher",
-        "stars": "25106",
+        "stars": "25110",
         "url": "https://github.com/srbhr/Resume-Matcher"
     },
     {
         "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
         "language": "Jupyter Notebook",
         "name": "microsoft/ML-For-Beginners",
-        "stars": "82145",
+        "stars": "82150",
         "url": "https://github.com/microsoft/ML-For-Beginners"
     },
     {
         "description": "Jellyfin Desktop Client",
         "language": "C++",
         "name": "jellyfin/jellyfin-desktop",
-        "stars": "4727",
+        "stars": "4732",
         "url": "https://github.com/jellyfin/jellyfin-desktop"
     },
     {
         "description": "A model-driven approach to building AI agents in just a few lines of code.",
         "language": "Python",
         "name": "strands-agents/sdk-python",
-        "stars": "4558",
+        "stars": "4559",
         "url": "https://github.com/strands-agents/sdk-python"
     },
     {
         "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
         "language": "Python",
         "name": "anthropics/claude-quickstarts",
-        "stars": "12370",
+        "stars": "12371",
         "url": "https://github.com/anthropics/claude-quickstarts"
     }
 ]
