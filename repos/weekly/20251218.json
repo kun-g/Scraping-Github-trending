@@ -1,0 +1,100 @@
+[
+    {
+        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+        "language": "TypeScript",
+        "name": "thedotmack/claude-mem",
+        "stars": "7804",
+        "url": "https://github.com/thedotmack/claude-mem"
+    },
+    {
+        "description": "Open-source platform to build and deploy AI agent workflows.",
+        "language": "TypeScript",
+        "name": "simstudioai/sim",
+        "stars": "23456",
+        "url": "https://github.com/simstudioai/sim"
+    },
+    {
+        "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+        "language": "TypeScript",
+        "name": "DayuanJiang/next-ai-draw-io",
+        "stars": "12692",
+        "url": "https://github.com/DayuanJiang/next-ai-draw-io"
+    },
+    {
+        "description": "AGENTS.md \u2014 a simple, open format for guiding coding agents",
+        "language": "TypeScript",
+        "name": "agentsmd/agents.md",
+        "stars": "12318",
+        "url": "https://github.com/agentsmd/agents.md"
+    },
+    {
+        "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
+        "language": "Go",
+        "name": "Tencent/WeKnora",
+        "stars": "9205",
+        "url": "https://github.com/Tencent/WeKnora"
+    },
+    {
+        "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+        "language": "Rust",
+        "name": "block/goose",
+        "stars": "24636",
+        "url": "https://github.com/block/goose"
+    },
+    {
+        "description": "\ud83d\udcda \u300a\u4ece\u96f6\u5f00\u59cb\u6784\u5efa\u667a\u80fd\u4f53\u300b\u2014\u2014\u4ece\u96f6\u5f00\u59cb\u7684\u667a\u80fd\u4f53\u539f\u7406\u4e0e\u5b9e\u8df5\u6559\u7a0b",
+        "language": "Python",
+        "name": "datawhalechina/hello-agents",
+        "stars": "10287",
+        "url": "https://github.com/datawhalechina/hello-agents"
+    },
+    {
+        "description": "Turso is an in-process SQL database, compatible with SQLite.",
+        "language": "Rust",
+        "name": "tursodatabase/turso",
+        "stars": "15765",
+        "url": "https://github.com/tursodatabase/turso"
+    },
+    {
+        "description": "General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor",
+        "language": "Go",
+        "name": "KaijuEngine/kaiju",
+        "stars": "3720",
+        "url": "https://github.com/KaijuEngine/kaiju"
+    },
+    {
+        "description": "Open-Source Frontier Voice AI",
+        "language": "Python",
+        "name": "microsoft/VibeVoice",
+        "stars": "18506",
+        "url": "https://github.com/microsoft/VibeVoice"
+    },
+    {
+        "description": "An AI Hedge Fund Team",
+        "language": "Python",
+        "name": "virattt/ai-hedge-fund",
+        "stars": "43370",
+        "url": "https://github.com/virattt/ai-hedge-fund"
+    },
+    {
+        "description": "Chrome DevTools for coding agents",
+        "language": "TypeScript",
+        "name": "ChromeDevTools/chrome-devtools-mcp",
+        "stars": "17017",
+        "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+    },
+    {
+        "description": "Federated query engine for AI - The only MCP Server you'll ever need",
+        "language": "Python",
+        "name": "mindsdb/mindsdb",
+        "stars": "37977",
+        "url": "https://github.com/mindsdb/mindsdb"
+    },
+    {
+        "description": "Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.",
+        "language": "Python",
+        "name": "srbhr/Resume-Matcher",
+        "stars": "25200",
+        "url": "https://github.com/srbhr/Resume-Matcher"
+    }
+]
