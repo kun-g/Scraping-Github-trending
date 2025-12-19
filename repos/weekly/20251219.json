@@ -1,0 +1,107 @@
+[
+    {
+        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+        "language": "TypeScript",
+        "name": "thedotmack/claude-mem",
+        "stars": "8041",
+        "url": "https://github.com/thedotmack/claude-mem"
+    },
+    {
+        "description": "Open-source platform to build and deploy AI agent workflows.",
+        "language": "TypeScript",
+        "name": "simstudioai/sim",
+        "stars": "23616",
+        "url": "https://github.com/simstudioai/sim"
+    },
+    {
+        "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+        "language": "TypeScript",
+        "name": "DayuanJiang/next-ai-draw-io",
+        "stars": "13221",
+        "url": "https://github.com/DayuanJiang/next-ai-draw-io"
+    },
+    {
+        "description": "AGENTS.md \u2014 a simple, open format for guiding coding agents",
+        "language": "TypeScript",
+        "name": "agentsmd/agents.md",
+        "stars": "12506",
+        "url": "https://github.com/agentsmd/agents.md"
+    },
+    {
+        "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
+        "language": "Go",
+        "name": "Tencent/WeKnora",
+        "stars": "9306",
+        "url": "https://github.com/Tencent/WeKnora"
+    },
+    {
+        "description": "An AI Hedge Fund Team",
+        "language": "Python",
+        "name": "virattt/ai-hedge-fund",
+        "stars": "43605",
+        "url": "https://github.com/virattt/ai-hedge-fund"
+    },
+    {
+        "description": "\ud83d\udcda \u300a\u4ece\u96f6\u5f00\u59cb\u6784\u5efa\u667a\u80fd\u4f53\u300b\u2014\u2014\u4ece\u96f6\u5f00\u59cb\u7684\u667a\u80fd\u4f53\u539f\u7406\u4e0e\u5b9e\u8df5\u6559\u7a0b",
+        "language": "Python",
+        "name": "datawhalechina/hello-agents",
+        "stars": "10661",
+        "url": "https://github.com/datawhalechina/hello-agents"
+    },
+    {
+        "description": "Turso is an in-process SQL database, compatible with SQLite.",
+        "language": "Rust",
+        "name": "tursodatabase/turso",
+        "stars": "15797",
+        "url": "https://github.com/tursodatabase/turso"
+    },
+    {
+        "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+        "language": "Rust",
+        "name": "block/goose",
+        "stars": "24714",
+        "url": "https://github.com/block/goose"
+    },
+    {
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "language": "Shell",
+        "name": "anthropics/claude-code",
+        "stars": "46685",
+        "url": "https://github.com/anthropics/claude-code"
+    },
+    {
+        "description": "Chrome DevTools for coding agents",
+        "language": "TypeScript",
+        "name": "ChromeDevTools/chrome-devtools-mcp",
+        "stars": "17149",
+        "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+    },
+    {
+        "description": "Query Engine for AI - The only MCP Server you'll ever need",
+        "language": "Python",
+        "name": "mindsdb/mindsdb",
+        "stars": "38046",
+        "url": "https://github.com/mindsdb/mindsdb"
+    },
+    {
+        "description": "Jellyfin Desktop Client",
+        "language": "C++",
+        "name": "jellyfin/jellyfin-desktop",
+        "stars": "4966",
+        "url": "https://github.com/jellyfin/jellyfin-desktop"
+    },
+    {
+        "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+        "language": "Python",
+        "name": "HKUDS/DeepCode",
+        "stars": "12755",
+        "url": "https://github.com/HKUDS/DeepCode"
+    },
+    {
+        "description": "SoTA open-source TTS",
+        "language": "Python",
+        "name": "resemble-ai/chatterbox",
+        "stars": "16223",
+        "url": "https://github.com/resemble-ai/chatterbox"
+    }
+]

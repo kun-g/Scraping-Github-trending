@@ -1,0 +1,44 @@
+[
+    {
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "language": "Shell",
+        "name": "anthropics/claude-code",
+        "stars": "46685",
+        "url": "https://github.com/anthropics/claude-code"
+    },
+    {
+        "description": "An AI Hedge Fund Team",
+        "language": "Python",
+        "name": "virattt/ai-hedge-fund",
+        "stars": "43605",
+        "url": "https://github.com/virattt/ai-hedge-fund"
+    },
+    {
+        "description": "An extremely fast Python type checker and language server, written in Rust.",
+        "language": "Python",
+        "name": "astral-sh/ty",
+        "stars": "14815",
+        "url": "https://github.com/astral-sh/ty"
+    },
+    {
+        "description": "Letta is the platform for building stateful agents: open AI with advanced memory that can learn and self-improve over time.",
+        "language": "Python",
+        "name": "letta-ai/letta",
+        "stars": "19856",
+        "url": "https://github.com/letta-ai/letta"
+    },
+    {
+        "description": "Easily and securely send things from one computer to another \ud83d\udc0a \ud83d\udce6",
+        "language": "Go",
+        "name": "schollz/croc",
+        "stars": "32898",
+        "url": "https://github.com/schollz/croc"
+    },
+    {
+        "description": "SoTA open-source TTS",
+        "language": "Python",
+        "name": "resemble-ai/chatterbox",
+        "stars": "16223",
+        "url": "https://github.com/resemble-ai/chatterbox"
+    }
+]
