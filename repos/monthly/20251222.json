@@ -10,7 +10,7 @@
         "description": "\ud83d\ude802.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
         "language": "Rust",
         "name": "rustfs/rustfs",
-        "stars": "17824",
+        "stars": "17825",
         "url": "https://github.com/rustfs/rustfs"
     },
     {
@@ -24,35 +24,35 @@
         "description": "\ud83d\udcda \u300a\u4ece\u96f6\u5f00\u59cb\u6784\u5efa\u667a\u80fd\u4f53\u300b\u2014\u2014\u4ece\u96f6\u5f00\u59cb\u7684\u667a\u80fd\u4f53\u539f\u7406\u4e0e\u5b9e\u8df5\u6559\u7a0b",
         "language": "Python",
         "name": "datawhalechina/hello-agents",
-        "stars": "11484",
+        "stars": "11488",
         "url": "https://github.com/datawhalechina/hello-agents"
     },
     {
         "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
         "language": "Python",
         "name": "anthropics/claude-quickstarts",
-        "stars": "12650",
+        "stars": "12651",
         "url": "https://github.com/anthropics/claude-quickstarts"
     },
     {
         "description": "The repository provides code for running inference and finetuning with the Meta Segment Anything Model 3 (SAM 3), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
         "language": "Python",
         "name": "facebookresearch/sam3",
-        "stars": "6283",
+        "stars": "6286",
         "url": "https://github.com/facebookresearch/sam3"
     },
     {
         "description": "AGENTS.md \u2014 a simple, open format for guiding coding agents",
         "language": "TypeScript",
         "name": "agentsmd/agents.md",
-        "stars": "12844",
+        "stars": "12845",
         "url": "https://github.com/agentsmd/agents.md"
     },
     {
         "description": "The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.",
         "language": "Python",
         "name": "trustedsec/social-engineer-toolkit",
-        "stars": "14000",
+        "stars": "14003",
         "url": "https://github.com/trustedsec/social-engineer-toolkit"
     },
     {
@@ -66,7 +66,7 @@
         "description": "The open source coding agent.",
         "language": "TypeScript",
         "name": "sst/opencode",
-        "stars": "40891",
+        "stars": "40896",
         "url": "https://github.com/sst/opencode"
     },
     {
@@ -80,14 +80,14 @@
         "description": "AirPods liberated from Apple's ecosystem.",
         "language": "Kotlin",
         "name": "kavishdevar/librepods",
-        "stars": "23253",
+        "stars": "23260",
         "url": "https://github.com/kavishdevar/librepods"
     },
     {
         "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
         "language": "Go",
         "name": "Tencent/WeKnora",
-        "stars": "9804",
+        "stars": "9808",
         "url": "https://github.com/Tencent/WeKnora"
     },
     {
@@ -108,7 +108,7 @@
         "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
         "language": "Python",
         "name": "comfyanonymous/ComfyUI",
-        "stars": "97627",
+        "stars": "97629",
         "url": "https://github.com/comfyanonymous/ComfyUI"
     },
     {
@@ -122,7 +122,7 @@
         "description": "SQL Native Memory Layer for LLMs, AI Agents & Multi-Agent Systems",
         "language": "Python",
         "name": "MemoriLabs/Memori",
-        "stars": "11291",
+        "stars": "11292",
         "url": "https://github.com/MemoriLabs/Memori"
     }
 ]
