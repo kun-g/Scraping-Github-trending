@@ -3,28 +3,28 @@
         "description": "Run your own AI cluster at home with everyday devices \ud83d\udcf1\ud83d\udcbb \ud83d\udda5\ufe0f\u231a",
         "language": "Python",
         "name": "exo-explore/exo",
-        "stars": "37025",
+        "stars": "37058",
         "url": "https://github.com/exo-explore/exo"
     },
     {
         "description": "Open-source platform to build and deploy AI agent workflows.",
         "language": "TypeScript",
         "name": "simstudioai/sim",
-        "stars": "23978",
+        "stars": "23980",
         "url": "https://github.com/simstudioai/sim"
     },
     {
         "description": "Public repository for Agent Skills",
         "language": "Python",
         "name": "anthropics/skills",
-        "stars": "24991",
+        "stars": "25032",
         "url": "https://github.com/anthropics/skills"
     },
     {
         "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
         "language": "Shell",
         "name": "anthropics/claude-code",
-        "stars": "47989",
+        "stars": "47997",
         "url": "https://github.com/anthropics/claude-code"
     },
     {
@@ -38,21 +38,21 @@
         "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
         "language": "TypeScript",
         "name": "thedotmack/claude-mem",
-        "stars": "8788",
+        "stars": "8793",
         "url": "https://github.com/thedotmack/claude-mem"
     },
     {
         "description": "SoTA open-source TTS",
         "language": "Python",
         "name": "resemble-ai/chatterbox",
-        "stars": "16644",
+        "stars": "16647",
         "url": "https://github.com/resemble-ai/chatterbox"
     },
     {
         "description": "A book for Learning the Foundations of LLMs",
         "language": "N/A",
         "name": "ZJU-LLMs/Foundations-of-LLMs",
-        "stars": "14919",
+        "stars": "14922",
         "url": "https://github.com/ZJU-LLMs/Foundations-of-LLMs"
     },
     {
@@ -66,7 +66,7 @@
         "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
         "language": "TypeScript",
         "name": "DayuanJiang/next-ai-draw-io",
-        "stars": "14433",
+        "stars": "14444",
         "url": "https://github.com/DayuanJiang/next-ai-draw-io"
     },
     {
@@ -80,42 +80,42 @@
         "description": "The open source coding agent.",
         "language": "TypeScript",
         "name": "sst/opencode",
-        "stars": "41193",
+        "stars": "41199",
         "url": "https://github.com/sst/opencode"
     },
     {
         "description": "Stable Diffusion web UI",
         "language": "Python",
         "name": "AUTOMATIC1111/stable-diffusion-webui",
-        "stars": "159175",
+        "stars": "159176",
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },
     {
         "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
         "language": "Go",
         "name": "Tencent/WeKnora",
-        "stars": "9932",
+        "stars": "9936",
         "url": "https://github.com/Tencent/WeKnora"
     },
     {
         "description": "Nano vLLM",
         "language": "Python",
         "name": "GeeeekExplorer/nano-vllm",
-        "stars": "9959",
+        "stars": "9960",
         "url": "https://github.com/GeeeekExplorer/nano-vllm"
     },
     {
         "description": "Vibe Workflow Platform for Non-technical Creators.",
         "language": "TypeScript",
         "name": "refly-ai/refly",
-        "stars": "5705",
+        "stars": "5706",
         "url": "https://github.com/refly-ai/refly"
     },
     {
         "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
         "language": "Python",
         "name": "HKUDS/DeepCode",
-        "stars": "12974",
+        "stars": "12975",
         "url": "https://github.com/HKUDS/DeepCode"
     }
 ]
