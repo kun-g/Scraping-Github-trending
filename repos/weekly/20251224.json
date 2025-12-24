@@ -3,49 +3,49 @@
         "description": "Public repository for Agent Skills",
         "language": "Python",
         "name": "anthropics/skills",
-        "stars": "25862",
+        "stars": "25877",
         "url": "https://github.com/anthropics/skills"
     },
     {
         "description": "An AI Hedge Fund Team",
         "language": "Python",
         "name": "virattt/ai-hedge-fund",
-        "stars": "44026",
+        "stars": "44028",
         "url": "https://github.com/virattt/ai-hedge-fund"
     },
     {
         "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
         "language": "Shell",
         "name": "anthropics/claude-code",
-        "stars": "48193",
+        "stars": "48201",
         "url": "https://github.com/anthropics/claude-code"
     },
     {
         "description": "SoTA open-source TTS",
         "language": "Python",
         "name": "resemble-ai/chatterbox",
-        "stars": "16764",
+        "stars": "16770",
         "url": "https://github.com/resemble-ai/chatterbox"
     },
     {
         "description": "Open-source platform to build and deploy AI agent workflows.",
         "language": "TypeScript",
         "name": "simstudioai/sim",
-        "stars": "24066",
+        "stars": "24070",
         "url": "https://github.com/simstudioai/sim"
     },
     {
         "description": "Personal AI Infrastructure for upgrading humans.",
         "language": "TypeScript",
         "name": "danielmiessler/Personal_AI_Infrastructure",
-        "stars": "1832",
+        "stars": "1833",
         "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure"
     },
     {
         "description": "CLI tool for configuring and monitoring Claude Code",
         "language": "Python",
         "name": "davila7/claude-code-templates",
-        "stars": "13335",
+        "stars": "13343",
         "url": "https://github.com/davila7/claude-code-templates"
     },
     {
@@ -59,14 +59,14 @@
         "description": "Nano vLLM",
         "language": "Python",
         "name": "GeeeekExplorer/nano-vllm",
-        "stars": "10044",
+        "stars": "10045",
         "url": "https://github.com/GeeeekExplorer/nano-vllm"
     },
     {
         "description": "The open source coding agent.",
         "language": "TypeScript",
         "name": "sst/opencode",
-        "stars": "41577",
+        "stars": "41583",
         "url": "https://github.com/sst/opencode"
     },
     {
@@ -80,7 +80,7 @@
         "description": "Truly independent web browser",
         "language": "C++",
         "name": "LadybirdBrowser/ladybird",
-        "stars": "56995",
+        "stars": "56994",
         "url": "https://github.com/LadybirdBrowser/ladybird"
     },
     {
@@ -94,14 +94,14 @@
         "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
         "language": "TypeScript",
         "name": "thedotmack/claude-mem",
-        "stars": "8921",
+        "stars": "8922",
         "url": "https://github.com/thedotmack/claude-mem"
     },
     {
         "description": "Abseil Common Libraries (C++)",
         "language": "C++",
         "name": "abseil/abseil-cpp",
-        "stars": "16778",
+        "stars": "16779",
         "url": "https://github.com/abseil/abseil-cpp"
     }
 ]
