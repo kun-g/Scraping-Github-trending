@@ -1,0 +1,107 @@
+[
+    {
+        "description": "Public repository for Agent Skills",
+        "language": "Python",
+        "name": "anthropics/skills",
+        "stars": "25862",
+        "url": "https://github.com/anthropics/skills"
+    },
+    {
+        "description": "An AI Hedge Fund Team",
+        "language": "Python",
+        "name": "virattt/ai-hedge-fund",
+        "stars": "44026",
+        "url": "https://github.com/virattt/ai-hedge-fund"
+    },
+    {
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "language": "Shell",
+        "name": "anthropics/claude-code",
+        "stars": "48193",
+        "url": "https://github.com/anthropics/claude-code"
+    },
+    {
+        "description": "SoTA open-source TTS",
+        "language": "Python",
+        "name": "resemble-ai/chatterbox",
+        "stars": "16764",
+        "url": "https://github.com/resemble-ai/chatterbox"
+    },
+    {
+        "description": "Open-source platform to build and deploy AI agent workflows.",
+        "language": "TypeScript",
+        "name": "simstudioai/sim",
+        "stars": "24066",
+        "url": "https://github.com/simstudioai/sim"
+    },
+    {
+        "description": "Personal AI Infrastructure for upgrading humans.",
+        "language": "TypeScript",
+        "name": "danielmiessler/Personal_AI_Infrastructure",
+        "stars": "1832",
+        "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure"
+    },
+    {
+        "description": "CLI tool for configuring and monitoring Claude Code",
+        "language": "Python",
+        "name": "davila7/claude-code-templates",
+        "stars": "13335",
+        "url": "https://github.com/davila7/claude-code-templates"
+    },
+    {
+        "description": "Feature packed AUR helper",
+        "language": "Rust",
+        "name": "Morganamilo/paru",
+        "stars": "8087",
+        "url": "https://github.com/Morganamilo/paru"
+    },
+    {
+        "description": "Nano vLLM",
+        "language": "Python",
+        "name": "GeeeekExplorer/nano-vllm",
+        "stars": "10044",
+        "url": "https://github.com/GeeeekExplorer/nano-vllm"
+    },
+    {
+        "description": "The open source coding agent.",
+        "language": "TypeScript",
+        "name": "sst/opencode",
+        "stars": "41577",
+        "url": "https://github.com/sst/opencode"
+    },
+    {
+        "description": "Community managed domain list. Generate geosite.dat for V2Ray.",
+        "language": "Go",
+        "name": "v2fly/domain-list-community",
+        "stars": "7068",
+        "url": "https://github.com/v2fly/domain-list-community"
+    },
+    {
+        "description": "Truly independent web browser",
+        "language": "C++",
+        "name": "LadybirdBrowser/ladybird",
+        "stars": "56995",
+        "url": "https://github.com/LadybirdBrowser/ladybird"
+    },
+    {
+        "description": "Stable Diffusion web UI",
+        "language": "Python",
+        "name": "AUTOMATIC1111/stable-diffusion-webui",
+        "stars": "159215",
+        "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
+    },
+    {
+        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+        "language": "TypeScript",
+        "name": "thedotmack/claude-mem",
+        "stars": "8921",
+        "url": "https://github.com/thedotmack/claude-mem"
+    },
+    {
+        "description": "Abseil Common Libraries (C++)",
+        "language": "C++",
+        "name": "abseil/abseil-cpp",
+        "stars": "16778",
+        "url": "https://github.com/abseil/abseil-cpp"
+    }
+]
