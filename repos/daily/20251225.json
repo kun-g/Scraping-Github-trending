@@ -1,0 +1,114 @@
+[
+    {
+        "description": "Typst-based CV/resume generator for academics and engineers",
+        "language": "Python",
+        "name": "rendercv/rendercv",
+        "stars": "9054",
+        "url": "https://github.com/rendercv/rendercv"
+    },
+    {
+        "description": "Source code for the X Recommendation Algorithm",
+        "language": "Scala",
+        "name": "twitter/the-algorithm",
+        "stars": "68506",
+        "url": "https://github.com/twitter/the-algorithm"
+    },
+    {
+        "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+        "language": "Python",
+        "name": "google/langextract",
+        "stars": "19049",
+        "url": "https://github.com/google/langextract"
+    },
+    {
+        "description": "A framework for efficient model inference with omni-modality models",
+        "language": "Python",
+        "name": "vllm-project/vllm-omni",
+        "stars": "1572",
+        "url": "https://github.com/vllm-project/vllm-omni"
+    },
+    {
+        "description": "Make beautiful isometric infrastructure diagrams",
+        "language": "TypeScript",
+        "name": "stan-smith/FossFLOW",
+        "stars": "14946",
+        "url": "https://github.com/stan-smith/FossFLOW"
+    },
+    {
+        "description": "CLI tool for configuring and monitoring Claude Code",
+        "language": "Python",
+        "name": "davila7/claude-code-templates",
+        "stars": "13620",
+        "url": "https://github.com/davila7/claude-code-templates"
+    },
+    {
+        "description": "bloom - evaluate any behavior immediately \u00a0\ud83c\udf38\ud83c\udf31",
+        "language": "Python",
+        "name": "safety-research/bloom",
+        "stars": "755",
+        "url": "https://github.com/safety-research/bloom"
+    },
+    {
+        "description": "\ud83d\udd25 \ud83d\udd25 \ud83d\udd25 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.",
+        "language": "TypeScript",
+        "name": "makeplane/plane",
+        "stars": "41404",
+        "url": "https://github.com/makeplane/plane"
+    },
+    {
+        "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
+        "language": "Python",
+        "name": "yichuan-w/LEANN",
+        "stars": "5791",
+        "url": "https://github.com/yichuan-w/LEANN"
+    },
+    {
+        "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+        "language": "Go",
+        "name": "danielmiessler/Fabric",
+        "stars": "36508",
+        "url": "https://github.com/danielmiessler/Fabric"
+    },
+    {
+        "description": "AI-Powered Dark Web OSINT Tool",
+        "language": "Python",
+        "name": "apurvsinghgautam/robin",
+        "stars": "2561",
+        "url": "https://github.com/apurvsinghgautam/robin"
+    },
+    {
+        "description": "Production-ready platform for agentic workflow development.",
+        "language": "TypeScript",
+        "name": "langgenius/dify",
+        "stars": "122970",
+        "url": "https://github.com/langgenius/dify"
+    },
+    {
+        "description": "Public repository for Agent Skills",
+        "language": "Python",
+        "name": "anthropics/skills",
+        "stars": "26516",
+        "url": "https://github.com/anthropics/skills"
+    },
+    {
+        "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+        "language": "Go",
+        "name": "etcd-io/etcd",
+        "stars": "51121",
+        "url": "https://github.com/etcd-io/etcd"
+    },
+    {
+        "description": "Reference PyTorch implementation and models for DINOv3",
+        "language": "Jupyter Notebook",
+        "name": "facebookresearch/dinov3",
+        "stars": "9012",
+        "url": "https://github.com/facebookresearch/dinov3"
+    },
+    {
+        "description": "The most customizable commerce platform built with TypeScript, NestJS and GraphQL.",
+        "language": "TypeScript",
+        "name": "vendure-ecommerce/vendure",
+        "stars": "7352",
+        "url": "https://github.com/vendure-ecommerce/vendure"
+    }
+]
