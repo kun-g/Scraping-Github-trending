@@ -3,77 +3,77 @@
         "description": "Run your own AI cluster at home with everyday devices \ud83d\udcf1\ud83d\udcbb \ud83d\udda5\ufe0f\u231a",
         "language": "Python",
         "name": "exo-explore/exo",
-        "stars": "38163",
+        "stars": "38169",
         "url": "https://github.com/exo-explore/exo"
     },
     {
         "description": "\ud83d\udcda \u300a\u4ece\u96f6\u5f00\u59cb\u6784\u5efa\u667a\u80fd\u4f53\u300b\u2014\u2014\u4ece\u96f6\u5f00\u59cb\u7684\u667a\u80fd\u4f53\u539f\u7406\u4e0e\u5b9e\u8df5\u6559\u7a0b",
         "language": "Python",
         "name": "datawhalechina/hello-agents",
-        "stars": "12285",
+        "stars": "12293",
         "url": "https://github.com/datawhalechina/hello-agents"
     },
     {
         "description": "\ud83d\ude802.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
         "language": "Rust",
         "name": "rustfs/rustfs",
-        "stars": "18110",
+        "stars": "18113",
         "url": "https://github.com/rustfs/rustfs"
     },
     {
         "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
         "language": "Python",
         "name": "anthropics/claude-quickstarts",
-        "stars": "12782",
+        "stars": "12783",
         "url": "https://github.com/anthropics/claude-quickstarts"
     },
     {
         "description": "A research prototype of a human-centered web agent",
         "language": "Python",
         "name": "microsoft/magentic-ui",
-        "stars": "9379",
+        "stars": "9380",
         "url": "https://github.com/microsoft/magentic-ui"
     },
     {
         "description": "The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.",
         "language": "Python",
         "name": "trustedsec/social-engineer-toolkit",
-        "stars": "14111",
+        "stars": "14113",
         "url": "https://github.com/trustedsec/social-engineer-toolkit"
     },
     {
         "description": "AGENTS.md \u2014 a simple, open format for guiding coding agents",
         "language": "TypeScript",
         "name": "agentsmd/agents.md",
-        "stars": "13133",
+        "stars": "13136",
         "url": "https://github.com/agentsmd/agents.md"
     },
     {
         "description": "The ultimate training toolkit for finetuning diffusion models",
         "language": "Python",
         "name": "ostris/ai-toolkit",
-        "stars": "8492",
+        "stars": "8493",
         "url": "https://github.com/ostris/ai-toolkit"
     },
     {
         "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
         "language": "Go",
         "name": "Tencent/WeKnora",
-        "stars": "10147",
+        "stars": "10148",
         "url": "https://github.com/Tencent/WeKnora"
     },
     {
         "description": "The open source coding agent.",
         "language": "TypeScript",
         "name": "sst/opencode",
-        "stars": "41958",
+        "stars": "41966",
         "url": "https://github.com/sst/opencode"
     },
     {
         "description": "Open-source platform to build and deploy AI agent workflows.",
         "language": "TypeScript",
         "name": "simstudioai/sim",
-        "stars": "24290",
+        "stars": "24299",
         "url": "https://github.com/simstudioai/sim"
     },
     {
@@ -87,7 +87,7 @@
         "description": "Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability.",
         "language": "Python",
         "name": "GoogleCloudPlatform/agent-starter-pack",
-        "stars": "5211",
+        "stars": "5213",
         "url": "https://github.com/GoogleCloudPlatform/agent-starter-pack"
     },
     {
@@ -101,21 +101,21 @@
         "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
         "language": "Python",
         "name": "comfyanonymous/ComfyUI",
-        "stars": "97986",
+        "stars": "97987",
         "url": "https://github.com/comfyanonymous/ComfyUI"
     },
     {
         "description": "Data transformation framework for AI. Ultra performant, with incremental processing. \ud83c\udf1f Star if you like it!",
         "language": "Rust",
         "name": "cocoindex-io/cocoindex",
-        "stars": "5055",
+        "stars": "5059",
         "url": "https://github.com/cocoindex-io/cocoindex"
     },
     {
         "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
         "language": "Shell",
         "name": "anthropics/claude-code",
-        "stars": "48394",
+        "stars": "48395",
         "url": "https://github.com/anthropics/claude-code"
     }
 ]
