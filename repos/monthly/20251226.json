@@ -3,21 +3,21 @@
         "description": "Run your own AI cluster at home with everyday devices \ud83d\udcf1\ud83d\udcbb \ud83d\udda5\ufe0f\u231a",
         "language": "Python",
         "name": "exo-explore/exo",
-        "stars": "38320",
+        "stars": "38322",
         "url": "https://github.com/exo-explore/exo"
     },
     {
         "description": "\ud83d\udcda \u300a\u4ece\u96f6\u5f00\u59cb\u6784\u5efa\u667a\u80fd\u4f53\u300b\u2014\u2014\u4ece\u96f6\u5f00\u59cb\u7684\u667a\u80fd\u4f53\u539f\u7406\u4e0e\u5b9e\u8df5\u6559\u7a0b",
         "language": "Python",
         "name": "datawhalechina/hello-agents",
-        "stars": "12500",
+        "stars": "12503",
         "url": "https://github.com/datawhalechina/hello-agents"
     },
     {
         "description": "\ud83d\ude802.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
         "language": "Rust",
         "name": "rustfs/rustfs",
-        "stars": "18217",
+        "stars": "18220",
         "url": "https://github.com/rustfs/rustfs"
     },
     {
@@ -31,21 +31,21 @@
         "description": "A research prototype of a human-centered web agent",
         "language": "Python",
         "name": "microsoft/magentic-ui",
-        "stars": "9412",
+        "stars": "9413",
         "url": "https://github.com/microsoft/magentic-ui"
     },
     {
         "description": "The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.",
         "language": "Python",
         "name": "trustedsec/social-engineer-toolkit",
-        "stars": "14146",
+        "stars": "14147",
         "url": "https://github.com/trustedsec/social-engineer-toolkit"
     },
     {
         "description": "AGENTS.md \u2014 a simple, open format for guiding coding agents",
         "language": "TypeScript",
         "name": "agentsmd/agents.md",
-        "stars": "13232",
+        "stars": "13234",
         "url": "https://github.com/agentsmd/agents.md"
     },
     {
@@ -59,63 +59,63 @@
         "description": "The ultimate training toolkit for finetuning diffusion models",
         "language": "Python",
         "name": "ostris/ai-toolkit",
-        "stars": "8536",
+        "stars": "8537",
         "url": "https://github.com/ostris/ai-toolkit"
     },
     {
         "description": "The open source coding agent.",
         "language": "TypeScript",
         "name": "sst/opencode",
-        "stars": "42294",
+        "stars": "42300",
         "url": "https://github.com/sst/opencode"
     },
     {
         "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
         "language": "Go",
         "name": "Tencent/WeKnora",
-        "stars": "10205",
+        "stars": "10206",
         "url": "https://github.com/Tencent/WeKnora"
     },
     {
         "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager \u2013 all in one",
         "language": "Zig",
         "name": "oven-sh/bun",
-        "stars": "85588",
+        "stars": "85590",
         "url": "https://github.com/oven-sh/bun"
     },
     {
         "description": "Data transformation framework for AI. Ultra performant, with incremental processing. \ud83c\udf1f Star if you like it!",
         "language": "Rust",
         "name": "cocoindex-io/cocoindex",
-        "stars": "5138",
+        "stars": "5140",
         "url": "https://github.com/cocoindex-io/cocoindex"
     },
     {
         "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
         "language": "Shell",
         "name": "anthropics/claude-code",
-        "stars": "48586",
+        "stars": "48592",
         "url": "https://github.com/anthropics/claude-code"
     },
     {
         "description": "Feature packed AUR helper",
         "language": "Rust",
         "name": "Morganamilo/paru",
-        "stars": "8110",
+        "stars": "8112",
         "url": "https://github.com/Morganamilo/paru"
     },
     {
         "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
         "language": "Python",
         "name": "comfyanonymous/ComfyUI",
-        "stars": "98079",
+        "stars": "98081",
         "url": "https://github.com/comfyanonymous/ComfyUI"
     },
     {
         "description": "Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.",
         "language": "Python",
         "name": "FunAudioLLM/CosyVoice",
-        "stars": "18311",
+        "stars": "18312",
         "url": "https://github.com/FunAudioLLM/CosyVoice"
     }
 ]

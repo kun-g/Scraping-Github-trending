@@ -3,77 +3,77 @@
         "description": "Run your own AI cluster at home with everyday devices \ud83d\udcf1\ud83d\udcbb \ud83d\udda5\ufe0f\u231a",
         "language": "Python",
         "name": "exo-explore/exo",
-        "stars": "38320",
+        "stars": "38322",
         "url": "https://github.com/exo-explore/exo"
     },
     {
         "description": "",
         "language": "TypeScript",
         "name": "google/A2UI",
-        "stars": "7350",
+        "stars": "7355",
         "url": "https://github.com/google/A2UI"
     },
     {
         "description": "Public repository for Agent Skills",
         "language": "Python",
         "name": "anthropics/skills",
-        "stars": "27152",
+        "stars": "27159",
         "url": "https://github.com/anthropics/skills"
     },
     {
         "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
         "language": "Shell",
         "name": "anthropics/claude-code",
-        "stars": "48586",
+        "stars": "48592",
         "url": "https://github.com/anthropics/claude-code"
     },
     {
         "description": "CLI tool for configuring and monitoring Claude Code",
         "language": "Python",
         "name": "davila7/claude-code-templates",
-        "stars": "13767",
+        "stars": "13771",
         "url": "https://github.com/davila7/claude-code-templates"
     },
     {
         "description": "SoTA open-source TTS",
         "language": "Python",
         "name": "resemble-ai/chatterbox",
-        "stars": "17743",
+        "stars": "17748",
         "url": "https://github.com/resemble-ai/chatterbox"
     },
     {
         "description": "Nano vLLM",
         "language": "Python",
         "name": "GeeeekExplorer/nano-vllm",
-        "stars": "10137",
+        "stars": "10139",
         "url": "https://github.com/GeeeekExplorer/nano-vllm"
     },
     {
         "description": "Personal AI Infrastructure for upgrading humans.",
         "language": "TypeScript",
         "name": "danielmiessler/Personal_AI_Infrastructure",
-        "stars": "2075",
+        "stars": "2080",
         "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure"
     },
     {
         "description": "An extremely fast Python type checker and language server, written in Rust.",
         "language": "Python",
         "name": "astral-sh/ty",
-        "stars": "15703",
+        "stars": "15704",
         "url": "https://github.com/astral-sh/ty"
     },
     {
         "description": "Data transformation framework for AI. Ultra performant, with incremental processing. \ud83c\udf1f Star if you like it!",
         "language": "Rust",
         "name": "cocoindex-io/cocoindex",
-        "stars": "5138",
+        "stars": "5140",
         "url": "https://github.com/cocoindex-io/cocoindex"
     },
     {
         "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
         "language": "Go",
         "name": "danielmiessler/Fabric",
-        "stars": "36702",
+        "stars": "36704",
         "url": "https://github.com/danielmiessler/Fabric"
     },
     {
@@ -101,14 +101,14 @@
         "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
         "language": "Python",
         "name": "swisskyrepo/PayloadsAllTheThings",
-        "stars": "73792",
+        "stars": "73793",
         "url": "https://github.com/swisskyrepo/PayloadsAllTheThings"
     },
     {
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "language": "Python",
         "name": "google/langextract",
-        "stars": "19296",
+        "stars": "19301",
         "url": "https://github.com/google/langextract"
     }
 ]
