@@ -3,84 +3,84 @@
         "description": "Run your own AI cluster at home with everyday devices \ud83d\udcf1\ud83d\udcbb \ud83d\udda5\ufe0f\u231a",
         "language": "Python",
         "name": "exo-explore/exo",
-        "stars": "38322",
+        "stars": "38325",
         "url": "https://github.com/exo-explore/exo"
     },
     {
         "description": "",
         "language": "TypeScript",
         "name": "google/A2UI",
-        "stars": "7355",
+        "stars": "7362",
         "url": "https://github.com/google/A2UI"
     },
     {
         "description": "Public repository for Agent Skills",
         "language": "Python",
         "name": "anthropics/skills",
-        "stars": "27159",
+        "stars": "27175",
         "url": "https://github.com/anthropics/skills"
     },
     {
         "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
         "language": "Shell",
         "name": "anthropics/claude-code",
-        "stars": "48592",
+        "stars": "48600",
         "url": "https://github.com/anthropics/claude-code"
     },
     {
         "description": "CLI tool for configuring and monitoring Claude Code",
         "language": "Python",
         "name": "davila7/claude-code-templates",
-        "stars": "13771",
+        "stars": "13773",
         "url": "https://github.com/davila7/claude-code-templates"
     },
     {
         "description": "SoTA open-source TTS",
         "language": "Python",
         "name": "resemble-ai/chatterbox",
-        "stars": "17748",
+        "stars": "17759",
         "url": "https://github.com/resemble-ai/chatterbox"
     },
     {
         "description": "Nano vLLM",
         "language": "Python",
         "name": "GeeeekExplorer/nano-vllm",
-        "stars": "10139",
+        "stars": "10140",
         "url": "https://github.com/GeeeekExplorer/nano-vllm"
     },
     {
         "description": "Personal AI Infrastructure for upgrading humans.",
         "language": "TypeScript",
         "name": "danielmiessler/Personal_AI_Infrastructure",
-        "stars": "2080",
+        "stars": "2086",
         "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure"
     },
     {
         "description": "An extremely fast Python type checker and language server, written in Rust.",
         "language": "Python",
         "name": "astral-sh/ty",
-        "stars": "15704",
+        "stars": "15708",
         "url": "https://github.com/astral-sh/ty"
     },
     {
         "description": "Data transformation framework for AI. Ultra performant, with incremental processing. \ud83c\udf1f Star if you like it!",
         "language": "Rust",
         "name": "cocoindex-io/cocoindex",
-        "stars": "5140",
+        "stars": "5144",
         "url": "https://github.com/cocoindex-io/cocoindex"
     },
     {
         "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
         "language": "Go",
         "name": "danielmiessler/Fabric",
-        "stars": "36704",
+        "stars": "36713",
         "url": "https://github.com/danielmiessler/Fabric"
     },
     {
         "description": "An AI Hedge Fund Team",
         "language": "Python",
         "name": "virattt/ai-hedge-fund",
-        "stars": "44152",
+        "stars": "44153",
         "url": "https://github.com/virattt/ai-hedge-fund"
     },
     {
@@ -94,21 +94,21 @@
         "description": "Letta is the platform for building stateful agents: open AI with advanced memory that can learn and self-improve over time.",
         "language": "Python",
         "name": "letta-ai/letta",
-        "stars": "20245",
+        "stars": "20248",
         "url": "https://github.com/letta-ai/letta"
     },
     {
         "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
         "language": "Python",
         "name": "swisskyrepo/PayloadsAllTheThings",
-        "stars": "73793",
+        "stars": "73796",
         "url": "https://github.com/swisskyrepo/PayloadsAllTheThings"
     },
     {
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "language": "Python",
         "name": "google/langextract",
-        "stars": "19301",
+        "stars": "19306",
         "url": "https://github.com/google/langextract"
     }
 ]
