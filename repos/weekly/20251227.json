@@ -1,0 +1,100 @@
+[
+    {
+        "description": "Run your own AI cluster at home with everyday devices \ud83d\udcf1\ud83d\udcbb \ud83d\udda5\ufe0f\u231a",
+        "language": "Python",
+        "name": "exo-explore/exo",
+        "stars": "38460",
+        "url": "https://github.com/exo-explore/exo"
+    },
+    {
+        "description": "Public repository for Agent Skills",
+        "language": "Python",
+        "name": "anthropics/skills",
+        "stars": "27556",
+        "url": "https://github.com/anthropics/skills"
+    },
+    {
+        "description": "",
+        "language": "TypeScript",
+        "name": "google/A2UI",
+        "stars": "7611",
+        "url": "https://github.com/google/A2UI"
+    },
+    {
+        "description": "A compact implementation of SGLang, designed to demystify the complexities of modern LLM serving systems.",
+        "language": "Python",
+        "name": "sgl-project/mini-sglang",
+        "stars": "2436",
+        "url": "https://github.com/sgl-project/mini-sglang"
+    },
+    {
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "language": "Shell",
+        "name": "anthropics/claude-code",
+        "stars": "48819",
+        "url": "https://github.com/anthropics/claude-code"
+    },
+    {
+        "description": "CLI tool for configuring and monitoring Claude Code",
+        "language": "Python",
+        "name": "davila7/claude-code-templates",
+        "stars": "13845",
+        "url": "https://github.com/davila7/claude-code-templates"
+    },
+    {
+        "description": "Data transformation framework for AI. Ultra performant, with incremental processing. \ud83c\udf1f Star if you like it!",
+        "language": "Rust",
+        "name": "cocoindex-io/cocoindex",
+        "stars": "5258",
+        "url": "https://github.com/cocoindex-io/cocoindex"
+    },
+    {
+        "description": "SoTA open-source TTS",
+        "language": "Python",
+        "name": "resemble-ai/chatterbox",
+        "stars": "18033",
+        "url": "https://github.com/resemble-ai/chatterbox"
+    },
+    {
+        "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+        "language": "Go",
+        "name": "danielmiessler/Fabric",
+        "stars": "36809",
+        "url": "https://github.com/danielmiessler/Fabric"
+    },
+    {
+        "description": "Personal AI Infrastructure for upgrading humans.",
+        "language": "TypeScript",
+        "name": "danielmiessler/Personal_AI_Infrastructure",
+        "stars": "2193",
+        "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure"
+    },
+    {
+        "description": "Stable Diffusion web UI",
+        "language": "Python",
+        "name": "AUTOMATIC1111/stable-diffusion-webui",
+        "stars": "159333",
+        "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
+    },
+    {
+        "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+        "language": "Python",
+        "name": "google/langextract",
+        "stars": "19422",
+        "url": "https://github.com/google/langextract"
+    },
+    {
+        "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+        "language": "Python",
+        "name": "swisskyrepo/PayloadsAllTheThings",
+        "stars": "73861",
+        "url": "https://github.com/swisskyrepo/PayloadsAllTheThings"
+    },
+    {
+        "description": "An extremely fast Python type checker and language server, written in Rust.",
+        "language": "Python",
+        "name": "astral-sh/ty",
+        "stars": "15769",
+        "url": "https://github.com/astral-sh/ty"
+    }
+]
