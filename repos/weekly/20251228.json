@@ -1,0 +1,107 @@
+[
+    {
+        "description": "Run your own AI cluster at home with everyday devices \ud83d\udcf1\ud83d\udcbb \ud83d\udda5\ufe0f\u231a",
+        "language": "Python",
+        "name": "exo-explore/exo",
+        "stars": "38554",
+        "url": "https://github.com/exo-explore/exo"
+    },
+    {
+        "description": "Public repository for Agent Skills",
+        "language": "Python",
+        "name": "anthropics/skills",
+        "stars": "27881",
+        "url": "https://github.com/anthropics/skills"
+    },
+    {
+        "description": "CLI tool for configuring and monitoring Claude Code",
+        "language": "Python",
+        "name": "davila7/claude-code-templates",
+        "stars": "13902",
+        "url": "https://github.com/davila7/claude-code-templates"
+    },
+    {
+        "description": "",
+        "language": "TypeScript",
+        "name": "google/A2UI",
+        "stars": "7759",
+        "url": "https://github.com/google/A2UI"
+    },
+    {
+        "description": "Data transformation framework for AI. Ultra performant, with incremental processing. \ud83c\udf1f Star if you like it!",
+        "language": "Rust",
+        "name": "cocoindex-io/cocoindex",
+        "stars": "5325",
+        "url": "https://github.com/cocoindex-io/cocoindex"
+    },
+    {
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "language": "Shell",
+        "name": "anthropics/claude-code",
+        "stars": "49050",
+        "url": "https://github.com/anthropics/claude-code"
+    },
+    {
+        "description": "A compact implementation of SGLang, designed to demystify the complexities of modern LLM serving systems.",
+        "language": "Python",
+        "name": "sgl-project/mini-sglang",
+        "stars": "2524",
+        "url": "https://github.com/sgl-project/mini-sglang"
+    },
+    {
+        "description": "SoTA open-source TTS",
+        "language": "Python",
+        "name": "resemble-ai/chatterbox",
+        "stars": "18140",
+        "url": "https://github.com/resemble-ai/chatterbox"
+    },
+    {
+        "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+        "language": "Go",
+        "name": "danielmiessler/Fabric",
+        "stars": "36919",
+        "url": "https://github.com/danielmiessler/Fabric"
+    },
+    {
+        "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+        "language": "Python",
+        "name": "google/langextract",
+        "stars": "19497",
+        "url": "https://github.com/google/langextract"
+    },
+    {
+        "description": "Personal AI Infrastructure for upgrading humans.",
+        "language": "TypeScript",
+        "name": "danielmiessler/Personal_AI_Infrastructure",
+        "stars": "2285",
+        "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure"
+    },
+    {
+        "description": "Stable Diffusion web UI",
+        "language": "Python",
+        "name": "AUTOMATIC1111/stable-diffusion-webui",
+        "stars": "159377",
+        "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
+    },
+    {
+        "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+        "language": "Python",
+        "name": "swisskyrepo/PayloadsAllTheThings",
+        "stars": "73930",
+        "url": "https://github.com/swisskyrepo/PayloadsAllTheThings"
+    },
+    {
+        "description": "Text editor for your terminal: easy, powerful and fast",
+        "language": "Rust",
+        "name": "sinelaw/fresh",
+        "stars": "3497",
+        "url": "https://github.com/sinelaw/fresh"
+    },
+    {
+        "description": "Nano vLLM",
+        "language": "Python",
+        "name": "GeeeekExplorer/nano-vllm",
+        "stars": "10222",
+        "url": "https://github.com/GeeeekExplorer/nano-vllm"
+    }
+]
