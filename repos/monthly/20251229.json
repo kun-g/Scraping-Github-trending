@@ -3,56 +3,63 @@
         "description": "Run your own AI cluster at home with everyday devices \ud83d\udcf1\ud83d\udcbb \ud83d\udda5\ufe0f\u231a",
         "language": "Python",
         "name": "exo-explore/exo",
-        "stars": "38696",
+        "stars": "38700",
         "url": "https://github.com/exo-explore/exo"
+    },
+    {
+        "description": "\ud83d\udc39 Deep clean and optimize your Mac.",
+        "language": "Shell",
+        "name": "tw93/Mole",
+        "stars": "21384",
+        "url": "https://github.com/tw93/Mole"
     },
     {
         "description": "\ud83d\udcda \u300a\u4ece\u96f6\u5f00\u59cb\u6784\u5efa\u667a\u80fd\u4f53\u300b\u2014\u2014\u4ece\u96f6\u5f00\u59cb\u7684\u667a\u80fd\u4f53\u539f\u7406\u4e0e\u5b9e\u8df5\u6559\u7a0b",
         "language": "Python",
         "name": "datawhalechina/hello-agents",
-        "stars": "12974",
+        "stars": "12978",
         "url": "https://github.com/datawhalechina/hello-agents"
     },
     {
         "description": "\ud83d\ude802.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
         "language": "Rust",
         "name": "rustfs/rustfs",
-        "stars": "18433",
+        "stars": "18435",
         "url": "https://github.com/rustfs/rustfs"
     },
     {
         "description": "Open-source platform to build and deploy AI agent workflows.",
         "language": "TypeScript",
         "name": "simstudioai/sim",
-        "stars": "24606",
+        "stars": "24607",
         "url": "https://github.com/simstudioai/sim"
     },
     {
         "description": "The open source coding agent.",
         "language": "TypeScript",
         "name": "sst/opencode",
-        "stars": "43305",
+        "stars": "43315",
         "url": "https://github.com/sst/opencode"
     },
     {
         "description": "AGENTS.md \u2014 a simple, open format for guiding coding agents",
         "language": "TypeScript",
         "name": "agentsmd/agents.md",
-        "stars": "13437",
+        "stars": "13439",
         "url": "https://github.com/agentsmd/agents.md"
     },
     {
         "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
         "language": "Python",
         "name": "anthropics/claude-quickstarts",
-        "stars": "12941",
+        "stars": "12942",
         "url": "https://github.com/anthropics/claude-quickstarts"
     },
     {
         "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
         "language": "Go",
         "name": "Tencent/WeKnora",
-        "stars": "10433",
+        "stars": "10435",
         "url": "https://github.com/Tencent/WeKnora"
     },
     {
@@ -66,7 +73,7 @@
         "description": "Data transformation framework for AI. Ultra performant, with incremental processing. \ud83c\udf1f Star if you like it!",
         "language": "Rust",
         "name": "cocoindex-io/cocoindex",
-        "stars": "5395",
+        "stars": "5397",
         "url": "https://github.com/cocoindex-io/cocoindex"
     },
     {
@@ -80,14 +87,14 @@
         "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
         "language": "Shell",
         "name": "anthropics/claude-code",
-        "stars": "49301",
+        "stars": "49307",
         "url": "https://github.com/anthropics/claude-code"
     },
     {
         "description": "SoTA open-source TTS",
         "language": "Python",
         "name": "resemble-ai/chatterbox",
-        "stars": "18533",
+        "stars": "18543",
         "url": "https://github.com/resemble-ai/chatterbox"
     },
     {
@@ -108,7 +115,7 @@
         "description": "Personal AI Infrastructure for upgrading humans.",
         "language": "TypeScript",
         "name": "danielmiessler/Personal_AI_Infrastructure",
-        "stars": "2407",
+        "stars": "2409",
         "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure"
     }
 ]
