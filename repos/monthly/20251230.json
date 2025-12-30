@@ -3,28 +3,28 @@
         "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
         "language": "TypeScript",
         "name": "thedotmack/claude-mem",
-        "stars": "9438",
+        "stars": "9442",
         "url": "https://github.com/thedotmack/claude-mem"
     },
     {
         "description": "Run your own AI cluster at home with everyday devices \ud83d\udcf1\ud83d\udcbb \ud83d\udda5\ufe0f\u231a",
         "language": "Python",
         "name": "exo-explore/exo",
-        "stars": "38890",
+        "stars": "38893",
         "url": "https://github.com/exo-explore/exo"
     },
     {
         "description": "\ud83d\udcda \u300a\u4ece\u96f6\u5f00\u59cb\u6784\u5efa\u667a\u80fd\u4f53\u300b\u2014\u2014\u4ece\u96f6\u5f00\u59cb\u7684\u667a\u80fd\u4f53\u539f\u7406\u4e0e\u5b9e\u8df5\u6559\u7a0b",
         "language": "Python",
         "name": "datawhalechina/hello-agents",
-        "stars": "13206",
+        "stars": "13209",
         "url": "https://github.com/datawhalechina/hello-agents"
     },
     {
         "description": "\ud83d\ude802.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
         "language": "Rust",
         "name": "rustfs/rustfs",
-        "stars": "18576",
+        "stars": "18577",
         "url": "https://github.com/rustfs/rustfs"
     },
     {
@@ -38,35 +38,35 @@
         "description": "The open source coding agent.",
         "language": "TypeScript",
         "name": "sst/opencode",
-        "stars": "43819",
+        "stars": "43827",
         "url": "https://github.com/sst/opencode"
     },
     {
         "description": "AGENTS.md \u2014 a simple, open format for guiding coding agents",
         "language": "TypeScript",
         "name": "agentsmd/agents.md",
-        "stars": "13512",
+        "stars": "13514",
         "url": "https://github.com/agentsmd/agents.md"
     },
     {
         "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
         "language": "Python",
         "name": "anthropics/claude-quickstarts",
-        "stars": "12984",
+        "stars": "12985",
         "url": "https://github.com/anthropics/claude-quickstarts"
     },
     {
         "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
         "language": "Go",
         "name": "Tencent/WeKnora",
-        "stars": "10543",
+        "stars": "10544",
         "url": "https://github.com/Tencent/WeKnora"
     },
     {
         "description": "SoTA open-source TTS",
         "language": "Python",
         "name": "resemble-ai/chatterbox",
-        "stars": "19180",
+        "stars": "19189",
         "url": "https://github.com/resemble-ai/chatterbox"
     },
     {
@@ -80,14 +80,14 @@
         "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager \u2013 all in one",
         "language": "Zig",
         "name": "oven-sh/bun",
-        "stars": "85744",
+        "stars": "85745",
         "url": "https://github.com/oven-sh/bun"
     },
     {
         "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
         "language": "Shell",
         "name": "anthropics/claude-code",
-        "stars": "49615",
+        "stars": "49617",
         "url": "https://github.com/anthropics/claude-code"
     },
     {
@@ -101,7 +101,7 @@
         "description": "An extremely fast Python type checker and language server, written in Rust.",
         "language": "Python",
         "name": "astral-sh/ty",
-        "stars": "15906",
+        "stars": "15909",
         "url": "https://github.com/astral-sh/ty"
     },
     {
