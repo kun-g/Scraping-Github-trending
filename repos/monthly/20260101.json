@@ -3,14 +3,14 @@
         "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
         "language": "TypeScript",
         "name": "thedotmack/claude-mem",
-        "stars": "9767",
+        "stars": "9768",
         "url": "https://github.com/thedotmack/claude-mem"
     },
     {
         "description": "Kanban as it should be. Not as it has been.",
         "language": "Ruby",
         "name": "basecamp/fizzy",
-        "stars": "6430",
+        "stars": "6431",
         "url": "https://github.com/basecamp/fizzy"
     },
     {
@@ -24,35 +24,35 @@
         "description": "Run your own AI cluster at home with everyday devices \ud83d\udcf1\ud83d\udcbb \ud83d\udda5\ufe0f\u231a",
         "language": "Python",
         "name": "exo-explore/exo",
-        "stars": "39103",
+        "stars": "39104",
         "url": "https://github.com/exo-explore/exo"
     },
     {
         "description": "\ud83d\udcda \u300a\u4ece\u96f6\u5f00\u59cb\u6784\u5efa\u667a\u80fd\u4f53\u300b\u2014\u2014\u4ece\u96f6\u5f00\u59cb\u7684\u667a\u80fd\u4f53\u539f\u7406\u4e0e\u5b9e\u8df5\u6559\u7a0b",
         "language": "Python",
         "name": "datawhalechina/hello-agents",
-        "stars": "13627",
+        "stars": "13628",
         "url": "https://github.com/datawhalechina/hello-agents"
     },
     {
         "description": "Open-source platform to build and deploy AI agent workflows.",
         "language": "TypeScript",
         "name": "simstudioai/sim",
-        "stars": "24770",
+        "stars": "24771",
         "url": "https://github.com/simstudioai/sim"
     },
     {
         "description": "The open source coding agent.",
         "language": "TypeScript",
         "name": "sst/opencode",
-        "stars": "44928",
+        "stars": "44931",
         "url": "https://github.com/sst/opencode"
     },
     {
         "description": "SoTA open-source TTS",
         "language": "Python",
         "name": "resemble-ai/chatterbox",
-        "stars": "19955",
+        "stars": "19959",
         "url": "https://github.com/resemble-ai/chatterbox"
     },
     {
@@ -66,28 +66,28 @@
         "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
         "language": "Go",
         "name": "Tencent/WeKnora",
-        "stars": "10708",
+        "stars": "10709",
         "url": "https://github.com/Tencent/WeKnora"
     },
     {
         "description": "AGENTS.md \u2014 a simple, open format for guiding coding agents",
         "language": "TypeScript",
         "name": "agentsmd/agents.md",
-        "stars": "13680",
+        "stars": "13682",
         "url": "https://github.com/agentsmd/agents.md"
     },
     {
         "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
         "language": "Python",
         "name": "anthropics/claude-quickstarts",
-        "stars": "13065",
+        "stars": "13066",
         "url": "https://github.com/anthropics/claude-quickstarts"
     },
     {
         "description": "The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.",
         "language": "Python",
         "name": "trustedsec/social-engineer-toolkit",
-        "stars": "14277",
+        "stars": "14278",
         "url": "https://github.com/trustedsec/social-engineer-toolkit"
     },
     {
@@ -101,28 +101,28 @@
         "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager \u2013 all in one",
         "language": "Zig",
         "name": "oven-sh/bun",
-        "stars": "85819",
+        "stars": "85821",
         "url": "https://github.com/oven-sh/bun"
     },
     {
         "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
         "language": "Shell",
         "name": "anthropics/claude-code",
-        "stars": "50128",
+        "stars": "50133",
         "url": "https://github.com/anthropics/claude-code"
     },
     {
         "description": "Personal AI Infrastructure for upgrading humans.",
         "language": "TypeScript",
         "name": "danielmiessler/Personal_AI_Infrastructure",
-        "stars": "2766",
+        "stars": "2768",
         "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure"
     },
     {
         "description": "Public repository for Agent Skills",
         "language": "Python",
         "name": "anthropics/skills",
-        "stars": "30939",
+        "stars": "30954",
         "url": "https://github.com/anthropics/skills"
     }
 ]
