@@ -3,14 +3,14 @@
         "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
         "language": "TypeScript",
         "name": "thedotmack/claude-mem",
-        "stars": "9878",
+        "stars": "9882",
         "url": "https://github.com/thedotmack/claude-mem"
     },
     {
         "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
         "language": "TypeScript",
         "name": "DayuanJiang/next-ai-draw-io",
-        "stars": "16176",
+        "stars": "16186",
         "url": "https://github.com/DayuanJiang/next-ai-draw-io"
     },
     {
@@ -24,35 +24,35 @@
         "description": "Run your own AI cluster at home with everyday devices \ud83d\udcf1\ud83d\udcbb \ud83d\udda5\ufe0f\u231a",
         "language": "Python",
         "name": "exo-explore/exo",
-        "stars": "39174",
+        "stars": "39178",
         "url": "https://github.com/exo-explore/exo"
     },
     {
         "description": "Open-source platform to build and deploy AI agent workflows.",
         "language": "TypeScript",
         "name": "simstudioai/sim",
-        "stars": "24816",
+        "stars": "24817",
         "url": "https://github.com/simstudioai/sim"
     },
     {
         "description": "SoTA open-source TTS",
         "language": "Python",
         "name": "resemble-ai/chatterbox",
-        "stars": "20136",
+        "stars": "20142",
         "url": "https://github.com/resemble-ai/chatterbox"
     },
     {
         "description": "\ud83d\udcda \u300a\u4ece\u96f6\u5f00\u59cb\u6784\u5efa\u667a\u80fd\u4f53\u300b\u2014\u2014\u4ece\u96f6\u5f00\u59cb\u7684\u667a\u80fd\u4f53\u539f\u7406\u4e0e\u5b9e\u8df5\u6559\u7a0b",
         "language": "Python",
         "name": "datawhalechina/hello-agents",
-        "stars": "13722",
+        "stars": "13724",
         "url": "https://github.com/datawhalechina/hello-agents"
     },
     {
         "description": "The open source coding agent.",
         "language": "TypeScript",
         "name": "sst/opencode",
-        "stars": "45257",
+        "stars": "45268",
         "url": "https://github.com/sst/opencode"
     },
     {
@@ -66,7 +66,7 @@
         "description": "AGENTS.md \u2014 a simple, open format for guiding coding agents",
         "language": "TypeScript",
         "name": "agentsmd/agents.md",
-        "stars": "13756",
+        "stars": "13758",
         "url": "https://github.com/agentsmd/agents.md"
     },
     {
@@ -87,28 +87,28 @@
         "description": "Get 10X more out of Claude Code, Codex or any coding agent",
         "language": "Rust",
         "name": "BloopAI/vibe-kanban",
-        "stars": "10761",
+        "stars": "10782",
         "url": "https://github.com/BloopAI/vibe-kanban"
     },
     {
         "description": "Data transformation framework for AI. Ultra performant, with incremental processing. \ud83c\udf1f Star if you like it!",
         "language": "Rust",
         "name": "cocoindex-io/cocoindex",
-        "stars": "5577",
+        "stars": "5578",
         "url": "https://github.com/cocoindex-io/cocoindex"
     },
     {
         "description": "A framework for efficient model inference with omni-modality models",
         "language": "Python",
         "name": "vllm-project/vllm-omni",
-        "stars": "1919",
+        "stars": "1921",
         "url": "https://github.com/vllm-project/vllm-omni"
     },
     {
         "description": "Public repository for Agent Skills",
         "language": "Python",
         "name": "anthropics/skills",
-        "stars": "31407",
+        "stars": "31417",
         "url": "https://github.com/anthropics/skills"
     }
 ]
