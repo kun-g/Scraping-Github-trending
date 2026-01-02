@@ -3,56 +3,56 @@
         "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
         "language": "TypeScript",
         "name": "thedotmack/claude-mem",
-        "stars": "9874",
+        "stars": "9878",
         "url": "https://github.com/thedotmack/claude-mem"
     },
     {
         "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
         "language": "TypeScript",
         "name": "DayuanJiang/next-ai-draw-io",
-        "stars": "16170",
+        "stars": "16176",
         "url": "https://github.com/DayuanJiang/next-ai-draw-io"
     },
     {
         "description": "Kanban as it should be. Not as it has been.",
         "language": "Ruby",
         "name": "basecamp/fizzy",
-        "stars": "6459",
+        "stars": "6461",
         "url": "https://github.com/basecamp/fizzy"
     },
     {
         "description": "Run your own AI cluster at home with everyday devices \ud83d\udcf1\ud83d\udcbb \ud83d\udda5\ufe0f\u231a",
         "language": "Python",
         "name": "exo-explore/exo",
-        "stars": "39173",
+        "stars": "39174",
         "url": "https://github.com/exo-explore/exo"
     },
     {
         "description": "Open-source platform to build and deploy AI agent workflows.",
         "language": "TypeScript",
         "name": "simstudioai/sim",
-        "stars": "24815",
+        "stars": "24816",
         "url": "https://github.com/simstudioai/sim"
     },
     {
         "description": "SoTA open-source TTS",
         "language": "Python",
         "name": "resemble-ai/chatterbox",
-        "stars": "20132",
+        "stars": "20136",
         "url": "https://github.com/resemble-ai/chatterbox"
     },
     {
         "description": "\ud83d\udcda \u300a\u4ece\u96f6\u5f00\u59cb\u6784\u5efa\u667a\u80fd\u4f53\u300b\u2014\u2014\u4ece\u96f6\u5f00\u59cb\u7684\u667a\u80fd\u4f53\u539f\u7406\u4e0e\u5b9e\u8df5\u6559\u7a0b",
         "language": "Python",
         "name": "datawhalechina/hello-agents",
-        "stars": "13721",
+        "stars": "13722",
         "url": "https://github.com/datawhalechina/hello-agents"
     },
     {
         "description": "The open source coding agent.",
         "language": "TypeScript",
         "name": "sst/opencode",
-        "stars": "45252",
+        "stars": "45257",
         "url": "https://github.com/sst/opencode"
     },
     {
@@ -66,28 +66,28 @@
         "description": "AGENTS.md \u2014 a simple, open format for guiding coding agents",
         "language": "TypeScript",
         "name": "agentsmd/agents.md",
-        "stars": "13753",
+        "stars": "13756",
         "url": "https://github.com/agentsmd/agents.md"
     },
     {
         "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
         "language": "Go",
         "name": "Tencent/WeKnora",
-        "stars": "10738",
+        "stars": "10739",
         "url": "https://github.com/Tencent/WeKnora"
     },
     {
         "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
         "language": "Python",
         "name": "anthropics/claude-quickstarts",
-        "stars": "13092",
+        "stars": "13094",
         "url": "https://github.com/anthropics/claude-quickstarts"
     },
     {
         "description": "Get 10X more out of Claude Code, Codex or any coding agent",
         "language": "Rust",
         "name": "BloopAI/vibe-kanban",
-        "stars": "10752",
+        "stars": "10761",
         "url": "https://github.com/BloopAI/vibe-kanban"
     },
     {
@@ -108,7 +108,7 @@
         "description": "Public repository for Agent Skills",
         "language": "Python",
         "name": "anthropics/skills",
-        "stars": "31405",
+        "stars": "31407",
         "url": "https://github.com/anthropics/skills"
     }
 ]
