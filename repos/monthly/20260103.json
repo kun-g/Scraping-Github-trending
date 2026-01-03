@@ -3,119 +3,119 @@
         "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
         "language": "TypeScript",
         "name": "thedotmack/claude-mem",
-        "stars": "9992",
+        "stars": "9993",
         "url": "https://github.com/thedotmack/claude-mem"
     },
     {
         "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
         "language": "TypeScript",
         "name": "DayuanJiang/next-ai-draw-io",
-        "stars": "16394",
+        "stars": "16397",
         "url": "https://github.com/DayuanJiang/next-ai-draw-io"
     },
     {
         "description": "Run your own AI cluster at home with everyday devices \ud83d\udcf1\ud83d\udcbb \ud83d\udda5\ufe0f\u231a",
         "language": "Python",
         "name": "exo-explore/exo",
-        "stars": "39264",
+        "stars": "39267",
         "url": "https://github.com/exo-explore/exo"
     },
     {
         "description": "Open-source platform to build and deploy AI agent workflows.",
         "language": "TypeScript",
         "name": "simstudioai/sim",
-        "stars": "24863",
+        "stars": "24865",
         "url": "https://github.com/simstudioai/sim"
     },
     {
         "description": "\ud83d\udcda \u300a\u4ece\u96f6\u5f00\u59cb\u6784\u5efa\u667a\u80fd\u4f53\u300b\u2014\u2014\u4ece\u96f6\u5f00\u59cb\u7684\u667a\u80fd\u4f53\u539f\u7406\u4e0e\u5b9e\u8df5\u6559\u7a0b",
         "language": "Python",
         "name": "datawhalechina/hello-agents",
-        "stars": "13818",
+        "stars": "13822",
         "url": "https://github.com/datawhalechina/hello-agents"
     },
     {
         "description": "SoTA open-source TTS",
         "language": "Python",
         "name": "resemble-ai/chatterbox",
-        "stars": "20291",
+        "stars": "20296",
         "url": "https://github.com/resemble-ai/chatterbox"
     },
     {
         "description": "Get 10X more out of Claude Code, Codex or any coding agent",
         "language": "Rust",
         "name": "BloopAI/vibe-kanban",
-        "stars": "11367",
+        "stars": "11381",
         "url": "https://github.com/BloopAI/vibe-kanban"
     },
     {
         "description": "Kanban as it should be. Not as it has been.",
         "language": "Ruby",
         "name": "basecamp/fizzy",
-        "stars": "6495",
+        "stars": "6497",
         "url": "https://github.com/basecamp/fizzy"
     },
     {
         "description": "The open source coding agent.",
         "language": "TypeScript",
         "name": "anomalyco/opencode",
-        "stars": "45701",
+        "stars": "45718",
         "url": "https://github.com/anomalyco/opencode"
     },
     {
         "description": "AGENTS.md \u2014 a simple, open format for guiding coding agents",
         "language": "TypeScript",
         "name": "agentsmd/agents.md",
-        "stars": "13896",
+        "stars": "13899",
         "url": "https://github.com/agentsmd/agents.md"
     },
     {
         "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
         "language": "Go",
         "name": "Tencent/WeKnora",
-        "stars": "10771",
+        "stars": "10773",
         "url": "https://github.com/Tencent/WeKnora"
     },
     {
         "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
         "language": "Python",
         "name": "anthropics/claude-quickstarts",
-        "stars": "13130",
+        "stars": "13131",
         "url": "https://github.com/anthropics/claude-quickstarts"
     },
     {
         "description": "Data transformation framework for AI. Ultra performant, with incremental processing. \ud83c\udf1f Star if you like it!",
         "language": "Rust",
         "name": "cocoindex-io/cocoindex",
-        "stars": "5607",
+        "stars": "5609",
         "url": "https://github.com/cocoindex-io/cocoindex"
     },
     {
         "description": "Public repository for Agent Skills",
         "language": "Python",
         "name": "anthropics/skills",
-        "stars": "31822",
+        "stars": "31830",
         "url": "https://github.com/anthropics/skills"
     },
     {
         "description": "\ud83d\ude802.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
         "language": "Rust",
         "name": "rustfs/rustfs",
-        "stars": "18939",
+        "stars": "18941",
         "url": "https://github.com/rustfs/rustfs"
     },
     {
         "description": "Personal AI Infrastructure for upgrading humans.",
         "language": "TypeScript",
         "name": "danielmiessler/Personal_AI_Infrastructure",
-        "stars": "2925",
+        "stars": "2930",
         "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure"
     },
     {
         "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
         "language": "Shell",
         "name": "anthropics/claude-code",
-        "stars": "50575",
+        "stars": "50577",
         "url": "https://github.com/anthropics/claude-code"
     }
 ]
