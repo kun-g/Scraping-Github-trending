@@ -37,7 +37,7 @@
 | [alexta69/metube](https://github.com/alexta69/metube) | Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp) |
 | [antiwork/gumroad](https://github.com/antiwork/gumroad) | Sell stuff and see what sticks |
 | [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) |  |
-| [rendercv/rendercv](https://github.com/rendercv/rendercv) | CV/resume generator for academics and engineers, YAML to PDF |
+| [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) | Personal AI Infrastructure for upgrading humans. |
 <!-- END OF WEEKLY_TOP10_REPOS -->
 
 ## 本月TOP10

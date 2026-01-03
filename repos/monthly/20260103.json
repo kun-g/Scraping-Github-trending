@@ -3,14 +3,14 @@
         "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
         "language": "TypeScript",
         "name": "thedotmack/claude-mem",
-        "stars": "9990",
+        "stars": "9992",
         "url": "https://github.com/thedotmack/claude-mem"
     },
     {
         "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
         "language": "TypeScript",
         "name": "DayuanJiang/next-ai-draw-io",
-        "stars": "16393",
+        "stars": "16394",
         "url": "https://github.com/DayuanJiang/next-ai-draw-io"
     },
     {
@@ -31,7 +31,7 @@
         "description": "\ud83d\udcda \u300a\u4ece\u96f6\u5f00\u59cb\u6784\u5efa\u667a\u80fd\u4f53\u300b\u2014\u2014\u4ece\u96f6\u5f00\u59cb\u7684\u667a\u80fd\u4f53\u539f\u7406\u4e0e\u5b9e\u8df5\u6559\u7a0b",
         "language": "Python",
         "name": "datawhalechina/hello-agents",
-        "stars": "13817",
+        "stars": "13818",
         "url": "https://github.com/datawhalechina/hello-agents"
     },
     {
@@ -45,35 +45,35 @@
         "description": "Get 10X more out of Claude Code, Codex or any coding agent",
         "language": "Rust",
         "name": "BloopAI/vibe-kanban",
-        "stars": "11361",
+        "stars": "11367",
         "url": "https://github.com/BloopAI/vibe-kanban"
     },
     {
         "description": "Kanban as it should be. Not as it has been.",
         "language": "Ruby",
         "name": "basecamp/fizzy",
-        "stars": "6494",
+        "stars": "6495",
         "url": "https://github.com/basecamp/fizzy"
     },
     {
         "description": "The open source coding agent.",
         "language": "TypeScript",
         "name": "anomalyco/opencode",
-        "stars": "45693",
+        "stars": "45701",
         "url": "https://github.com/anomalyco/opencode"
     },
     {
         "description": "AGENTS.md \u2014 a simple, open format for guiding coding agents",
         "language": "TypeScript",
         "name": "agentsmd/agents.md",
-        "stars": "13895",
+        "stars": "13896",
         "url": "https://github.com/agentsmd/agents.md"
     },
     {
         "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
         "language": "Go",
         "name": "Tencent/WeKnora",
-        "stars": "10770",
+        "stars": "10771",
         "url": "https://github.com/Tencent/WeKnora"
     },
     {
@@ -94,7 +94,7 @@
         "description": "Public repository for Agent Skills",
         "language": "Python",
         "name": "anthropics/skills",
-        "stars": "31816",
+        "stars": "31822",
         "url": "https://github.com/anthropics/skills"
     },
     {
@@ -105,10 +105,17 @@
         "url": "https://github.com/rustfs/rustfs"
     },
     {
+        "description": "Personal AI Infrastructure for upgrading humans.",
+        "language": "TypeScript",
+        "name": "danielmiessler/Personal_AI_Infrastructure",
+        "stars": "2925",
+        "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure"
+    },
+    {
         "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
         "language": "Shell",
         "name": "anthropics/claude-code",
-        "stars": "50570",
+        "stars": "50575",
         "url": "https://github.com/anthropics/claude-code"
     }
 ]
