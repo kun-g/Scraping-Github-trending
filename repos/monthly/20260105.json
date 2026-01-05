@@ -1,0 +1,107 @@
+[
+    {
+        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+        "language": "TypeScript",
+        "name": "thedotmack/claude-mem",
+        "stars": "10232",
+        "url": "https://github.com/thedotmack/claude-mem"
+    },
+    {
+        "description": "Open-Source Frontier Voice AI",
+        "language": "Python",
+        "name": "microsoft/VibeVoice",
+        "stars": "19518",
+        "url": "https://github.com/microsoft/VibeVoice"
+    },
+    {
+        "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+        "language": "TypeScript",
+        "name": "DayuanJiang/next-ai-draw-io",
+        "stars": "16706",
+        "url": "https://github.com/DayuanJiang/next-ai-draw-io"
+    },
+    {
+        "description": "Run your own AI cluster at home with everyday devices \ud83d\udcf1\ud83d\udcbb \ud83d\udda5\ufe0f\u231a",
+        "language": "Python",
+        "name": "exo-explore/exo",
+        "stars": "39404",
+        "url": "https://github.com/exo-explore/exo"
+    },
+    {
+        "description": "Get 10X more out of Claude Code, Codex or any coding agent",
+        "language": "Rust",
+        "name": "BloopAI/vibe-kanban",
+        "stars": "12457",
+        "url": "https://github.com/BloopAI/vibe-kanban"
+    },
+    {
+        "description": "The open source coding agent.",
+        "language": "TypeScript",
+        "name": "anomalyco/opencode",
+        "stars": "47655",
+        "url": "https://github.com/anomalyco/opencode"
+    },
+    {
+        "description": "SoTA open-source TTS",
+        "language": "Python",
+        "name": "resemble-ai/chatterbox",
+        "stars": "20588",
+        "url": "https://github.com/resemble-ai/chatterbox"
+    },
+    {
+        "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
+        "language": "Go",
+        "name": "Tencent/WeKnora",
+        "stars": "10888",
+        "url": "https://github.com/Tencent/WeKnora"
+    },
+    {
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "language": "Shell",
+        "name": "anthropics/claude-code",
+        "stars": "51132",
+        "url": "https://github.com/anthropics/claude-code"
+    },
+    {
+        "description": "AGENTS.md \u2014 a simple, open format for guiding coding agents",
+        "language": "TypeScript",
+        "name": "agentsmd/agents.md",
+        "stars": "14149",
+        "url": "https://github.com/agentsmd/agents.md"
+    },
+    {
+        "description": "Open-source platform to build and deploy AI agent workflows.",
+        "language": "TypeScript",
+        "name": "simstudioai/sim",
+        "stars": "24943",
+        "url": "https://github.com/simstudioai/sim"
+    },
+    {
+        "description": "\ud83d\udcda \u300a\u4ece\u96f6\u5f00\u59cb\u6784\u5efa\u667a\u80fd\u4f53\u300b\u2014\u2014\u4ece\u96f6\u5f00\u59cb\u7684\u667a\u80fd\u4f53\u539f\u7406\u4e0e\u5b9e\u8df5\u6559\u7a0b",
+        "language": "Python",
+        "name": "datawhalechina/hello-agents",
+        "stars": "14187",
+        "url": "https://github.com/datawhalechina/hello-agents"
+    },
+    {
+        "description": "Public repository for Agent Skills",
+        "language": "Python",
+        "name": "anthropics/skills",
+        "stars": "33010",
+        "url": "https://github.com/anthropics/skills"
+    },
+    {
+        "description": "cuTile is a programming model for writing parallel kernels for NVIDIA GPUs",
+        "language": "Python",
+        "name": "NVIDIA/cutile-python",
+        "stars": "1740",
+        "url": "https://github.com/NVIDIA/cutile-python"
+    },
+    {
+        "description": "Personal AI Infrastructure for upgrading humans.",
+        "language": "TypeScript",
+        "name": "danielmiessler/Personal_AI_Infrastructure",
+        "stars": "3325",
+        "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure"
+    }
+]
