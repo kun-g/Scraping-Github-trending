@@ -3,56 +3,56 @@
         "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
         "language": "TypeScript",
         "name": "thedotmack/claude-mem",
-        "stars": "11187",
+        "stars": "11197",
         "url": "https://github.com/thedotmack/claude-mem"
     },
     {
         "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
         "language": "TypeScript",
         "name": "DayuanJiang/next-ai-draw-io",
-        "stars": "17082",
+        "stars": "17084",
         "url": "https://github.com/DayuanJiang/next-ai-draw-io"
     },
     {
         "description": "Get 10X more out of Claude Code, Codex or any coding agent",
         "language": "Rust",
         "name": "BloopAI/vibe-kanban",
-        "stars": "13473",
+        "stars": "13475",
         "url": "https://github.com/BloopAI/vibe-kanban"
     },
     {
         "description": "Run your own AI cluster at home with everyday devices \ud83d\udcf1\ud83d\udcbb \ud83d\udda5\ufe0f\u231a",
         "language": "Python",
         "name": "exo-explore/exo",
-        "stars": "39557",
+        "stars": "39559",
         "url": "https://github.com/exo-explore/exo"
     },
     {
         "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
         "language": "Shell",
         "name": "anthropics/claude-code",
-        "stars": "52156",
+        "stars": "52160",
         "url": "https://github.com/anthropics/claude-code"
     },
     {
         "description": "The open source coding agent.",
         "language": "TypeScript",
         "name": "anomalyco/opencode",
-        "stars": "51530",
+        "stars": "51562",
         "url": "https://github.com/anomalyco/opencode"
     },
     {
         "description": "Open-Source Frontier Voice AI",
         "language": "Python",
         "name": "microsoft/VibeVoice",
-        "stars": "20010",
+        "stars": "20011",
         "url": "https://github.com/microsoft/VibeVoice"
     },
     {
         "description": "SoTA open-source TTS",
         "language": "Python",
         "name": "resemble-ai/chatterbox",
-        "stars": "20837",
+        "stars": "20842",
         "url": "https://github.com/resemble-ai/chatterbox"
     },
     {
@@ -66,7 +66,7 @@
         "description": "Open-source platform to build and deploy AI agent workflows.",
         "language": "TypeScript",
         "name": "simstudioai/sim",
-        "stars": "25048",
+        "stars": "25049",
         "url": "https://github.com/simstudioai/sim"
     },
     {
@@ -80,28 +80,28 @@
         "description": "Public repository for Agent Skills",
         "language": "Python",
         "name": "anthropics/skills",
-        "stars": "34455",
+        "stars": "34462",
         "url": "https://github.com/anthropics/skills"
     },
     {
         "description": "Personal AI Infrastructure for upgrading humans.",
         "language": "TypeScript",
         "name": "danielmiessler/Personal_AI_Infrastructure",
-        "stars": "3728",
+        "stars": "3729",
         "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure"
     },
     {
         "description": "\ud83d\udcda \u300a\u4ece\u96f6\u5f00\u59cb\u6784\u5efa\u667a\u80fd\u4f53\u300b\u2014\u2014\u4ece\u96f6\u5f00\u59cb\u7684\u667a\u80fd\u4f53\u539f\u7406\u4e0e\u5b9e\u8df5\u6559\u7a0b",
         "language": "Python",
         "name": "datawhalechina/hello-agents",
-        "stars": "14714",
+        "stars": "14718",
         "url": "https://github.com/datawhalechina/hello-agents"
     },
     {
         "description": "An AI Hedge Fund Team",
         "language": "Python",
         "name": "virattt/ai-hedge-fund",
-        "stars": "44926",
+        "stars": "44927",
         "url": "https://github.com/virattt/ai-hedge-fund"
     }
 ]
