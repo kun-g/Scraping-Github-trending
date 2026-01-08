@@ -3,49 +3,49 @@
         "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
         "language": "TypeScript",
         "name": "thedotmack/claude-mem",
-        "stars": "11918",
+        "stars": "11935",
         "url": "https://github.com/thedotmack/claude-mem"
     },
     {
         "description": "\ud83d\udc39 Deep clean and optimize your Mac.",
         "language": "Shell",
         "name": "tw93/Mole",
-        "stars": "26246",
+        "stars": "26254",
         "url": "https://github.com/tw93/Mole"
     },
     {
         "description": "Get 10X more out of Claude Code, Codex or any coding agent",
         "language": "Rust",
         "name": "BloopAI/vibe-kanban",
-        "stars": "13837",
+        "stars": "13845",
         "url": "https://github.com/BloopAI/vibe-kanban"
     },
     {
         "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
         "language": "TypeScript",
         "name": "DayuanJiang/next-ai-draw-io",
-        "stars": "17238",
+        "stars": "17239",
         "url": "https://github.com/DayuanJiang/next-ai-draw-io"
     },
     {
         "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
         "language": "Shell",
         "name": "anthropics/claude-code",
-        "stars": "52677",
+        "stars": "52703",
         "url": "https://github.com/anthropics/claude-code"
     },
     {
         "description": "The open source coding agent.",
         "language": "TypeScript",
         "name": "anomalyco/opencode",
-        "stars": "53402",
+        "stars": "53486",
         "url": "https://github.com/anomalyco/opencode"
     },
     {
         "description": "Run your own AI cluster at home with everyday devices \ud83d\udcf1\ud83d\udcbb \ud83d\udda5\ufe0f\u231a",
         "language": "Python",
         "name": "exo-explore/exo",
-        "stars": "39611",
+        "stars": "39613",
         "url": "https://github.com/exo-explore/exo"
     },
     {
@@ -59,14 +59,14 @@
         "description": "Open-source platform to build and deploy AI agent workflows.",
         "language": "TypeScript",
         "name": "simstudioai/sim",
-        "stars": "25086",
+        "stars": "25089",
         "url": "https://github.com/simstudioai/sim"
     },
     {
         "description": "Public repository for Agent Skills",
         "language": "Python",
         "name": "anthropics/skills",
-        "stars": "35134",
+        "stars": "35177",
         "url": "https://github.com/anthropics/skills"
     },
     {
@@ -80,35 +80,35 @@
         "description": "Personal AI Infrastructure for upgrading humans.",
         "language": "TypeScript",
         "name": "danielmiessler/Personal_AI_Infrastructure",
-        "stars": "3888",
+        "stars": "3893",
         "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure"
     },
     {
         "description": "\ud83d\udcda \u300a\u4ece\u96f6\u5f00\u59cb\u6784\u5efa\u667a\u80fd\u4f53\u300b\u2014\u2014\u4ece\u96f6\u5f00\u59cb\u7684\u667a\u80fd\u4f53\u539f\u7406\u4e0e\u5b9e\u8df5\u6559\u7a0b",
         "language": "Python",
         "name": "datawhalechina/hello-agents",
-        "stars": "14957",
+        "stars": "14966",
         "url": "https://github.com/datawhalechina/hello-agents"
     },
     {
         "description": "An AI Hedge Fund Team",
         "language": "Python",
         "name": "virattt/ai-hedge-fund",
-        "stars": "44986",
+        "stars": "44988",
         "url": "https://github.com/virattt/ai-hedge-fund"
     },
     {
         "description": "AGENTS.md \u2014 a simple, open format for guiding coding agents",
         "language": "TypeScript",
         "name": "agentsmd/agents.md",
-        "stars": "14564",
+        "stars": "14569",
         "url": "https://github.com/agentsmd/agents.md"
     },
     {
         "description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control \u2014 no tracking, no ads, no subscription fees.",
         "language": "Go",
         "name": "usememos/memos",
-        "stars": "52439",
+        "stars": "52442",
         "url": "https://github.com/usememos/memos"
     }
 ]
