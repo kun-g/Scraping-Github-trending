@@ -1,0 +1,93 @@
+[
+    {
+        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+        "language": "TypeScript",
+        "name": "thedotmack/claude-mem",
+        "stars": "11908",
+        "url": "https://github.com/thedotmack/claude-mem"
+    },
+    {
+        "description": "GoogleTest - Google Testing and Mocking Framework",
+        "language": "C++",
+        "name": "google/googletest",
+        "stars": "37766",
+        "url": "https://github.com/google/googletest"
+    },
+    {
+        "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f All-in-one OSINT tool for analysing any website",
+        "language": "TypeScript",
+        "name": "Lissy93/web-check",
+        "stars": "28507",
+        "url": "https://github.com/Lissy93/web-check"
+    },
+    {
+        "description": "Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks",
+        "language": "C#",
+        "name": "microsoft/PowerToys",
+        "stars": "127594",
+        "url": "https://github.com/microsoft/PowerToys"
+    },
+    {
+        "description": "Protocol Buffers - Google's data interchange format",
+        "language": "C++",
+        "name": "protocolbuffers/protobuf",
+        "stars": "70182",
+        "url": "https://github.com/protocolbuffers/protobuf"
+    },
+    {
+        "description": "Chrome DevTools for coding agents",
+        "language": "TypeScript",
+        "name": "ChromeDevTools/chrome-devtools-mcp",
+        "stars": "18991",
+        "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+    },
+    {
+        "description": "Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.",
+        "language": "Rust",
+        "name": "memvid/memvid",
+        "stars": "11382",
+        "url": "https://github.com/memvid/memvid"
+    },
+    {
+        "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+        "language": "Jupyter Notebook",
+        "name": "patchy631/ai-engineering-hub",
+        "stars": "25263",
+        "url": "https://github.com/patchy631/ai-engineering-hub"
+    },
+    {
+        "description": "Generate audiobooks from e-books, voice cloning & 1158+ languages!",
+        "language": "Python",
+        "name": "DrewThomasson/ebook2audiobook",
+        "stars": "16655",
+        "url": "https://github.com/DrewThomasson/ebook2audiobook"
+    },
+    {
+        "description": "A collaborative list of public APIs for developers",
+        "language": "JavaScript",
+        "name": "marcelscruz/public-apis",
+        "stars": "7272",
+        "url": "https://github.com/marcelscruz/public-apis"
+    },
+    {
+        "description": "Youtube client with older Android version support, background player, Google Gemini \u2728 and many more features.",
+        "language": "JavaScript",
+        "name": "prateek-chaubey/YTPro",
+        "stars": "1419",
+        "url": "https://github.com/prateek-chaubey/YTPro"
+    },
+    {
+        "description": "MiroThinker is a series of open-source search agent designed to advance tool-augmented reasoning and information-seeking capabilities.",
+        "language": "Python",
+        "name": "MiroMindAI/MiroThinker",
+        "stars": "2630",
+        "url": "https://github.com/MiroMindAI/MiroThinker"
+    },
+    {
+        "description": "Anthropic's Interactive Prompt Engineering Tutorial",
+        "language": "Jupyter Notebook",
+        "name": "anthropics/prompt-eng-interactive-tutorial",
+        "stars": "28370",
+        "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial"
+    }
+]
