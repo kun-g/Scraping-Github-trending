@@ -1,0 +1,107 @@
+[
+    {
+        "description": "Chrome DevTools for coding agents",
+        "language": "TypeScript",
+        "name": "ChromeDevTools/chrome-devtools-mcp",
+        "stars": "19334",
+        "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+    },
+    {
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "language": "Shell",
+        "name": "anthropics/claude-code",
+        "stars": "53370",
+        "url": "https://github.com/anthropics/claude-code"
+    },
+    {
+        "description": "stb single-file public domain libraries for C/C++",
+        "language": "C",
+        "name": "nothings/stb",
+        "stars": "31641",
+        "url": "https://github.com/nothings/stb"
+    },
+    {
+        "description": "MiroThinker is an open-source search agent suite, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI Deep Research and Gemini Deep Research.",
+        "language": "Python",
+        "name": "MiroMindAI/MiroThinker",
+        "stars": "3414",
+        "url": "https://github.com/MiroMindAI/MiroThinker"
+    },
+    {
+        "description": "Protocol Buffers - Google's data interchange format",
+        "language": "C++",
+        "name": "protocolbuffers/protobuf",
+        "stars": "70232",
+        "url": "https://github.com/protocolbuffers/protobuf"
+    },
+    {
+        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+        "language": "TypeScript",
+        "name": "thedotmack/claude-mem",
+        "stars": "12479",
+        "url": "https://github.com/thedotmack/claude-mem"
+    },
+    {
+        "description": "Access your entire server infrastructure from your local desktop",
+        "language": "Java",
+        "name": "xpipe-io/xpipe",
+        "stars": "12845",
+        "url": "https://github.com/xpipe-io/xpipe"
+    },
+    {
+        "description": "",
+        "language": "Python",
+        "name": "NVlabs/alpasim",
+        "stars": "525",
+        "url": "https://github.com/NVlabs/alpasim"
+    },
+    {
+        "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f All-in-one OSINT tool for analysing any website",
+        "language": "TypeScript",
+        "name": "Lissy93/web-check",
+        "stars": "28966",
+        "url": "https://github.com/Lissy93/web-check"
+    },
+    {
+        "description": "GoogleTest - Google Testing and Mocking Framework",
+        "language": "C++",
+        "name": "google/googletest",
+        "stars": "37857",
+        "url": "https://github.com/google/googletest"
+    },
+    {
+        "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+        "language": "TypeScript",
+        "name": "apache/superset",
+        "stars": "69834",
+        "url": "https://github.com/apache/superset"
+    },
+    {
+        "description": "Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.",
+        "language": "Rust",
+        "name": "memvid/memvid",
+        "stars": "11730",
+        "url": "https://github.com/memvid/memvid"
+    },
+    {
+        "description": "LTX-Video Support for ComfyUI",
+        "language": "Python",
+        "name": "Lightricks/ComfyUI-LTXVideo",
+        "stars": "2643",
+        "url": "https://github.com/Lightricks/ComfyUI-LTXVideo"
+    },
+    {
+        "description": "Memory infrastructure for LLMs and AI agents",
+        "language": "Python",
+        "name": "NevaMind-AI/memU",
+        "stars": "3789",
+        "url": "https://github.com/NevaMind-AI/memU"
+    },
+    {
+        "description": "[KDD'2026] \"VideoRAG: Chat with Your Videos\"",
+        "language": "Python",
+        "name": "HKUDS/VideoRAG",
+        "stars": "2032",
+        "url": "https://github.com/HKUDS/VideoRAG"
+    }
+]

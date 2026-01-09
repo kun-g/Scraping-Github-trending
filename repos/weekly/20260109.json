@@ -1,0 +1,58 @@
+[
+    {
+        "description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control \u2014 no tracking, no ads, no subscription fees.",
+        "language": "Go",
+        "name": "usememos/memos",
+        "stars": "52594",
+        "url": "https://github.com/usememos/memos"
+    },
+    {
+        "description": "The open source coding agent.",
+        "language": "TypeScript",
+        "name": "anomalyco/opencode",
+        "stars": "55152",
+        "url": "https://github.com/anomalyco/opencode"
+    },
+    {
+        "description": "Elegant reading of real-time and hottest news",
+        "language": "TypeScript",
+        "name": "ourongxing/newsnow",
+        "stars": "17068",
+        "url": "https://github.com/ourongxing/newsnow"
+    },
+    {
+        "description": "Get 10X more out of Claude Code, Codex or any coding agent",
+        "language": "Rust",
+        "name": "BloopAI/vibe-kanban",
+        "stars": "14144",
+        "url": "https://github.com/BloopAI/vibe-kanban"
+    },
+    {
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "language": "Shell",
+        "name": "anthropics/claude-code",
+        "stars": "53370",
+        "url": "https://github.com/anthropics/claude-code"
+    },
+    {
+        "description": "Financial data platform for analysts, quants and AI agents.",
+        "language": "Python",
+        "name": "OpenBB-finance/OpenBB",
+        "stars": "57586",
+        "url": "https://github.com/OpenBB-finance/OpenBB"
+    },
+    {
+        "description": "Personal AI Infrastructure for upgrading humans.",
+        "language": "TypeScript",
+        "name": "danielmiessler/Personal_AI_Infrastructure",
+        "stars": "4024",
+        "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure"
+    },
+    {
+        "description": "OAuth authentication plugin for personal coding assistance with ChatGPT Plus/Pro subscriptions - uses OpenAI's official authentication method",
+        "language": "TypeScript",
+        "name": "numman-ali/opencode-openai-codex-auth",
+        "stars": "1249",
+        "url": "https://github.com/numman-ali/opencode-openai-codex-auth"
+    }
+]
