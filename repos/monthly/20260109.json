@@ -3,42 +3,42 @@
         "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
         "language": "TypeScript",
         "name": "thedotmack/claude-mem",
-        "stars": "12479",
+        "stars": "12490",
         "url": "https://github.com/thedotmack/claude-mem"
     },
     {
         "description": "\ud83d\udc39 Deep clean and optimize your Mac.",
         "language": "Shell",
         "name": "tw93/Mole",
-        "stars": "26831",
+        "stars": "26836",
         "url": "https://github.com/tw93/Mole"
     },
     {
         "description": "Get 10X more out of Claude Code, Codex or any coding agent",
         "language": "Rust",
         "name": "BloopAI/vibe-kanban",
-        "stars": "14144",
+        "stars": "14145",
         "url": "https://github.com/BloopAI/vibe-kanban"
     },
     {
         "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
         "language": "Shell",
         "name": "anthropics/claude-code",
-        "stars": "53370",
+        "stars": "53383",
         "url": "https://github.com/anthropics/claude-code"
     },
     {
         "description": "Run your own AI cluster at home with everyday devices \ud83d\udcf1\ud83d\udcbb \ud83d\udda5\ufe0f\u231a",
         "language": "Python",
         "name": "exo-explore/exo",
-        "stars": "39659",
+        "stars": "39658",
         "url": "https://github.com/exo-explore/exo"
     },
     {
         "description": "The open source coding agent.",
         "language": "TypeScript",
         "name": "anomalyco/opencode",
-        "stars": "55152",
+        "stars": "55185",
         "url": "https://github.com/anomalyco/opencode"
     },
     {
@@ -59,35 +59,35 @@
         "description": "Open-source platform to build and deploy AI agent workflows.",
         "language": "TypeScript",
         "name": "simstudioai/sim",
-        "stars": "25118",
+        "stars": "25117",
         "url": "https://github.com/simstudioai/sim"
     },
     {
         "description": "Public repository for Agent Skills",
         "language": "Python",
         "name": "anthropics/skills",
-        "stars": "35802",
+        "stars": "35816",
         "url": "https://github.com/anthropics/skills"
     },
     {
         "description": "Personal AI Infrastructure for upgrading humans.",
         "language": "TypeScript",
         "name": "danielmiessler/Personal_AI_Infrastructure",
-        "stars": "4024",
+        "stars": "4026",
         "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure"
     },
     {
         "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
         "language": "Go",
         "name": "Tencent/WeKnora",
-        "stars": "11125",
+        "stars": "11124",
         "url": "https://github.com/Tencent/WeKnora"
     },
     {
         "description": "An AI Hedge Fund Team",
         "language": "Python",
         "name": "virattt/ai-hedge-fund",
-        "stars": "45026",
+        "stars": "45025",
         "url": "https://github.com/virattt/ai-hedge-fund"
     },
     {
@@ -108,7 +108,7 @@
         "description": "AGENTS.md \u2014 a simple, open format for guiding coding agents",
         "language": "TypeScript",
         "name": "agentsmd/agents.md",
-        "stars": "14681",
+        "stars": "14680",
         "url": "https://github.com/agentsmd/agents.md"
     }
 ]
