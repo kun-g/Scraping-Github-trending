@@ -3,28 +3,28 @@
         "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
         "language": "TypeScript",
         "name": "thedotmack/claude-mem",
-        "stars": "12847",
+        "stars": "12848",
         "url": "https://github.com/thedotmack/claude-mem"
     },
     {
         "description": "Get 10X more out of Claude Code, Codex or any coding agent",
         "language": "Rust",
         "name": "BloopAI/vibe-kanban",
-        "stars": "14384",
+        "stars": "14386",
         "url": "https://github.com/BloopAI/vibe-kanban"
     },
     {
         "description": "The open source coding agent.",
         "language": "TypeScript",
         "name": "anomalyco/opencode",
-        "stars": "57310",
+        "stars": "57345",
         "url": "https://github.com/anomalyco/opencode"
     },
     {
         "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
         "language": "Shell",
         "name": "anthropics/claude-code",
-        "stars": "54131",
+        "stars": "54138",
         "url": "https://github.com/anthropics/claude-code"
     },
     {
@@ -38,21 +38,21 @@
         "description": "SoTA open-source TTS",
         "language": "Python",
         "name": "resemble-ai/chatterbox",
-        "stars": "21077",
+        "stars": "21078",
         "url": "https://github.com/resemble-ai/chatterbox"
     },
     {
         "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
         "language": "TypeScript",
         "name": "DayuanJiang/next-ai-draw-io",
-        "stars": "17555",
+        "stars": "17557",
         "url": "https://github.com/DayuanJiang/next-ai-draw-io"
     },
     {
         "description": "Public repository for Agent Skills",
         "language": "Python",
         "name": "anthropics/skills",
-        "stars": "36530",
+        "stars": "36537",
         "url": "https://github.com/anthropics/skills"
     },
     {
@@ -66,7 +66,7 @@
         "description": "Personal AI Infrastructure for upgrading humans.",
         "language": "TypeScript",
         "name": "danielmiessler/Personal_AI_Infrastructure",
-        "stars": "4141",
+        "stars": "4142",
         "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure"
     },
     {
@@ -87,14 +87,14 @@
         "description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control \u2014 no tracking, no ads, no subscription fees.",
         "language": "Go",
         "name": "usememos/memos",
-        "stars": "52738",
+        "stars": "52740",
         "url": "https://github.com/usememos/memos"
     },
     {
         "description": "\ud83d\udcda \u300a\u4ece\u96f6\u5f00\u59cb\u6784\u5efa\u667a\u80fd\u4f53\u300b\u2014\u2014\u4ece\u96f6\u5f00\u59cb\u7684\u667a\u80fd\u4f53\u539f\u7406\u4e0e\u5b9e\u8df5\u6559\u7a0b",
         "language": "Python",
         "name": "datawhalechina/hello-agents",
-        "stars": "15430",
+        "stars": "15431",
         "url": "https://github.com/datawhalechina/hello-agents"
     }
 ]
