@@ -3,35 +3,28 @@
         "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
         "language": "TypeScript",
         "name": "thedotmack/claude-mem",
-        "stars": "13039",
+        "stars": "13041",
         "url": "https://github.com/thedotmack/claude-mem"
     },
     {
         "description": "The open source coding agent.",
         "language": "TypeScript",
         "name": "anomalyco/opencode",
-        "stars": "59713",
+        "stars": "59739",
         "url": "https://github.com/anomalyco/opencode"
     },
     {
         "description": "Get 10X more out of Claude Code, Codex or any coding agent",
         "language": "Rust",
         "name": "BloopAI/vibe-kanban",
-        "stars": "14553",
+        "stars": "14555",
         "url": "https://github.com/BloopAI/vibe-kanban"
-    },
-    {
-        "description": "\ud83d\udc39 Deep clean and optimize your Mac.",
-        "language": "Shell",
-        "name": "tw93/Mole",
-        "stars": "27815",
-        "url": "https://github.com/tw93/Mole"
     },
     {
         "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
         "language": "Shell",
         "name": "anthropics/claude-code",
-        "stars": "54733",
+        "stars": "54745",
         "url": "https://github.com/anthropics/claude-code"
     },
     {
@@ -45,63 +38,63 @@
         "description": "Public repository for Agent Skills",
         "language": "Python",
         "name": "anthropics/skills",
-        "stars": "37109",
+        "stars": "37121",
         "url": "https://github.com/anthropics/skills"
     },
     {
         "description": "SoTA open-source TTS",
         "language": "Python",
         "name": "resemble-ai/chatterbox",
-        "stars": "21163",
+        "stars": "21165",
         "url": "https://github.com/resemble-ai/chatterbox"
     },
     {
         "description": "Personal AI Infrastructure for upgrading humans.",
         "language": "TypeScript",
         "name": "danielmiessler/Personal_AI_Infrastructure",
-        "stars": "4245",
+        "stars": "4246",
         "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure"
     },
     {
         "description": "Open-source platform to build and deploy AI agent workflows.",
         "language": "TypeScript",
         "name": "simstudioai/sim",
-        "stars": "25247",
+        "stars": "25250",
         "url": "https://github.com/simstudioai/sim"
     },
     {
         "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
         "language": "TypeScript",
         "name": "DayuanJiang/next-ai-draw-io",
-        "stars": "17744",
+        "stars": "17748",
         "url": "https://github.com/DayuanJiang/next-ai-draw-io"
     },
     {
         "description": "An AI Hedge Fund Team",
         "language": "Python",
         "name": "virattt/ai-hedge-fund",
-        "stars": "45100",
+        "stars": "45101",
         "url": "https://github.com/virattt/ai-hedge-fund"
     },
     {
         "description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control \u2014 no tracking, no ads, no subscription fees.",
         "language": "Go",
         "name": "usememos/memos",
-        "stars": "52883",
+        "stars": "52886",
         "url": "https://github.com/usememos/memos"
     },
     {
         "description": "How can we build a true AI agent? Like Claude Code.",
         "language": "Python",
         "name": "shareAI-lab/learn-claude-code",
-        "stars": "13679",
+        "stars": "13680",
         "url": "https://github.com/shareAI-lab/learn-claude-code"
     },
     {
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f All-in-one OSINT tool for analysing any website",
         "language": "TypeScript",
         "name": "Lissy93/web-check",
-        "stars": "29301",
+        "stars": "29304",
         "url": "https://github.com/Lissy93/web-check"
     },
     {
