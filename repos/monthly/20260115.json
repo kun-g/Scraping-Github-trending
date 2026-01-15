@@ -3,35 +3,35 @@
         "description": "",
         "language": "TypeScript",
         "name": "google/A2UI",
-        "stars": "9863",
+        "stars": "9870",
         "url": "https://github.com/google/A2UI"
     },
     {
         "description": "The open source coding agent.",
         "language": "TypeScript",
         "name": "anomalyco/opencode",
-        "stars": "69272",
+        "stars": "69302",
         "url": "https://github.com/anomalyco/opencode"
     },
     {
         "description": "Public repository for Agent Skills",
         "language": "Python",
         "name": "anthropics/skills",
-        "stars": "40639",
+        "stars": "40659",
         "url": "https://github.com/anthropics/skills"
     },
     {
         "description": "Get 10X more out of Claude Code, Codex or any coding agent",
         "language": "Rust",
         "name": "BloopAI/vibe-kanban",
-        "stars": "16025",
+        "stars": "16027",
         "url": "https://github.com/BloopAI/vibe-kanban"
     },
     {
         "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
         "language": "Shell",
         "name": "anthropics/claude-code",
-        "stars": "56521",
+        "stars": "56526",
         "url": "https://github.com/anthropics/claude-code"
     },
     {
@@ -45,14 +45,14 @@
         "description": "\ud83d\udc39 Deep clean and optimize your Mac.",
         "language": "Shell",
         "name": "tw93/Mole",
-        "stars": "29185",
+        "stars": "29189",
         "url": "https://github.com/tw93/Mole"
     },
     {
         "description": "Personal AI Infrastructure for upgrading humans.",
         "language": "TypeScript",
         "name": "danielmiessler/Personal_AI_Infrastructure",
-        "stars": "4608",
+        "stars": "4610",
         "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure"
     },
     {
@@ -66,28 +66,28 @@
         "description": "Claude Code superpowers: core skills library",
         "language": "Shell",
         "name": "obra/superpowers",
-        "stars": "22210",
+        "stars": "22250",
         "url": "https://github.com/obra/superpowers"
     },
     {
         "description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control \u2014 no tracking, no ads, no subscription fees.",
         "language": "Go",
         "name": "usememos/memos",
-        "stars": "54117",
+        "stars": "54120",
         "url": "https://github.com/usememos/memos"
     },
     {
         "description": "Beads - A memory upgrade for your coding agent",
         "language": "Go",
         "name": "steveyegge/beads",
-        "stars": "10221",
+        "stars": "10224",
         "url": "https://github.com/steveyegge/beads"
     },
     {
         "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
         "language": "TypeScript",
         "name": "bytedance/UI-TARS-desktop",
-        "stars": "23630",
+        "stars": "23631",
         "url": "https://github.com/bytedance/UI-TARS-desktop"
     },
     {
@@ -101,21 +101,21 @@
         "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
         "language": "TypeScript",
         "name": "thedotmack/claude-mem",
-        "stars": "13753",
+        "stars": "13769",
         "url": "https://github.com/thedotmack/claude-mem"
     },
     {
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f All-in-one OSINT tool for analysing any website",
         "language": "TypeScript",
         "name": "Lissy93/web-check",
-        "stars": "29822",
+        "stars": "29826",
         "url": "https://github.com/Lissy93/web-check"
     },
     {
         "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
         "language": "TypeScript",
         "name": "KeygraphHQ/shannon",
-        "stars": "3764",
+        "stars": "3766",
         "url": "https://github.com/KeygraphHQ/shannon"
     }
 ]

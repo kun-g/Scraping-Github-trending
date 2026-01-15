@@ -3,42 +3,42 @@
         "description": "The open source coding agent.",
         "language": "TypeScript",
         "name": "anomalyco/opencode",
-        "stars": "69272",
+        "stars": "69302",
         "url": "https://github.com/anomalyco/opencode"
     },
     {
         "description": "Autonomous AI development loop for Claude Code with intelligent exit detection",
         "language": "Shell",
         "name": "frankbria/ralph-claude-code",
-        "stars": "2878",
+        "stars": "2883",
         "url": "https://github.com/frankbria/ralph-claude-code"
     },
     {
         "description": "MiroThinker is an open-source search agent model, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI Deep Research and Gemini Deep Research.",
         "language": "Python",
         "name": "MiroMindAI/MiroThinker",
-        "stars": "4864",
+        "stars": "4867",
         "url": "https://github.com/MiroMindAI/MiroThinker"
     },
     {
         "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
         "language": "TypeScript",
         "name": "bytedance/UI-TARS-desktop",
-        "stars": "23630",
+        "stars": "23631",
         "url": "https://github.com/bytedance/UI-TARS-desktop"
     },
     {
         "description": "Claude Code superpowers: core skills library",
         "language": "Shell",
         "name": "obra/superpowers",
-        "stars": "22210",
+        "stars": "22250",
         "url": "https://github.com/obra/superpowers"
     },
     {
         "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
         "language": "Shell",
         "name": "anthropics/claude-code",
-        "stars": "56521",
+        "stars": "56526",
         "url": "https://github.com/anthropics/claude-code"
     },
     {
@@ -52,35 +52,35 @@
         "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f All-in-one OSINT tool for analysing any website",
         "language": "TypeScript",
         "name": "Lissy93/web-check",
-        "stars": "29822",
+        "stars": "29826",
         "url": "https://github.com/Lissy93/web-check"
     },
     {
         "description": "Chrome DevTools for coding agents",
         "language": "TypeScript",
         "name": "ChromeDevTools/chrome-devtools-mcp",
-        "stars": "20953",
+        "stars": "20954",
         "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
     },
     {
         "description": "real time face swap and one-click video deepfake with only a single image",
         "language": "Python",
         "name": "hacksider/Deep-Live-Cam",
-        "stars": "77800",
+        "stars": "77801",
         "url": "https://github.com/hacksider/Deep-Live-Cam"
     },
     {
         "description": "Memory infrastructure for LLMs and AI agents",
         "language": "Python",
         "name": "NevaMind-AI/memU",
-        "stars": "4562",
+        "stars": "4566",
         "url": "https://github.com/NevaMind-AI/memU"
     },
     {
         "description": "Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.",
         "language": "Rust",
         "name": "memvid/memvid",
-        "stars": "12291",
+        "stars": "12293",
         "url": "https://github.com/memvid/memvid"
     }
 ]
