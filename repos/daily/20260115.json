@@ -3,49 +3,49 @@
         "description": "Claude Code superpowers: core skills library",
         "language": "Shell",
         "name": "obra/superpowers",
-        "stars": "22250",
+        "stars": "22321",
         "url": "https://github.com/obra/superpowers"
     },
     {
         "description": "Source code for the X Recommendation Algorithm",
         "language": "Scala",
         "name": "twitter/the-algorithm",
-        "stars": "69872",
+        "stars": "69883",
         "url": "https://github.com/twitter/the-algorithm"
     },
     {
         "description": "This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL",
         "language": "Jinja",
         "name": "dev-sec/ansible-collection-hardening",
-        "stars": "5009",
+        "stars": "5015",
         "url": "https://github.com/dev-sec/ansible-collection-hardening"
     },
     {
         "description": "\ud83e\udd16 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
         "language": "Go",
         "name": "mudler/LocalAI",
-        "stars": "41558",
+        "stars": "41571",
         "url": "https://github.com/mudler/LocalAI"
     },
     {
         "description": "TalkToFigma: MCP integration between Cursor and Figma, allowing Cursor Agentic AI to communicate with Figma for reading designs and modifying them programmatically.",
         "language": "JavaScript",
         "name": "grab/cursor-talk-to-figma-mcp",
-        "stars": "5988",
+        "stars": "5999",
         "url": "https://github.com/grab/cursor-talk-to-figma-mcp"
     },
     {
         "description": "Force Remove Copilot, Recall and More in Windows 11",
         "language": "PowerShell",
         "name": "zoicware/RemoveWindowsAI",
-        "stars": "8423",
+        "stars": "8439",
         "url": "https://github.com/zoicware/RemoveWindowsAI"
     },
     {
         "description": "Complete container management platform",
         "language": "Go",
         "name": "rancher/rancher",
-        "stars": "25139",
+        "stars": "25150",
         "url": "https://github.com/rancher/rancher"
     }
 ]
