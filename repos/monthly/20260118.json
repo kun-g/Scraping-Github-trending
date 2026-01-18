@@ -1,0 +1,121 @@
+[
+    {
+        "description": "The open source coding agent.",
+        "language": "TypeScript",
+        "name": "anomalyco/opencode",
+        "stars": "75061",
+        "url": "https://github.com/anomalyco/opencode"
+    },
+    {
+        "description": "Public repository for Agent Skills",
+        "language": "Python",
+        "name": "anthropics/skills",
+        "stars": "43841",
+        "url": "https://github.com/anthropics/skills"
+    },
+    {
+        "description": "Get 10X more out of Claude Code, Codex or any coding agent",
+        "language": "Rust",
+        "name": "BloopAI/vibe-kanban",
+        "stars": "16823",
+        "url": "https://github.com/BloopAI/vibe-kanban"
+    },
+    {
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "name": "obra/superpowers",
+        "stars": "27379",
+        "url": "https://github.com/obra/superpowers"
+    },
+    {
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "language": "Shell",
+        "name": "anthropics/claude-code",
+        "stars": "57596",
+        "url": "https://github.com/anthropics/claude-code"
+    },
+    {
+        "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+        "language": "Python",
+        "name": "ComposioHQ/awesome-claude-skills",
+        "stars": "20745",
+        "url": "https://github.com/ComposioHQ/awesome-claude-skills"
+    },
+    {
+        "description": "Run your own AI cluster at home with everyday devices \ud83d\udcf1\ud83d\udcbb \ud83d\udda5\ufe0f\u231a",
+        "language": "Python",
+        "name": "exo-explore/exo",
+        "stars": "40142",
+        "url": "https://github.com/exo-explore/exo"
+    },
+    {
+        "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+        "language": "TypeScript",
+        "name": "bytedance/UI-TARS-desktop",
+        "stars": "24093",
+        "url": "https://github.com/bytedance/UI-TARS-desktop"
+    },
+    {
+        "description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control \u2014 no tracking, no ads, no subscription fees.",
+        "language": "Go",
+        "name": "usememos/memos",
+        "stars": "54584",
+        "url": "https://github.com/usememos/memos"
+    },
+    {
+        "description": "Personal AI Infrastructure for upgrading humans.",
+        "language": "TypeScript",
+        "name": "danielmiessler/Personal_AI_Infrastructure",
+        "stars": "4958",
+        "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure"
+    },
+    {
+        "description": "How can we build a true AI agent? Like Claude Code.",
+        "language": "Python",
+        "name": "shareAI-lab/learn-claude-code",
+        "stars": "14461",
+        "url": "https://github.com/shareAI-lab/learn-claude-code"
+    },
+    {
+        "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f All-in-one OSINT tool for analysing any website",
+        "language": "TypeScript",
+        "name": "Lissy93/web-check",
+        "stars": "30123",
+        "url": "https://github.com/Lissy93/web-check"
+    },
+    {
+        "description": "Beads - A memory upgrade for your coding agent",
+        "language": "Go",
+        "name": "steveyegge/beads",
+        "stars": "10842",
+        "url": "https://github.com/steveyegge/beads"
+    },
+    {
+        "description": "Source code for the X Recommendation Algorithm",
+        "language": "Scala",
+        "name": "twitter/the-algorithm",
+        "stars": "70430",
+        "url": "https://github.com/twitter/the-algorithm"
+    },
+    {
+        "description": "SoTA open-source TTS",
+        "language": "Python",
+        "name": "resemble-ai/chatterbox",
+        "stars": "21626",
+        "url": "https://github.com/resemble-ai/chatterbox"
+    },
+    {
+        "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+        "language": "TypeScript",
+        "name": "badlogic/pi-mono",
+        "stars": "1892",
+        "url": "https://github.com/badlogic/pi-mono"
+    },
+    {
+        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+        "language": "TypeScript",
+        "name": "thedotmack/claude-mem",
+        "stars": "14326",
+        "url": "https://github.com/thedotmack/claude-mem"
+    }
+]
