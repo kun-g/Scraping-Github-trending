@@ -3,63 +3,63 @@
         "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \ud83e\udd9e",
         "language": "TypeScript",
         "name": "openclaw/openclaw",
-        "stars": "141625",
+        "stars": "141852",
         "url": "https://github.com/openclaw/openclaw"
     },
     {
         "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
         "language": "JavaScript",
         "name": "asgeirtj/system_prompts_leaks",
-        "stars": "29361",
+        "stars": "29367",
         "url": "https://github.com/asgeirtj/system_prompts_leaks"
     },
     {
         "description": "Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers",
         "language": "TypeScript",
         "name": "modelcontextprotocol/ext-apps",
-        "stars": "1190",
+        "stars": "1191",
         "url": "https://github.com/modelcontextprotocol/ext-apps"
     },
     {
         "description": "Kimi Code CLI is your next CLI agent.",
         "language": "Python",
         "name": "MoonshotAI/kimi-cli",
-        "stars": "5639",
+        "stars": "5640",
         "url": "https://github.com/MoonshotAI/kimi-cli"
     },
     {
         "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
         "language": "TypeScript",
         "name": "badlogic/pi-mono",
-        "stars": "4911",
+        "stars": "4923",
         "url": "https://github.com/badlogic/pi-mono"
     },
     {
         "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
         "language": "Python",
         "name": "VectifyAI/PageIndex",
-        "stars": "11865",
+        "stars": "11880",
         "url": "https://github.com/VectifyAI/PageIndex"
     },
     {
         "description": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.",
         "language": "Python",
         "name": "Blaizzy/mlx-audio",
-        "stars": "5715",
+        "stars": "5716",
         "url": "https://github.com/Blaizzy/mlx-audio"
     },
     {
         "description": "\ud83c\udfa5 Make videos programmatically with React",
         "language": "TypeScript",
         "name": "remotion-dev/remotion",
-        "stars": "34326",
+        "stars": "34336",
         "url": "https://github.com/remotion-dev/remotion"
     },
     {
         "description": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).",
         "language": "Python",
         "name": "NevaMind-AI/memU",
-        "stars": "6888",
+        "stars": "6892",
         "url": "https://github.com/NevaMind-AI/memU"
     },
     {
@@ -73,28 +73,28 @@
         "description": "Neovim AI agent done right",
         "language": "Lua",
         "name": "ThePrimeagen/99",
-        "stars": "2739",
+        "stars": "2741",
         "url": "https://github.com/ThePrimeagen/99"
     },
     {
         "description": "Official inference framework for 1-bit LLMs",
         "language": "Python",
         "name": "microsoft/BitNet",
-        "stars": "27549",
+        "stars": "27551",
         "url": "https://github.com/microsoft/BitNet"
     },
     {
         "description": "Antigravity Manager is a powerful Electron-based application designed to manage accounts and processes for the Antigravity application. It provides a seamless interface for switching accounts, backing up progress, and controlling the application lifecycle.",
         "language": "TypeScript",
         "name": "Draculabo/AntigravityManager",
-        "stars": "524",
+        "stars": "525",
         "url": "https://github.com/Draculabo/AntigravityManager"
     },
     {
         "description": "Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI models.",
         "language": "Swift",
         "name": "steipete/Peekaboo",
-        "stars": "1678",
+        "stars": "1681",
         "url": "https://github.com/steipete/Peekaboo"
     }
 ]
