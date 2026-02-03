@@ -3,84 +3,84 @@
         "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
         "language": "TypeScript",
         "name": "thedotmack/claude-mem",
-        "stars": "18085",
+        "stars": "18103",
         "url": "https://github.com/thedotmack/claude-mem"
     },
     {
         "description": "Neovim AI agent done right",
         "language": "Lua",
         "name": "ThePrimeagen/99",
-        "stars": "3035",
+        "stars": "3039",
         "url": "https://github.com/ThePrimeagen/99"
     },
     {
         "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
         "language": "Java",
         "name": "termux/termux-app",
-        "stars": "49913",
+        "stars": "49925",
         "url": "https://github.com/termux/termux-app"
     },
     {
         "description": "Agent Orchestration Command Center",
         "language": "TypeScript",
         "name": "pedramamini/Maestro",
-        "stars": "1277",
+        "stars": "1279",
         "url": "https://github.com/pedramamini/Maestro"
     },
     {
         "description": "Connect your devices into a secure WireGuard\u00ae-based overlay network with SSO, MFA and granular access controls.",
         "language": "Go",
         "name": "netbirdio/netbird",
-        "stars": "21967",
+        "stars": "21973",
         "url": "https://github.com/netbirdio/netbird"
     },
     {
         "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
         "language": "Python",
         "name": "OpenBMB/ChatDev",
-        "stars": "29382",
+        "stars": "29394",
         "url": "https://github.com/OpenBMB/ChatDev"
     },
     {
         "description": "A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.",
         "language": "Go",
         "name": "autobrr/qui",
-        "stars": "2824",
+        "stars": "2836",
         "url": "https://github.com/autobrr/qui"
     },
     {
         "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
         "language": "TypeScript",
         "name": "badlogic/pi-mono",
-        "stars": "5571",
+        "stars": "5578",
         "url": "https://github.com/badlogic/pi-mono"
     },
     {
         "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
         "language": "Python",
         "name": "VectifyAI/PageIndex",
-        "stars": "12488",
+        "stars": "12496",
         "url": "https://github.com/VectifyAI/PageIndex"
     },
     {
         "description": "The best ChatGPT that $100 can buy.",
         "language": "Python",
         "name": "karpathy/nanochat",
-        "stars": "41626",
+        "stars": "41638",
         "url": "https://github.com/karpathy/nanochat"
     },
     {
         "description": "The official source code repository for the calibre ebook manager",
         "language": "Python",
         "name": "kovidgoyal/calibre",
-        "stars": "23792",
+        "stars": "23795",
         "url": "https://github.com/kovidgoyal/calibre"
     },
     {
         "description": "",
         "language": "Jupyter Notebook",
         "name": "langchain-ai/rag-from-scratch",
-        "stars": "6962",
+        "stars": "6965",
         "url": "https://github.com/langchain-ai/rag-from-scratch"
     }
 ]
