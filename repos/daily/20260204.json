@@ -3,77 +3,77 @@
         "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
         "language": "TypeScript",
         "name": "thedotmack/claude-mem",
-        "stars": "20236",
+        "stars": "20278",
         "url": "https://github.com/thedotmack/claude-mem"
     },
     {
         "description": "AI review prompts",
         "language": "Python",
         "name": "masoncl/review-prompts",
-        "stars": "337",
+        "stars": "343",
         "url": "https://github.com/masoncl/review-prompts"
     },
     {
         "description": "Skills Catalog for Codex",
         "language": "Python",
         "name": "openai/skills",
-        "stars": "3002",
+        "stars": "3011",
         "url": "https://github.com/openai/skills"
     },
     {
         "description": "Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.",
         "language": "Shell",
         "name": "automazeio/ccpm",
-        "stars": "6699",
+        "stars": "6706",
         "url": "https://github.com/automazeio/ccpm"
     },
     {
         "description": "An agentic skills framework & software development methodology that works.",
         "language": "Shell",
         "name": "obra/superpowers",
-        "stars": "43493",
+        "stars": "43510",
         "url": "https://github.com/obra/superpowers"
     },
     {
         "description": "An autonomous agent for deep financial research",
         "language": "TypeScript",
         "name": "virattt/dexter",
-        "stars": "10073",
+        "stars": "10079",
         "url": "https://github.com/virattt/dexter"
     },
     {
         "description": "The best ChatGPT that $100 can buy.",
         "language": "Python",
         "name": "karpathy/nanochat",
-        "stars": "42013",
+        "stars": "42017",
         "url": "https://github.com/karpathy/nanochat"
     },
     {
         "description": "The official source code repository for the calibre ebook manager",
         "language": "Python",
         "name": "kovidgoyal/calibre",
-        "stars": "23925",
+        "stars": "23927",
         "url": "https://github.com/kovidgoyal/calibre"
     },
     {
         "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
         "language": "Python",
         "name": "OpenBMB/ChatDev",
-        "stars": "29771",
+        "stars": "29777",
         "url": "https://github.com/OpenBMB/ChatDev"
     },
     {
         "description": "Agent Orchestration Command Center",
         "language": "TypeScript",
         "name": "pedramamini/Maestro",
-        "stars": "1494",
+        "stars": "1497",
         "url": "https://github.com/pedramamini/Maestro"
     },
     {
         "description": "the easiest way to run natural language-described workflows automatically",
         "language": "TypeScript",
         "name": "vm0-ai/vm0",
-        "stars": "693",
+        "stars": "698",
         "url": "https://github.com/vm0-ai/vm0"
     }
 ]

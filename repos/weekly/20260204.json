@@ -3,28 +3,28 @@
         "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \ud83e\udd9e",
         "language": "TypeScript",
         "name": "openclaw/openclaw",
-        "stars": "157674",
+        "stars": "157767",
         "url": "https://github.com/openclaw/openclaw"
     },
     {
         "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
         "language": "JavaScript",
         "name": "asgeirtj/system_prompts_leaks",
-        "stars": "29903",
+        "stars": "29908",
         "url": "https://github.com/asgeirtj/system_prompts_leaks"
     },
     {
         "description": "Kimi Code CLI is your next CLI agent.",
         "language": "Python",
         "name": "MoonshotAI/kimi-cli",
-        "stars": "5869",
+        "stars": "5870",
         "url": "https://github.com/MoonshotAI/kimi-cli"
     },
     {
         "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
         "language": "TypeScript",
         "name": "badlogic/pi-mono",
-        "stars": "6203",
+        "stars": "6212",
         "url": "https://github.com/badlogic/pi-mono"
     },
     {
@@ -38,28 +38,28 @@
         "description": "Neovim AI agent done right",
         "language": "Lua",
         "name": "ThePrimeagen/99",
-        "stars": "3170",
+        "stars": "3171",
         "url": "https://github.com/ThePrimeagen/99"
     },
     {
         "description": "Official inference framework for 1-bit LLMs",
         "language": "Python",
         "name": "microsoft/BitNet",
-        "stars": "27718",
+        "stars": "27721",
         "url": "https://github.com/microsoft/BitNet"
     },
     {
         "description": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).",
         "language": "Python",
         "name": "NevaMind-AI/memU",
-        "stars": "7341",
+        "stars": "7347",
         "url": "https://github.com/NevaMind-AI/memU"
     },
     {
         "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
         "language": "Python",
         "name": "VectifyAI/PageIndex",
-        "stars": "12928",
+        "stars": "12931",
         "url": "https://github.com/VectifyAI/PageIndex"
     },
     {
@@ -73,14 +73,14 @@
         "description": "The absolute trainer to light up AI agents.",
         "language": "Python",
         "name": "microsoft/agent-lightning",
-        "stars": "13707",
+        "stars": "13710",
         "url": "https://github.com/microsoft/agent-lightning"
     },
     {
         "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
         "language": "TypeScript",
         "name": "thedotmack/claude-mem",
-        "stars": "20236",
+        "stars": "20279",
         "url": "https://github.com/thedotmack/claude-mem"
     }
 ]
