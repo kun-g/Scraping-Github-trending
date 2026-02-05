@@ -3,21 +3,21 @@
         "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \ud83e\udd9e",
         "language": "TypeScript",
         "name": "openclaw/openclaw",
-        "stars": "163152",
+        "stars": "163246",
         "url": "https://github.com/openclaw/openclaw"
     },
     {
         "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
         "language": "JavaScript",
         "name": "asgeirtj/system_prompts_leaks",
-        "stars": "30103",
+        "stars": "30111",
         "url": "https://github.com/asgeirtj/system_prompts_leaks"
     },
     {
         "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
         "language": "TypeScript",
         "name": "badlogic/pi-mono",
-        "stars": "6676",
+        "stars": "6684",
         "url": "https://github.com/badlogic/pi-mono"
     },
     {
@@ -38,14 +38,14 @@
         "description": "Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers",
         "language": "TypeScript",
         "name": "modelcontextprotocol/ext-apps",
-        "stars": "1335",
+        "stars": "1336",
         "url": "https://github.com/modelcontextprotocol/ext-apps"
     },
     {
         "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
         "language": "TypeScript",
         "name": "thedotmack/claude-mem",
-        "stars": "22478",
+        "stars": "22514",
         "url": "https://github.com/thedotmack/claude-mem"
     },
     {
@@ -59,35 +59,35 @@
         "description": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).",
         "language": "Python",
         "name": "NevaMind-AI/memU",
-        "stars": "7629",
+        "stars": "7638",
         "url": "https://github.com/NevaMind-AI/memU"
     },
     {
         "description": "The absolute trainer to light up AI agents.",
         "language": "Python",
         "name": "microsoft/agent-lightning",
-        "stars": "13963",
+        "stars": "13967",
         "url": "https://github.com/microsoft/agent-lightning"
     },
     {
         "description": "Agent Orchestration Command Center",
         "language": "TypeScript",
         "name": "pedramamini/Maestro",
-        "stars": "1652",
+        "stars": "1657",
         "url": "https://github.com/pedramamini/Maestro"
     },
     {
         "description": "Skills Catalog for Codex",
         "language": "Python",
         "name": "openai/skills",
-        "stars": "3661",
+        "stars": "3674",
         "url": "https://github.com/openai/skills"
     },
     {
         "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
         "language": "Python",
         "name": "VectifyAI/PageIndex",
-        "stars": "13241",
+        "stars": "13249",
         "url": "https://github.com/VectifyAI/PageIndex"
     }
 ]
