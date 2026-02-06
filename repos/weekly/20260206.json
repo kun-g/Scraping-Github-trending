@@ -1,0 +1,107 @@
+[
+    {
+        "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \ud83e\udd9e",
+        "language": "TypeScript",
+        "name": "openclaw/openclaw",
+        "stars": "167628",
+        "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+        "language": "TypeScript",
+        "name": "thedotmack/claude-mem",
+        "stars": "23694",
+        "url": "https://github.com/thedotmack/claude-mem"
+    },
+    {
+        "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
+        "language": "JavaScript",
+        "name": "asgeirtj/system_prompts_leaks",
+        "stars": "30285",
+        "url": "https://github.com/asgeirtj/system_prompts_leaks"
+    },
+    {
+        "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+        "language": "TypeScript",
+        "name": "badlogic/pi-mono",
+        "stars": "7178",
+        "url": "https://github.com/badlogic/pi-mono"
+    },
+    {
+        "description": "Neovim AI agent done right",
+        "language": "Lua",
+        "name": "ThePrimeagen/99",
+        "stars": "3362",
+        "url": "https://github.com/ThePrimeagen/99"
+    },
+    {
+        "description": "Official inference framework for 1-bit LLMs",
+        "language": "Python",
+        "name": "microsoft/BitNet",
+        "stars": "27921",
+        "url": "https://github.com/microsoft/BitNet"
+    },
+    {
+        "description": "Kimi Code CLI is your next CLI agent.",
+        "language": "Python",
+        "name": "MoonshotAI/kimi-cli",
+        "stars": "6051",
+        "url": "https://github.com/MoonshotAI/kimi-cli"
+    },
+    {
+        "description": "Skills Catalog for Codex",
+        "language": "Python",
+        "name": "openai/skills",
+        "stars": "4262",
+        "url": "https://github.com/openai/skills"
+    },
+    {
+        "description": "CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.",
+        "language": "JavaScript",
+        "name": "microsoft/playwright-cli",
+        "stars": "2270",
+        "url": "https://github.com/microsoft/playwright-cli"
+    },
+    {
+        "description": "Agent Orchestration Command Center",
+        "language": "TypeScript",
+        "name": "pedramamini/Maestro",
+        "stars": "1819",
+        "url": "https://github.com/pedramamini/Maestro"
+    },
+    {
+        "description": "The absolute trainer to light up AI agents.",
+        "language": "Python",
+        "name": "microsoft/agent-lightning",
+        "stars": "14106",
+        "url": "https://github.com/microsoft/agent-lightning"
+    },
+    {
+        "description": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).",
+        "language": "Python",
+        "name": "NevaMind-AI/memU",
+        "stars": "7857",
+        "url": "https://github.com/NevaMind-AI/memU"
+    },
+    {
+        "description": "Master Claude Code Hooks",
+        "language": "Python",
+        "name": "disler/claude-code-hooks-mastery",
+        "stars": "2554",
+        "url": "https://github.com/disler/claude-code-hooks-mastery"
+    },
+    {
+        "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+        "language": "Python",
+        "name": "VectifyAI/PageIndex",
+        "stars": "13589",
+        "url": "https://github.com/VectifyAI/PageIndex"
+    },
+    {
+        "description": "Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers",
+        "language": "TypeScript",
+        "name": "modelcontextprotocol/ext-apps",
+        "stars": "1375",
+        "url": "https://github.com/modelcontextprotocol/ext-apps"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+        "language": "TypeScript",
+        "name": "bytedance/UI-TARS-desktop",
+        "stars": "26689",
+        "url": "https://github.com/bytedance/UI-TARS-desktop"
+    },
+    {
+        "description": "Skills Catalog for Codex",
+        "language": "Python",
+        "name": "openai/skills",
+        "stars": "4262",
+        "url": "https://github.com/openai/skills"
+    },
+    {
+        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+        "language": "TypeScript",
+        "name": "thedotmack/claude-mem",
+        "stars": "23694",
+        "url": "https://github.com/thedotmack/claude-mem"
+    },
+    {
+        "description": "\u26a1 Better `pre-commit`, re-engineered in Rust",
+        "language": "Rust",
+        "name": "j178/prek",
+        "stars": "5508",
+        "url": "https://github.com/j178/prek"
+    },
+    {
+        "description": "Memory for AI Agents in 6 lines of code",
+        "language": "Python",
+        "name": "topoteretes/cognee",
+        "stars": "11827",
+        "url": "https://github.com/topoteretes/cognee"
+    },
+    {
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "name": "obra/superpowers",
+        "stars": "45340",
+        "url": "https://github.com/obra/superpowers"
+    },
+    {
+        "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+        "language": "Go",
+        "name": "aquasecurity/trivy",
+        "stars": "31361",
+        "url": "https://github.com/aquasecurity/trivy"
+    },
+    {
+        "description": "The user-friendly command line shell.",
+        "language": "Rust",
+        "name": "fish-shell/fish-shell",
+        "stars": "32377",
+        "url": "https://github.com/fish-shell/fish-shell"
+    },
+    {
+        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+        "language": "Shell",
+        "name": "nvm-sh/nvm",
+        "stars": "91370",
+        "url": "https://github.com/nvm-sh/nvm"
+    },
+    {
+        "description": "\u4e00\u6b3e\u63d0\u793a\u8bcd\u4f18\u5316\u5668\uff0c\u52a9\u529b\u4e8e\u7f16\u5199\u9ad8\u8d28\u91cf\u7684\u63d0\u793a\u8bcd",
+        "language": "TypeScript",
+        "name": "linshenkx/prompt-optimizer",
+        "stars": "19336",
+        "url": "https://github.com/linshenkx/prompt-optimizer"
+    },
+    {
+        "description": "Simple Rust VPN Client / Server",
+        "language": "Rust",
+        "name": "ZeroTworu/anet",
+        "stars": "354",
+        "url": "https://github.com/ZeroTworu/anet"
+    }
+]
