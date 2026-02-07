@@ -1,0 +1,93 @@
+[
+    {
+        "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \ud83e\udd9e",
+        "language": "TypeScript",
+        "name": "openclaw/openclaw",
+        "stars": "171273",
+        "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+        "language": "TypeScript",
+        "name": "thedotmack/claude-mem",
+        "stars": "24305",
+        "url": "https://github.com/thedotmack/claude-mem"
+    },
+    {
+        "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+        "language": "TypeScript",
+        "name": "badlogic/pi-mono",
+        "stars": "7673",
+        "url": "https://github.com/badlogic/pi-mono"
+    },
+    {
+        "description": "Neovim AI agent done right",
+        "language": "Lua",
+        "name": "ThePrimeagen/99",
+        "stars": "3425",
+        "url": "https://github.com/ThePrimeagen/99"
+    },
+    {
+        "description": "Skills Catalog for Codex",
+        "language": "Python",
+        "name": "openai/skills",
+        "stars": "4854",
+        "url": "https://github.com/openai/skills"
+    },
+    {
+        "description": "Master Claude Code Hooks",
+        "language": "Python",
+        "name": "disler/claude-code-hooks-mastery",
+        "stars": "2614",
+        "url": "https://github.com/disler/claude-code-hooks-mastery"
+    },
+    {
+        "description": "Agent Orchestration Command Center",
+        "language": "TypeScript",
+        "name": "pedramamini/Maestro",
+        "stars": "1897",
+        "url": "https://github.com/pedramamini/Maestro"
+    },
+    {
+        "description": "Kimi Code CLI is your next CLI agent.",
+        "language": "Python",
+        "name": "MoonshotAI/kimi-cli",
+        "stars": "6119",
+        "url": "https://github.com/MoonshotAI/kimi-cli"
+    },
+    {
+        "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+        "language": "Python",
+        "name": "VectifyAI/PageIndex",
+        "stars": "13844",
+        "url": "https://github.com/VectifyAI/PageIndex"
+    },
+    {
+        "description": "Official inference framework for 1-bit LLMs",
+        "language": "Python",
+        "name": "microsoft/BitNet",
+        "stars": "27965",
+        "url": "https://github.com/microsoft/BitNet"
+    },
+    {
+        "description": "The absolute trainer to light up AI agents.",
+        "language": "Python",
+        "name": "microsoft/agent-lightning",
+        "stars": "14182",
+        "url": "https://github.com/microsoft/agent-lightning"
+    },
+    {
+        "description": "The best ChatGPT that $100 can buy.",
+        "language": "Python",
+        "name": "karpathy/nanochat",
+        "stars": "42413",
+        "url": "https://github.com/karpathy/nanochat"
+    },
+    {
+        "description": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).",
+        "language": "Python",
+        "name": "NevaMind-AI/memU",
+        "stars": "8118",
+        "url": "https://github.com/NevaMind-AI/memU"
+    }
+]
