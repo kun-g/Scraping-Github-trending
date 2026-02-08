@@ -1,0 +1,86 @@
+[
+    {
+        "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \ud83e\udd9e",
+        "language": "TypeScript",
+        "name": "openclaw/openclaw",
+        "stars": "173974",
+        "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+        "language": "TypeScript",
+        "name": "thedotmack/claude-mem",
+        "stars": "24673",
+        "url": "https://github.com/thedotmack/claude-mem"
+    },
+    {
+        "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
+        "language": "TypeScript",
+        "name": "KeygraphHQ/shannon",
+        "stars": "9946",
+        "url": "https://github.com/KeygraphHQ/shannon"
+    },
+    {
+        "description": "Skills Catalog for Codex",
+        "language": "Python",
+        "name": "openai/skills",
+        "stars": "5989",
+        "url": "https://github.com/openai/skills"
+    },
+    {
+        "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+        "language": "TypeScript",
+        "name": "badlogic/pi-mono",
+        "stars": "7908",
+        "url": "https://github.com/badlogic/pi-mono"
+    },
+    {
+        "description": "Neovim AI agent done right",
+        "language": "Lua",
+        "name": "ThePrimeagen/99",
+        "stars": "3469",
+        "url": "https://github.com/ThePrimeagen/99"
+    },
+    {
+        "description": "Master Claude Code Hooks",
+        "language": "Python",
+        "name": "disler/claude-code-hooks-mastery",
+        "stars": "2661",
+        "url": "https://github.com/disler/claude-code-hooks-mastery"
+    },
+    {
+        "description": "Agent Orchestration Command Center",
+        "language": "TypeScript",
+        "name": "pedramamini/Maestro",
+        "stars": "1952",
+        "url": "https://github.com/pedramamini/Maestro"
+    },
+    {
+        "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+        "language": "Python",
+        "name": "VectifyAI/PageIndex",
+        "stars": "14020",
+        "url": "https://github.com/VectifyAI/PageIndex"
+    },
+    {
+        "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
+        "language": "Python",
+        "name": "OpenBMB/ChatDev",
+        "stars": "30481",
+        "url": "https://github.com/OpenBMB/ChatDev"
+    },
+    {
+        "description": "The best ChatGPT that $100 can buy.",
+        "language": "Python",
+        "name": "karpathy/nanochat",
+        "stars": "42506",
+        "url": "https://github.com/karpathy/nanochat"
+    },
+    {
+        "description": "\u26a1 Better `pre-commit`, re-engineered in Rust",
+        "language": "Rust",
+        "name": "j178/prek",
+        "stars": "5805",
+        "url": "https://github.com/j178/prek"
+    }
+]

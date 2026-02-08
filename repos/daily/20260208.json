@@ -1,0 +1,86 @@
+[
+    {
+        "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
+        "language": "TypeScript",
+        "name": "KeygraphHQ/shannon",
+        "stars": "9946",
+        "url": "https://github.com/KeygraphHQ/shannon"
+    },
+    {
+        "description": "Skills Catalog for Codex",
+        "language": "Python",
+        "name": "openai/skills",
+        "stars": "5989",
+        "url": "https://github.com/openai/skills"
+    },
+    {
+        "description": "A security-focused library OS supporting kernel- and user-mode execution",
+        "language": "Rust",
+        "name": "microsoft/litebox",
+        "stars": "1129",
+        "url": "https://github.com/microsoft/litebox"
+    },
+    {
+        "description": "Fully automatic censorship removal for language models",
+        "language": "Python",
+        "name": "p-e-w/heretic",
+        "stars": "4733",
+        "url": "https://github.com/p-e-w/heretic"
+    },
+    {
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "name": "obra/superpowers",
+        "stars": "46954",
+        "url": "https://github.com/obra/superpowers"
+    },
+    {
+        "description": "A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone",
+        "language": "Python",
+        "name": "OpenBMB/MiniCPM-o",
+        "stars": "23156",
+        "url": "https://github.com/OpenBMB/MiniCPM-o"
+    },
+    {
+        "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+        "language": "Go",
+        "name": "aquasecurity/trivy",
+        "stars": "31685",
+        "url": "https://github.com/aquasecurity/trivy"
+    },
+    {
+        "description": "An open-source, cross-platform terminal for seamless workflows",
+        "language": "Go",
+        "name": "wavetermdev/waveterm",
+        "stars": "17140",
+        "url": "https://github.com/wavetermdev/waveterm"
+    },
+    {
+        "description": "\ud83d\udcf1 Display and control your Android device graphically with scrcpy.",
+        "language": "JavaScript",
+        "name": "viarotel-org/escrcpy",
+        "stars": "7834",
+        "url": "https://github.com/viarotel-org/escrcpy"
+    },
+    {
+        "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+        "language": "Python",
+        "name": "ComposioHQ/awesome-claude-skills",
+        "stars": "31990",
+        "url": "https://github.com/ComposioHQ/awesome-claude-skills"
+    },
+    {
+        "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+        "language": "TypeScript",
+        "name": "likec4/likec4",
+        "stars": "2067",
+        "url": "https://github.com/likec4/likec4"
+    },
+    {
+        "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+        "language": "Rust",
+        "name": "gitbutlerapp/gitbutler",
+        "stars": "17980",
+        "url": "https://github.com/gitbutlerapp/gitbutler"
+    }
+]
