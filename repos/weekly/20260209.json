@@ -3,98 +3,98 @@
         "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
         "language": "TypeScript",
         "name": "KeygraphHQ/shannon",
-        "stars": "13159",
+        "stars": "13240",
         "url": "https://github.com/KeygraphHQ/shannon"
     },
     {
         "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \ud83e\udd9e",
         "language": "TypeScript",
         "name": "openclaw/openclaw",
-        "stars": "176472",
+        "stars": "176531",
         "url": "https://github.com/openclaw/openclaw"
     },
     {
         "description": "Skills Catalog for Codex",
         "language": "Python",
         "name": "openai/skills",
-        "stars": "6963",
+        "stars": "6979",
         "url": "https://github.com/openai/skills"
     },
     {
         "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
         "language": "TypeScript",
         "name": "thedotmack/claude-mem",
-        "stars": "25490",
+        "stars": "25513",
         "url": "https://github.com/thedotmack/claude-mem"
     },
     {
         "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
         "language": "TypeScript",
         "name": "badlogic/pi-mono",
-        "stars": "8162",
+        "stars": "8167",
         "url": "https://github.com/badlogic/pi-mono"
     },
     {
         "description": "Master Claude Code Hooks",
         "language": "Python",
         "name": "disler/claude-code-hooks-mastery",
-        "stars": "2727",
+        "stars": "2728",
         "url": "https://github.com/disler/claude-code-hooks-mastery"
     },
     {
         "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
         "language": "TypeScript",
         "name": "tobi/qmd",
-        "stars": "7306",
+        "stars": "7312",
         "url": "https://github.com/tobi/qmd"
     },
     {
         "description": "Neovim AI agent done right",
         "language": "Lua",
         "name": "ThePrimeagen/99",
-        "stars": "3527",
+        "stars": "3528",
         "url": "https://github.com/ThePrimeagen/99"
     },
     {
         "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
         "language": "Python",
         "name": "OpenBMB/ChatDev",
-        "stars": "30579",
+        "stars": "30580",
         "url": "https://github.com/OpenBMB/ChatDev"
     },
     {
         "description": "Agent Orchestration Command Center",
         "language": "TypeScript",
         "name": "pedramamini/Maestro",
-        "stars": "2012",
+        "stars": "2013",
         "url": "https://github.com/pedramamini/Maestro"
     },
     {
         "description": "The best ChatGPT that $100 can buy.",
         "language": "Python",
         "name": "karpathy/nanochat",
-        "stars": "42615",
+        "stars": "42618",
         "url": "https://github.com/karpathy/nanochat"
     },
     {
         "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
         "language": "Python",
         "name": "VectifyAI/PageIndex",
-        "stars": "14235",
+        "stars": "14247",
         "url": "https://github.com/VectifyAI/PageIndex"
     },
     {
         "description": "CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.",
         "language": "JavaScript",
         "name": "microsoft/playwright-cli",
-        "stars": "2669",
+        "stars": "2671",
         "url": "https://github.com/microsoft/playwright-cli"
     },
     {
         "description": "\u26a1 Better `pre-commit`, re-engineered in Rust",
         "language": "Rust",
         "name": "j178/prek",
-        "stars": "5875",
+        "stars": "5877",
         "url": "https://github.com/j178/prek"
     }
 ]
