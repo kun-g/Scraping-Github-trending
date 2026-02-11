@@ -3,77 +3,77 @@
         "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
         "language": "TypeScript",
         "name": "KeygraphHQ/shannon",
-        "stars": "19727",
+        "stars": "19752",
         "url": "https://github.com/KeygraphHQ/shannon"
     },
     {
         "description": "Skills Catalog for Codex",
         "language": "Python",
         "name": "openai/skills",
-        "stars": "7825",
+        "stars": "7830",
         "url": "https://github.com/openai/skills"
     },
     {
         "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
         "language": "TypeScript",
         "name": "thedotmack/claude-mem",
-        "stars": "26857",
+        "stars": "26868",
         "url": "https://github.com/thedotmack/claude-mem"
     },
     {
         "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
         "language": "TypeScript",
         "name": "badlogic/pi-mono",
-        "stars": "10111",
+        "stars": "10122",
         "url": "https://github.com/badlogic/pi-mono"
     },
     {
         "description": "An autonomous agent for deep financial research",
         "language": "TypeScript",
         "name": "virattt/dexter",
-        "stars": "14138",
+        "stars": "14145",
         "url": "https://github.com/virattt/dexter"
     },
     {
         "description": "Master Claude Code Hooks",
         "language": "Python",
         "name": "disler/claude-code-hooks-mastery",
-        "stars": "2886",
+        "stars": "2890",
         "url": "https://github.com/disler/claude-code-hooks-mastery"
     },
     {
         "description": "GitHub Agentic Workflows",
         "language": "Go",
         "name": "github/gh-aw",
-        "stars": "1330",
+        "stars": "1340",
         "url": "https://github.com/github/gh-aw"
     },
     {
         "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
         "language": "TypeScript",
         "name": "tobi/qmd",
-        "stars": "7800",
+        "stars": "7802",
         "url": "https://github.com/tobi/qmd"
     },
     {
         "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
         "language": "Python",
         "name": "OpenBMB/ChatDev",
-        "stars": "30774",
+        "stars": "30776",
         "url": "https://github.com/OpenBMB/ChatDev"
     },
     {
         "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
         "language": "TypeScript",
         "name": "bytedance/UI-TARS-desktop",
-        "stars": "27675",
+        "stars": "27678",
         "url": "https://github.com/bytedance/UI-TARS-desktop"
     },
     {
         "description": "Pioneering Automated GUI Interaction with Native Agents",
         "language": "Python",
         "name": "bytedance/UI-TARS",
-        "stars": "9485",
+        "stars": "9486",
         "url": "https://github.com/bytedance/UI-TARS"
     },
     {
@@ -87,7 +87,7 @@
         "description": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. \ud83d\udd17https://aka.ms/RD-Agent-Tech-Report",
         "language": "Python",
         "name": "microsoft/RD-Agent",
-        "stars": "10980",
+        "stars": "10981",
         "url": "https://github.com/microsoft/RD-Agent"
     },
     {
@@ -101,7 +101,7 @@
         "description": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).",
         "language": "Python",
         "name": "NevaMind-AI/memU",
-        "stars": "8828",
+        "stars": "8831",
         "url": "https://github.com/NevaMind-AI/memU"
     }
 ]
