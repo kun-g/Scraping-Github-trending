@@ -3,77 +3,77 @@
         "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
         "language": "TypeScript",
         "name": "KeygraphHQ/shannon",
-        "stars": "20641",
+        "stars": "20654",
         "url": "https://github.com/KeygraphHQ/shannon"
     },
     {
         "description": "Skills Catalog for Codex",
         "language": "Python",
         "name": "openai/skills",
-        "stars": "8026",
+        "stars": "8027",
         "url": "https://github.com/openai/skills"
     },
     {
         "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
         "language": "TypeScript",
         "name": "thedotmack/claude-mem",
-        "stars": "27260",
+        "stars": "27265",
         "url": "https://github.com/thedotmack/claude-mem"
     },
     {
         "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
         "language": "TypeScript",
         "name": "badlogic/pi-mono",
-        "stars": "10801",
+        "stars": "10811",
         "url": "https://github.com/badlogic/pi-mono"
     },
     {
         "description": "GitHub Agentic Workflows",
         "language": "Go",
         "name": "github/gh-aw",
-        "stars": "1713",
+        "stars": "1721",
         "url": "https://github.com/github/gh-aw"
     },
     {
         "description": "An autonomous agent for deep financial research",
         "language": "TypeScript",
         "name": "virattt/dexter",
-        "stars": "14579",
+        "stars": "14584",
         "url": "https://github.com/virattt/dexter"
     },
     {
         "description": "Master Claude Code Hooks",
         "language": "Python",
         "name": "disler/claude-code-hooks-mastery",
-        "stars": "2949",
+        "stars": "2950",
         "url": "https://github.com/disler/claude-code-hooks-mastery"
     },
     {
         "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
         "language": "Python",
         "name": "Jeffallan/claude-skills",
-        "stars": "1235",
+        "stars": "1239",
         "url": "https://github.com/Jeffallan/claude-skills"
     },
     {
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "language": "Python",
         "name": "google/langextract",
-        "stars": "30450",
+        "stars": "30472",
         "url": "https://github.com/google/langextract"
     },
     {
         "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
         "language": "TypeScript",
         "name": "tobi/qmd",
-        "stars": "7983",
+        "stars": "7984",
         "url": "https://github.com/tobi/qmd"
     },
     {
         "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
         "language": "TypeScript",
         "name": "bytedance/UI-TARS-desktop",
-        "stars": "27783",
+        "stars": "27785",
         "url": "https://github.com/bytedance/UI-TARS-desktop"
     },
     {
@@ -87,14 +87,14 @@
         "description": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. \ud83d\udd17https://aka.ms/RD-Agent-Tech-Report",
         "language": "Python",
         "name": "microsoft/RD-Agent",
-        "stars": "11038",
+        "stars": "11039",
         "url": "https://github.com/microsoft/RD-Agent"
     },
     {
         "description": "\u57fa\u4e8e\u591a\u667a\u80fd\u4f53LLM\u7684\u4e2d\u6587\u91d1\u878d\u4ea4\u6613\u6846\u67b6 - TradingAgents\u4e2d\u6587\u589e\u5f3a\u7248",
         "language": "Python",
         "name": "hsliuping/TradingAgents-CN",
-        "stars": "16958",
+        "stars": "16959",
         "url": "https://github.com/hsliuping/TradingAgents-CN"
     }
 ]
