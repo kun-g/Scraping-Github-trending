@@ -1,0 +1,107 @@
+[
+    {
+        "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
+        "language": "TypeScript",
+        "name": "KeygraphHQ/shannon",
+        "stars": "22441",
+        "url": "https://github.com/KeygraphHQ/shannon"
+    },
+    {
+        "description": "GitHub Agentic Workflows",
+        "language": "Go",
+        "name": "github/gh-aw",
+        "stars": "2705",
+        "url": "https://github.com/github/gh-aw"
+    },
+    {
+        "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+        "language": "Python",
+        "name": "google/langextract",
+        "stars": "32529",
+        "url": "https://github.com/google/langextract"
+    },
+    {
+        "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
+        "language": "Python",
+        "name": "Jeffallan/claude-skills",
+        "stars": "2693",
+        "url": "https://github.com/Jeffallan/claude-skills"
+    },
+    {
+        "description": "A minimal, secure Python interpreter written in Rust for use by AI",
+        "language": "Rust",
+        "name": "pydantic/monty",
+        "stars": "5323",
+        "url": "https://github.com/pydantic/monty"
+    },
+    {
+        "description": "An autonomous agent for deep financial research",
+        "language": "TypeScript",
+        "name": "virattt/dexter",
+        "stars": "15357",
+        "url": "https://github.com/virattt/dexter"
+    },
+    {
+        "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+        "language": "Rust",
+        "name": "gitbutlerapp/gitbutler",
+        "stars": "19337",
+        "url": "https://github.com/gitbutlerapp/gitbutler"
+    },
+    {
+        "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+        "language": "TypeScript",
+        "name": "badlogic/pi-mono",
+        "stars": "12389",
+        "url": "https://github.com/badlogic/pi-mono"
+    },
+    {
+        "description": "\u57fa\u4e8e\u591a\u667a\u80fd\u4f53LLM\u7684\u4e2d\u6587\u91d1\u878d\u4ea4\u6613\u6846\u67b6 - TradingAgents\u4e2d\u6587\u589e\u5f3a\u7248",
+        "language": "Python",
+        "name": "hsliuping/TradingAgents-CN",
+        "stars": "17325",
+        "url": "https://github.com/hsliuping/TradingAgents-CN"
+    },
+    {
+        "description": "Chrome DevTools for coding agents",
+        "language": "TypeScript",
+        "name": "ChromeDevTools/chrome-devtools-mcp",
+        "stars": "25416",
+        "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+    },
+    {
+        "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+        "language": "Python",
+        "name": "Shubhamsaboo/awesome-llm-apps",
+        "stars": "95300",
+        "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+    },
+    {
+        "description": "A security-focused library OS supporting kernel- and user-mode execution",
+        "language": "Rust",
+        "name": "microsoft/litebox",
+        "stars": "2153",
+        "url": "https://github.com/microsoft/litebox"
+    },
+    {
+        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+        "language": "TypeScript",
+        "name": "thedotmack/claude-mem",
+        "stars": "28424",
+        "url": "https://github.com/thedotmack/claude-mem"
+    },
+    {
+        "description": "Official Claude Code compound engineering plugin",
+        "language": "TypeScript",
+        "name": "EveryInc/compound-engineering-plugin",
+        "stars": "8929",
+        "url": "https://github.com/EveryInc/compound-engineering-plugin"
+    },
+    {
+        "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+        "language": "TypeScript",
+        "name": "danielmiessler/Personal_AI_Infrastructure",
+        "stars": "8433",
+        "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure"
+    }
+]
