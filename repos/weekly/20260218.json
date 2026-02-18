@@ -1,0 +1,86 @@
+[
+    {
+        "description": "GitHub Agentic Workflows",
+        "language": "Go",
+        "name": "github/gh-aw",
+        "stars": "3042",
+        "url": "https://github.com/github/gh-aw"
+    },
+    {
+        "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
+        "language": "Python",
+        "name": "Jeffallan/claude-skills",
+        "stars": "3013",
+        "url": "https://github.com/Jeffallan/claude-skills"
+    },
+    {
+        "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+        "language": "Python",
+        "name": "google/langextract",
+        "stars": "32875",
+        "url": "https://github.com/google/langextract"
+    },
+    {
+        "description": "Fully automatic censorship removal for language models",
+        "language": "Python",
+        "name": "p-e-w/heretic",
+        "stars": "7195",
+        "url": "https://github.com/p-e-w/heretic"
+    },
+    {
+        "description": "Chrome DevTools for coding agents",
+        "language": "TypeScript",
+        "name": "ChromeDevTools/chrome-devtools-mcp",
+        "stars": "25784",
+        "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+    },
+    {
+        "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+        "language": "TypeScript",
+        "name": "danielmiessler/Personal_AI_Infrastructure",
+        "stars": "8671",
+        "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure"
+    },
+    {
+        "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+        "language": "TypeScript",
+        "name": "badlogic/pi-mono",
+        "stars": "13165",
+        "url": "https://github.com/badlogic/pi-mono"
+    },
+    {
+        "description": "Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.",
+        "language": "TypeScript",
+        "name": "steipete/summarize",
+        "stars": "3434",
+        "url": "https://github.com/steipete/summarize"
+    },
+    {
+        "description": "Generative UI SDK for React",
+        "language": "TypeScript",
+        "name": "tambo-ai/tambo",
+        "stars": "10586",
+        "url": "https://github.com/tambo-ai/tambo"
+    },
+    {
+        "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
+        "language": "Go",
+        "name": "steipete/gogcli",
+        "stars": "3861",
+        "url": "https://github.com/steipete/gogcli"
+    },
+    {
+        "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
+        "language": "TypeScript",
+        "name": "KeygraphHQ/shannon",
+        "stars": "23210",
+        "url": "https://github.com/KeygraphHQ/shannon"
+    },
+    {
+        "description": "\u57fa\u4e8e\u591a\u667a\u80fd\u4f53LLM\u7684\u4e2d\u6587\u91d1\u878d\u4ea4\u6613\u6846\u67b6 - TradingAgents\u4e2d\u6587\u589e\u5f3a\u7248",
+        "language": "Python",
+        "name": "hsliuping/TradingAgents-CN",
+        "stars": "17409",
+        "url": "https://github.com/hsliuping/TradingAgents-CN"
+    }
+]
