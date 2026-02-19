@@ -1,0 +1,79 @@
+[
+    {
+        "description": "Fully automatic censorship removal for language models",
+        "language": "Python",
+        "name": "p-e-w/heretic",
+        "stars": "8021",
+        "url": "https://github.com/p-e-w/heretic"
+    },
+    {
+        "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
+        "language": "Python",
+        "name": "Jeffallan/claude-skills",
+        "stars": "3145",
+        "url": "https://github.com/Jeffallan/claude-skills"
+    },
+    {
+        "description": "GitHub Agentic Workflows",
+        "language": "Go",
+        "name": "github/gh-aw",
+        "stars": "3153",
+        "url": "https://github.com/github/gh-aw"
+    },
+    {
+        "description": "Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.",
+        "language": "TypeScript",
+        "name": "steipete/summarize",
+        "stars": "3671",
+        "url": "https://github.com/steipete/summarize"
+    },
+    {
+        "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+        "language": "TypeScript",
+        "name": "danielmiessler/Personal_AI_Infrastructure",
+        "stars": "8788",
+        "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure"
+    },
+    {
+        "description": "Chrome DevTools for coding agents",
+        "language": "TypeScript",
+        "name": "ChromeDevTools/chrome-devtools-mcp",
+        "stars": "25905",
+        "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+    },
+    {
+        "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
+        "language": "Go",
+        "name": "steipete/gogcli",
+        "stars": "4097",
+        "url": "https://github.com/steipete/gogcli"
+    },
+    {
+        "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+        "language": "Python",
+        "name": "google/langextract",
+        "stars": "33049",
+        "url": "https://github.com/google/langextract"
+    },
+    {
+        "description": "Generative UI SDK for React",
+        "language": "TypeScript",
+        "name": "tambo-ai/tambo",
+        "stars": "10702",
+        "url": "https://github.com/tambo-ai/tambo"
+    },
+    {
+        "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+        "language": "TypeScript",
+        "name": "badlogic/pi-mono",
+        "stars": "13501",
+        "url": "https://github.com/badlogic/pi-mono"
+    },
+    {
+        "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
+        "language": "Python",
+        "name": "ruvnet/wifi-densepose",
+        "stars": "7015",
+        "url": "https://github.com/ruvnet/wifi-densepose"
+    }
+]
