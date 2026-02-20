@@ -3,42 +3,42 @@
         "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \ud83e\udd9e",
         "language": "TypeScript",
         "name": "openclaw/openclaw",
-        "stars": "211861",
+        "stars": "211893",
         "url": "https://github.com/openclaw/openclaw"
     },
     {
         "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
         "language": "TypeScript",
         "name": "badlogic/pi-mono",
-        "stars": "13892",
+        "stars": "13902",
         "url": "https://github.com/badlogic/pi-mono"
     },
     {
         "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
         "language": "TypeScript",
         "name": "KeygraphHQ/shannon",
-        "stars": "23746",
+        "stars": "23752",
         "url": "https://github.com/KeygraphHQ/shannon"
     },
     {
         "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
         "language": "TypeScript",
         "name": "tobi/qmd",
-        "stars": "9491",
+        "stars": "9492",
         "url": "https://github.com/tobi/qmd"
     },
     {
         "description": "Skills Catalog for Codex",
         "language": "Python",
         "name": "openai/skills",
-        "stars": "9041",
+        "stars": "9043",
         "url": "https://github.com/openai/skills"
     },
     {
         "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
         "language": "Python",
         "name": "VectifyAI/PageIndex",
-        "stars": "15605",
+        "stars": "15606",
         "url": "https://github.com/VectifyAI/PageIndex"
     },
     {
@@ -52,42 +52,42 @@
         "description": "\ud83c\udfa5 Make videos programmatically with React",
         "language": "TypeScript",
         "name": "remotion-dev/remotion",
-        "stars": "37240",
+        "stars": "37242",
         "url": "https://github.com/remotion-dev/remotion"
     },
     {
         "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
         "language": "Go",
         "name": "steipete/gogcli",
-        "stars": "4224",
+        "stars": "4228",
         "url": "https://github.com/steipete/gogcli"
     },
     {
         "description": "An agentic skills framework & software development methodology that works.",
         "language": "Shell",
         "name": "obra/superpowers",
-        "stars": "55374",
+        "stars": "55386",
         "url": "https://github.com/obra/superpowers"
     },
     {
         "description": "Public repository for Agent Skills",
         "language": "Python",
         "name": "anthropics/skills",
-        "stars": "71963",
+        "stars": "71971",
         "url": "https://github.com/anthropics/skills"
     },
     {
         "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.",
         "language": "JavaScript",
         "name": "gsd-build/get-shit-done",
-        "stars": "16267",
+        "stars": "16275",
         "url": "https://github.com/gsd-build/get-shit-done"
     },
     {
         "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
         "language": "TypeScript",
         "name": "thedotmack/claude-mem",
-        "stars": "29333",
+        "stars": "29339",
         "url": "https://github.com/thedotmack/claude-mem"
     },
     {
@@ -101,14 +101,14 @@
         "description": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).",
         "language": "Python",
         "name": "NevaMind-AI/memU",
-        "stars": "9464",
+        "stars": "9463",
         "url": "https://github.com/NevaMind-AI/memU"
     },
     {
         "description": "Generative UI SDK for React",
         "language": "TypeScript",
         "name": "tambo-ai/tambo",
-        "stars": "10776",
+        "stars": "10778",
         "url": "https://github.com/tambo-ai/tambo"
     }
 ]
