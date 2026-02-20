@@ -1,0 +1,79 @@
+[
+    {
+        "description": "A lightweight, lightning-fast, in-process vector database",
+        "language": "C++",
+        "name": "alibaba/zvec",
+        "stars": "5191",
+        "url": "https://github.com/alibaba/zvec"
+    },
+    {
+        "description": "Open-source AI coworker, with memory",
+        "language": "TypeScript",
+        "name": "rowboatlabs/rowboat",
+        "stars": "7821",
+        "url": "https://github.com/rowboatlabs/rowboat"
+    },
+    {
+        "description": "Fully automatic censorship removal for language models",
+        "language": "Python",
+        "name": "p-e-w/heretic",
+        "stars": "8485",
+        "url": "https://github.com/p-e-w/heretic"
+    },
+    {
+        "description": "Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.",
+        "language": "TypeScript",
+        "name": "steipete/summarize",
+        "stars": "3766",
+        "url": "https://github.com/steipete/summarize"
+    },
+    {
+        "description": "GitHub Agentic Workflows",
+        "language": "Go",
+        "name": "github/gh-aw",
+        "stars": "3275",
+        "url": "https://github.com/github/gh-aw"
+    },
+    {
+        "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
+        "language": "Python",
+        "name": "Jeffallan/claude-skills",
+        "stars": "3278",
+        "url": "https://github.com/Jeffallan/claude-skills"
+    },
+    {
+        "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
+        "language": "Go",
+        "name": "steipete/gogcli",
+        "stars": "4224",
+        "url": "https://github.com/steipete/gogcli"
+    },
+    {
+        "description": "Chrome DevTools for coding agents",
+        "language": "TypeScript",
+        "name": "ChromeDevTools/chrome-devtools-mcp",
+        "stars": "26036",
+        "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+    },
+    {
+        "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+        "language": "TypeScript",
+        "name": "danielmiessler/Personal_AI_Infrastructure",
+        "stars": "8898",
+        "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure"
+    },
+    {
+        "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+        "language": "TypeScript",
+        "name": "badlogic/pi-mono",
+        "stars": "13892",
+        "url": "https://github.com/badlogic/pi-mono"
+    },
+    {
+        "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
+        "language": "Python",
+        "name": "ruvnet/wifi-densepose",
+        "stars": "7107",
+        "url": "https://github.com/ruvnet/wifi-densepose"
+    }
+]
