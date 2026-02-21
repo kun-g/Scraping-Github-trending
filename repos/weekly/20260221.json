@@ -1,0 +1,86 @@
+[
+    {
+        "description": "A lightweight, lightning-fast, in-process vector database",
+        "language": "C++",
+        "name": "alibaba/zvec",
+        "stars": "5308",
+        "url": "https://github.com/alibaba/zvec"
+    },
+    {
+        "description": "Open-source AI coworker, with memory",
+        "language": "TypeScript",
+        "name": "rowboatlabs/rowboat",
+        "stars": "7973",
+        "url": "https://github.com/rowboatlabs/rowboat"
+    },
+    {
+        "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
+        "language": "JavaScript",
+        "name": "SynkraAI/aios-core",
+        "stars": "1522",
+        "url": "https://github.com/SynkraAI/aios-core"
+    },
+    {
+        "description": "Fully automatic censorship removal for language models",
+        "language": "Python",
+        "name": "p-e-w/heretic",
+        "stars": "8763",
+        "url": "https://github.com/p-e-w/heretic"
+    },
+    {
+        "description": "Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.",
+        "language": "TypeScript",
+        "name": "steipete/summarize",
+        "stars": "3875",
+        "url": "https://github.com/steipete/summarize"
+    },
+    {
+        "description": "GitHub Agentic Workflows",
+        "language": "Go",
+        "name": "github/gh-aw",
+        "stars": "3340",
+        "url": "https://github.com/github/gh-aw"
+    },
+    {
+        "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
+        "language": "Go",
+        "name": "steipete/gogcli",
+        "stars": "4375",
+        "url": "https://github.com/steipete/gogcli"
+    },
+    {
+        "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
+        "language": "Python",
+        "name": "Jeffallan/claude-skills",
+        "stars": "3412",
+        "url": "https://github.com/Jeffallan/claude-skills"
+    },
+    {
+        "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
+        "language": "Python",
+        "name": "ruvnet/wifi-densepose",
+        "stars": "7190",
+        "url": "https://github.com/ruvnet/wifi-densepose"
+    },
+    {
+        "description": "Chrome DevTools for coding agents",
+        "language": "TypeScript",
+        "name": "ChromeDevTools/chrome-devtools-mcp",
+        "stars": "26176",
+        "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+    },
+    {
+        "description": "",
+        "language": "JavaScript",
+        "name": "yctimlin/mcp_excalidraw",
+        "stars": "1057",
+        "url": "https://github.com/yctimlin/mcp_excalidraw"
+    },
+    {
+        "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+        "language": "TypeScript",
+        "name": "badlogic/pi-mono",
+        "stars": "14213",
+        "url": "https://github.com/badlogic/pi-mono"
+    }
+]
