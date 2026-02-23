@@ -1,0 +1,65 @@
+[
+    {
+        "description": "A lightweight, lightning-fast, in-process vector database",
+        "language": "C++",
+        "name": "alibaba/zvec",
+        "stars": "6978",
+        "url": "https://github.com/alibaba/zvec"
+    },
+    {
+        "description": "Fully automatic censorship removal for language models",
+        "language": "Python",
+        "name": "p-e-w/heretic",
+        "stars": "9179",
+        "url": "https://github.com/p-e-w/heretic"
+    },
+    {
+        "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
+        "language": "JavaScript",
+        "name": "SynkraAI/aios-core",
+        "stars": "1665",
+        "url": "https://github.com/SynkraAI/aios-core"
+    },
+    {
+        "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
+        "language": "TypeScript",
+        "name": "seerr-team/seerr",
+        "stars": "9645",
+        "url": "https://github.com/seerr-team/seerr"
+    },
+    {
+        "description": "Open-source AI coworker, with memory",
+        "language": "TypeScript",
+        "name": "rowboatlabs/rowboat",
+        "stars": "8372",
+        "url": "https://github.com/rowboatlabs/rowboat"
+    },
+    {
+        "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+        "language": "Python",
+        "name": "google-research/timesfm",
+        "stars": "9429",
+        "url": "https://github.com/google-research/timesfm"
+    },
+    {
+        "description": "Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.",
+        "language": "TypeScript",
+        "name": "steipete/summarize",
+        "stars": "4122",
+        "url": "https://github.com/steipete/summarize"
+    },
+    {
+        "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
+        "language": "Go",
+        "name": "steipete/gogcli",
+        "stars": "4644",
+        "url": "https://github.com/steipete/gogcli"
+    },
+    {
+        "description": "GitHub Agentic Workflows",
+        "language": "Go",
+        "name": "github/gh-aw",
+        "stars": "3492",
+        "url": "https://github.com/github/gh-aw"
+    }
+]
