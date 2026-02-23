@@ -3,105 +3,105 @@
         "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \ud83e\udd9e",
         "language": "TypeScript",
         "name": "openclaw/openclaw",
-        "stars": "218608",
+        "stars": "218650",
         "url": "https://github.com/openclaw/openclaw"
     },
     {
         "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
         "language": "TypeScript",
         "name": "badlogic/pi-mono",
-        "stars": "14769",
+        "stars": "14776",
         "url": "https://github.com/badlogic/pi-mono"
     },
     {
         "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
         "language": "TypeScript",
         "name": "KeygraphHQ/shannon",
-        "stars": "24399",
+        "stars": "24407",
         "url": "https://github.com/KeygraphHQ/shannon"
     },
     {
         "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
         "language": "TypeScript",
         "name": "tobi/qmd",
-        "stars": "10032",
+        "stars": "10038",
         "url": "https://github.com/tobi/qmd"
     },
     {
         "description": "Skills Catalog for Codex",
         "language": "Python",
         "name": "openai/skills",
-        "stars": "9354",
+        "stars": "9357",
         "url": "https://github.com/openai/skills"
     },
     {
         "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
         "language": "HTML",
         "name": "asgeirtj/system_prompts_leaks",
-        "stars": "32596",
+        "stars": "32601",
         "url": "https://github.com/asgeirtj/system_prompts_leaks"
     },
     {
         "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
         "language": "Go",
         "name": "steipete/gogcli",
-        "stars": "4644",
+        "stars": "4650",
         "url": "https://github.com/steipete/gogcli"
     },
     {
         "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
         "language": "TypeScript",
         "name": "thedotmack/claude-mem",
-        "stars": "30210",
+        "stars": "30217",
         "url": "https://github.com/thedotmack/claude-mem"
     },
     {
         "description": "Neovim AI agent done right",
         "language": "Lua",
         "name": "ThePrimeagen/99",
-        "stars": "3999",
+        "stars": "4000",
         "url": "https://github.com/ThePrimeagen/99"
     },
     {
         "description": "Fully automatic censorship removal for language models",
         "language": "Python",
         "name": "p-e-w/heretic",
-        "stars": "9179",
+        "stars": "9184",
         "url": "https://github.com/p-e-w/heretic"
     },
     {
         "description": "An agentic skills framework & software development methodology that works.",
         "language": "Shell",
         "name": "obra/superpowers",
-        "stars": "58161",
+        "stars": "58185",
         "url": "https://github.com/obra/superpowers"
     },
     {
         "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
         "language": "Python",
         "name": "VectifyAI/PageIndex",
-        "stars": "16109",
+        "stars": "16122",
         "url": "https://github.com/VectifyAI/PageIndex"
     },
     {
         "description": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).",
         "language": "Python",
         "name": "NevaMind-AI/memU",
-        "stars": "9799",
+        "stars": "9801",
         "url": "https://github.com/NevaMind-AI/memU"
     },
     {
         "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.",
         "language": "JavaScript",
         "name": "gsd-build/get-shit-done",
-        "stars": "17746",
+        "stars": "17769",
         "url": "https://github.com/gsd-build/get-shit-done"
     },
     {
         "description": "Kimi Code CLI is your next CLI agent.",
         "language": "Python",
         "name": "MoonshotAI/kimi-cli",
-        "stars": "6628",
+        "stars": "6630",
         "url": "https://github.com/MoonshotAI/kimi-cli"
     },
     {
@@ -115,14 +115,14 @@
         "description": "Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.",
         "language": "TypeScript",
         "name": "steipete/summarize",
-        "stars": "4122",
+        "stars": "4127",
         "url": "https://github.com/steipete/summarize"
     },
     {
         "description": "Public repository for Agent Skills",
         "language": "Python",
         "name": "anthropics/skills",
-        "stars": "73380",
+        "stars": "73391",
         "url": "https://github.com/anthropics/skills"
     }
 ]
