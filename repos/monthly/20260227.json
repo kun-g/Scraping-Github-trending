@@ -3,49 +3,49 @@
         "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \ud83e\udd9e",
         "language": "TypeScript",
         "name": "openclaw/openclaw",
-        "stars": "232855",
+        "stars": "232941",
         "url": "https://github.com/openclaw/openclaw"
     },
     {
         "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
         "language": "TypeScript",
         "name": "badlogic/pi-mono",
-        "stars": "17130",
+        "stars": "17141",
         "url": "https://github.com/badlogic/pi-mono"
     },
     {
         "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
         "language": "TypeScript",
         "name": "KeygraphHQ/shannon",
-        "stars": "25346",
+        "stars": "25351",
         "url": "https://github.com/KeygraphHQ/shannon"
     },
     {
         "description": "Skills Catalog for Codex",
         "language": "Python",
         "name": "openai/skills",
-        "stars": "9921",
+        "stars": "9925",
         "url": "https://github.com/openai/skills"
     },
     {
         "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
         "language": "TypeScript",
         "name": "tobi/qmd",
-        "stars": "10710",
+        "stars": "10714",
         "url": "https://github.com/tobi/qmd"
     },
     {
         "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
         "language": "Go",
         "name": "steipete/gogcli",
-        "stars": "5048",
+        "stars": "5051",
         "url": "https://github.com/steipete/gogcli"
     },
     {
         "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
         "language": "TypeScript",
         "name": "thedotmack/claude-mem",
-        "stars": "31226",
+        "stars": "31228",
         "url": "https://github.com/thedotmack/claude-mem"
     },
     {
@@ -66,63 +66,63 @@
         "description": "An agentic skills framework & software development methodology that works.",
         "language": "Shell",
         "name": "obra/superpowers",
-        "stars": "63334",
+        "stars": "63361",
         "url": "https://github.com/obra/superpowers"
     },
     {
         "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.",
         "language": "JavaScript",
         "name": "gsd-build/get-shit-done",
-        "stars": "21003",
+        "stars": "21016",
         "url": "https://github.com/gsd-build/get-shit-done"
     },
     {
         "description": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).",
         "language": "Python",
         "name": "NevaMind-AI/memU",
-        "stars": "11071",
+        "stars": "11075",
         "url": "https://github.com/NevaMind-AI/memU"
     },
     {
         "description": "",
         "language": "Python",
         "name": "huggingface/skills",
-        "stars": "6967",
+        "stars": "6977",
         "url": "https://github.com/huggingface/skills"
     },
     {
         "description": "An autonomous agent for deep financial research",
         "language": "TypeScript",
         "name": "virattt/dexter",
-        "stars": "16580",
+        "stars": "16584",
         "url": "https://github.com/virattt/dexter"
     },
     {
         "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
         "language": "Python",
         "name": "VectifyAI/PageIndex",
-        "stars": "18375",
+        "stars": "18382",
         "url": "https://github.com/VectifyAI/PageIndex"
     },
     {
         "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "language": "Python",
         "name": "google/langextract",
-        "stars": "33833",
+        "stars": "33835",
         "url": "https://github.com/google/langextract"
     },
     {
         "description": "Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.",
         "language": "TypeScript",
         "name": "steipete/summarize",
-        "stars": "4492",
+        "stars": "4494",
         "url": "https://github.com/steipete/summarize"
     },
     {
         "description": "Kimi Code CLI is your next CLI agent.",
         "language": "Python",
         "name": "MoonshotAI/kimi-cli",
-        "stars": "6836",
+        "stars": "6837",
         "url": "https://github.com/MoonshotAI/kimi-cli"
     }
 ]
