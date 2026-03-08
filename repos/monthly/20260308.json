@@ -1,0 +1,121 @@
+[
+    {
+        "description": "\u03c0 RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.",
+        "language": "Rust",
+        "name": "ruvnet/RuView",
+        "stars": "29510",
+        "url": "https://github.com/ruvnet/RuView"
+    },
+    {
+        "description": "Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.",
+        "language": "TypeScript",
+        "name": "KeygraphHQ/shannon",
+        "stars": "32558",
+        "url": "https://github.com/KeygraphHQ/shannon"
+    },
+    {
+        "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
+        "language": "Python",
+        "name": "Jeffallan/claude-skills",
+        "stars": "5499",
+        "url": "https://github.com/Jeffallan/claude-skills"
+    },
+    {
+        "description": "\ud83d\udc96\ud83e\uddf8 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+        "language": "TypeScript",
+        "name": "moeru-ai/airi",
+        "stars": "30537",
+        "url": "https://github.com/moeru-ai/airi"
+    },
+    {
+        "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \ud83e\udd9e",
+        "language": "TypeScript",
+        "name": "openclaw/openclaw",
+        "stars": "275644",
+        "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+        "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+        "language": "TypeScript",
+        "name": "badlogic/pi-mono",
+        "stars": "20994",
+        "url": "https://github.com/badlogic/pi-mono"
+    },
+    {
+        "description": "",
+        "language": "Python",
+        "name": "huggingface/skills",
+        "stars": "8455",
+        "url": "https://github.com/huggingface/skills"
+    },
+    {
+        "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.",
+        "language": "Python",
+        "name": "bytedance/deer-flow",
+        "stars": "25580",
+        "url": "https://github.com/bytedance/deer-flow"
+    },
+    {
+        "description": "Fully automatic censorship removal for language models",
+        "language": "Python",
+        "name": "p-e-w/heretic",
+        "stars": "10753",
+        "url": "https://github.com/p-e-w/heretic"
+    },
+    {
+        "description": "A minimal, secure Python interpreter written in Rust for use by AI",
+        "language": "Rust",
+        "name": "pydantic/monty",
+        "stars": "6012",
+        "url": "https://github.com/pydantic/monty"
+    },
+    {
+        "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
+        "language": "Python",
+        "name": "volcengine/OpenViking",
+        "stars": "4956",
+        "url": "https://github.com/volcengine/OpenViking"
+    },
+    {
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "name": "obra/superpowers",
+        "stars": "73343",
+        "url": "https://github.com/obra/superpowers"
+    },
+    {
+        "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.",
+        "language": "Python",
+        "name": "alibaba/OpenSandbox",
+        "stars": "6730",
+        "url": "https://github.com/alibaba/OpenSandbox"
+    },
+    {
+        "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+        "language": "N/A",
+        "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+        "stars": "129304",
+        "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+    },
+    {
+        "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
+        "language": "TypeScript",
+        "name": "tobi/qmd",
+        "stars": "13231",
+        "url": "https://github.com/tobi/qmd"
+    },
+    {
+        "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
+        "language": "Go",
+        "name": "steipete/gogcli",
+        "stars": "5854",
+        "url": "https://github.com/steipete/gogcli"
+    },
+    {
+        "description": "IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
+        "language": "TypeScript",
+        "name": "superset-sh/superset",
+        "stars": "5565",
+        "url": "https://github.com/superset-sh/superset"
+    }
+]
