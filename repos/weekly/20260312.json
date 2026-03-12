@@ -3,36 +3,43 @@
         "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
         "language": "Shell",
         "name": "msitarzewski/agency-agents",
-        "stars": "30077",
+        "stars": "30227",
         "url": "https://github.com/msitarzewski/agency-agents"
     },
     {
         "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. \u7b80\u6d01\u901a\u7528\u7684\u7fa4\u4f53\u667a\u80fd\u5f15\u64ce\uff0c\u9884\u6d4b\u4e07\u7269",
         "language": "Python",
         "name": "666ghj/MiroFish",
-        "stars": "16791",
+        "stars": "16859",
         "url": "https://github.com/666ghj/MiroFish"
     },
     {
         "description": "\ud83d\udc96\ud83e\uddf8 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
         "language": "TypeScript",
         "name": "moeru-ai/airi",
-        "stars": "32647",
+        "stars": "32657",
         "url": "https://github.com/moeru-ai/airi"
     },
     {
         "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
         "language": "Jupyter Notebook",
         "name": "GoogleCloudPlatform/generative-ai",
-        "stars": "15991",
+        "stars": "15994",
         "url": "https://github.com/GoogleCloudPlatform/generative-ai"
     },
     {
         "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
         "language": "Python",
         "name": "TheCraigHewitt/seomachine",
-        "stars": "2536",
+        "stars": "2544",
         "url": "https://github.com/TheCraigHewitt/seomachine"
+    },
+    {
+        "description": "practice made claude perfect",
+        "language": "HTML",
+        "name": "shanraisshan/claude-code-best-practice",
+        "stars": "13318",
+        "url": "https://github.com/shanraisshan/claude-code-best-practice"
     },
     {
         "description": "Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.",
@@ -45,63 +52,63 @@
         "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features\u2014including capabilities the web UI doesn't expose\u2014via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
         "language": "Python",
         "name": "teng-lin/notebooklm-py",
-        "stars": "5044",
+        "stars": "5051",
         "url": "https://github.com/teng-lin/notebooklm-py"
     },
     {
         "description": "An AI Hedge Fund Team",
         "language": "Python",
         "name": "virattt/ai-hedge-fund",
-        "stars": "48153",
+        "stars": "48175",
         "url": "https://github.com/virattt/ai-hedge-fund"
     },
     {
         "description": "+180 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw \u2014 engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.",
         "language": "Python",
         "name": "alirezarezvani/claude-skills",
-        "stars": "4277",
+        "stars": "4281",
         "url": "https://github.com/alirezarezvani/claude-skills"
     },
     {
         "description": "The agent that grows with you",
         "language": "Python",
         "name": "NousResearch/hermes-agent",
-        "stars": "5248",
+        "stars": "5287",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
         "description": "\u5fae\u8206\uff1a\u4eba\u4eba\u53ef\u7528\u7684\u591aAgent\u8206\u60c5\u5206\u6790\u52a9\u624b\uff0c\u6253\u7834\u4fe1\u606f\u8327\u623f\uff0c\u8fd8\u539f\u8206\u60c5\u539f\u8c8c\uff0c\u9884\u6d4b\u672a\u6765\u8d70\u5411\uff0c\u8f85\u52a9\u51b3\u7b56\uff01\u4ece0\u5b9e\u73b0\uff0c\u4e0d\u4f9d\u8d56\u4efb\u4f55\u6846\u67b6\u3002",
         "language": "Python",
         "name": "666ghj/BettaFish",
-        "stars": "38136",
+        "stars": "38143",
         "url": "https://github.com/666ghj/BettaFish"
     },
     {
         "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.",
         "language": "Python",
         "name": "bytedance/deer-flow",
-        "stars": "29336",
+        "stars": "29355",
         "url": "https://github.com/bytedance/deer-flow"
     },
     {
         "description": "Vane is an AI-powered answering engine.",
         "language": "TypeScript",
         "name": "ItzCrazyKns/Vane",
-        "stars": "32755",
+        "stars": "32760",
         "url": "https://github.com/ItzCrazyKns/Vane"
     },
     {
         "description": "Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible.",
         "language": "Python",
         "name": "inclusionAI/AReaL",
-        "stars": "4692",
+        "stars": "4695",
         "url": "https://github.com/inclusionAI/AReaL"
     },
     {
         "description": "\u03c0 RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.",
         "language": "Rust",
         "name": "ruvnet/RuView",
-        "stars": "35070",
+        "stars": "35100",
         "url": "https://github.com/ruvnet/RuView"
     }
 ]
