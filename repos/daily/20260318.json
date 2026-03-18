@@ -3,42 +3,42 @@
         "description": "An agentic skills framework & software development methodology that works.",
         "language": "Shell",
         "name": "obra/superpowers",
-        "stars": "92307",
+        "stars": "92385",
         "url": "https://github.com/obra/superpowers"
     },
     {
         "description": "Master programming by recreating your favorite technologies from scratch.",
         "language": "Markdown",
         "name": "codecrafters-io/build-your-own-x",
-        "stars": "479764",
+        "stars": "479816",
         "url": "https://github.com/codecrafters-io/build-your-own-x"
     },
     {
         "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
         "language": "TypeScript",
         "name": "abhigyanpatwari/GitNexus",
-        "stars": "16709",
+        "stars": "16729",
         "url": "https://github.com/abhigyanpatwari/GitNexus"
     },
     {
         "description": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.",
         "language": "Python",
         "name": "langchain-ai/deepagents",
-        "stars": "14120",
+        "stars": "14151",
         "url": "https://github.com/langchain-ai/deepagents"
     },
     {
         "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
         "language": "JavaScript",
         "name": "jarrodwatts/claude-hud",
-        "stars": "5594",
+        "stars": "5625",
         "url": "https://github.com/jarrodwatts/claude-hud"
     },
     {
         "description": "The JavaScript / Wasm runtime that powers Cloudflare Workers",
         "language": "C++",
         "name": "cloudflare/workerd",
-        "stars": "7828",
+        "stars": "7832",
         "url": "https://github.com/cloudflare/workerd"
     }
 ]
