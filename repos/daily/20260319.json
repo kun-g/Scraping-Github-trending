@@ -1,0 +1,44 @@
+[
+    {
+        "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+        "language": "JavaScript",
+        "name": "jarrodwatts/claude-hud",
+        "stars": "6956",
+        "url": "https://github.com/jarrodwatts/claude-hud"
+    },
+    {
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "name": "obra/superpowers",
+        "stars": "96164",
+        "url": "https://github.com/obra/superpowers"
+    },
+    {
+        "description": "Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.",
+        "language": "Python",
+        "name": "unslothai/unsloth",
+        "stars": "55803",
+        "url": "https://github.com/unslothai/unsloth"
+    },
+    {
+        "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
+        "language": "Python",
+        "name": "newton-physics/newton",
+        "stars": "2911",
+        "url": "https://github.com/newton-physics/newton"
+    },
+    {
+        "description": "PlayStation 4 emulator for Windows, Linux and macOS written in C++",
+        "language": "C++",
+        "name": "shadps4-emu/shadPS4",
+        "stars": "29856",
+        "url": "https://github.com/shadps4-emu/shadPS4"
+    },
+    {
+        "description": "An Open-Source Asynchronous Coding Agent",
+        "language": "Python",
+        "name": "langchain-ai/open-swe",
+        "stars": "6333",
+        "url": "https://github.com/langchain-ai/open-swe"
+    }
+]
