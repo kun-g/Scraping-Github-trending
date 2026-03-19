@@ -3,112 +3,112 @@
         "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. \u7b80\u6d01\u901a\u7528\u7684\u7fa4\u4f53\u667a\u80fd\u5f15\u64ce\uff0c\u9884\u6d4b\u4e07\u7269",
         "language": "Python",
         "name": "666ghj/MiroFish",
-        "stars": "34354",
+        "stars": "34380",
         "url": "https://github.com/666ghj/MiroFish"
     },
     {
         "description": "Official inference framework for 1-bit LLMs",
         "language": "Python",
         "name": "microsoft/BitNet",
-        "stars": "35631",
+        "stars": "35635",
         "url": "https://github.com/microsoft/BitNet"
     },
     {
         "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
         "language": "Shell",
         "name": "msitarzewski/agency-agents",
-        "stars": "54071",
+        "stars": "54105",
         "url": "https://github.com/msitarzewski/agency-agents"
     },
     {
         "description": "Lightpanda: the headless browser designed for AI and automation",
         "language": "Zig",
         "name": "lightpanda-io/browser",
-        "stars": "21754",
+        "stars": "21767",
         "url": "https://github.com/lightpanda-io/browser"
     },
     {
         "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
         "language": "TypeScript",
         "name": "alibaba/page-agent",
-        "stars": "11241",
+        "stars": "11268",
         "url": "https://github.com/alibaba/page-agent"
     },
     {
         "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
         "language": "Python",
         "name": "volcengine/OpenViking",
-        "stars": "15792",
+        "stars": "15805",
         "url": "https://github.com/volcengine/OpenViking"
     },
     {
         "description": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.",
         "language": "Python",
         "name": "langflow-ai/openrag",
-        "stars": "3282",
+        "stars": "3285",
         "url": "https://github.com/langflow-ai/openrag"
     },
     {
         "description": "",
         "language": "JavaScript",
         "name": "andrewyng/context-hub",
-        "stars": "10178",
+        "stars": "10191",
         "url": "https://github.com/andrewyng/context-hub"
     },
     {
         "description": "SOTA Open Source TTS",
         "language": "Python",
         "name": "fishaudio/fish-speech",
-        "stars": "28156",
+        "stars": "28161",
         "url": "https://github.com/fishaudio/fish-speech"
     },
     {
         "description": "The design language that makes your AI harness better at design.",
         "language": "JavaScript",
         "name": "pbakaus/impeccable",
-        "stars": "10513",
+        "stars": "10524",
         "url": "https://github.com/pbakaus/impeccable"
     },
     {
         "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.",
         "language": "TypeScript",
         "name": "promptfoo/promptfoo",
-        "stars": "17455",
+        "stars": "17457",
         "url": "https://github.com/promptfoo/promptfoo"
     },
     {
         "description": "An agentic skills framework & software development methodology that works.",
         "language": "Shell",
         "name": "obra/superpowers",
-        "stars": "96164",
+        "stars": "96222",
         "url": "https://github.com/obra/superpowers"
     },
     {
         "description": "The agent that grows with you",
         "language": "Python",
         "name": "NousResearch/hermes-agent",
-        "stars": "8840",
+        "stars": "8844",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
         "description": "Hindsight: Agent Memory That Learns",
         "language": "Python",
         "name": "vectorize-io/hindsight",
-        "stars": "4935",
+        "stars": "4937",
         "url": "https://github.com/vectorize-io/hindsight"
     },
     {
         "description": "Bash is all you need - A nano claude code\u2013like \u300cagent harness\u300d, built from 0 to 1",
         "language": "TypeScript",
         "name": "shareAI-lab/learn-claude-code",
-        "stars": "32144",
+        "stars": "32176",
         "url": "https://github.com/shareAI-lab/learn-claude-code"
     },
     {
         "description": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.",
         "language": "Python",
         "name": "langchain-ai/deepagents",
-        "stars": "15112",
+        "stars": "15121",
         "url": "https://github.com/langchain-ai/deepagents"
     }
 ]
