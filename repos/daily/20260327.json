@@ -1,0 +1,65 @@
+[
+    {
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "language": "Python",
+        "name": "mvanhorn/last30days-skill",
+        "stars": "10226",
+        "url": "https://github.com/mvanhorn/last30days-skill"
+    },
+    {
+        "description": "Teams-first Multi-agent orchestration for Claude Code",
+        "language": "TypeScript",
+        "name": "Yeachan-Heo/oh-my-claudecode",
+        "stars": "12605",
+        "url": "https://github.com/Yeachan-Heo/oh-my-claudecode"
+    },
+    {
+        "description": "An autonomous agent for deep financial research",
+        "language": "TypeScript",
+        "name": "virattt/dexter",
+        "stars": "18978",
+        "url": "https://github.com/virattt/dexter"
+    },
+    {
+        "description": "\u03c0 RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.",
+        "language": "Rust",
+        "name": "ruvnet/RuView",
+        "stars": "43151",
+        "url": "https://github.com/ruvnet/RuView"
+    },
+    {
+        "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+        "language": "Python",
+        "name": "bytedance/deer-flow",
+        "stars": "48300",
+        "url": "https://github.com/bytedance/deer-flow"
+    },
+    {
+        "description": "",
+        "language": "Jupyter Notebook",
+        "name": "Vaibhavs10/insanely-fast-whisper",
+        "stars": "11196",
+        "url": "https://github.com/Vaibhavs10/insanely-fast-whisper"
+    },
+    {
+        "description": "Build and run agents you can see, understand and trust.",
+        "language": "Python",
+        "name": "agentscope-ai/agentscope",
+        "stars": "20393",
+        "url": "https://github.com/agentscope-ai/agentscope"
+    },
+    {
+        "description": "Building a modern alternative to Salesforce, powered by the community.",
+        "language": "TypeScript",
+        "name": "twentyhq/twenty",
+        "stars": "41261",
+        "url": "https://github.com/twentyhq/twenty"
+    },
+    {
+        "description": "OCR model that handles complex tables, forms, handwriting with full layout.",
+        "language": "Python",
+        "name": "datalab-to/chandra",
+        "stars": "6136",
+        "url": "https://github.com/datalab-to/chandra"
+    }
+]
