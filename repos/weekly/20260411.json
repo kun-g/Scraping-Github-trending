@@ -1,0 +1,86 @@
+[
+    {
+        "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+        "language": "Kotlin",
+        "name": "google-ai-edge/gallery",
+        "stars": "20211",
+        "url": "https://github.com/google-ai-edge/gallery"
+    },
+    {
+        "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+        "language": "Python",
+        "name": "HKUDS/DeepTutor",
+        "stars": "15968",
+        "url": "https://github.com/HKUDS/DeepTutor"
+    },
+    {
+        "description": "The agent that grows with you",
+        "language": "Python",
+        "name": "NousResearch/hermes-agent",
+        "stars": "51918",
+        "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+        "description": "",
+        "language": "C++",
+        "name": "google-ai-edge/LiteRT-LM",
+        "stars": "3322",
+        "url": "https://github.com/google-ai-edge/LiteRT-LM"
+    },
+    {
+        "description": "The open-source managed agents platform. Turn coding agents into real teammates \u2014 assign tasks, track progress, compound skills.",
+        "language": "TypeScript",
+        "name": "multica-ai/multica",
+        "stars": "6064",
+        "url": "https://github.com/multica-ai/multica"
+    },
+    {
+        "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+        "language": "TypeScript",
+        "name": "siddharthvaddem/openscreen",
+        "stars": "27599",
+        "url": "https://github.com/siddharthvaddem/openscreen"
+    },
+    {
+        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "language": "N/A",
+        "name": "forrestchang/andrej-karpathy-skills",
+        "stars": "11717",
+        "url": "https://github.com/forrestchang/andrej-karpathy-skills"
+    },
+    {
+        "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+        "language": "TypeScript",
+        "name": "Yeachan-Heo/oh-my-codex",
+        "stars": "20591",
+        "url": "https://github.com/Yeachan-Heo/oh-my-codex"
+    },
+    {
+        "description": "PersonaPlex code.",
+        "language": "Python",
+        "name": "NVIDIA/personaplex",
+        "stars": "8918",
+        "url": "https://github.com/NVIDIA/personaplex"
+    },
+    {
+        "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+        "language": "Python",
+        "name": "onyx-dot-app/onyx",
+        "stars": "26422",
+        "url": "https://github.com/onyx-dot-app/onyx"
+    },
+    {
+        "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+        "language": "Python",
+        "name": "google-research/timesfm",
+        "stars": "16263",
+        "url": "https://github.com/google-research/timesfm"
+    },
+    {
+        "description": "A visual, example-driven guide to Claude Code \u2014 from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+        "language": "Python",
+        "name": "luongnv89/claude-howto",
+        "stars": "24691",
+        "url": "https://github.com/luongnv89/claude-howto"
+    }
+]
