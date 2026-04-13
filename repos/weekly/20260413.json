@@ -1,0 +1,79 @@
+[
+    {
+        "description": "The agent that grows with you",
+        "language": "Python",
+        "name": "NousResearch/hermes-agent",
+        "stars": "66398",
+        "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "language": "N/A",
+        "name": "forrestchang/andrej-karpathy-skills",
+        "stars": "16804",
+        "url": "https://github.com/forrestchang/andrej-karpathy-skills"
+    },
+    {
+        "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+        "language": "Python",
+        "name": "HKUDS/DeepTutor",
+        "stars": "17244",
+        "url": "https://github.com/HKUDS/DeepTutor"
+    },
+    {
+        "description": "The open-source managed agents platform. Turn coding agents into real teammates \u2014 assign tasks, track progress, compound skills.",
+        "language": "TypeScript",
+        "name": "multica-ai/multica",
+        "stars": "9378",
+        "url": "https://github.com/multica-ai/multica"
+    },
+    {
+        "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+        "language": "Kotlin",
+        "name": "google-ai-edge/gallery",
+        "stars": "20670",
+        "url": "https://github.com/google-ai-edge/gallery"
+    },
+    {
+        "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+        "language": "TypeScript",
+        "name": "coleam00/Archon",
+        "stars": "17048",
+        "url": "https://github.com/coleam00/Archon"
+    },
+    {
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "language": "Python",
+        "name": "microsoft/markitdown",
+        "stars": "104652",
+        "url": "https://github.com/microsoft/markitdown"
+    },
+    {
+        "description": "",
+        "language": "C++",
+        "name": "google-ai-edge/LiteRT-LM",
+        "stars": "3547",
+        "url": "https://github.com/google-ai-edge/LiteRT-LM"
+    },
+    {
+        "description": "PersonaPlex code.",
+        "language": "Python",
+        "name": "NVIDIA/personaplex",
+        "stars": "9084",
+        "url": "https://github.com/NVIDIA/personaplex"
+    },
+    {
+        "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
+        "language": "Python",
+        "name": "TheCraigHewitt/seomachine",
+        "stars": "5791",
+        "url": "https://github.com/TheCraigHewitt/seomachine"
+    },
+    {
+        "description": "Nvim Treesitter configurations and abstraction layer",
+        "language": "Tree-sitter Query",
+        "name": "nvim-treesitter/nvim-treesitter",
+        "stars": "13653",
+        "url": "https://github.com/nvim-treesitter/nvim-treesitter"
+    }
+]
