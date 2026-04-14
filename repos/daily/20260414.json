@@ -1,0 +1,114 @@
+[
+    {
+        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "language": "N/A",
+        "name": "forrestchang/andrej-karpathy-skills",
+        "stars": "25095",
+        "url": "https://github.com/forrestchang/andrej-karpathy-skills"
+    },
+    {
+        "description": "The agent that grows with you",
+        "language": "Python",
+        "name": "NousResearch/hermes-agent",
+        "stars": "76977",
+        "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+        "language": "Python",
+        "name": "shiyu-coder/Kronos",
+        "stars": "17002",
+        "url": "https://github.com/shiyu-coder/Kronos"
+    },
+    {
+        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+        "language": "TypeScript",
+        "name": "thedotmack/claude-mem",
+        "stars": "53266",
+        "url": "https://github.com/thedotmack/claude-mem"
+    },
+    {
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "language": "Python",
+        "name": "microsoft/markitdown",
+        "stars": "106924",
+        "url": "https://github.com/microsoft/markitdown"
+    },
+    {
+        "description": "The open-source managed agents platform. Turn coding agents into real teammates \u2014 assign tasks, track progress, compound skills.",
+        "language": "TypeScript",
+        "name": "multica-ai/multica",
+        "stars": "11105",
+        "url": "https://github.com/multica-ai/multica"
+    },
+    {
+        "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+        "language": "TypeScript",
+        "name": "coleam00/Archon",
+        "stars": "17610",
+        "url": "https://github.com/coleam00/Archon"
+    },
+    {
+        "description": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.",
+        "language": "TypeScript",
+        "name": "snarktank/ralph",
+        "stars": "16514",
+        "url": "https://github.com/snarktank/ralph"
+    },
+    {
+        "description": "An AI Hedge Fund Team",
+        "language": "Python",
+        "name": "virattt/ai-hedge-fund",
+        "stars": "52932",
+        "url": "https://github.com/virattt/ai-hedge-fund"
+    },
+    {
+        "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+        "language": "Jupyter Notebook",
+        "name": "anthropics/claude-cookbooks",
+        "stars": "39498",
+        "url": "https://github.com/anthropics/claude-cookbooks"
+    },
+    {
+        "description": "practice made claude perfect",
+        "language": "HTML",
+        "name": "shanraisshan/claude-code-best-practice",
+        "stars": "41731",
+        "url": "https://github.com/shanraisshan/claude-code-best-practice"
+    },
+    {
+        "description": "The open-source voice synthesis studio",
+        "language": "TypeScript",
+        "name": "jamiepine/voicebox",
+        "stars": "16302",
+        "url": "https://github.com/jamiepine/voicebox"
+    },
+    {
+        "description": "",
+        "language": "Python",
+        "name": "ahujasid/blender-mcp",
+        "stars": "19487",
+        "url": "https://github.com/ahujasid/blender-mcp"
+    },
+    {
+        "description": "real time face swap and one-click video deepfake with only a single image",
+        "language": "Python",
+        "name": "hacksider/Deep-Live-Cam",
+        "stars": "90230",
+        "url": "https://github.com/hacksider/Deep-Live-Cam"
+    },
+    {
+        "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by T\u00c2CHES.",
+        "language": "JavaScript",
+        "name": "gsd-build/get-shit-done",
+        "stars": "52103",
+        "url": "https://github.com/gsd-build/get-shit-done"
+    },
+    {
+        "description": "\u6240\u6709\u5c0f\u521d\u9ad8\u3001\u5927\u5b66PDF\u6559\u6750\u3002",
+        "language": "Roff",
+        "name": "TapXWorld/ChinaTextbook",
+        "stars": "68893",
+        "url": "https://github.com/TapXWorld/ChinaTextbook"
+    }
+]
