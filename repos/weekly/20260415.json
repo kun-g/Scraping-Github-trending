@@ -1,0 +1,93 @@
+[
+    {
+        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "language": "N/A",
+        "name": "forrestchang/andrej-karpathy-skills",
+        "stars": "33734",
+        "url": "https://github.com/forrestchang/andrej-karpathy-skills"
+    },
+    {
+        "description": "The agent that grows with you",
+        "language": "Python",
+        "name": "NousResearch/hermes-agent",
+        "stars": "84267",
+        "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+        "description": "The open-source managed agents platform. Turn coding agents into real teammates \u2014 assign tasks, track progress, compound skills.",
+        "language": "TypeScript",
+        "name": "multica-ai/multica",
+        "stars": "12464",
+        "url": "https://github.com/multica-ai/multica"
+    },
+    {
+        "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+        "language": "TypeScript",
+        "name": "coleam00/Archon",
+        "stars": "17961",
+        "url": "https://github.com/coleam00/Archon"
+    },
+    {
+        "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+        "language": "Python",
+        "name": "HKUDS/DeepTutor",
+        "stars": "18133",
+        "url": "https://github.com/HKUDS/DeepTutor"
+    },
+    {
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "language": "Python",
+        "name": "microsoft/markitdown",
+        "stars": "108449",
+        "url": "https://github.com/microsoft/markitdown"
+    },
+    {
+        "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+        "language": "Kotlin",
+        "name": "google-ai-edge/gallery",
+        "stars": "21056",
+        "url": "https://github.com/google-ai-edge/gallery"
+    },
+    {
+        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+        "language": "TypeScript",
+        "name": "thedotmack/claude-mem",
+        "stars": "55776",
+        "url": "https://github.com/thedotmack/claude-mem"
+    },
+    {
+        "description": "\u6240\u6709\u5c0f\u521d\u9ad8\u3001\u5927\u5b66PDF\u6559\u6750\u3002",
+        "language": "Roff",
+        "name": "TapXWorld/ChinaTextbook",
+        "stars": "69336",
+        "url": "https://github.com/TapXWorld/ChinaTextbook"
+    },
+    {
+        "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
+        "language": "Python",
+        "name": "TheCraigHewitt/seomachine",
+        "stars": "6196",
+        "url": "https://github.com/TheCraigHewitt/seomachine"
+    },
+    {
+        "description": "An AI Hedge Fund Team",
+        "language": "Python",
+        "name": "virattt/ai-hedge-fund",
+        "stars": "54131",
+        "url": "https://github.com/virattt/ai-hedge-fund"
+    },
+    {
+        "description": "PersonaPlex code.",
+        "language": "Python",
+        "name": "NVIDIA/personaplex",
+        "stars": "9303",
+        "url": "https://github.com/NVIDIA/personaplex"
+    },
+    {
+        "description": "Headless browser automation server for AI agents to visit sites that are usually blocked",
+        "language": "JavaScript",
+        "name": "jo-inc/camofox-browser",
+        "stars": "2342",
+        "url": "https://github.com/jo-inc/camofox-browser"
+    }
+]
