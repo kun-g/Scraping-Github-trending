@@ -3,91 +3,91 @@
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "language": "N/A",
         "name": "forrestchang/andrej-karpathy-skills",
-        "stars": "42946",
+        "stars": "43130",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills"
     },
     {
         "description": "Create and share 3D architectural projects.",
         "language": "TypeScript",
         "name": "pascalorg/editor",
-        "stars": "12633",
+        "stars": "12662",
         "url": "https://github.com/pascalorg/editor"
     },
     {
         "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
         "language": "TypeScript",
         "name": "thedotmack/claude-mem",
-        "stars": "57822",
+        "stars": "57865",
         "url": "https://github.com/thedotmack/claude-mem"
     },
     {
         "description": "\u300a\u52a8\u624b\u5b66\u5927\u6a21\u578bDive into LLMs\u300b\u7cfb\u5217\u7f16\u7a0b\u5b9e\u8df5\u6559\u7a0b",
         "language": "Jupyter Notebook",
         "name": "Lordog/dive-into-llms",
-        "stars": "29412",
+        "stars": "29464",
         "url": "https://github.com/Lordog/dive-into-llms"
     },
     {
         "description": "An AI Hedge Fund Team",
         "language": "Python",
         "name": "virattt/ai-hedge-fund",
-        "stars": "55054",
+        "stars": "55080",
         "url": "https://github.com/virattt/ai-hedge-fund"
     },
     {
         "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
         "language": "Assembly",
         "name": "chrislgarry/Apollo-11",
-        "stars": "66800",
+        "stars": "66810",
         "url": "https://github.com/chrislgarry/Apollo-11"
     },
     {
         "description": "An agentic skills framework & software development methodology that works.",
         "language": "Shell",
         "name": "obra/superpowers",
-        "stars": "154272",
+        "stars": "154328",
         "url": "https://github.com/obra/superpowers"
     },
     {
         "description": "The open-source voice synthesis studio",
         "language": "TypeScript",
         "name": "jamiepine/voicebox",
-        "stars": "18279",
+        "stars": "18302",
         "url": "https://github.com/jamiepine/voicebox"
     },
     {
         "description": "A collective list of free APIs",
         "language": "Python",
         "name": "public-apis/public-apis",
-        "stars": "423329",
+        "stars": "423366",
         "url": "https://github.com/public-apis/public-apis"
     },
     {
         "description": "An open source template for building cloud agents.",
         "language": "TypeScript",
         "name": "vercel-labs/open-agents",
-        "stars": "2632",
+        "stars": "2652",
         "url": "https://github.com/vercel-labs/open-agents"
     },
     {
         "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
         "language": "Python",
         "name": "lsdefine/GenericAgent",
-        "stars": "1928",
+        "stars": "1954",
         "url": "https://github.com/lsdefine/GenericAgent"
     },
     {
         "description": "Fast and accurate AI powered file content types detection",
         "language": "Python",
         "name": "google/magika",
-        "stars": "13776",
+        "stars": "13800",
         "url": "https://github.com/google/magika"
     },
     {
         "description": "Turn Claude Code into a full game dev studio \u2014 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
         "language": "Shell",
         "name": "Donchitos/Claude-Code-Game-Studios",
-        "stars": "10427",
+        "stars": "10476",
         "url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
     }
 ]
