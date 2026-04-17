@@ -3,98 +3,98 @@
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "language": "N/A",
         "name": "forrestchang/andrej-karpathy-skills",
-        "stars": "49816",
+        "stars": "49981",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills"
     },
     {
         "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
         "language": "TypeScript",
         "name": "thedotmack/claude-mem",
-        "stars": "59725",
+        "stars": "59783",
         "url": "https://github.com/thedotmack/claude-mem"
     },
     {
         "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
         "language": "Python",
         "name": "lsdefine/GenericAgent",
-        "stars": "2763",
+        "stars": "2787",
         "url": "https://github.com/lsdefine/GenericAgent"
     },
     {
         "description": "The open-source voice synthesis studio",
         "language": "TypeScript",
         "name": "jamiepine/voicebox",
-        "stars": "19055",
+        "stars": "19074",
         "url": "https://github.com/jamiepine/voicebox"
     },
     {
         "description": "An open source template for building cloud agents.",
         "language": "TypeScript",
         "name": "vercel-labs/open-agents",
-        "stars": "3190",
+        "stars": "3211",
         "url": "https://github.com/vercel-labs/open-agents"
     },
     {
         "description": "Fast and accurate AI powered file content types detection",
         "language": "Python",
         "name": "google/magika",
-        "stars": "14745",
+        "stars": "14773",
         "url": "https://github.com/google/magika"
     },
     {
         "description": "WhatsApp CLI",
         "language": "Go",
         "name": "steipete/wacli",
-        "stars": "1679",
+        "stars": "1685",
         "url": "https://github.com/steipete/wacli"
     },
     {
         "description": "Knowledge Engine for AI Agent Memory in 6 lines of code",
         "language": "Python",
         "name": "topoteretes/cognee",
-        "stars": "15800",
+        "stars": "15811",
         "url": "https://github.com/topoteretes/cognee"
     },
     {
         "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
         "language": "Python",
         "name": "z-lab/dflash",
-        "stars": "1600",
+        "stars": "1611",
         "url": "https://github.com/z-lab/dflash"
     },
     {
         "description": "\u300a\u52a8\u624b\u5b66\u5927\u6a21\u578bDive into LLMs\u300b\u7cfb\u5217\u7f16\u7a0b\u5b9e\u8df5\u6559\u7a0b",
         "language": "Jupyter Notebook",
         "name": "Lordog/dive-into-llms",
-        "stars": "30669",
+        "stars": "30709",
         "url": "https://github.com/Lordog/dive-into-llms"
     },
     {
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "language": "Python",
         "name": "openai/openai-agents-python",
-        "stars": "21228",
+        "stars": "21247",
         "url": "https://github.com/openai/openai-agents-python"
     },
     {
         "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
         "language": "JavaScript",
         "name": "EvoMap/evolver",
-        "stars": "3156",
+        "stars": "3171",
         "url": "https://github.com/EvoMap/evolver"
     },
     {
         "description": "Claude Code skill to support Android app's reverse engineering",
         "language": "Shell",
         "name": "SimoneAvogadro/android-reverse-engineering-skill",
-        "stars": "2223",
+        "stars": "2242",
         "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill"
     },
     {
         "description": "AI that sees your screen, listens to your conversations and tells you what to do",
         "language": "Dart",
         "name": "BasedHardware/omi",
-        "stars": "9098",
+        "stars": "9121",
         "url": "https://github.com/BasedHardware/omi"
     }
 ]
