@@ -3,105 +3,105 @@
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "language": "N/A",
         "name": "multica-ai/andrej-karpathy-skills",
-        "stars": "57980",
+        "stars": "58047",
         "url": "https://github.com/multica-ai/andrej-karpathy-skills"
     },
     {
         "description": "The agent that grows with you",
         "language": "Python",
         "name": "NousResearch/hermes-agent",
-        "stars": "99466",
+        "stars": "99503",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
         "description": "Kronos: A Foundation Model for the Language of Financial Markets",
         "language": "Python",
         "name": "shiyu-coder/Kronos",
-        "stars": "19327",
+        "stars": "19337",
         "url": "https://github.com/shiyu-coder/Kronos"
     },
     {
         "description": "The open-source managed agents platform. Turn coding agents into real teammates \u2014 assign tasks, track progress, compound skills.",
         "language": "TypeScript",
         "name": "multica-ai/multica",
-        "stars": "16179",
+        "stars": "16193",
         "url": "https://github.com/multica-ai/multica"
     },
     {
         "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
         "language": "TypeScript",
         "name": "thedotmack/claude-mem",
-        "stars": "62472",
+        "stars": "62494",
         "url": "https://github.com/thedotmack/claude-mem"
     },
     {
         "description": "Python tool for converting files and office documents to Markdown.",
         "language": "Python",
         "name": "microsoft/markitdown",
-        "stars": "112014",
+        "stars": "112031",
         "url": "https://github.com/microsoft/markitdown"
     },
     {
         "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
         "language": "Python",
         "name": "OpenBMB/VoxCPM",
-        "stars": "14550",
+        "stars": "14559",
         "url": "https://github.com/OpenBMB/VoxCPM"
     },
     {
         "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
         "language": "Python",
         "name": "lsdefine/GenericAgent",
-        "stars": "4241",
+        "stars": "4250",
         "url": "https://github.com/lsdefine/GenericAgent"
     },
     {
         "description": "An AI Hedge Fund Team",
         "language": "Python",
         "name": "virattt/ai-hedge-fund",
-        "stars": "56136",
+        "stars": "56141",
         "url": "https://github.com/virattt/ai-hedge-fund"
     },
     {
         "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
         "language": "JavaScript",
         "name": "EvoMap/evolver",
-        "stars": "5000",
+        "stars": "5017",
         "url": "https://github.com/EvoMap/evolver"
     },
     {
         "description": "\u300a\u52a8\u624b\u5b66\u5927\u6a21\u578bDive into LLMs\u300b\u7cfb\u5217\u7f16\u7a0b\u5b9e\u8df5\u6559\u7a0b",
         "language": "Jupyter Notebook",
         "name": "Lordog/dive-into-llms",
-        "stars": "32017",
+        "stars": "32029",
         "url": "https://github.com/Lordog/dive-into-llms"
     },
     {
         "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
         "language": "TypeScript",
         "name": "coleam00/Archon",
-        "stars": "18752",
+        "stars": "18760",
         "url": "https://github.com/coleam00/Archon"
     },
     {
         "description": "The open-source voice synthesis studio",
         "language": "TypeScript",
         "name": "jamiepine/voicebox",
-        "stars": "20581",
+        "stars": "20592",
         "url": "https://github.com/jamiepine/voicebox"
     },
     {
         "description": "WhatsApp CLI",
         "language": "Go",
         "name": "steipete/wacli",
-        "stars": "1922",
+        "stars": "1925",
         "url": "https://github.com/steipete/wacli"
     },
     {
         "description": "Production-grade engineering skills for AI coding agents.",
         "language": "Shell",
         "name": "addyosmani/agent-skills",
-        "stars": "17523",
+        "stars": "17534",
         "url": "https://github.com/addyosmani/agent-skills"
     }
 ]
