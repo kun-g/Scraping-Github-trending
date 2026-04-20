@@ -1,0 +1,107 @@
+[
+    {
+        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "language": "N/A",
+        "name": "forrestchang/andrej-karpathy-skills",
+        "stars": "61392",
+        "url": "https://github.com/forrestchang/andrej-karpathy-skills"
+    },
+    {
+        "description": "The agent that grows with you",
+        "language": "Python",
+        "name": "NousResearch/hermes-agent",
+        "stars": "102125",
+        "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+        "language": "TypeScript",
+        "name": "thedotmack/claude-mem",
+        "stars": "63326",
+        "url": "https://github.com/thedotmack/claude-mem"
+    },
+    {
+        "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
+        "language": "JavaScript",
+        "name": "EvoMap/evolver",
+        "stars": "5521",
+        "url": "https://github.com/EvoMap/evolver"
+    },
+    {
+        "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+        "language": "Python",
+        "name": "lsdefine/GenericAgent",
+        "stars": "4542",
+        "url": "https://github.com/lsdefine/GenericAgent"
+    },
+    {
+        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+        "language": "Python",
+        "name": "shiyu-coder/Kronos",
+        "stars": "19600",
+        "url": "https://github.com/shiyu-coder/Kronos"
+    },
+    {
+        "description": "The open-source managed agents platform. Turn coding agents into real teammates \u2014 assign tasks, track progress, compound skills.",
+        "language": "TypeScript",
+        "name": "multica-ai/multica",
+        "stars": "16763",
+        "url": "https://github.com/multica-ai/multica"
+    },
+    {
+        "description": "An AI Hedge Fund Team",
+        "language": "Python",
+        "name": "virattt/ai-hedge-fund",
+        "stars": "56346",
+        "url": "https://github.com/virattt/ai-hedge-fund"
+    },
+    {
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "language": "Python",
+        "name": "microsoft/markitdown",
+        "stars": "112616",
+        "url": "https://github.com/microsoft/markitdown"
+    },
+    {
+        "description": "\u300a\u52a8\u624b\u5b66\u5927\u6a21\u578bDive into LLMs\u300b\u7cfb\u5217\u7f16\u7a0b\u5b9e\u8df5\u6559\u7a0b",
+        "language": "Jupyter Notebook",
+        "name": "Lordog/dive-into-llms",
+        "stars": "32460",
+        "url": "https://github.com/Lordog/dive-into-llms"
+    },
+    {
+        "description": "The open-source voice synthesis studio",
+        "language": "TypeScript",
+        "name": "jamiepine/voicebox",
+        "stars": "21206",
+        "url": "https://github.com/jamiepine/voicebox"
+    },
+    {
+        "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+        "language": "Python",
+        "name": "OpenBMB/VoxCPM",
+        "stars": "14846",
+        "url": "https://github.com/OpenBMB/VoxCPM"
+    },
+    {
+        "description": "Claude Code skill to support Android app's reverse engineering",
+        "language": "Shell",
+        "name": "SimoneAvogadro/android-reverse-engineering-skill",
+        "stars": "3573",
+        "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill"
+    },
+    {
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "language": "Shell",
+        "name": "addyosmani/agent-skills",
+        "stars": "17914",
+        "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+        "description": "AI that sees your screen, listens to your conversations and tells you what to do",
+        "language": "Dart",
+        "name": "BasedHardware/omi",
+        "stars": "11158",
+        "url": "https://github.com/BasedHardware/omi"
+    }
+]
