@@ -3,105 +3,105 @@
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "language": "N/A",
         "name": "forrestchang/andrej-karpathy-skills",
-        "stars": "66510",
+        "stars": "66713",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills"
     },
     {
         "description": "The agent that grows with you",
         "language": "Python",
         "name": "NousResearch/hermes-agent",
-        "stars": "105383",
+        "stars": "105460",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
         "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
         "language": "TypeScript",
         "name": "thedotmack/claude-mem",
-        "stars": "64324",
+        "stars": "64354",
         "url": "https://github.com/thedotmack/claude-mem"
     },
     {
         "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
         "language": "Python",
         "name": "lsdefine/GenericAgent",
-        "stars": "5054",
+        "stars": "5065",
         "url": "https://github.com/lsdefine/GenericAgent"
     },
     {
         "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
         "language": "JavaScript",
         "name": "EvoMap/evolver",
-        "stars": "6016",
+        "stars": "6023",
         "url": "https://github.com/EvoMap/evolver"
     },
     {
         "description": "\u300a\u52a8\u624b\u5b66\u5927\u6a21\u578bDive into LLMs\u300b\u7cfb\u5217\u7f16\u7a0b\u5b9e\u8df5\u6559\u7a0b",
         "language": "Jupyter Notebook",
         "name": "Lordog/dive-into-llms",
-        "stars": "32933",
+        "stars": "32945",
         "url": "https://github.com/Lordog/dive-into-llms"
     },
     {
         "description": "An AI Hedge Fund Team",
         "language": "Python",
         "name": "virattt/ai-hedge-fund",
-        "stars": "56575",
+        "stars": "56581",
         "url": "https://github.com/virattt/ai-hedge-fund"
     },
     {
         "description": "The open-source managed agents platform. Turn coding agents into real teammates \u2014 assign tasks, track progress, compound skills.",
         "language": "TypeScript",
         "name": "multica-ai/multica",
-        "stars": "17618",
+        "stars": "17649",
         "url": "https://github.com/multica-ai/multica"
     },
     {
         "description": "The open-source voice synthesis studio",
         "language": "TypeScript",
         "name": "jamiepine/voicebox",
-        "stars": "21733",
+        "stars": "21737",
         "url": "https://github.com/jamiepine/voicebox"
     },
     {
         "description": "Kronos: A Foundation Model for the Language of Financial Markets",
         "language": "Python",
         "name": "shiyu-coder/Kronos",
-        "stars": "19843",
+        "stars": "19853",
         "url": "https://github.com/shiyu-coder/Kronos"
     },
     {
         "description": "Claude Code skill to support Android app's reverse engineering",
         "language": "Shell",
         "name": "SimoneAvogadro/android-reverse-engineering-skill",
-        "stars": "4024",
+        "stars": "4034",
         "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill"
     },
     {
         "description": "AI that sees your screen, listens to your conversations and tells you what to do",
         "language": "Dart",
         "name": "BasedHardware/omi",
-        "stars": "11635",
+        "stars": "11642",
         "url": "https://github.com/BasedHardware/omi"
     },
     {
         "description": "Python tool for converting files and office documents to Markdown.",
         "language": "Python",
         "name": "microsoft/markitdown",
-        "stars": "113360",
+        "stars": "113380",
         "url": "https://github.com/microsoft/markitdown"
     },
     {
         "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
         "language": "Assembly",
         "name": "chrislgarry/Apollo-11",
-        "stars": "67430",
+        "stars": "67431",
         "url": "https://github.com/chrislgarry/Apollo-11"
     },
     {
         "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
         "language": "Python",
         "name": "OpenBMB/VoxCPM",
-        "stars": "15089",
+        "stars": "15092",
         "url": "https://github.com/OpenBMB/VoxCPM"
     }
 ]
