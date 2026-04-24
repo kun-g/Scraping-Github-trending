@@ -3,112 +3,112 @@
         "description": "\ud83e\udd17 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
         "language": "Python",
         "name": "huggingface/ml-intern",
-        "stars": "3292",
+        "stars": "3359",
         "url": "https://github.com/huggingface/ml-intern"
     },
     {
         "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
         "language": "TypeScript",
         "name": "zilliztech/claude-context",
-        "stars": "8416",
+        "stars": "8436",
         "url": "https://github.com/zilliztech/claude-context"
     },
     {
         "description": "\"RAG-Anything: All-in-One RAG Framework\"",
         "language": "Python",
         "name": "HKUDS/RAG-Anything",
-        "stars": "18151",
+        "stars": "18172",
         "url": "https://github.com/HKUDS/RAG-Anything"
     },
     {
         "description": "ALL IN ONE Hacking Tool For Hackers",
         "language": "Python",
         "name": "Z4nzu/hackingtool",
-        "stars": "61036",
+        "stars": "61078",
         "url": "https://github.com/Z4nzu/hackingtool"
     },
     {
         "description": "\u03c0 RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.",
         "language": "Rust",
         "name": "ruvnet/RuView",
-        "stars": "49832",
+        "stars": "49839",
         "url": "https://github.com/ruvnet/RuView"
     },
     {
         "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik, Krea, Openart AI \u2014 Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
         "language": "JavaScript",
         "name": "Anil-matcha/Open-Generative-AI",
-        "stars": "6938",
+        "stars": "6965",
         "url": "https://github.com/Anil-matcha/Open-Generative-AI"
     },
     {
         "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
         "language": "Python",
         "name": "Alishahryar1/free-claude-code",
-        "stars": "5563",
+        "stars": "5614",
         "url": "https://github.com/Alishahryar1/free-claude-code"
     },
     {
         "description": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.",
         "language": "TypeScript",
         "name": "open-metadata/OpenMetadata",
-        "stars": "12935",
+        "stars": "12945",
         "url": "https://github.com/open-metadata/OpenMetadata"
     },
     {
         "description": "12 Lessons to Get Started Building AI Agents",
         "language": "Jupyter Notebook",
         "name": "microsoft/ai-agents-for-beginners",
-        "stars": "58780",
+        "stars": "58807",
         "url": "https://github.com/microsoft/ai-agents-for-beginners"
     },
     {
         "description": "PowerShell for every system!",
         "language": "C#",
         "name": "PowerShell/PowerShell",
-        "stars": "52780",
+        "stars": "52789",
         "url": "https://github.com/PowerShell/PowerShell"
     },
     {
         "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
         "language": "TypeScript",
         "name": "cline/cline",
-        "stars": "60814",
+        "stars": "60823",
         "url": "https://github.com/cline/cline"
     },
     {
         "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
         "language": "C++",
         "name": "microsoft/onnxruntime",
-        "stars": "20176",
+        "stars": "20186",
         "url": "https://github.com/microsoft/onnxruntime"
     },
     {
         "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 12 platforms",
         "language": "TypeScript",
         "name": "mksglu/context-mode",
-        "stars": "9428",
+        "stars": "9448",
         "url": "https://github.com/mksglu/context-mode"
     },
     {
         "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
         "language": "JavaScript",
         "name": "coreyhaines31/marketingskills",
-        "stars": "23809",
+        "stars": "23853",
         "url": "https://github.com/coreyhaines31/marketingskills"
     },
     {
         "description": "[WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)",
         "language": "Jupyter Notebook",
         "name": "chiphuyen/aie-book",
-        "stars": "15171",
+        "stars": "15185",
         "url": "https://github.com/chiphuyen/aie-book"
     },
     {
         "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
         "language": "N/A",
         "name": "VoltAgent/awesome-agent-skills",
-        "stars": "18068",
+        "stars": "18105",
         "url": "https://github.com/VoltAgent/awesome-agent-skills"
     }
 ]

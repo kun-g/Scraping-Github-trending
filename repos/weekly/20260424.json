@@ -3,98 +3,98 @@
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "language": "N/A",
         "name": "forrestchang/andrej-karpathy-skills",
-        "stars": "80476",
+        "stars": "80590",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills"
     },
     {
         "description": "Claude Code skill to support Android app's reverse engineering",
         "language": "Shell",
         "name": "SimoneAvogadro/android-reverse-engineering-skill",
-        "stars": "4741",
+        "stars": "4742",
         "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill"
     },
     {
         "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
         "language": "JavaScript",
         "name": "EvoMap/evolver",
-        "stars": "6675",
+        "stars": "6679",
         "url": "https://github.com/EvoMap/evolver"
     },
     {
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "language": "Python",
         "name": "openai/openai-agents-python",
-        "stars": "24854",
+        "stars": "24860",
         "url": "https://github.com/openai/openai-agents-python"
     },
     {
         "description": "The open-source AI voice studio. Clone, dictate, create.",
         "language": "TypeScript",
         "name": "jamiepine/voicebox",
-        "stars": "22842",
+        "stars": "22852",
         "url": "https://github.com/jamiepine/voicebox"
     },
     {
         "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
         "language": "TypeScript",
         "name": "thedotmack/claude-mem",
-        "stars": "66457",
+        "stars": "66471",
         "url": "https://github.com/thedotmack/claude-mem"
     },
     {
         "description": "The agent that grows with you",
         "language": "Python",
         "name": "NousResearch/hermes-agent",
-        "stars": "113142",
+        "stars": "113213",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
         "description": "The open-source managed agents platform. Turn coding agents into real teammates \u2014 assign tasks, track progress, compound skills.",
         "language": "TypeScript",
         "name": "multica-ai/multica",
-        "stars": "20191",
+        "stars": "20198",
         "url": "https://github.com/multica-ai/multica"
     },
     {
         "description": "\u300a\u52a8\u624b\u5b66\u5927\u6a21\u578bDive into LLMs\u300b\u7cfb\u5217\u7f16\u7a0b\u5b9e\u8df5\u6559\u7a0b",
         "language": "Jupyter Notebook",
         "name": "Lordog/dive-into-llms",
-        "stars": "33997",
+        "stars": "34005",
         "url": "https://github.com/Lordog/dive-into-llms"
     },
     {
         "description": "Build your own AI SRE agents. The open source toolkit for the AI era \u2728",
         "language": "Python",
         "name": "Tracer-Cloud/opensre",
-        "stars": "2667",
+        "stars": "2673",
         "url": "https://github.com/Tracer-Cloud/opensre"
     },
     {
         "description": "AI that sees your screen, listens to your conversations and tells you what to do",
         "language": "Dart",
         "name": "BasedHardware/omi",
-        "stars": "12100",
+        "stars": "12102",
         "url": "https://github.com/BasedHardware/omi"
     },
     {
         "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 12 platforms",
         "language": "TypeScript",
         "name": "mksglu/context-mode",
-        "stars": "9428",
+        "stars": "9448",
         "url": "https://github.com/mksglu/context-mode"
     },
     {
         "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
         "language": "TypeScript",
         "name": "zilliztech/claude-context",
-        "stars": "8416",
+        "stars": "8436",
         "url": "https://github.com/zilliztech/claude-context"
     },
     {
         "description": "Python tool for converting files and office documents to Markdown.",
         "language": "Python",
         "name": "microsoft/markitdown",
-        "stars": "115987",
+        "stars": "116012",
         "url": "https://github.com/microsoft/markitdown"
     }
 ]
