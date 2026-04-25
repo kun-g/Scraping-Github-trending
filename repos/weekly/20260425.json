@@ -3,105 +3,105 @@
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "language": "N/A",
         "name": "forrestchang/andrej-karpathy-skills",
-        "stars": "83671",
+        "stars": "83720",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills"
     },
     {
         "description": "Claude Code skill to support Android app's reverse engineering",
         "language": "Shell",
         "name": "SimoneAvogadro/android-reverse-engineering-skill",
-        "stars": "4850",
+        "stars": "4851",
         "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill"
     },
     {
         "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
         "language": "Python",
         "name": "Alishahryar1/free-claude-code",
-        "stars": "8913",
+        "stars": "8983",
         "url": "https://github.com/Alishahryar1/free-claude-code"
     },
     {
         "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
         "language": "TypeScript",
         "name": "zilliztech/claude-context",
-        "stars": "9010",
+        "stars": "9013",
         "url": "https://github.com/zilliztech/claude-context"
     },
     {
         "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
         "language": "Python",
         "name": "lsdefine/GenericAgent",
-        "stars": "6872",
+        "stars": "6877",
         "url": "https://github.com/lsdefine/GenericAgent"
     },
     {
         "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
         "language": "JavaScript",
         "name": "EvoMap/evolver",
-        "stars": "6813",
+        "stars": "6817",
         "url": "https://github.com/EvoMap/evolver"
     },
     {
         "description": "A lightweight, powerful framework for multi-agent workflows",
         "language": "Python",
         "name": "openai/openai-agents-python",
-        "stars": "24990",
+        "stars": "24995",
         "url": "https://github.com/openai/openai-agents-python"
     },
     {
         "description": "Build your own AI SRE agents. The open source toolkit for the AI era \u2728",
         "language": "Python",
         "name": "Tracer-Cloud/opensre",
-        "stars": "2914",
+        "stars": "2917",
         "url": "https://github.com/Tracer-Cloud/opensre"
     },
     {
         "description": "The open-source managed agents platform. Turn coding agents into real teammates \u2014 assign tasks, track progress, compound skills.",
         "language": "TypeScript",
         "name": "multica-ai/multica",
-        "stars": "20677",
+        "stars": "20688",
         "url": "https://github.com/multica-ai/multica"
     },
     {
         "description": "The agent that grows with you",
         "language": "Python",
         "name": "NousResearch/hermes-agent",
-        "stars": "115171",
+        "stars": "115200",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
         "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
         "language": "TypeScript",
         "name": "thedotmack/claude-mem",
-        "stars": "67030",
+        "stars": "67042",
         "url": "https://github.com/thedotmack/claude-mem"
     },
     {
         "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 12 platforms",
         "language": "TypeScript",
         "name": "mksglu/context-mode",
-        "stars": "9821",
+        "stars": "9828",
         "url": "https://github.com/mksglu/context-mode"
     },
     {
         "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
         "language": "Cuda",
         "name": "deepseek-ai/DeepGEMM",
-        "stars": "6996",
+        "stars": "6997",
         "url": "https://github.com/deepseek-ai/DeepGEMM"
     },
     {
         "description": "The open-source AI voice studio. Clone, dictate, create.",
         "language": "TypeScript",
         "name": "jamiepine/voicebox",
-        "stars": "23124",
+        "stars": "23130",
         "url": "https://github.com/jamiepine/voicebox"
     },
     {
         "description": "\u300a\u52a8\u624b\u5b66\u5927\u6a21\u578bDive into LLMs\u300b\u7cfb\u5217\u7f16\u7a0b\u5b9e\u8df5\u6559\u7a0b",
         "language": "Jupyter Notebook",
         "name": "Lordog/dive-into-llms",
-        "stars": "34244",
+        "stars": "34248",
         "url": "https://github.com/Lordog/dive-into-llms"
     }
 ]
