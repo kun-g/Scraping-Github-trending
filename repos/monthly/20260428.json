@@ -3,63 +3,63 @@
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "language": "N/A",
         "name": "forrestchang/andrej-karpathy-skills",
-        "stars": "94071",
+        "stars": "94165",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills"
     },
     {
         "description": "The agent that grows with you",
         "language": "Python",
         "name": "NousResearch/hermes-agent",
-        "stars": "120590",
+        "stars": "120663",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
         "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
         "language": "TypeScript",
         "name": "Yeachan-Heo/oh-my-codex",
-        "stars": "26373",
+        "stars": "26385",
         "url": "https://github.com/Yeachan-Heo/oh-my-codex"
     },
     {
         "description": "Kronos: A Foundation Model for the Language of Financial Markets",
         "language": "Python",
         "name": "shiyu-coder/Kronos",
-        "stars": "21779",
+        "stars": "21782",
         "url": "https://github.com/shiyu-coder/Kronos"
     },
     {
         "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
         "language": "Python",
         "name": "Fincept-Corporation/FinceptTerminal",
-        "stars": "16243",
+        "stars": "16263",
         "url": "https://github.com/Fincept-Corporation/FinceptTerminal"
     },
     {
         "description": "A visual, example-driven guide to Claude Code \u2014 from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
         "language": "Python",
         "name": "luongnv89/claude-howto",
-        "stars": "29485",
+        "stars": "29515",
         "url": "https://github.com/luongnv89/claude-howto"
     },
     {
         "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
         "language": "TypeScript",
         "name": "siddharthvaddem/openscreen",
-        "stars": "33153",
+        "stars": "33158",
         "url": "https://github.com/siddharthvaddem/openscreen"
     },
     {
         "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
         "language": "Python",
         "name": "HKUDS/DeepTutor",
-        "stars": "22222",
+        "stars": "22225",
         "url": "https://github.com/HKUDS/DeepTutor"
     },
     {
         "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
         "language": "TypeScript",
         "name": "coleam00/Archon",
-        "stars": "19918",
+        "stars": "19922",
         "url": "https://github.com/coleam00/Archon"
     },
     {
@@ -73,70 +73,70 @@
         "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
         "language": "Python",
         "name": "Alishahryar1/free-claude-code",
-        "stars": "16104",
+        "stars": "16156",
         "url": "https://github.com/Alishahryar1/free-claude-code"
     },
     {
         "description": "Python tool for converting files and office documents to Markdown.",
         "language": "Python",
         "name": "microsoft/markitdown",
-        "stars": "117940",
+        "stars": "117953",
         "url": "https://github.com/microsoft/markitdown"
     },
     {
         "description": "",
         "language": "C++",
         "name": "google-ai-edge/LiteRT-LM",
-        "stars": "4435",
+        "stars": "4436",
         "url": "https://github.com/google-ai-edge/LiteRT-LM"
     },
     {
         "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
         "language": "Python",
         "name": "lsdefine/GenericAgent",
-        "stars": "7740",
+        "stars": "7749",
         "url": "https://github.com/lsdefine/GenericAgent"
     },
     {
         "description": "Open-Source Frontier Voice AI",
         "language": "Python",
         "name": "microsoft/VibeVoice",
-        "stars": "43099",
+        "stars": "43134",
         "url": "https://github.com/microsoft/VibeVoice"
     },
     {
         "description": "AI generates natively editable PPTX from any document \u2014 real PowerPoint shapes, not images \u2014 no design skills needed",
         "language": "Python",
         "name": "hugohe3/ppt-master",
-        "stars": "8669",
+        "stars": "8685",
         "url": "https://github.com/hugohe3/ppt-master"
     },
     {
         "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
         "language": "Rust",
         "name": "rtk-ai/rtk",
-        "stars": "37012",
+        "stars": "37032",
         "url": "https://github.com/rtk-ai/rtk"
     },
     {
         "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
         "language": "Python",
         "name": "google-research/timesfm",
-        "stars": "18743",
+        "stars": "18744",
         "url": "https://github.com/google-research/timesfm"
     },
     {
         "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
         "language": "TypeScript",
         "name": "thedotmack/claude-mem",
-        "stars": "68559",
+        "stars": "68583",
         "url": "https://github.com/thedotmack/claude-mem"
     },
     {
         "description": "Skills for Real Engineers. Straight from my .claude directory.",
         "language": "Shell",
         "name": "mattpocock/skills",
-        "stars": "30283",
+        "stars": "30475",
         "url": "https://github.com/mattpocock/skills"
     }
 ]
