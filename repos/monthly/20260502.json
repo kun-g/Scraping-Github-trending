@@ -3,84 +3,84 @@
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "language": "N/A",
         "name": "forrestchang/andrej-karpathy-skills",
-        "stars": "104710",
+        "stars": "104742",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills"
     },
     {
         "description": "The agent that grows with you",
         "language": "Python",
         "name": "NousResearch/hermes-agent",
-        "stars": "128296",
+        "stars": "128328",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
         "description": "The open-source managed agents platform. Turn coding agents into real teammates \u2014 assign tasks, track progress, compound skills.",
         "language": "TypeScript",
         "name": "multica-ai/multica",
-        "stars": "23472",
+        "stars": "23479",
         "url": "https://github.com/multica-ai/multica"
     },
     {
         "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
         "language": "Python",
         "name": "Alishahryar1/free-claude-code",
-        "stars": "19697",
+        "stars": "19712",
         "url": "https://github.com/Alishahryar1/free-claude-code"
     },
     {
         "description": "Skills for Real Engineers. Straight from my .claude directory.",
         "language": "Shell",
         "name": "mattpocock/skills",
-        "stars": "52553",
+        "stars": "52592",
         "url": "https://github.com/mattpocock/skills"
     },
     {
         "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
         "language": "Python",
         "name": "Fincept-Corporation/FinceptTerminal",
-        "stars": "18700",
+        "stars": "18713",
         "url": "https://github.com/Fincept-Corporation/FinceptTerminal"
     },
     {
         "description": "Kronos: A Foundation Model for the Language of Financial Markets",
         "language": "Python",
         "name": "shiyu-coder/Kronos",
-        "stars": "22381",
+        "stars": "22383",
         "url": "https://github.com/shiyu-coder/Kronos"
     },
     {
         "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
         "language": "Python",
         "name": "HKUDS/DeepTutor",
-        "stars": "22835",
+        "stars": "22839",
         "url": "https://github.com/HKUDS/DeepTutor"
     },
     {
         "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
         "language": "TypeScript",
         "name": "coleam00/Archon",
-        "stars": "20445",
+        "stars": "20447",
         "url": "https://github.com/coleam00/Archon"
     },
     {
         "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
         "language": "Kotlin",
         "name": "google-ai-edge/gallery",
-        "stars": "22418",
+        "stars": "22420",
         "url": "https://github.com/google-ai-edge/gallery"
     },
     {
         "description": "Python tool for converting files and office documents to Markdown.",
         "language": "Python",
         "name": "microsoft/markitdown",
-        "stars": "119253",
+        "stars": "119263",
         "url": "https://github.com/microsoft/markitdown"
     },
     {
         "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
         "language": "Python",
         "name": "lsdefine/GenericAgent",
-        "stars": "8645",
+        "stars": "8648",
         "url": "https://github.com/lsdefine/GenericAgent"
     },
     {
@@ -94,42 +94,42 @@
         "description": "AI generates natively editable PPTX from any document \u2014 real PowerPoint shapes with native animations, not images \u00b7 by Hugo He",
         "language": "Python",
         "name": "hugohe3/ppt-master",
-        "stars": "10408",
+        "stars": "10414",
         "url": "https://github.com/hugohe3/ppt-master"
     },
     {
         "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
         "language": "TypeScript",
         "name": "thedotmack/claude-mem",
-        "stars": "70750",
+        "stars": "70755",
         "url": "https://github.com/thedotmack/claude-mem"
     },
     {
         "description": "ALL IN ONE Hacking Tool For Hackers",
         "language": "Python",
         "name": "Z4nzu/hackingtool",
-        "stars": "69779",
+        "stars": "69785",
         "url": "https://github.com/Z4nzu/hackingtool"
     },
     {
         "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
         "language": "Python",
         "name": "ComposioHQ/awesome-codex-skills",
-        "stars": "5396",
+        "stars": "5400",
         "url": "https://github.com/ComposioHQ/awesome-codex-skills"
     },
     {
         "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
         "language": "Rust",
         "name": "rtk-ai/rtk",
-        "stars": "39494",
+        "stars": "39510",
         "url": "https://github.com/rtk-ai/rtk"
     },
     {
         "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
         "language": "TypeScript",
         "name": "siddharthvaddem/openscreen",
-        "stars": "34068",
+        "stars": "34076",
         "url": "https://github.com/siddharthvaddem/openscreen"
     }
 ]
