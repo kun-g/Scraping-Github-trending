@@ -1,0 +1,79 @@
+[
+    {
+        "description": "Skills for Real Engineers. Straight from my .claude directory.",
+        "language": "Shell",
+        "name": "mattpocock/skills",
+        "stars": "52553",
+        "url": "https://github.com/mattpocock/skills"
+    },
+    {
+        "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+        "language": "Python",
+        "name": "Alishahryar1/free-claude-code",
+        "stars": "19697",
+        "url": "https://github.com/Alishahryar1/free-claude-code"
+    },
+    {
+        "description": "DeepSeek-Compatible Middleware Interface: A technical exploration project in Go, focusing on high-concurrency protocol adaptation. It serves as a reference implementation for converting diverse web protocols into standardized formats.",
+        "language": "Go",
+        "name": "CJackHwang/ds2api",
+        "stars": "3070",
+        "url": "https://github.com/CJackHwang/ds2api"
+    },
+    {
+        "description": "ALL IN ONE Hacking Tool For Hackers",
+        "language": "Python",
+        "name": "Z4nzu/hackingtool",
+        "stars": "69779",
+        "url": "https://github.com/Z4nzu/hackingtool"
+    },
+    {
+        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "language": "N/A",
+        "name": "forrestchang/andrej-karpathy-skills",
+        "stars": "104710",
+        "url": "https://github.com/forrestchang/andrej-karpathy-skills"
+    },
+    {
+        "description": "\ud83e\udd17 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
+        "language": "Python",
+        "name": "huggingface/ml-intern",
+        "stars": "7894",
+        "url": "https://github.com/huggingface/ml-intern"
+    },
+    {
+        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "language": "Python",
+        "name": "TauricResearch/TradingAgents",
+        "stars": "59879",
+        "url": "https://github.com/TauricResearch/TradingAgents"
+    },
+    {
+        "description": "\ud83d\ude80 AI \u5168\u81ea\u52a8\u77ed\u89c6\u9891\u5f15\u64ce | AI Fully Automated Short Video Engine",
+        "language": "Python",
+        "name": "AIDC-AI/Pixelle-Video",
+        "stars": "8673",
+        "url": "https://github.com/AIDC-AI/Pixelle-Video"
+    },
+    {
+        "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+        "language": "TypeScript",
+        "name": "abhigyanpatwari/GitNexus",
+        "stars": "34075",
+        "url": "https://github.com/abhigyanpatwari/GitNexus"
+    },
+    {
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms",
+        "language": "TypeScript",
+        "name": "mksglu/context-mode",
+        "stars": "11751",
+        "url": "https://github.com/mksglu/context-mode"
+    },
+    {
+        "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+        "language": "Python",
+        "name": "lsdefine/GenericAgent",
+        "stars": "8645",
+        "url": "https://github.com/lsdefine/GenericAgent"
+    }
+]
