@@ -1,0 +1,128 @@
+[
+    {
+        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "language": "N/A",
+        "name": "forrestchang/andrej-karpathy-skills",
+        "stars": "106563",
+        "url": "https://github.com/forrestchang/andrej-karpathy-skills"
+    },
+    {
+        "description": "The agent that grows with you",
+        "language": "Python",
+        "name": "NousResearch/hermes-agent",
+        "stars": "129785",
+        "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+        "description": "The open-source managed agents platform. Turn coding agents into real teammates \u2014 assign tasks, track progress, compound skills.",
+        "language": "TypeScript",
+        "name": "multica-ai/multica",
+        "stars": "23804",
+        "url": "https://github.com/multica-ai/multica"
+    },
+    {
+        "description": "Skills for Real Engineers. Straight from my .claude directory.",
+        "language": "Shell",
+        "name": "mattpocock/skills",
+        "stars": "55063",
+        "url": "https://github.com/mattpocock/skills"
+    },
+    {
+        "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+        "language": "Python",
+        "name": "Alishahryar1/free-claude-code",
+        "stars": "20243",
+        "url": "https://github.com/Alishahryar1/free-claude-code"
+    },
+    {
+        "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+        "language": "Python",
+        "name": "Fincept-Corporation/FinceptTerminal",
+        "stars": "19156",
+        "url": "https://github.com/Fincept-Corporation/FinceptTerminal"
+    },
+    {
+        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+        "language": "Python",
+        "name": "shiyu-coder/Kronos",
+        "stars": "22503",
+        "url": "https://github.com/shiyu-coder/Kronos"
+    },
+    {
+        "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+        "language": "Python",
+        "name": "HKUDS/DeepTutor",
+        "stars": "22961",
+        "url": "https://github.com/HKUDS/DeepTutor"
+    },
+    {
+        "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+        "language": "TypeScript",
+        "name": "coleam00/Archon",
+        "stars": "20553",
+        "url": "https://github.com/coleam00/Archon"
+    },
+    {
+        "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+        "language": "Kotlin",
+        "name": "google-ai-edge/gallery",
+        "stars": "22484",
+        "url": "https://github.com/google-ai-edge/gallery"
+    },
+    {
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "language": "Python",
+        "name": "microsoft/markitdown",
+        "stars": "119573",
+        "url": "https://github.com/microsoft/markitdown"
+    },
+    {
+        "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+        "language": "Python",
+        "name": "lsdefine/GenericAgent",
+        "stars": "8816",
+        "url": "https://github.com/lsdefine/GenericAgent"
+    },
+    {
+        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+        "language": "TypeScript",
+        "name": "thedotmack/claude-mem",
+        "stars": "71083",
+        "url": "https://github.com/thedotmack/claude-mem"
+    },
+    {
+        "description": "ALL IN ONE Hacking Tool For Hackers",
+        "language": "Python",
+        "name": "Z4nzu/hackingtool",
+        "stars": "70433",
+        "url": "https://github.com/Z4nzu/hackingtool"
+    },
+    {
+        "description": "",
+        "language": "C++",
+        "name": "google-ai-edge/LiteRT-LM",
+        "stars": "4667",
+        "url": "https://github.com/google-ai-edge/LiteRT-LM"
+    },
+    {
+        "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+        "language": "Python",
+        "name": "ComposioHQ/awesome-codex-skills",
+        "stars": "5841",
+        "url": "https://github.com/ComposioHQ/awesome-codex-skills"
+    },
+    {
+        "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+        "language": "Rust",
+        "name": "rtk-ai/rtk",
+        "stars": "40043",
+        "url": "https://github.com/rtk-ai/rtk"
+    },
+    {
+        "description": "\ud83d\ude80 AI \u5168\u81ea\u52a8\u77ed\u89c6\u9891\u5f15\u64ce | AI Fully Automated Short Video Engine",
+        "language": "Python",
+        "name": "AIDC-AI/Pixelle-Video",
+        "stars": "9177",
+        "url": "https://github.com/AIDC-AI/Pixelle-Video"
+    }
+]
