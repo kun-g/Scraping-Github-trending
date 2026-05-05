@@ -3,126 +3,126 @@
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "language": "N/A",
         "name": "forrestchang/andrej-karpathy-skills",
-        "stars": "111557",
+        "stars": "111608",
         "url": "https://github.com/forrestchang/andrej-karpathy-skills"
     },
     {
         "description": "The agent that grows with you",
         "language": "Python",
         "name": "NousResearch/hermes-agent",
-        "stars": "132704",
+        "stars": "132732",
         "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
         "description": "The open-source managed agents platform. Turn coding agents into real teammates \u2014 assign tasks, track progress, compound skills.",
         "language": "TypeScript",
         "name": "multica-ai/multica",
-        "stars": "24429",
+        "stars": "24437",
         "url": "https://github.com/multica-ai/multica"
     },
     {
         "description": "Production-grade engineering skills for AI coding agents.",
         "language": "Shell",
         "name": "addyosmani/agent-skills",
-        "stars": "27844",
+        "stars": "27875",
         "url": "https://github.com/addyosmani/agent-skills"
     },
     {
         "description": "Skills for Real Engineers. Straight from my .claude directory.",
         "language": "Shell",
         "name": "mattpocock/skills",
-        "stars": "59016",
+        "stars": "59059",
         "url": "https://github.com/mattpocock/skills"
     },
     {
         "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
         "language": "Python",
         "name": "Alishahryar1/free-claude-code",
-        "stars": "21219",
+        "stars": "21230",
         "url": "https://github.com/Alishahryar1/free-claude-code"
     },
     {
         "description": "Kronos: A Foundation Model for the Language of Financial Markets",
         "language": "Python",
         "name": "shiyu-coder/Kronos",
-        "stars": "22747",
+        "stars": "22748",
         "url": "https://github.com/shiyu-coder/Kronos"
     },
     {
         "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
         "language": "TypeScript",
         "name": "coleam00/Archon",
-        "stars": "20759",
+        "stars": "20761",
         "url": "https://github.com/coleam00/Archon"
     },
     {
         "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
         "language": "Python",
         "name": "HKUDS/DeepTutor",
-        "stars": "23238",
+        "stars": "23240",
         "url": "https://github.com/HKUDS/DeepTutor"
     },
     {
         "description": "Python tool for converting files and office documents to Markdown.",
         "language": "Python",
         "name": "microsoft/markitdown",
-        "stars": "120366",
+        "stars": "120385",
         "url": "https://github.com/microsoft/markitdown"
     },
     {
         "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
         "language": "Python",
         "name": "lsdefine/GenericAgent",
-        "stars": "9093",
+        "stars": "9094",
         "url": "https://github.com/lsdefine/GenericAgent"
     },
     {
         "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
         "language": "TypeScript",
         "name": "thedotmack/claude-mem",
-        "stars": "72012",
+        "stars": "72026",
         "url": "https://github.com/thedotmack/claude-mem"
     },
     {
         "description": "ALL IN ONE Hacking Tool For Hackers",
         "language": "Python",
         "name": "Z4nzu/hackingtool",
-        "stars": "71399",
+        "stars": "71407",
         "url": "https://github.com/Z4nzu/hackingtool"
     },
     {
         "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
         "language": "Python",
         "name": "ComposioHQ/awesome-codex-skills",
-        "stars": "6504",
+        "stars": "6512",
         "url": "https://github.com/ComposioHQ/awesome-codex-skills"
     },
     {
         "description": "\ud83d\ude80 AI \u5168\u81ea\u52a8\u77ed\u89c6\u9891\u5f15\u64ce | AI Fully Automated Short Video Engine",
         "language": "Python",
         "name": "AIDC-AI/Pixelle-Video",
-        "stars": "10872",
+        "stars": "10887",
         "url": "https://github.com/AIDC-AI/Pixelle-Video"
     },
     {
         "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
         "language": "Kotlin",
         "name": "google-ai-edge/gallery",
-        "stars": "22599",
+        "stars": "22601",
         "url": "https://github.com/google-ai-edge/gallery"
     },
     {
         "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
         "language": "Rust",
         "name": "rtk-ai/rtk",
-        "stars": "41439",
+        "stars": "41454",
         "url": "https://github.com/rtk-ai/rtk"
     },
     {
         "description": "Claude Code skill to support Android app's reverse engineering",
         "language": "Shell",
         "name": "SimoneAvogadro/android-reverse-engineering-skill",
-        "stars": "5484",
+        "stars": "5486",
         "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill"
     }
 ]
