@@ -1,0 +1,107 @@
+[
+    {
+        "description": "Coding agent for DeepSeek models that runs in your terminal",
+        "language": "Rust",
+        "name": "Hmbown/DeepSeek-TUI",
+        "stars": "13873",
+        "url": "https://github.com/Hmbown/DeepSeek-TUI"
+    },
+    {
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "language": "Shell",
+        "name": "addyosmani/agent-skills",
+        "stars": "30482",
+        "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+        "description": "\u26a1 TabPFN: Foundation Model for Tabular Data \u26a1",
+        "language": "Python",
+        "name": "PriorLabs/TabPFN",
+        "stars": "6574",
+        "url": "https://github.com/PriorLabs/TabPFN"
+    },
+    {
+        "description": "Open source DocuSign alternative. Create, fill, and sign digital documents \u270d\ufe0f",
+        "language": "Ruby",
+        "name": "docusealco/docuseal",
+        "stars": "14888",
+        "url": "https://github.com/docusealco/docuseal"
+    },
+    {
+        "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
+        "language": "Python",
+        "name": "LearningCircuit/local-deep-research",
+        "stars": "5653",
+        "url": "https://github.com/LearningCircuit/local-deep-research"
+    },
+    {
+        "description": "Truly independent web browser",
+        "language": "C++",
+        "name": "LadybirdBrowser/ladybird",
+        "stars": "62982",
+        "url": "https://github.com/LadybirdBrowser/ladybird"
+    },
+    {
+        "description": "InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.",
+        "language": "TypeScript",
+        "name": "InsForge/InsForge",
+        "stars": "8448",
+        "url": "https://github.com/InsForge/InsForge"
+    },
+    {
+        "description": "An autonomous agent for deep financial research",
+        "language": "TypeScript",
+        "name": "virattt/dexter",
+        "stars": "24351",
+        "url": "https://github.com/virattt/dexter"
+    },
+    {
+        "description": "",
+        "language": "Python",
+        "name": "anthropics/financial-services",
+        "stars": "9128",
+        "url": "https://github.com/anthropics/financial-services"
+    },
+    {
+        "description": "\ud83c\udf0a The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+        "language": "TypeScript",
+        "name": "ruvnet/ruflo",
+        "stars": "45260",
+        "url": "https://github.com/ruvnet/ruflo"
+    },
+    {
+        "description": "A list of free LLM inference resources accessible via API.",
+        "language": "Python",
+        "name": "cheahjs/free-llm-api-resources",
+        "stars": "20490",
+        "url": "https://github.com/cheahjs/free-llm-api-resources"
+    },
+    {
+        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+        "language": "Python",
+        "name": "shiyu-coder/Kronos",
+        "stars": "23199",
+        "url": "https://github.com/shiyu-coder/Kronos"
+    },
+    {
+        "description": "VSCode theme based off the easemate IDE and Jetbrains islands theme",
+        "language": "PowerShell",
+        "name": "bwya77/vscode-dark-islands",
+        "stars": "8209",
+        "url": "https://github.com/bwya77/vscode-dark-islands"
+    },
+    {
+        "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+        "language": "Python",
+        "name": "bytedance/deer-flow",
+        "stars": "65534",
+        "url": "https://github.com/bytedance/deer-flow"
+    },
+    {
+        "description": "\ud83d\udd77\ufe0f An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+        "language": "Python",
+        "name": "D4Vinci/Scrapling",
+        "stars": "46282",
+        "url": "https://github.com/D4Vinci/Scrapling"
+    }
+]
