@@ -1,0 +1,93 @@
+[
+    {
+        "description": "",
+        "language": "Python",
+        "name": "anthropics/financial-services",
+        "stars": "11701",
+        "url": "https://github.com/anthropics/financial-services"
+    },
+    {
+        "description": "Coding agent for DeepSeek models that runs in your terminal",
+        "language": "Rust",
+        "name": "Hmbown/DeepSeek-TUI",
+        "stars": "18791",
+        "url": "https://github.com/Hmbown/DeepSeek-TUI"
+    },
+    {
+        "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
+        "language": "Python",
+        "name": "z-lab/dflash",
+        "stars": "3502",
+        "url": "https://github.com/z-lab/dflash"
+    },
+    {
+        "description": "InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.",
+        "language": "TypeScript",
+        "name": "InsForge/InsForge",
+        "stars": "8856",
+        "url": "https://github.com/InsForge/InsForge"
+    },
+    {
+        "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
+        "language": "Python",
+        "name": "LearningCircuit/local-deep-research",
+        "stars": "6251",
+        "url": "https://github.com/LearningCircuit/local-deep-research"
+    },
+    {
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "language": "Shell",
+        "name": "addyosmani/agent-skills",
+        "stars": "32971",
+        "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+        "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+        "language": "Python",
+        "name": "VectifyAI/PageIndex",
+        "stars": "29546",
+        "url": "https://github.com/VectifyAI/PageIndex"
+    },
+    {
+        "description": "An open source template for building cloud agents.",
+        "language": "TypeScript",
+        "name": "vercel-labs/open-agents",
+        "stars": "5046",
+        "url": "https://github.com/vercel-labs/open-agents"
+    },
+    {
+        "description": "Open source DocuSign alternative. Create, fill, and sign digital documents \u270d\ufe0f",
+        "language": "Ruby",
+        "name": "docusealco/docuseal",
+        "stars": "15627",
+        "url": "https://github.com/docusealco/docuseal"
+    },
+    {
+        "description": "\ud83c\udd93 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+        "language": "JavaScript",
+        "name": "decolua/9router",
+        "stars": "4537",
+        "url": "https://github.com/decolua/9router"
+    },
+    {
+        "description": "\u26a1 TabPFN: Foundation Model for Tabular Data \u26a1",
+        "language": "Python",
+        "name": "PriorLabs/TabPFN",
+        "stars": "6789",
+        "url": "https://github.com/PriorLabs/TabPFN"
+    },
+    {
+        "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+        "language": "Rust",
+        "name": "aaif-goose/goose",
+        "stars": "44510",
+        "url": "https://github.com/aaif-goose/goose"
+    },
+    {
+        "description": "OpenReel Video - Professional browser-based video editor. Open source CapCut alternative. 100% browser-based, no installation, no cloud uploads, no watermarks.",
+        "language": "TypeScript",
+        "name": "Augani/openreel-video",
+        "stars": "1695",
+        "url": "https://github.com/Augani/openreel-video"
+    }
+]
