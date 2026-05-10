@@ -1,0 +1,114 @@
+[
+    {
+        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "language": "N/A",
+        "name": "forrestchang/andrej-karpathy-skills",
+        "stars": "122300",
+        "url": "https://github.com/forrestchang/andrej-karpathy-skills"
+    },
+    {
+        "description": "Skills for Real Engineers. Straight from my .claude directory.",
+        "language": "Shell",
+        "name": "mattpocock/skills",
+        "stars": "68036",
+        "url": "https://github.com/mattpocock/skills"
+    },
+    {
+        "description": "The agent that grows with you",
+        "language": "Python",
+        "name": "NousResearch/hermes-agent",
+        "stars": "140981",
+        "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+        "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+        "language": "Python",
+        "name": "Alishahryar1/free-claude-code",
+        "stars": "23256",
+        "url": "https://github.com/Alishahryar1/free-claude-code"
+    },
+    {
+        "description": "The open-source managed agents platform. Turn coding agents into real teammates \u2014 assign tasks, track progress, compound skills.",
+        "language": "TypeScript",
+        "name": "multica-ai/multica",
+        "stars": "26620",
+        "url": "https://github.com/multica-ai/multica"
+    },
+    {
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "language": "Shell",
+        "name": "addyosmani/agent-skills",
+        "stars": "37384",
+        "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+        "description": "\ud83d\ude80 AI \u5168\u81ea\u52a8\u77ed\u89c6\u9891\u5f15\u64ce | AI Fully Automated Short Video Engine",
+        "language": "Python",
+        "name": "AIDC-AI/Pixelle-Video",
+        "stars": "14175",
+        "url": "https://github.com/AIDC-AI/Pixelle-Video"
+    },
+    {
+        "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+        "language": "Python",
+        "name": "lsdefine/GenericAgent",
+        "stars": "10307",
+        "url": "https://github.com/lsdefine/GenericAgent"
+    },
+    {
+        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+        "language": "Python",
+        "name": "shiyu-coder/Kronos",
+        "stars": "23799",
+        "url": "https://github.com/shiyu-coder/Kronos"
+    },
+    {
+        "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+        "language": "Python",
+        "name": "ComposioHQ/awesome-codex-skills",
+        "stars": "7815",
+        "url": "https://github.com/ComposioHQ/awesome-codex-skills"
+    },
+    {
+        "description": "ALL IN ONE Hacking Tool For Hackers",
+        "language": "Python",
+        "name": "Z4nzu/hackingtool",
+        "stars": "73229",
+        "url": "https://github.com/Z4nzu/hackingtool"
+    },
+    {
+        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+        "language": "TypeScript",
+        "name": "thedotmack/claude-mem",
+        "stars": "74143",
+        "url": "https://github.com/thedotmack/claude-mem"
+    },
+    {
+        "description": "AI generates natively editable PPTX from any document \u2014 real PowerPoint shapes with native animations, not images \u00b7 by Hugo He",
+        "language": "Python",
+        "name": "hugohe3/ppt-master",
+        "stars": "13960",
+        "url": "https://github.com/hugohe3/ppt-master"
+    },
+    {
+        "description": "Unrestricted, open-source alternative to AI video platforms \u2014 Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+        "language": "JavaScript",
+        "name": "Anil-matcha/Open-Generative-AI",
+        "stars": "12412",
+        "url": "https://github.com/Anil-matcha/Open-Generative-AI"
+    },
+    {
+        "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+        "language": "Python",
+        "name": "OpenBMB/VoxCPM",
+        "stars": "18062",
+        "url": "https://github.com/OpenBMB/VoxCPM"
+    },
+    {
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "language": "Python",
+        "name": "microsoft/markitdown",
+        "stars": "122251",
+        "url": "https://github.com/microsoft/markitdown"
+    }
+]
