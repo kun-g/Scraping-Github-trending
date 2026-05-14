@@ -1,0 +1,114 @@
+[
+    {
+        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "language": "N/A",
+        "name": "multica-ai/andrej-karpathy-skills",
+        "stars": "128380",
+        "url": "https://github.com/multica-ai/andrej-karpathy-skills"
+    },
+    {
+        "description": "Skills for Real Engineers. Straight from my .claude directory.",
+        "language": "Shell",
+        "name": "mattpocock/skills",
+        "stars": "78991",
+        "url": "https://github.com/mattpocock/skills"
+    },
+    {
+        "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+        "language": "Python",
+        "name": "Alishahryar1/free-claude-code",
+        "stars": "24382",
+        "url": "https://github.com/Alishahryar1/free-claude-code"
+    },
+    {
+        "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+        "language": "Python",
+        "name": "lsdefine/GenericAgent",
+        "stars": "11228",
+        "url": "https://github.com/lsdefine/GenericAgent"
+    },
+    {
+        "description": "\ud83d\ude80 AI \u5168\u81ea\u52a8\u77ed\u89c6\u9891\u5f15\u64ce | AI Fully Automated Short Video Engine",
+        "language": "Python",
+        "name": "AIDC-AI/Pixelle-Video",
+        "stars": "16205",
+        "url": "https://github.com/AIDC-AI/Pixelle-Video"
+    },
+    {
+        "description": "The agent that grows with you",
+        "language": "Python",
+        "name": "NousResearch/hermes-agent",
+        "stars": "148683",
+        "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+        "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+        "language": "Python",
+        "name": "ComposioHQ/awesome-codex-skills",
+        "stars": "9240",
+        "url": "https://github.com/ComposioHQ/awesome-codex-skills"
+    },
+    {
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "language": "Shell",
+        "name": "addyosmani/agent-skills",
+        "stars": "41052",
+        "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+        "description": "Build your own AI SRE agents. The open source toolkit for the AI era.",
+        "language": "Python",
+        "name": "Tracer-Cloud/opensre",
+        "stars": "5005",
+        "url": "https://github.com/Tracer-Cloud/opensre"
+    },
+    {
+        "description": "ALL IN ONE Hacking Tool For Hackers",
+        "language": "Python",
+        "name": "Z4nzu/hackingtool",
+        "stars": "74105",
+        "url": "https://github.com/Z4nzu/hackingtool"
+    },
+    {
+        "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from 3000+ sites",
+        "language": "Python",
+        "name": "soxoj/maigret",
+        "stars": "28412",
+        "url": "https://github.com/soxoj/maigret"
+    },
+    {
+        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "language": "Python",
+        "name": "TauricResearch/TradingAgents",
+        "stars": "74968",
+        "url": "https://github.com/TauricResearch/TradingAgents"
+    },
+    {
+        "description": "",
+        "language": "Python",
+        "name": "anthropics/financial-services",
+        "stars": "22270",
+        "url": "https://github.com/anthropics/financial-services"
+    },
+    {
+        "description": "Open-source alternative to AI video platforms \u2014 Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+        "language": "JavaScript",
+        "name": "Anil-matcha/Open-Generative-AI",
+        "stars": "13267",
+        "url": "https://github.com/Anil-matcha/Open-Generative-AI"
+    },
+    {
+        "description": "The open-source managed agents platform. Turn coding agents into real teammates \u2014 assign tasks, track progress, compound skills.",
+        "language": "TypeScript",
+        "name": "multica-ai/multica",
+        "stars": "28074",
+        "url": "https://github.com/multica-ai/multica"
+    },
+    {
+        "description": "AI generates natively editable PPTX from any document \u2014 real PowerPoint shapes with native animations, not images \u00b7 by Hugo He",
+        "language": "Python",
+        "name": "hugohe3/ppt-master",
+        "stars": "15903",
+        "url": "https://github.com/hugohe3/ppt-master"
+    }
+]
