@@ -1,0 +1,114 @@
+[
+    {
+        "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+        "language": "TypeScript",
+        "name": "Lum1104/Understand-Anything",
+        "stars": "25862",
+        "url": "https://github.com/Lum1104/Understand-Anything"
+    },
+    {
+        "description": "Learn it. Build it. Ship it for others.",
+        "language": "Python",
+        "name": "rohitg00/ai-engineering-from-scratch",
+        "stars": "16005",
+        "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+    },
+    {
+        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "language": "Python",
+        "name": "anthropics/claude-plugins-official",
+        "stars": "27243",
+        "url": "https://github.com/anthropics/claude-plugins-official"
+    },
+    {
+        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "language": "Python",
+        "name": "anthropics/knowledge-work-plugins",
+        "stars": "14059",
+        "url": "https://github.com/anthropics/knowledge-work-plugins"
+    },
+    {
+        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "language": "N/A",
+        "name": "multica-ai/andrej-karpathy-skills",
+        "stars": "152089",
+        "url": "https://github.com/multica-ai/andrej-karpathy-skills"
+    },
+    {
+        "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+        "language": "TypeScript",
+        "name": "earendil-works/pi",
+        "stars": "53931",
+        "url": "https://github.com/earendil-works/pi"
+    },
+    {
+        "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+        "language": "Python",
+        "name": "Alishahryar1/free-claude-code",
+        "stars": "29162",
+        "url": "https://github.com/Alishahryar1/free-claude-code"
+    },
+    {
+        "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent \u2014 fewer tokens, fewer tool calls, 100% local",
+        "language": "TypeScript",
+        "name": "colbymchenry/codegraph",
+        "stars": "21998",
+        "url": "https://github.com/colbymchenry/codegraph"
+    },
+    {
+        "description": "The open-source managed agents platform. Turn coding agents into real teammates \u2014 assign tasks, track progress, compound skills.",
+        "language": "TypeScript",
+        "name": "multica-ai/multica",
+        "stars": "32491",
+        "url": "https://github.com/multica-ai/multica"
+    },
+    {
+        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+        "language": "Python",
+        "name": "shiyu-coder/Kronos",
+        "stars": "25796",
+        "url": "https://github.com/shiyu-coder/Kronos"
+    },
+    {
+        "description": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
+        "language": "Swift",
+        "name": "manaflow-ai/cmux",
+        "stars": "19020",
+        "url": "https://github.com/manaflow-ai/cmux"
+    },
+    {
+        "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. \u7b80\u6d01\u901a\u7528\u7684\u7fa4\u4f53\u667a\u80fd\u5f15\u64ce\uff0c\u9884\u6d4b\u4e07\u7269",
+        "language": "Python",
+        "name": "666ghj/MiroFish",
+        "stars": "62147",
+        "url": "https://github.com/666ghj/MiroFish"
+    },
+    {
+        "description": "Master programming by recreating your favorite technologies from scratch.",
+        "language": "Markdown",
+        "name": "codecrafters-io/build-your-own-x",
+        "stars": "504263",
+        "url": "https://github.com/codecrafters-io/build-your-own-x"
+    },
+    {
+        "description": "Repository for skills to assist AI coding agents with .NET and C#",
+        "language": "C#",
+        "name": "dotnet/skills",
+        "stars": "2965",
+        "url": "https://github.com/dotnet/skills"
+    },
+    {
+        "description": "NVR with realtime local object detection for IP cameras",
+        "language": "TypeScript",
+        "name": "blakeblackshear/frigate",
+        "stars": "32844",
+        "url": "https://github.com/blakeblackshear/frigate"
+    },
+    {
+        "description": "754 structured cybersecurity skills for AI agents \u00b7 Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF \u00b7 agentskills.io standard \u00b7 Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms \u00b7 26 security domains \u00b7 Apache 2.0",
+        "language": "Python",
+        "name": "mukul975/Anthropic-Cybersecurity-Skills",
+        "stars": "8340",
+        "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+    }
+]
