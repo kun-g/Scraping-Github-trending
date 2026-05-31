@@ -1,0 +1,135 @@
+[
+    {
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "language": "Python",
+        "name": "microsoft/markitdown",
+        "stars": "132401",
+        "url": "https://github.com/microsoft/markitdown"
+    },
+    {
+        "description": "\u5229\u7528AI\u5927\u6a21\u578b\uff0c\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891 Generate short videos with one click using AI LLM.",
+        "language": "Python",
+        "name": "harry0703/MoneyPrinterTurbo",
+        "stars": "71972",
+        "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+    },
+    {
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "language": "Python",
+        "name": "anthropics/claude-code",
+        "stars": "128395",
+        "url": "https://github.com/anthropics/claude-code"
+    },
+    {
+        "description": "Cursor plugin specification and official plugins",
+        "language": "TypeScript",
+        "name": "cursor/plugins",
+        "stars": "1458",
+        "url": "https://github.com/cursor/plugins"
+    },
+    {
+        "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+        "language": "HTML",
+        "name": "revfactory/harness",
+        "stars": "4265",
+        "url": "https://github.com/revfactory/harness"
+    },
+    {
+        "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+        "language": "TypeScript",
+        "name": "EveryInc/compound-engineering-plugin",
+        "stars": "18424",
+        "url": "https://github.com/EveryInc/compound-engineering-plugin"
+    },
+    {
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "name": "affaan-m/ECC",
+        "stars": "199304",
+        "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+        "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+        "language": "Python",
+        "name": "OpenBMB/VoxCPM",
+        "stars": "22759",
+        "url": "https://github.com/OpenBMB/VoxCPM"
+    },
+    {
+        "description": "A platform for reproducible world model research and evaluation",
+        "language": "Python",
+        "name": "galilai-group/stable-worldmodel",
+        "stars": "1461",
+        "url": "https://github.com/galilai-group/stable-worldmodel"
+    },
+    {
+        "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered\u2014anytime, anywhere.",
+        "language": "TypeScript",
+        "name": "Crosstalk-Solutions/project-nomad",
+        "stars": "27358",
+        "url": "https://github.com/Crosstalk-Solutions/project-nomad"
+    },
+    {
+        "description": "A fast, helpful, and open-source document parser",
+        "language": "Rust",
+        "name": "run-llama/liteparse",
+        "stars": "7906",
+        "url": "https://github.com/run-llama/liteparse"
+    },
+    {
+        "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
+        "language": "Dart",
+        "name": "chen08209/FlClash",
+        "stars": "40363",
+        "url": "https://github.com/chen08209/FlClash"
+    },
+    {
+        "description": "A straightforward method for training your LLM, from downloading data to generating text.",
+        "language": "Jupyter Notebook",
+        "name": "FareedKhan-dev/train-llm-from-scratch",
+        "stars": "2259",
+        "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch"
+    },
+    {
+        "description": "\u03c0 RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.",
+        "language": "Rust",
+        "name": "ruvnet/RuView",
+        "stars": "68907",
+        "url": "https://github.com/ruvnet/RuView"
+    },
+    {
+        "description": "Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here \ud83d\udc47\ud83c\udffc",
+        "language": "Jupyter Notebook",
+        "name": "DataTalksClub/data-engineering-zoomcamp",
+        "stars": "41788",
+        "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp"
+    },
+    {
+        "description": "MOSS\u2011TTS Family is an open\u2011source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high\u2011fidelity, high\u2011expressiveness, and complex real\u2011world scenarios, covering stable long\u2011form speech, multi\u2011speaker dialogue, voice/character design, environmental sound effects, and real\u2011time streaming TTS.",
+        "language": "Python",
+        "name": "OpenMOSS/MOSS-TTS",
+        "stars": "2633",
+        "url": "https://github.com/OpenMOSS/MOSS-TTS"
+    },
+    {
+        "description": "\u81ea\u52a8\u5316\u4e0a\u4f20\u89c6\u9891\u5230\u793e\u4ea4\u5a92\u4f53\uff1a\u6296\u97f3\u3001\u5c0f\u7ea2\u4e66\u3001\u89c6\u9891\u53f7\u3001tiktok\u3001youtube\u3001bilibili",
+        "language": "Python",
+        "name": "dreammis/social-auto-upload",
+        "stars": "11769",
+        "url": "https://github.com/dreammis/social-auto-upload"
+    },
+    {
+        "description": "Public repository for Agent Skills",
+        "language": "Python",
+        "name": "anthropics/skills",
+        "stars": "144136",
+        "url": "https://github.com/anthropics/skills"
+    },
+    {
+        "description": "Master programming by recreating your favorite technologies from scratch.",
+        "language": "Markdown",
+        "name": "codecrafters-io/build-your-own-x",
+        "stars": "508245",
+        "url": "https://github.com/codecrafters-io/build-your-own-x"
+    }
+]
