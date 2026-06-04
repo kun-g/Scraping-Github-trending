@@ -1,0 +1,100 @@
+[
+    {
+        "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+        "language": "Python",
+        "name": "chopratejas/headroom",
+        "stars": "9771",
+        "url": "https://github.com/chopratejas/headroom"
+    },
+    {
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "name": "affaan-m/ECC",
+        "stars": "205755",
+        "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+        "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+        "language": "Go",
+        "name": "aquasecurity/trivy",
+        "stars": "35406",
+        "url": "https://github.com/aquasecurity/trivy"
+    },
+    {
+        "description": "The agent that grows with you",
+        "language": "Python",
+        "name": "NousResearch/hermes-agent",
+        "stars": "179140",
+        "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "language": "Python",
+        "name": "microsoft/markitdown",
+        "stars": "142883",
+        "url": "https://github.com/microsoft/markitdown"
+    },
+    {
+        "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+        "language": "Python",
+        "name": "nesquena/hermes-webui",
+        "stars": "13107",
+        "url": "https://github.com/nesquena/hermes-webui"
+    },
+    {
+        "description": "\ud83d\udd77\ufe0f An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+        "language": "Python",
+        "name": "D4Vinci/Scrapling",
+        "stars": "60254",
+        "url": "https://github.com/D4Vinci/Scrapling"
+    },
+    {
+        "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+        "language": "Java",
+        "name": "opendataloader-project/opendataloader-pdf",
+        "stars": "23281",
+        "url": "https://github.com/opendataloader-project/opendataloader-pdf"
+    },
+    {
+        "description": "Odoo. Open Source Apps To Grow Your Business.",
+        "language": "Python",
+        "name": "odoo/odoo",
+        "stars": "51937",
+        "url": "https://github.com/odoo/odoo"
+    },
+    {
+        "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+        "language": "Python",
+        "name": "Open-LLM-VTuber/Open-LLM-VTuber",
+        "stars": "8966",
+        "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber"
+    },
+    {
+        "description": "A complete computer science study plan to become a software engineer.",
+        "language": "N/A",
+        "name": "jwasham/coding-interview-university",
+        "stars": "349021",
+        "url": "https://github.com/jwasham/coding-interview-university"
+    },
+    {
+        "description": "AirLLM 70B inference with single 4GB GPU",
+        "language": "Jupyter Notebook",
+        "name": "lyogavin/airllm",
+        "stars": "18908",
+        "url": "https://github.com/lyogavin/airllm"
+    },
+    {
+        "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+        "language": "TypeScript",
+        "name": "supermemoryai/supermemory",
+        "stars": "25180",
+        "url": "https://github.com/supermemoryai/supermemory"
+    },
+    {
+        "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+        "language": "Python",
+        "name": "HKUDS/Vibe-Trading",
+        "stars": "9931",
+        "url": "https://github.com/HKUDS/Vibe-Trading"
+    }
+]

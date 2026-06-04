@@ -1,0 +1,156 @@
+[
+    {
+        "description": "\u5229\u7528AI\u5927\u6a21\u578b\uff0c\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891 Generate short videos with one click using AI LLM.",
+        "language": "Python",
+        "name": "harry0703/MoneyPrinterTurbo",
+        "stars": "78845",
+        "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+    },
+    {
+        "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+        "language": "Python",
+        "name": "chopratejas/headroom",
+        "stars": "9772",
+        "url": "https://github.com/chopratejas/headroom"
+    },
+    {
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "language": "Python",
+        "name": "microsoft/markitdown",
+        "stars": "142883",
+        "url": "https://github.com/microsoft/markitdown"
+    },
+    {
+        "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+        "language": "TypeScript",
+        "name": "Lum1104/Understand-Anything",
+        "stars": "51136",
+        "url": "https://github.com/Lum1104/Understand-Anything"
+    },
+    {
+        "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+        "language": "HTML",
+        "name": "revfactory/harness",
+        "stars": "5697",
+        "url": "https://github.com/revfactory/harness"
+    },
+    {
+        "description": "A skill file for removing AI tells from prose",
+        "language": "N/A",
+        "name": "hardikpandya/stop-slop",
+        "stars": "8538",
+        "url": "https://github.com/hardikpandya/stop-slop"
+    },
+    {
+        "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+        "language": "TypeScript",
+        "name": "EveryInc/compound-engineering-plugin",
+        "stars": "19603",
+        "url": "https://github.com/EveryInc/compound-engineering-plugin"
+    },
+    {
+        "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+        "language": "Shell",
+        "name": "Leonxlnx/taste-skill",
+        "stars": "32521",
+        "url": "https://github.com/Leonxlnx/taste-skill"
+    },
+    {
+        "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+        "language": "TypeScript",
+        "name": "supermemoryai/supermemory",
+        "stars": "25180",
+        "url": "https://github.com/supermemoryai/supermemory"
+    },
+    {
+        "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent \u2014 fewer tokens, fewer tool calls, 100% local",
+        "language": "TypeScript",
+        "name": "colbymchenry/codegraph",
+        "stars": "39349",
+        "url": "https://github.com/colbymchenry/codegraph"
+    },
+    {
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "name": "affaan-m/ECC",
+        "stars": "205755",
+        "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+        "description": "MOSS\u2011TTS Family is an open\u2011source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high\u2011fidelity, high\u2011expressiveness, and complex real\u2011world scenarios, covering stable long\u2011form speech, multi\u2011speaker dialogue, voice/character design, environmental sound effects, and real\u2011time streaming TTS.",
+        "language": "Python",
+        "name": "OpenMOSS/MOSS-TTS",
+        "stars": "2963",
+        "url": "https://github.com/OpenMOSS/MOSS-TTS"
+    },
+    {
+        "description": "754 structured cybersecurity skills for AI agents \u00b7 Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF \u00b7 agentskills.io standard \u00b7 Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms \u00b7 26 security domains \u00b7 Apache 2.0",
+        "language": "Python",
+        "name": "mukul975/Anthropic-Cybersecurity-Skills",
+        "stars": "13901",
+        "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+        "description": "Learn it. Build it. Ship it for others.",
+        "language": "Python",
+        "name": "rohitg00/ai-engineering-from-scratch",
+        "stars": "27905",
+        "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+    },
+    {
+        "description": "Cursor plugin specification and official plugins",
+        "language": "TypeScript",
+        "name": "cursor/plugins",
+        "stars": "1784",
+        "url": "https://github.com/cursor/plugins"
+    },
+    {
+        "description": "\u2325 AI Coding agent for the terminal \u2014 hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+        "language": "TypeScript",
+        "name": "can1357/oh-my-pi",
+        "stars": "10310",
+        "url": "https://github.com/can1357/oh-my-pi"
+    },
+    {
+        "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+        "language": "Python",
+        "name": "microsoft/agent-governance-toolkit",
+        "stars": "3925",
+        "url": "https://github.com/microsoft/agent-governance-toolkit"
+    },
+    {
+        "description": "agent multiplexer that lives in your terminal.",
+        "language": "Rust",
+        "name": "ogulcancelik/herdr",
+        "stars": "4108",
+        "url": "https://github.com/ogulcancelik/herdr"
+    },
+    {
+        "description": "Fully automatic censorship removal for language models",
+        "language": "Python",
+        "name": "p-e-w/heretic",
+        "stars": "23423",
+        "url": "https://github.com/p-e-w/heretic"
+    },
+    {
+        "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+        "language": "Python",
+        "name": "OpenBMB/VoxCPM",
+        "stars": "25599",
+        "url": "https://github.com/OpenBMB/VoxCPM"
+    },
+    {
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "language": "Python",
+        "name": "anthropics/claude-code",
+        "stars": "129868",
+        "url": "https://github.com/anthropics/claude-code"
+    },
+    {
+        "description": "Effortlessly compose, extend, and observe every service in real-time for the first time ever.",
+        "language": "Rust",
+        "name": "iii-hq/iii",
+        "stars": "17613",
+        "url": "https://github.com/iii-hq/iii"
+    }
+]
