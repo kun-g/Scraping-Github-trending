@@ -1,0 +1,100 @@
+[
+    {
+        "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+        "language": "Python",
+        "name": "chopratejas/headroom",
+        "stars": "12513",
+        "url": "https://github.com/chopratejas/headroom"
+    },
+    {
+        "description": "The agent that grows with you",
+        "language": "Python",
+        "name": "NousResearch/hermes-agent",
+        "stars": "180999",
+        "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "name": "affaan-m/ECC",
+        "stars": "207239",
+        "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+        "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+        "language": "Python",
+        "name": "PaddlePaddle/PaddleOCR",
+        "stars": "79872",
+        "url": "https://github.com/PaddlePaddle/PaddleOCR"
+    },
+    {
+        "description": "\ud83d\udcab Toolkit to help you get started with Spec-Driven Development",
+        "language": "Python",
+        "name": "github/spec-kit",
+        "stars": "108575",
+        "url": "https://github.com/github/spec-kit"
+    },
+    {
+        "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
+        "language": "Jupyter Notebook",
+        "name": "NVIDIA/cosmos",
+        "stars": "8999",
+        "url": "https://github.com/NVIDIA/cosmos"
+    },
+    {
+        "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+        "language": "TypeScript",
+        "name": "lfnovo/open-notebook",
+        "stars": "25033",
+        "url": "https://github.com/lfnovo/open-notebook"
+    },
+    {
+        "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+        "language": "Python",
+        "name": "Open-LLM-VTuber/Open-LLM-VTuber",
+        "stars": "9590",
+        "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber"
+    },
+    {
+        "description": "A complete computer science study plan to become a software engineer.",
+        "language": "N/A",
+        "name": "jwasham/coding-interview-university",
+        "stars": "349729",
+        "url": "https://github.com/jwasham/coding-interview-university"
+    },
+    {
+        "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+        "language": "Java",
+        "name": "github/copilot-sdk",
+        "stars": "8977",
+        "url": "https://github.com/github/copilot-sdk"
+    },
+    {
+        "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+        "language": "Go",
+        "name": "aquasecurity/trivy",
+        "stars": "35668",
+        "url": "https://github.com/aquasecurity/trivy"
+    },
+    {
+        "description": "Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension",
+        "language": "C#",
+        "name": "openclaw/openclaw-windows-node",
+        "stars": "1326",
+        "url": "https://github.com/openclaw/openclaw-windows-node"
+    },
+    {
+        "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+        "language": "TypeScript",
+        "name": "reconurge/flowsint",
+        "stars": "5310",
+        "url": "https://github.com/reconurge/flowsint"
+    },
+    {
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "language": "Python",
+        "name": "mvanhorn/last30days-skill",
+        "stars": "27582",
+        "url": "https://github.com/mvanhorn/last30days-skill"
+    }
+]
