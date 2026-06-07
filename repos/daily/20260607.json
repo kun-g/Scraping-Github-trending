@@ -1,0 +1,128 @@
+[
+    {
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "language": "Python",
+        "name": "mvanhorn/last30days-skill",
+        "stars": "28815",
+        "url": "https://github.com/mvanhorn/last30days-skill"
+    },
+    {
+        "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
+        "language": "TypeScript",
+        "name": "CopilotKit/CopilotKit",
+        "stars": "33215",
+        "url": "https://github.com/CopilotKit/CopilotKit"
+    },
+    {
+        "description": "The best-benchmarked open-source AI memory system. And it's free.",
+        "language": "Python",
+        "name": "MemPalace/mempalace",
+        "stars": "54287",
+        "url": "https://github.com/MemPalace/mempalace"
+    },
+    {
+        "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+        "language": "TypeScript",
+        "name": "danielmiessler/Personal_AI_Infrastructure",
+        "stars": "14963",
+        "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure"
+    },
+    {
+        "description": "OpenAI Plugins",
+        "language": "JavaScript",
+        "name": "openai/plugins",
+        "stars": "1777",
+        "url": "https://github.com/openai/plugins"
+    },
+    {
+        "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu \u2014 one CLI, zero API fees.",
+        "language": "Python",
+        "name": "Panniantong/Agent-Reach",
+        "stars": "22331",
+        "url": "https://github.com/Panniantong/Agent-Reach"
+    },
+    {
+        "description": "web development for the rest of us",
+        "language": "JavaScript",
+        "name": "sveltejs/svelte",
+        "stars": "86989",
+        "url": "https://github.com/sveltejs/svelte"
+    },
+    {
+        "description": "The official NGINX Open Source repository.",
+        "language": "C",
+        "name": "nginx/nginx",
+        "stars": "30691",
+        "url": "https://github.com/nginx/nginx"
+    },
+    {
+        "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+        "language": "Go",
+        "name": "aquasecurity/trivy",
+        "stars": "36001",
+        "url": "https://github.com/aquasecurity/trivy"
+    },
+    {
+        "description": "The Go programming language",
+        "language": "Go",
+        "name": "golang/go",
+        "stars": "134507",
+        "url": "https://github.com/golang/go"
+    },
+    {
+        "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+        "language": "TypeScript",
+        "name": "lfnovo/open-notebook",
+        "stars": "26621",
+        "url": "https://github.com/lfnovo/open-notebook"
+    },
+    {
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "name": "obra/superpowers",
+        "stars": "219660",
+        "url": "https://github.com/obra/superpowers"
+    },
+    {
+        "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+        "language": "JavaScript",
+        "name": "santifer/career-ops",
+        "stars": "49356",
+        "url": "https://github.com/santifer/career-ops"
+    },
+    {
+        "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+        "language": "Python",
+        "name": "openai/whisper",
+        "stars": "101862",
+        "url": "https://github.com/openai/whisper"
+    },
+    {
+        "description": "Next generation frontend tooling. It's fast!",
+        "language": "TypeScript",
+        "name": "vitejs/vite",
+        "stars": "81183",
+        "url": "https://github.com/vitejs/vite"
+    },
+    {
+        "description": "Policy-driven, layered isolation and containment",
+        "language": "Rust",
+        "name": "microsoft/mxc",
+        "stars": "581",
+        "url": "https://github.com/microsoft/mxc"
+    },
+    {
+        "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+        "language": "Python",
+        "name": "PaddlePaddle/PaddleOCR",
+        "stars": "80965",
+        "url": "https://github.com/PaddlePaddle/PaddleOCR"
+    },
+    {
+        "description": "Open-Source Frontier Voice AI",
+        "language": "Python",
+        "name": "microsoft/VibeVoice",
+        "stars": "48477",
+        "url": "https://github.com/microsoft/VibeVoice"
+    }
+]
