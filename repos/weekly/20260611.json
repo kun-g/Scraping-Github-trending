@@ -1,0 +1,121 @@
+[
+    {
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "language": "Python",
+        "name": "mvanhorn/last30days-skill",
+        "stars": "39078",
+        "url": "https://github.com/mvanhorn/last30days-skill"
+    },
+    {
+        "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+        "language": "Python",
+        "name": "chopratejas/headroom",
+        "stars": "21780",
+        "url": "https://github.com/chopratejas/headroom"
+    },
+    {
+        "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+        "language": "TypeScript",
+        "name": "lfnovo/open-notebook",
+        "stars": "28982",
+        "url": "https://github.com/lfnovo/open-notebook"
+    },
+    {
+        "description": "OpenAI Plugins",
+        "language": "JavaScript",
+        "name": "openai/plugins",
+        "stars": "2748",
+        "url": "https://github.com/openai/plugins"
+    },
+    {
+        "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu \u2014 one CLI, zero API fees.",
+        "language": "Python",
+        "name": "Panniantong/Agent-Reach",
+        "stars": "26054",
+        "url": "https://github.com/Panniantong/Agent-Reach"
+    },
+    {
+        "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+        "language": "Shell",
+        "name": "Leonxlnx/taste-skill",
+        "stars": "40629",
+        "url": "https://github.com/Leonxlnx/taste-skill"
+    },
+    {
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "language": "Python",
+        "name": "microsoft/markitdown",
+        "stars": "150302",
+        "url": "https://github.com/microsoft/markitdown"
+    },
+    {
+        "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins \u2014 from discovery to strategy, execution, launch, and growth.",
+        "language": "N/A",
+        "name": "phuryn/pm-skills",
+        "stars": "14869",
+        "url": "https://github.com/phuryn/pm-skills"
+    },
+    {
+        "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+        "language": "Python",
+        "name": "Open-LLM-VTuber/Open-LLM-VTuber",
+        "stars": "10861",
+        "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber"
+    },
+    {
+        "description": "The agent that grows with you",
+        "language": "Python",
+        "name": "NousResearch/hermes-agent",
+        "stars": "189968",
+        "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+        "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+        "language": "Go",
+        "name": "aquasecurity/trivy",
+        "stars": "36290",
+        "url": "https://github.com/aquasecurity/trivy"
+    },
+    {
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "name": "affaan-m/ECC",
+        "stars": "212728",
+        "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+        "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
+        "language": "TypeScript",
+        "name": "CopilotKit/CopilotKit",
+        "stars": "34609",
+        "url": "https://github.com/CopilotKit/CopilotKit"
+    },
+    {
+        "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+        "language": "HTML",
+        "name": "revfactory/harness",
+        "stars": "6755",
+        "url": "https://github.com/revfactory/harness"
+    },
+    {
+        "description": "The design language that makes your AI harness better at design.",
+        "language": "JavaScript",
+        "name": "pbakaus/impeccable",
+        "stars": "37200",
+        "url": "https://github.com/pbakaus/impeccable"
+    },
+    {
+        "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+        "language": "TypeScript",
+        "name": "EveryInc/compound-engineering-plugin",
+        "stars": "20925",
+        "url": "https://github.com/EveryInc/compound-engineering-plugin"
+    },
+    {
+        "description": "We write your reusable computer vision tools. \ud83d\udc9c",
+        "language": "Python",
+        "name": "roboflow/supervision",
+        "stars": "43574",
+        "url": "https://github.com/roboflow/supervision"
+    }
+]
