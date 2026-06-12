@@ -1,0 +1,135 @@
+[
+    {
+        "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+        "language": "Swift",
+        "name": "apple/container",
+        "stars": "32480",
+        "url": "https://github.com/apple/container"
+    },
+    {
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "language": "Shell",
+        "name": "addyosmani/agent-skills",
+        "stars": "54750",
+        "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+        "description": "open-source healthcare ai",
+        "language": "Python",
+        "name": "maziyarpanahi/openmed",
+        "stars": "2755",
+        "url": "https://github.com/maziyarpanahi/openmed"
+    },
+    {
+        "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins \u2014 from discovery to strategy, execution, launch, and growth.",
+        "language": "N/A",
+        "name": "phuryn/pm-skills",
+        "stars": "16222",
+        "url": "https://github.com/phuryn/pm-skills"
+    },
+    {
+        "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+        "language": "Python",
+        "name": "NVIDIA/SkillSpector",
+        "stars": "2669",
+        "url": "https://github.com/NVIDIA/SkillSpector"
+    },
+    {
+        "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from 3000+ sites",
+        "language": "Python",
+        "name": "soxoj/maigret",
+        "stars": "32615",
+        "url": "https://github.com/soxoj/maigret"
+    },
+    {
+        "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+        "language": "N/A",
+        "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+        "stars": "139871",
+        "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+    },
+    {
+        "description": "Desktop app to manage markdown knowledge bases",
+        "language": "TypeScript",
+        "name": "refactoringhq/tolaria",
+        "stars": "15396",
+        "url": "https://github.com/refactoringhq/tolaria"
+    },
+    {
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "name": "obra/superpowers",
+        "stars": "224838",
+        "url": "https://github.com/obra/superpowers"
+    },
+    {
+        "description": "Fast, secure, efficient backup program",
+        "language": "Go",
+        "name": "restic/restic",
+        "stars": "34161",
+        "url": "https://github.com/restic/restic"
+    },
+    {
+        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+        "language": "Shell",
+        "name": "msitarzewski/agency-agents",
+        "stars": "111583",
+        "url": "https://github.com/msitarzewski/agency-agents"
+    },
+    {
+        "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+        "language": "Go",
+        "name": "masterking32/MasterDnsVPN",
+        "stars": "5697",
+        "url": "https://github.com/masterking32/MasterDnsVPN"
+    },
+    {
+        "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. \ud83d\udd25\ud83d\udcac",
+        "language": "Ruby",
+        "name": "chatwoot/chatwoot",
+        "stars": "30368",
+        "url": "https://github.com/chatwoot/chatwoot"
+    },
+    {
+        "description": "Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!",
+        "language": "Go",
+        "name": "kenn-io/agentsview",
+        "stars": "1648",
+        "url": "https://github.com/kenn-io/agentsview"
+    },
+    {
+        "description": "\u5f20\u96ea\u5cf0.skill \u2014 \u5f20\u96ea\u5cf0\u7684\u8ba4\u77e5\u64cd\u4f5c\u7cfb\u7edf\u3002\u9ad8\u8003\u5fd7\u613f/\u8003\u7814/\u804c\u4e1a\u89c4\u5212\u7684\u5b9e\u6218\u601d\u7ef4\u6846\u67b6\u3002\u7531\u5973\u5a32.skill\u751f\u6210\u3002",
+        "language": "N/A",
+        "name": "alchaincyf/zhangxuefeng-skill",
+        "stars": "7952",
+        "url": "https://github.com/alchaincyf/zhangxuefeng-skill"
+    },
+    {
+        "description": "\u6240\u6709\u5c0f\u521d\u9ad8\u3001\u5927\u5b66PDF\u6559\u6750\u3002",
+        "language": "Roff",
+        "name": "TapXWorld/ChinaTextbook",
+        "stars": "73928",
+        "url": "https://github.com/TapXWorld/ChinaTextbook"
+    },
+    {
+        "description": "SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task.",
+        "language": "Python",
+        "name": "hexo-ai/sia",
+        "stars": "1305",
+        "url": "https://github.com/hexo-ai/sia"
+    },
+    {
+        "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
+        "language": "TypeScript",
+        "name": "mattermost/mattermost",
+        "stars": "37319",
+        "url": "https://github.com/mattermost/mattermost"
+    },
+    {
+        "description": "\u7ffb\u5899-\u79d1\u5b66\u4e0a\u7f51",
+        "language": "Kotlin",
+        "name": "bannedbook/fanqiang",
+        "stars": "46778",
+        "url": "https://github.com/bannedbook/fanqiang"
+    }
+]
