@@ -1,0 +1,128 @@
+[
+    {
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "language": "Python",
+        "name": "mvanhorn/last30days-skill",
+        "stars": "40356",
+        "url": "https://github.com/mvanhorn/last30days-skill"
+    },
+    {
+        "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+        "language": "Python",
+        "name": "chopratejas/headroom",
+        "stars": "24702",
+        "url": "https://github.com/chopratejas/headroom"
+    },
+    {
+        "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins \u2014 from discovery to strategy, execution, launch, and growth.",
+        "language": "N/A",
+        "name": "phuryn/pm-skills",
+        "stars": "16983",
+        "url": "https://github.com/phuryn/pm-skills"
+    },
+    {
+        "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+        "language": "Swift",
+        "name": "apple/container",
+        "stars": "35099",
+        "url": "https://github.com/apple/container"
+    },
+    {
+        "description": "OpenAI Plugins",
+        "language": "JavaScript",
+        "name": "openai/plugins",
+        "stars": "2897",
+        "url": "https://github.com/openai/plugins"
+    },
+    {
+        "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu \u2014 one CLI, zero API fees.",
+        "language": "Python",
+        "name": "Panniantong/Agent-Reach",
+        "stars": "26784",
+        "url": "https://github.com/Panniantong/Agent-Reach"
+    },
+    {
+        "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+        "language": "TypeScript",
+        "name": "lfnovo/open-notebook",
+        "stars": "29553",
+        "url": "https://github.com/lfnovo/open-notebook"
+    },
+    {
+        "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+        "language": "Shell",
+        "name": "Leonxlnx/taste-skill",
+        "stars": "42391",
+        "url": "https://github.com/Leonxlnx/taste-skill"
+    },
+    {
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "language": "Python",
+        "name": "microsoft/markitdown",
+        "stars": "152097",
+        "url": "https://github.com/microsoft/markitdown"
+    },
+    {
+        "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
+        "language": "Jupyter Notebook",
+        "name": "NVIDIA/cosmos",
+        "stars": "10038",
+        "url": "https://github.com/NVIDIA/cosmos"
+    },
+    {
+        "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
+        "language": "TypeScript",
+        "name": "CopilotKit/CopilotKit",
+        "stars": "34888",
+        "url": "https://github.com/CopilotKit/CopilotKit"
+    },
+    {
+        "description": "Desktop app to manage markdown knowledge bases",
+        "language": "TypeScript",
+        "name": "refactoringhq/tolaria",
+        "stars": "15765",
+        "url": "https://github.com/refactoringhq/tolaria"
+    },
+    {
+        "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+        "language": "Rust",
+        "name": "aaif-goose/goose",
+        "stars": "49096",
+        "url": "https://github.com/aaif-goose/goose"
+    },
+    {
+        "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+        "language": "Go",
+        "name": "aquasecurity/trivy",
+        "stars": "36402",
+        "url": "https://github.com/aquasecurity/trivy"
+    },
+    {
+        "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+        "language": "JavaScript",
+        "name": "santifer/career-ops",
+        "stars": "53227",
+        "url": "https://github.com/santifer/career-ops"
+    },
+    {
+        "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+        "language": "Python",
+        "name": "Open-LLM-VTuber/Open-LLM-VTuber",
+        "stars": "11175",
+        "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber"
+    },
+    {
+        "description": "Open Source Computer Vision Library",
+        "language": "C++",
+        "name": "opencv/opencv",
+        "stars": "88981",
+        "url": "https://github.com/opencv/opencv"
+    },
+    {
+        "description": "web development for the rest of us",
+        "language": "JavaScript",
+        "name": "sveltejs/svelte",
+        "stars": "87196",
+        "url": "https://github.com/sveltejs/svelte"
+    }
+]
