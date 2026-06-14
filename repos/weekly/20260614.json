@@ -1,0 +1,128 @@
+[
+    {
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "language": "Python",
+        "name": "mvanhorn/last30days-skill",
+        "stars": "41259",
+        "url": "https://github.com/mvanhorn/last30days-skill"
+    },
+    {
+        "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+        "language": "Swift",
+        "name": "apple/container",
+        "stars": "36312",
+        "url": "https://github.com/apple/container"
+    },
+    {
+        "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins \u2014 from discovery to strategy, execution, launch, and growth.",
+        "language": "N/A",
+        "name": "phuryn/pm-skills",
+        "stars": "17647",
+        "url": "https://github.com/phuryn/pm-skills"
+    },
+    {
+        "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+        "language": "Python",
+        "name": "chopratejas/headroom",
+        "stars": "26236",
+        "url": "https://github.com/chopratejas/headroom"
+    },
+    {
+        "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+        "language": "Python",
+        "name": "NVIDIA/SkillSpector",
+        "stars": "4456",
+        "url": "https://github.com/NVIDIA/SkillSpector"
+    },
+    {
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "language": "Shell",
+        "name": "addyosmani/agent-skills",
+        "stars": "58387",
+        "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+        "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu \u2014 one CLI, zero API fees.",
+        "language": "Python",
+        "name": "Panniantong/Agent-Reach",
+        "stars": "27435",
+        "url": "https://github.com/Panniantong/Agent-Reach"
+    },
+    {
+        "description": "OpenAI Plugins",
+        "language": "JavaScript",
+        "name": "openai/plugins",
+        "stars": "2972",
+        "url": "https://github.com/openai/plugins"
+    },
+    {
+        "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+        "language": "Shell",
+        "name": "Leonxlnx/taste-skill",
+        "stars": "43099",
+        "url": "https://github.com/Leonxlnx/taste-skill"
+    },
+    {
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "language": "Python",
+        "name": "microsoft/markitdown",
+        "stars": "152777",
+        "url": "https://github.com/microsoft/markitdown"
+    },
+    {
+        "description": "Desktop app to manage markdown knowledge bases",
+        "language": "TypeScript",
+        "name": "refactoringhq/tolaria",
+        "stars": "16093",
+        "url": "https://github.com/refactoringhq/tolaria"
+    },
+    {
+        "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+        "language": "TypeScript",
+        "name": "lfnovo/open-notebook",
+        "stars": "30147",
+        "url": "https://github.com/lfnovo/open-notebook"
+    },
+    {
+        "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+        "language": "Rust",
+        "name": "aaif-goose/goose",
+        "stars": "49234",
+        "url": "https://github.com/aaif-goose/goose"
+    },
+    {
+        "description": "Open Source Computer Vision Library",
+        "language": "C++",
+        "name": "opencv/opencv",
+        "stars": "89068",
+        "url": "https://github.com/opencv/opencv"
+    },
+    {
+        "description": "We write your reusable computer vision tools. \ud83d\udc9c",
+        "language": "Python",
+        "name": "roboflow/supervision",
+        "stars": "44087",
+        "url": "https://github.com/roboflow/supervision"
+    },
+    {
+        "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
+        "language": "TypeScript",
+        "name": "CopilotKit/CopilotKit",
+        "stars": "35008",
+        "url": "https://github.com/CopilotKit/CopilotKit"
+    },
+    {
+        "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
+        "language": "Jupyter Notebook",
+        "name": "NVIDIA/cosmos",
+        "stars": "10152",
+        "url": "https://github.com/NVIDIA/cosmos"
+    },
+    {
+        "description": "An interface library for RL post training with environments.",
+        "language": "Python",
+        "name": "huggingface/OpenEnv",
+        "stars": "2169",
+        "url": "https://github.com/huggingface/OpenEnv"
+    }
+]
