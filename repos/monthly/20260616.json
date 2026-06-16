@@ -1,0 +1,142 @@
+[
+    {
+        "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent \u2014 fewer tokens, fewer tool calls, 100% local",
+        "language": "TypeScript",
+        "name": "colbymchenry/codegraph",
+        "stars": "49683",
+        "url": "https://github.com/colbymchenry/codegraph"
+    },
+    {
+        "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+        "language": "Python",
+        "name": "chopratejas/headroom",
+        "stars": "28852",
+        "url": "https://github.com/chopratejas/headroom"
+    },
+    {
+        "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+        "language": "TypeScript",
+        "name": "Egonex-AI/Understand-Anything",
+        "stars": "60575",
+        "url": "https://github.com/Egonex-AI/Understand-Anything"
+    },
+    {
+        "description": "\u5229\u7528AI\u5927\u6a21\u578b\uff0c\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891 Generate short videos with one click using AI LLM.",
+        "language": "Python",
+        "name": "harry0703/MoneyPrinterTurbo",
+        "stars": "88301",
+        "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+    },
+    {
+        "description": "Learn it. Build it. Ship it for others.",
+        "language": "Python",
+        "name": "rohitg00/ai-engineering-from-scratch",
+        "stars": "33088",
+        "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+    },
+    {
+        "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+        "language": "Rust",
+        "name": "tinyhumansai/openhuman",
+        "stars": "32267",
+        "url": "https://github.com/tinyhumansai/openhuman"
+    },
+    {
+        "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+        "language": "Python",
+        "name": "Imbad0202/academic-research-skills",
+        "stars": "31745",
+        "url": "https://github.com/Imbad0202/academic-research-skills"
+    },
+    {
+        "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+        "language": "Swift",
+        "name": "apple/container",
+        "stars": "37458",
+        "url": "https://github.com/apple/container"
+    },
+    {
+        "description": "\u2325 AI Coding agent for the terminal \u2014 hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+        "language": "TypeScript",
+        "name": "can1357/oh-my-pi",
+        "stars": "12645",
+        "url": "https://github.com/can1357/oh-my-pi"
+    },
+    {
+        "description": "\u03c0 RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.",
+        "language": "Rust",
+        "name": "ruvnet/RuView",
+        "stars": "74040",
+        "url": "https://github.com/ruvnet/RuView"
+    },
+    {
+        "description": "A skill file for removing AI tells from prose",
+        "language": "N/A",
+        "name": "hardikpandya/stop-slop",
+        "stars": "10811",
+        "url": "https://github.com/hardikpandya/stop-slop"
+    },
+    {
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "language": "Python",
+        "name": "microsoft/markitdown",
+        "stars": "154109",
+        "url": "https://github.com/microsoft/markitdown"
+    },
+    {
+        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "language": "Python",
+        "name": "anthropics/knowledge-work-plugins",
+        "stars": "20795",
+        "url": "https://github.com/anthropics/knowledge-work-plugins"
+    },
+    {
+        "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+        "language": "Shell",
+        "name": "Leonxlnx/taste-skill",
+        "stars": "44530",
+        "url": "https://github.com/Leonxlnx/taste-skill"
+    },
+    {
+        "description": "agent multiplexer that lives in your terminal.",
+        "language": "Rust",
+        "name": "ogulcancelik/herdr",
+        "stars": "5807",
+        "url": "https://github.com/ogulcancelik/herdr"
+    },
+    {
+        "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
+        "language": "Python",
+        "name": "HKUDS/ViMax",
+        "stars": "10150",
+        "url": "https://github.com/HKUDS/ViMax"
+    },
+    {
+        "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+        "language": "TypeScript",
+        "name": "rohitg00/agentmemory",
+        "stars": "22967",
+        "url": "https://github.com/rohitg00/agentmemory"
+    },
+    {
+        "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+        "language": "Python",
+        "name": "CloakHQ/CloakBrowser",
+        "stars": "26233",
+        "url": "https://github.com/CloakHQ/CloakBrowser"
+    },
+    {
+        "description": "Skills for Real Engineers. Straight from my .claude directory.",
+        "language": "Shell",
+        "name": "mattpocock/skills",
+        "stars": "130109",
+        "url": "https://github.com/mattpocock/skills"
+    },
+    {
+        "description": "Effortlessly compose, extend, and observe every service in real-time for the first time ever.",
+        "language": "Rust",
+        "name": "iii-hq/iii",
+        "stars": "18153",
+        "url": "https://github.com/iii-hq/iii"
+    }
+]

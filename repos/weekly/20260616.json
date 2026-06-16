@@ -1,0 +1,142 @@
+[
+    {
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "language": "Python",
+        "name": "mvanhorn/last30days-skill",
+        "stars": "42892",
+        "url": "https://github.com/mvanhorn/last30days-skill"
+    },
+    {
+        "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+        "language": "Swift",
+        "name": "apple/container",
+        "stars": "37458",
+        "url": "https://github.com/apple/container"
+    },
+    {
+        "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins \u2014 from discovery to strategy, execution, launch, and growth.",
+        "language": "N/A",
+        "name": "phuryn/pm-skills",
+        "stars": "18614",
+        "url": "https://github.com/phuryn/pm-skills"
+    },
+    {
+        "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+        "language": "Python",
+        "name": "NVIDIA/SkillSpector",
+        "stars": "6373",
+        "url": "https://github.com/NVIDIA/SkillSpector"
+    },
+    {
+        "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+        "language": "Python",
+        "name": "chopratejas/headroom",
+        "stars": "28852",
+        "url": "https://github.com/chopratejas/headroom"
+    },
+    {
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "language": "Shell",
+        "name": "addyosmani/agent-skills",
+        "stars": "60321",
+        "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+        "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu \u2014 one CLI, zero API fees.",
+        "language": "Python",
+        "name": "Panniantong/Agent-Reach",
+        "stars": "30180",
+        "url": "https://github.com/Panniantong/Agent-Reach"
+    },
+    {
+        "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+        "language": "Python",
+        "name": "RyanCodrai/turbovec",
+        "stars": "11657",
+        "url": "https://github.com/RyanCodrai/turbovec"
+    },
+    {
+        "description": "Desktop app to manage markdown knowledge bases",
+        "language": "TypeScript",
+        "name": "refactoringhq/tolaria",
+        "stars": "16398",
+        "url": "https://github.com/refactoringhq/tolaria"
+    },
+    {
+        "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
+        "language": "Python",
+        "name": "music-assistant/server",
+        "stars": "2385",
+        "url": "https://github.com/music-assistant/server"
+    },
+    {
+        "description": "We write your reusable computer vision tools. \ud83d\udc9c",
+        "language": "Python",
+        "name": "roboflow/supervision",
+        "stars": "44350",
+        "url": "https://github.com/roboflow/supervision"
+    },
+    {
+        "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+        "language": "Shell",
+        "name": "Leonxlnx/taste-skill",
+        "stars": "44530",
+        "url": "https://github.com/Leonxlnx/taste-skill"
+    },
+    {
+        "description": "OpenAI Plugins",
+        "language": "JavaScript",
+        "name": "openai/plugins",
+        "stars": "3084",
+        "url": "https://github.com/openai/plugins"
+    },
+    {
+        "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
+        "language": "TypeScript",
+        "name": "mattermost/mattermost",
+        "stars": "37901",
+        "url": "https://github.com/mattermost/mattermost"
+    },
+    {
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "language": "Python",
+        "name": "microsoft/markitdown",
+        "stars": "154109",
+        "url": "https://github.com/microsoft/markitdown"
+    },
+    {
+        "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+        "language": "JavaScript",
+        "name": "asgeirtj/system_prompts_leaks",
+        "stars": "42456",
+        "url": "https://github.com/asgeirtj/system_prompts_leaks"
+    },
+    {
+        "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. \ud83d\udd25\ud83d\udcac",
+        "language": "Ruby",
+        "name": "chatwoot/chatwoot",
+        "stars": "31689",
+        "url": "https://github.com/chatwoot/chatwoot"
+    },
+    {
+        "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+        "language": "C",
+        "name": "microsoft/PowerToys",
+        "stars": "135007",
+        "url": "https://github.com/microsoft/PowerToys"
+    },
+    {
+        "description": "An interface library for RL post training with environments.",
+        "language": "Python",
+        "name": "huggingface/OpenEnv",
+        "stars": "2274",
+        "url": "https://github.com/huggingface/OpenEnv"
+    },
+    {
+        "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+        "language": "N/A",
+        "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+        "stars": "140580",
+        "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+    }
+]
