@@ -1,0 +1,142 @@
+[
+    {
+        "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph \u2014 average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+        "language": "C",
+        "name": "DeusData/codebase-memory-mcp",
+        "stars": "5300",
+        "url": "https://github.com/DeusData/codebase-memory-mcp"
+    },
+    {
+        "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+        "language": "Rust",
+        "name": "n0-computer/iroh",
+        "stars": "9650",
+        "url": "https://github.com/n0-computer/iroh"
+    },
+    {
+        "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu \u2014 one CLI, zero API fees.",
+        "language": "Python",
+        "name": "Panniantong/Agent-Reach",
+        "stars": "33186",
+        "url": "https://github.com/Panniantong/Agent-Reach"
+    },
+    {
+        "description": "Meshery, the cloud native manager",
+        "language": "TypeScript",
+        "name": "meshery/meshery",
+        "stars": "11019",
+        "url": "https://github.com/meshery/meshery"
+    },
+    {
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "name": "obra/superpowers",
+        "stars": "231077",
+        "url": "https://github.com/obra/superpowers"
+    },
+    {
+        "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+        "language": "Python",
+        "name": "google-research/timesfm",
+        "stars": "21901",
+        "url": "https://github.com/google-research/timesfm"
+    },
+    {
+        "description": "The Secure CommsOS\u2122 for mission-critical operations",
+        "language": "TypeScript",
+        "name": "RocketChat/Rocket.Chat",
+        "stars": "45583",
+        "url": "https://github.com/RocketChat/Rocket.Chat"
+    },
+    {
+        "description": "open-source coding agent",
+        "language": "TypeScript",
+        "name": "continuedev/continue",
+        "stars": "33902",
+        "url": "https://github.com/continuedev/continue"
+    },
+    {
+        "description": "Penpot: The open-source design tool for design and code collaboration",
+        "language": "Clojure",
+        "name": "penpot/penpot",
+        "stars": "50088",
+        "url": "https://github.com/penpot/penpot"
+    },
+    {
+        "description": "\u300aHello \u7b97\u6cd5\u300b\uff1a\u52a8\u753b\u56fe\u89e3\u3001\u4e00\u952e\u8fd0\u884c\u7684\u6570\u636e\u7ed3\u6784\u4e0e\u7b97\u6cd5\u6559\u7a0b\u3002\u652f\u6301\u7b80\u4e2d\u3001\u7e41\u4e2d\u3001English\u3001\u65e5\u672c\u8a9e\uff0c\u63d0\u4f9b Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart \u7b49\u4ee3\u7801\u5b9e\u73b0",
+        "language": "Java",
+        "name": "krahets/hello-algo",
+        "stars": "127447",
+        "url": "https://github.com/krahets/hello-algo"
+    },
+    {
+        "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
+        "language": "Rust",
+        "name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+        "stars": "7643",
+        "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation"
+    },
+    {
+        "description": "Skills for Real Engineers. Straight from my .claude directory.",
+        "language": "Shell",
+        "name": "mattpocock/skills",
+        "stars": "133601",
+        "url": "https://github.com/mattpocock/skills"
+    },
+    {
+        "description": "Open-source Android/Desktop remake of Civ V",
+        "language": "Kotlin",
+        "name": "yairm210/Unciv",
+        "stars": "10656",
+        "url": "https://github.com/yairm210/Unciv"
+    },
+    {
+        "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+        "language": "TypeScript",
+        "name": "freeCodeCamp/freeCodeCamp",
+        "stars": "449140",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp"
+    },
+    {
+        "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+        "language": "TypeScript",
+        "name": "bytedance/UI-TARS-desktop",
+        "stars": "36697",
+        "url": "https://github.com/bytedance/UI-TARS-desktop"
+    },
+    {
+        "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+        "language": "Rust",
+        "name": "nautechsystems/nautilus_trader",
+        "stars": "23810",
+        "url": "https://github.com/nautechsystems/nautilus_trader"
+    },
+    {
+        "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. \ud83d\udd25\ud83d\udcac",
+        "language": "Ruby",
+        "name": "chatwoot/chatwoot",
+        "stars": "32373",
+        "url": "https://github.com/chatwoot/chatwoot"
+    },
+    {
+        "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+        "language": "Python",
+        "name": "calesthio/OpenMontage",
+        "stars": "5330",
+        "url": "https://github.com/calesthio/OpenMontage"
+    },
+    {
+        "description": "General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes.",
+        "language": "Python",
+        "name": "alexzhang13/rlm",
+        "stars": "4925",
+        "url": "https://github.com/alexzhang13/rlm"
+    },
+    {
+        "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+        "language": "TypeScript",
+        "name": "makeplane/plane",
+        "stars": "51296",
+        "url": "https://github.com/makeplane/plane"
+    }
+]
