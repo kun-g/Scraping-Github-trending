@@ -1,0 +1,156 @@
+[
+    {
+        "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+        "language": "Python",
+        "name": "NVIDIA/SkillSpector",
+        "stars": "7938",
+        "url": "https://github.com/NVIDIA/SkillSpector"
+    },
+    {
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "language": "Shell",
+        "name": "addyosmani/agent-skills",
+        "stars": "62913",
+        "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+        "description": "Collection of publicly available IPTV channels from all over the world",
+        "language": "TypeScript",
+        "name": "iptv-org/iptv",
+        "stars": "125498",
+        "url": "https://github.com/iptv-org/iptv"
+    },
+    {
+        "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+        "language": "Swift",
+        "name": "apple/container",
+        "stars": "38588",
+        "url": "https://github.com/apple/container"
+    },
+    {
+        "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins \u2014 from discovery to strategy, execution, launch, and growth.",
+        "language": "N/A",
+        "name": "phuryn/pm-skills",
+        "stars": "19592",
+        "url": "https://github.com/phuryn/pm-skills"
+    },
+    {
+        "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu \u2014 one CLI, zero API fees.",
+        "language": "Python",
+        "name": "Panniantong/Agent-Reach",
+        "stars": "34385",
+        "url": "https://github.com/Panniantong/Agent-Reach"
+    },
+    {
+        "description": "Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.",
+        "language": "Go",
+        "name": "kenn-io/agentsview",
+        "stars": "2866",
+        "url": "https://github.com/kenn-io/agentsview"
+    },
+    {
+        "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+        "language": "Python",
+        "name": "chopratejas/headroom",
+        "stars": "34615",
+        "url": "https://github.com/chopratejas/headroom"
+    },
+    {
+        "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph \u2014 average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+        "language": "C",
+        "name": "DeusData/codebase-memory-mcp",
+        "stars": "7051",
+        "url": "https://github.com/DeusData/codebase-memory-mcp"
+    },
+    {
+        "description": "Meshery, the cloud native manager",
+        "language": "TypeScript",
+        "name": "meshery/meshery",
+        "stars": "11119",
+        "url": "https://github.com/meshery/meshery"
+    },
+    {
+        "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
+        "language": "Python",
+        "name": "LMCache/LMCache",
+        "stars": "9341",
+        "url": "https://github.com/LMCache/LMCache"
+    },
+    {
+        "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. \ud83d\udd25\ud83d\udcac",
+        "language": "Ruby",
+        "name": "chatwoot/chatwoot",
+        "stars": "32571",
+        "url": "https://github.com/chatwoot/chatwoot"
+    },
+    {
+        "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing",
+        "language": "Python",
+        "name": "pytest-dev/pytest",
+        "stars": "14211",
+        "url": "https://github.com/pytest-dev/pytest"
+    },
+    {
+        "description": "JavaScript API for Chrome and Firefox",
+        "language": "TypeScript",
+        "name": "puppeteer/puppeteer",
+        "stars": "95081",
+        "url": "https://github.com/puppeteer/puppeteer"
+    },
+    {
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "language": "Python",
+        "name": "mvanhorn/last30days-skill",
+        "stars": "44418",
+        "url": "https://github.com/mvanhorn/last30days-skill"
+    },
+    {
+        "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+        "language": "TypeScript",
+        "name": "lfnovo/open-notebook",
+        "stars": "31602",
+        "url": "https://github.com/lfnovo/open-notebook"
+    },
+    {
+        "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+        "language": "TypeScript",
+        "name": "freeCodeCamp/freeCodeCamp",
+        "stars": "449543",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp"
+    },
+    {
+        "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+        "language": "C",
+        "name": "microsoft/PowerToys",
+        "stars": "135227",
+        "url": "https://github.com/microsoft/PowerToys"
+    },
+    {
+        "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
+        "language": "TypeScript",
+        "name": "mattermost/mattermost",
+        "stars": "38045",
+        "url": "https://github.com/mattermost/mattermost"
+    },
+    {
+        "description": "Fast, secure, efficient backup program",
+        "language": "Go",
+        "name": "restic/restic",
+        "stars": "34569",
+        "url": "https://github.com/restic/restic"
+    },
+    {
+        "description": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",
+        "language": "Rust",
+        "name": "biomejs/biome",
+        "stars": "25130",
+        "url": "https://github.com/biomejs/biome"
+    },
+    {
+        "description": "Jenkins automation server",
+        "language": "Java",
+        "name": "jenkinsci/jenkins",
+        "stars": "25485",
+        "url": "https://github.com/jenkinsci/jenkins"
+    }
+]
