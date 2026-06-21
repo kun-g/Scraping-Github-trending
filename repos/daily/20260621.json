@@ -1,0 +1,121 @@
+[
+    {
+        "description": "macOS video editor built for AI",
+        "language": "Swift",
+        "name": "palmier-io/palmier-pro",
+        "stars": "3373",
+        "url": "https://github.com/palmier-io/palmier-pro"
+    },
+    {
+        "description": "Penpot: The open-source design tool for design and code collaboration",
+        "language": "Clojure",
+        "name": "penpot/penpot",
+        "stars": "51434",
+        "url": "https://github.com/penpot/penpot"
+    },
+    {
+        "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+        "language": "Python",
+        "name": "calesthio/OpenMontage",
+        "stars": "7063",
+        "url": "https://github.com/calesthio/OpenMontage"
+    },
+    {
+        "description": "Turso is an in-process SQL database, compatible with SQLite.",
+        "language": "Rust",
+        "name": "tursodatabase/turso",
+        "stars": "20332",
+        "url": "https://github.com/tursodatabase/turso"
+    },
+    {
+        "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph \u2014 average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+        "language": "C",
+        "name": "DeusData/codebase-memory-mcp",
+        "stars": "9363",
+        "url": "https://github.com/DeusData/codebase-memory-mcp"
+    },
+    {
+        "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+        "language": "Python",
+        "name": "google-research/timesfm",
+        "stars": "24554",
+        "url": "https://github.com/google-research/timesfm"
+    },
+    {
+        "description": "The open alternative to Salesforce, designed for AI.",
+        "language": "TypeScript",
+        "name": "twentyhq/twenty",
+        "stars": "50866",
+        "url": "https://github.com/twentyhq/twenty"
+    },
+    {
+        "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+        "language": "TypeScript",
+        "name": "Kong/insomnia",
+        "stars": "39333",
+        "url": "https://github.com/Kong/insomnia"
+    },
+    {
+        "description": "\ud83e\udd31\ud83c\udffb Turn any webpage into a desktop app with one command.",
+        "language": "Rust",
+        "name": "tw93/Pake",
+        "stars": "54788",
+        "url": "https://github.com/tw93/Pake"
+    },
+    {
+        "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+        "language": "Python",
+        "name": "chopratejas/headroom",
+        "stars": "41886",
+        "url": "https://github.com/chopratejas/headroom"
+    },
+    {
+        "description": "The open-source AI voice studio. Clone, dictate, create.",
+        "language": "TypeScript",
+        "name": "jamiepine/voicebox",
+        "stars": "31023",
+        "url": "https://github.com/jamiepine/voicebox"
+    },
+    {
+        "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
+        "language": "TypeScript",
+        "name": "Kilo-Org/kilocode",
+        "stars": "23364",
+        "url": "https://github.com/Kilo-Org/kilocode"
+    },
+    {
+        "description": "Skills for Real Engineers. Straight from my .claude directory.",
+        "language": "Shell",
+        "name": "mattpocock/skills",
+        "stars": "138242",
+        "url": "https://github.com/mattpocock/skills"
+    },
+    {
+        "description": "The sandbox agent framework.",
+        "language": "TypeScript",
+        "name": "withastro/flue",
+        "stars": "6098",
+        "url": "https://github.com/withastro/flue"
+    },
+    {
+        "description": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
+        "language": "N/A",
+        "name": "owainlewis/awesome-artificial-intelligence",
+        "stars": "14786",
+        "url": "https://github.com/owainlewis/awesome-artificial-intelligence"
+    },
+    {
+        "description": "\u77ed\u4fe1\u8f6c\u53d1\u5668\u2014\u2014\u76d1\u63a7Android\u624b\u673a\u77ed\u4fe1\u3001\u6765\u7535\u3001APP\u901a\u77e5\uff0c\u5e76\u6839\u636e\u6307\u5b9a\u89c4\u5219\u8f6c\u53d1\u5230\u5176\u4ed6\u624b\u673a\uff1a\u9489\u9489\u7fa4\u81ea\u5b9a\u4e49\u673a\u5668\u4eba\u3001\u9489\u9489\u4f01\u4e1a\u5185\u673a\u5668\u4eba\u3001\u4f01\u4e1a\u5fae\u4fe1\u7fa4\u673a\u5668\u4eba\u3001\u98de\u4e66\u673a\u5668\u4eba\u3001\u4f01\u4e1a\u5fae\u4fe1\u5e94\u7528\u6d88\u606f\u3001\u90ae\u7bb1\u3001bark\u3001webhook\u3001Telegram\u673a\u5668\u4eba\u3001Server\u9171\u3001PushPlus\u3001\u624b\u673a\u77ed\u4fe1\u7b49\u3002\u5305\u62ec\u4e3b\u52a8\u63a7\u5236\u670d\u52a1\u7aef\u4e0e\u5ba2\u6237\u7aef\uff0c\u8ba9\u4f60\u8f7b\u677e\u8fdc\u7a0b\u53d1\u77ed\u4fe1\u3001\u67e5\u77ed\u4fe1\u3001\u67e5\u901a\u8bdd\u3001\u67e5\u8bdd\u7c3f\u3001\u67e5\u7535\u91cf\u7b49\u3002\uff08V3.0 \u65b0\u589e\uff09PS.\u8fd9\u4e2aAPK\u4e3b\u8981\u662f\u5b66\u4e60\u4e0e\u81ea\u7528\uff0c\u5982\u6709BUG\u8bf7\u63d0ISSUE\uff0c\u540c\u65f6\u6b22\u8fce\u5927\u5bb6\u63d0PR\u6307\u6b63",
+        "language": "Kotlin",
+        "name": "pppscn/SmsForwarder",
+        "stars": "26491",
+        "url": "https://github.com/pppscn/SmsForwarder"
+    },
+    {
+        "description": "Coding Agent Harness",
+        "language": "Rust",
+        "name": "1jehuang/jcode",
+        "stars": "7398",
+        "url": "https://github.com/1jehuang/jcode"
+    }
+]
