@@ -1,0 +1,135 @@
+[
+    {
+        "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph \u2014 average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+        "language": "C",
+        "name": "DeusData/codebase-memory-mcp",
+        "stars": "10281",
+        "url": "https://github.com/DeusData/codebase-memory-mcp"
+    },
+    {
+        "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+        "language": "Python",
+        "name": "chopratejas/headroom",
+        "stars": "44414",
+        "url": "https://github.com/chopratejas/headroom"
+    },
+    {
+        "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu \u2014 one CLI, zero API fees.",
+        "language": "Python",
+        "name": "Panniantong/Agent-Reach",
+        "stars": "36867",
+        "url": "https://github.com/Panniantong/Agent-Reach"
+    },
+    {
+        "description": "Collection of publicly available IPTV channels from all over the world",
+        "language": "TypeScript",
+        "name": "iptv-org/iptv",
+        "stars": "127128",
+        "url": "https://github.com/iptv-org/iptv"
+    },
+    {
+        "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+        "language": "Rust",
+        "name": "n0-computer/iroh",
+        "stars": "10449",
+        "url": "https://github.com/n0-computer/iroh"
+    },
+    {
+        "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+        "language": "Python",
+        "name": "google-research/timesfm",
+        "stars": "24887",
+        "url": "https://github.com/google-research/timesfm"
+    },
+    {
+        "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+        "language": "Python",
+        "name": "NVIDIA/SkillSpector",
+        "stars": "9029",
+        "url": "https://github.com/NVIDIA/SkillSpector"
+    },
+    {
+        "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+        "language": "JavaScript",
+        "name": "asgeirtj/system_prompts_leaks",
+        "stars": "44399",
+        "url": "https://github.com/asgeirtj/system_prompts_leaks"
+    },
+    {
+        "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+        "language": "Python",
+        "name": "calesthio/OpenMontage",
+        "stars": "8750",
+        "url": "https://github.com/calesthio/OpenMontage"
+    },
+    {
+        "description": "The sandbox agent framework.",
+        "language": "TypeScript",
+        "name": "withastro/flue",
+        "stars": "6298",
+        "url": "https://github.com/withastro/flue"
+    },
+    {
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "language": "Shell",
+        "name": "addyosmani/agent-skills",
+        "stars": "64768",
+        "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+        "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+        "language": "TypeScript",
+        "name": "Kong/insomnia",
+        "stars": "39513",
+        "url": "https://github.com/Kong/insomnia"
+    },
+    {
+        "description": "Turso is an in-process SQL database, compatible with SQLite.",
+        "language": "Rust",
+        "name": "tursodatabase/turso",
+        "stars": "20803",
+        "url": "https://github.com/tursodatabase/turso"
+    },
+    {
+        "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+        "language": "TypeScript",
+        "name": "makeplane/plane",
+        "stars": "52347",
+        "url": "https://github.com/makeplane/plane"
+    },
+    {
+        "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
+        "language": "Python",
+        "name": "LMCache/LMCache",
+        "stars": "9543",
+        "url": "https://github.com/LMCache/LMCache"
+    },
+    {
+        "description": "Meshery, the cloud native manager",
+        "language": "TypeScript",
+        "name": "meshery/meshery",
+        "stars": "11223",
+        "url": "https://github.com/meshery/meshery"
+    },
+    {
+        "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. \ud83d\udd25\ud83d\udcac",
+        "language": "Ruby",
+        "name": "chatwoot/chatwoot",
+        "stars": "33119",
+        "url": "https://github.com/chatwoot/chatwoot"
+    },
+    {
+        "description": "Rust-based platform for the Web",
+        "language": "Rust",
+        "name": "swc-project/swc",
+        "stars": "34107",
+        "url": "https://github.com/swc-project/swc"
+    },
+    {
+        "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+        "language": "TypeScript",
+        "name": "freeCodeCamp/freeCodeCamp",
+        "stars": "450075",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp"
+    }
+]
