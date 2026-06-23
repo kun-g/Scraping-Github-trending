@@ -3,112 +3,112 @@
         "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
         "language": "Python",
         "name": "calesthio/OpenMontage",
-        "stars": "12056",
+        "stars": "12231",
         "url": "https://github.com/calesthio/OpenMontage"
     },
     {
         "description": "macOS video editor built for AI",
         "language": "Swift",
         "name": "palmier-io/palmier-pro",
-        "stars": "7359",
+        "stars": "7432",
         "url": "https://github.com/palmier-io/palmier-pro"
     },
     {
         "description": "The open-source AI voice studio. Clone, dictate, create.",
         "language": "TypeScript",
         "name": "jamiepine/voicebox",
-        "stars": "32244",
+        "stars": "32295",
         "url": "https://github.com/jamiepine/voicebox"
     },
     {
         "description": "817 structured cybersecurity skills for AI agents \u00b7 Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) \u00b7 agentskills.io standard \u00b7 Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms \u00b7 29 security domains \u00b7 Apache 2.0",
         "language": "Python",
         "name": "mukul975/Anthropic-Cybersecurity-Skills",
-        "stars": "18694",
+        "stars": "18748",
         "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
     },
     {
         "description": "Penpot: The open-source design tool for design and code collaboration",
         "language": "Clojure",
         "name": "penpot/penpot",
-        "stars": "52864",
+        "stars": "52896",
         "url": "https://github.com/penpot/penpot"
     },
     {
         "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
         "language": "TypeScript",
         "name": "Stirling-Tools/Stirling-PDF",
-        "stars": "82914",
+        "stars": "82967",
         "url": "https://github.com/Stirling-Tools/Stirling-PDF"
     },
     {
         "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
         "language": "TypeScript",
         "name": "garrytan/gstack",
-        "stars": "113149",
+        "stars": "113183",
         "url": "https://github.com/garrytan/gstack"
     },
     {
         "description": "Write HTML. Render video. Built for agents.",
         "language": "TypeScript",
         "name": "heygen-com/hyperframes",
-        "stars": "30004",
+        "stars": "30040",
         "url": "https://github.com/heygen-com/hyperframes"
     },
     {
         "description": "Turso is an in-process SQL database, compatible with SQLite.",
         "language": "Rust",
         "name": "tursodatabase/turso",
-        "stars": "21480",
+        "stars": "21503",
         "url": "https://github.com/tursodatabase/turso"
     },
     {
         "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
         "language": "Python",
         "name": "bytedance/deer-flow",
-        "stars": "73250",
+        "stars": "73293",
         "url": "https://github.com/bytedance/deer-flow"
     },
     {
         "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph \u2014 average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
         "language": "C",
         "name": "DeusData/codebase-memory-mcp",
-        "stars": "11567",
+        "stars": "11638",
         "url": "https://github.com/DeusData/codebase-memory-mcp"
     },
     {
         "description": "LLM \u9a71\u52a8\u7684\u591a\u5e02\u573a\u80a1\u7968\u667a\u80fd\u5206\u6790\u7cfb\u7edf\uff1a\u591a\u6e90\u884c\u60c5\u3001\u5b9e\u65f6\u65b0\u95fb\u3001\u51b3\u7b56\u770b\u677f\u4e0e\u81ea\u52a8\u63a8\u9001\uff0c\u652f\u6301\u96f6\u6210\u672c\u5b9a\u65f6\u8fd0\u884c\u3002 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
         "language": "Python",
         "name": "ZhuLinsen/daily_stock_analysis",
-        "stars": "45817",
+        "stars": "45878",
         "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
     },
     {
         "description": "The API to search, scrape, and interact with the web at scale. \ud83d\udd25",
         "language": "TypeScript",
         "name": "firecrawl/firecrawl",
-        "stars": "137290",
+        "stars": "137338",
         "url": "https://github.com/firecrawl/firecrawl"
     },
     {
         "description": "Clone any website with one command using AI coding agents",
         "language": "TypeScript",
         "name": "JCodesMore/ai-website-cloner-template",
-        "stars": "17744",
+        "stars": "17781",
         "url": "https://github.com/JCodesMore/ai-website-cloner-template"
     },
     {
         "description": "AirLLM 70B inference with single 4GB GPU",
         "language": "Jupyter Notebook",
         "name": "lyogavin/airllm",
-        "stars": "21053",
+        "stars": "21070",
         "url": "https://github.com/lyogavin/airllm"
     },
     {
         "description": "Skills for Real Engineers. Straight from my .claude directory.",
         "language": "Shell",
         "name": "mattpocock/skills",
-        "stars": "141644",
+        "stars": "141734",
         "url": "https://github.com/mattpocock/skills"
     }
 ]

@@ -3,126 +3,126 @@
         "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph \u2014 average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
         "language": "C",
         "name": "DeusData/codebase-memory-mcp",
-        "stars": "11568",
+        "stars": "11638",
         "url": "https://github.com/DeusData/codebase-memory-mcp"
     },
     {
         "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
         "language": "Python",
         "name": "calesthio/OpenMontage",
-        "stars": "12056",
+        "stars": "12231",
         "url": "https://github.com/calesthio/OpenMontage"
     },
     {
         "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu \u2014 one CLI, zero API fees.",
         "language": "Python",
         "name": "Panniantong/Agent-Reach",
-        "stars": "37803",
+        "stars": "37842",
         "url": "https://github.com/Panniantong/Agent-Reach"
     },
     {
         "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
         "language": "Rust",
         "name": "n0-computer/iroh",
-        "stars": "10539",
+        "stars": "10544",
         "url": "https://github.com/n0-computer/iroh"
     },
     {
         "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
         "language": "Python",
         "name": "google-research/timesfm",
-        "stars": "25144",
+        "stars": "25153",
         "url": "https://github.com/google-research/timesfm"
     },
     {
         "description": "Collection of publicly available IPTV channels from all over the world",
         "language": "TypeScript",
         "name": "iptv-org/iptv",
-        "stars": "127533",
+        "stars": "127561",
         "url": "https://github.com/iptv-org/iptv"
     },
     {
         "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
         "language": "JavaScript",
         "name": "asgeirtj/system_prompts_leaks",
-        "stars": "45029",
+        "stars": "45041",
         "url": "https://github.com/asgeirtj/system_prompts_leaks"
     },
     {
         "description": "The sandbox agent framework.",
         "language": "TypeScript",
         "name": "withastro/flue",
-        "stars": "6429",
+        "stars": "6432",
         "url": "https://github.com/withastro/flue"
     },
     {
         "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
         "language": "Python",
         "name": "NVIDIA/SkillSpector",
-        "stars": "9401",
+        "stars": "9411",
         "url": "https://github.com/NVIDIA/SkillSpector"
     },
     {
         "description": "A self-hosted data logger for your Tesla \ud83d\ude98 [main maintainer=@JakobLichterfeld]",
         "language": "Elixir",
         "name": "teslamate-org/teslamate",
-        "stars": "8570",
+        "stars": "8571",
         "url": "https://github.com/teslamate-org/teslamate"
     },
     {
         "description": "Penpot: The open-source design tool for design and code collaboration",
         "language": "Clojure",
         "name": "penpot/penpot",
-        "stars": "52865",
+        "stars": "52896",
         "url": "https://github.com/penpot/penpot"
     },
     {
         "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
         "language": "TypeScript",
         "name": "makeplane/plane",
-        "stars": "52568",
+        "stars": "52576",
         "url": "https://github.com/makeplane/plane"
     },
     {
         "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
         "language": "TypeScript",
         "name": "Kong/insomnia",
-        "stars": "39555",
+        "stars": "39557",
         "url": "https://github.com/Kong/insomnia"
     },
     {
         "description": "Production-grade engineering skills for AI coding agents.",
         "language": "Shell",
         "name": "addyosmani/agent-skills",
-        "stars": "65399",
+        "stars": "65423",
         "url": "https://github.com/addyosmani/agent-skills"
     },
     {
         "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
         "language": "TypeScript",
         "name": "freeCodeCamp/freeCodeCamp",
-        "stars": "450218",
+        "stars": "450227",
         "url": "https://github.com/freeCodeCamp/freeCodeCamp"
     },
     {
         "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
         "language": "TypeScript",
         "name": "koala73/worldmonitor",
-        "stars": "58609",
+        "stars": "58627",
         "url": "https://github.com/koala73/worldmonitor"
     },
     {
         "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
         "language": "Python",
         "name": "LMCache/LMCache",
-        "stars": "9623",
+        "stars": "9627",
         "url": "https://github.com/LMCache/LMCache"
     },
     {
         "description": "The open-source CapCut alternative",
         "language": "TypeScript",
         "name": "OpenCut-app/OpenCut",
-        "stars": "58862",
+        "stars": "58883",
         "url": "https://github.com/OpenCut-app/OpenCut"
     }
 ]
