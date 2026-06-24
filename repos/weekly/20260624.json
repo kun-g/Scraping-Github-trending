@@ -1,0 +1,149 @@
+[
+    {
+        "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph \u2014 average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+        "language": "C",
+        "name": "DeusData/codebase-memory-mcp",
+        "stars": "12929",
+        "url": "https://github.com/DeusData/codebase-memory-mcp"
+    },
+    {
+        "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+        "language": "Python",
+        "name": "calesthio/OpenMontage",
+        "stars": "15655",
+        "url": "https://github.com/calesthio/OpenMontage"
+    },
+    {
+        "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+        "language": "Python",
+        "name": "google-research/timesfm",
+        "stars": "25312",
+        "url": "https://github.com/google-research/timesfm"
+    },
+    {
+        "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu \u2014 one CLI, zero API fees.",
+        "language": "Python",
+        "name": "Panniantong/Agent-Reach",
+        "stars": "38628",
+        "url": "https://github.com/Panniantong/Agent-Reach"
+    },
+    {
+        "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+        "language": "Rust",
+        "name": "n0-computer/iroh",
+        "stars": "10627",
+        "url": "https://github.com/n0-computer/iroh"
+    },
+    {
+        "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+        "language": "JavaScript",
+        "name": "asgeirtj/system_prompts_leaks",
+        "stars": "45409",
+        "url": "https://github.com/asgeirtj/system_prompts_leaks"
+    },
+    {
+        "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+        "language": "TypeScript",
+        "name": "koala73/worldmonitor",
+        "stars": "59093",
+        "url": "https://github.com/koala73/worldmonitor"
+    },
+    {
+        "description": "Collection of publicly available IPTV channels from all over the world",
+        "language": "TypeScript",
+        "name": "iptv-org/iptv",
+        "stars": "128001",
+        "url": "https://github.com/iptv-org/iptv"
+    },
+    {
+        "description": "Penpot: The open-source design tool for design and code collaboration",
+        "language": "Clojure",
+        "name": "penpot/penpot",
+        "stars": "53286",
+        "url": "https://github.com/penpot/penpot"
+    },
+    {
+        "description": "The sandbox agent framework.",
+        "language": "TypeScript",
+        "name": "withastro/flue",
+        "stars": "6534",
+        "url": "https://github.com/withastro/flue"
+    },
+    {
+        "description": "The open-source CapCut alternative",
+        "language": "TypeScript",
+        "name": "OpenCut-app/OpenCut",
+        "stars": "59237",
+        "url": "https://github.com/OpenCut-app/OpenCut"
+    },
+    {
+        "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+        "language": "Python",
+        "name": "NVIDIA/SkillSpector",
+        "stars": "9845",
+        "url": "https://github.com/NVIDIA/SkillSpector"
+    },
+    {
+        "description": "The open-source AI voice studio. Clone, dictate, create.",
+        "language": "TypeScript",
+        "name": "jamiepine/voicebox",
+        "stars": "33153",
+        "url": "https://github.com/jamiepine/voicebox"
+    },
+    {
+        "description": "Skills for Real Engineers. Straight from my .claude directory.",
+        "language": "Shell",
+        "name": "mattpocock/skills",
+        "stars": "143311",
+        "url": "https://github.com/mattpocock/skills"
+    },
+    {
+        "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+        "language": "TypeScript",
+        "name": "Kong/insomnia",
+        "stars": "39611",
+        "url": "https://github.com/Kong/insomnia"
+    },
+    {
+        "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+        "language": "TypeScript",
+        "name": "makeplane/plane",
+        "stars": "52728",
+        "url": "https://github.com/makeplane/plane"
+    },
+    {
+        "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
+        "language": "Java",
+        "name": "Stirling-Tools/Stirling-PDF",
+        "stars": "83699",
+        "url": "https://github.com/Stirling-Tools/Stirling-PDF"
+    },
+    {
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "language": "Shell",
+        "name": "addyosmani/agent-skills",
+        "stars": "65963",
+        "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+        "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. \ud83d\udd25\ud83d\udcac",
+        "language": "Ruby",
+        "name": "chatwoot/chatwoot",
+        "stars": "33375",
+        "url": "https://github.com/chatwoot/chatwoot"
+    },
+    {
+        "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+        "language": "TypeScript",
+        "name": "stablyai/orca",
+        "stars": "6319",
+        "url": "https://github.com/stablyai/orca"
+    },
+    {
+        "description": "open-source coding agent",
+        "language": "TypeScript",
+        "name": "continuedev/continue",
+        "stars": "34354",
+        "url": "https://github.com/continuedev/continue"
+    }
+]
