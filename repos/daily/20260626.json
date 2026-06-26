@@ -1,0 +1,114 @@
+[
+    {
+        "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+        "language": "TypeScript",
+        "name": "google-labs-code/design.md",
+        "stars": "19213",
+        "url": "https://github.com/google-labs-code/design.md"
+    },
+    {
+        "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+        "language": "Python",
+        "name": "calesthio/OpenMontage",
+        "stars": "22080",
+        "url": "https://github.com/calesthio/OpenMontage"
+    },
+    {
+        "description": "AI \u65f6\u4ee3\u7684\u4f2f\u514b\u5e0c\u5c14\uff1a\u57fa\u4e8e Claude Code \u7684\u4ef7\u503c\u6295\u8d44\u7814\u7a76\u6846\u67b6\u3002\u5df4\u83f2\u7279\u00b7\u8292\u683c\u00b7\u6bb5\u6c38\u5e73\u00b7\u674e\u5f55\u56db\u5927\u5e08\u65b9\u6cd5\u8bba + \u591aAgent\u5e76\u884c\u7814\u7a76\u3002| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
+        "language": "Python",
+        "name": "xbtlin/ai-berkshire",
+        "stars": "1871",
+        "url": "https://github.com/xbtlin/ai-berkshire"
+    },
+    {
+        "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
+        "language": "TypeScript",
+        "name": "mauriceboe/TREK",
+        "stars": "6671",
+        "url": "https://github.com/mauriceboe/TREK"
+    },
+    {
+        "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+        "language": "Swift",
+        "name": "apple/container",
+        "stars": "43215",
+        "url": "https://github.com/apple/container"
+    },
+    {
+        "description": "Clone any website with one command using AI coding agents",
+        "language": "TypeScript",
+        "name": "JCodesMore/ai-website-cloner-template",
+        "stars": "20432",
+        "url": "https://github.com/JCodesMore/ai-website-cloner-template"
+    },
+    {
+        "description": "Open source alternative to Semrush and Ahrefs",
+        "language": "TypeScript",
+        "name": "every-app/open-seo",
+        "stars": "2518",
+        "url": "https://github.com/every-app/open-seo"
+    },
+    {
+        "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+        "language": "TypeScript",
+        "name": "garrytan/gstack",
+        "stars": "115808",
+        "url": "https://github.com/garrytan/gstack"
+    },
+    {
+        "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+        "language": "Python",
+        "name": "aws/agent-toolkit-for-aws",
+        "stars": "1136",
+        "url": "https://github.com/aws/agent-toolkit-for-aws"
+    },
+    {
+        "description": "817 structured cybersecurity skills for AI agents \u00b7 Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) \u00b7 agentskills.io standard \u00b7 Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms \u00b7 29 security domains \u00b7 Apache 2.0",
+        "language": "Python",
+        "name": "mukul975/Anthropic-Cybersecurity-Skills",
+        "stars": "21241",
+        "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+        "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+        "language": "TypeScript",
+        "name": "alibaba/page-agent",
+        "stars": "19817",
+        "url": "https://github.com/alibaba/page-agent"
+    },
+    {
+        "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+        "language": "Go",
+        "name": "IceWhaleTech/CasaOS",
+        "stars": "34828",
+        "url": "https://github.com/IceWhaleTech/CasaOS"
+    },
+    {
+        "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+        "language": "Python",
+        "name": "opendatalab/MinerU",
+        "stars": "69579",
+        "url": "https://github.com/opendatalab/MinerU"
+    },
+    {
+        "description": "M3U Playlist for free TV channels",
+        "language": "Python",
+        "name": "Free-TV/IPTV",
+        "stars": "18214",
+        "url": "https://github.com/Free-TV/IPTV"
+    },
+    {
+        "description": "from vibe coding to agentic engineering - practice makes claude perfect",
+        "language": "HTML",
+        "name": "shanraisshan/claude-code-best-practice",
+        "stars": "60555",
+        "url": "https://github.com/shanraisshan/claude-code-best-practice"
+    },
+    {
+        "description": "\u5c0f\u7ea2\u4e66\u7b14\u8bb0 | \u8bc4\u8bba\u722c\u866b\u3001\u6296\u97f3\u89c6\u9891 | \u8bc4\u8bba\u722c\u866b\u3001\u5feb\u624b\u89c6\u9891 | \u8bc4\u8bba\u722c\u866b\u3001B \u7ad9\u89c6\u9891 \uff5c \u8bc4\u8bba\u722c\u866b\u3001\u5fae\u535a\u5e16\u5b50 \uff5c \u8bc4\u8bba\u722c\u866b\u3001\u767e\u5ea6\u8d34\u5427\u5e16\u5b50 \uff5c \u767e\u5ea6\u8d34\u5427\u8bc4\u8bba\u56de\u590d\u722c\u866b | \u77e5\u4e4e\u95ee\u7b54\u6587\u7ae0\uff5c\u8bc4\u8bba\u722c\u866b",
+        "language": "Python",
+        "name": "NanmiCoder/MediaCrawler",
+        "stars": "52753",
+        "url": "https://github.com/NanmiCoder/MediaCrawler"
+    }
+]
