@@ -3,147 +3,147 @@
         "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
         "language": "Swift",
         "name": "apple/container",
-        "stars": "43696",
+        "stars": "43705",
         "url": "https://github.com/apple/container"
     },
     {
         "description": "\u5229\u7528AI\u5927\u6a21\u578b\uff0c\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891 Generate short videos with one click using AI LLM.",
         "language": "Python",
         "name": "harry0703/MoneyPrinterTurbo",
-        "stars": "93212",
+        "stars": "93222",
         "url": "https://github.com/harry0703/MoneyPrinterTurbo"
     },
     {
         "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
         "language": "Python",
         "name": "calesthio/OpenMontage",
-        "stars": "23616",
+        "stars": "23660",
         "url": "https://github.com/calesthio/OpenMontage"
     },
     {
         "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph \u2014 average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
         "language": "C",
         "name": "DeusData/codebase-memory-mcp",
-        "stars": "15658",
+        "stars": "15707",
         "url": "https://github.com/DeusData/codebase-memory-mcp"
     },
     {
         "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu \u2014 one CLI, zero API fees.",
         "language": "Python",
         "name": "Panniantong/Agent-Reach",
-        "stars": "42344",
+        "stars": "42381",
         "url": "https://github.com/Panniantong/Agent-Reach"
     },
     {
         "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
         "language": "Python",
         "name": "mvanhorn/last30days-skill",
-        "stars": "46952",
+        "stars": "46962",
         "url": "https://github.com/mvanhorn/last30days-skill"
     },
     {
         "description": "Collection of publicly available IPTV channels from all over the world",
         "language": "TypeScript",
         "name": "iptv-org/iptv",
-        "stars": "128683",
+        "stars": "128686",
         "url": "https://github.com/iptv-org/iptv"
     },
     {
         "description": "Python tool for converting files and office documents to Markdown.",
         "language": "Python",
         "name": "microsoft/markitdown",
-        "stars": "159556",
+        "stars": "159562",
         "url": "https://github.com/microsoft/markitdown"
     },
     {
         "description": "An Open Source implementation of Notebook LM with more flexibility and features",
         "language": "TypeScript",
         "name": "lfnovo/open-notebook",
-        "stars": "33496",
+        "stars": "33498",
         "url": "https://github.com/lfnovo/open-notebook"
     },
     {
         "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins \u2014 from discovery to strategy, execution, launch, and growth.",
         "language": "N/A",
         "name": "phuryn/pm-skills",
-        "stars": "21231",
+        "stars": "21232",
         "url": "https://github.com/phuryn/pm-skills"
     },
     {
         "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
         "language": "JavaScript",
         "name": "Leonxlnx/taste-skill",
-        "stars": "51577",
+        "stars": "51588",
         "url": "https://github.com/Leonxlnx/taste-skill"
     },
     {
         "description": "OpenAI Plugins",
         "language": "JavaScript",
         "name": "openai/plugins",
-        "stars": "3609",
+        "stars": "3611",
         "url": "https://github.com/openai/plugins"
     },
     {
         "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
         "language": "Go",
         "name": "esengine/DeepSeek-Reasonix",
-        "stars": "24952",
+        "stars": "24957",
         "url": "https://github.com/esengine/DeepSeek-Reasonix"
     },
     {
         "description": "817 structured cybersecurity skills for AI agents \u00b7 Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) \u00b7 agentskills.io standard \u00b7 Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms \u00b7 29 security domains \u00b7 Apache 2.0",
         "language": "Python",
         "name": "mukul975/Anthropic-Cybersecurity-Skills",
-        "stars": "21811",
+        "stars": "21817",
         "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
     },
     {
         "description": "OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint \u2014 plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
         "language": "TypeScript",
         "name": "tashfeenahmed/freellmapi",
-        "stars": "13163",
+        "stars": "13169",
         "url": "https://github.com/tashfeenahmed/freellmapi"
     },
     {
         "description": "\u2325 AI Coding agent for the terminal \u2014 hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
         "language": "TypeScript",
         "name": "can1357/oh-my-pi",
-        "stars": "14795",
+        "stars": "14797",
         "url": "https://github.com/can1357/oh-my-pi"
     },
     {
         "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
         "language": "TypeScript",
         "name": "Egonex-AI/Understand-Anything",
-        "stars": "68355",
+        "stars": "68362",
         "url": "https://github.com/Egonex-AI/Understand-Anything"
     },
     {
         "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent \u2014 fewer tokens, fewer tool calls, 100% local",
         "language": "TypeScript",
         "name": "colbymchenry/codegraph",
-        "stars": "55037",
+        "stars": "55045",
         "url": "https://github.com/colbymchenry/codegraph"
     },
     {
         "description": "agent multiplexer that lives in your terminal.",
         "language": "Rust",
         "name": "ogulcancelik/herdr",
-        "stars": "7508",
+        "stars": "7516",
         "url": "https://github.com/ogulcancelik/herdr"
     },
     {
         "description": "A skill file for removing AI tells from prose",
         "language": "N/A",
         "name": "hardikpandya/stop-slop",
-        "stars": "12582",
+        "stars": "12586",
         "url": "https://github.com/hardikpandya/stop-slop"
     },
     {
         "description": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
         "language": "TypeScript",
         "name": "supermemoryai/supermemory",
-        "stars": "27668",
+        "stars": "27673",
         "url": "https://github.com/supermemoryai/supermemory"
     }
 ]
