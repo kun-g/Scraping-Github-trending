@@ -1,0 +1,135 @@
+[
+    {
+        "description": "Open-source AI penetration testing tool to find and fix your app\u2019s vulnerabilities.",
+        "language": "Python",
+        "name": "usestrix/strix",
+        "stars": "34780",
+        "url": "https://github.com/usestrix/strix"
+    },
+    {
+        "description": "Use Codex from Claude Code to review code or delegate tasks.",
+        "language": "JavaScript",
+        "name": "openai/codex-plugin-cc",
+        "stars": "23298",
+        "url": "https://github.com/openai/codex-plugin-cc"
+    },
+    {
+        "description": "\ud83e\udea8 why use many token when few token do trick \u2014 Claude Code skill that cuts 65% of tokens by talking like caveman",
+        "language": "JavaScript",
+        "name": "JuliusBrussee/caveman",
+        "stars": "83041",
+        "url": "https://github.com/JuliusBrussee/caveman"
+    },
+    {
+        "description": "Free and Open Source, Distributed, RESTful Search Engine",
+        "language": "Java",
+        "name": "elastic/elasticsearch",
+        "stars": "77356",
+        "url": "https://github.com/elastic/elasticsearch"
+    },
+    {
+        "description": "Action for checking out a repo",
+        "language": "TypeScript",
+        "name": "actions/checkout",
+        "stars": "8275",
+        "url": "https://github.com/actions/checkout"
+    },
+    {
+        "description": "Chrome DevTools for coding agents",
+        "language": "TypeScript",
+        "name": "ChromeDevTools/chrome-devtools-mcp",
+        "stars": "45522",
+        "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+    },
+    {
+        "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems.https://docs.ansible.com.",
+        "language": "Python",
+        "name": "ansible/ansible",
+        "stars": "69228",
+        "url": "https://github.com/ansible/ansible"
+    },
+    {
+        "description": "An open source design system that's fully customizable and agent ready",
+        "language": "TypeScript",
+        "name": "facebook/astryx",
+        "stars": "4733",
+        "url": "https://github.com/facebook/astryx"
+    },
+    {
+        "description": "A beautiful, powerful, self-hosted rom manager and player.",
+        "language": "Python",
+        "name": "rommapp/romm",
+        "stars": "9844",
+        "url": "https://github.com/rommapp/romm"
+    },
+    {
+        "description": "Machine Learning Systems",
+        "language": "Python",
+        "name": "harvard-edge/cs249r_book",
+        "stars": "26224",
+        "url": "https://github.com/harvard-edge/cs249r_book"
+    },
+    {
+        "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+        "language": "Python",
+        "name": "pytorch/pytorch",
+        "stars": "101451",
+        "url": "https://github.com/pytorch/pytorch"
+    },
+    {
+        "description": "Apache Maven core",
+        "language": "Java",
+        "name": "apache/maven",
+        "stars": "5238",
+        "url": "https://github.com/apache/maven"
+    },
+    {
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "language": "Python",
+        "name": "anthropics/claude-code",
+        "stars": "135881",
+        "url": "https://github.com/anthropics/claude-code"
+    },
+    {
+        "description": "agent multiplexer that lives in your terminal.",
+        "language": "Rust",
+        "name": "ogulcancelik/herdr",
+        "stars": "10859",
+        "url": "https://github.com/ogulcancelik/herdr"
+    },
+    {
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "name": "obra/superpowers",
+        "stars": "245603",
+        "url": "https://github.com/obra/superpowers"
+    },
+    {
+        "description": "Specification and documentation for Agent Skills",
+        "language": "Python",
+        "name": "agentskills/agentskills",
+        "stars": "22026",
+        "url": "https://github.com/agentskills/agentskills"
+    },
+    {
+        "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+        "language": "TypeScript",
+        "name": "supabase/supabase",
+        "stars": "105511",
+        "url": "https://github.com/supabase/supabase"
+    },
+    {
+        "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+        "language": "Rust",
+        "name": "TencentCloud/CubeSandbox",
+        "stars": "7192",
+        "url": "https://github.com/TencentCloud/CubeSandbox"
+    },
+    {
+        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+        "language": "Shell",
+        "name": "msitarzewski/agency-agents",
+        "stars": "126561",
+        "url": "https://github.com/msitarzewski/agency-agents"
+    }
+]
