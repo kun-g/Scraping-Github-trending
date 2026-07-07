@@ -1,0 +1,135 @@
+[
+    {
+        "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+        "language": "Swift",
+        "name": "apple/container",
+        "stars": "46828",
+        "url": "https://github.com/apple/container"
+    },
+    {
+        "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph \u2014 average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+        "language": "C",
+        "name": "DeusData/codebase-memory-mcp",
+        "stars": "27474",
+        "url": "https://github.com/DeusData/codebase-memory-mcp"
+    },
+    {
+        "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+        "language": "Python",
+        "name": "calesthio/OpenMontage",
+        "stars": "34461",
+        "url": "https://github.com/calesthio/OpenMontage"
+    },
+    {
+        "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+        "language": "Python",
+        "name": "NVIDIA/SkillSpector",
+        "stars": "12171",
+        "url": "https://github.com/NVIDIA/SkillSpector"
+    },
+    {
+        "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu \u2014 one CLI, zero API fees.",
+        "language": "Python",
+        "name": "Panniantong/Agent-Reach",
+        "stars": "52130",
+        "url": "https://github.com/Panniantong/Agent-Reach"
+    },
+    {
+        "description": "Collection of publicly available IPTV channels from all over the world",
+        "language": "TypeScript",
+        "name": "iptv-org/iptv",
+        "stars": "130802",
+        "url": "https://github.com/iptv-org/iptv"
+    },
+    {
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "language": "Python",
+        "name": "mvanhorn/last30days-skill",
+        "stars": "49864",
+        "url": "https://github.com/mvanhorn/last30days-skill"
+    },
+    {
+        "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps \ud83d\udcf1!",
+        "language": "Haskell",
+        "name": "simplex-chat/simplex-chat",
+        "stars": "18019",
+        "url": "https://github.com/simplex-chat/simplex-chat"
+    },
+    {
+        "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+        "language": "JavaScript",
+        "name": "asgeirtj/system_prompts_leaks",
+        "stars": "51771",
+        "url": "https://github.com/asgeirtj/system_prompts_leaks"
+    },
+    {
+        "description": "AI agent to evaluate and score resumes.",
+        "language": "Python",
+        "name": "interviewstreet/hiring-agent",
+        "stars": "4978",
+        "url": "https://github.com/interviewstreet/hiring-agent"
+    },
+    {
+        "description": "Open-source AI penetration testing tool to find and fix your app\u2019s vulnerabilities.",
+        "language": "Python",
+        "name": "usestrix/strix",
+        "stars": "38061",
+        "url": "https://github.com/usestrix/strix"
+    },
+    {
+        "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins \u2014 from discovery to strategy, execution, launch, and growth.",
+        "language": "N/A",
+        "name": "phuryn/pm-skills",
+        "stars": "22803",
+        "url": "https://github.com/phuryn/pm-skills"
+    },
+    {
+        "description": "agent multiplexer that lives in your terminal.",
+        "language": "Rust",
+        "name": "ogulcancelik/herdr",
+        "stars": "12962",
+        "url": "https://github.com/ogulcancelik/herdr"
+    },
+    {
+        "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+        "language": "TypeScript",
+        "name": "stablyai/orca",
+        "stars": "12939",
+        "url": "https://github.com/stablyai/orca"
+    },
+    {
+        "description": "A lightweight, lightning-fast, in-process vector database",
+        "language": "C++",
+        "name": "alibaba/zvec",
+        "stars": "13580",
+        "url": "https://github.com/alibaba/zvec"
+    },
+    {
+        "description": "Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.",
+        "language": "Go",
+        "name": "kenn-io/agentsview",
+        "stars": "4012",
+        "url": "https://github.com/kenn-io/agentsview"
+    },
+    {
+        "description": "IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.",
+        "language": "Rust",
+        "name": "n0-computer/iroh",
+        "stars": "11175",
+        "url": "https://github.com/n0-computer/iroh"
+    },
+    {
+        "description": "20MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.20MB\uff0c\u8f7b\u91cf\u7ea7\u8de8\u5e73\u53f0\u6570\u636e\u5e93\u5ba2\u6237\u7aef\u3001\u6570\u636e\u5e93\u7ba1\u7406\u5de5\u5177\u3002\u652f\u6301 MySQL\u3001PostgreSQL\u3001SQLite\u3001Redis\u3001MongoDB\u3001DuckDB\u3001ClickHouse\u3001SQL Server \u7b49\u3002",
+        "language": "Rust",
+        "name": "t8y2/dbx",
+        "stars": "8966",
+        "url": "https://github.com/t8y2/dbx"
+    },
+    {
+        "description": "We write your reusable computer vision tools. \ud83d\udc9c",
+        "language": "Python",
+        "name": "roboflow/supervision",
+        "stars": "47010",
+        "url": "https://github.com/roboflow/supervision"
+    }
+]
