@@ -1,0 +1,149 @@
+[
+    {
+        "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+        "language": "TypeScript",
+        "name": "MadsLorentzen/ai-job-search",
+        "stars": "19389",
+        "url": "https://github.com/MadsLorentzen/ai-job-search"
+    },
+    {
+        "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
+        "language": "Rust",
+        "name": "Zackriya-Solutions/meetily",
+        "stars": "22254",
+        "url": "https://github.com/Zackriya-Solutions/meetily"
+    },
+    {
+        "description": "Open-source AI penetration testing tool to find and fix your app\u2019s vulnerabilities.",
+        "language": "Python",
+        "name": "usestrix/strix",
+        "stars": "39675",
+        "url": "https://github.com/usestrix/strix"
+    },
+    {
+        "description": "An open source design system that's fully customizable and agent ready",
+        "language": "TypeScript",
+        "name": "facebook/astryx",
+        "stars": "7500",
+        "url": "https://github.com/facebook/astryx"
+    },
+    {
+        "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+        "language": "JavaScript",
+        "name": "asgeirtj/system_prompts_leaks",
+        "stars": "55248",
+        "url": "https://github.com/asgeirtj/system_prompts_leaks"
+    },
+    {
+        "description": "Use Codex from Claude Code to review code or delegate tasks.",
+        "language": "JavaScript",
+        "name": "openai/codex-plugin-cc",
+        "stars": "27193",
+        "url": "https://github.com/openai/codex-plugin-cc"
+    },
+    {
+        "description": "agent multiplexer that lives in your terminal.",
+        "language": "Rust",
+        "name": "ogulcancelik/herdr",
+        "stars": "14858",
+        "url": "https://github.com/ogulcancelik/herdr"
+    },
+    {
+        "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+        "language": "TypeScript",
+        "name": "alibaba/page-agent",
+        "stars": "25553",
+        "url": "https://github.com/alibaba/page-agent"
+    },
+    {
+        "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+        "language": "TypeScript",
+        "name": "diegosouzapw/OmniRoute",
+        "stars": "14382",
+        "url": "https://github.com/diegosouzapw/OmniRoute"
+    },
+    {
+        "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+        "language": "Python",
+        "name": "bradautomates/claude-video",
+        "stars": "6782",
+        "url": "https://github.com/bradautomates/claude-video"
+    },
+    {
+        "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+        "language": "Rust",
+        "name": "TencentCloud/CubeSandbox",
+        "stars": "9372",
+        "url": "https://github.com/TencentCloud/CubeSandbox"
+    },
+    {
+        "description": "Repository for skills to assist AI coding agents with .NET and C#",
+        "language": "C#",
+        "name": "dotnet/skills",
+        "stars": "4496",
+        "url": "https://github.com/dotnet/skills"
+    },
+    {
+        "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+        "language": "TypeScript",
+        "name": "stablyai/orca",
+        "stars": "15217",
+        "url": "https://github.com/stablyai/orca"
+    },
+    {
+        "description": "Build local voice agents with open-source models",
+        "language": "Python",
+        "name": "huggingface/speech-to-speech",
+        "stars": "5843",
+        "url": "https://github.com/huggingface/speech-to-speech"
+    },
+    {
+        "description": "Machine Learning Systems",
+        "language": "Python",
+        "name": "harvard-edge/cs249r_book",
+        "stars": "27259",
+        "url": "https://github.com/harvard-edge/cs249r_book"
+    },
+    {
+        "description": "AI \u65f6\u4ee3\u7684\u4f2f\u514b\u5e0c\u5c14\uff1a\u57fa\u4e8e Claude Code / Codex \u7684\u4ef7\u503c\u6295\u8d44\u7814\u7a76\u6846\u67b6\u3002\u5df4\u83f2\u7279\u00b7\u8292\u683c\u00b7\u6bb5\u6c38\u5e73\u00b7\u674e\u5f55\u56db\u5927\u5e08\u65b9\u6cd5\u8bba + \u591aAgent\u5e76\u884c\u7814\u7a76\u3002| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+        "language": "Python",
+        "name": "xbtlin/ai-berkshire",
+        "stars": "12383",
+        "url": "https://github.com/xbtlin/ai-berkshire"
+    },
+    {
+        "description": "\u03c0 RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.",
+        "language": "Rust",
+        "name": "ruvnet/RuView",
+        "stars": "79698",
+        "url": "https://github.com/ruvnet/RuView"
+    },
+    {
+        "description": "\ud83c\udf3c \ud83c\udf3c \ud83c\udf3c \ud83c\udf3c \ud83c\udf3c \u2003The most popular, free and open-source Tailwind CSS component library",
+        "language": "Svelte",
+        "name": "saadeghi/daisyui",
+        "stars": "41547",
+        "url": "https://github.com/saadeghi/daisyui"
+    },
+    {
+        "description": "High performance self-hosted photo and video management solution.",
+        "language": "TypeScript",
+        "name": "immich-app/immich",
+        "stars": "107120",
+        "url": "https://github.com/immich-app/immich"
+    },
+    {
+        "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+        "language": "Swift",
+        "name": "steipete/CodexBar",
+        "stars": "17388",
+        "url": "https://github.com/steipete/CodexBar"
+    },
+    {
+        "description": "Edit videos with coding agents",
+        "language": "Python",
+        "name": "browser-use/video-use",
+        "stars": "16291",
+        "url": "https://github.com/browser-use/video-use"
+    }
+]
