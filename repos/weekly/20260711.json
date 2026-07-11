@@ -1,0 +1,149 @@
+[
+    {
+        "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. The #1 Ai Meeting Minutes generator.",
+        "language": "Rust",
+        "name": "Zackriya-Solutions/meetily",
+        "stars": "22723",
+        "url": "https://github.com/Zackriya-Solutions/meetily"
+    },
+    {
+        "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+        "language": "JavaScript",
+        "name": "asgeirtj/system_prompts_leaks",
+        "stars": "55863",
+        "url": "https://github.com/asgeirtj/system_prompts_leaks"
+    },
+    {
+        "description": "Open-source AI penetration testing tool to find and fix your app\u2019s vulnerabilities.",
+        "language": "Python",
+        "name": "usestrix/strix",
+        "stars": "40183",
+        "url": "https://github.com/usestrix/strix"
+    },
+    {
+        "description": "Use Codex from Claude Code to review code or delegate tasks.",
+        "language": "JavaScript",
+        "name": "openai/codex-plugin-cc",
+        "stars": "27449",
+        "url": "https://github.com/openai/codex-plugin-cc"
+    },
+    {
+        "description": "agent multiplexer that lives in your terminal.",
+        "language": "Rust",
+        "name": "ogulcancelik/herdr",
+        "stars": "15237",
+        "url": "https://github.com/ogulcancelik/herdr"
+    },
+    {
+        "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+        "language": "Python",
+        "name": "bradautomates/claude-video",
+        "stars": "7223",
+        "url": "https://github.com/bradautomates/claude-video"
+    },
+    {
+        "description": "An open source design system that's fully customizable and agent ready",
+        "language": "TypeScript",
+        "name": "facebook/astryx",
+        "stars": "7760",
+        "url": "https://github.com/facebook/astryx"
+    },
+    {
+        "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+        "language": "TypeScript",
+        "name": "alibaba/page-agent",
+        "stars": "25849",
+        "url": "https://github.com/alibaba/page-agent"
+    },
+    {
+        "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+        "language": "Rust",
+        "name": "TencentCloud/CubeSandbox",
+        "stars": "9590",
+        "url": "https://github.com/TencentCloud/CubeSandbox"
+    },
+    {
+        "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+        "language": "TypeScript",
+        "name": "diegosouzapw/OmniRoute",
+        "stars": "15116",
+        "url": "https://github.com/diegosouzapw/OmniRoute"
+    },
+    {
+        "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+        "language": "TypeScript",
+        "name": "stablyai/orca",
+        "stars": "15993",
+        "url": "https://github.com/stablyai/orca"
+    },
+    {
+        "description": "Build local voice agents with open-source models",
+        "language": "Python",
+        "name": "huggingface/speech-to-speech",
+        "stars": "6018",
+        "url": "https://github.com/huggingface/speech-to-speech"
+    },
+    {
+        "description": "\u03c0 RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.",
+        "language": "Rust",
+        "name": "ruvnet/RuView",
+        "stars": "79897",
+        "url": "https://github.com/ruvnet/RuView"
+    },
+    {
+        "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
+        "language": "JavaScript",
+        "name": "tt-a1i/archify",
+        "stars": "3466",
+        "url": "https://github.com/tt-a1i/archify"
+    },
+    {
+        "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+        "language": "C#",
+        "name": "iOfficeAI/OfficeCLI",
+        "stars": "14487",
+        "url": "https://github.com/iOfficeAI/OfficeCLI"
+    },
+    {
+        "description": "AI \u65f6\u4ee3\u7684\u4f2f\u514b\u5e0c\u5c14\uff1a\u57fa\u4e8e Claude Code / Codex \u7684\u4ef7\u503c\u6295\u8d44\u7814\u7a76\u6846\u67b6\u3002\u5df4\u83f2\u7279\u00b7\u8292\u683c\u00b7\u6bb5\u6c38\u5e73\u00b7\u674e\u5f55\u56db\u5927\u5e08\u65b9\u6cd5\u8bba + \u591aAgent\u5e76\u884c\u7814\u7a76\u3002| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+        "language": "Python",
+        "name": "xbtlin/ai-berkshire",
+        "stars": "12658",
+        "url": "https://github.com/xbtlin/ai-berkshire"
+    },
+    {
+        "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+        "language": "TypeScript",
+        "name": "wonderwhy-er/DesktopCommanderMCP",
+        "stars": "7351",
+        "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
+    },
+    {
+        "description": "Repository for skills to assist AI coding agents with .NET and C#",
+        "language": "C#",
+        "name": "dotnet/skills",
+        "stars": "4549",
+        "url": "https://github.com/dotnet/skills"
+    },
+    {
+        "description": "345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents \u2014 engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+        "language": "Python",
+        "name": "alirezarezvani/claude-skills",
+        "stars": "22086",
+        "url": "https://github.com/alirezarezvani/claude-skills"
+    },
+    {
+        "description": "\ud83e\udea8 why use many token when few token do trick \u2014 Claude Code skill that cuts 65% of tokens by talking like caveman",
+        "language": "JavaScript",
+        "name": "JuliusBrussee/caveman",
+        "stars": "87788",
+        "url": "https://github.com/JuliusBrussee/caveman"
+    },
+    {
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "language": "JavaScript",
+        "name": "addyosmani/agent-skills",
+        "stars": "76870",
+        "url": "https://github.com/addyosmani/agent-skills"
+    }
+]
