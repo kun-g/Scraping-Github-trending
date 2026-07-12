@@ -1,0 +1,170 @@
+[
+    {
+        "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+        "language": "C++",
+        "name": "catchorg/Catch2",
+        "stars": "21087",
+        "url": "https://github.com/catchorg/Catch2"
+    },
+    {
+        "description": "Abseil Common Libraries (C++)",
+        "language": "C++",
+        "name": "abseil/abseil-cpp",
+        "stars": "17825",
+        "url": "https://github.com/abseil/abseil-cpp"
+    },
+    {
+        "description": "CLI tool for configuring and monitoring Claude Code",
+        "language": "Python",
+        "name": "davila7/claude-code-templates",
+        "stars": "29044",
+        "url": "https://github.com/davila7/claude-code-templates"
+    },
+    {
+        "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+        "language": "TypeScript",
+        "name": "google-labs-code/stitch-skills",
+        "stars": "7100",
+        "url": "https://github.com/google-labs-code/stitch-skills"
+    },
+    {
+        "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+        "language": "Go",
+        "name": "hashicorp/terraform",
+        "stars": "49381",
+        "url": "https://github.com/hashicorp/terraform"
+    },
+    {
+        "description": "Mesh optimization library that makes meshes smaller and faster to render",
+        "language": "C++",
+        "name": "zeux/meshoptimizer",
+        "stars": "8149",
+        "url": "https://github.com/zeux/meshoptimizer"
+    },
+    {
+        "description": "OpenAI Plugins",
+        "language": "JavaScript",
+        "name": "openai/plugins",
+        "stars": "4434",
+        "url": "https://github.com/openai/plugins"
+    },
+    {
+        "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+        "language": "TypeScript",
+        "name": "wonderwhy-er/DesktopCommanderMCP",
+        "stars": "7794",
+        "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
+    },
+    {
+        "description": "Asio C++ Library",
+        "language": "C++",
+        "name": "chriskohlhoff/asio",
+        "stars": "6142",
+        "url": "https://github.com/chriskohlhoff/asio"
+    },
+    {
+        "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager \u2013 all in one",
+        "language": "Rust",
+        "name": "oven-sh/bun",
+        "stars": "94577",
+        "url": "https://github.com/oven-sh/bun"
+    },
+    {
+        "description": "Action for checking out a repo",
+        "language": "TypeScript",
+        "name": "actions/checkout",
+        "stars": "8471",
+        "url": "https://github.com/actions/checkout"
+    },
+    {
+        "description": "\ud83c\udfe1 Open source home automation that puts local control and privacy first.",
+        "language": "Python",
+        "name": "home-assistant/core",
+        "stars": "88719",
+        "url": "https://github.com/home-assistant/core"
+    },
+    {
+        "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+        "language": "C",
+        "name": "microsoft/PowerToys",
+        "stars": "136447",
+        "url": "https://github.com/microsoft/PowerToys"
+    },
+    {
+        "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+        "language": "TypeScript",
+        "name": "cypress-io/cypress",
+        "stars": "50635",
+        "url": "https://github.com/cypress-io/cypress"
+    },
+    {
+        "description": "The React Framework",
+        "language": "JavaScript",
+        "name": "vercel/next.js",
+        "stars": "140968",
+        "url": "https://github.com/vercel/next.js"
+    },
+    {
+        "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+        "language": "TypeScript",
+        "name": "DayuanJiang/next-ai-draw-io",
+        "stars": "33316",
+        "url": "https://github.com/DayuanJiang/next-ai-draw-io"
+    },
+    {
+        "description": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+        "language": "Rust",
+        "name": "malisper/pgrust",
+        "stars": "2116",
+        "url": "https://github.com/malisper/pgrust"
+    },
+    {
+        "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+        "language": "C#",
+        "name": "dotnet/aspnetcore",
+        "stars": "38310",
+        "url": "https://github.com/dotnet/aspnetcore"
+    },
+    {
+        "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+        "language": "TypeScript",
+        "name": "prisma/prisma",
+        "stars": "47270",
+        "url": "https://github.com/prisma/prisma"
+    },
+    {
+        "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+        "language": "Jupyter Notebook",
+        "name": "anthropics/claude-cookbooks",
+        "stars": "47976",
+        "url": "https://github.com/anthropics/claude-cookbooks"
+    },
+    {
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "name": "obra/superpowers",
+        "stars": "252512",
+        "url": "https://github.com/obra/superpowers"
+    },
+    {
+        "description": "F\u00b4 - A flight software and embedded systems framework",
+        "language": "C++",
+        "name": "nasa/fprime",
+        "stars": "11503",
+        "url": "https://github.com/nasa/fprime"
+    },
+    {
+        "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems.https://docs.ansible.com.",
+        "language": "Python",
+        "name": "ansible/ansible",
+        "stars": "69601",
+        "url": "https://github.com/ansible/ansible"
+    },
+    {
+        "description": "the full-stack Vue framework",
+        "language": "TypeScript",
+        "name": "nuxt/nuxt",
+        "stars": "60737",
+        "url": "https://github.com/nuxt/nuxt"
+    }
+]
