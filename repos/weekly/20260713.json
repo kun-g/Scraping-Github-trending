@@ -1,0 +1,149 @@
+[
+    {
+        "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes",
+        "language": "Rust",
+        "name": "Zackriya-Solutions/meetily",
+        "stars": "23657",
+        "url": "https://github.com/Zackriya-Solutions/meetily"
+    },
+    {
+        "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+        "language": "TypeScript",
+        "name": "wonderwhy-er/DesktopCommanderMCP",
+        "stars": "8026",
+        "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
+    },
+    {
+        "description": "Use Codex from Claude Code to review code or delegate tasks.",
+        "language": "JavaScript",
+        "name": "openai/codex-plugin-cc",
+        "stars": "28109",
+        "url": "https://github.com/openai/codex-plugin-cc"
+    },
+    {
+        "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+        "language": "Rust",
+        "name": "TencentCloud/CubeSandbox",
+        "stars": "9828",
+        "url": "https://github.com/TencentCloud/CubeSandbox"
+    },
+    {
+        "description": "Abseil Common Libraries (C++)",
+        "language": "C++",
+        "name": "abseil/abseil-cpp",
+        "stars": "17947",
+        "url": "https://github.com/abseil/abseil-cpp"
+    },
+    {
+        "description": "agent multiplexer that lives in your terminal.",
+        "language": "Rust",
+        "name": "ogulcancelik/herdr",
+        "stars": "15831",
+        "url": "https://github.com/ogulcancelik/herdr"
+    },
+    {
+        "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+        "language": "JavaScript",
+        "name": "asgeirtj/system_prompts_leaks",
+        "stars": "56784",
+        "url": "https://github.com/asgeirtj/system_prompts_leaks"
+    },
+    {
+        "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+        "language": "TypeScript",
+        "name": "diegosouzapw/OmniRoute",
+        "stars": "16289",
+        "url": "https://github.com/diegosouzapw/OmniRoute"
+    },
+    {
+        "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+        "language": "TypeScript",
+        "name": "stablyai/orca",
+        "stars": "17172",
+        "url": "https://github.com/stablyai/orca"
+    },
+    {
+        "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+        "language": "Python",
+        "name": "bradautomates/claude-video",
+        "stars": "7867",
+        "url": "https://github.com/bradautomates/claude-video"
+    },
+    {
+        "description": "An open source design system that's fully customizable and agent ready",
+        "language": "TypeScript",
+        "name": "facebook/astryx",
+        "stars": "8236",
+        "url": "https://github.com/facebook/astryx"
+    },
+    {
+        "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+        "language": "C#",
+        "name": "iOfficeAI/OfficeCLI",
+        "stars": "15509",
+        "url": "https://github.com/iOfficeAI/OfficeCLI"
+    },
+    {
+        "description": "Open-source AI penetration testing tool to find and fix your app\u2019s vulnerabilities.",
+        "language": "Python",
+        "name": "usestrix/strix",
+        "stars": "40898",
+        "url": "https://github.com/usestrix/strix"
+    },
+    {
+        "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
+        "language": "JavaScript",
+        "name": "tt-a1i/archify",
+        "stars": "3957",
+        "url": "https://github.com/tt-a1i/archify"
+    },
+    {
+        "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+        "language": "TypeScript",
+        "name": "alibaba/page-agent",
+        "stars": "26257",
+        "url": "https://github.com/alibaba/page-agent"
+    },
+    {
+        "description": "345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents \u2014 engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+        "language": "Python",
+        "name": "alirezarezvani/claude-skills",
+        "stars": "22405",
+        "url": "https://github.com/alirezarezvani/claude-skills"
+    },
+    {
+        "description": "Chrome DevTools for coding agents",
+        "language": "TypeScript",
+        "name": "ChromeDevTools/chrome-devtools-mcp",
+        "stars": "46782",
+        "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+    },
+    {
+        "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+        "language": "Go",
+        "name": "vxcontrol/pentagi",
+        "stars": "20197",
+        "url": "https://github.com/vxcontrol/pentagi"
+    },
+    {
+        "description": "\u03c0 RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.",
+        "language": "Rust",
+        "name": "ruvnet/RuView",
+        "stars": "80278",
+        "url": "https://github.com/ruvnet/RuView"
+    },
+    {
+        "description": "\ud83e\udea8 why use many token when few token do trick \u2014 Claude Code skill that cuts 65% of tokens by talking like caveman",
+        "language": "JavaScript",
+        "name": "JuliusBrussee/caveman",
+        "stars": "88606",
+        "url": "https://github.com/JuliusBrussee/caveman"
+    },
+    {
+        "description": "The design language that makes your AI harness better at design.",
+        "language": "JavaScript",
+        "name": "pbakaus/impeccable",
+        "stars": "46026",
+        "url": "https://github.com/pbakaus/impeccable"
+    }
+]
