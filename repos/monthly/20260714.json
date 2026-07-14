@@ -1,0 +1,142 @@
+[
+    {
+        "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+        "language": "Python",
+        "name": "calesthio/OpenMontage",
+        "stars": "38075",
+        "url": "https://github.com/calesthio/OpenMontage"
+    },
+    {
+        "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph \u2014 average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+        "language": "C",
+        "name": "DeusData/codebase-memory-mcp",
+        "stars": "31168",
+        "url": "https://github.com/DeusData/codebase-memory-mcp"
+    },
+    {
+        "description": "Google Cloud Knowledge Catalog Tools and Samples",
+        "language": "HTML",
+        "name": "GoogleCloudPlatform/knowledge-catalog",
+        "stars": "6893",
+        "url": "https://github.com/GoogleCloudPlatform/knowledge-catalog"
+    },
+    {
+        "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+        "language": "JavaScript",
+        "name": "asgeirtj/system_prompts_leaks",
+        "stars": "57342",
+        "url": "https://github.com/asgeirtj/system_prompts_leaks"
+    },
+    {
+        "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu \u2014 one CLI, zero API fees.",
+        "language": "Python",
+        "name": "Panniantong/Agent-Reach",
+        "stars": "55818",
+        "url": "https://github.com/Panniantong/Agent-Reach"
+    },
+    {
+        "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+        "language": "C++",
+        "name": "catchorg/Catch2",
+        "stars": "21290",
+        "url": "https://github.com/catchorg/Catch2"
+    },
+    {
+        "description": "Open-source AI penetration testing tool to find and fix your app\u2019s vulnerabilities.",
+        "language": "Python",
+        "name": "usestrix/strix",
+        "stars": "41241",
+        "url": "https://github.com/usestrix/strix"
+    },
+    {
+        "description": "git push no-mistakes",
+        "language": "Go",
+        "name": "kunchenguid/no-mistakes",
+        "stars": "6124",
+        "url": "https://github.com/kunchenguid/no-mistakes"
+    },
+    {
+        "description": "agent multiplexer that lives in your terminal.",
+        "language": "Rust",
+        "name": "ogulcancelik/herdr",
+        "stars": "16157",
+        "url": "https://github.com/ogulcancelik/herdr"
+    },
+    {
+        "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+        "language": "TypeScript",
+        "name": "stablyai/orca",
+        "stars": "18393",
+        "url": "https://github.com/stablyai/orca"
+    },
+    {
+        "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes",
+        "language": "Rust",
+        "name": "Zackriya-Solutions/meetily",
+        "stars": "24230",
+        "url": "https://github.com/Zackriya-Solutions/meetily"
+    },
+    {
+        "description": "AI agent to evaluate and score resumes.",
+        "language": "Python",
+        "name": "interviewstreet/hiring-agent",
+        "stars": "5765",
+        "url": "https://github.com/interviewstreet/hiring-agent"
+    },
+    {
+        "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+        "language": "TypeScript",
+        "name": "diegosouzapw/OmniRoute",
+        "stars": "16904",
+        "url": "https://github.com/diegosouzapw/OmniRoute"
+    },
+    {
+        "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+        "language": "TypeScript",
+        "name": "alibaba/page-agent",
+        "stars": "26465",
+        "url": "https://github.com/alibaba/page-agent"
+    },
+    {
+        "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps \ud83d\udcf1!",
+        "language": "Haskell",
+        "name": "simplex-chat/simplex-chat",
+        "stars": "18579",
+        "url": "https://github.com/simplex-chat/simplex-chat"
+    },
+    {
+        "description": "IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.",
+        "language": "Rust",
+        "name": "n0-computer/iroh",
+        "stars": "11668",
+        "url": "https://github.com/n0-computer/iroh"
+    },
+    {
+        "description": "Fast C++ logging library.",
+        "language": "C++",
+        "name": "gabime/spdlog",
+        "stars": "29197",
+        "url": "https://github.com/gabime/spdlog"
+    },
+    {
+        "description": "Collection of publicly available IPTV channels from all over the world",
+        "language": "TypeScript",
+        "name": "iptv-org/iptv",
+        "stars": "132825",
+        "url": "https://github.com/iptv-org/iptv"
+    },
+    {
+        "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+        "language": "C++",
+        "name": "ocornut/imgui",
+        "stars": "74602",
+        "url": "https://github.com/ocornut/imgui"
+    },
+    {
+        "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+        "language": "Python",
+        "name": "topoteretes/cognee",
+        "stars": "27787",
+        "url": "https://github.com/topoteretes/cognee"
+    }
+]
