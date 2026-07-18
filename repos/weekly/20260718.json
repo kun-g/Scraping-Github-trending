@@ -1,0 +1,135 @@
+[
+    {
+        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "language": "CSS",
+        "name": "Nutlope/hallmark",
+        "stars": "12102",
+        "url": "https://github.com/Nutlope/hallmark"
+    },
+    {
+        "description": "Abseil Common Libraries (C++)",
+        "language": "C++",
+        "name": "abseil/abseil-cpp",
+        "stars": "17962",
+        "url": "https://github.com/abseil/abseil-cpp"
+    },
+    {
+        "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+        "language": "TypeScript",
+        "name": "google-labs-code/stitch-skills",
+        "stars": "7621",
+        "url": "https://github.com/google-labs-code/stitch-skills"
+    },
+    {
+        "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+        "language": "Python",
+        "name": "HKUDS/Vibe-Trading",
+        "stars": "24651",
+        "url": "https://github.com/HKUDS/Vibe-Trading"
+    },
+    {
+        "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+        "language": "TypeScript",
+        "name": "wonderwhy-er/DesktopCommanderMCP",
+        "stars": "8454",
+        "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
+    },
+    {
+        "description": "The open-source CapCut alternative",
+        "language": "TypeScript",
+        "name": "OpenCut-app/OpenCut",
+        "stars": "74922",
+        "url": "https://github.com/OpenCut-app/OpenCut"
+    },
+    {
+        "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+        "language": "TypeScript",
+        "name": "stablyai/orca",
+        "stars": "21191",
+        "url": "https://github.com/stablyai/orca"
+    },
+    {
+        "description": "100+ AI Agent & RAG apps you can actually run \u2014 clone, customize, ship.",
+        "language": "Python",
+        "name": "Shubhamsaboo/awesome-llm-apps",
+        "stars": "123635",
+        "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+    },
+    {
+        "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager \u2013 all in one",
+        "language": "Rust",
+        "name": "oven-sh/bun",
+        "stars": "94805",
+        "url": "https://github.com/oven-sh/bun"
+    },
+    {
+        "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+        "language": "C#",
+        "name": "iOfficeAI/OfficeCLI",
+        "stars": "18859",
+        "url": "https://github.com/iOfficeAI/OfficeCLI"
+    },
+    {
+        "description": "CLI tool for configuring and monitoring Claude Code",
+        "language": "Python",
+        "name": "davila7/claude-code-templates",
+        "stars": "29687",
+        "url": "https://github.com/davila7/claude-code-templates"
+    },
+    {
+        "description": "Use Codex from Claude Code to review code or delegate tasks.",
+        "language": "JavaScript",
+        "name": "openai/codex-plugin-cc",
+        "stars": "29113",
+        "url": "https://github.com/openai/codex-plugin-cc"
+    },
+    {
+        "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
+        "language": "Python",
+        "name": "HKUDS/DeepTutor",
+        "stars": "27391",
+        "url": "https://github.com/HKUDS/DeepTutor"
+    },
+    {
+        "description": "The design language that makes your AI harness better at design.",
+        "language": "JavaScript",
+        "name": "pbakaus/impeccable",
+        "stars": "47658",
+        "url": "https://github.com/pbakaus/impeccable"
+    },
+    {
+        "description": "\u628a\u4e66\u3001\u957f\u89c6\u9891\u3001\u64ad\u5ba2\u7b49\u9ad8\u4ef7\u503c\u5185\u5bb9\u84b8\u998f\u6210\u53ef\u6267\u884c\u7684 Agent Skills",
+        "language": "Python",
+        "name": "kangarooking/cangjie-skill",
+        "stars": "3518",
+        "url": "https://github.com/kangarooking/cangjie-skill"
+    },
+    {
+        "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+        "language": "TypeScript",
+        "name": "diegosouzapw/OmniRoute",
+        "stars": "18400",
+        "url": "https://github.com/diegosouzapw/OmniRoute"
+    },
+    {
+        "description": "agent multiplexer that lives in your terminal.",
+        "language": "Rust",
+        "name": "ogulcancelik/herdr",
+        "stars": "17681",
+        "url": "https://github.com/ogulcancelik/herdr"
+    },
+    {
+        "description": "Action for checking out a repo",
+        "language": "TypeScript",
+        "name": "actions/checkout",
+        "stars": "8487",
+        "url": "https://github.com/actions/checkout"
+    },
+    {
+        "description": "Toolkit for building native desktop apps",
+        "language": "Zig",
+        "name": "vercel-labs/native",
+        "stars": "6515",
+        "url": "https://github.com/vercel-labs/native"
+    }
+]
