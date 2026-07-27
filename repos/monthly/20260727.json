@@ -1,0 +1,149 @@
+[
+    {
+        "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models \u2014 Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+        "language": "TypeScript",
+        "name": "diegosouzapw/OmniRoute",
+        "stars": "31176",
+        "url": "https://github.com/diegosouzapw/OmniRoute"
+    },
+    {
+        "description": "Open-source AI penetration testing tool to find and fix your app\u2019s vulnerabilities.",
+        "language": "Python",
+        "name": "usestrix/strix",
+        "stars": "44595",
+        "url": "https://github.com/usestrix/strix"
+    },
+    {
+        "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+        "language": "C++",
+        "name": "catchorg/Catch2",
+        "stars": "21353",
+        "url": "https://github.com/catchorg/Catch2"
+    },
+    {
+        "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+        "language": "TypeScript",
+        "name": "stablyai/orca",
+        "stars": "29895",
+        "url": "https://github.com/stablyai/orca"
+    },
+    {
+        "description": "agent multiplexer that lives in your terminal.",
+        "language": "Rust",
+        "name": "ogulcancelik/herdr",
+        "stars": "21084",
+        "url": "https://github.com/ogulcancelik/herdr"
+    },
+    {
+        "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes",
+        "language": "Rust",
+        "name": "Zackriya-Solutions/meetily",
+        "stars": "26847",
+        "url": "https://github.com/Zackriya-Solutions/meetily"
+    },
+    {
+        "description": "AI \u65f6\u4ee3\u7684\u4f2f\u514b\u5e0c\u5c14\uff1a\u57fa\u4e8e Claude Code / Codex \u7684\u4ef7\u503c\u6295\u8d44\u7814\u7a76\u6846\u67b6\u3002\u5df4\u83f2\u7279\u00b7\u8292\u683c\u00b7\u6bb5\u6c38\u5e73\u00b7\u674e\u5f55\u56db\u5927\u5e08\u65b9\u6cd5\u8bba + \u591aAgent\u5e76\u884c\u7814\u7a76\u3002| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+        "language": "Python",
+        "name": "xbtlin/ai-berkshire",
+        "stars": "14249",
+        "url": "https://github.com/xbtlin/ai-berkshire"
+    },
+    {
+        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "language": "CSS",
+        "name": "Nutlope/hallmark",
+        "stars": "18328",
+        "url": "https://github.com/Nutlope/hallmark"
+    },
+    {
+        "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+        "language": "JavaScript",
+        "name": "asgeirtj/system_prompts_leaks",
+        "stars": "60740",
+        "url": "https://github.com/asgeirtj/system_prompts_leaks"
+    },
+    {
+        "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph \u2014 average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+        "language": "C",
+        "name": "DeusData/codebase-memory-mcp",
+        "stars": "35637",
+        "url": "https://github.com/DeusData/codebase-memory-mcp"
+    },
+    {
+        "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+        "language": "Python",
+        "name": "Robbyant/lingbot-map",
+        "stars": "15580",
+        "url": "https://github.com/Robbyant/lingbot-map"
+    },
+    {
+        "description": "bluetooth mesh chat, IRC vibes",
+        "language": "Swift",
+        "name": "permissionlesstech/bitchat",
+        "stars": "30588",
+        "url": "https://github.com/permissionlesstech/bitchat"
+    },
+    {
+        "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+        "language": "TypeScript",
+        "name": "koala73/worldmonitor",
+        "stars": "74868",
+        "url": "https://github.com/koala73/worldmonitor"
+    },
+    {
+        "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+        "language": "C#",
+        "name": "iOfficeAI/OfficeCLI",
+        "stars": "22418",
+        "url": "https://github.com/iOfficeAI/OfficeCLI"
+    },
+    {
+        "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+        "language": "Python",
+        "name": "HKUDS/Vibe-Trading",
+        "stars": "27860",
+        "url": "https://github.com/HKUDS/Vibe-Trading"
+    },
+    {
+        "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+        "language": "C++",
+        "name": "ocornut/imgui",
+        "stars": "75100",
+        "url": "https://github.com/ocornut/imgui"
+    },
+    {
+        "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+        "language": "TypeScript",
+        "name": "alibaba/page-agent",
+        "stars": "27913",
+        "url": "https://github.com/alibaba/page-agent"
+    },
+    {
+        "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+        "language": "Python",
+        "name": "bradautomates/claude-video",
+        "stars": "10481",
+        "url": "https://github.com/bradautomates/claude-video"
+    },
+    {
+        "description": "The open-source CapCut alternative",
+        "language": "TypeScript",
+        "name": "OpenCut-app/OpenCut",
+        "stars": "79065",
+        "url": "https://github.com/OpenCut-app/OpenCut"
+    },
+    {
+        "description": "Open source alternative to Semrush and Ahrefs",
+        "language": "TypeScript",
+        "name": "every-app/open-seo",
+        "stars": "8275",
+        "url": "https://github.com/every-app/open-seo"
+    },
+    {
+        "description": "Fast C++ logging library.",
+        "language": "C++",
+        "name": "gabime/spdlog",
+        "stars": "29280",
+        "url": "https://github.com/gabime/spdlog"
+    }
+]
