@@ -1,0 +1,128 @@
+[
+    {
+        "description": "A hive mind communication platform",
+        "language": "Rust",
+        "name": "block/buzz",
+        "stars": "19594",
+        "url": "https://github.com/block/buzz"
+    },
+    {
+        "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+        "language": "JavaScript",
+        "name": "citrolabs/ego-lite",
+        "stars": "7055",
+        "url": "https://github.com/citrolabs/ego-lite"
+    },
+    {
+        "description": "Open-source & free \u2014 Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "language": "Go",
+        "name": "alibaba/open-code-review",
+        "stars": "17054",
+        "url": "https://github.com/alibaba/open-code-review"
+    },
+    {
+        "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+        "language": "Python",
+        "name": "ayghri/i-have-adhd",
+        "stars": "14795",
+        "url": "https://github.com/ayghri/i-have-adhd"
+    },
+    {
+        "description": "Create and share 3D architectural projects.",
+        "language": "TypeScript",
+        "name": "pascalorg/editor",
+        "stars": "20454",
+        "url": "https://github.com/pascalorg/editor"
+    },
+    {
+        "description": "Turn any technical book PDF into a Claude Code skill \u2014 ready to study, reference, and use while you work.",
+        "language": "Python",
+        "name": "virgiliojr94/book-to-skill",
+        "stars": "14324",
+        "url": "https://github.com/virgiliojr94/book-to-skill"
+    },
+    {
+        "description": "The most RAM efficient harness",
+        "language": "Rust",
+        "name": "1jehuang/jcode",
+        "stars": "14656",
+        "url": "https://github.com/1jehuang/jcode"
+    },
+    {
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "name": "mattpocock/skills",
+        "stars": "197934",
+        "url": "https://github.com/mattpocock/skills"
+    },
+    {
+        "description": "",
+        "language": "TypeScript",
+        "name": "pingdotgg/t3code",
+        "stars": "16098",
+        "url": "https://github.com/pingdotgg/t3code"
+    },
+    {
+        "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+        "language": "TypeScript",
+        "name": "koala73/worldmonitor",
+        "stars": "77482",
+        "url": "https://github.com/koala73/worldmonitor"
+    },
+    {
+        "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+        "language": "TypeScript",
+        "name": "opengeos/GeoLibre",
+        "stars": "4727",
+        "url": "https://github.com/opengeos/GeoLibre"
+    },
+    {
+        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+        "language": "Python",
+        "name": "shiyu-coder/Kronos",
+        "stars": "35276",
+        "url": "https://github.com/shiyu-coder/Kronos"
+    },
+    {
+        "description": "\ud83d\udc96\ud83e\uddf8 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+        "language": "TypeScript",
+        "name": "moeru-ai/airi",
+        "stars": "46236",
+        "url": "https://github.com/moeru-ai/airi"
+    },
+    {
+        "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models \u2014 Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+        "language": "TypeScript",
+        "name": "diegosouzapw/OmniRoute",
+        "stars": "36211",
+        "url": "https://github.com/diegosouzapw/OmniRoute"
+    },
+    {
+        "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+        "language": "TypeScript",
+        "name": "CoreBunch/Instatic",
+        "stars": "6992",
+        "url": "https://github.com/CoreBunch/Instatic"
+    },
+    {
+        "description": "A library of agent skills for CAD, CAE and CAM",
+        "language": "JavaScript",
+        "name": "earthtojake/text-to-cad",
+        "stars": "12261",
+        "url": "https://github.com/earthtojake/text-to-cad"
+    },
+    {
+        "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+        "language": "TypeScript",
+        "name": "earendil-works/pi",
+        "stars": "81545",
+        "url": "https://github.com/earendil-works/pi"
+    },
+    {
+        "description": "Open-Source Frontier Voice AI",
+        "language": "Python",
+        "name": "microsoft/VibeVoice",
+        "stars": "51717",
+        "url": "https://github.com/microsoft/VibeVoice"
+    }
+]
