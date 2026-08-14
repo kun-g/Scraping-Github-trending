@@ -1,0 +1,121 @@
+[
+    {
+        "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+        "language": "HTML",
+        "name": "cathrynlavery/diagram-design",
+        "stars": "14745",
+        "url": "https://github.com/cathrynlavery/diagram-design"
+    },
+    {
+        "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+        "language": "Python",
+        "name": "semantica-agi/semantica",
+        "stars": "6729",
+        "url": "https://github.com/semantica-agi/semantica"
+    },
+    {
+        "description": "Public repository for Agent Skills",
+        "language": "Python",
+        "name": "anthropics/skills",
+        "stars": "169070",
+        "url": "https://github.com/anthropics/skills"
+    },
+    {
+        "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+        "language": "Python",
+        "name": "cactus-compute/needle",
+        "stars": "4985",
+        "url": "https://github.com/cactus-compute/needle"
+    },
+    {
+        "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. \u2b50 helps a ton :) Windows & iOS waitlist open. Linux soon.",
+        "language": "Swift",
+        "name": "altic-dev/FluidVoice",
+        "stars": "9878",
+        "url": "https://github.com/altic-dev/FluidVoice"
+    },
+    {
+        "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+        "language": "Python",
+        "name": "unslothai/unsloth",
+        "stars": "71084",
+        "url": "https://github.com/unslothai/unsloth"
+    },
+    {
+        "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM \u2014 @-linked together with shared AI memory.",
+        "language": "Rust",
+        "name": "macro-inc/macro",
+        "stars": "2625",
+        "url": "https://github.com/macro-inc/macro"
+    },
+    {
+        "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+        "language": "Python",
+        "name": "megadose/holehe",
+        "stars": "12446",
+        "url": "https://github.com/megadose/holehe"
+    },
+    {
+        "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+        "language": "Python",
+        "name": "smicallef/spiderfoot",
+        "stars": "20685",
+        "url": "https://github.com/smicallef/spiderfoot"
+    },
+    {
+        "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
+        "language": "Rust",
+        "name": "NVIDIA-NeMo/Switchyard",
+        "stars": "1233",
+        "url": "https://github.com/NVIDIA-NeMo/Switchyard"
+    },
+    {
+        "description": "Open-source All in One AI agent workspace. Run any agent \u2014 Claude Code, Codex \u2014 across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.",
+        "language": "TypeScript",
+        "name": "holaboss-ai/holaOS",
+        "stars": "6646",
+        "url": "https://github.com/holaboss-ai/holaOS"
+    },
+    {
+        "description": "Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.",
+        "language": "N/A",
+        "name": "kepano/obsidian-skills",
+        "stars": "45818",
+        "url": "https://github.com/kepano/obsidian-skills"
+    },
+    {
+        "description": "Animation engine for explanatory math videos",
+        "language": "Python",
+        "name": "3b1b/manim",
+        "stars": "90889",
+        "url": "https://github.com/3b1b/manim"
+    },
+    {
+        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+        "language": "Shell",
+        "name": "msitarzewski/agency-agents",
+        "stars": "145213",
+        "url": "https://github.com/msitarzewski/agency-agents"
+    },
+    {
+        "description": "Official Python inference and LoRA trainer package for the LTX-2 audio\u2013video generative model.",
+        "language": "Python",
+        "name": "Lightricks/LTX-2",
+        "stars": "8936",
+        "url": "https://github.com/Lightricks/LTX-2"
+    },
+    {
+        "description": "Desktop app to generate 3D models from images using local AI \u2014 runs entirely on your GPU",
+        "language": "TypeScript",
+        "name": "lightningpixel/modly",
+        "stars": "5449",
+        "url": "https://github.com/lightningpixel/modly"
+    },
+    {
+        "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+        "language": "Go",
+        "name": "infiniflow/ragflow",
+        "stars": "88051",
+        "url": "https://github.com/infiniflow/ragflow"
+    }
+]
