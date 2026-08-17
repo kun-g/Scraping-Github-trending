@@ -1,0 +1,114 @@
+[
+    {
+        "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+        "language": "HTML",
+        "name": "cathrynlavery/diagram-design",
+        "stars": "19553",
+        "url": "https://github.com/cathrynlavery/diagram-design"
+    },
+    {
+        "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+        "language": "Python",
+        "name": "semantica-agi/semantica",
+        "stars": "8191",
+        "url": "https://github.com/semantica-agi/semantica"
+    },
+    {
+        "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+        "language": "TypeScript",
+        "name": "PrimeIntellect-ai/prime-agent",
+        "stars": "16580",
+        "url": "https://github.com/PrimeIntellect-ai/prime-agent"
+    },
+    {
+        "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
+        "language": "Rust",
+        "name": "NVIDIA-NeMo/Switchyard",
+        "stars": "1692",
+        "url": "https://github.com/NVIDIA-NeMo/Switchyard"
+    },
+    {
+        "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+        "language": "Python",
+        "name": "megadose/holehe",
+        "stars": "13294",
+        "url": "https://github.com/megadose/holehe"
+    },
+    {
+        "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+        "language": "Python",
+        "name": "cactus-compute/needle",
+        "stars": "6590",
+        "url": "https://github.com/cactus-compute/needle"
+    },
+    {
+        "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM \u2014 @-linked together with shared AI memory.",
+        "language": "Rust",
+        "name": "macro-inc/macro",
+        "stars": "3413",
+        "url": "https://github.com/macro-inc/macro"
+    },
+    {
+        "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+        "language": "Python",
+        "name": "vitali87/code-graph-rag",
+        "stars": "4430",
+        "url": "https://github.com/vitali87/code-graph-rag"
+    },
+    {
+        "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents \ud83d\ude80",
+        "language": "JavaScript",
+        "name": "ToolJet/ToolJet",
+        "stars": "40044",
+        "url": "https://github.com/ToolJet/ToolJet"
+    },
+    {
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "language": "JavaScript",
+        "name": "addyosmani/agent-skills",
+        "stars": "87770",
+        "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+        "description": "Animation engine for explanatory math videos",
+        "language": "Python",
+        "name": "3b1b/manim",
+        "stars": "91356",
+        "url": "https://github.com/3b1b/manim"
+    },
+    {
+        "description": "Beautiful, Modern & Opinionated Linux",
+        "language": "Shell",
+        "name": "basecamp/omarchy",
+        "stars": "25403",
+        "url": "https://github.com/basecamp/omarchy"
+    },
+    {
+        "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+        "language": "Python",
+        "name": "unslothai/unsloth",
+        "stars": "72600",
+        "url": "https://github.com/unslothai/unsloth"
+    },
+    {
+        "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents \u2014 turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+        "language": "TypeScript",
+        "name": "TencentCloud/TencentDB-Agent-Memory",
+        "stars": "22242",
+        "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+    },
+    {
+        "description": "Official Python inference and LoRA trainer package for the LTX-2 audio\u2013video generative model.",
+        "language": "Python",
+        "name": "Lightricks/LTX-2",
+        "stars": "9057",
+        "url": "https://github.com/Lightricks/LTX-2"
+    },
+    {
+        "description": "The open-source app everyone uses to manage agents at work",
+        "language": "TypeScript",
+        "name": "paperclipai/paperclip",
+        "stars": "78517",
+        "url": "https://github.com/paperclipai/paperclip"
+    }
+]
