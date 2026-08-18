@@ -1,0 +1,100 @@
+[
+    {
+        "description": "27 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+        "language": "HTML",
+        "name": "cathrynlavery/diagram-design",
+        "stars": "20711",
+        "url": "https://github.com/cathrynlavery/diagram-design"
+    },
+    {
+        "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+        "language": "Python",
+        "name": "semantica-agi/semantica",
+        "stars": "8590",
+        "url": "https://github.com/semantica-agi/semantica"
+    },
+    {
+        "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+        "language": "Python",
+        "name": "cactus-compute/needle",
+        "stars": "7144",
+        "url": "https://github.com/cactus-compute/needle"
+    },
+    {
+        "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+        "language": "Python",
+        "name": "megadose/holehe",
+        "stars": "13451",
+        "url": "https://github.com/megadose/holehe"
+    },
+    {
+        "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+        "language": "TypeScript",
+        "name": "PrimeIntellect-ai/prime-agent",
+        "stars": "16934",
+        "url": "https://github.com/PrimeIntellect-ai/prime-agent"
+    },
+    {
+        "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM \u2014 @-linked together with shared AI memory.",
+        "language": "Rust",
+        "name": "macro-inc/macro",
+        "stars": "3562",
+        "url": "https://github.com/macro-inc/macro"
+    },
+    {
+        "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+        "language": "Python",
+        "name": "vitali87/code-graph-rag",
+        "stars": "4543",
+        "url": "https://github.com/vitali87/code-graph-rag"
+    },
+    {
+        "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+        "language": "Python",
+        "name": "unslothai/unsloth",
+        "stars": "73237",
+        "url": "https://github.com/unslothai/unsloth"
+    },
+    {
+        "description": "Animation engine for explanatory math videos",
+        "language": "Python",
+        "name": "3b1b/manim",
+        "stars": "91503",
+        "url": "https://github.com/3b1b/manim"
+    },
+    {
+        "description": "Beautiful, Modern & Opinionated Linux",
+        "language": "Shell",
+        "name": "basecamp/omarchy",
+        "stars": "25999",
+        "url": "https://github.com/basecamp/omarchy"
+    },
+    {
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "language": "JavaScript",
+        "name": "addyosmani/agent-skills",
+        "stars": "88060",
+        "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+        "description": "Desktop app to generate 3D models from images or prompt using local AI \u2014 runs entirely on your GPU",
+        "language": "TypeScript",
+        "name": "lightningpixel/modly",
+        "stars": "6376",
+        "url": "https://github.com/lightningpixel/modly"
+    },
+    {
+        "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents \u2014 turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+        "language": "TypeScript",
+        "name": "TencentCloud/TencentDB-Agent-Memory",
+        "stars": "22631",
+        "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+    },
+    {
+        "description": "Public repository for Agent Skills",
+        "language": "Python",
+        "name": "anthropics/skills",
+        "stars": "170017",
+        "url": "https://github.com/anthropics/skills"
+    }
+]
