@@ -1,0 +1,121 @@
+[
+    {
+        "description": "The Modular Platform (includes MAX & Mojo)",
+        "language": "Mojo",
+        "name": "modular/modular",
+        "stars": "27962",
+        "url": "https://github.com/modular/modular"
+    },
+    {
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "name": "mattpocock/skills",
+        "stars": "226566",
+        "url": "https://github.com/mattpocock/skills"
+    },
+    {
+        "description": "\u26a1\ufe0fA native, local-first alternative to Logitech Options+, written in Rust \ud83e\udd80 \u2014 remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+        "language": "Rust",
+        "name": "AprilNEA/OpenLogi",
+        "stars": "11908",
+        "url": "https://github.com/AprilNEA/OpenLogi"
+    },
+    {
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "name": "obra/superpowers",
+        "stars": "274961",
+        "url": "https://github.com/obra/superpowers"
+    },
+    {
+        "description": "Cursor plugin specification and official plugins",
+        "language": "TypeScript",
+        "name": "cursor/plugins",
+        "stars": "4089",
+        "url": "https://github.com/cursor/plugins"
+    },
+    {
+        "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications \u2014 runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity\u2026)",
+        "language": "JavaScript",
+        "name": "santifer/career-ops",
+        "stars": "66698",
+        "url": "https://github.com/santifer/career-ops"
+    },
+    {
+        "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+        "language": "Rust",
+        "name": "akitaonrails/ai-memory",
+        "stars": "3624",
+        "url": "https://github.com/akitaonrails/ai-memory"
+    },
+    {
+        "description": "\u5229\u7528 AI \u5927\u6a21\u578b\u548c\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff0c\u6839\u636e\u4e3b\u9898\u6216\u5173\u952e\u8bcd\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891\u3002Generate HD short videos from a topic or keyword with an automated AI workflow.",
+        "language": "Python",
+        "name": "harry0703/MoneyPrinterTurbo",
+        "stars": "112974",
+        "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+    },
+    {
+        "description": "Agent Substrate: the core system",
+        "language": "Go",
+        "name": "agent-substrate/substrate",
+        "stars": "1399",
+        "url": "https://github.com/agent-substrate/substrate"
+    },
+    {
+        "description": "local multi-agent harness",
+        "language": "TypeScript",
+        "name": "chaitanyagiri/munder-difflin",
+        "stars": "3136",
+        "url": "https://github.com/chaitanyagiri/munder-difflin"
+    },
+    {
+        "description": "\ud83e\udd94 PostHog is the leading platform for building self-driving products. Our developer tools \u2013 AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more \u2013 capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+        "language": "Python",
+        "name": "PostHog/posthog",
+        "stars": "38010",
+        "url": "https://github.com/PostHog/posthog"
+    },
+    {
+        "description": "Visualize your year in travel using your Google Location History (Timeline) data",
+        "language": "Kotlin",
+        "name": "mahlernim/google-timeline-visualizer",
+        "stars": "1584",
+        "url": "https://github.com/mahlernim/google-timeline-visualizer"
+    },
+    {
+        "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+        "language": "Python",
+        "name": "volcengine/OpenViking",
+        "stars": "31040",
+        "url": "https://github.com/volcengine/OpenViking"
+    },
+    {
+        "description": "\ud83e\udea8 why use many token when few token do trick \u2014 Claude Code skill that cuts 65% of tokens by talking like caveman",
+        "language": "Go",
+        "name": "JuliusBrussee/caveman",
+        "stars": "99647",
+        "url": "https://github.com/JuliusBrussee/caveman"
+    },
+    {
+        "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+        "language": "TypeScript",
+        "name": "makeplane/plane",
+        "stars": "56516",
+        "url": "https://github.com/makeplane/plane"
+    },
+    {
+        "description": "A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
+        "language": "Python",
+        "name": "Tencent/AI-Infra-Guard",
+        "stars": "4974",
+        "url": "https://github.com/Tencent/AI-Infra-Guard"
+    },
+    {
+        "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+        "language": "Rust",
+        "name": "RyanCodrai/turbovec",
+        "stars": "15956",
+        "url": "https://github.com/RyanCodrai/turbovec"
+    }
+]

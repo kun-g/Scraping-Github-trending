@@ -1,0 +1,128 @@
+[
+    {
+        "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "name": "cathrynlavery/diagram-design",
+        "stars": "24319",
+        "url": "https://github.com/cathrynlavery/diagram-design"
+    },
+    {
+        "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+        "language": "Python",
+        "name": "volcengine/OpenViking",
+        "stars": "31040",
+        "url": "https://github.com/volcengine/OpenViking"
+    },
+    {
+        "description": "Beautiful, Modern & Opinionated Linux",
+        "language": "Shell",
+        "name": "basecamp/omarchy",
+        "stars": "27058",
+        "url": "https://github.com/basecamp/omarchy"
+    },
+    {
+        "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+        "language": "Python",
+        "name": "cactus-compute/needle",
+        "stars": "8134",
+        "url": "https://github.com/cactus-compute/needle"
+    },
+    {
+        "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+        "language": "Python",
+        "name": "semantica-agi/semantica",
+        "stars": "9829",
+        "url": "https://github.com/semantica-agi/semantica"
+    },
+    {
+        "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
+        "language": "Rust",
+        "name": "NVIDIA-NeMo/Switchyard",
+        "stars": "1975",
+        "url": "https://github.com/NVIDIA-NeMo/Switchyard"
+    },
+    {
+        "description": "The Modular Platform (includes MAX & Mojo)",
+        "language": "Mojo",
+        "name": "modular/modular",
+        "stars": "27962",
+        "url": "https://github.com/modular/modular"
+    },
+    {
+        "description": "\u5229\u7528 AI \u5927\u6a21\u578b\u548c\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff0c\u6839\u636e\u4e3b\u9898\u6216\u5173\u952e\u8bcd\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891\u3002Generate HD short videos from a topic or keyword with an automated AI workflow.",
+        "language": "Python",
+        "name": "harry0703/MoneyPrinterTurbo",
+        "stars": "112974",
+        "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+    },
+    {
+        "description": "A collective list of free APIs",
+        "language": "Python",
+        "name": "public-apis/public-apis",
+        "stars": "467244",
+        "url": "https://github.com/public-apis/public-apis"
+    },
+    {
+        "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+        "language": "Python",
+        "name": "megadose/holehe",
+        "stars": "13833",
+        "url": "https://github.com/megadose/holehe"
+    },
+    {
+        "description": "\u26a1\ufe0fA native, local-first alternative to Logitech Options+, written in Rust \ud83e\udd80 \u2014 remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+        "language": "Rust",
+        "name": "AprilNEA/OpenLogi",
+        "stars": "11908",
+        "url": "https://github.com/AprilNEA/OpenLogi"
+    },
+    {
+        "description": "Desktop app to generate 3D models from images or prompt using local AI \u2014 runs entirely on your GPU",
+        "language": "TypeScript",
+        "name": "lightningpixel/modly",
+        "stars": "7037",
+        "url": "https://github.com/lightningpixel/modly"
+    },
+    {
+        "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM \u2014 @-linked together with shared AI memory.",
+        "language": "Rust",
+        "name": "macro-inc/macro",
+        "stars": "3871",
+        "url": "https://github.com/macro-inc/macro"
+    },
+    {
+        "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+        "language": "Python",
+        "name": "unslothai/unsloth",
+        "stars": "74102",
+        "url": "https://github.com/unslothai/unsloth"
+    },
+    {
+        "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+        "language": "Rust",
+        "name": "akitaonrails/ai-memory",
+        "stars": "3624",
+        "url": "https://github.com/akitaonrails/ai-memory"
+    },
+    {
+        "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon \u2014 managed from the macOS menu bar",
+        "language": "Python",
+        "name": "jundot/omlx",
+        "stars": "20113",
+        "url": "https://github.com/jundot/omlx"
+    },
+    {
+        "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+        "language": "Rust",
+        "name": "AlexsJones/llmfit",
+        "stars": "33284",
+        "url": "https://github.com/AlexsJones/llmfit"
+    },
+    {
+        "description": "The free coding agent",
+        "language": "TypeScript",
+        "name": "CodebuffAI/freebuff",
+        "stars": "10280",
+        "url": "https://github.com/CodebuffAI/freebuff"
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "description": "A hive mind communication platform",
+        "language": "Rust",
+        "name": "block/buzz",
+        "stars": "28918",
+        "url": "https://github.com/block/buzz"
+    },
+    {
+        "description": "bluetooth mesh chat, IRC vibes",
+        "language": "Swift",
+        "name": "permissionlesstech/bitchat",
+        "stars": "35707",
+        "url": "https://github.com/permissionlesstech/bitchat"
+    },
+    {
+        "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+        "language": "Python",
+        "name": "ayghri/i-have-adhd",
+        "stars": "22677",
+        "url": "https://github.com/ayghri/i-have-adhd"
+    },
+    {
+        "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+        "language": "JavaScript",
+        "name": "citrolabs/ego-lite",
+        "stars": "12259",
+        "url": "https://github.com/citrolabs/ego-lite"
+    },
+    {
+        "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents \u2014 turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+        "language": "TypeScript",
+        "name": "TencentCloud/TencentDB-Agent-Memory",
+        "stars": "23481",
+        "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+    },
+    {
+        "description": "Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models \u2014 Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors",
+        "language": "TypeScript",
+        "name": "diegosouzapw/OmniRoute",
+        "stars": "51994",
+        "url": "https://github.com/diegosouzapw/OmniRoute"
+    },
+    {
+        "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients \u9006\u5411/\u6e17\u900f/\u5b89\u5168\u6280\u80fd\u8def\u7531\u5305 - AI \u81ea\u52a8\u8def\u7531 + \u6309\u9700\u81ea\u4e3e\u5de5\u5177\u94fe + \u81ea\u52a8\u8fdb\u5316\u7ecf\u9a8c\u5e93 | \u652f\u6301 Claude Code / Kiro / Cursor / Cline \u7b49\u4ee3\u7801 AI \u5ba2\u6237\u7aef",
+        "language": "PowerShell",
+        "name": "zhaoxuya520/reverse-skill",
+        "stars": "27025",
+        "url": "https://github.com/zhaoxuya520/reverse-skill"
+    },
+    {
+        "description": "\u300a\u6df1\u5165\u7406\u89e3 AI Agent\uff1a\u8bbe\u8ba1\u539f\u7406\u4e0e\u5de5\u7a0b\u5b9e\u8df5\u300b\uff08\u674e\u535a\u6770 \u8457\uff09\u5f00\u6e90\u4e3b\u4ed3\u5e93\uff1a\u5168\u4e66\u6b63\u6587\u3001\u7f16\u8bd1\u7248 PDF \u4e0e\u6309\u7ae0\u914d\u5957\u4ee3\u7801",
+        "language": "Python",
+        "name": "bojieli/ai-agent-book",
+        "stars": "40298",
+        "url": "https://github.com/bojieli/ai-agent-book"
+    },
+    {
+        "description": "",
+        "language": "TypeScript",
+        "name": "pingdotgg/t3code",
+        "stars": "19779",
+        "url": "https://github.com/pingdotgg/t3code"
+    },
+    {
+        "description": "12 Weeks, 24 Lessons, AI for All!",
+        "language": "Jupyter Notebook",
+        "name": "microsoft/AI-For-Beginners",
+        "stars": "65916",
+        "url": "https://github.com/microsoft/AI-For-Beginners"
+    },
+    {
+        "description": "Turn any technical book PDF into a Claude Code skill \u2014 ready to study, reference, and use while you work.",
+        "language": "Python",
+        "name": "virgiliojr94/book-to-skill",
+        "stars": "23421",
+        "url": "https://github.com/virgiliojr94/book-to-skill"
+    },
+    {
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "name": "mattpocock/skills",
+        "stars": "226566",
+        "url": "https://github.com/mattpocock/skills"
+    },
+    {
+        "description": "The most RAM efficient harness",
+        "language": "Rust",
+        "name": "1jehuang/jcode",
+        "stars": "18112",
+        "url": "https://github.com/1jehuang/jcode"
+    },
+    {
+        "description": "Beautiful, Modern & Opinionated Linux",
+        "language": "Shell",
+        "name": "basecamp/omarchy",
+        "stars": "27058",
+        "url": "https://github.com/basecamp/omarchy"
+    },
+    {
+        "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+        "language": "TypeScript",
+        "name": "earendil-works/pi",
+        "stars": "94431",
+        "url": "https://github.com/earendil-works/pi"
+    },
+    {
+        "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+        "language": "TypeScript",
+        "name": "koala73/worldmonitor",
+        "stars": "83495",
+        "url": "https://github.com/koala73/worldmonitor"
+    },
+    {
+        "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+        "language": "Python",
+        "name": "cactus-compute/needle",
+        "stars": "8134",
+        "url": "https://github.com/cactus-compute/needle"
+    },
+    {
+        "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+        "language": "Python",
+        "name": "megadose/holehe",
+        "stars": "13833",
+        "url": "https://github.com/megadose/holehe"
+    },
+    {
+        "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
+        "language": "Python",
+        "name": "HKUDS/DeepTutor",
+        "stars": "36662",
+        "url": "https://github.com/HKUDS/DeepTutor"
+    },
+    {
+        "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+        "language": "TypeScript",
+        "name": "different-ai/openwork",
+        "stars": "22810",
+        "url": "https://github.com/different-ai/openwork"
+    },
+    {
+        "description": "AirLLM 70B inference with single 4GB GPU",
+        "language": "Jupyter Notebook",
+        "name": "lyogavin/airllm",
+        "stars": "31941",
+        "url": "https://github.com/lyogavin/airllm"
+    },
+    {
+        "description": "Open source alternative to Semrush and Ahrefs",
+        "language": "TypeScript",
+        "name": "every-app/open-seo",
+        "stars": "12877",
+        "url": "https://github.com/every-app/open-seo"
+    }
+]
