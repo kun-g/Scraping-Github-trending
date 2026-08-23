@@ -1,0 +1,107 @@
+[
+    {
+        "description": "Cursor plugin specification and official plugins",
+        "language": "TypeScript",
+        "name": "cursor/plugins",
+        "stars": "4670",
+        "url": "https://github.com/cursor/plugins"
+    },
+    {
+        "description": "Meta-Framework of Spatiotemporal Composability",
+        "language": "TypeScript",
+        "name": "cordiverse/cordis",
+        "stars": "7112",
+        "url": "https://github.com/cordiverse/cordis"
+    },
+    {
+        "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+        "language": "Python",
+        "name": "volcengine/OpenViking",
+        "stars": "32073",
+        "url": "https://github.com/volcengine/OpenViking"
+    },
+    {
+        "description": "Beautiful, Modern & Opinionated Linux",
+        "language": "Shell",
+        "name": "basecamp/omarchy",
+        "stars": "28302",
+        "url": "https://github.com/basecamp/omarchy"
+    },
+    {
+        "description": "The Modular Platform (includes MAX & Mojo)",
+        "language": "Mojo",
+        "name": "modular/modular",
+        "stars": "28847",
+        "url": "https://github.com/modular/modular"
+    },
+    {
+        "description": "\u5229\u7528 AI \u5927\u6a21\u578b\u548c\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff0c\u6839\u636e\u4e3b\u9898\u6216\u5173\u952e\u8bcd\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891\u3002Generate HD short videos from a topic or keyword with an automated AI workflow.",
+        "language": "Python",
+        "name": "harry0703/MoneyPrinterTurbo",
+        "stars": "114660",
+        "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+    },
+    {
+        "description": "\u26a1\ufe0fA native, local-first alternative to Logitech Options+, written in Rust \ud83e\udd80 \u2014 remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+        "language": "Rust",
+        "name": "AprilNEA/OpenLogi",
+        "stars": "13963",
+        "url": "https://github.com/AprilNEA/OpenLogi"
+    },
+    {
+        "description": "A collective list of free APIs",
+        "language": "Python",
+        "name": "public-apis/public-apis",
+        "stars": "468654",
+        "url": "https://github.com/public-apis/public-apis"
+    },
+    {
+        "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "name": "cathrynlavery/diagram-design",
+        "stars": "25485",
+        "url": "https://github.com/cathrynlavery/diagram-design"
+    },
+    {
+        "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+        "language": "Rust",
+        "name": "akitaonrails/ai-memory",
+        "stars": "4090",
+        "url": "https://github.com/akitaonrails/ai-memory"
+    },
+    {
+        "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon \u2014 managed from the macOS menu bar",
+        "language": "Python",
+        "name": "jundot/omlx",
+        "stars": "20347",
+        "url": "https://github.com/jundot/omlx"
+    },
+    {
+        "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+        "language": "Python",
+        "name": "semantica-agi/semantica",
+        "stars": "10272",
+        "url": "https://github.com/semantica-agi/semantica"
+    },
+    {
+        "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+        "language": "Rust",
+        "name": "AlexsJones/llmfit",
+        "stars": "33577",
+        "url": "https://github.com/AlexsJones/llmfit"
+    },
+    {
+        "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
+        "language": "Rust",
+        "name": "NVIDIA-NeMo/Switchyard",
+        "stars": "2222",
+        "url": "https://github.com/NVIDIA-NeMo/Switchyard"
+    },
+    {
+        "description": "Node-based terminal manager for AI coding agents \u2014 tmux-backed terminals and parallel agent sessions as draggable nodes on an infinite pan/zoom canvas. macOS, Linux, and a browser Server Edition.",
+        "language": "TypeScript",
+        "name": "eneskirca/nodeterm",
+        "stars": "1052",
+        "url": "https://github.com/eneskirca/nodeterm"
+    }
+]
