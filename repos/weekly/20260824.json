@@ -1,0 +1,79 @@
+[
+    {
+        "description": "The Modular Platform (includes MAX & Mojo)",
+        "language": "Mojo",
+        "name": "modular/modular",
+        "stars": "28980",
+        "url": "https://github.com/modular/modular"
+    },
+    {
+        "description": "\u5229\u7528 AI \u5927\u6a21\u578b\u548c\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff0c\u6839\u636e\u4e3b\u9898\u6216\u5173\u952e\u8bcd\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891\u3002Generate HD short videos from a topic or keyword with an automated AI workflow.",
+        "language": "Python",
+        "name": "harry0703/MoneyPrinterTurbo",
+        "stars": "115322",
+        "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+    },
+    {
+        "description": "Beautiful, Modern & Opinionated Linux",
+        "language": "Shell",
+        "name": "basecamp/omarchy",
+        "stars": "29152",
+        "url": "https://github.com/basecamp/omarchy"
+    },
+    {
+        "description": "\u26a1\ufe0fA native, local-first alternative to Logitech Options+, written in Rust \ud83e\udd80 \u2014 remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+        "language": "Rust",
+        "name": "AprilNEA/OpenLogi",
+        "stars": "14966",
+        "url": "https://github.com/AprilNEA/OpenLogi"
+    },
+    {
+        "description": "Meta-Framework of Spatiotemporal Composability",
+        "language": "TypeScript",
+        "name": "cordiverse/cordis",
+        "stars": "7243",
+        "url": "https://github.com/cordiverse/cordis"
+    },
+    {
+        "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+        "language": "Python",
+        "name": "volcengine/OpenViking",
+        "stars": "32495",
+        "url": "https://github.com/volcengine/OpenViking"
+    },
+    {
+        "description": "A collective list of free APIs",
+        "language": "Python",
+        "name": "public-apis/public-apis",
+        "stars": "469227",
+        "url": "https://github.com/public-apis/public-apis"
+    },
+    {
+        "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon \u2014 managed from the macOS menu bar",
+        "language": "Python",
+        "name": "jundot/omlx",
+        "stars": "20451",
+        "url": "https://github.com/jundot/omlx"
+    },
+    {
+        "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror \u2014 submit plugins at clau.de/plugin-directory-submission.",
+        "language": "Python",
+        "name": "anthropics/claude-plugins-community",
+        "stars": "968",
+        "url": "https://github.com/anthropics/claude-plugins-community"
+    },
+    {
+        "description": "Cursor plugin specification and official plugins",
+        "language": "TypeScript",
+        "name": "cursor/plugins",
+        "stars": "4824",
+        "url": "https://github.com/cursor/plugins"
+    },
+    {
+        "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+        "language": "TypeScript",
+        "name": "apache/maka",
+        "stars": "2363",
+        "url": "https://github.com/apache/maka"
+    }
+]
