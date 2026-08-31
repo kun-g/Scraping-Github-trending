@@ -1,0 +1,135 @@
+[
+    {
+        "description": "Prompt as Code | GPT-Image2 \u5de5\u4e1a\u7ea7\u63d0\u793a\u8bcd\u5f15\u64ce\u4e0e\u6a21\u677f\u5e93\uff0c530+ \u4e2a\u6848\u4f8b\u9006\u5411\u5de5\u7a0b\uff0c20+ \u5957\u5de5\u4e1a\u7ea7\u6a21\u677f\uff0c\u5e76\u63d0\u70bc\u51faSkills\uff0c\u6301\u7eed\u66f4\u65b0\u4e2d",
+        "language": "JavaScript",
+        "name": "freestylefly/awesome-gpt-image-2",
+        "stars": "25849",
+        "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+    },
+    {
+        "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror \u2014 submit plugins at clau.de/plugin-directory-submission.",
+        "language": "Python",
+        "name": "anthropics/claude-plugins-community",
+        "stars": "2924",
+        "url": "https://github.com/anthropics/claude-plugins-community"
+    },
+    {
+        "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams\u2014self-contained HTML with motion and crisp export.",
+        "language": "JavaScript",
+        "name": "tt-a1i/archify",
+        "stars": "35454",
+        "url": "https://github.com/tt-a1i/archify"
+    },
+    {
+        "description": "Beautiful, Modern & Opinionated Linux",
+        "language": "Shell",
+        "name": "omacom/omarchy",
+        "stars": "35638",
+        "url": "https://github.com/omacom/omarchy"
+    },
+    {
+        "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+        "language": "TypeScript",
+        "name": "apache/maka",
+        "stars": "4229",
+        "url": "https://github.com/apache/maka"
+    },
+    {
+        "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+        "language": "TypeScript",
+        "name": "tashfeenahmed/freellmapi",
+        "stars": "22932",
+        "url": "https://github.com/tashfeenahmed/freellmapi"
+    },
+    {
+        "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+        "language": "Python",
+        "name": "MadsLorentzen/ai-job-search",
+        "stars": "38616",
+        "url": "https://github.com/MadsLorentzen/ai-job-search"
+    },
+    {
+        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "language": "Python",
+        "name": "anthropics/claude-plugins-official",
+        "stars": "35639",
+        "url": "https://github.com/anthropics/claude-plugins-official"
+    },
+    {
+        "description": "\u26a1\ufe0fA native, local-first alternative to Logitech Options+, written in Rust \ud83e\udd80 \u2014 remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+        "language": "Rust",
+        "name": "AprilNEA/OpenLogi",
+        "stars": "17937",
+        "url": "https://github.com/AprilNEA/OpenLogi"
+    },
+    {
+        "description": "Learn it. Build it. Ship it for others.",
+        "language": "Python",
+        "name": "rohitg00/ai-engineering-from-scratch",
+        "stars": "51356",
+        "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+    },
+    {
+        "description": "Cursor plugin specification and official plugins",
+        "language": "TypeScript",
+        "name": "cursor/plugins",
+        "stars": "6295",
+        "url": "https://github.com/cursor/plugins"
+    },
+    {
+        "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+        "language": "Python",
+        "name": "K-Dense-AI/scientific-agent-skills",
+        "stars": "39596",
+        "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+    },
+    {
+        "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+        "language": "CSS",
+        "name": "ConardLi/garden-skills",
+        "stars": "11810",
+        "url": "https://github.com/ConardLi/garden-skills"
+    },
+    {
+        "description": "GoogleTest - Google Testing and Mocking Framework",
+        "language": "C++",
+        "name": "google/googletest",
+        "stars": "39392",
+        "url": "https://github.com/google/googletest"
+    },
+    {
+        "description": "Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+        "language": "Python",
+        "name": "Alishahryar1/free-claude-code",
+        "stars": "51998",
+        "url": "https://github.com/Alishahryar1/free-claude-code"
+    },
+    {
+        "description": "Open Multi-Agent Interactive Classroom \u2014 Get an immersive, multi-agent learning experience in just one click",
+        "language": "TypeScript",
+        "name": "THU-MAIC/OpenMAIC",
+        "stars": "24622",
+        "url": "https://github.com/THU-MAIC/OpenMAIC"
+    },
+    {
+        "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+        "language": "Python",
+        "name": "abi/screenshot-to-code",
+        "stars": "76461",
+        "url": "https://github.com/abi/screenshot-to-code"
+    },
+    {
+        "description": "Lightweight coding agent that runs in your terminal",
+        "language": "Rust",
+        "name": "openai/codex",
+        "stars": "120181",
+        "url": "https://github.com/openai/codex"
+    },
+    {
+        "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+        "language": "Rust",
+        "name": "tinyhumansai/openhuman",
+        "stars": "39045",
+        "url": "https://github.com/tinyhumansai/openhuman"
+    }
+]
