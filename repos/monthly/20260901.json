@@ -1,0 +1,156 @@
+[
+    {
+        "description": "Beautiful, Modern & Opinionated Linux",
+        "language": "Shell",
+        "name": "omacom/omarchy",
+        "stars": "36305",
+        "url": "https://github.com/omacom/omarchy"
+    },
+    {
+        "description": "Prompt as Code | GPT-Image2 \u5de5\u4e1a\u7ea7\u63d0\u793a\u8bcd\u5f15\u64ce\u4e0e\u6a21\u677f\u5e93\uff0c530+ \u4e2a\u6848\u4f8b\u9006\u5411\u5de5\u7a0b\uff0c20+ \u5957\u5de5\u4e1a\u7ea7\u6a21\u677f\uff0c\u5e76\u63d0\u70bc\u51faSkills\uff0c\u6301\u7eed\u66f4\u65b0\u4e2d",
+        "language": "JavaScript",
+        "name": "freestylefly/awesome-gpt-image-2",
+        "stars": "26511",
+        "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+    },
+    {
+        "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents \u2014 turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+        "language": "TypeScript",
+        "name": "TencentCloud/TencentDB-Agent-Memory",
+        "stars": "25457",
+        "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+    },
+    {
+        "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror \u2014 submit plugins at clau.de/plugin-directory-submission.",
+        "language": "Python",
+        "name": "anthropics/claude-plugins-community",
+        "stars": "3069",
+        "url": "https://github.com/anthropics/claude-plugins-community"
+    },
+    {
+        "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+        "language": "Rust",
+        "name": "firecrawl/pdf-inspector",
+        "stars": "17451",
+        "url": "https://github.com/firecrawl/pdf-inspector"
+    },
+    {
+        "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams\u2014self-contained HTML with motion and crisp export.",
+        "language": "JavaScript",
+        "name": "tt-a1i/archify",
+        "stars": "39423",
+        "url": "https://github.com/tt-a1i/archify"
+    },
+    {
+        "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+        "language": "Python",
+        "name": "cactus-compute/needle",
+        "stars": "9901",
+        "url": "https://github.com/cactus-compute/needle"
+    },
+    {
+        "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+        "language": "Python",
+        "name": "volcengine/OpenViking",
+        "stars": "34763",
+        "url": "https://github.com/volcengine/OpenViking"
+    },
+    {
+        "description": "\u26a1\ufe0fA native, local-first alternative to Logitech Options+, written in Rust \ud83e\udd80 \u2014 remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+        "language": "Rust",
+        "name": "AprilNEA/OpenLogi",
+        "stars": "18210",
+        "url": "https://github.com/AprilNEA/OpenLogi"
+    },
+    {
+        "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients \u9006\u5411/\u6e17\u900f/\u5b89\u5168\u6280\u80fd\u8def\u7531\u5305 - AI \u81ea\u52a8\u8def\u7531 + \u6309\u9700\u81ea\u4e3e\u5de5\u5177\u94fe + \u81ea\u52a8\u8fdb\u5316\u7ecf\u9a8c\u5e93 | \u652f\u6301 Claude Code / Kiro / Cursor / Cline \u7b49\u4ee3\u7801 AI \u5ba2\u6237\u7aef",
+        "language": "PowerShell",
+        "name": "zhaoxuya520/reverse-skill",
+        "stars": "33315",
+        "url": "https://github.com/zhaoxuya520/reverse-skill"
+    },
+    {
+        "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+        "language": "TypeScript",
+        "name": "apache/maka",
+        "stars": "4354",
+        "url": "https://github.com/apache/maka"
+    },
+    {
+        "description": "The Modular Platform (includes MAX & Mojo)",
+        "language": "Mojo",
+        "name": "modular/modular",
+        "stars": "29415",
+        "url": "https://github.com/modular/modular"
+    },
+    {
+        "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+        "language": "Python",
+        "name": "megadose/holehe",
+        "stars": "14544",
+        "url": "https://github.com/megadose/holehe"
+    },
+    {
+        "description": "",
+        "language": "TypeScript",
+        "name": "pingdotgg/t3code",
+        "stars": "21240",
+        "url": "https://github.com/pingdotgg/t3code"
+    },
+    {
+        "description": "A collective list of free APIs",
+        "language": "Python",
+        "name": "public-apis/public-apis",
+        "stars": "473868",
+        "url": "https://github.com/public-apis/public-apis"
+    },
+    {
+        "description": "A simple tool for coordinating several AI agents.",
+        "language": "Clojure",
+        "name": "unclebob/swarm-forge",
+        "stars": "3473",
+        "url": "https://github.com/unclebob/swarm-forge"
+    },
+    {
+        "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+        "language": "Rust",
+        "name": "akitaonrails/ai-memory",
+        "stars": "5367",
+        "url": "https://github.com/akitaonrails/ai-memory"
+    },
+    {
+        "description": "Turn any technical book PDF into a Claude Code skill \u2014 ready to study, reference, and use while you work.",
+        "language": "Python",
+        "name": "virgiliojr94/book-to-skill",
+        "stars": "27634",
+        "url": "https://github.com/virgiliojr94/book-to-skill"
+    },
+    {
+        "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+        "language": "Python",
+        "name": "ayghri/i-have-adhd",
+        "stars": "26137",
+        "url": "https://github.com/ayghri/i-have-adhd"
+    },
+    {
+        "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+        "language": "TypeScript",
+        "name": "earendil-works/pi",
+        "stars": "100089",
+        "url": "https://github.com/earendil-works/pi"
+    },
+    {
+        "description": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors",
+        "language": "TypeScript",
+        "name": "diegosouzapw/OmniRoute",
+        "stars": "59385",
+        "url": "https://github.com/diegosouzapw/OmniRoute"
+    },
+    {
+        "description": "The free coding agent",
+        "language": "TypeScript",
+        "name": "CodebuffAI/freebuff",
+        "stars": "11393",
+        "url": "https://github.com/CodebuffAI/freebuff"
+    }
+]
