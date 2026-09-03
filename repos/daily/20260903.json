@@ -1,0 +1,135 @@
+[
+    {
+        "description": "A modern formatting library",
+        "language": "C++",
+        "name": "fmtlib/fmt",
+        "stars": "24370",
+        "url": "https://github.com/fmtlib/fmt"
+    },
+    {
+        "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+        "language": "Python",
+        "name": "google-research/timesfm",
+        "stars": "29998",
+        "url": "https://github.com/google-research/timesfm"
+    },
+    {
+        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "language": "JavaScript",
+        "name": "DietrichGebert/ponytail",
+        "stars": "121879",
+        "url": "https://github.com/DietrichGebert/ponytail"
+    },
+    {
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "language": "Python",
+        "name": "debpalash/VoiceStudio",
+        "stars": "14992",
+        "url": "https://github.com/debpalash/VoiceStudio"
+    },
+    {
+        "description": "A\u80a1\u81ea\u52a8\u9009\u80a1\u7cfb\u7edf \u2014 \u591a\u79cd\u6280\u672f\u5f62\u6001\u81ea\u52a8\u626b\u63cf\uff0c\u6536\u76d8\u540e\u81ea\u52a8\u8fd0\u884c\u5e76\u63a8\u9001\u98de\u4e66",
+        "language": "Python",
+        "name": "sngyai/Sequoia-X",
+        "stars": "6204",
+        "url": "https://github.com/sngyai/Sequoia-X"
+    },
+    {
+        "description": "Chrome DevTools for coding agents",
+        "language": "TypeScript",
+        "name": "ChromeDevTools/chrome-devtools-mcp",
+        "stars": "50692",
+        "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+    },
+    {
+        "description": "The agent that grows with you",
+        "language": "Python",
+        "name": "NousResearch/hermes-agent",
+        "stars": "240211",
+        "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+        "description": "Open-source inference server and production cluster for all the models your agent needs.",
+        "language": "Python",
+        "name": "superlinked/sie",
+        "stars": "3099",
+        "url": "https://github.com/superlinked/sie"
+    },
+    {
+        "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+        "language": "Rust",
+        "name": "pacifio/atlas",
+        "stars": "2961",
+        "url": "https://github.com/pacifio/atlas"
+    },
+    {
+        "description": "Practice English, one strike, one step forward; \u7ec3\u4e60\u82f1\u8bed\uff0c\u4e00\u6b21\u6572\u51fb\uff0c\u4e00\u70b9\u8fdb\u6b65\uff1b",
+        "language": "Vue",
+        "name": "zyronon/TypeWords",
+        "stars": "9396",
+        "url": "https://github.com/zyronon/TypeWords"
+    },
+    {
+        "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+        "language": "Python",
+        "name": "Imbad0202/academic-research-skills",
+        "stars": "45630",
+        "url": "https://github.com/Imbad0202/academic-research-skills"
+    },
+    {
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "name": "affaan-m/ECC",
+        "stars": "246426",
+        "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+        "description": "Protocol Buffers - Google's data interchange format",
+        "language": "C++",
+        "name": "protocolbuffers/protobuf",
+        "stars": "71947",
+        "url": "https://github.com/protocolbuffers/protobuf"
+    },
+    {
+        "description": "Replace port numbers with stable, named local URLs. For humans and agents.",
+        "language": "TypeScript",
+        "name": "vercel-labs/portless",
+        "stars": "11834",
+        "url": "https://github.com/vercel-labs/portless"
+    },
+    {
+        "description": "Agent skill that removes signs of AI-generated writing from text",
+        "language": "Python",
+        "name": "blader/humanizer",
+        "stars": "40555",
+        "url": "https://github.com/blader/humanizer"
+    },
+    {
+        "description": "\ud83e\udea8 why use many token when few token do trick \u2014 Claude Code skill that cuts 65% of tokens by talking like caveman",
+        "language": "Go",
+        "name": "JuliusBrussee/caveman",
+        "stars": "102700",
+        "url": "https://github.com/JuliusBrussee/caveman"
+    },
+    {
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "name": "mattpocock/skills",
+        "stars": "245413",
+        "url": "https://github.com/mattpocock/skills"
+    },
+    {
+        "description": "runs anywhere. uses anything",
+        "language": "TypeScript",
+        "name": "Gitlawb/openclaude",
+        "stars": "32033",
+        "url": "https://github.com/Gitlawb/openclaude"
+    },
+    {
+        "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+        "language": "Rust",
+        "name": "firecrawl/pdf-inspector",
+        "stars": "18576",
+        "url": "https://github.com/firecrawl/pdf-inspector"
+    }
+]

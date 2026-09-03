@@ -1,0 +1,156 @@
+[
+    {
+        "description": "Beautiful, Modern & Opinionated Linux",
+        "language": "Shell",
+        "name": "omacom/omarchy",
+        "stars": "37388",
+        "url": "https://github.com/omacom/omarchy"
+    },
+    {
+        "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+        "language": "Python",
+        "name": "semantica-agi/semantica",
+        "stars": "11740",
+        "url": "https://github.com/semantica-agi/semantica"
+    },
+    {
+        "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror \u2014 submit plugins at clau.de/plugin-directory-submission.",
+        "language": "Python",
+        "name": "anthropics/claude-plugins-community",
+        "stars": "3296",
+        "url": "https://github.com/anthropics/claude-plugins-community"
+    },
+    {
+        "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams\u2014self-contained HTML with motion and crisp export.",
+        "language": "JavaScript",
+        "name": "tt-a1i/archify",
+        "stars": "44162",
+        "url": "https://github.com/tt-a1i/archify"
+    },
+    {
+        "description": "\u26a1\ufe0fA native, local-first alternative to Logitech Options+, written in Rust \ud83e\udd80 \u2014 remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+        "language": "Rust",
+        "name": "AprilNEA/OpenLogi",
+        "stars": "18622",
+        "url": "https://github.com/AprilNEA/OpenLogi"
+    },
+    {
+        "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+        "language": "Python",
+        "name": "volcengine/OpenViking",
+        "stars": "35215",
+        "url": "https://github.com/volcengine/OpenViking"
+    },
+    {
+        "description": "Prompt as Code | GPT-Image2 \u5de5\u4e1a\u7ea7\u63d0\u793a\u8bcd\u5f15\u64ce\u4e0e\u6a21\u677f\u5e93\uff0c530+ \u4e2a\u6848\u4f8b\u9006\u5411\u5de5\u7a0b\uff0c20+ \u5957\u5de5\u4e1a\u7ea7\u6a21\u677f\uff0c\u5e76\u63d0\u70bc\u51faSkills\uff0c\u6301\u7eed\u66f4\u65b0\u4e2d",
+        "language": "JavaScript",
+        "name": "freestylefly/awesome-gpt-image-2",
+        "stars": "27454",
+        "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+    },
+    {
+        "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents \u2014 turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+        "language": "TypeScript",
+        "name": "TencentCloud/TencentDB-Agent-Memory",
+        "stars": "25733",
+        "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+    },
+    {
+        "description": "Give your agent a computer \ud83d\udc7e",
+        "language": "TypeScript",
+        "name": "cloudflare/computer",
+        "stars": "8918",
+        "url": "https://github.com/cloudflare/computer"
+    },
+    {
+        "description": "Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.",
+        "language": "Python",
+        "name": "huangruiteng/loopx",
+        "stars": "5469",
+        "url": "https://github.com/huangruiteng/loopx"
+    },
+    {
+        "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+        "language": "Python",
+        "name": "ayghri/i-have-adhd",
+        "stars": "26747",
+        "url": "https://github.com/ayghri/i-have-adhd"
+    },
+    {
+        "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+        "language": "Python",
+        "name": "cactus-compute/needle",
+        "stars": "10117",
+        "url": "https://github.com/cactus-compute/needle"
+    },
+    {
+        "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+        "language": "TypeScript",
+        "name": "apache/maka",
+        "stars": "4579",
+        "url": "https://github.com/apache/maka"
+    },
+    {
+        "description": "Open Multi-Agent Interactive Classroom \u2014 Get an immersive, multi-agent learning experience in just one click",
+        "language": "TypeScript",
+        "name": "THU-MAIC/OpenMAIC",
+        "stars": "30628",
+        "url": "https://github.com/THU-MAIC/OpenMAIC"
+    },
+    {
+        "description": "The Modular Platform (includes MAX & Mojo)",
+        "language": "Mojo",
+        "name": "modular/modular",
+        "stars": "29490",
+        "url": "https://github.com/modular/modular"
+    },
+    {
+        "description": "A simple tool for coordinating several AI agents.",
+        "language": "Clojure",
+        "name": "unclebob/swarm-forge",
+        "stars": "3652",
+        "url": "https://github.com/unclebob/swarm-forge"
+    },
+    {
+        "description": "Agent Skills for Google products and technologies",
+        "language": "Python",
+        "name": "google/skills",
+        "stars": "19293",
+        "url": "https://github.com/google/skills"
+    },
+    {
+        "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+        "language": "Python",
+        "name": "donnemartin/system-design-primer",
+        "stars": "367565",
+        "url": "https://github.com/donnemartin/system-design-primer"
+    },
+    {
+        "description": "3x faster speeds on MLX | Qwen 3.8 27B | Native MTP Speculative Decoding On Apple Silicon With No External Drafter.",
+        "language": "Python",
+        "name": "youssofal/MTPLX",
+        "stars": "1963",
+        "url": "https://github.com/youssofal/MTPLX"
+    },
+    {
+        "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+        "language": "Rust",
+        "name": "firecrawl/pdf-inspector",
+        "stars": "18576",
+        "url": "https://github.com/firecrawl/pdf-inspector"
+    },
+    {
+        "description": "",
+        "language": "TypeScript",
+        "name": "pingdotgg/t3code",
+        "stars": "21501",
+        "url": "https://github.com/pingdotgg/t3code"
+    },
+    {
+        "description": "Animation engine for explanatory math videos",
+        "language": "Python",
+        "name": "3b1b/manim",
+        "stars": "92886",
+        "url": "https://github.com/3b1b/manim"
+    }
+]
