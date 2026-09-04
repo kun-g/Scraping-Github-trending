@@ -1,0 +1,142 @@
+[
+    {
+        "description": "Beautiful, Modern & Opinionated Linux",
+        "language": "Shell",
+        "name": "omacom/omarchy",
+        "stars": "37760",
+        "url": "https://github.com/omacom/omarchy"
+    },
+    {
+        "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+        "language": "Python",
+        "name": "semantica-agi/semantica",
+        "stars": "11884",
+        "url": "https://github.com/semantica-agi/semantica"
+    },
+    {
+        "description": "Cursor plugin specification and official plugins",
+        "language": "TypeScript",
+        "name": "cursor/plugins",
+        "stars": "6791",
+        "url": "https://github.com/cursor/plugins"
+    },
+    {
+        "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company\u2019s context and systems.",
+        "language": "TypeScript",
+        "name": "cloudflare/cloudflare-os",
+        "stars": "9581",
+        "url": "https://github.com/cloudflare/cloudflare-os"
+    },
+    {
+        "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams\u2014self-contained HTML with motion and crisp export.",
+        "language": "JavaScript",
+        "name": "tt-a1i/archify",
+        "stars": "46160",
+        "url": "https://github.com/tt-a1i/archify"
+    },
+    {
+        "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror \u2014 submit plugins at clau.de/plugin-directory-submission.",
+        "language": "Python",
+        "name": "anthropics/claude-plugins-community",
+        "stars": "3362",
+        "url": "https://github.com/anthropics/claude-plugins-community"
+    },
+    {
+        "description": "\u26a1\ufe0fA native, local-first alternative to Logitech Options+, written in Rust \ud83e\udd80 \u2014 remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+        "language": "Rust",
+        "name": "AprilNEA/OpenLogi",
+        "stars": "18936",
+        "url": "https://github.com/AprilNEA/OpenLogi"
+    },
+    {
+        "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+        "language": "Python",
+        "name": "volcengine/OpenViking",
+        "stars": "35383",
+        "url": "https://github.com/volcengine/OpenViking"
+    },
+    {
+        "description": "Prompt as Code | GPT-Image2 \u5de5\u4e1a\u7ea7\u63d0\u793a\u8bcd\u5f15\u64ce\u4e0e\u6a21\u677f\u5e93\uff0c530+ \u4e2a\u6848\u4f8b\u9006\u5411\u5de5\u7a0b\uff0c20+ \u5957\u5de5\u4e1a\u7ea7\u6a21\u677f\uff0c\u5e76\u63d0\u70bc\u51faSkills\uff0c\u6301\u7eed\u66f4\u65b0\u4e2d",
+        "language": "JavaScript",
+        "name": "freestylefly/awesome-gpt-image-2",
+        "stars": "27789",
+        "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+    },
+    {
+        "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+        "language": "Python",
+        "name": "vitali87/code-graph-rag",
+        "stars": "4947",
+        "url": "https://github.com/vitali87/code-graph-rag"
+    },
+    {
+        "description": "Algorithm powering the For You feed on X",
+        "language": "Rust",
+        "name": "xai-org/x-algorithm",
+        "stars": "32594",
+        "url": "https://github.com/xai-org/x-algorithm"
+    },
+    {
+        "description": "Open Multi-Agent Interactive Classroom \u2014 Get an immersive, multi-agent learning experience in just one click",
+        "language": "TypeScript",
+        "name": "THU-MAIC/OpenMAIC",
+        "stars": "31115",
+        "url": "https://github.com/THU-MAIC/OpenMAIC"
+    },
+    {
+        "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+        "language": "Python",
+        "name": "cactus-compute/needle",
+        "stars": "10198",
+        "url": "https://github.com/cactus-compute/needle"
+    },
+    {
+        "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+        "language": "TypeScript",
+        "name": "apache/maka",
+        "stars": "4659",
+        "url": "https://github.com/apache/maka"
+    },
+    {
+        "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents \u2014 turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+        "language": "TypeScript",
+        "name": "TencentCloud/TencentDB-Agent-Memory",
+        "stars": "25862",
+        "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+    },
+    {
+        "description": "3x faster speeds on MLX | Qwen 3.8 27B | Native MTP Speculative Decoding On Apple Silicon With No External Drafter.",
+        "language": "Python",
+        "name": "youssofal/MTPLX",
+        "stars": "2014",
+        "url": "https://github.com/youssofal/MTPLX"
+    },
+    {
+        "description": "Give your agent a computer \ud83d\udc7e",
+        "language": "TypeScript",
+        "name": "cloudflare/computer",
+        "stars": "8986",
+        "url": "https://github.com/cloudflare/computer"
+    },
+    {
+        "description": "Agent Skills for Google products and technologies",
+        "language": "Python",
+        "name": "google/skills",
+        "stars": "19412",
+        "url": "https://github.com/google/skills"
+    },
+    {
+        "description": "The Modular Platform (includes MAX & Mojo)",
+        "language": "Mojo",
+        "name": "modular/modular",
+        "stars": "29524",
+        "url": "https://github.com/modular/modular"
+    },
+    {
+        "description": "Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.",
+        "language": "Python",
+        "name": "huangruiteng/loopx",
+        "stars": "5570",
+        "url": "https://github.com/huangruiteng/loopx"
+    }
+]
