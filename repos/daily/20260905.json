@@ -1,0 +1,121 @@
+[
+    {
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "name": "mattpocock/skills",
+        "stars": "250586",
+        "url": "https://github.com/mattpocock/skills"
+    },
+    {
+        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "language": "JavaScript",
+        "name": "DietrichGebert/ponytail",
+        "stars": "126286",
+        "url": "https://github.com/DietrichGebert/ponytail"
+    },
+    {
+        "description": "A modern formatting library",
+        "language": "C++",
+        "name": "fmtlib/fmt",
+        "stars": "25484",
+        "url": "https://github.com/fmtlib/fmt"
+    },
+    {
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "name": "affaan-m/ECC",
+        "stars": "248600",
+        "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+        "description": "Public repository for Agent Skills",
+        "language": "Python",
+        "name": "anthropics/skills",
+        "stars": "174178",
+        "url": "https://github.com/anthropics/skills"
+    },
+    {
+        "description": "Agent skill that removes signs of AI-generated writing from text",
+        "language": "Python",
+        "name": "blader/humanizer",
+        "stars": "42809",
+        "url": "https://github.com/blader/humanizer"
+    },
+    {
+        "description": "The agent that grows with you",
+        "language": "Python",
+        "name": "NousResearch/hermes-agent",
+        "stars": "241549",
+        "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+        "description": "\ud83e\udea8 why use many token when few token do trick \u2014 Claude Code skill that cuts 65% of tokens by talking like caveman",
+        "language": "Go",
+        "name": "JuliusBrussee/caveman",
+        "stars": "103613",
+        "url": "https://github.com/JuliusBrussee/caveman"
+    },
+    {
+        "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+        "language": "TypeScript",
+        "name": "magnitudedev/magnitude",
+        "stars": "2561",
+        "url": "https://github.com/magnitudedev/magnitude"
+    },
+    {
+        "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
+        "language": "Python",
+        "name": "bikini/exploitarium",
+        "stars": "4539",
+        "url": "https://github.com/bikini/exploitarium"
+    },
+    {
+        "description": "\u7ffb\u5899-\u79d1\u5b66\u4e0a\u7f51",
+        "language": "Kotlin",
+        "name": "bannedbook/fanqiang",
+        "stars": "52827",
+        "url": "https://github.com/bannedbook/fanqiang"
+    },
+    {
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "language": "Python",
+        "name": "debpalash/VoiceStudio",
+        "stars": "18136",
+        "url": "https://github.com/debpalash/VoiceStudio"
+    },
+    {
+        "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+        "language": "Python",
+        "name": "google-research/timesfm",
+        "stars": "31086",
+        "url": "https://github.com/google-research/timesfm"
+    },
+    {
+        "description": "Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime.",
+        "language": "Python",
+        "name": "radixark/miles",
+        "stars": "2577",
+        "url": "https://github.com/radixark/miles"
+    },
+    {
+        "description": "The open source coding agent.",
+        "language": "TypeScript",
+        "name": "anomalyco/opencode",
+        "stars": "204189",
+        "url": "https://github.com/anomalyco/opencode"
+    },
+    {
+        "description": "Renovation Engine for DirectX Games",
+        "language": "HLSL",
+        "name": "clshortfuse/renodx",
+        "stars": "3552",
+        "url": "https://github.com/clshortfuse/renodx"
+    },
+    {
+        "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "name": "cathrynlavery/diagram-design",
+        "stars": "31029",
+        "url": "https://github.com/cathrynlavery/diagram-design"
+    }
+]
