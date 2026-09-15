@@ -1,0 +1,142 @@
+[
+    {
+        "description": "Run frontier MoE models on hardware you already own \u2014 pure C, zero deps, experts streamed from disk. Tiny engine, immense model. \ud83d\udc26",
+        "language": "C",
+        "name": "JustVugg/colibri",
+        "stars": "32328",
+        "url": "https://github.com/JustVugg/colibri"
+    },
+    {
+        "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "language": "Go",
+        "name": "alibaba/open-code-review",
+        "stars": "26148",
+        "url": "https://github.com/alibaba/open-code-review"
+    },
+    {
+        "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+        "language": "Python",
+        "name": "multimodal-art-projection/YuE",
+        "stars": "8501",
+        "url": "https://github.com/multimodal-art-projection/YuE"
+    },
+    {
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "language": "Python",
+        "name": "debpalash/VoiceStudio",
+        "stars": "29529",
+        "url": "https://github.com/debpalash/VoiceStudio"
+    },
+    {
+        "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. \u7b80\u6d01\u901a\u7528\u7684\u7fa4\u4f53\u667a\u80fd\u5f15\u64ce\uff0c\u9884\u6d4b\u4e07\u7269",
+        "language": "Python",
+        "name": "666ghj/MiroFish",
+        "stars": "73317",
+        "url": "https://github.com/666ghj/MiroFish"
+    },
+    {
+        "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu \u2014 one CLI, zero API fees.",
+        "language": "Python",
+        "name": "Panniantong/Agent-Reach",
+        "stars": "81474",
+        "url": "https://github.com/Panniantong/Agent-Reach"
+    },
+    {
+        "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+        "language": "JavaScript",
+        "name": "asgeirtj/system_prompts_leaks",
+        "stars": "66889",
+        "url": "https://github.com/asgeirtj/system_prompts_leaks"
+    },
+    {
+        "description": "All in one plugin for Hermes Agent \u269a the coding intelligence, a long-term memory system and model optimized workflow packages",
+        "language": "Python",
+        "name": "rlaope/oh-my-hermes",
+        "stars": "2144",
+        "url": "https://github.com/rlaope/oh-my-hermes"
+    },
+    {
+        "description": "An open-source cross-platform alternative to AirDrop",
+        "language": "Dart",
+        "name": "localsend/localsend",
+        "stars": "91415",
+        "url": "https://github.com/localsend/localsend"
+    },
+    {
+        "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+        "language": "Rust",
+        "name": "dani-garcia/vaultwarden",
+        "stars": "67577",
+        "url": "https://github.com/dani-garcia/vaultwarden"
+    },
+    {
+        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "language": "Python",
+        "name": "TauricResearch/TradingAgents",
+        "stars": "106265",
+        "url": "https://github.com/TauricResearch/TradingAgents"
+    },
+    {
+        "description": "\u03c0 RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.",
+        "language": "Rust",
+        "name": "ruvnet/RuView",
+        "stars": "93923",
+        "url": "https://github.com/ruvnet/RuView"
+    },
+    {
+        "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+        "language": "TypeScript",
+        "name": "tech-leads-club/agent-skills",
+        "stars": "6125",
+        "url": "https://github.com/tech-leads-club/agent-skills"
+    },
+    {
+        "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+        "language": "Python",
+        "name": "OpenBMB/VoxCPM",
+        "stars": "37436",
+        "url": "https://github.com/OpenBMB/VoxCPM"
+    },
+    {
+        "description": "\ud83e\udd17 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+        "language": "Python",
+        "name": "huggingface/transformers",
+        "stars": "166049",
+        "url": "https://github.com/huggingface/transformers"
+    },
+    {
+        "description": "Ever\u00ae Gauzy\u2122 - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co",
+        "language": "TypeScript",
+        "name": "ever-co/ever-gauzy",
+        "stars": "6068",
+        "url": "https://github.com/ever-co/ever-gauzy"
+    },
+    {
+        "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+        "language": "TypeScript",
+        "name": "Crosstalk-Solutions/project-nomad",
+        "stars": "36974",
+        "url": "https://github.com/Crosstalk-Solutions/project-nomad"
+    },
+    {
+        "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+        "language": "TypeScript",
+        "name": "reconurge/flowsint",
+        "stars": "8410",
+        "url": "https://github.com/reconurge/flowsint"
+    },
+    {
+        "description": "Free, open-source Sidecar/Duet alternative \u2014 use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.",
+        "language": "Swift",
+        "name": "peetzweg/opendisplay",
+        "stars": "3661",
+        "url": "https://github.com/peetzweg/opendisplay"
+    },
+    {
+        "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface \u2014 from SQLi to shellcode, EDR evasion to exploit development.",
+        "language": "Python",
+        "name": "SnailSploit/Claude-Red",
+        "stars": "4846",
+        "url": "https://github.com/SnailSploit/Claude-Red"
+    }
+]
