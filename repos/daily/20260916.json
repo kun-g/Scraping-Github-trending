@@ -1,0 +1,100 @@
+[
+    {
+        "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "language": "Go",
+        "name": "alibaba/open-code-review",
+        "stars": "29035",
+        "url": "https://github.com/alibaba/open-code-review"
+    },
+    {
+        "description": "Run frontier MoE models on hardware you already own \u2014 pure C, zero deps, experts streamed from disk. Tiny engine, immense model. \ud83d\udc26",
+        "language": "C",
+        "name": "JustVugg/colibri",
+        "stars": "34025",
+        "url": "https://github.com/JustVugg/colibri"
+    },
+    {
+        "description": "Ever\u00ae Gauzy\u2122 - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co",
+        "language": "TypeScript",
+        "name": "ever-co/ever-gauzy",
+        "stars": "6751",
+        "url": "https://github.com/ever-co/ever-gauzy"
+    },
+    {
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "language": "Python",
+        "name": "debpalash/VoiceStudio",
+        "stars": "31185",
+        "url": "https://github.com/debpalash/VoiceStudio"
+    },
+    {
+        "description": "\ud83d\udcfa Homebrew's official macOS GUI",
+        "language": "Swift",
+        "name": "Homebrew/BrewUI",
+        "stars": "1489",
+        "url": "https://github.com/Homebrew/BrewUI"
+    },
+    {
+        "description": "Open-source AI sales OS \u2014 self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+        "language": "TypeScript",
+        "name": "melgarafael/DeskcommCRM",
+        "stars": "2907",
+        "url": "https://github.com/melgarafael/DeskcommCRM"
+    },
+    {
+        "description": "Turn your coding agents into research agents",
+        "language": "Rust",
+        "name": "alphaXiv/OpenResearch",
+        "stars": "3508",
+        "url": "https://github.com/alphaXiv/OpenResearch"
+    },
+    {
+        "description": "Ghidra is a software reverse engineering (SRE) framework",
+        "language": "Java",
+        "name": "NationalSecurityAgency/ghidra",
+        "stars": "76845",
+        "url": "https://github.com/NationalSecurityAgency/ghidra"
+    },
+    {
+        "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+        "language": "TypeScript",
+        "name": "danny-avila/LibreChat",
+        "stars": "43918",
+        "url": "https://github.com/danny-avila/LibreChat"
+    },
+    {
+        "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+        "language": "Rust",
+        "name": "pacifio/atlas",
+        "stars": "4687",
+        "url": "https://github.com/pacifio/atlas"
+    },
+    {
+        "description": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.",
+        "language": "Python",
+        "name": "MG1937/ASC",
+        "stars": "1251",
+        "url": "https://github.com/MG1937/ASC"
+    },
+    {
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "language": "JavaScript",
+        "name": "addyosmani/agent-skills",
+        "stars": "94894",
+        "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+        "description": "Download Udemy and Hotmart courses, YouTube videos, music and books \u2014 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
+        "language": "Rust",
+        "name": "tonhowtf/omniget",
+        "stars": "13069",
+        "url": "https://github.com/tonhowtf/omniget"
+    },
+    {
+        "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+        "language": "TypeScript",
+        "name": "earendil-works/pi",
+        "stars": "105858",
+        "url": "https://github.com/earendil-works/pi"
+    }
+]
