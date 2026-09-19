@@ -1,0 +1,121 @@
+[
+    {
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "language": "JavaScript",
+        "name": "cloudflare/security-audit-skill",
+        "stars": "13992",
+        "url": "https://github.com/cloudflare/security-audit-skill"
+    },
+    {
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "language": "TypeScript",
+        "name": "anthropics/claude-code",
+        "stars": "146352",
+        "url": "https://github.com/anthropics/claude-code"
+    },
+    {
+        "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "language": "Go",
+        "name": "alibaba/open-code-review",
+        "stars": "36792",
+        "url": "https://github.com/alibaba/open-code-review"
+    },
+    {
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "name": "affaan-m/ECC",
+        "stars": "262152",
+        "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+        "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+        "language": "TypeScript",
+        "name": "Tencent/BrowserSkill",
+        "stars": "5381",
+        "url": "https://github.com/Tencent/BrowserSkill"
+    },
+    {
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "language": "JavaScript",
+        "name": "addyosmani/agent-skills",
+        "stars": "96463",
+        "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+        "description": "A smarter, self-hosted AI assistant \u2014 multi-user, multi-agent.",
+        "language": "Python",
+        "name": "TencentCloud/Octop",
+        "stars": "3999",
+        "url": "https://github.com/TencentCloud/Octop"
+    },
+    {
+        "description": "Spec-driven development (SDD) for AI coding assistants.",
+        "language": "TypeScript",
+        "name": "Fission-AI/OpenSpec",
+        "stars": "69408",
+        "url": "https://github.com/Fission-AI/OpenSpec"
+    },
+    {
+        "description": "Anki is a smart spaced repetition flashcard program",
+        "language": "Rust",
+        "name": "ankitects/anki",
+        "stars": "31231",
+        "url": "https://github.com/ankitects/anki"
+    },
+    {
+        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "language": "Python",
+        "name": "anthropics/knowledge-work-plugins",
+        "stars": "24914",
+        "url": "https://github.com/anthropics/knowledge-work-plugins"
+    },
+    {
+        "description": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
+        "language": "TypeScript",
+        "name": "supermemoryai/supermemory",
+        "stars": "30343",
+        "url": "https://github.com/supermemoryai/supermemory"
+    },
+    {
+        "description": "AI-assisted TradingView chart analysis \u2014 connect Claude Code to your TradingView Desktop for personal workflow automation",
+        "language": "JavaScript",
+        "name": "tradesdontlie/tradingview-mcp",
+        "stars": "6492",
+        "url": "https://github.com/tradesdontlie/tradingview-mcp"
+    },
+    {
+        "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+        "language": "Rust",
+        "name": "rustfs/rustfs",
+        "stars": "33209",
+        "url": "https://github.com/rustfs/rustfs"
+    },
+    {
+        "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+        "language": "TypeScript",
+        "name": "supabase/supabase",
+        "stars": "110181",
+        "url": "https://github.com/supabase/supabase"
+    },
+    {
+        "description": "Secure environments for developers and their agents",
+        "language": "Go",
+        "name": "coder/coder",
+        "stars": "15334",
+        "url": "https://github.com/coder/coder"
+    },
+    {
+        "description": "Free, simple, fast interactive diagrams for any GitHub repository",
+        "language": "TypeScript",
+        "name": "ahmedkhaleel2004/gitdiagram",
+        "stars": "16491",
+        "url": "https://github.com/ahmedkhaleel2004/gitdiagram"
+    },
+    {
+        "description": "Your own search engine",
+        "language": "Go",
+        "name": "asciimoo/hister",
+        "stars": "4990",
+        "url": "https://github.com/asciimoo/hister"
+    }
+]
