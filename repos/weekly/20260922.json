@@ -1,0 +1,149 @@
+[
+    {
+        "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "language": "Go",
+        "name": "alibaba/open-code-review",
+        "stars": "39313",
+        "url": "https://github.com/alibaba/open-code-review"
+    },
+    {
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "language": "TypeScript",
+        "name": "anthropics/claude-code",
+        "stars": "147491",
+        "url": "https://github.com/anthropics/claude-code"
+    },
+    {
+        "description": "Run frontier MoE models on hardware you already own \u2014 pure C, zero deps, experts streamed from disk. Tiny engine, immense model. \ud83d\udc26",
+        "language": "C",
+        "name": "JustVugg/colibri",
+        "stars": "36897",
+        "url": "https://github.com/JustVugg/colibri"
+    },
+    {
+        "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+        "language": "Go",
+        "name": "Tencent/WeKnora",
+        "stars": "28595",
+        "url": "https://github.com/Tencent/WeKnora"
+    },
+    {
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "name": "affaan-m/ECC",
+        "stars": "264814",
+        "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "language": "Python",
+        "name": "anthropics/knowledge-work-plugins",
+        "stars": "25366",
+        "url": "https://github.com/anthropics/knowledge-work-plugins"
+    },
+    {
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "language": "JavaScript",
+        "name": "addyosmani/agent-skills",
+        "stars": "98184",
+        "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+        "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+        "language": "TypeScript",
+        "name": "stablyai/orca",
+        "stars": "74828",
+        "url": "https://github.com/stablyai/orca"
+    },
+    {
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+        "language": "TypeScript",
+        "name": "mksglu/context-mode",
+        "stars": "23896",
+        "url": "https://github.com/mksglu/context-mode"
+    },
+    {
+        "description": "\ud83c\udfe1 Open source home automation that puts local control and privacy first.",
+        "language": "Python",
+        "name": "home-assistant/core",
+        "stars": "90985",
+        "url": "https://github.com/home-assistant/core"
+    },
+    {
+        "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+        "language": "TypeScript",
+        "name": "danny-avila/LibreChat",
+        "stars": "44592",
+        "url": "https://github.com/danny-avila/LibreChat"
+    },
+    {
+        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+        "language": "JavaScript",
+        "name": "bilawalsidhu/gods-eye-view",
+        "stars": "40723",
+        "url": "https://github.com/bilawalsidhu/gods-eye-view"
+    },
+    {
+        "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu \u2014 one CLI, zero API fees.",
+        "language": "Python",
+        "name": "Panniantong/Agent-Reach",
+        "stars": "84446",
+        "url": "https://github.com/Panniantong/Agent-Reach"
+    },
+    {
+        "description": "Agent skill that removes signs of AI-generated writing from text",
+        "language": "Python",
+        "name": "blader/humanizer",
+        "stars": "51127",
+        "url": "https://github.com/blader/humanizer"
+    },
+    {
+        "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+        "language": "TypeScript",
+        "name": "cline/cline",
+        "stars": "68989",
+        "url": "https://github.com/cline/cline"
+    },
+    {
+        "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+        "language": "Rust",
+        "name": "max-sixty/worktrunk",
+        "stars": "8306",
+        "url": "https://github.com/max-sixty/worktrunk"
+    },
+    {
+        "description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3",
+        "language": "Rust",
+        "name": "cloudflare/quiche",
+        "stars": "12394",
+        "url": "https://github.com/cloudflare/quiche"
+    },
+    {
+        "description": "eBPF-based Networking, Security, and Observability",
+        "language": "Go",
+        "name": "cilium/cilium",
+        "stars": "25430",
+        "url": "https://github.com/cilium/cilium"
+    },
+    {
+        "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+        "language": "TypeScript",
+        "name": "supabase/supabase",
+        "stars": "110543",
+        "url": "https://github.com/supabase/supabase"
+    },
+    {
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "language": "JavaScript",
+        "name": "cloudflare/security-audit-skill",
+        "stars": "19131",
+        "url": "https://github.com/cloudflare/security-audit-skill"
+    },
+    {
+        "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+        "language": "TypeScript",
+        "name": "vastsa/PI-Desktop",
+        "stars": "5026",
+        "url": "https://github.com/vastsa/PI-Desktop"
+    }
+]

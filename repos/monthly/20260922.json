@@ -1,0 +1,149 @@
+[
+    {
+        "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams\u2014self-contained HTML with motion and crisp export.",
+        "language": "JavaScript",
+        "name": "tt-a1i/archify",
+        "stars": "69242",
+        "url": "https://github.com/tt-a1i/archify"
+    },
+    {
+        "description": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
+        "language": "Python",
+        "name": "FlashML-org/FreeToken",
+        "stars": "13489",
+        "url": "https://github.com/FlashML-org/FreeToken"
+    },
+    {
+        "description": "Open Multi-Agent Interactive Classroom \u2014 Get an immersive, multi-agent learning experience in just one click",
+        "language": "TypeScript",
+        "name": "THU-MAIC/OpenMAIC",
+        "stars": "38466",
+        "url": "https://github.com/THU-MAIC/OpenMAIC"
+    },
+    {
+        "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror \u2014 submit plugins at clau.de/plugin-directory-submission.",
+        "language": "Python",
+        "name": "anthropics/claude-plugins-community",
+        "stars": "4357",
+        "url": "https://github.com/anthropics/claude-plugins-community"
+    },
+    {
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "language": "JavaScript",
+        "name": "cloudflare/security-audit-skill",
+        "stars": "19131",
+        "url": "https://github.com/cloudflare/security-audit-skill"
+    },
+    {
+        "description": "Prompt as Code | GPT Image 2 / 2.5 \u63d0\u793a\u8bcd\u4e0e\u6848\u4f8b\u5e93\uff0c530+ \u4e2a\u6848\u4f8b\u300120+ \u5957\u5de5\u4e1a\u7ea7\u6a21\u677f\u4e0e\u53ef\u590d\u7528 Skills\uff0c\u65b0\u589e 2.5 \u540c\u63d0\u793a\u8bcd\u5bf9\u6bd4\u4e13\u533a\uff0c\u9644\u5b8c\u6574\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u8bb0\u5f55\uff0c\u6301\u7eed\u66f4\u65b0\u3002",
+        "language": "JavaScript",
+        "name": "freestylefly/awesome-gpt-image-2",
+        "stars": "33182",
+        "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+    },
+    {
+        "description": "Cursor plugin specification and official plugins",
+        "language": "TypeScript",
+        "name": "cursor/plugins",
+        "stars": "8324",
+        "url": "https://github.com/cursor/plugins"
+    },
+    {
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "language": "Python",
+        "name": "debpalash/VoiceStudio",
+        "stars": "33957",
+        "url": "https://github.com/debpalash/VoiceStudio"
+    },
+    {
+        "description": "Beautiful, Modern & Opinionated Linux",
+        "language": "Shell",
+        "name": "omacom/omarchy",
+        "stars": "42561",
+        "url": "https://github.com/omacom/omarchy"
+    },
+    {
+        "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+        "language": "Python",
+        "name": "ayghri/i-have-adhd",
+        "stars": "49892",
+        "url": "https://github.com/ayghri/i-have-adhd"
+    },
+    {
+        "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "language": "Go",
+        "name": "alibaba/open-code-review",
+        "stars": "39313",
+        "url": "https://github.com/alibaba/open-code-review"
+    },
+    {
+        "description": "Open source inference engine optimized for consumer hardware. Profiles your machine, recommends the best models for it, then downloads, tunes, and runs them. Works on Apple Silicon, NVIDIA, AMD, or nothing but a CPU.",
+        "language": "TypeScript",
+        "name": "magnitudedev/magnitude",
+        "stars": "4778",
+        "url": "https://github.com/magnitudedev/magnitude"
+    },
+    {
+        "description": "",
+        "language": "Swift",
+        "name": "Lakr233/vphone-cli",
+        "stars": "14188",
+        "url": "https://github.com/Lakr233/vphone-cli"
+    },
+    {
+        "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+        "language": "TypeScript",
+        "name": "tech-leads-club/agent-skills",
+        "stars": "6606",
+        "url": "https://github.com/tech-leads-club/agent-skills"
+    },
+    {
+        "description": "Free and open-source macOS menu bar toolkit.",
+        "language": "Swift",
+        "name": "vorssaint/vorssaint-utils",
+        "stars": "20431",
+        "url": "https://github.com/vorssaint/vorssaint-utils"
+    },
+    {
+        "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+        "language": "Python",
+        "name": "google-research/timesfm",
+        "stars": "33410",
+        "url": "https://github.com/google-research/timesfm"
+    },
+    {
+        "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+        "language": "Go",
+        "name": "Tencent/WeKnora",
+        "stars": "28595",
+        "url": "https://github.com/Tencent/WeKnora"
+    },
+    {
+        "description": "\ud83e\udde0 Train a 64M-parameter LLM from scratch in just 2h!",
+        "language": "Python",
+        "name": "jingyaogong/minimind",
+        "stars": "62069",
+        "url": "https://github.com/jingyaogong/minimind"
+    },
+    {
+        "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+        "language": "TypeScript",
+        "name": "Tencent/BrowserSkill",
+        "stars": "6389",
+        "url": "https://github.com/Tencent/BrowserSkill"
+    },
+    {
+        "description": "\u26a1\ufe0fA native, local-first alternative to Logitech Options+, written in Rust \ud83e\udd80 \u2014 remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+        "language": "Rust",
+        "name": "AprilNEA/OpenLogi",
+        "stars": "21878",
+        "url": "https://github.com/AprilNEA/OpenLogi"
+    },
+    {
+        "description": "Open source alternative to Semrush and Ahrefs",
+        "language": "TypeScript",
+        "name": "every-app/open-seo",
+        "stars": "19903",
+        "url": "https://github.com/every-app/open-seo"
+    }
+]
