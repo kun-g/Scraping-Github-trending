@@ -1,0 +1,149 @@
+[
+    {
+        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+        "language": "JavaScript",
+        "name": "bilawalsidhu/gods-eye-view",
+        "stars": "41980",
+        "url": "https://github.com/bilawalsidhu/gods-eye-view"
+    },
+    {
+        "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams\u2014self-contained HTML with motion and crisp export.",
+        "language": "JavaScript",
+        "name": "tt-a1i/archify",
+        "stars": "70722",
+        "url": "https://github.com/tt-a1i/archify"
+    },
+    {
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "language": "JavaScript",
+        "name": "cloudflare/security-audit-skill",
+        "stars": "20966",
+        "url": "https://github.com/cloudflare/security-audit-skill"
+    },
+    {
+        "description": "Open Multi-Agent Interactive Classroom \u2014 Get an immersive, multi-agent learning experience in just one click",
+        "language": "TypeScript",
+        "name": "THU-MAIC/OpenMAIC",
+        "stars": "38813",
+        "url": "https://github.com/THU-MAIC/OpenMAIC"
+    },
+    {
+        "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "language": "Go",
+        "name": "alibaba/open-code-review",
+        "stars": "40291",
+        "url": "https://github.com/alibaba/open-code-review"
+    },
+    {
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "language": "Python",
+        "name": "debpalash/VoiceStudio",
+        "stars": "34960",
+        "url": "https://github.com/debpalash/VoiceStudio"
+    },
+    {
+        "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+        "language": "Python",
+        "name": "ayghri/i-have-adhd",
+        "stars": "50739",
+        "url": "https://github.com/ayghri/i-have-adhd"
+    },
+    {
+        "description": "Cursor plugin specification and official plugins",
+        "language": "TypeScript",
+        "name": "cursor/plugins",
+        "stars": "8508",
+        "url": "https://github.com/cursor/plugins"
+    },
+    {
+        "description": "Alternative Twitter front-end",
+        "language": "Nim",
+        "name": "zedeus/nitter",
+        "stars": "14483",
+        "url": "https://github.com/zedeus/nitter"
+    },
+    {
+        "description": "Open source inference engine for the hardware you already own. Profiles your machine, recommends the best open models for it, and tunes them for your exact hardware. Works on Apple Silicon, NVIDIA, AMD, or nothing but a CPU.",
+        "language": "TypeScript",
+        "name": "magnitudedev/magnitude",
+        "stars": "4955",
+        "url": "https://github.com/magnitudedev/magnitude"
+    },
+    {
+        "description": "",
+        "language": "Swift",
+        "name": "Lakr233/vphone-cli",
+        "stars": "14314",
+        "url": "https://github.com/Lakr233/vphone-cli"
+    },
+    {
+        "description": "Prompt as Code | GPT Image 2 / 2.5 \u63d0\u793a\u8bcd\u4e0e\u6848\u4f8b\u5e93\uff0c530+ \u4e2a\u6848\u4f8b\u300120+ \u5957\u5de5\u4e1a\u7ea7\u6a21\u677f\u4e0e\u53ef\u590d\u7528 Skills\uff0c\u65b0\u589e 2.5 \u540c\u63d0\u793a\u8bcd\u5bf9\u6bd4\u4e13\u533a\uff0c\u9644\u5b8c\u6574\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u8bb0\u5f55\uff0c\u6301\u7eed\u66f4\u65b0\u3002",
+        "language": "JavaScript",
+        "name": "freestylefly/awesome-gpt-image-2",
+        "stars": "33420",
+        "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+    },
+    {
+        "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+        "language": "TypeScript",
+        "name": "tech-leads-club/agent-skills",
+        "stars": "6720",
+        "url": "https://github.com/tech-leads-club/agent-skills"
+    },
+    {
+        "description": "Beautiful, Modern & Opinionated Linux",
+        "language": "Shell",
+        "name": "omacom/omarchy",
+        "stars": "42901",
+        "url": "https://github.com/omacom/omarchy"
+    },
+    {
+        "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+        "language": "Go",
+        "name": "Tencent/WeKnora",
+        "stars": "29429",
+        "url": "https://github.com/Tencent/WeKnora"
+    },
+    {
+        "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+        "language": "Python",
+        "name": "google-research/timesfm",
+        "stars": "33587",
+        "url": "https://github.com/google-research/timesfm"
+    },
+    {
+        "description": "\ud83e\udde0 Train a 64M-parameter LLM from scratch in just 2h!",
+        "language": "Python",
+        "name": "jingyaogong/minimind",
+        "stars": "62372",
+        "url": "https://github.com/jingyaogong/minimind"
+    },
+    {
+        "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+        "language": "TypeScript",
+        "name": "Tencent/BrowserSkill",
+        "stars": "6966",
+        "url": "https://github.com/Tencent/BrowserSkill"
+    },
+    {
+        "description": "Open source alternative to Semrush and Ahrefs",
+        "language": "TypeScript",
+        "name": "every-app/open-seo",
+        "stars": "20594",
+        "url": "https://github.com/every-app/open-seo"
+    },
+    {
+        "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+        "language": "Python",
+        "name": "K-Dense-AI/scientific-agent-skills",
+        "stars": "46375",
+        "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+    },
+    {
+        "description": "Open-source AI sales OS \u2014 self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+        "language": "TypeScript",
+        "name": "melgarafael/DeskcommCRM",
+        "stars": "3623",
+        "url": "https://github.com/melgarafael/DeskcommCRM"
+    }
+]

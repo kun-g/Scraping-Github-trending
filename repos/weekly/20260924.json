@@ -1,0 +1,142 @@
+[
+    {
+        "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "language": "Go",
+        "name": "alibaba/open-code-review",
+        "stars": "40291",
+        "url": "https://github.com/alibaba/open-code-review"
+    },
+    {
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "language": "TypeScript",
+        "name": "anthropics/claude-code",
+        "stars": "147830",
+        "url": "https://github.com/anthropics/claude-code"
+    },
+    {
+        "description": "",
+        "language": "Python",
+        "name": "anthropics/financial-services",
+        "stars": "37025",
+        "url": "https://github.com/anthropics/financial-services"
+    },
+    {
+        "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+        "language": "Go",
+        "name": "Tencent/WeKnora",
+        "stars": "29429",
+        "url": "https://github.com/Tencent/WeKnora"
+    },
+    {
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "name": "affaan-m/ECC",
+        "stars": "266248",
+        "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "language": "JavaScript",
+        "name": "addyosmani/agent-skills",
+        "stars": "98740",
+        "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "language": "Python",
+        "name": "anthropics/knowledge-work-plugins",
+        "stars": "25509",
+        "url": "https://github.com/anthropics/knowledge-work-plugins"
+    },
+    {
+        "description": "Run frontier MoE models on hardware you already own \u2014 pure C, zero deps, experts streamed from disk. Tiny engine, immense model. \ud83d\udc26",
+        "language": "C",
+        "name": "JustVugg/colibri",
+        "stars": "37376",
+        "url": "https://github.com/JustVugg/colibri"
+    },
+    {
+        "description": "A smarter, self-hosted AI assistant \u2014 multi-user, multi-agent.",
+        "language": "Python",
+        "name": "TencentCloud/Octop",
+        "stars": "4786",
+        "url": "https://github.com/TencentCloud/Octop"
+    },
+    {
+        "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+        "language": "TypeScript",
+        "name": "stablyai/orca",
+        "stars": "76719",
+        "url": "https://github.com/stablyai/orca"
+    },
+    {
+        "description": "CLI tool for configuring and monitoring Claude Code",
+        "language": "Python",
+        "name": "davila7/claude-code-templates",
+        "stars": "31554",
+        "url": "https://github.com/davila7/claude-code-templates"
+    },
+    {
+        "description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3",
+        "language": "Rust",
+        "name": "cloudflare/quiche",
+        "stars": "12540",
+        "url": "https://github.com/cloudflare/quiche"
+    },
+    {
+        "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+        "language": "TypeScript",
+        "name": "LibreChat-AI/LibreChat",
+        "stars": "44811",
+        "url": "https://github.com/LibreChat-AI/LibreChat"
+    },
+    {
+        "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+        "language": "TypeScript",
+        "name": "cline/cline",
+        "stars": "69188",
+        "url": "https://github.com/cline/cline"
+    },
+    {
+        "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+        "language": "Python",
+        "name": "pytorch/pytorch",
+        "stars": "103223",
+        "url": "https://github.com/pytorch/pytorch"
+    },
+    {
+        "description": "eBPF-based Networking, Security, and Observability",
+        "language": "Go",
+        "name": "cilium/cilium",
+        "stars": "25498",
+        "url": "https://github.com/cilium/cilium"
+    },
+    {
+        "description": "Spec-driven development (SDD) for AI coding assistants.",
+        "language": "TypeScript",
+        "name": "Fission-AI/OpenSpec",
+        "stars": "70083",
+        "url": "https://github.com/Fission-AI/OpenSpec"
+    },
+    {
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "language": "JavaScript",
+        "name": "cloudflare/security-audit-skill",
+        "stars": "20966",
+        "url": "https://github.com/cloudflare/security-audit-skill"
+    },
+    {
+        "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights \u2014 built openly, for everyone, forever free.",
+        "language": "TypeScript",
+        "name": "Open-Dev-Society/OpenStock",
+        "stars": "18909",
+        "url": "https://github.com/Open-Dev-Society/OpenStock"
+    },
+    {
+        "description": "OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn",
+        "language": "Python",
+        "name": "superdesigndev/treg",
+        "stars": "2783",
+        "url": "https://github.com/superdesigndev/treg"
+    }
+]
