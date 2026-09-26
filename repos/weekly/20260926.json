@@ -1,0 +1,149 @@
+[
+    {
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "language": "JavaScript",
+        "name": "cloudflare/security-audit-skill",
+        "stars": "21690",
+        "url": "https://github.com/cloudflare/security-audit-skill"
+    },
+    {
+        "description": "",
+        "language": "Python",
+        "name": "anthropics/financial-services",
+        "stars": "37573",
+        "url": "https://github.com/anthropics/financial-services"
+    },
+    {
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "language": "TypeScript",
+        "name": "anthropics/claude-code",
+        "stars": "148117",
+        "url": "https://github.com/anthropics/claude-code"
+    },
+    {
+        "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "language": "Go",
+        "name": "alibaba/open-code-review",
+        "stars": "41387",
+        "url": "https://github.com/alibaba/open-code-review"
+    },
+    {
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "name": "affaan-m/ECC",
+        "stars": "267563",
+        "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+        "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+        "language": "Go",
+        "name": "Tencent/WeKnora",
+        "stars": "30130",
+        "url": "https://github.com/Tencent/WeKnora"
+    },
+    {
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "language": "JavaScript",
+        "name": "addyosmani/agent-skills",
+        "stars": "99112",
+        "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+        "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+        "language": "TypeScript",
+        "name": "stablyai/orca",
+        "stars": "78410",
+        "url": "https://github.com/stablyai/orca"
+    },
+    {
+        "description": "Hindsight: Agent Memory That Learns",
+        "language": "Python",
+        "name": "vectorize-io/hindsight",
+        "stars": "29959",
+        "url": "https://github.com/vectorize-io/hindsight"
+    },
+    {
+        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "language": "Python",
+        "name": "anthropics/knowledge-work-plugins",
+        "stars": "25632",
+        "url": "https://github.com/anthropics/knowledge-work-plugins"
+    },
+    {
+        "description": "CLI tool for configuring and monitoring Claude Code",
+        "language": "Python",
+        "name": "davila7/claude-code-templates",
+        "stars": "31841",
+        "url": "https://github.com/davila7/claude-code-templates"
+    },
+    {
+        "description": "The open-source app everyone uses to manage agents at work",
+        "language": "TypeScript",
+        "name": "paperclipai/paperclip",
+        "stars": "85201",
+        "url": "https://github.com/paperclipai/paperclip"
+    },
+    {
+        "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+        "language": "Python",
+        "name": "pytorch/pytorch",
+        "stars": "103332",
+        "url": "https://github.com/pytorch/pytorch"
+    },
+    {
+        "description": "A smarter, self-hosted AI assistant \u2014 multi-user, multi-agent.",
+        "language": "Python",
+        "name": "TencentCloud/Octop",
+        "stars": "4976",
+        "url": "https://github.com/TencentCloud/Octop"
+    },
+    {
+        "description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3",
+        "language": "Rust",
+        "name": "cloudflare/quiche",
+        "stars": "12615",
+        "url": "https://github.com/cloudflare/quiche"
+    },
+    {
+        "description": "Spec-driven development (SDD) for AI coding assistants.",
+        "language": "TypeScript",
+        "name": "Fission-AI/OpenSpec",
+        "stars": "70380",
+        "url": "https://github.com/Fission-AI/OpenSpec"
+    },
+    {
+        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+        "language": "Python",
+        "name": "HKUDS/CLI-Anything",
+        "stars": "50552",
+        "url": "https://github.com/HKUDS/CLI-Anything"
+    },
+    {
+        "description": "OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn",
+        "language": "Python",
+        "name": "superdesigndev/treg",
+        "stars": "3402",
+        "url": "https://github.com/superdesigndev/treg"
+    },
+    {
+        "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+        "language": "TypeScript",
+        "name": "cline/cline",
+        "stars": "69335",
+        "url": "https://github.com/cline/cline"
+    },
+    {
+        "description": "Odoo. Open Source Apps To Grow Your Business.",
+        "language": "Python",
+        "name": "odoo/odoo",
+        "stars": "54660",
+        "url": "https://github.com/odoo/odoo"
+    },
+    {
+        "description": "\u300a\u6df1\u5165\u7406\u89e3 AI Agent\uff1a\u8bbe\u8ba1\u539f\u7406\u4e0e\u5de5\u7a0b\u5b9e\u8df5\u300b\uff08\u674e\u535a\u6770 \u8457\uff09\u5f00\u6e90\u4e3b\u4ed3\u5e93\uff1a\u5168\u4e66\u6b63\u6587\u3001\u7f16\u8bd1\u7248 PDF \u4e0e\u6309\u7ae0\u914d\u5957\u4ee3\u7801",
+        "language": "Python",
+        "name": "bojieli/ai-agent-book",
+        "stars": "51031",
+        "url": "https://github.com/bojieli/ai-agent-book"
+    }
+]

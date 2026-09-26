@@ -1,0 +1,156 @@
+[
+    {
+        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+        "language": "JavaScript",
+        "name": "bilawalsidhu/gods-eye-view",
+        "stars": "43139",
+        "url": "https://github.com/bilawalsidhu/gods-eye-view"
+    },
+    {
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "language": "JavaScript",
+        "name": "cloudflare/security-audit-skill",
+        "stars": "21690",
+        "url": "https://github.com/cloudflare/security-audit-skill"
+    },
+    {
+        "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams\u2014self-contained HTML with motion and crisp export.",
+        "language": "JavaScript",
+        "name": "tt-a1i/archify",
+        "stars": "71828",
+        "url": "https://github.com/tt-a1i/archify"
+    },
+    {
+        "description": "Open Multi-Agent Interactive Classroom \u2014 Get an immersive, multi-agent learning experience in just one click",
+        "language": "TypeScript",
+        "name": "THU-MAIC/OpenMAIC",
+        "stars": "39059",
+        "url": "https://github.com/THU-MAIC/OpenMAIC"
+    },
+    {
+        "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "language": "Go",
+        "name": "alibaba/open-code-review",
+        "stars": "41387",
+        "url": "https://github.com/alibaba/open-code-review"
+    },
+    {
+        "description": "OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn",
+        "language": "Python",
+        "name": "superdesigndev/treg",
+        "stars": "3402",
+        "url": "https://github.com/superdesigndev/treg"
+    },
+    {
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "language": "Python",
+        "name": "debpalash/VoiceStudio",
+        "stars": "35543",
+        "url": "https://github.com/debpalash/VoiceStudio"
+    },
+    {
+        "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+        "language": "Python",
+        "name": "ayghri/i-have-adhd",
+        "stars": "51237",
+        "url": "https://github.com/ayghri/i-have-adhd"
+    },
+    {
+        "description": "Open source inference engine for the hardware you already own. Profiles your machine, recommends the best open models for it, and tunes them for your exact hardware. Works on Apple Silicon, NVIDIA, AMD, or nothing but a CPU.",
+        "language": "TypeScript",
+        "name": "magnitudedev/magnitude",
+        "stars": "5121",
+        "url": "https://github.com/magnitudedev/magnitude"
+    },
+    {
+        "description": "",
+        "language": "Swift",
+        "name": "Lakr233/vphone-cli",
+        "stars": "14430",
+        "url": "https://github.com/Lakr233/vphone-cli"
+    },
+    {
+        "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+        "language": "TypeScript",
+        "name": "tech-leads-club/agent-skills",
+        "stars": "6823",
+        "url": "https://github.com/tech-leads-club/agent-skills"
+    },
+    {
+        "description": "Cursor plugin specification and official plugins",
+        "language": "TypeScript",
+        "name": "cursor/plugins",
+        "stars": "8658",
+        "url": "https://github.com/cursor/plugins"
+    },
+    {
+        "description": "Open source alternative to Semrush and Ahrefs",
+        "language": "TypeScript",
+        "name": "every-app/open-seo",
+        "stars": "21104",
+        "url": "https://github.com/every-app/open-seo"
+    },
+    {
+        "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+        "language": "Go",
+        "name": "Tencent/WeKnora",
+        "stars": "30130",
+        "url": "https://github.com/Tencent/WeKnora"
+    },
+    {
+        "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+        "language": "Python",
+        "name": "google-research/timesfm",
+        "stars": "33716",
+        "url": "https://github.com/google-research/timesfm"
+    },
+    {
+        "description": "",
+        "language": "Python",
+        "name": "anthropics/financial-services",
+        "stars": "37573",
+        "url": "https://github.com/anthropics/financial-services"
+    },
+    {
+        "description": "\ud83e\udde0 Train a 64M-parameter LLM from scratch in just 2h!",
+        "language": "Python",
+        "name": "jingyaogong/minimind",
+        "stars": "62587",
+        "url": "https://github.com/jingyaogong/minimind"
+    },
+    {
+        "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+        "language": "TypeScript",
+        "name": "Tencent/BrowserSkill",
+        "stars": "7267",
+        "url": "https://github.com/Tencent/BrowserSkill"
+    },
+    {
+        "description": "Open-source AI sales OS \u2014 self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+        "language": "TypeScript",
+        "name": "melgarafael/DeskcommCRM",
+        "stars": "3895",
+        "url": "https://github.com/melgarafael/DeskcommCRM"
+    },
+    {
+        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "language": "JavaScript",
+        "name": "DietrichGebert/ponytail",
+        "stars": "146048",
+        "url": "https://github.com/DietrichGebert/ponytail"
+    },
+    {
+        "description": "Ever\u00ae Gauzy\u2122 - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co",
+        "language": "TypeScript",
+        "name": "ever-co/ever-gauzy",
+        "stars": "8014",
+        "url": "https://github.com/ever-co/ever-gauzy"
+    },
+    {
+        "description": "Tinycast \u2014 a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+        "language": "Swift",
+        "name": "abue-ammar/tinycast",
+        "stars": "7483",
+        "url": "https://github.com/abue-ammar/tinycast"
+    }
+]
