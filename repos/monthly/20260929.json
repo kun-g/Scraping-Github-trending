@@ -1,0 +1,135 @@
+[
+    {
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "language": "JavaScript",
+        "name": "cloudflare/security-audit-skill",
+        "stars": "22835",
+        "url": "https://github.com/cloudflare/security-audit-skill"
+    },
+    {
+        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+        "language": "JavaScript",
+        "name": "bilawalsidhu/gods-eye-view",
+        "stars": "44693",
+        "url": "https://github.com/bilawalsidhu/gods-eye-view"
+    },
+    {
+        "description": "Use ChatGPT Web (including Pro) as a native model in Codex \u2014 with context, tools, streaming and images, without using Codex quota.",
+        "language": "TypeScript",
+        "name": "miuuyy/codex-chatgpt-web",
+        "stars": "12623",
+        "url": "https://github.com/miuuyy/codex-chatgpt-web"
+    },
+    {
+        "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "language": "Go",
+        "name": "alibaba/open-code-review",
+        "stars": "42375",
+        "url": "https://github.com/alibaba/open-code-review"
+    },
+    {
+        "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams\u2014self-contained HTML with motion and crisp export.",
+        "language": "JavaScript",
+        "name": "tt-a1i/archify",
+        "stars": "73673",
+        "url": "https://github.com/tt-a1i/archify"
+    },
+    {
+        "description": "OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn",
+        "language": "Python",
+        "name": "superdesigndev/treg",
+        "stars": "3758",
+        "url": "https://github.com/superdesigndev/treg"
+    },
+    {
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "language": "Python",
+        "name": "debpalash/VoiceStudio",
+        "stars": "44800",
+        "url": "https://github.com/debpalash/VoiceStudio"
+    },
+    {
+        "description": "Open source inference engine for the hardware you already own. Profiles your machine, recommends the best open models for it, and tunes them for your exact hardware. Works on Apple Silicon, NVIDIA, AMD, or nothing but a CPU.",
+        "language": "Rust",
+        "name": "magnitudedev/magnitude",
+        "stars": "5421",
+        "url": "https://github.com/magnitudedev/magnitude"
+    },
+    {
+        "description": "",
+        "language": "Python",
+        "name": "anthropics/financial-services",
+        "stars": "38113",
+        "url": "https://github.com/anthropics/financial-services"
+    },
+    {
+        "description": "Open Multi-Agent Interactive Classroom \u2014 Get an immersive, multi-agent learning experience in just one click",
+        "language": "TypeScript",
+        "name": "THU-MAIC/OpenMAIC",
+        "stars": "39442",
+        "url": "https://github.com/THU-MAIC/OpenMAIC"
+    },
+    {
+        "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+        "language": "TypeScript",
+        "name": "tech-leads-club/agent-skills",
+        "stars": "6998",
+        "url": "https://github.com/tech-leads-club/agent-skills"
+    },
+    {
+        "description": "RL training environments for Microduck (mjlab)",
+        "language": "Python",
+        "name": "pollen-robotics/microduck_rl",
+        "stars": "2330",
+        "url": "https://github.com/pollen-robotics/microduck_rl"
+    },
+    {
+        "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+        "language": "Go",
+        "name": "Tencent/WeKnora",
+        "stars": "31035",
+        "url": "https://github.com/Tencent/WeKnora"
+    },
+    {
+        "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+        "language": "Python",
+        "name": "ayghri/i-have-adhd",
+        "stars": "51939",
+        "url": "https://github.com/ayghri/i-have-adhd"
+    },
+    {
+        "description": "Cursor plugin specification and official plugins",
+        "language": "TypeScript",
+        "name": "cursor/plugins",
+        "stars": "8917",
+        "url": "https://github.com/cursor/plugins"
+    },
+    {
+        "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+        "language": "Python",
+        "name": "google-research/timesfm",
+        "stars": "33951",
+        "url": "https://github.com/google-research/timesfm"
+    },
+    {
+        "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+        "language": "TypeScript",
+        "name": "Tencent/BrowserSkill",
+        "stars": "7799",
+        "url": "https://github.com/Tencent/BrowserSkill"
+    },
+    {
+        "description": "Open source alternative to Semrush and Ahrefs",
+        "language": "TypeScript",
+        "name": "every-app/open-seo",
+        "stars": "21614",
+        "url": "https://github.com/every-app/open-seo"
+    },
+    {
+        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "language": "JavaScript",
+        "name": "DietrichGebert/ponytail",
+        "stars": "147656",
+        "url": "https://github.com/DietrichGebert/ponytail"
+    }
+]
