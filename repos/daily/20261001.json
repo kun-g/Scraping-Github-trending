@@ -1,0 +1,121 @@
+[
+    {
+        "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+        "language": "Rust",
+        "name": "NVIDIA/OpenShell",
+        "stars": "12993",
+        "url": "https://github.com/NVIDIA/OpenShell"
+    },
+    {
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "language": "Python",
+        "name": "debpalash/VoiceStudio",
+        "stars": "50651",
+        "url": "https://github.com/debpalash/VoiceStudio"
+    },
+    {
+        "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+        "language": "TypeScript",
+        "name": "mvschwarz/openrig",
+        "stars": "3125",
+        "url": "https://github.com/mvschwarz/openrig"
+    },
+    {
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+        "language": "TypeScript",
+        "name": "mksglu/context-mode",
+        "stars": "24541",
+        "url": "https://github.com/mksglu/context-mode"
+    },
+    {
+        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "language": "JavaScript",
+        "name": "DietrichGebert/ponytail",
+        "stars": "149364",
+        "url": "https://github.com/DietrichGebert/ponytail"
+    },
+    {
+        "description": "\u5229\u7528 AI \u5927\u6a21\u578b\u548c\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff0c\u6839\u636e\u4e3b\u9898\u6216\u5173\u952e\u8bcd\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891\u3002Generate HD short videos from a topic or keyword with an automated AI workflow.",
+        "language": "Python",
+        "name": "harry0703/MoneyPrinterTurbo",
+        "stars": "127640",
+        "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+    },
+    {
+        "description": "The AI that really does things. Any OS. Any Platform. The lobster way. \ud83e\udd9e",
+        "language": "TypeScript",
+        "name": "openclaw/openclaw",
+        "stars": "391029",
+        "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+        "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+        "language": "Python",
+        "name": "ComposioHQ/awesome-claude-skills",
+        "stars": "76187",
+        "url": "https://github.com/ComposioHQ/awesome-claude-skills"
+    },
+    {
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "name": "mattpocock/skills",
+        "stars": "273131",
+        "url": "https://github.com/mattpocock/skills"
+    },
+    {
+        "description": "Write HTML. Render video. Built for agents.",
+        "language": "TypeScript",
+        "name": "heygen-com/hyperframes",
+        "stars": "54835",
+        "url": "https://github.com/heygen-com/hyperframes"
+    },
+    {
+        "description": "Firebase SDK for Apple App Development",
+        "language": "C++",
+        "name": "firebase/firebase-ios-sdk",
+        "stars": "6778",
+        "url": "https://github.com/firebase/firebase-ios-sdk"
+    },
+    {
+        "description": "Model Context Protocol Servers",
+        "language": "TypeScript",
+        "name": "modelcontextprotocol/servers",
+        "stars": "90851",
+        "url": "https://github.com/modelcontextprotocol/servers"
+    },
+    {
+        "description": "An advanced guide which might benefit you a lot \ud83c\udf89 . \u97e9\u5148\u51ef\u7684\u4eba\u751f\u8fdb\u9636\u6307\u5357 \u4eba\u751f\u8fdb\u9636\u6307\u5357 \u79bb\u8c31\u7684\u4eba\u751f \u4eba\u751f\u8fdb\u9636 AI\u5b66\u4e60 AI\u6307\u5357 \u97e9\u5148\u51ef\u7684AI\u5b66\u4e60\u6307\u5357 \u82f1\u8bed\u5b66\u4e60\u6307\u5357/\u82f1\u8bed\u5b66\u4e60\u6559\u7a0b/\u82f1\u8bed\u5b66\u4e60/\u5b66\u82f1\u8bed",
+        "language": "JavaScript",
+        "name": "byoungd/up",
+        "stars": "66474",
+        "url": "https://github.com/byoungd/up"
+    },
+    {
+        "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent \u2014 fewer tokens, fewer tool calls, 100% local",
+        "language": "C",
+        "name": "colbymchenry/codegraph",
+        "stars": "72644",
+        "url": "https://github.com/colbymchenry/codegraph"
+    },
+    {
+        "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | \u8f7b\u91cf\u7ea7\u8de8\u5e73\u53f0\u6570\u636e\u5e93\u7ba1\u7406\u5de5\u5177\uff0c\u652f\u6301 MySQL\u3001PostgreSQL\u3001SQLite\u3001Redis\u3001MongoDB\u3001\u8fbe\u68a6\u7b49 100+ \u6570\u636e\u5e93\uff0c\u63d0\u4f9b\u684c\u9762\u7aef\u3001Docker\u3001CLI\u3001\u5185\u7f6e AI \u52a9\u624b\u548c MCP\u3002",
+        "language": "Rust",
+        "name": "t8y2/dbx",
+        "stars": "23350",
+        "url": "https://github.com/t8y2/dbx"
+    },
+    {
+        "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+        "language": "PLSQL",
+        "name": "NawfalMotii79/PLFM_RADAR",
+        "stars": "26447",
+        "url": "https://github.com/NawfalMotii79/PLFM_RADAR"
+    },
+    {
+        "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+        "language": "Python",
+        "name": "VectifyAI/PageIndex",
+        "stars": "38210",
+        "url": "https://github.com/VectifyAI/PageIndex"
+    }
+]
