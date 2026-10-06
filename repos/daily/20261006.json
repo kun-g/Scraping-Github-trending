@@ -1,0 +1,100 @@
+[
+    {
+        "description": "Next generation e2e testing framework for web and mobile apps.",
+        "language": "TypeScript",
+        "name": "tester-army/e2e",
+        "stars": "5083",
+        "url": "https://github.com/tester-army/e2e"
+    },
+    {
+        "description": "Persistent Context Across Sessions for Every Agent \u2013 Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+        "language": "TypeScript",
+        "name": "thedotmack/claude-mem",
+        "stars": "96712",
+        "url": "https://github.com/thedotmack/claude-mem"
+    },
+    {
+        "description": "Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
+        "language": "JavaScript",
+        "name": "michael-denyer/pstack-claude",
+        "stars": "1472",
+        "url": "https://github.com/michael-denyer/pstack-claude"
+    },
+    {
+        "description": "Give your agent CAD superpowers.",
+        "language": "Python",
+        "name": "earthtojake/text-to-cad",
+        "stars": "17529",
+        "url": "https://github.com/earthtojake/text-to-cad"
+    },
+    {
+        "description": "",
+        "language": "TypeScript",
+        "name": "pingdotgg/t3code",
+        "stars": "25686",
+        "url": "https://github.com/pingdotgg/t3code"
+    },
+    {
+        "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+        "language": "C++",
+        "name": "boykopovar/AnyPS5",
+        "stars": "5098",
+        "url": "https://github.com/boykopovar/AnyPS5"
+    },
+    {
+        "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu \u2014 one CLI, zero API fees.",
+        "language": "Python",
+        "name": "Panniantong/Agent-Reach",
+        "stars": "92067",
+        "url": "https://github.com/Panniantong/Agent-Reach"
+    },
+    {
+        "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+        "language": "Python",
+        "name": "calesthio/OpenMontage",
+        "stars": "64194",
+        "url": "https://github.com/calesthio/OpenMontage"
+    },
+    {
+        "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+        "language": "Go",
+        "name": "caddyserver/caddy",
+        "stars": "77230",
+        "url": "https://github.com/caddyserver/caddy"
+    },
+    {
+        "description": "Self-hosted gym & body-weight tracker \u2014 plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+        "language": "JavaScript",
+        "name": "DuarteSantos8/openGym",
+        "stars": "4444",
+        "url": "https://github.com/DuarteSantos8/openGym"
+    },
+    {
+        "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company\u2019s context and systems.",
+        "language": "TypeScript",
+        "name": "cloudflare/cloudflare-os",
+        "stars": "11086",
+        "url": "https://github.com/cloudflare/cloudflare-os"
+    },
+    {
+        "description": "Stremio - Freedom to Stream",
+        "language": "JavaScript",
+        "name": "Stremio/stremio-web",
+        "stars": "14340",
+        "url": "https://github.com/Stremio/stremio-web"
+    },
+    {
+        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+        "language": "Shell",
+        "name": "msitarzewski/agency-agents",
+        "stars": "157374",
+        "url": "https://github.com/msitarzewski/agency-agents"
+    },
+    {
+        "description": "Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in flash, binary-searched. UDP DNS sinkhole + web dashboard.https://youtube.com/shorts/RaxszOUMi8E?feature=share",
+        "language": "C++",
+        "name": "M-Abozaid/esp32-c3-adblock",
+        "stars": "1464",
+        "url": "https://github.com/M-Abozaid/esp32-c3-adblock"
+    }
+]
