@@ -1,0 +1,93 @@
+[
+    {
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "language": "TypeScript",
+        "name": "morluto/rea",
+        "stars": "16711",
+        "url": "https://github.com/morluto/rea"
+    },
+    {
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "name": "mattpocock/skills",
+        "stars": "279938",
+        "url": "https://github.com/mattpocock/skills"
+    },
+    {
+        "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+        "language": "C++",
+        "name": "boykopovar/AnyPS5",
+        "stars": "11264",
+        "url": "https://github.com/boykopovar/AnyPS5"
+    },
+    {
+        "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+        "language": "Python",
+        "name": "ayghri/i-have-adhd",
+        "stars": "55302",
+        "url": "https://github.com/ayghri/i-have-adhd"
+    },
+    {
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "name": "cathrynlavery/diagram-design",
+        "stars": "45211",
+        "url": "https://github.com/cathrynlavery/diagram-design"
+    },
+    {
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "language": "JavaScript",
+        "name": "addyosmani/agent-skills",
+        "stars": "102962",
+        "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+        "description": "A native, user-mode, multi-process, graphical debugger.",
+        "language": "C",
+        "name": "EpicGames/raddebugger",
+        "stars": "7920",
+        "url": "https://github.com/EpicGames/raddebugger"
+    },
+    {
+        "description": "Persistent Context Across Sessions for Every Agent \u2013 Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+        "language": "TypeScript",
+        "name": "thedotmack/claude-mem",
+        "stars": "97866",
+        "url": "https://github.com/thedotmack/claude-mem"
+    },
+    {
+        "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
+        "language": "Swift",
+        "name": "manaflow-ai/cmux",
+        "stars": "27920",
+        "url": "https://github.com/manaflow-ai/cmux"
+    },
+    {
+        "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+        "language": "Rust",
+        "name": "trycua/cua",
+        "stars": "28845",
+        "url": "https://github.com/trycua/cua"
+    },
+    {
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "language": "JavaScript",
+        "name": "cloudflare/security-audit-skill",
+        "stars": "26188",
+        "url": "https://github.com/cloudflare/security-audit-skill"
+    },
+    {
+        "description": "Next generation e2e testing framework for web and mobile apps.",
+        "language": "TypeScript",
+        "name": "tester-army/e2e",
+        "stars": "7699",
+        "url": "https://github.com/tester-army/e2e"
+    },
+    {
+        "description": "Self-hosted gym & body-weight tracker \u2014 plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+        "language": "JavaScript",
+        "name": "DuarteSantos8/openGym",
+        "stars": "7223",
+        "url": "https://github.com/DuarteSantos8/openGym"
+    }
+]
