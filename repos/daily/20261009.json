@@ -1,0 +1,65 @@
+[
+    {
+        "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+        "language": "C++",
+        "name": "boykopovar/AnyPS5",
+        "stars": "16605",
+        "url": "https://github.com/boykopovar/AnyPS5"
+    },
+    {
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "name": "cathrynlavery/diagram-design",
+        "stars": "46714",
+        "url": "https://github.com/cathrynlavery/diagram-design"
+    },
+    {
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "language": "TypeScript",
+        "name": "morluto/rea",
+        "stars": "29744",
+        "url": "https://github.com/morluto/rea"
+    },
+    {
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "name": "mattpocock/skills",
+        "stars": "281389",
+        "url": "https://github.com/mattpocock/skills"
+    },
+    {
+        "description": "Persistent Context Across Sessions for Every Agent \u2013 Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+        "language": "TypeScript",
+        "name": "thedotmack/claude-mem",
+        "stars": "98642",
+        "url": "https://github.com/thedotmack/claude-mem"
+    },
+    {
+        "description": "A native, user-mode, multi-process, graphical debugger.",
+        "language": "C",
+        "name": "EpicGames/raddebugger",
+        "stars": "8161",
+        "url": "https://github.com/EpicGames/raddebugger"
+    },
+    {
+        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "language": "Python",
+        "name": "anthropics/knowledge-work-plugins",
+        "stars": "27777",
+        "url": "https://github.com/anthropics/knowledge-work-plugins"
+    },
+    {
+        "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+        "language": "Rust",
+        "name": "storytold/artcraft",
+        "stars": "8593",
+        "url": "https://github.com/storytold/artcraft"
+    },
+    {
+        "description": "Notes of the book System Desgin Interview - An Insider's Guide",
+        "language": "N/A",
+        "name": "liquidslr/system-design-notes",
+        "stars": "24833",
+        "url": "https://github.com/liquidslr/system-design-notes"
+    }
+]
