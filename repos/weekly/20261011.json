@@ -1,0 +1,93 @@
+[
+    {
+        "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+        "language": "C++",
+        "name": "boykopovar/AnyPS5",
+        "stars": "27315",
+        "url": "https://github.com/boykopovar/AnyPS5"
+    },
+    {
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "name": "mattpocock/skills",
+        "stars": "284744",
+        "url": "https://github.com/mattpocock/skills"
+    },
+    {
+        "description": "A native, user-mode, multi-process, graphical debugger.",
+        "language": "C",
+        "name": "EpicGames/raddebugger",
+        "stars": "8337",
+        "url": "https://github.com/EpicGames/raddebugger"
+    },
+    {
+        "description": "Persistent Context Across Sessions for Every Agent \u2013 Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+        "language": "TypeScript",
+        "name": "thedotmack/claude-mem",
+        "stars": "99335",
+        "url": "https://github.com/thedotmack/claude-mem"
+    },
+    {
+        "description": "Write HTML. Render video. Built for agents.",
+        "language": "TypeScript",
+        "name": "heygen-com/hyperframes",
+        "stars": "60428",
+        "url": "https://github.com/heygen-com/hyperframes"
+    },
+    {
+        "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+        "language": "TypeScript",
+        "name": "mvschwarz/openrig",
+        "stars": "6763",
+        "url": "https://github.com/mvschwarz/openrig"
+    },
+    {
+        "description": "Cursor plugin specification and official plugins",
+        "language": "TypeScript",
+        "name": "cursor/plugins",
+        "stars": "10776",
+        "url": "https://github.com/cursor/plugins"
+    },
+    {
+        "description": "Give your agent CAD superpowers.",
+        "language": "Python",
+        "name": "earthtojake/text-to-cad",
+        "stars": "19022",
+        "url": "https://github.com/earthtojake/text-to-cad"
+    },
+    {
+        "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+        "language": "Dart",
+        "name": "flutter/flutter",
+        "stars": "179598",
+        "url": "https://github.com/flutter/flutter"
+    },
+    {
+        "description": "",
+        "language": "TypeScript",
+        "name": "pingdotgg/t3code",
+        "stars": "26841",
+        "url": "https://github.com/pingdotgg/t3code"
+    },
+    {
+        "description": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).\u4e0a\u4e0b\u6587\u538b\u7f29\u63d2\u4ef6\uff0c\u517c\u987e\u5c0f\u7a97\u53e3(100k\u4e0a\u4e0b\u6587\u8db3\u77e3)\u7701token(\u77015\u500dtoken)\u548c\u8d85\u957f\u4f1a\u8bdd(\u6570\u6708\u7ea7\u522b\u51e0\u5341\u4ebftoken\u5355\u4f1a\u8bdd)\u3002billion-context is all you need",
+        "language": "TypeScript",
+        "name": "ranxianglei/billion-context",
+        "stars": "797",
+        "url": "https://github.com/ranxianglei/billion-context"
+    },
+    {
+        "description": "Self-hosted gym & body-weight tracker \u2014 plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+        "language": "JavaScript",
+        "name": "DuarteSantos8/openGym",
+        "stars": "9321",
+        "url": "https://github.com/DuarteSantos8/openGym"
+    },
+    {
+        "description": "Next generation e2e testing framework for web and mobile apps.",
+        "language": "TypeScript",
+        "name": "tester-army/e2e",
+        "stars": "8769",
+        "url": "https://github.com/tester-army/e2e"
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "language": "TypeScript",
+        "name": "morluto/rea",
+        "stars": "77021",
+        "url": "https://github.com/morluto/rea"
+    },
+    {
+        "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+        "language": "C++",
+        "name": "boykopovar/AnyPS5",
+        "stars": "27315",
+        "url": "https://github.com/boykopovar/AnyPS5"
+    },
+    {
+        "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+        "language": "Rust",
+        "name": "storytold/artcraft",
+        "stars": "14892",
+        "url": "https://github.com/storytold/artcraft"
+    },
+    {
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "name": "cathrynlavery/diagram-design",
+        "stars": "49144",
+        "url": "https://github.com/cathrynlavery/diagram-design"
+    },
+    {
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+        "language": "TypeScript",
+        "name": "mksglu/context-mode",
+        "stars": "26403",
+        "url": "https://github.com/mksglu/context-mode"
+    },
+    {
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "name": "mattpocock/skills",
+        "stars": "284744",
+        "url": "https://github.com/mattpocock/skills"
+    },
+    {
+        "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+        "language": "Dart",
+        "name": "flutter/flutter",
+        "stars": "179598",
+        "url": "https://github.com/flutter/flutter"
+    },
+    {
+        "description": "An Open Source Machine Learning Framework for Everyone",
+        "language": "C++",
+        "name": "tensorflow/tensorflow",
+        "stars": "200769",
+        "url": "https://github.com/tensorflow/tensorflow"
+    },
+    {
+        "description": "AI turns documents or topics into real, native PowerPoint decks\u2014with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. \u00b7 by Hugo He",
+        "language": "Python",
+        "name": "hugohe3/ppt-master",
+        "stars": "59650",
+        "url": "https://github.com/hugohe3/ppt-master"
+    },
+    {
+        "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+        "language": "Python",
+        "name": "pytorch/pytorch",
+        "stars": "104182",
+        "url": "https://github.com/pytorch/pytorch"
+    },
+    {
+        "description": "\ud83e\udd17 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+        "language": "Python",
+        "name": "huggingface/transformers",
+        "stars": "167340",
+        "url": "https://github.com/huggingface/transformers"
+    },
+    {
+        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "language": "Python",
+        "name": "anthropics/knowledge-work-plugins",
+        "stars": "28891",
+        "url": "https://github.com/anthropics/knowledge-work-plugins"
+    },
+    {
+        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "language": "N/A",
+        "name": "multica-ai/andrej-karpathy-skills",
+        "stars": "218402",
+        "url": "https://github.com/multica-ai/andrej-karpathy-skills"
+    }
+]
