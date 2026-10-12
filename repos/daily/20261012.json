@@ -1,0 +1,58 @@
+[
+    {
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "language": "TypeScript",
+        "name": "morluto/rea",
+        "stars": "114572",
+        "url": "https://github.com/morluto/rea"
+    },
+    {
+        "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+        "language": "C++",
+        "name": "boykopovar/AnyPS5",
+        "stars": "30643",
+        "url": "https://github.com/boykopovar/AnyPS5"
+    },
+    {
+        "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+        "language": "Rust",
+        "name": "storytold/artcraft",
+        "stars": "18653",
+        "url": "https://github.com/storytold/artcraft"
+    },
+    {
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "name": "cathrynlavery/diagram-design",
+        "stars": "50756",
+        "url": "https://github.com/cathrynlavery/diagram-design"
+    },
+    {
+        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+        "language": "JavaScript",
+        "name": "bilawalsidhu/gods-eye-view",
+        "stars": "52022",
+        "url": "https://github.com/bilawalsidhu/gods-eye-view"
+    },
+    {
+        "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+        "language": "Python",
+        "name": "pytorch/pytorch",
+        "stars": "104598",
+        "url": "https://github.com/pytorch/pytorch"
+    },
+    {
+        "description": "AirLLM 70B inference with single 4GB GPU",
+        "language": "Jupyter Notebook",
+        "name": "lyogavin/airllm",
+        "stars": "36674",
+        "url": "https://github.com/lyogavin/airllm"
+    },
+    {
+        "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+        "language": "Assembly",
+        "name": "chrislgarry/Apollo-11",
+        "stars": "74354",
+        "url": "https://github.com/chrislgarry/Apollo-11"
+    }
+]
