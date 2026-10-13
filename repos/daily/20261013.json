@@ -1,0 +1,65 @@
+[
+    {
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "language": "TypeScript",
+        "name": "morluto/rea",
+        "stars": "171147",
+        "url": "https://github.com/morluto/rea"
+    },
+    {
+        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+        "language": "JavaScript",
+        "name": "bilawalsidhu/gods-eye-view",
+        "stars": "54072",
+        "url": "https://github.com/bilawalsidhu/gods-eye-view"
+    },
+    {
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+        "language": "TypeScript",
+        "name": "mksglu/context-mode",
+        "stars": "27511",
+        "url": "https://github.com/mksglu/context-mode"
+    },
+    {
+        "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+        "language": "Rust",
+        "name": "storytold/artcraft",
+        "stars": "22919",
+        "url": "https://github.com/storytold/artcraft"
+    },
+    {
+        "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+        "language": "Python",
+        "name": "open-webui/open-webui",
+        "stars": "155270",
+        "url": "https://github.com/open-webui/open-webui"
+    },
+    {
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "name": "cathrynlavery/diagram-design",
+        "stars": "52998",
+        "url": "https://github.com/cathrynlavery/diagram-design"
+    },
+    {
+        "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
+        "language": "Jupyter Notebook",
+        "name": "lyogavin/airllm",
+        "stars": "37722",
+        "url": "https://github.com/lyogavin/airllm"
+    },
+    {
+        "description": "Official inference framework for 1-bit LLMs",
+        "language": "C++",
+        "name": "microsoft/BitNet",
+        "stars": "41005",
+        "url": "https://github.com/microsoft/BitNet"
+    },
+    {
+        "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+        "language": "Python",
+        "name": "Alishahryar1/free-claude-code",
+        "stars": "59447",
+        "url": "https://github.com/Alishahryar1/free-claude-code"
+    }
+]
