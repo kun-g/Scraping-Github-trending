@@ -1,0 +1,86 @@
+[
+    {
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "language": "TypeScript",
+        "name": "morluto/rea",
+        "stars": "247062",
+        "url": "https://github.com/morluto/rea"
+    },
+    {
+        "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+        "language": "C++",
+        "name": "boykopovar/AnyPS5",
+        "stars": "37321",
+        "url": "https://github.com/boykopovar/AnyPS5"
+    },
+    {
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "name": "mattpocock/skills",
+        "stars": "291494",
+        "url": "https://github.com/mattpocock/skills"
+    },
+    {
+        "description": "Write HTML. Render video. Built for agents.",
+        "language": "TypeScript",
+        "name": "heygen-com/hyperframes",
+        "stars": "63828",
+        "url": "https://github.com/heygen-com/hyperframes"
+    },
+    {
+        "description": "A native, user-mode, multi-process, graphical debugger.",
+        "language": "C",
+        "name": "EpicGames/raddebugger",
+        "stars": "8546",
+        "url": "https://github.com/EpicGames/raddebugger"
+    },
+    {
+        "description": "Next generation e2e testing framework for web and mobile apps.",
+        "language": "TypeScript",
+        "name": "tester-army/e2e",
+        "stars": "10553",
+        "url": "https://github.com/tester-army/e2e"
+    },
+    {
+        "description": "Persistent Context Across Sessions for Every Agent \u2013 Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+        "language": "TypeScript",
+        "name": "thedotmack/claude-mem",
+        "stars": "100801",
+        "url": "https://github.com/thedotmack/claude-mem"
+    },
+    {
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "name": "cathrynlavery/diagram-design",
+        "stars": "55417",
+        "url": "https://github.com/cathrynlavery/diagram-design"
+    },
+    {
+        "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+        "language": "N/A",
+        "name": "twostraws/SwiftUI-Agent-Skill",
+        "stars": "5992",
+        "url": "https://github.com/twostraws/SwiftUI-Agent-Skill"
+    },
+    {
+        "description": "Give your agent CAD superpowers.",
+        "language": "Python",
+        "name": "earthtojake/text-to-cad",
+        "stars": "20431",
+        "url": "https://github.com/earthtojake/text-to-cad"
+    },
+    {
+        "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+        "language": "Dart",
+        "name": "flutter/flutter",
+        "stars": "180185",
+        "url": "https://github.com/flutter/flutter"
+    },
+    {
+        "description": "Ghidra is a software reverse engineering (SRE) framework",
+        "language": "Java",
+        "name": "NationalSecurityAgency/ghidra",
+        "stars": "87709",
+        "url": "https://github.com/NationalSecurityAgency/ghidra"
+    }
+]
