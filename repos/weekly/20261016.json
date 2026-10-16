@@ -1,0 +1,79 @@
+[
+    {
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "language": "TypeScript",
+        "name": "morluto/rea",
+        "stars": "274253",
+        "url": "https://github.com/morluto/rea"
+    },
+    {
+        "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+        "language": "C++",
+        "name": "boykopovar/AnyPS5",
+        "stars": "38841",
+        "url": "https://github.com/boykopovar/AnyPS5"
+    },
+    {
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "name": "mattpocock/skills",
+        "stars": "293045",
+        "url": "https://github.com/mattpocock/skills"
+    },
+    {
+        "description": "Write HTML. Render video. Built for agents.",
+        "language": "TypeScript",
+        "name": "heygen-com/hyperframes",
+        "stars": "64666",
+        "url": "https://github.com/heygen-com/hyperframes"
+    },
+    {
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "name": "cathrynlavery/diagram-design",
+        "stars": "56004",
+        "url": "https://github.com/cathrynlavery/diagram-design"
+    },
+    {
+        "description": "Ghidra is a software reverse engineering (SRE) framework",
+        "language": "Java",
+        "name": "NationalSecurityAgency/ghidra",
+        "stars": "88920",
+        "url": "https://github.com/NationalSecurityAgency/ghidra"
+    },
+    {
+        "description": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).\u4e0a\u4e0b\u6587\u538b\u7f29\u63d2\u4ef6\uff0c\u517c\u987e\u5c0f\u7a97\u53e3(100k\u4e0a\u4e0b\u6587\u8db3\u77e3)\u7701token(\u77015\u500dtoken)\u548c\u8d85\u957f\u4f1a\u8bdd(\u6570\u6708\u7ea7\u522b\u51e0\u5341\u4ebftoken\u5355\u4f1a\u8bdd)\u3002billion-context is all you need",
+        "language": "TypeScript",
+        "name": "ranxianglei/billion-context",
+        "stars": "1409",
+        "url": "https://github.com/ranxianglei/billion-context"
+    },
+    {
+        "description": "Give your agent CAD superpowers.",
+        "language": "Python",
+        "name": "earthtojake/text-to-cad",
+        "stars": "20753",
+        "url": "https://github.com/earthtojake/text-to-cad"
+    },
+    {
+        "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+        "language": "N/A",
+        "name": "twostraws/SwiftUI-Agent-Skill",
+        "stars": "6111",
+        "url": "https://github.com/twostraws/SwiftUI-Agent-Skill"
+    },
+    {
+        "description": "Self-hosted gym & body-weight tracker \u2014 plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+        "language": "JavaScript",
+        "name": "DuarteSantos8/openGym",
+        "stars": "12426",
+        "url": "https://github.com/DuarteSantos8/openGym"
+    },
+    {
+        "description": "Cursor plugin specification and official plugins",
+        "language": "TypeScript",
+        "name": "cursor/plugins",
+        "stars": "11674",
+        "url": "https://github.com/cursor/plugins"
+    }
+]
