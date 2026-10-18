@@ -1,0 +1,72 @@
+[
+    {
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "language": "TypeScript",
+        "name": "morluto/rea",
+        "stars": "309299",
+        "url": "https://github.com/morluto/rea"
+    },
+    {
+        "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+        "language": "Rust",
+        "name": "storytold/artcraft",
+        "stars": "31877",
+        "url": "https://github.com/storytold/artcraft"
+    },
+    {
+        "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+        "language": "C++",
+        "name": "boykopovar/AnyPS5",
+        "stars": "41909",
+        "url": "https://github.com/boykopovar/AnyPS5"
+    },
+    {
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "name": "cathrynlavery/diagram-design",
+        "stars": "57095",
+        "url": "https://github.com/cathrynlavery/diagram-design"
+    },
+    {
+        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "language": "Python",
+        "name": "anthropics/claude-plugins-official",
+        "stars": "41883",
+        "url": "https://github.com/anthropics/claude-plugins-official"
+    },
+    {
+        "description": "Write HTML. Render video. Built for agents.",
+        "language": "TypeScript",
+        "name": "heygen-com/hyperframes",
+        "stars": "66063",
+        "url": "https://github.com/heygen-com/hyperframes"
+    },
+    {
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+        "language": "TypeScript",
+        "name": "mksglu/context-mode",
+        "stars": "30541",
+        "url": "https://github.com/mksglu/context-mode"
+    },
+    {
+        "description": "Ghidra is a software reverse engineering (SRE) framework",
+        "language": "Java",
+        "name": "NationalSecurityAgency/ghidra",
+        "stars": "90342",
+        "url": "https://github.com/NationalSecurityAgency/ghidra"
+    },
+    {
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "name": "mattpocock/skills",
+        "stars": "295216",
+        "url": "https://github.com/mattpocock/skills"
+    },
+    {
+        "description": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).\u4e0a\u4e0b\u6587\u538b\u7f29\u63d2\u4ef6\uff0c\u517c\u987e\u5c0f\u7a97\u53e3(100k\u4e0a\u4e0b\u6587\u8db3\u77e3)\u7701token(\u77015\u500dtoken)\u548c\u8d85\u957f\u4f1a\u8bdd(\u6570\u6708\u7ea7\u522b\u51e0\u5341\u4ebftoken\u5355\u4f1a\u8bdd)\u3002billion-context is all you need",
+        "language": "TypeScript",
+        "name": "ranxianglei/billion-context",
+        "stars": "1749",
+        "url": "https://github.com/ranxianglei/billion-context"
+    }
+]

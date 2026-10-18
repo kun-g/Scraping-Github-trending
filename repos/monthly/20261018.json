@@ -1,0 +1,149 @@
+[
+    {
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "language": "JavaScript",
+        "name": "cloudflare/security-audit-skill",
+        "stars": "30758",
+        "url": "https://github.com/cloudflare/security-audit-skill"
+    },
+    {
+        "description": "The open-source app everyone uses to manage agents at work",
+        "language": "TypeScript",
+        "name": "paperclipai/paperclip",
+        "stars": "103699",
+        "url": "https://github.com/paperclipai/paperclip"
+    },
+    {
+        "description": "",
+        "language": "Python",
+        "name": "anthropics/financial-services",
+        "stars": "40204",
+        "url": "https://github.com/anthropics/financial-services"
+    },
+    {
+        "description": "Write HTML. Render video. Built for agents.",
+        "language": "TypeScript",
+        "name": "heygen-com/hyperframes",
+        "stars": "66063",
+        "url": "https://github.com/heygen-com/hyperframes"
+    },
+    {
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "language": "Python",
+        "name": "debpalash/VoiceStudio",
+        "stars": "73590",
+        "url": "https://github.com/debpalash/VoiceStudio"
+    },
+    {
+        "description": "Hindsight: Agent Memory That Learns",
+        "language": "Python",
+        "name": "vectorize-io/hindsight",
+        "stars": "50910",
+        "url": "https://github.com/vectorize-io/hindsight"
+    },
+    {
+        "description": "Agent Substrate: the core system",
+        "language": "Go",
+        "name": "agent-substrate/substrate",
+        "stars": "5428",
+        "url": "https://github.com/agent-substrate/substrate"
+    },
+    {
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "name": "affaan-m/ECC",
+        "stars": "282607",
+        "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+        "language": "TypeScript",
+        "name": "mksglu/context-mode",
+        "stars": "30541",
+        "url": "https://github.com/mksglu/context-mode"
+    },
+    {
+        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "language": "Python",
+        "name": "anthropics/knowledge-work-plugins",
+        "stars": "30022",
+        "url": "https://github.com/anthropics/knowledge-work-plugins"
+    },
+    {
+        "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+        "language": "Rust",
+        "name": "NVIDIA/OpenShell",
+        "stars": "16551",
+        "url": "https://github.com/NVIDIA/OpenShell"
+    },
+    {
+        "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+        "language": "TypeScript",
+        "name": "tashfeenahmed/freellmapi",
+        "stars": "36677",
+        "url": "https://github.com/tashfeenahmed/freellmapi"
+    },
+    {
+        "description": "Ghidra is a software reverse engineering (SRE) framework",
+        "language": "Java",
+        "name": "NationalSecurityAgency/ghidra",
+        "stars": "90342",
+        "url": "https://github.com/NationalSecurityAgency/ghidra"
+    },
+    {
+        "description": "A smarter, self-hosted AI assistant \u2014 multi-user, multi-agent.",
+        "language": "Python",
+        "name": "TencentCloud/Octop",
+        "stars": "9792",
+        "url": "https://github.com/TencentCloud/Octop"
+    },
+    {
+        "description": "Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.",
+        "language": "Rust",
+        "name": "trycua/cua",
+        "stars": "30046",
+        "url": "https://github.com/trycua/cua"
+    },
+    {
+        "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
+        "language": "Python",
+        "name": "rohitg00/ai-engineering-from-scratch",
+        "stars": "70713",
+        "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+    },
+    {
+        "description": "Cursor plugin specification and official plugins",
+        "language": "TypeScript",
+        "name": "cursor/plugins",
+        "stars": "12376",
+        "url": "https://github.com/cursor/plugins"
+    },
+    {
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "language": "JavaScript",
+        "name": "addyosmani/agent-skills",
+        "stars": "107884",
+        "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+        "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
+        "language": "Rust",
+        "name": "longbridge/gpui-kit",
+        "stars": "17988",
+        "url": "https://github.com/longbridge/gpui-kit"
+    },
+    {
+        "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+        "language": "Go",
+        "name": "Tencent/WeKnora",
+        "stars": "34535",
+        "url": "https://github.com/Tencent/WeKnora"
+    },
+    {
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "language": "TypeScript",
+        "name": "anthropics/claude-code",
+        "stars": "151838",
+        "url": "https://github.com/anthropics/claude-code"
+    }
+]
