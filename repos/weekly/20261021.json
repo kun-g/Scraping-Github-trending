@@ -1,0 +1,107 @@
+[
+    {
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "language": "TypeScript",
+        "name": "morluto/rea",
+        "stars": "349469",
+        "url": "https://github.com/morluto/rea"
+    },
+    {
+        "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+        "language": "Python",
+        "name": "MadsLorentzen/ai-job-search",
+        "stars": "61026",
+        "url": "https://github.com/MadsLorentzen/ai-job-search"
+    },
+    {
+        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "language": "Python",
+        "name": "anthropics/claude-plugins-official",
+        "stars": "43436",
+        "url": "https://github.com/anthropics/claude-plugins-official"
+    },
+    {
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+        "language": "TypeScript",
+        "name": "mksglu/context-mode",
+        "stars": "31402",
+        "url": "https://github.com/mksglu/context-mode"
+    },
+    {
+        "description": "Ghidra is a software reverse engineering (SRE) framework",
+        "language": "Java",
+        "name": "NationalSecurityAgency/ghidra",
+        "stars": "92219",
+        "url": "https://github.com/NationalSecurityAgency/ghidra"
+    },
+    {
+        "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+        "language": "Python",
+        "name": "K-Dense-AI/scientific-agent-skills",
+        "stars": "53317",
+        "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+    },
+    {
+        "description": "Write HTML. Render video. Built for agents.",
+        "language": "TypeScript",
+        "name": "heygen-com/hyperframes",
+        "stars": "68597",
+        "url": "https://github.com/heygen-com/hyperframes"
+    },
+    {
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "language": "Python",
+        "name": "debpalash/VoiceStudio",
+        "stars": "79182",
+        "url": "https://github.com/debpalash/VoiceStudio"
+    },
+    {
+        "description": "\ud83c\udf0a The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+        "language": "TypeScript",
+        "name": "ruvnet/ruflo",
+        "stars": "77921",
+        "url": "https://github.com/ruvnet/ruflo"
+    },
+    {
+        "description": "",
+        "language": "Kotlin",
+        "name": "android/skills",
+        "stars": "9073",
+        "url": "https://github.com/android/skills"
+    },
+    {
+        "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+        "language": "C++",
+        "name": "boykopovar/AnyPS5",
+        "stars": "45640",
+        "url": "https://github.com/boykopovar/AnyPS5"
+    },
+    {
+        "description": "Cursor plugin specification and official plugins",
+        "language": "TypeScript",
+        "name": "cursor/plugins",
+        "stars": "13270",
+        "url": "https://github.com/cursor/plugins"
+    },
+    {
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "name": "cathrynlavery/diagram-design",
+        "stars": "59078",
+        "url": "https://github.com/cathrynlavery/diagram-design"
+    },
+    {
+        "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+        "language": "Rust",
+        "name": "storytold/artcraft",
+        "stars": "34614",
+        "url": "https://github.com/storytold/artcraft"
+    },
+    {
+        "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
+        "language": "Python",
+        "name": "wshobson/agents",
+        "stars": "41307",
+        "url": "https://github.com/wshobson/agents"
+    }
+]
