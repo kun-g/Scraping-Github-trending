@@ -1,0 +1,79 @@
+[
+    {
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "language": "JavaScript",
+        "name": "cloudflare/security-audit-skill",
+        "stars": "36896",
+        "url": "https://github.com/cloudflare/security-audit-skill"
+    },
+    {
+        "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+        "language": "Python",
+        "name": "vllm-project/vllm",
+        "stars": "94946",
+        "url": "https://github.com/vllm-project/vllm"
+    },
+    {
+        "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+        "language": "TypeScript",
+        "name": "stablyai/orca",
+        "stars": "101559",
+        "url": "https://github.com/stablyai/orca"
+    },
+    {
+        "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+        "language": "Python",
+        "name": "headroomlabs-ai/headroom",
+        "stars": "77326",
+        "url": "https://github.com/headroomlabs-ai/headroom"
+    },
+    {
+        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "language": "JavaScript",
+        "name": "DietrichGebert/ponytail",
+        "stars": "171913",
+        "url": "https://github.com/DietrichGebert/ponytail"
+    },
+    {
+        "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+        "language": "Python",
+        "name": "Comfy-Org/ComfyUI",
+        "stars": "141624",
+        "url": "https://github.com/Comfy-Org/ComfyUI"
+    },
+    {
+        "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+        "language": "TypeScript",
+        "name": "supabase/supabase",
+        "stars": "113099",
+        "url": "https://github.com/supabase/supabase"
+    },
+    {
+        "description": "The open alternative to Salesforce, designed for AI.",
+        "language": "TypeScript",
+        "name": "twentyhq/twenty",
+        "stars": "59265",
+        "url": "https://github.com/twentyhq/twenty"
+    },
+    {
+        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+        "language": "Python",
+        "name": "shiyu-coder/Kronos",
+        "stars": "42899",
+        "url": "https://github.com/shiyu-coder/Kronos"
+    },
+    {
+        "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+        "language": "Rust",
+        "name": "akitaonrails/ai-memory",
+        "stars": "12429",
+        "url": "https://github.com/akitaonrails/ai-memory"
+    },
+    {
+        "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+        "language": "Python",
+        "name": "Graphify-Labs/graphify",
+        "stars": "131825",
+        "url": "https://github.com/Graphify-Labs/graphify"
+    }
+]
