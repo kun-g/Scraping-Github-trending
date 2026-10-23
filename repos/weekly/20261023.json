@@ -1,0 +1,107 @@
+[
+    {
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "language": "TypeScript",
+        "name": "morluto/rea",
+        "stars": "367265",
+        "url": "https://github.com/morluto/rea"
+    },
+    {
+        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "language": "Python",
+        "name": "anthropics/claude-plugins-official",
+        "stars": "43932",
+        "url": "https://github.com/anthropics/claude-plugins-official"
+    },
+    {
+        "description": "\ud83c\udf0a The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+        "language": "TypeScript",
+        "name": "ruvnet/ruflo",
+        "stars": "78523",
+        "url": "https://github.com/ruvnet/ruflo"
+    },
+    {
+        "description": "",
+        "language": "Kotlin",
+        "name": "android/skills",
+        "stars": "9270",
+        "url": "https://github.com/android/skills"
+    },
+    {
+        "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+        "language": "Python",
+        "name": "K-Dense-AI/scientific-agent-skills",
+        "stars": "53942",
+        "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+    },
+    {
+        "description": "The open source coding agent.",
+        "language": "TypeScript",
+        "name": "anomalyco/opencode",
+        "stars": "220264",
+        "url": "https://github.com/anomalyco/opencode"
+    },
+    {
+        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+        "language": "Python",
+        "name": "HKUDS/CLI-Anything",
+        "stars": "56295",
+        "url": "https://github.com/HKUDS/CLI-Anything"
+    },
+    {
+        "description": "Cursor plugin specification and official plugins",
+        "language": "TypeScript",
+        "name": "cursor/plugins",
+        "stars": "13640",
+        "url": "https://github.com/cursor/plugins"
+    },
+    {
+        "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+        "language": "Rust",
+        "name": "akitaonrails/ai-memory",
+        "stars": "12820",
+        "url": "https://github.com/akitaonrails/ai-memory"
+    },
+    {
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "language": "Python",
+        "name": "debpalash/VoiceStudio",
+        "stars": "81939",
+        "url": "https://github.com/debpalash/VoiceStudio"
+    },
+    {
+        "description": "Write HTML. Render video. Built for agents.",
+        "language": "TypeScript",
+        "name": "heygen-com/hyperframes",
+        "stars": "70113",
+        "url": "https://github.com/heygen-com/hyperframes"
+    },
+    {
+        "description": "Ghidra is a software reverse engineering (SRE) framework",
+        "language": "Java",
+        "name": "NationalSecurityAgency/ghidra",
+        "stars": "93233",
+        "url": "https://github.com/NationalSecurityAgency/ghidra"
+    },
+    {
+        "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+        "language": "TypeScript",
+        "name": "stablyai/orca",
+        "stars": "102946",
+        "url": "https://github.com/stablyai/orca"
+    },
+    {
+        "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+        "language": "Python",
+        "name": "Comfy-Org/ComfyUI",
+        "stars": "142062",
+        "url": "https://github.com/Comfy-Org/ComfyUI"
+    },
+    {
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+        "language": "TypeScript",
+        "name": "mksglu/context-mode",
+        "stars": "31854",
+        "url": "https://github.com/mksglu/context-mode"
+    }
+]
