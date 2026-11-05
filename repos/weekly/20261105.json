@@ -1,0 +1,100 @@
+[
+    {
+        "description": "Persistent Context Across Sessions for Every Agent \u2013 Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+        "language": "TypeScript",
+        "name": "thedotmack/claude-mem",
+        "stars": "113040",
+        "url": "https://github.com/thedotmack/claude-mem"
+    },
+    {
+        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "language": "CSS",
+        "name": "Nutlope/hallmark",
+        "stars": "48126",
+        "url": "https://github.com/Nutlope/hallmark"
+    },
+    {
+        "description": "",
+        "language": "TypeScript",
+        "name": "pingdotgg/t3code",
+        "stars": "46911",
+        "url": "https://github.com/pingdotgg/t3code"
+    },
+    {
+        "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+        "language": "Rust",
+        "name": "pbakaus/impeccable",
+        "stars": "103067",
+        "url": "https://github.com/pbakaus/impeccable"
+    },
+    {
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "name": "obra/superpowers",
+        "stars": "312560",
+        "url": "https://github.com/obra/superpowers"
+    },
+    {
+        "description": "Public repository for Agent Skills",
+        "language": "Python",
+        "name": "anthropics/skills",
+        "stars": "187495",
+        "url": "https://github.com/anthropics/skills"
+    },
+    {
+        "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+        "language": "Rust",
+        "name": "max-sixty/worktrunk",
+        "stars": "11162",
+        "url": "https://github.com/max-sixty/worktrunk"
+    },
+    {
+        "description": "A collection of agent skills that help you build great interfaces.",
+        "language": "Markdown",
+        "name": "jakubkrehel/skills",
+        "stars": "10858",
+        "url": "https://github.com/jakubkrehel/skills"
+    },
+    {
+        "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work \u2014 The Vibe You Need",
+        "language": "TypeScript",
+        "name": "JetBrains/thinkrail",
+        "stars": "7654",
+        "url": "https://github.com/JetBrains/thinkrail"
+    },
+    {
+        "description": "\ud83d\udc7b Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
+        "language": "Zig",
+        "name": "ghostty-org/ghostty",
+        "stars": "63578",
+        "url": "https://github.com/ghostty-org/ghostty"
+    },
+    {
+        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "language": "N/A",
+        "name": "multica-ai/andrej-karpathy-skills",
+        "stars": "229575",
+        "url": "https://github.com/multica-ai/andrej-karpathy-skills"
+    },
+    {
+        "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+        "language": "C++",
+        "name": "hyprwm/Hyprland",
+        "stars": "40314",
+        "url": "https://github.com/hyprwm/Hyprland"
+    },
+    {
+        "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+        "language": "Python",
+        "name": "AgriciDaniel/claude-seo",
+        "stars": "26731",
+        "url": "https://github.com/AgriciDaniel/claude-seo"
+    },
+    {
+        "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+        "language": "Python",
+        "name": "calesthio/OpenMontage",
+        "stars": "76681",
+        "url": "https://github.com/calesthio/OpenMontage"
+    }
+]
