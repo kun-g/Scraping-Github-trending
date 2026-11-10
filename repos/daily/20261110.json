@@ -1,0 +1,79 @@
+[
+    {
+        "description": "Public repository for Agent Skills",
+        "language": "Python",
+        "name": "anthropics/skills",
+        "stars": "191364",
+        "url": "https://github.com/anthropics/skills"
+    },
+    {
+        "description": "An open source design system that's fully customizable and agent ready",
+        "language": "TypeScript",
+        "name": "meta/astryx",
+        "stars": "20792",
+        "url": "https://github.com/meta/astryx"
+    },
+    {
+        "description": "Hunt down social media accounts by username across social networks",
+        "language": "Python",
+        "name": "sherlock-project/sherlock",
+        "stars": "107685",
+        "url": "https://github.com/sherlock-project/sherlock"
+    },
+    {
+        "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+        "language": "C++",
+        "name": "google-deepmind/mujoco",
+        "stars": "17045",
+        "url": "https://github.com/google-deepmind/mujoco"
+    },
+    {
+        "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+        "language": "Python",
+        "name": "anthropics/claude-quickstarts",
+        "stars": "20149",
+        "url": "https://github.com/anthropics/claude-quickstarts"
+    },
+    {
+        "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+        "language": "TypeScript",
+        "name": "garrytan/gbrain",
+        "stars": "32294",
+        "url": "https://github.com/garrytan/gbrain"
+    },
+    {
+        "description": "Browser automation CLI for AI agents",
+        "language": "Rust",
+        "name": "vercel-labs/agent-browser",
+        "stars": "48695",
+        "url": "https://github.com/vercel-labs/agent-browser"
+    },
+    {
+        "description": "\u03c0 RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.",
+        "language": "Rust",
+        "name": "ruvnet/RuView",
+        "stars": "103645",
+        "url": "https://github.com/ruvnet/RuView"
+    },
+    {
+        "description": "LLM \u9a71\u52a8\u7684\u591a\u5e02\u573a\u80a1\u7968\u667a\u80fd\u5206\u6790\u7cfb\u7edf\uff1a\u591a\u6e90\u884c\u60c5\u3001\u5b9e\u65f6\u65b0\u95fb\u3001\u51b3\u7b56\u770b\u677f\u4e0e\u81ea\u52a8\u63a8\u9001\uff0c\u652f\u6301\u96f6\u6210\u672c\u5b9a\u65f6\u8fd0\u884c\u3002 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+        "language": "Python",
+        "name": "ZhuLinsen/daily_stock_analysis",
+        "stars": "69196",
+        "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+    },
+    {
+        "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+        "language": "Python",
+        "name": "homeassistant-ai/ha-mcp",
+        "stars": "6150",
+        "url": "https://github.com/homeassistant-ai/ha-mcp"
+    },
+    {
+        "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+        "language": "TypeScript",
+        "name": "milind-soni/OpenMausBot",
+        "stars": "20056",
+        "url": "https://github.com/milind-soni/OpenMausBot"
+    }
+]
