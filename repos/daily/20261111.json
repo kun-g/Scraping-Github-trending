@@ -1,0 +1,86 @@
+[
+    {
+        "description": "An open source design system that's fully customizable and agent ready",
+        "language": "TypeScript",
+        "name": "meta/astryx",
+        "stars": "23413",
+        "url": "https://github.com/meta/astryx"
+    },
+    {
+        "description": "Public repository for Agent Skills",
+        "language": "Python",
+        "name": "anthropics/skills",
+        "stars": "192534",
+        "url": "https://github.com/anthropics/skills"
+    },
+    {
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "language": "JavaScript",
+        "name": "addyosmani/agent-skills",
+        "stars": "115303",
+        "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+        "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+        "language": "Python",
+        "name": "anthropics/claude-quickstarts",
+        "stars": "20593",
+        "url": "https://github.com/anthropics/claude-quickstarts"
+    },
+    {
+        "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+        "language": "C++",
+        "name": "google-deepmind/mujoco",
+        "stars": "17455",
+        "url": "https://github.com/google-deepmind/mujoco"
+    },
+    {
+        "description": "The personal finance app for everyone (by everyone)",
+        "language": "Ruby",
+        "name": "we-promise/sure",
+        "stars": "12165",
+        "url": "https://github.com/we-promise/sure"
+    },
+    {
+        "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+        "language": "Python",
+        "name": "homeassistant-ai/ha-mcp",
+        "stars": "6790",
+        "url": "https://github.com/homeassistant-ai/ha-mcp"
+    },
+    {
+        "description": "Browser automation CLI for AI agents",
+        "language": "Rust",
+        "name": "vercel-labs/agent-browser",
+        "stars": "49380",
+        "url": "https://github.com/vercel-labs/agent-browser"
+    },
+    {
+        "description": "Hunt down social media accounts by username across social networks",
+        "language": "Python",
+        "name": "sherlock-project/sherlock",
+        "stars": "109291",
+        "url": "https://github.com/sherlock-project/sherlock"
+    },
+    {
+        "description": "A batteries-included framework for building web apps",
+        "language": "Rust",
+        "name": "tokio-rs/topcoat",
+        "stars": "6919",
+        "url": "https://github.com/tokio-rs/topcoat"
+    },
+    {
+        "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .\u4e0a\u4e0b\u6587\u538b\u7f29\u63d2\u4ef6\uff0c\u6708\u7ea7\u957f\u4f1a\u8bdd\u4f1a\u8bdd\uff0c \u517c\u987e\u5c0f\u7a97\u53e3(100k\u4e0a\u4e0b\u6587\u8db3\u77e3)\u7701token(\u77015\u500dtoken) . billion-context is all you need",
+        "language": "TypeScript",
+        "name": "ranxianglei/billion-context",
+        "stars": "6463",
+        "url": "https://github.com/ranxianglei/billion-context"
+    },
+    {
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "name": "mattpocock/skills",
+        "stars": "321134",
+        "url": "https://github.com/mattpocock/skills"
+    }
+]
