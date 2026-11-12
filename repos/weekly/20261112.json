@@ -1,0 +1,93 @@
+[
+    {
+        "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+        "language": "Python",
+        "name": "NVIDIA/auto-ontology",
+        "stars": "11966",
+        "url": "https://github.com/NVIDIA/auto-ontology"
+    },
+    {
+        "description": "Public repository for Agent Skills",
+        "language": "Python",
+        "name": "anthropics/skills",
+        "stars": "193285",
+        "url": "https://github.com/anthropics/skills"
+    },
+    {
+        "description": "Computer use CLI for AI agents",
+        "language": "Rust",
+        "name": "vercel-labs/agent-desktop",
+        "stars": "22281",
+        "url": "https://github.com/vercel-labs/agent-desktop"
+    },
+    {
+        "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+        "language": "TypeScript",
+        "name": "milind-soni/OpenMausBot",
+        "stars": "21373",
+        "url": "https://github.com/milind-soni/OpenMausBot"
+    },
+    {
+        "description": "Browser automation CLI for AI agents",
+        "language": "Rust",
+        "name": "vercel-labs/agent-browser",
+        "stars": "50033",
+        "url": "https://github.com/vercel-labs/agent-browser"
+    },
+    {
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "language": "JavaScript",
+        "name": "cloudflare/security-audit-skill",
+        "stars": "70528",
+        "url": "https://github.com/cloudflare/security-audit-skill"
+    },
+    {
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "name": "mattpocock/skills",
+        "stars": "322240",
+        "url": "https://github.com/mattpocock/skills"
+    },
+    {
+        "description": "\ud83d\udd77\ufe0f The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here:https://discord.gg/EMgGbDceNQand follow here for daily tips and tricks:https://x.com/Scrapling_dev",
+        "language": "Python",
+        "name": "D4Vinci/Scrapling",
+        "stars": "101773",
+        "url": "https://github.com/D4Vinci/Scrapling"
+    },
+    {
+        "description": "Code at the speed of thought \u2013 Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+        "language": "Rust",
+        "name": "zed-industries/zed",
+        "stars": "94746",
+        "url": "https://github.com/zed-industries/zed"
+    },
+    {
+        "description": "Turn Claude Code into a full game dev studio \u2014 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+        "language": "Shell",
+        "name": "Donchitos/Claude-Code-Game-Studios",
+        "stars": "38569",
+        "url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
+    },
+    {
+        "description": "Agent Skills for Google products and technologies",
+        "language": "Python",
+        "name": "google/skills",
+        "stars": "23970",
+        "url": "https://github.com/google/skills"
+    },
+    {
+        "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+        "language": "C++",
+        "name": "google-deepmind/mujoco",
+        "stars": "17685",
+        "url": "https://github.com/google-deepmind/mujoco"
+    },
+    {
+        "description": "the runtime your coding agents live on",
+        "language": "Rust",
+        "name": "herdrdev/herdr",
+        "stars": "50412",
+        "url": "https://github.com/herdrdev/herdr"
+    }
+]
