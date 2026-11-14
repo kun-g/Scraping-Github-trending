@@ -1,0 +1,86 @@
+[
+    {
+        "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "language": "Go",
+        "name": "alibaba/open-code-review",
+        "stars": "50795",
+        "url": "https://github.com/alibaba/open-code-review"
+    },
+    {
+        "description": "Keep your coding agent up to date with the latest web best practices",
+        "language": "TypeScript",
+        "name": "GoogleChrome/modern-web-guidance-src",
+        "stars": "5034",
+        "url": "https://github.com/GoogleChrome/modern-web-guidance-src"
+    },
+    {
+        "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security",
+        "language": "TypeScript",
+        "name": "openai/codex-security",
+        "stars": "13235",
+        "url": "https://github.com/openai/codex-security"
+    },
+    {
+        "description": "LLM \u9a71\u52a8\u7684\u591a\u5e02\u573a\u80a1\u7968\u667a\u80fd\u5206\u6790\u7cfb\u7edf\uff1a\u591a\u6e90\u884c\u60c5\u3001\u5b9e\u65f6\u65b0\u95fb\u3001\u51b3\u7b56\u770b\u677f\u4e0e\u81ea\u52a8\u63a8\u9001\uff0c\u652f\u6301\u96f6\u6210\u672c\u5b9a\u65f6\u8fd0\u884c\u3002 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+        "language": "Python",
+        "name": "ZhuLinsen/daily_stock_analysis",
+        "stars": "71808",
+        "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+    },
+    {
+        "description": "The personal finance app for everyone (by everyone)",
+        "language": "Ruby",
+        "name": "we-promise/sure",
+        "stars": "14864",
+        "url": "https://github.com/we-promise/sure"
+    },
+    {
+        "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+        "language": "TypeScript",
+        "name": "backnotprop/plannotator",
+        "stars": "10538",
+        "url": "https://github.com/backnotprop/plannotator"
+    },
+    {
+        "description": "A fancy self-hosted monitoring tool",
+        "language": "JavaScript",
+        "name": "louislam/uptime-kuma",
+        "stars": "93940",
+        "url": "https://github.com/louislam/uptime-kuma"
+    },
+    {
+        "description": "A hive mind communication platform",
+        "language": "Rust",
+        "name": "block/buzz",
+        "stars": "37342",
+        "url": "https://github.com/block/buzz"
+    },
+    {
+        "description": "Claude Code skills for equity investors and traders \u2014 market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+        "language": "Python",
+        "name": "tradermonty/claude-trading-skills",
+        "stars": "4275",
+        "url": "https://github.com/tradermonty/claude-trading-skills"
+    },
+    {
+        "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+        "language": "Go",
+        "name": "tailscale/tailcat",
+        "stars": "9550",
+        "url": "https://github.com/tailscale/tailcat"
+    },
+    {
+        "description": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
+        "language": "C++",
+        "name": "Likely7/Veyra-NRVideo",
+        "stars": "1700",
+        "url": "https://github.com/Likely7/Veyra-NRVideo"
+    },
+    {
+        "description": "Chrome DevTools for coding agents",
+        "language": "TypeScript",
+        "name": "ChromeDevTools/chrome-devtools-mcp",
+        "stars": "55629",
+        "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+    }
+]
