@@ -1,0 +1,107 @@
+[
+    {
+        "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+        "language": "Python",
+        "name": "elementalsouls/Claude-BugHunter",
+        "stars": "9791",
+        "url": "https://github.com/elementalsouls/Claude-BugHunter"
+    },
+    {
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "language": "Python",
+        "name": "mvanhorn/last30days-skill",
+        "stars": "69343",
+        "url": "https://github.com/mvanhorn/last30days-skill"
+    },
+    {
+        "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "language": "Go",
+        "name": "alibaba/open-code-review",
+        "stars": "53923",
+        "url": "https://github.com/alibaba/open-code-review"
+    },
+    {
+        "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+        "language": "Go",
+        "name": "Tencent/LoopForge",
+        "stars": "3487",
+        "url": "https://github.com/Tencent/LoopForge"
+    },
+    {
+        "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+        "language": "TypeScript",
+        "name": "dream-num/univer",
+        "stars": "29351",
+        "url": "https://github.com/dream-num/univer"
+    },
+    {
+        "description": "Modern Docker Management, Designed for Everyone",
+        "language": "Go",
+        "name": "getarcaneapp/arcane",
+        "stars": "9458",
+        "url": "https://github.com/getarcaneapp/arcane"
+    },
+    {
+        "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+        "language": "TypeScript",
+        "name": "google-labs-code/stitch-skills",
+        "stars": "10195",
+        "url": "https://github.com/google-labs-code/stitch-skills"
+    },
+    {
+        "description": "Cursor plugin specification and official plugins",
+        "language": "TypeScript",
+        "name": "cursor/plugins",
+        "stars": "16975",
+        "url": "https://github.com/cursor/plugins"
+    },
+    {
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "name": "obra/superpowers",
+        "stars": "319523",
+        "url": "https://github.com/obra/superpowers"
+    },
+    {
+        "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+        "language": "TypeScript",
+        "name": "ag-ui-protocol/ag-ui",
+        "stars": "20144",
+        "url": "https://github.com/ag-ui-protocol/ag-ui"
+    },
+    {
+        "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+        "language": "TypeScript",
+        "name": "backnotprop/plannotator",
+        "stars": "13171",
+        "url": "https://github.com/backnotprop/plannotator"
+    },
+    {
+        "description": "web development for the rest of us",
+        "language": "JavaScript",
+        "name": "sveltejs/svelte",
+        "stars": "89665",
+        "url": "https://github.com/sveltejs/svelte"
+    },
+    {
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "name": "affaan-m/ECC",
+        "stars": "305776",
+        "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+        "description": "\ud83e\udde0 Train a 64M-parameter LLM from scratch in just 2h!",
+        "language": "Python",
+        "name": "jingyaogong/minimind",
+        "stars": "66213",
+        "url": "https://github.com/jingyaogong/minimind"
+    },
+    {
+        "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+        "language": "Python",
+        "name": "google-research/paper-orchestra",
+        "stars": "3354",
+        "url": "https://github.com/google-research/paper-orchestra"
+    }
+]
