@@ -1,0 +1,107 @@
+[
+    {
+        "description": "Keep your coding agent up to date with the latest web best practices",
+        "language": "TypeScript",
+        "name": "GoogleChrome/modern-web-guidance-src",
+        "stars": "8918",
+        "url": "https://github.com/GoogleChrome/modern-web-guidance-src"
+    },
+    {
+        "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+        "language": "TypeScript",
+        "name": "backnotprop/plannotator",
+        "stars": "13516",
+        "url": "https://github.com/backnotprop/plannotator"
+    },
+    {
+        "description": "An open source design system that's fully customizable and agent ready",
+        "language": "TypeScript",
+        "name": "meta/astryx",
+        "stars": "30673",
+        "url": "https://github.com/meta/astryx"
+    },
+    {
+        "description": "The personal finance app for everyone (by everyone)",
+        "language": "Ruby",
+        "name": "we-promise/sure",
+        "stars": "16552",
+        "url": "https://github.com/we-promise/sure"
+    },
+    {
+        "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "language": "Go",
+        "name": "alibaba/open-code-review",
+        "stars": "54235",
+        "url": "https://github.com/alibaba/open-code-review"
+    },
+    {
+        "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+        "language": "TypeScript",
+        "name": "google-labs-code/stitch-skills",
+        "stars": "10497",
+        "url": "https://github.com/google-labs-code/stitch-skills"
+    },
+    {
+        "description": "Claude Code skills for equity investors and traders \u2014 market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+        "language": "Python",
+        "name": "tradermonty/claude-trading-skills",
+        "stars": "7108",
+        "url": "https://github.com/tradermonty/claude-trading-skills"
+    },
+    {
+        "description": "Chrome DevTools for coding agents",
+        "language": "TypeScript",
+        "name": "ChromeDevTools/chrome-devtools-mcp",
+        "stars": "58251",
+        "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+    },
+    {
+        "description": "Public repository for Agent Skills",
+        "language": "Python",
+        "name": "anthropics/skills",
+        "stars": "197344",
+        "url": "https://github.com/anthropics/skills"
+    },
+    {
+        "description": "LLM \u9a71\u52a8\u7684\u591a\u5e02\u573a\u80a1\u7968\u667a\u80fd\u5206\u6790\u7cfb\u7edf\uff1a\u591a\u6e90\u884c\u60c5\u3001\u5b9e\u65f6\u65b0\u95fb\u3001\u51b3\u7b56\u770b\u677f\u4e0e\u81ea\u52a8\u63a8\u9001\uff0c\u652f\u6301\u96f6\u6210\u672c\u5b9a\u65f6\u8fd0\u884c\u3002 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+        "language": "Python",
+        "name": "ZhuLinsen/daily_stock_analysis",
+        "stars": "73406",
+        "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+    },
+    {
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "language": "Python",
+        "name": "mvanhorn/last30days-skill",
+        "stars": "70253",
+        "url": "https://github.com/mvanhorn/last30days-skill"
+    },
+    {
+        "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+        "language": "TypeScript",
+        "name": "ag-ui-protocol/ag-ui",
+        "stars": "20496",
+        "url": "https://github.com/ag-ui-protocol/ag-ui"
+    },
+    {
+        "description": "Browser automation CLI for AI agents",
+        "language": "Rust",
+        "name": "vercel-labs/agent-browser",
+        "stars": "52708",
+        "url": "https://github.com/vercel-labs/agent-browser"
+    },
+    {
+        "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security",
+        "language": "TypeScript",
+        "name": "openai/codex-security",
+        "stars": "14139",
+        "url": "https://github.com/openai/codex-security"
+    },
+    {
+        "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+        "language": "TypeScript",
+        "name": "dream-num/univer",
+        "stars": "29943",
+        "url": "https://github.com/dream-num/univer"
+    }
+]
